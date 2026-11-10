@@ -5,26 +5,53 @@ import json
 import re
 import shutil
 import zipfile
-from pathlib import Path, PurePosixPath
+from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SLUG = re.compile(r"[a-z0-9][a-z0-9-]{0,63}\Z")
-VERSION = re.compile(r"\d+\.\d+\.\d+\Z")
+VERSION = re.compile(r"(?:0|[1-9][0-9]*)\.(?:0|[1-9][0-9]*)\.(?:0|[1-9][0-9]*)\Z")
 RESERVED = {"con", "prn", "aux", "nul", *(f"com{i}" for i in range(1, 10)), *(f"lpt{i}" for i in range(1, 10))}
 
 
 def safe_path(name):
-    parts = PurePosixPath(name).parts
-    return bool(parts) and not name.startswith("/") and "\\" not in name and all(
-        part not in (".", "..") and not any(c in part for c in ':<>"|?*\0')
+    if not isinstance(name, str):
+        return False
+    parts = name.split("/")
+    return bool(name) and not name.startswith("/") and "\\" not in name and all(
+        part not in ("", ".", "..") and not any(c in part for c in ':<>"|?*%\0')
+        and not any(ord(c) < 32 or 127 <= ord(c) <= 159 for c in part)
         and not part.endswith((".", " ")) and part.split(".")[0].lower() not in RESERVED
         for part in parts
     )
 
 
+def validate_metadata(metadata, wallpaper_id):
+    if not isinstance(metadata, dict):
+        raise ValueError(f"module.json must be an object: {wallpaper_id}")
+    if metadata.get("id") != wallpaper_id:
+        raise ValueError(f"Module ID differs from directory: {wallpaper_id}")
+    if not isinstance(metadata.get("version"), str) or not VERSION.fullmatch(metadata["version"]):
+        raise ValueError(f"Invalid wallpaper version: {wallpaper_id}")
+    if type(metadata.get("schemaVersion", 1)) is not int or metadata.get("schemaVersion", 1) != 1 or metadata.get("type", "web") != "web":
+        raise ValueError("Only schema 1 web wallpapers are supported")
+    for field, limit in (("name", 80), ("subtitle", 80), ("description", 300)):
+        value = metadata.get(field, "")
+        if not isinstance(value, str) or len(value) > limit or (field == "name" and not value.strip()):
+            raise ValueError(f"Invalid {field}: {wallpaper_id}")
+    minimum = metadata.get("minAppVersion", "0.2.0")
+    if not isinstance(minimum, str) or not VERSION.fullmatch(minimum):
+        raise ValueError(f"Invalid minimum app version: {wallpaper_id}")
+    tags = metadata.get("tags", [])
+    if not isinstance(tags, list) or len(tags) > 8 or any(not isinstance(tag, str) or len(tag) > 30 for tag in tags):
+        raise ValueError(f"Invalid wallpaper tags: {wallpaper_id}")
+    order = metadata.get("order", 100)
+    if type(order) is not int or not -(1 << 63) <= order < (1 << 63) or type(metadata.get("enabled", True)) is not bool:
+        raise ValueError(f"Invalid order/enabled field: {wallpaper_id}")
+
+
 def build(previous=None):
     library = json.loads((ROOT / "library.json").read_text(encoding="utf-8"))
-    if library.get("schemaVersion") != 1 or not VERSION.fullmatch(library["version"]):
+    if type(library.get("schemaVersion")) is not int or library.get("schemaVersion") != 1 or not isinstance(library.get("version"), str) or not VERSION.fullmatch(library["version"]):
         raise ValueError("Invalid library version/schema")
     repository = library["repository"]
     if repository != "whoarei/wallpapers":
@@ -41,9 +68,10 @@ def build(previous=None):
         old_file.unlink()
     catalog = {"schemaVersion": 1, "version": library["version"], "wallpapers": []}
     for folder in sorted((ROOT / "wallpapers").iterdir()):
-        if not folder.is_dir() or folder.is_symlink() or not SLUG.fullmatch(folder.name):
+        if not folder.is_dir() or folder.is_symlink() or not SLUG.fullmatch(folder.name) or folder.name.lower() in RESERVED:
             raise ValueError(f"Invalid wallpaper directory: {folder.name}")
         metadata = json.loads((folder / "module.json").read_text(encoding="utf-8"))
+        validate_metadata(metadata, folder.name)
         if not metadata.get("enabled", True):
             continue
         version = metadata["version"]
@@ -66,6 +94,10 @@ def build(previous=None):
                     raise ValueError(f"Unsafe or duplicate package file: {relative}")
                 names.add(relative.casefold())
                 data = source.read_bytes()
+                # Match the repository's LF policy on Windows working trees too;
+                # identical source text must produce identical release ZIPs.
+                if source.suffix.lower() in {".html", ".css", ".js", ".mjs", ".cjs", ".json", ".svg", ".md", ".txt", ".glsl", ".wgsl", ".vert", ".frag"}:
+                    data = data.replace(b"\r\n", b"\n")
                 total += len(data)
                 if total > 512 * 1024 * 1024 or len(names) > 4096:
                     raise ValueError("Wallpaper exceeds package limits")
@@ -82,7 +114,7 @@ def build(previous=None):
                     tags=metadata.get("tags", []), downloadUrl=base + archive_name,
                     sha256=hashlib.sha256(package).hexdigest(), size=len(package),
                     unpackedSize=total)
-        cover = metadata.get("cover", "cover.jpg")
+        cover = metadata.get("cover") or "cover.jpg"
         if safe_path(cover) and (folder / cover).is_file():
             cover_name = f"{folder.name}-{version}-cover{Path(cover).suffix}"
             shutil.copyfile(folder / cover, output / cover_name)
