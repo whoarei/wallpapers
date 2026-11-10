@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "night-train",
+  "type": "web",
+  "name": "雨夜列车",
+  "subtitle": "THE NIGHT TRAIN",
+  "description": "暖色车厢里，雨滴沿着玻璃滑落；窗外的城市、车灯与站台悄悄向后退去。",
+  "version": "1.0.0",
+  "minAppVersion": "0.2.0",
+  "entry": "index.html",
+  "cover": "cover.jpg",
+  "tags": ["雨夜", "列车车窗", "城市灯火"],
+  "order": 70,
+  "enabled": true
+}
