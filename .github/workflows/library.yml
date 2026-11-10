@@ -1,0 +1,75 @@
+name: Wallpaper library
+on:
+  push:
+    branches: [main]
+    tags: ['library-v*']
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
+        with:
+          python-version: '3.12'
+      - name: Test packaging and validate tag
+        run: |
+          python -m unittest discover -s tests -v
+          python -c "import json,os; v=json.load(open('library.json'))['version']; assert os.getenv('GITHUB_REF_TYPE')!='tag' or os.environ['GITHUB_REF_NAME']=='library-v'+v"
+      - name: Build packages and prevent silent version changes
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          if gh release view --json tagName >/dev/null 2>&1; then
+            mkdir previous
+            gh release download --pattern catalog.json --dir previous
+            python scripts/build.py --previous previous/catalog.json
+          else
+            python scripts/build.py
+          fi
+      - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f
+        with:
+          name: wallpaper-packages
+          path: dist/*
+          if-no-files-found: error
+  publish:
+    if: startsWith(github.ref, 'refs/tags/library-v')
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131
+        with:
+          name: wallpaper-packages
+          path: dist
+      - name: Publish verified wallpaper content
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          LIBRARY_TAG: ${{ github.ref_name }}
+        run: |
+          cd dist
+          sha256sum -c SHA256SUMS.txt
+          if gh release view "$LIBRARY_TAG" --json isDraft --jq '.isDraft' > ../draft-state 2>/dev/null; then
+            if [ "$(cat ../draft-state)" = "false" ]; then
+              echo 'Published release already exists; leaving it unchanged.'
+              exit 0
+            fi
+          else
+            gh release create "$LIBRARY_TAG" --verify-tag --draft --title "壁纸库 ${LIBRARY_TAG#library-v}" --notes '壁纸盒子官方壁纸内容。程序通过 catalog.json 检查版本并按需下载，离线使用不受影响。'
+          fi
+          gh release upload "$LIBRARY_TAG" ./* --clobber
+          mkdir ../downloaded
+          gh release download "$LIBRARY_TAG" --dir ../downloaded
+          cd ../downloaded
+          sha256sum -c SHA256SUMS.txt
+          cmp catalog.json ../dist/catalog.json
+          gh release edit "$LIBRARY_TAG" --draft=false --latest
