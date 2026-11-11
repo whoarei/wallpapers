@@ -10,7 +10,7 @@
   <script src="ocean.js" defer></script>
 </head>
 <body>
-  <canvas id="ocean" role="img" aria-label="可以横向漫游的海底长卷：珊瑚花园、海藻森林、幽蓝深海，鱼群、海龟、鳐鱼和水母在其中游动。"></canvas>
+  <canvas id="ocean" role="img" aria-label="互动海底长卷：轻点绽开荧光涟漪，按住再松开释放星海，触碰鱼、海龟、鳐鱼和水母，它们会游开；水母传递微光，拖动探索三片海域。也可按 E 唤起星海。"></canvas>
   <header class="hud identity"><span class="emblem" aria-hidden="true">≈</span><div><h1>蔚蓝漫游</h1><p>O C E A N &nbsp; D R I F T</p></div></header>
   <div class="hud location"><span class="live-dot" aria-hidden="true"></span><span id="location">珊瑚花园</span><span class="location-detail" id="journey">随洋流，慢慢看世界</span></div>
   <nav class="hud atlas" aria-label="海底区域">
@@ -18,13 +18,14 @@
     <div class="atlas-stops"><button data-zone="0" aria-current="location">01 <span>珊瑚花园</span></button><button data-zone="1">02 <span>海藻森林</span></button><button data-zone="2">03 <span>幽蓝深海</span></button></div>
   </nav>
   <nav class="hud controls" aria-label="壁纸控制">
+    <button id="bloom" title="唤起星海（E）"><span aria-hidden="true">✧</span><b>唤起星海</b></button>
     <button id="tour" aria-pressed="true" title="自动巡游（A）"><span aria-hidden="true">↔</span><b id="tour-label">自动巡游</b></button>
     <button id="pause" aria-pressed="false" title="暂停 / 继续（空格）"><span id="pause-icon" aria-hidden="true">Ⅱ</span><b id="pause-label">暂停</b></button>
     <button id="fullscreen" class="icon-button" aria-label="全屏" title="全屏（F）">⛶</button>
     <button id="help" class="icon-button" aria-label="互动说明" aria-expanded="false" title="互动说明（H）">?</button>
   </nav>
-  <p class="hud hint">拖动画面探索 · ← → 漫游 · H 互动说明</p>
-  <aside id="help-panel" hidden aria-labelledby="help-title"><button id="close-help" aria-label="关闭说明">×</button><small>TAKE THE SLOW WAY</small><h2 id="help-title">跟着洋流，去远一点。</h2><p>这片海比屏幕更宽。自动巡游会在每一处停留，再缓缓游向下一片风景。你也可以拖动画面，决定自己的方向。</p><dl><dt>拖动 / ← →</dt><dd>自由探索，停止自动巡游</dd><dt>1 / 2 / 3</dt><dd>前往三片海域</dd><dt>A</dt><dd>开启 / 关闭自动巡游</dd><dt>空格</dt><dd>暂停 / 继续海底时间</dd><dt>S</dt><dd>隐藏 / 显示界面</dd><dt>F</dt><dd>全屏</dd><dt>H / Esc</dt><dd>打开 / 关闭说明</dd></dl><p class="footnote">轻点海水，留下一串气泡。<br>控制栏会自动淡出，移动鼠标即可唤回。</p></aside>
+  <p class="hud hint">轻点泛起微光 · 按住释放星海 · 拖动探索<span class="hint-extra"> · E 唤起星海 · H 互动说明</span></p>
+  <aside id="help-panel" hidden aria-labelledby="help-title"><button id="close-help" aria-label="关闭说明">×</button><small>A LITTLE TOUCH, AN OCEAN OF LIGHT</small><h2 id="help-title">轻轻一碰，整片海回应你。</h2><p>在海水里点一朵光，涟漪轻轻推开鱼儿、摇动海草。等一会儿，好奇的小鱼又会围过来。碰到小鱼、海龟或鳐鱼，它们会转身游开，过一会儿再恢复巡游。深海的水母也会轻轻避让，把微光传给同伴。</p><dl><dt>轻点海水</dt><dd>荧光涟漪与上浮气泡</dd><dt>轻点动物</dt><dd>受惊游开，同伴轻轻避让</dd><dt>按住，再松开</dt><dd>积起光珠，散成掌心星海</dd><dt>E / ✧</dt><dd>在眼前唤起一片星海</dd><dt>拖动 / ← →</dt><dd>自由探索，停止自动巡游</dd><dt>1 / 2 / 3</dt><dd>前往三片海域</dd><dt>A</dt><dd>开启 / 关闭自动巡游</dd><dt>空格</dt><dd>暂停 / 继续海底时间</dd><dt>S</dt><dd>隐藏 / 显示界面</dd><dt>F</dt><dd>全屏</dd><dt>H / Esc</dt><dd>打开 / 关闭说明</dd></dl><p class="footnote">桌面壁纸中轻点空白处即可泛起微光。<br>独立预览还可按住蓄光、拖动探索。<br>一切都会慢慢平静下来，不必做任何事。</p></aside>
   <div id="toast" role="status" aria-live="polite"></div>
 </body>
 </html>
