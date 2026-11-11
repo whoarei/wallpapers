@@ -29,6 +29,10 @@ for (const [t, name] of [[25, 'freestyle'], [42, 'breaststroke'], [59, 'backstro
 }
 assert.equal(J.sample(96).motion, 'climb');
 assert.ok(J.pose(J.sample(59)).head < -1, 'backstroke faces the sky');
+for (let t = 75; t < 78; t += .1) {
+  const arms = J.pose(J.sample(t)).arms;
+  assert.ok((arms[0].hand[1] - arms[0].shoulder[1]) * (arms[1].hand[1] - arms[1].shoulder[1]) >= 0, 'butterfly recovers both arms together');
+}
 assert.equal(J.sample(102).motion, 'stand');
 assert.ok(J.sample(102).y < J.SURFACE - 100, 'the swimmer finishes above the pool deck');
 assert.equal(J.sample(108).fade, 1, 'the camera reset must be fully hidden by the loop transition');

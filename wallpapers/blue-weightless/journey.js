@@ -81,7 +81,7 @@
         hand = point(42 + Math.cos(a) * 78, Math.sin(a) * 78 + offset);
         knee = point(-82, 8 + Math.sin(p * 2) * 7 + offset); foot = point(-143, 8 + Math.sin(p * 2 - .7) * 15 + offset); head = -1.1;
       } else if (motion === 'butterfly') {
-        const a = t * 2.8, sign = far ? -.75 : 1;
+        const a = t * 2.8, sign = far ? .75 : 1;
         elbow = point(42 + Math.cos(a) * 35, Math.sin(a) * 32 * sign + offset);
         hand = point(42 + Math.cos(a - .2) * 77, Math.sin(a - .2) * 54 * sign + offset);
         knee = point(-82, 11 + Math.sin(a - .5) * 11 + offset);
