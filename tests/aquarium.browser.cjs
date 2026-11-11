@@ -46,13 +46,27 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
   await page.screenshot({path:path.join(output,'aquarium-crabs.png')});
 
   const seen=[new Set(),new Set(),new Set()],visits=new Map(),sharkPhases=new Set();
-  let shelterChecked=false,sharkChecked=false,lastVisit=null,peakFrightened=0,peakSpeed=0;
+  let shelterChecked=false,sharkChecked=false,lastVisit=null,peakFrightened=0,peakSpeed=0,localizedWave=false,waveAfterExit=false;
+  const wakePeaks={sharkSpeed:0,pressure:0,fishDrift:0,plantBend:0,fishRoll:0};
   function observeShark(state){
    assert.equal(state.fish+state.returning,30,'Population is conserved across predation and return');
    assert.equal(state.positions.filter(f=>f.type==='angel').length,4,'Only small fish are prey');
    state.positions.forEach(f=>assert.ok(Number.isFinite(f.x)&&Number.isFinite(f.y)&&Number.isFinite(f.vx)&&Number.isFinite(f.vy)));
    peakFrightened=Math.max(peakFrightened,state.frightened);
    peakSpeed=Math.max(peakSpeed,...state.positions.map(f=>Math.hypot(f.vx,f.vy)));
+   wakePeaks.sharkSpeed=Math.max(wakePeaks.sharkSpeed,state.shark?.speed||0);
+   wakePeaks.pressure=Math.max(wakePeaks.pressure,state.water.peak);
+   wakePeaks.fishDrift=Math.max(wakePeaks.fishDrift,state.water.fishDrift);
+   wakePeaks.plantBend=Math.max(wakePeaks.plantBend,state.water.plantBend);
+   wakePeaks.fishRoll=Math.max(wakePeaks.fishRoll,...state.positions.map(f=>Math.abs(f.waterRoll)));
+   assert.ok(state.water.peak<=24&&Number.isFinite(state.water.velocityPeak),'Wave solver stays bounded');
+   assert.ok(state.water.fishDrift<60&&state.water.plantBend<=85);
+   state.plantStates.forEach(p=>assert.ok(Number.isFinite(p.bend)&&Number.isFinite(p.velocity)));
+   if(state.visits===1&&state.shark?.age<1.7){
+    const left=Math.max(...state.plantStates.filter(p=>p.x<400).map(p=>Math.abs(p.bend)));
+    const right=Math.max(...state.plantStates.filter(p=>p.x>1100).map(p=>Math.abs(p.bend)));
+    if(right>2&&left<.1)localizedWave=true;
+   }
    if(state.shark){
     const s=state.shark;sharkPhases.add(s.phase);
     assert.ok(s.goal>=2&&s.goal<=3&&s.caught<=s.goal);
@@ -63,6 +77,7 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
     const visit=visits.get(state.visits);visit.caught=s.caught;lastVisit=visit;
    }else if(lastVisit&&!lastVisit.finished){
     lastVisit.finished=state.time;
+    if(state.water.active&&state.water.plantBend>1&&state.water.fishDrift>.1)waveAfterExit=true;
     assert.equal(lastVisit.caught,lastVisit.goal,'A visit eats only its two or three small fish');
     assert.ok(lastVisit.finished-lastVisit.started<45,'The visitor leaves promptly');
    }
@@ -81,6 +96,7 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
     const still=await page.evaluate(()=>__qaStep(80));
     assert.equal(still.time,frozen.time);assert.deepEqual(still.shark,frozen.shark);assert.deepEqual(still.positions,frozen.positions);
     assert.equal(still.nextSharkIn,frozen.nextSharkIn);assert.equal(still.returning,frozen.returning);
+    assert.deepEqual(still.water,frozen.water);assert.deepEqual(still.plantStates,frozen.plantStates);
     await page.evaluate(()=>document.getElementById('pause').click());
     await page.evaluate(()=>__qaStep(1,75,true));
     await page.screenshot({path:path.join(output,'aquarium-shark.png')});
@@ -108,9 +124,14 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
   });
   assert.ok(seen.some(states=>states.has('walk')));
   assert.ok(sharkChecked&&peakFrightened>15&&peakSpeed>70,'The visit visibly changes a quiet shoal into fleeing fish');
+  assert.ok(wakePeaks.sharkSpeed>550,'A fast chase replaces the previous slow cruise');
+  assert.ok(wakePeaks.pressure>5&&wakePeaks.fishDrift>8&&wakePeaks.plantBend>20&&wakePeaks.fishRoll>.08,'The wake displaces and rolls fish and bends rooted plants');
+  assert.ok(localizedWave,'Plants near the first stroke react before the opposite bank');
+  assert.ok(waveAfterExit,'Water and plants continue moving after the shark leaves');
   assert.deepEqual([...sharkPhases].sort(),['enter','hunt','leave']);
   const calm=await page.evaluate(()=>aquarium.getState());
   assert.equal(calm.shark,null);assert.equal(calm.fish,30);assert.equal(calm.returning,0);assert.equal(calm.frightened,0);assert.ok(calm.tension<.01);
+  assert.equal(calm.water.active,false);assert.ok(calm.water.fishDrift<.01&&calm.water.plantBend<.01,'Residual motion settles fully');
   assert.equal(await page.locator('#fish-count').textContent(),'30');
   // A second complete visit catches regressions that drain the population or
   // forget to restart the timer after the first event.
@@ -138,6 +159,6 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'No horizontal overflow');
   }
   assert.deepEqual(errors,[]);assert.deepEqual(external,[]);
-  console.log(JSON.stringify({passed:true,simulationSeconds:resumed.time,activities:seen.map(s=>[...s]),sharkVisits:[...visits.values()],peakFrightened,peakSpeed,fishRecovered:recovered.fish,partialOcclusion:true,pause:true,activeSharkPause:true,resume:true,controls:true,offline:true,output},null,2));
+  console.log(JSON.stringify({passed:true,simulationSeconds:resumed.time,activities:seen.map(s=>[...s]),sharkVisits:[...visits.values()],peakFrightened,peakSpeed,wakePeaks,localizedWave,waveAfterExit,fishRecovered:recovered.fish,partialOcclusion:true,pause:true,activeSharkPause:true,resume:true,controls:true,offline:true,output},null,2));
  }finally{await browser.close();}
 })().catch(error=>{console.error(error);process.exitCode=1;});
