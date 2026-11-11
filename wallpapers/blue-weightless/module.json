@@ -5,7 +5,7 @@
   "name": "蓝色失重",
   "subtitle": "WEIGHTLESS IN BLUE",
   "description": "在暮色泳池里，随一位短发女孩跃入薄荷色的水光。潜游、自由泳、蛙泳、仰泳与蝶泳，最后带着水珠上岸；小鱼穿过光束，水草在脚边轻轻摆动。可跟随人物或拖动探索超长泳池。",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "minAppVersion": "0.2.0",
   "entry": "index.html",
   "cover": "cover.jpg",

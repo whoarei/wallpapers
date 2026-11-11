@@ -22,7 +22,7 @@ async function route(context, missingAtlas = false) {
     if (u.origin !== new URL(origin).origin) { external.push(u.href); return r.abort(); }
     const name = decodeURIComponent(u.pathname.slice(1)) || 'index.html';
     if (name === 'favicon.ico') return r.fulfill({ status: 204 });
-    if (name.includes('..') || missingAtlas && name.endsWith('swimmer-rig.png')) return r.fulfill({ status: 404, body: '' });
+    if (name.includes('..') || missingAtlas && name.endsWith('heroine-poses.png')) return r.fulfill({ status: 404, body: '' });
     const file = path.join(folder, name);
     if (!fs.existsSync(file)) return r.fulfill({ status: 404, body: '' });
     const contentType = ({ html: 'text/html; charset=utf-8', js: 'text/javascript', css: 'text/css', png: 'image/png', jpg: 'image/jpeg' })[path.extname(name).slice(1)] || 'application/octet-stream';
@@ -42,15 +42,18 @@ function watch(page) {
     const page = await context.newPage(); watch(page);
     await page.goto(origin); await page.waitForFunction(() => blueWeightless.getState().ready); await page.waitForTimeout(1200);
     let s = await state(page); assert.equal(s.characterCount, 1); assert.equal(s.targetFps, 30); assert.equal(s.fishCount, 84); assert.ok(s.plantCount > 30);
+    assert.equal(s.character.mode, 'continuous-mesh'); assert.equal(s.character.error, null);
     const start = s; await page.waitForTimeout(650); s = await state(page);
     assert.ok(s.time > start.time + .4); assert.ok(s.frames - start.frames < 27);
     checks.push('all local assets load with offline networking, exactly one swimmer, bounded 30 FPS playback');
 
     await page.click('#pause'); const frozen = await state(page); const image = hash(await page.locator('canvas').screenshot()); await page.waitForTimeout(220);
     assert.equal((await state(page)).time, frozen.time); assert.equal(hash(await page.locator('canvas').screenshot()), image);
-    for (const [t, title, file] of [[2, '纵身入蓝', 'stand'], [5.6, '纵身入蓝', 'dive'], [10, '水下滑翔', 'glide'], [24, '自由泳', 'freestyle'], [42, '蛙泳', 'breaststroke'], [59, '仰泳', 'backstroke'], [76, '蝶泳', 'butterfly'], [96, '从容归岸', 'climb'], [102, '从容归岸', 'shore']]) {
+    for (const [t, title, file] of [[2, '纵身入蓝', 'stand'], [5.6, '纵身入蓝', 'dive'], [10, '水下滑翔', 'glide'], [24, '自由泳', 'freestyle'], [42, '蛙泳', 'breaststroke'], [59, '仰泳', 'backstroke'], [76, '蝶泳', 'butterfly'], [94, '从容归岸', 'climb'], [96, '从容归岸', 'climb-out'], [102, '从容归岸', 'shore']]) {
       await page.evaluate(t => blueWeightless.seek(t), t);
       assert.equal(await page.locator('#chapter-name').textContent(), title);
+      const character = (await state(page)).character;
+      assert.ok(character.minAreaRatio >= .3499); assert.ok(character.gain > 0); assert.equal(character.error, null);
       await page.screenshot({ path: path.join(output, `${file}.jpg`), type: 'jpeg', quality: 93 });
     }
     await page.evaluate(() => blueWeightless.seek(10));
@@ -58,7 +61,7 @@ function watch(page) {
     await page.click('#pause'); await page.waitForTimeout(350); await page.click('#pause');
     assert.ok((await state(page)).fishReaction > reaction, 'fish react to the submerged swimmer');
     await page.click('#garden'); assert.equal((await state(page)).fishCount, 0); await page.click('#garden'); assert.equal((await state(page)).fishCount, 84);
-    checks.push('pause freezes rendered pixels, all seven chapters render, articulated strokes, climb and shore, fish avoid swimmer, garden toggle');
+    checks.push('pause freezes pixels, seven complete character artworks animate without folded surfaces, fish avoid swimmer, garden toggle');
 
     await page.evaluate(() => blueWeightless.seek(30));
     const cam = (await state(page)).camera;
@@ -109,10 +112,15 @@ function watch(page) {
     const reduced = await browser.newContext({ reducedMotion: 'reduce', offline: true }); await route(reduced);
     const still = await reduced.newPage(); watch(still); await still.goto(origin); await still.waitForFunction(() => blueWeightless.getState().ready);
     assert.equal((await state(still)).paused, true); const at = (await state(still)).time; await still.waitForTimeout(150); assert.equal((await state(still)).time, at); await reduced.close();
+    const fallback = await browser.newContext({ reducedMotion: 'reduce', offline: true }); await route(fallback);
+    await fallback.addInitScript(() => { const native = HTMLCanvasElement.prototype.getContext; HTMLCanvasElement.prototype.getContext = function(type, ...args) { return type === 'webgl' ? null : native.call(this, type, ...args); }; });
+    const lowGpu = await fallback.newPage(); watch(lowGpu); await lowGpu.goto(origin); await lowGpu.waitForFunction(() => blueWeightless.getState().ready);
+    assert.equal((await state(lowGpu)).character.mode, 'artwork'); await lowGpu.evaluate(() => blueWeightless.seek(59)); assert.equal((await state(lowGpu)).character.pose, 'backstroke');
+    await lowGpu.screenshot({ path: path.join(output, 'fallback.jpg'), type: 'jpeg', quality: 90 }); await fallback.close();
     // Asset failures must expose a usable recovery control instead of a blank scene.
     const failed = await browser.newContext({ offline: true }); await route(failed, true);
     const broken = await failed.newPage(); await broken.goto(origin); await broken.locator('#loading button').waitFor(); assert.match(await broken.locator('#loading').textContent(), /重新加载/); await failed.close();
-    checks.push('reduced-motion starts paused, missing assets offer recovery, no external runtime requests');
+    checks.push('reduced-motion starts paused, whole-artwork GPU fallback, missing-asset recovery, no external runtime requests');
     assert.deepEqual(external, []); assert.deepEqual(errors, []);
     fs.writeFileSync(path.join(output, 'result.json'), JSON.stringify({ checks, errors, external }, null, 2));
     console.log(JSON.stringify({ checks, output }, null, 2));

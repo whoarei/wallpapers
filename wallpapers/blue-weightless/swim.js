@@ -6,7 +6,8 @@
   const canvas = $('pool'), ctx = canvas.getContext('2d', { alpha: false });
   const actor = document.createElement('canvas'), ac = actor.getContext('2d');
   const wetActor = document.createElement('canvas'), wc = wetActor.getContext('2d');
-  actor.width = wetActor.width = 600; actor.height = wetActor.height = 500;
+  actor.width = wetActor.width = SwimCharacter.WIDTH; actor.height = wetActor.height = SwimCharacter.HEIGHT;
+  let character;
   let width = 1600, height = 900, viewWidth = 1778, renderScale = .9;
   let time = 0, last = 0, drawAt = 0, frames = 0, camera = 0, targetCamera = 0;
   let paused = matchMedia('(prefers-reduced-motion: reduce)').matches, following = true, garden = true, speed = 1;
@@ -15,17 +16,8 @@
   const ripples = [], fish = [], plants = [], bubbles = [];
   let seed = 28011;
   const random = () => { seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0; return seed / 4294967296; };
-  const pool = new Image(), rig = new Image();
-  pool.src = 'assets/pool.png'; rig.src = 'assets/swimmer-rig.png';
-  // Fixed source joints belong to the generated six-part animation atlas.
-  const sprites = [
-    { rect: [32, 58, 455, 446] },
-    { rect: [522, 100, 490, 382], a: [588, 347], b: [941, 195] },
-    { rect: [1040, 205, 475, 190], a: [1085, 288], b: [1473, 331] },
-    { rect: [20, 700, 484, 155], a: [62, 780], b: [483, 776] },
-    { rect: [526, 648, 490, 225], a: [571, 760], b: [969, 777] },
-    { rect: [1028, 680, 502, 174], a: [1063, 758], b: [1509, 806] }
-  ];
+  const pool = new Image(), poses = new Image(), strokes = new Image(), glide = new Image();
+  pool.src = 'assets/pool.png'; poses.src = 'assets/heroine-poses.png'; strokes.src = 'assets/heroine-strokes.png'; glide.src = 'assets/heroine-glide.png';
   try {
     const prefs = JSON.parse(localStorage.getItem('blue-weightless.v1') || '{}');
     if ([.5, 1, 1.5].includes(prefs.speed)) speed = prefs.speed;
@@ -59,7 +51,7 @@
     if (following) camera = targetCamera = cameraFor(J.sample(time));
     draw();
   }
-  const cameraFor = state => clamp(state.x - viewWidth * .46, 0, WORLD_WIDTH - viewWidth);
+  const cameraFor = state => clamp(state.x - viewWidth * (viewWidth < 750 ? .5 : .46), 0, WORLD_WIDTH - viewWidth);
   function drawBackground() {
     const wide = Math.max(viewWidth, 3000), travel = clamp(camera / Math.max(1, WORLD_WIDTH - viewWidth));
     // Mountains recede slowly while fish, swimmer and plants move through the long pool.
@@ -160,66 +152,19 @@
       ctx.restore();
     }
   }
-  function bone(g, index, a, b, opacity = 1, reflection = 1) {
-    const s = sprites[index], [sx, sy, sw, sh] = s.rect;
-    const sourceAngle = Math.atan2(s.b[1] - s.a[1], s.b[0] - s.a[0]);
-    const size = Math.hypot(b[0] - a[0], b[1] - a[1]) / Math.hypot(s.b[0] - s.a[0], s.b[1] - s.a[1]);
-    g.save(); g.globalAlpha *= opacity; g.translate(a[0], a[1]); g.rotate(Math.atan2(b[1] - a[1], b[0] - a[0])); g.scale(size, size * (index === 1 ? .78 : 1) * reflection); g.rotate(-sourceAngle);
-    g.drawImage(rig, sx, sy, sw, sh, sx - s.a[0], sy - s.a[1], sw, sh); g.restore();
-  }
-  function blendedPose(state) {
-    const current = J.pose(state), start = state.t >= 100 && state.t < 101 ? 100 : stages[state.stage].start;
-    if (state.stage === 0 || state.t - start > 1) return current;
-    const before = J.pose(J.sample(start - .001)), u = smooth(state.t - start);
-    for (const part of ['arms', 'legs']) for (let side = 0; side < 2; side++) for (const joint of Object.keys(current[part][side])) {
-      current[part][side][joint] = current[part][side][joint].map((v, axis) => lerp(before[part][side][joint][axis], v, u));
-    }
-    current.head = lerp(before.head, current.head, u); return current;
-  }
   function drawCharacter(state) {
-    if (!rig.complete || !rig.naturalWidth) return;
-    ac.clearRect(0, 0, 600, 500); ac.save(); ac.translate(300, 250); ac.rotate(state.angle); ac.scale(1.25, 1.25);
-    const p = blendedPose(state);
-    if (state.motion === 'climb') {
-      // Grip the two real rails while ascending, then release onto the deck.
-      const u = state.amount, hold = smooth(u / .15) * (1 - smooth((u - .6) / .25));
-      for (let side = 0; side < 2; side++) {
-        const arm = p.arms[side], wx = (8150 + side * 52 - state.x) / 1.25, wy = (SURFACE - 50 - state.y) / 1.25;
-        const target = [wx * Math.cos(state.angle) + wy * Math.sin(state.angle), -wx * Math.sin(state.angle) + wy * Math.cos(state.angle)];
-        const dx = target[0] - arm.shoulder[0], dy = target[1] - arm.shoulder[1], length = Math.max(8, Math.min(77, Math.hypot(dx, dy)));
-        const direction = Math.atan2(dy, dx), bend = Math.acos(clamp((36 * 36 + length * length - 43 * 43) / (2 * 36 * length), -1, 1));
-        const elbow = [arm.shoulder[0] + Math.cos(direction + bend) * 36, arm.shoulder[1] + Math.sin(direction + bend) * 36];
-        const hand = [arm.shoulder[0] + Math.cos(direction) * length, arm.shoulder[1] + Math.sin(direction) * length];
-        arm.elbow = arm.elbow.map((v, axis) => lerp(v, elbow[axis], hold)); arm.hand = arm.hand.map((v, axis) => lerp(v, hand[axis], hold));
-      }
-    }
-    const limb = (side, opacity) => {
-      const a = p.arms[side], l = p.legs[side];
-      bone(ac, 4, l.hip, l.knee, opacity); bone(ac, 5, l.knee, l.foot, opacity);
-      bone(ac, 2, a.shoulder, a.elbow, opacity); bone(ac, 3, a.elbow, a.hand, opacity);
-      ellipse(ac, a.elbow[0], a.elbow[1], 3.1, 3.1, side ? '#f3b689' : '#d59c7d');
-      ellipse(ac, l.knee[0], l.knee[1], 4.5, 4.5, side ? '#eeb088' : '#d59c7d');
-    };
-    limb(0, .78);
-    const roll = state.stage === 4 ? smooth(state.t - 51) : state.stage === 5 ? 1 - smooth(state.t - 67) : 0;
-    if (roll < 1) bone(ac, 1, p.hip, p.shoulder, 1 - roll);
-    if (roll > 0) bone(ac, 1, p.hip, p.shoulder, roll, -1);
-    limb(1, 1);
-    const head = sprites[0].rect;
-    const drawHead = (angle, reflection, alpha) => {
-      ac.save(); ac.globalAlpha = alpha; ac.translate(p.shoulder[0] + 1, p.shoulder[1] - 10); ac.rotate(angle); ac.scale(.087, .087 * reflection);
-      ac.drawImage(rig, ...head, head[0] - 283, head[1] - 470, head[2], head[3]); ac.restore();
-    };
-    const uprightHead = state.stage === 4 ? J.pose(J.sample(50.999)).head : state.stage === 5 && state.t < 68 ? J.pose(state).head : p.head;
-    if (roll < 1) drawHead(uprightHead, 1, 1 - roll);
-    if (roll > 0) drawHead(-1.1, -1, roll);
-    // Stray hair and warm rim highlights keep the small articulated figure alive.
-    ac.strokeStyle = '#f2d5b17a'; ac.lineWidth = .7; ac.beginPath(); ac.moveTo(40, -25); ac.quadraticCurveTo(25, -31 + Math.sin(time * 2.3) * 2, 13, -21); ac.stroke();
-    ac.restore();
-    wc.clearRect(0, 0, 600, 500); wc.drawImage(actor, 0, 0); wc.globalCompositeOperation = 'source-atop'; wc.fillStyle = '#0b9fb42e'; wc.fillRect(0, 0, 600, 500); wc.globalCompositeOperation = 'source-over';
-    const x = state.x - camera - 300, y = state.y - 250;
-    ctx.save(); ctx.beginPath(); ctx.rect(0, 0, viewWidth, SURFACE); ctx.clip(); ctx.drawImage(actor, x, y); ctx.restore();
-    ctx.save(); ctx.beginPath(); ctx.rect(0, SURFACE, viewWidth, 1000 - SURFACE); ctx.clip(); ctx.globalAlpha = .94; ctx.drawImage(wetActor, x, y); ctx.restore();
+    if (!character) return;
+    const frame = character.draw(state);
+    ac.clearRect(0, 0, actor.width, actor.height); ac.drawImage(frame, 0, 0);
+    wc.clearRect(0, 0, actor.width, actor.height); wc.drawImage(actor, 0, 0);
+    wc.globalCompositeOperation = 'source-atop'; wc.fillStyle = '#1499ae19'; wc.fillRect(0, 0, actor.width, actor.height); wc.globalCompositeOperation = 'source-over';
+    const scale = Math.min(1, viewWidth / 540);
+    const grounded = character.getState().pose === 'stand' && (state.motion === 'stand' || state.t >= 99);
+    const floorAdjustment = grounded ? SURFACE - 30 - state.y - 244 * scale : 0;
+    const w = actor.width * scale, h = actor.height * scale;
+    const x = state.x - camera - w / 2, y = state.y - h / 2 + floorAdjustment;
+    ctx.save(); ctx.beginPath(); ctx.rect(0, 0, viewWidth, SURFACE); ctx.clip(); ctx.drawImage(actor, x, y, w, h); ctx.restore();
+    ctx.save(); ctx.beginPath(); ctx.rect(0, SURFACE, viewWidth, 1000 - SURFACE); ctx.clip(); ctx.globalAlpha = .98; ctx.drawImage(wetActor, x, y, w, h); ctx.restore();
   }
   function drawWater(state) {
     const x = state.x - camera;
@@ -270,8 +215,8 @@
       ctx.strokeStyle = '#e0f8e699'; ctx.lineWidth = 1.5; ctx.beginPath(); ctx.ellipse(x - 5, SURFACE + 8, 100, 5, 0, 0, TAU); ctx.stroke();
     }
     // The dive entry blooms once per loop, expanding and settling naturally.
-    if (state.t > 6.2 && state.t < 9) {
-      const age = (state.t - 6.2) / 2.8, entryX = 835 - camera;
+    if (state.t > 6.45 && state.t < 9.25) {
+      const age = (state.t - 6.45) / 2.8, entryX = 1030 - camera;
       for (let i = 0; i < 48; i++) {
         const a = i * 2.399, strength = .4 + (i % 7) / 10;
         const px = entryX + Math.cos(a) * age * 160 * strength, py = SURFACE - Math.sin(age * Math.PI) * (45 + (i % 9) * 8);
@@ -282,6 +227,16 @@
     if (state.motion === 'climb') for (let i = 0; i < 12; i++) {
       const age = (time * .7 + i / 12) % 1; ellipse(ctx, x + Math.sin(i * 3) * 26, state.y + 40 + age * 125, 1, 2.6, `rgba(246,241,206,${(1 - age) * .7})`);
     }
+  }
+  function drawPoolEnd() {
+    const x = 8220 - camera;
+    if (x > viewWidth) return;
+    const shade = ctx.createLinearGradient(0, SURFACE - 20, 0, 1000);
+    shade.addColorStop(0, '#ddcfb7'); shade.addColorStop(.2, '#84bfbc'); shade.addColorStop(1, '#247f8c');
+    ctx.fillStyle = shade; ctx.fillRect(x, SURFACE - 20, 800, 1000 - SURFACE + 20);
+    ctx.strokeStyle = '#336f822c'; ctx.lineWidth = 1;
+    for (let xx = x; xx < x + 800; xx += 70) { ctx.beginPath(); ctx.moveTo(xx, SURFACE - 20); ctx.lineTo(xx, 1000); ctx.stroke(); }
+    for (let y = SURFACE + 55; y < 1000; y += 70) { ctx.beginPath(); ctx.moveTo(x, y); ctx.lineTo(x + 800, y); ctx.stroke(); }
   }
   function updateUI(state) {
     if (chapter !== state.stage) {
@@ -297,7 +252,7 @@
     const state = J.sample(time);
     ctx.setTransform(renderScale, 0, 0, renderScale, 0, 0);
     drawBackground(); drawDeck(500, true); drawDeck(8220, false); drawLadder(false);
-    drawPlants(state, false); drawFish(); drawCharacter(state); drawWater(state); drawLadder(true); drawPlants(state, true);
+    drawPlants(state, false); drawFish(); drawCharacter(state); drawWater(state); drawPoolEnd(); drawLadder(true); drawPlants(state, true);
     const vignette = ctx.createRadialGradient(viewWidth * .5, 480, 250, viewWidth * .5, 500, Math.max(viewWidth, 1000) * .75);
     vignette.addColorStop(0, '#17485e00'); vignette.addColorStop(1, '#133e641c'); ctx.fillStyle = vignette; ctx.fillRect(0, 0, viewWidth, 1000);
     if (state.fade > 0) { ctx.fillStyle = `rgba(218,239,223,${state.fade})`; ctx.fillRect(0, 0, viewWidth, 1000); }
@@ -393,13 +348,14 @@
   document.addEventListener('pointermove', wake, { passive: true });
   document.addEventListener('focusin', wake); addEventListener('resize', resize);
   window.blueWeightless = Object.freeze({
-    getState: () => ({ time, paused, following, garden, speed, camera, targetCamera, width, height, viewWidth, frames, ready, fishCount: garden ? fish.length : 0, plantCount: garden ? plants.length : 0, fishReaction, rippleCount: ripples.length, totalSplashes, targetFps: 30, characterCount: 1, ...J.sample(time), pose: blendedPose(J.sample(time)) }),
+    getState: () => ({ time, paused, following, garden, speed, camera, targetCamera, width, height, viewWidth, frames, ready, fishCount: garden ? fish.length : 0, plantCount: garden ? plants.length : 0, fishReaction, rippleCount: ripples.length, totalSplashes, targetFps: 30, characterCount: 1, ...J.sample(time), character: character?.getState() }),
     seek,
     setPaused(value) { paused = Boolean(value); syncControls(); },
     setCamera(value) { following = false; camera = targetCamera = clamp(Number(value) || 0, 0, WORLD_WIDTH - viewWidth); syncControls(); draw(); }
   });
   syncControls(); resize();
-  Promise.all([pool.decode(), rig.decode()]).then(() => {
+  Promise.all([pool.decode(), poses.decode(), strokes.decode(), glide.decode()]).then(() => {
+    character = new SwimCharacter.Renderer({ poses, strokes, glide });
     ready = true; updateFish(1, J.sample(time)); $('loading').classList.add('loaded'); draw(); requestAnimationFrame(tick);
   }).catch(() => {
     $('loading').textContent = '画面素材未能加载，请重新打开这张壁纸。';

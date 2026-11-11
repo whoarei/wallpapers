@@ -1,11 +1,15 @@
 蓝色失重 / Weightless in Blue
 
 Original wallpaper made for the Wallpaper Box official library.
-Pool background and character animation atlas were generated specifically for
-this project from the approved original visual concept. Character depicts an
-adult athlete. Animation, camera, water, fish, plants and controls are rendered
-locally using Canvas 2D. No network services, tracking, audio or runtime fonts
-are required. The wallpaper contains exactly one animated swimmer.
+Pool background and complete character pose illustrations were generated
+specifically for this project from the original visual concept. The character
+depicts an adult athlete. Version 1.1.0 replaces the detached-part character
+with seven complete illustrations and a continuous deformation mesh. Faces,
+fingers and toes are rigid detail regions. Animation is intentionally gentle
+to preserve the authored anatomy. A complete-artwork fallback is used when
+WebGL is unavailable. Camera, water, fish, plants and controls use local
+Canvas 2D rendering. No network services, tracking, audio or runtime fonts are
+required. The wallpaper contains exactly one animated swimmer.
 
 Keyboard: Space pause, A follow, G garden, 1–7 chapters, arrows explore,
 R restart, S hide interface, F fullscreen, H help, Escape close / reveal.
