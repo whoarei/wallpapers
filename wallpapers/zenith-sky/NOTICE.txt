@@ -1,0 +1,25 @@
+此刻星空 · 数据来源与精度说明
+
+恒星：d3-celestial data/stars.6.json，5044 颗视星等不大于约 6 等的恒星，J2000.0 赤经、赤纬、视星等与 B−V 色指数。
+星名：d3-celestial data/starnames.cn.json。
+星座线与名称：d3-celestial data/constellations.lines.json、data/constellations.json；89 个绘图区域对应 88 个现代星座（巨蛇座分为两部分）。
+来源：https://github.com/ofrohn/d3-celestial 。取用日期：2026-11-11。
+
+本壁纸自行计算 UTC 儒略日、格林尼治恒星时、J2000 岁差及当地地平坐标。采用以天顶为默认中心的球面立体投影，北上东左；仅显示几何地平线以上的恒星。银河柔光依据银道坐标生成示意光带，不是实拍照片。忽略大气折射、章动、周日光行差及恒星自行；用于观赏与辨认星座，不作为精密测量或导航依据。白天保留星图，不模拟日光、云层或光污染造成的遮蔽。
+
+浏览器定位由用户主动触发，结果只保存在当前壁纸的本地存储中。壁纸自身不会将经纬度发送至网络，也不包含 IP 定位、分析或统计服务。定位服务是否联网由操作系统和浏览器决定。位置以城市中心或手动坐标为准；初次使用的上海为明确标注的示例，不表示自动定位结果。
+
+原始数据项目许可（BSD-3-Clause）：
+
+Copyright (c) 2015, Olaf Frohn
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

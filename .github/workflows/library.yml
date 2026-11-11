@@ -20,6 +20,7 @@ jobs:
       - name: Test packaging and validate tag
         run: |
           python -m unittest discover -s tests -v
+          node tests/zenith-sky.test.cjs
           python -c "import json,os; v=json.load(open('library.json'))['version']; assert os.getenv('GITHUB_REF_TYPE')!='tag' or os.environ['GITHUB_REF_NAME']=='library-v'+v"
       - name: Build packages and prevent silent version changes
         env:

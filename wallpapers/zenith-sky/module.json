@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "zenith-sky",
+  "type": "web",
+  "name": "此刻星空",
+  "subtitle": "THE SKY ABOVE YOU",
+  "description": "以观测位置的天顶为中心，随真实时间展开的星图。5044 颗真实恒星、88 个星座与银河方向，支持选择城市和经纬度、预览拖动缩放与时间加速。桌面自动展示，单击即可选择城市。",
+  "version": "1.0.0",
+  "minAppVersion": "0.2.1",
+  "entry": "index.html",
+  "cover": "cover.jpg",
+  "tags": ["星图", "实时天象", "天顶", "离线"],
+  "order": 90,
+  "enabled": true
+}

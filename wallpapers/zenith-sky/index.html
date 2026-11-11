@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#070d18">
+  <title>此刻星空 · The Sky Above You</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23070d18'/%3E%3Cpath d='m20 6 3 11 11 3-11 3-3 11-3-11-11-3 11-3z' fill='%23d9c49a'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="sky.css">
+  <script src="astro.js" defer></script>
+  <script src="sky-data.js" defer></script>
+  <script src="settings.js" defer></script>
+  <script src="archive.js" defer></script>
+  <script src="sky.js" defer></script>
+</head>
+<body>
+  <canvas id="sky" role="img" aria-label="以当地天顶为中心、随真实时间变化的星图，北上东左，展示地平线以上的真实恒星、星座与银河方向。"></canvas>
+  <header class="hud clock"><div class="eyebrow"><i></i><span id="time-mode">此时 · 此地</span></div><time id="clock">--:--:--</time><div id="date">正在展开星图</div></header>
+  <button id="location-button" class="site-launcher" aria-expanded="false" aria-controls="location-panel" title="选择观测位置"><span class="site-symbol" aria-hidden="true">⌖</span><span><b id="site-name">示例位置 · 上海</b><small id="site-coordinates">31.2304° N / 121.4737° E</small></span><span class="chevron" aria-hidden="true">⌄</span></button>
+  <footer class="hud identity"><div class="eyebrow">THE SKY ABOVE YOU</div><h1>此刻星空<span aria-hidden="true">✧</span></h1><p id="caption">抬头，是此刻真实的星辰。</p></footer>
+  <nav class="hud tools" aria-label="星图控制">
+    <div class="layers"><button id="lines" aria-pressed="true">星座</button><button id="names" aria-pressed="true">名称</button><button id="grid" aria-pressed="false">网格</button></div>
+    <div class="navigation"><button id="zoom-out" aria-label="缩小">−</button><button id="fit" title="显示完整天空">全天</button><button id="zoom-in" aria-label="放大">+</button><span></span><button id="zenith">回到天顶</button></div>
+    <div class="playback"><button id="speed" title="切换实时、60 倍与 600 倍时间">实时</button><button id="pause" aria-pressed="false" title="暂停 / 继续（空格）">Ⅱ</button><button id="help" aria-label="星图说明" aria-expanded="false">?</button></div>
+  </nav>
+  <div class="hud legend"><div id="star-count">真实恒星 · 本地星表</div><div class="magnitudes"><span>视星等</span><i class="mag-one"></i>1<i class="mag-three"></i>3<i class="mag-five"></i>5</div></div>
+  <aside id="location-panel" class="location-panel" hidden aria-labelledby="location-title">
+    <button class="close-panel" id="close-location" aria-label="关闭位置设置">×</button><div class="eyebrow">YOUR PLACE UNDER THE STARS</div><h2 id="location-title">你在哪里仰望？</h2><p class="intro">选择城市，或使用自己的经纬度。位置仅保存在本地。</p>
+    <button id="locate" class="locate-button">⌖ 使用我的位置</button><p id="location-status" role="status" aria-live="polite">尚未设置位置，当前展示上海的示例天空。</p>
+    <div id="city-list" class="city-list" aria-label="选择观测城市"></div>
+    <details id="custom-location"><summary>输入精确位置</summary><form id="coordinates-form"><label>地点名称<input id="place" maxlength="24" placeholder="我的观测点" autocomplete="off"></label><div class="coordinate-fields"><label>纬度<input id="latitude" type="number" min="-90" max="90" step="any" required inputmode="decimal" placeholder="北纬为正"></label><label>经度<input id="longitude" type="number" min="-180" max="180" step="any" required inputmode="decimal" placeholder="东经为正"></label></div><p>南纬、西经请输入负数。</p><button type="submit" class="apply-button">应用位置</button></form></details>
+    <div class="export-area"><button id="export">保存此位置的桌面壁纸</button><p>生成可导入的 ZIP，包含当前的位置与显示设置。<br>在壁纸盒子的「设置 → 导入壁纸」中应用。</p></div>
+  </aside>
+  <aside id="help-panel" class="star-help" hidden aria-labelledby="help-title"><button id="close-help" class="close-panel" aria-label="关闭星图说明">×</button><div class="eyebrow">A SMALL GUIDE TO THE SKY</div><h2 id="help-title">屏幕中央，是你的头顶。</h2><p>默认北方在上、东方在左。由中心向外，逐渐接近地平线；只绘制当地地平线以上的星辰。</p><p>星位依照地点、日期与时间计算。实时星空移动得很慢，可切换 60× 或 600× 观察变化；再次点回「实时」会回到现在。白天也保留星图显示。</p><dl><dt>预览中拖动 / 滚轮</dt><dd>改变方向 / 缩放</dd><dt>回到天顶</dt><dd>恢复正上方的视角</dd><dt>全天</dt><dd>缩小至完整地平线</dd><dt>空格 / T</dt><dd>暂停 / 回到实时</dd><dt>C / N / G</dt><dd>星座线 / 名称 / 网格</dd><dt>F / S / H</dt><dd>全屏 / 隐藏界面 / 说明</dd></dl><p class="help-footnote">桌面模式自动展示，可单击右上角选择城市。精确位置也可在预览中设置，再保存为桌面壁纸。<br>星表来源：Hipparcos / d3-celestial。银河为示意光带，星图用于观赏与辨认星座。</p></aside>
+  <div id="notice" role="status" aria-live="polite"></div>
+</body>
+</html>
