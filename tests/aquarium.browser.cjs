@@ -1,4 +1,5 @@
-// Offline Canvas QA. Optional: PLAYWRIGHT_PATH, BROWSER_PATH, QA_OUTPUT_DIR.
+// Offline Canvas QA. Optional: PLAYWRIGHT_PATH, BROWSER_PATH, QA_OUTPUT_DIR,
+// WALLPAPER_HOST_WRAPPER (the real host's wallpaper-mode.js).
 'use strict';
 const assert=require('node:assert/strict');
 const fs=require('node:fs');
@@ -12,14 +13,20 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
  fs.mkdirSync(output,{recursive:true});
  const browser=await chromium.launch({headless:true,executablePath:process.env.BROWSER_PATH});
  try{
-  const page=await browser.newPage({viewport:{width:1600,height:1000}}),errors=[],external=[];
+  const context=await browser.newContext({viewport:{width:1600,height:1000}});
+  const page=await context.newPage(),errors=[],external=[];
   page.on('pageerror',e=>errors.push(e.message));
-  await page.route('**/*',route=>{external.push(route.request().url());return route.abort();});
   // Inline the exact local assets so the test also runs without a web server.
   const html=fs.readFileSync(path.join(root,'index.html'),'utf8')
    .replace('<link rel="stylesheet" href="./aquarium.css">',`<style>${fs.readFileSync(path.join(root,'aquarium.css'),'utf8')}</style>`)
    .replace('<script src="./aquarium.js" defer></script>','');
-  await page.setContent(html);
+  const origin='http://aquarium.test/';
+  await page.context().route('**/*',route=>{
+   if(route.request().url()===origin)return route.fulfill({contentType:'text/html; charset=utf-8',body:html});
+   if(route.request().url()===origin+'favicon.ico')return route.fulfill({status:204});
+   external.push(route.request().url());return route.abort();
+  });
+  await page.goto(origin,{waitUntil:'domcontentloaded'});
   await page.evaluate(()=>{
    const pending=[];let stamp=1000;
    window.requestAnimationFrame=callback=>{pending.push(callback);return pending.length;};
@@ -38,11 +45,41 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
     window.__qaFast=false;return window.aquarium?.getState();
    };
   });
-  await page.addScriptTag({content:fs.readFileSync(path.join(root,'aquarium.js'),'utf8')});
+  if(process.env.WALLPAPER_HOST_WRAPPER)await page.addScriptTag({content:fs.readFileSync(process.env.WALLPAPER_HOST_WRAPPER,'utf8')});
+  const script=fs.readFileSync(path.join(root,'aquarium.js'),'utf8');
+  await page.addScriptTag({content:script});
   await page.addStyleTag({content:'.hud,.pause-badge,.toast{display:none!important}'});
   const initial=await page.evaluate(()=>aquarium.getState());
   assert.equal(initial.crabs,3);assert.equal(initial.fish,30);
   assert.equal(initial.shark,null);assert.ok(initial.nextSharkIn>=90&&initial.nextSharkIn<=140);
+  assert.equal(initial.sharkSpeedScale,1);
+  async function speedButton(id){
+   if(process.env.WALLPAPER_HOST_WRAPPER){
+    const box=await page.locator('#'+id).boundingBox();assert.ok(box);
+    const delivered=await page.evaluate(({x,y})=>__SCREEN_GARDEN_DESKTOP_CLICK(x/innerWidth,y/innerHeight),{x:box.x+box.width/2,y:box.y+box.height/2});
+    assert.equal(delivered.delivered,true,'Desktop click forwarding reaches the floating button');
+   }else await page.locator('#'+id).click();
+   return page.evaluate(()=>aquarium.getState());
+  }
+  assert.ok(await page.locator('.shark-tools').isVisible(),'The floating control survives the host hiding .hud');
+  assert.equal(await page.locator('#shark-speed').textContent(),'1×');
+  assert.equal((await speedButton('shark-slower')).sharkSpeedScale,.75);
+  assert.equal((await speedButton('shark-faster')).sharkSpeedScale,1);
+  for(let i=0;i<4;i++)await speedButton('shark-faster');
+  assert.equal((await page.evaluate(()=>aquarium.getState())).sharkSpeedScale,2);
+  assert.ok(await page.locator('#shark-faster').isDisabled());
+  for(let i=0;i<6;i++)await speedButton('shark-slower');
+  assert.equal((await page.evaluate(()=>aquarium.getState())).sharkSpeedScale,.5);
+  assert.ok(await page.locator('#shark-slower').isDisabled());
+  for(let i=0;i<3;i++)await speedButton('shark-faster');
+  // A second page on the same wallpaper origin checks a real localStorage read.
+  const reopened=await page.context().newPage();
+  await reopened.addInitScript(()=>{window.requestAnimationFrame=()=>1;});
+  await reopened.goto(origin,{waitUntil:'domcontentloaded'});await reopened.addScriptTag({content:script});
+  assert.equal(await reopened.evaluate(()=>aquarium.getState().sharkSpeedScale),1.25);
+  assert.equal(await reopened.locator('#shark-speed').textContent(),'1.25×');await reopened.close();
+  assert.equal((await speedButton('shark-slower')).sharkSpeedScale,1);
+  assert.equal((await page.evaluate(()=>aquarium.getState())).totalFed,0,'Adjusting shark speed does not feed the fish');
   await page.screenshot({path:path.join(output,'aquarium-crabs.png')});
 
   const seen=[new Set(),new Set(),new Set()],visits=new Map(),sharkPhases=new Set();
@@ -91,6 +128,10 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
     assert.ok(c.x>500&&c.x<1250&&c.y>=910&&c.y<955,'Crab stays on the sand near its shelter');
    });
    if(!sharkChecked&&state.shark?.phase==='hunt'&&state.shark.x>400&&state.shark.x<1250){
+    const faster=await speedButton('shark-faster');
+    assert.ok(Math.abs(faster.shark.speed/state.shark.speed-1.25)<.001,'Speed changes apply to the shark already on screen');
+    const restored=await speedButton('shark-slower');
+    assert.ok(Math.abs(restored.shark.speed-state.shark.speed)<.001);
     await page.evaluate(()=>document.getElementById('pause').click());
     const frozen=await page.evaluate(()=>aquarium.getState());
     const still=await page.evaluate(()=>__qaStep(80));
@@ -154,10 +195,16 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
   await page.evaluate(()=>{document.getElementById('feed').click();document.getElementById('light').click();document.getElementById('flow').click();});
   const controls=await page.evaluate(()=>aquarium.getState());
   assert.equal(controls.totalFed,7);assert.equal(controls.lighting,1);assert.equal(controls.flow,1);
-  for(const [width,height] of [[1600,900],[390,844],[3840,2160]]){
+  for(const [width,height] of [[1600,900],[320,640],[390,844],[780,600],[3840,2160]]){
    await page.setViewportSize({width,height});
    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'No horizontal overflow');
+   const tools=await page.locator('.shark-tools').boundingBox();assert.ok(tools);
+   assert.ok(tools.x>=12&&tools.x+tools.width<=width-12&&tools.y>=0&&tools.y+tools.height<=height-62,'Floating controls stay inside the screen and above the taskbar');
+   if(width===390){await page.evaluate(()=>document.body.classList.remove('idle'));await page.screenshot({path:path.join(output,'aquarium-speed-mobile.png')});}
   }
+  await page.setViewportSize({width:1600,height:1000});
+  await page.evaluate(()=>{document.getElementById('shark-faster').click();__qaStep(1,75,true);document.body.classList.remove('idle');});
+  await page.screenshot({path:path.join(output,'aquarium-speed-desktop.png')});
   assert.deepEqual(errors,[]);assert.deepEqual(external,[]);
   console.log(JSON.stringify({passed:true,simulationSeconds:resumed.time,activities:seen.map(s=>[...s]),sharkVisits:[...visits.values()],peakFrightened,peakSpeed,wakePeaks,localizedWave,waveAfterExit,fishRecovered:recovered.fish,partialOcclusion:true,pause:true,activeSharkPause:true,resume:true,controls:true,offline:true,output},null,2));
  }finally{await browser.close();}

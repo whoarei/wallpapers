@@ -226,6 +226,19 @@ function crabBody(c){
 let eventSeed=713117;
 const eventRnd=(a,b)=>{eventSeed=(Math.imul(eventSeed,1664525)+1013904223)>>>0;return a+(b-a)*eventSeed/4294967296;};
 let shark=null,nextShark=eventRnd(90,140),visits=0,totalCaught=0,totalReturned=0;
+let sharkSpeedScale=1;
+try{const saved=Number(localStorage.getItem('stillwater.sharkSpeed'));if(Number.isFinite(saved)&&saved>=.5&&saved<=2)sharkSpeedScale=Math.round(saved*4)/4;}catch{}
+function showSharkSpeed(){
+ document.getElementById('shark-speed').textContent=`${sharkSpeedScale}×`;
+ document.getElementById('shark-slower').disabled=sharkSpeedScale<=.5;
+ document.getElementById('shark-faster').disabled=sharkSpeedScale>=2;
+}
+function changeSharkSpeed(delta){
+ const previous=sharkSpeedScale;sharkSpeedScale=clamp(Math.round((sharkSpeedScale+delta)*4)/4,.5,2);
+ if(shark&&!paused)shark.speed*=sharkSpeedScale/previous;
+ showSharkSpeed();wake();
+ try{localStorage.setItem('stillwater.sharkSpeed',String(sharkSpeedScale));}catch{}
+}
 const returningFish=[],wakeBubbles=[];
 const populationLabel=()=>{document.getElementById('fish-count').textContent=fish.length;};
 const mouthOf=s=>({x:s.x+Math.cos(s.angle)*98,y:s.y+Math.sin(s.angle)*98});
@@ -235,7 +248,7 @@ function segmentDistance(p,a,b){
 }
 function startShark(){
  const direction=eventRnd(0,1)<.5?1:-1;
- shark={x:direction>0?-220:W+220,y:eventRnd(340,540),angle:direction>0?0:Math.PI,phase:'enter',age:0,huntTime:0,caught:0,goal:Math.floor(eventRnd(2,4)),target:null,bite:0,cooldown:0,trail:0,stroke:0,speed:430,exitDirection:direction};
+ shark={x:direction>0?-220:W+220,y:eventRnd(340,540),angle:direction>0?0:Math.PI,phase:'enter',age:0,huntTime:0,caught:0,goal:Math.floor(eventRnd(2,4)),target:null,bite:0,cooldown:0,trail:0,stroke:0,speed:430*sharkSpeedScale,exitDirection:direction};
  visits++;
 }
 function updateShark(dt){
@@ -267,8 +280,8 @@ function updateShark(dt){
   if(s.target)desired=Math.atan2(s.target.y+s.target.driftY+s.target.vy*.16-s.y,s.target.x+s.target.driftX+s.target.vx*.16-s.x);
  }
  const turn=Math.atan2(Math.sin(desired-s.angle),Math.cos(desired-s.angle)),oldMouth=mouthOf(s);
- s.angle+=clamp(turn,-dt*4.5,dt*4.5);
- const speed=s.phase==='hunt'?(Math.abs(turn)>.65?340:640):s.phase==='enter'?430:480;
+ s.angle+=clamp(turn,-dt*4.5*sharkSpeedScale,dt*4.5*sharkSpeedScale);
+ const speed=(s.phase==='hunt'?(Math.abs(turn)>.65?340:640):s.phase==='enter'?430:480)*sharkSpeedScale;
  s.speed=lerp(s.speed,speed,1-Math.exp(-dt*6));
  s.x+=Math.cos(s.angle)*s.speed*dt;s.y+=Math.sin(s.angle)*s.speed*dt;
  if(s.phase==='hunt'){s.x=clamp(s.x,-30,W+30);s.y=clamp(s.y,190,760);}
@@ -478,11 +491,12 @@ async function fullscreen(){try{if(document.fullscreenElement)await document.exi
 function help(){const panel=document.getElementById('help-panel');panel.hidden=!panel.hidden;document.getElementById('help').setAttribute('aria-expanded',String(!panel.hidden));wake();}
 function clock(){const now=new Date();document.getElementById('time').textContent=now.toLocaleTimeString('zh-CN',{timeZone:'Asia/Shanghai',hour:'2-digit',minute:'2-digit',hour12:false});document.getElementById('date').textContent=now.toLocaleDateString('zh-CN',{timeZone:'Asia/Shanghai',month:'long',day:'numeric',weekday:'short'});}
 document.getElementById('feed').onclick=()=>feed();document.getElementById('light').onclick=switchLight;document.getElementById('flow').onclick=switchFlow;document.getElementById('pause').onclick=pause;document.getElementById('fullscreen').onclick=fullscreen;document.getElementById('help').onclick=help;document.getElementById('close-help').onclick=help;
+document.getElementById('shark-slower').onclick=()=>changeSharkSpeed(-.25);document.getElementById('shark-faster').onclick=()=>changeSharkSpeed(.25);showSharkSpeed();
 canvas.addEventListener('click',event=>{const scale=Math.max(innerWidth/W,innerHeight/H),x=(event.clientX-(innerWidth-W*scale)/2)/scale,y=(event.clientY-(innerHeight-H*scale)/2)/scale;feed(x,y);});
 document.addEventListener('pointermove',wake,{passive:true});document.addEventListener('pointerdown',wake,{passive:true});
 document.addEventListener('keydown',event=>{if(event.ctrlKey||event.altKey||event.metaKey||event.repeat)return;wake();switch(event.key.toLowerCase()){case 'e':feed();break;case 'l':switchLight();break;case 'c':switchFlow();break;case ' ':event.preventDefault();pause();break;case 'f':fullscreen();break;case 'h':help();break;case 's':hidden=!hidden;document.body.classList.toggle('hidden-ui',hidden);break;}});
 document.addEventListener('visibilitychange',()=>{last=0;});
 clock();setInterval(clock,1000);render();requestAnimationFrame(tick);
 // Read-only diagnostics for local browser verification, independent of gallery discovery.
-window.aquarium={sampleWater:waterAt,getState:()=>({time:t,paused,lighting,flow,fish:fish.length,crabs:crabs.length,crabStates:crabs.map(c=>({x:c.x,y:c.y,activity:c.activity,gait:c.gait,gesture:c.gesture})),shark:shark?{x:shark.x,y:shark.y,angle:shark.angle,phase:shark.phase,age:shark.age,caught:shark.caught,goal:shark.goal,bite:shark.bite,speed:shark.speed}:null,nextSharkIn:nextShark,visits,totalCaught,totalReturned,returning:returningFish.length,tension,water:{active:waterActive,peak:waterPeak,velocityPeak:waterSpeedPeak,fishDrift:Math.max(...fish.map(f=>Math.hypot(f.driftX,f.driftY))),plantBend:Math.max(...plants.map(p=>Math.abs(p.sway||0)))},plantStates:plants.map(p=>({x:p.x,y:p.y,bend:p.sway||0,velocity:p.swayVelocity||0})),frightened:fish.filter(f=>f.alarm>.18).length,foods:foods.length,eaten,totalFed,frames,positions:fish.map(f=>({x:f.x,y:f.y,vx:f.vx,vy:f.vy,type:f.type,alarm:f.alarm,entering:f.entering,driftX:f.driftX,driftY:f.driftY,waterRoll:f.waterRoll}))})};
+window.aquarium={sampleWater:waterAt,getState:()=>({time:t,paused,lighting,flow,fish:fish.length,crabs:crabs.length,crabStates:crabs.map(c=>({x:c.x,y:c.y,activity:c.activity,gait:c.gait,gesture:c.gesture})),shark:shark?{x:shark.x,y:shark.y,angle:shark.angle,phase:shark.phase,age:shark.age,caught:shark.caught,goal:shark.goal,bite:shark.bite,speed:shark.speed}:null,nextSharkIn:nextShark,sharkSpeedScale,visits,totalCaught,totalReturned,returning:returningFish.length,tension,water:{active:waterActive,peak:waterPeak,velocityPeak:waterSpeedPeak,fishDrift:Math.max(...fish.map(f=>Math.hypot(f.driftX,f.driftY))),plantBend:Math.max(...plants.map(p=>Math.abs(p.sway||0)))},plantStates:plants.map(p=>({x:p.x,y:p.y,bend:p.sway||0,velocity:p.swayVelocity||0})),frightened:fish.filter(f=>f.alarm>.18).length,foods:foods.length,eaten,totalFed,frames,positions:fish.map(f=>({x:f.x,y:f.y,vx:f.vx,vy:f.vy,type:f.type,alarm:f.alarm,entering:f.entering,driftX:f.driftX,driftY:f.driftY,waterRoll:f.waterRoll}))})};
 })();
