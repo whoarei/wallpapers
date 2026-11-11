@@ -57,7 +57,26 @@ https://github.com/whoarei/wallpapers/releases/latest/download/catalog.json
 3. 运行 `python scripts/build.py` 检查清单与 ZIP。
 4. 提交后推送 `library-vX.Y.Z` 标签，版本须与 `library.json` 一致。
 5. GitHub Actions 生成 ZIP、封面、catalog.json 和 SHA256SUMS.txt，再发布 Release。稳定入口随最新正式 Release 更新。
+6. GitHub Release 发布成功后，自动将同名标签和 Release 附件同步到 [Gitee 壁纸库](https://gitee.com/xishuaiya/wallpapers/releases)。
 
 主分支和 PR 只验证，不自动发布。已有正式 Release 不覆盖。相同壁纸版本不允许改变包内容；程序版本不兼容的条目会提示升级程序。
+
+### 配置 Gitee Release 同步
+
+在 Gitee 的个人设置 → 私人令牌中创建令牌，勾选 `projects` 权限，账号须有 `xishuaiya/wallpapers` 仓库的写权限。在 GitHub 仓库 **Settings → Secrets and variables → Actions → New repository secret** 添加 `GITEE_TOKEN`，值为该令牌；不要把令牌提交到代码中。
+
+`.github/workflows/sync-gitee.yml` 会下载已发布的 GitHub Release 附件并校验 SHA-256，再推送该版本的 Git 标签、创建同名 Gitee Release。同步只推送对应标签，不更新 Gitee 的主分支。ZIP 和封面保持原始内容；Gitee 的 `catalog.json` 中下载和封面地址改为实际的 Gitee 附件地址，`SHA256SUMS.txt` 随之重新生成。上传后会匿名下载每个附件验证 SHA-256。
+
+发布工作流成功后会直接调用同步流程，因为使用 `GITHUB_TOKEN` 发布 Release 不会触发另一个 `release: published` 工作流。同时保留 `release: published` 入口，支持手动在 GitHub 发布的正式版本。
+
+补同步已有版本：打开 GitHub **Actions → Sync release to Gitee → Run workflow**，选择包含同步配置的分支，填写 `library-vX.Y.Z`；留空则取最新正式 Release。同步失败不会撤回 GitHub Release，可以重跑失败任务或手动补同步。已有且校验一致的 Gitee 附件会复用；同名附件内容不一致或已有标签指向不同提交时会报错，不强制覆盖。草稿和预发布版本不参与同步。
+
+Gitee Release 入口：
+
+```text
+https://gitee.com/xishuaiya/wallpapers/releases
+```
+
+程序若要切换到 Gitee 更新源，需要读取 Gitee Release 中 `catalog.json` 附件的实际下载地址；GitHub 的稳定目录入口保持原样。
 
 当前规范仅支持网页壁纸；不允许 ZIP 路径穿越、符号链接或 Windows 保留文件名。壁纸包不携带可调用程序管理命令的权限。
