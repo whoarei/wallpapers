@@ -1,11 +1,14 @@
-"""Mirror verified GitHub Release assets to Gitee; Python standard library only."""
+"""Mirror verified GitHub Release assets to Gitee; Python standard library + curl."""
 import argparse
 import hashlib
 import json
 import os
 import re
-import secrets
+import subprocess
 import tempfile
+import time
+import http.client
+from email.utils import parsedate_to_datetime
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -14,6 +17,41 @@ from pathlib import Path
 REPOSITORY = "xishuaiya/wallpapers"
 API = f"https://gitee.com/api/v5/repos/{REPOSITORY}"
 TAG = re.compile(r"library-v(?:0|[1-9][0-9]*)\.(?:0|[1-9][0-9]*)\.(?:0|[1-9][0-9]*)\Z")
+ATTEMPTS = 3
+
+
+class GiteeError(RuntimeError):
+    def __init__(self, message, *, retryable=False, retry_after=None):
+        super().__init__(message)
+        self.retryable = retryable
+        self.retry_after = retry_after
+
+
+def retry_after(value):
+    if not value:
+        return None
+    try:
+        return max(0, int(value))
+    except ValueError:
+        try:
+            return max(0, parsedate_to_datetime(value).timestamp() - time.time())
+        except (ValueError, TypeError, OverflowError):
+            return None
+
+
+def wait_retry(error, attempt, label):
+    delay = error.retry_after if error.retry_after is not None else 2 ** attempt
+    print(f"{label}: retry {attempt + 1}/{ATTEMPTS} in {delay:g}s ({error})", flush=True)
+    time.sleep(delay)
+
+
+def transport_error(method, error):
+    # Exception URLs can include credentials; retain only safe diagnostic codes.
+    reason = getattr(error, "reason", error)
+    kind = type(reason).__name__
+    code = getattr(reason, "errno", None)
+    suffix = f", errno={code}" if isinstance(code, int) else ""
+    return GiteeError(f"Gitee {method} connection failed ({kind}{suffix})", retryable=True)
 
 
 def digest(path):
@@ -25,11 +63,22 @@ def download_digest(url):
     if urllib.parse.urlsplit(url).scheme != "https":
         raise ValueError("Gitee attachment download URL must use HTTPS")
     # Public attachment downloads need no token, including across CDN redirects.
-    with urllib.request.urlopen(url, timeout=120) as stream:
-        result = hashlib.sha256()
-        while chunk := stream.read(1024 * 1024):
-            result.update(chunk)
-    return result.hexdigest()
+    for attempt in range(1, ATTEMPTS + 1):
+        try:
+            with urllib.request.urlopen(url, timeout=120) as stream:
+                result = hashlib.sha256()
+                while chunk := stream.read(1024 * 1024):
+                    result.update(chunk)
+            return result.hexdigest()
+        except urllib.error.HTTPError as error:
+            failure = GiteeError(f"Gitee public download failed (HTTP {error.code})",
+                                 retryable=error.code in (408, 425, 429, 500, 502, 503, 504),
+                                 retry_after=retry_after(error.headers.get("Retry-After")))
+        except (urllib.error.URLError, TimeoutError, ConnectionError, http.client.HTTPException) as error:
+            failure = transport_error("download", error)
+        if not failure.retryable or attempt == ATTEMPTS:
+            raise failure from None
+        wait_retry(failure, attempt, "Public attachment verification")
 
 
 class Gitee:
@@ -38,37 +87,99 @@ class Gitee:
             raise ValueError("Missing GITEE_TOKEN")
         self.token = token
 
+    def redact(self, value):
+        for secret in (self.token, urllib.parse.quote(self.token, safe=""), urllib.parse.quote_plus(self.token)):
+            value = value.replace(secret, "[redacted]")
+        return value
+
+    def http_error(self, method, status, body, headers):
+        detail = self.redact(body.decode(errors="replace"))[:1000]
+        return GiteeError(f"Gitee {method} failed (HTTP {status}): {detail}",
+                          retryable=status in (408, 409, 425, 429, 500, 502, 503, 504),
+                          retry_after=retry_after(headers.get("retry-after")))
+
+    def upload(self, path, file):
+        """Stream multipart with curl; keep the token exclusively on hidden stdin.
+
+        A single Python sendall of a multi-MiB multipart body repeatedly stalled
+        on this route. curl provides bounded transfer time and transport codes.
+        Do not enable curl's blind POST retries: ensure_attachment reconciles
+        the remote filename and hash before retrying an ambiguous upload.
+        """
+        def quoted(value):
+            return '"' + value.replace('\\', '\\\\').replace('"', '\\"').replace('\r', '\\r').replace('\n', '\\n') + '"'
+
+        fields = {
+            "url": API + path,
+            "request": "POST",
+            "header": "Accept: application/json",
+            "connect-timeout": "30",
+            "max-time": "300",
+            "expect100-timeout": "5",
+            "write-out": "\n__gitee_status__:%{http_code}",
+        }
+        config = "\n".join(f"{key} = {quoted(value)}" for key, value in fields.items())
+        config += "\nhttp1.1\nsilent\nshow-error\ninclude\n"
+        config += "form-string = " + quoted("access_token=" + self.token) + "\n"
+        config += "form = " + quoted('file=@"' + str(file.resolve()).replace('"', '\\"') + '";type=application/octet-stream') + "\n"
+        try:
+            result = subprocess.run(["curl", "--config", "-"], input=config.encode(),
+                                    stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=315, check=False)
+        except FileNotFoundError:
+            raise GiteeError("Gitee attachment upload requires curl on PATH") from None
+        except subprocess.TimeoutExpired:
+            raise GiteeError("Gitee POST transfer timed out", retryable=True) from None
+        response, marker, status_text = result.stdout.rpartition(b"\n__gitee_status__:")
+        status = int(status_text) if marker and status_text.strip().isdigit() else 0
+        if result.returncode:
+            detail = self.redact(result.stderr.decode(errors="replace"))[:600]
+            raise GiteeError(f"Gitee POST transport failed (curl {result.returncode}): {detail}",
+                              retryable=result.returncode in (5, 6, 7, 16, 18, 28, 35, 52, 55, 56, 92))
+        headers = {}
+        while response.startswith(b"HTTP/"):
+            header_block, separator, body = response.partition(b"\r\n\r\n")
+            if not separator:
+                break
+            headers = {}
+            for line in header_block.decode(errors="replace").splitlines()[1:]:
+                key, separator, value = line.partition(":")
+                if separator:
+                    headers[key.lower()] = value.strip()
+            response = body
+        if not 200 <= status < 300:
+            raise self.http_error("POST", status, response, headers)
+        try:
+            return json.loads(response)
+        except (ValueError, UnicodeDecodeError):
+            raise GiteeError("Gitee POST returned an invalid JSON response", retryable=True) from None
+
     def request(self, method, path, payload=None, file=None):
+        if file is not None:
+            return self.upload(path, file)
         headers = {"Accept": "application/json"}
         data = None
-        if file is not None:
-            boundary = secrets.token_hex(24)
-            headers["Content-Type"] = f"multipart/form-data; boundary={boundary}"
-            data = (
-                f'--{boundary}\r\nContent-Disposition: form-data; name="access_token"\r\n\r\n'
-                f'{self.token}\r\n--{boundary}\r\n'
-                f'Content-Disposition: form-data; name="file"; filename="{file.name}"\r\n'
-                'Content-Type: application/octet-stream\r\n\r\n'
-            ).encode() + file.read_bytes() + f"\r\n--{boundary}--\r\n".encode()
-        elif payload is not None:
+        if payload is not None:
             headers["Content-Type"] = "application/json"
             data = json.dumps({**payload, "access_token": self.token}).encode()
         else:
             separator = "&" if "?" in path else "?"
             path += separator + urllib.parse.urlencode({"access_token": self.token})
         request = urllib.request.Request(API + path, data=data, headers=headers, method=method)
-        try:
-            with urllib.request.urlopen(request, timeout=120) as response:
-                body = response.read()
-                return json.loads(body) if body else None
-        except urllib.error.HTTPError as error:
-            if method == "GET" and error.code == 404:
-                return None
-            detail = error.read().decode(errors="replace").replace(self.token, "[redacted]")
-            raise RuntimeError(f"Gitee {method} failed (HTTP {error.code}): {detail}") from None
-        except urllib.error.URLError:
-            # Do not include request URLs, which may contain the access token.
-            raise RuntimeError(f"Gitee {method} connection failed") from None
+        for attempt in range(1, ATTEMPTS + 1):
+            try:
+                with urllib.request.urlopen(request, timeout=120) as response:
+                    body = response.read()
+                    return json.loads(body) if body else None
+            except urllib.error.HTTPError as error:
+                if method == "GET" and error.code == 404:
+                    return None
+                failure = self.http_error(method, error.code, error.read(),
+                                          {key.lower(): value for key, value in error.headers.items()})
+            except (urllib.error.URLError, TimeoutError, ConnectionError, http.client.HTTPException) as error:
+                failure = transport_error(method, error)
+            if method not in ("GET", "PATCH") or not failure.retryable or attempt == ATTEMPTS:
+                raise failure from None
+            wait_retry(failure, attempt, f"Gitee {method}")
 
     def attachments(self, release_id):
         files = {}
@@ -87,12 +198,31 @@ class Gitee:
 
     def ensure_attachment(self, release_id, path, existing):
         attachment = existing.get(path.name)
-        if attachment is None:
-            attachment = self.request("POST", f"/releases/{release_id}/attach_files", file=path)
-            existing[path.name] = attachment
-            print(f"Uploaded {path.name}")
-        else:
-            print(f"Verifying existing {path.name}")
+        for attempt in range(1, ATTEMPTS + 1):
+            if attachment is not None:
+                print(f"Verifying existing {path.name}", flush=True)
+                break
+            try:
+                print(f"Uploading {path.name} ({path.stat().st_size} bytes), attempt {attempt}/{ATTEMPTS}", flush=True)
+                attachment = self.request("POST", f"/releases/{release_id}/attach_files", file=path)
+                if not isinstance(attachment, dict) or attachment.get("name") != path.name or not attachment.get("browser_download_url"):
+                    raise GiteeError("Gitee POST returned incomplete attachment metadata", retryable=True)
+                existing[path.name] = attachment
+                print(f"Uploaded {path.name}", flush=True)
+                break
+            except GiteeError as error:
+                if not error.retryable:
+                    raise
+                # A disconnected POST may have succeeded server-side. Re-list
+                # before another POST to avoid duplicate immutable filenames.
+                existing.update(self.attachments(release_id))
+                attachment = existing.get(path.name)
+                if attachment is not None:
+                    print(f"Recovered completed upload {path.name}", flush=True)
+                    break
+                if attempt == ATTEMPTS:
+                    raise
+                wait_retry(error, attempt, path.name)
         url = attachment["browser_download_url"]
         if download_digest(url) != digest(path):
             raise ValueError(f"Gitee attachment differs: {path.name}; refusing to overwrite published content")
@@ -148,13 +278,25 @@ def sync(folder, release, source_repository, target_commit, client):
             "target_commitish": target_commit,
             "name": release["name"] or tag,
             "body": (release["body"] or "") + f"\n\n同步自 GitHub：{release['url']}",
-            "prerelease": False,
+            "prerelease": True,
         })
     release_id = target["id"]
     existing = client.attachments(release_id)
+    complete_names = {*payload_names, "catalog.json", "SHA256SUMS.txt"}
+    if complete_names - existing.keys() and not target.get("prerelease"):
+        client.request("PATCH", f"/releases/{release_id}", payload={"prerelease": True})
     urls = {}
+    failures = []
     for name in payload_names:
-        urls[name] = client.ensure_attachment(release_id, folder / name, existing)
+        try:
+            urls[name] = client.ensure_attachment(release_id, folder / name, existing)
+        except GiteeError as error:
+            if not error.retryable:
+                raise
+            failures.append(f"{name}: {error}")
+            print(f"Deferred {name}; continuing other attachments: {error}", flush=True)
+    if failures:
+        raise GiteeError("Incomplete Gitee payload; catalog not published. " + "; ".join(failures), retryable=True)
     rewrite_catalog(catalog, urls, source_base)
     # Keep the downloaded GitHub assets intact so a retry always starts with the
     # original checksums. Only the Gitee catalog and its checksum file differ.
@@ -170,7 +312,12 @@ def sync(folder, release, source_repository, target_commit, client):
         mirror_sums = mirror / "SHA256SUMS.txt"
         mirror_sums.write_text("".join(checksums), encoding="utf-8")
         client.ensure_attachment(release_id, mirror_sums, existing)
-    print(f"Verified Gitee Release: https://gitee.com/{REPOSITORY}/releases/tag/{tag}")
+    client.request("PATCH", f"/releases/{release_id}", payload={
+        "name": release["name"] or tag,
+        "body": (release["body"] or "") + f"\n\n同步自 GitHub：{release['url']}",
+        "prerelease": False,
+    })
+    print(f"Verified Gitee Release: https://gitee.com/{REPOSITORY}/releases/tag/{tag}", flush=True)
 
 
 if __name__ == "__main__":

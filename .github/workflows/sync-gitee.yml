@@ -33,7 +33,7 @@ jobs:
       github.event_name != 'release' ||
       (!github.event.release.prerelease && startsWith(github.event.release.tag_name, 'library-v'))
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
       - name: Check Gitee credential
         env:
@@ -91,5 +91,5 @@ jobs:
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
           LIBRARY_COMMIT: ${{ steps.source.outputs.commit }}
         run: >-
-          python scripts/sync_gitee.py --assets release-assets --release release.json
+          python -u scripts/sync_gitee.py --assets release-assets --release release.json
           --source-repository "$GITHUB_REPOSITORY" --target-commit "$LIBRARY_COMMIT"

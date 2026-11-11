@@ -74,9 +74,11 @@ https://github.com/whoarei/wallpapers/releases/latest/download/catalog.json
 
 `.github/workflows/sync-gitee.yml` 会下载已发布的 GitHub Release 附件并校验 SHA-256，再推送该版本的 Git 标签、创建同名 Gitee Release。同步只推送对应标签，不更新 Gitee 的主分支。ZIP 和封面保持原始内容；Gitee 的 `catalog.json` 中下载和封面地址改为实际的 Gitee 附件地址，`SHA256SUMS.txt` 随之重新生成。上传后会匿名下载每个附件验证 SHA-256。
 
+附件通过系统 `curl` 流式上传，令牌仅经标准输入传入。网络中断会先重新查询远端文件名并校验内容，再决定是否重试，避免请求已成功但响应丢失时重复上传。每个文件最多尝试三次；某个附件的连接失败不会阻断其余附件的补传。清单和校验文件只在全部壁纸包与封面通过验证后上传；未完成的 Gitee 镜像标为预发布，完成后转为正式版本。失败日志保留 HTTP / curl 错误码，不输出令牌。
+
 发布工作流成功后会直接调用同步流程，因为使用 `GITHUB_TOKEN` 发布 Release 不会触发另一个 `release: published` 工作流。同时保留 `release: published` 入口，支持手动在 GitHub 发布的正式版本。
 
-补同步已有版本：打开 GitHub **Actions → Sync release to Gitee → Run workflow**，选择包含同步配置的分支，填写 `library-vX.Y.Z`；留空则取最新正式 Release。同步失败不会撤回 GitHub Release，可以重跑失败任务或手动补同步。已有且校验一致的 Gitee 附件会复用；同名附件内容不一致或已有标签指向不同提交时会报错，不强制覆盖。草稿和预发布版本不参与同步。
+补同步已有版本：打开 GitHub **Actions → Sync release to Gitee → Run workflow**，选择 `main` 分支，填写 `library-vX.Y.Z`；留空则取最新正式 Release。同步失败不会撤回 GitHub Release。修复同步脚本后应从 `main` 手动补同步，以使用新脚本；直接重跑旧标签的失败任务仍会使用旧版脚本。已有且校验一致的 Gitee 附件会复用；同名附件内容不一致或已有标签指向不同提交时会报错，不强制覆盖。GitHub 草稿和预发布版本不参与同步。
 
 Gitee Release 入口：
 
