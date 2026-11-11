@@ -42,16 +42,50 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
   await page.addStyleTag({content:'.hud,.pause-badge,.toast{display:none!important}'});
   const initial=await page.evaluate(()=>aquarium.getState());
   assert.equal(initial.crabs,3);assert.equal(initial.fish,30);
+  assert.equal(initial.shark,null);assert.ok(initial.nextSharkIn>=90&&initial.nextSharkIn<=140);
   await page.screenshot({path:path.join(output,'aquarium-crabs.png')});
 
-  const seen=[new Set(),new Set(),new Set()];let shelterChecked=false;
+  const seen=[new Set(),new Set(),new Set()],visits=new Map(),sharkPhases=new Set();
+  let shelterChecked=false,sharkChecked=false,lastVisit=null,peakFrightened=0,peakSpeed=0;
+  function observeShark(state){
+   assert.equal(state.fish+state.returning,30,'Population is conserved across predation and return');
+   assert.equal(state.positions.filter(f=>f.type==='angel').length,4,'Only small fish are prey');
+   state.positions.forEach(f=>assert.ok(Number.isFinite(f.x)&&Number.isFinite(f.y)&&Number.isFinite(f.vx)&&Number.isFinite(f.vy)));
+   peakFrightened=Math.max(peakFrightened,state.frightened);
+   peakSpeed=Math.max(peakSpeed,...state.positions.map(f=>Math.hypot(f.vx,f.vy)));
+   if(state.shark){
+    const s=state.shark;sharkPhases.add(s.phase);
+    assert.ok(s.goal>=2&&s.goal<=3&&s.caught<=s.goal);
+    if(!visits.has(state.visits)){
+     if(lastVisit)assert.ok(state.time-lastVisit.finished>=179,'Visits leave several quiet minutes in between');
+     visits.set(state.visits,{started:state.time,goal:s.goal,caught:0});
+    }
+    const visit=visits.get(state.visits);visit.caught=s.caught;lastVisit=visit;
+   }else if(lastVisit&&!lastVisit.finished){
+    lastVisit.finished=state.time;
+    assert.equal(lastVisit.caught,lastVisit.goal,'A visit eats only its two or three small fish');
+    assert.ok(lastVisit.finished-lastVisit.started<45,'The visitor leaves promptly');
+   }
+  }
   for(let i=0;i<400;i++){
    const state=await page.evaluate(()=>__qaStep(10));
+   observeShark(state);
    state.crabStates.forEach((c,index)=>{
     seen[index].add(c.activity);
     assert.ok(Number.isFinite(c.x)&&Number.isFinite(c.y));
     assert.ok(c.x>500&&c.x<1250&&c.y>=910&&c.y<955,'Crab stays on the sand near its shelter');
    });
+   if(!sharkChecked&&state.shark?.phase==='hunt'&&state.shark.x>400&&state.shark.x<1250){
+    await page.evaluate(()=>document.getElementById('pause').click());
+    const frozen=await page.evaluate(()=>aquarium.getState());
+    const still=await page.evaluate(()=>__qaStep(80));
+    assert.equal(still.time,frozen.time);assert.deepEqual(still.shark,frozen.shark);assert.deepEqual(still.positions,frozen.positions);
+    assert.equal(still.nextSharkIn,frozen.nextSharkIn);assert.equal(still.returning,frozen.returning);
+    await page.evaluate(()=>document.getElementById('pause').click());
+    await page.evaluate(()=>__qaStep(1,75,true));
+    await page.screenshot({path:path.join(output,'aquarium-shark.png')});
+    sharkChecked=true;
+   }
    if(!shelterChecked&&state.crabStates.some(c=>c.activity==='sheltered')){
     await page.evaluate(()=>__qaStep(1,75,true));
     const coverage=await page.evaluate(()=>{
@@ -73,6 +107,21 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
    for(const activity of ['rest','wave','retreat','sheltered','emerge'])assert.ok(states.has(activity),`Crab ${index+1}: missing ${activity}`);
   });
   assert.ok(seen.some(states=>states.has('walk')));
+  assert.ok(sharkChecked&&peakFrightened>15&&peakSpeed>70,'The visit visibly changes a quiet shoal into fleeing fish');
+  assert.deepEqual([...sharkPhases].sort(),['enter','hunt','leave']);
+  const calm=await page.evaluate(()=>aquarium.getState());
+  assert.equal(calm.shark,null);assert.equal(calm.fish,30);assert.equal(calm.returning,0);assert.equal(calm.frightened,0);assert.ok(calm.tension<.01);
+  assert.equal(await page.locator('#fish-count').textContent(),'30');
+  // A second complete visit catches regressions that drain the population or
+  // forget to restart the timer after the first event.
+  let recovered=calm;
+  for(let i=0;i<800;i++){
+   recovered=await page.evaluate(()=>__qaStep(10));observeShark(recovered);
+   if(recovered.visits>=2&&!recovered.shark&&recovered.returning===0&&recovered.tension<.01&&recovered.positions.every(f=>!f.entering))break;
+  }
+  assert.ok(visits.size>=2&&[...visits.values()].every(v=>v.finished));
+  assert.equal(recovered.fish,30);assert.equal(recovered.returning,0);assert.equal(recovered.totalCaught,recovered.totalReturned);
+  assert.equal(recovered.frightened,0);
 
   await page.evaluate(()=>document.getElementById('pause').click());
   const frozen=await page.evaluate(()=>aquarium.getState());
@@ -89,6 +138,6 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'No horizontal overflow');
   }
   assert.deepEqual(errors,[]);assert.deepEqual(external,[]);
-  console.log(JSON.stringify({passed:true,simulationSeconds:resumed.time,activities:seen.map(s=>[...s]),partialOcclusion:true,pause:true,resume:true,controls:true,offline:true,output},null,2));
+  console.log(JSON.stringify({passed:true,simulationSeconds:resumed.time,activities:seen.map(s=>[...s]),sharkVisits:[...visits.values()],peakFrightened,peakSpeed,fishRecovered:recovered.fish,partialOcclusion:true,pause:true,activeSharkPause:true,resume:true,controls:true,offline:true,output},null,2));
  }finally{await browser.close();}
 })().catch(error=>{console.error(error);process.exitCode=1;});

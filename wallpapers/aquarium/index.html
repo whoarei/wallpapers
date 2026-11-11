@@ -9,10 +9,10 @@
 <script src="./aquarium.js" defer></script>
 </head>
 <body>
-<canvas id="aquarium" width="1600" height="1000" role="img" aria-label="动态水族箱：三十尾鱼在水草与沉木间游动，三只彩蟹在缸底偶尔横行、挥钳，或半藏在石头后面。点击水面可以投喂。"></canvas>
+<canvas id="aquarium" width="1600" height="1000" role="img" aria-label="动态水族箱：鱼群在水草与沉木间游动，三只彩蟹偶尔横行、挥钳，或半藏在石头后面。鲨鱼偶尔游入捕食两三条小鱼，鱼群四散后渐渐恢复平静，小鱼随后从水草间陆续游回。点击水面可以投喂。"></canvas>
 <header class="hud brand"><div class="brand-mark" aria-hidden="true">≈</div><div><h1>静水之间</h1><p>STILLWATER AQUARIUM</p></div></header>
 <div class="hud clock"><time id="time">--:--</time><span id="date"></span></div>
-<div class="hud caption"><p><span></span>让时间，像水一样流过。</p><small>30 尾鱼儿 · 3 只彩蟹 · 一方安静</small></div>
+<div class="hud caption"><p><span></span>让时间，像水一样流过。</p><small><span id="fish-count">30</span> 尾鱼儿 · 3 只彩蟹 · 一方安静</small></div>
 <nav class="hud controls" aria-label="水族箱控制">
  <button id="feed" title="投喂（空白处点击，或按 E）"><span aria-hidden="true">⌁</span><b>投喂</b></button>
  <button id="light" title="切换晨光、暮色与月光（L）"><span aria-hidden="true">◒</span><b id="light-label">晨光</b></button>
@@ -23,7 +23,7 @@
  <button id="help" class="help-button" title="互动说明（H）" aria-expanded="false">?</button>
 </nav>
 <div class="hud hint">点击水面投喂 · H 互动说明</div>
-<aside id="help-panel" class="help-panel" hidden><button id="close-help" aria-label="关闭说明">×</button><h2>在水里，慢一点。</h2><p>点击水面，鱼儿会游来吃东西。<br>停留片刻，看看它们自己漫游。</p><dl><dt>E</dt><dd>投下一小撮鱼食</dd><dt>L</dt><dd>晨光 / 暮色 / 月光</dd><dt>C</dt><dd>切换水流强度</dd><dt>空格</dt><dd>暂停 / 继续</dd><dt>S</dt><dd>隐藏 / 显示界面</dd><dt>F</dt><dd>网页全屏</dd><dt>H</dt><dd>这份说明</dd></dl><p class="muted">移动鼠标即可唤回控制栏。<br>F11 进入或退出浏览器全屏。</p></aside>
+<aside id="help-panel" class="help-panel" hidden><button id="close-help" aria-label="关闭说明">×</button><h2>在水里，慢一点。</h2><p>点击水面，鱼儿会游来吃东西。<br>偶尔，一条鲨鱼掠过，鱼群忽然散开。<br>等它离去，水里又慢慢安静下来。<br>小鱼随后会从水草间陆续游回。</p><dl><dt>E</dt><dd>投下一小撮鱼食</dd><dt>L</dt><dd>晨光 / 暮色 / 月光</dd><dt>C</dt><dd>切换水流强度</dd><dt>空格</dt><dd>暂停 / 继续</dd><dt>S</dt><dd>隐藏 / 显示界面</dd><dt>F</dt><dd>网页全屏</dd><dt>H</dt><dd>这份说明</dd></dl><p class="muted">移动鼠标即可唤回控制栏。<br>F11 进入或退出浏览器全屏。</p></aside>
 <div id="toast" class="toast" role="status" aria-live="polite"></div>
 <div id="pause-badge" class="pause-badge" hidden>水下的时间，暂停片刻。<small>按空格继续</small></div>
 </body>

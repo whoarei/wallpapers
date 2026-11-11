@@ -1,20 +1,21 @@
 {
   "name": "静水之间",
   "subtitle": "STILLWATER AQUARIUM",
-  "description": "一缸草木与微光，鱼群缓缓游过，三只彩蟹偶尔横行、挥钳，半藏在石头后面。点击水面，投下一点好心情。",
+  "description": "一缸草木与微光，彩蟹偶尔挥钳、半藏在石头后面。鲨鱼不时掠过捕食，鱼群四散，又慢慢回归平静。点击水面，投下一点好心情。",
   "entry": "index.html",
   "tags": [
     "水族箱",
     "鱼群漫游",
     "点击投喂",
-    "彩蟹"
+    "彩蟹",
+    "鲨鱼来访"
   ],
   "order": 20,
   "enabled": true,
   "id": "aquarium",
   "schemaVersion": 1,
   "type": "web",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "minAppVersion": "0.2.0",
   "cover": "cover.jpg"
 }
