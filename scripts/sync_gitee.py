@@ -271,20 +271,20 @@ def sync(folder, release, source_repository, target_commit, client):
     payload_names = [name for name in names if name != "catalog.json"]
     # Check every catalog reference before creating a remote Release or attachment.
     rewrite_catalog(json.loads(json.dumps(catalog)), {name: name for name in payload_names}, source_base)
+    metadata = {
+        "tag_name": tag,
+        "target_commitish": target_commit,
+        "name": release["name"] or tag,
+        "body": (release["body"] or "") + f"\n\n同步自 GitHub：{release['url']}",
+    }
     target = client.request("GET", "/releases/tags/" + urllib.parse.quote(tag, safe=""))
     if target is None:
-        target = client.request("POST", "/releases", payload={
-            "tag_name": tag,
-            "target_commitish": target_commit,
-            "name": release["name"] or tag,
-            "body": (release["body"] or "") + f"\n\n同步自 GitHub：{release['url']}",
-            "prerelease": True,
-        })
+        target = client.request("POST", "/releases", payload={**metadata, "prerelease": True})
     release_id = target["id"]
     existing = client.attachments(release_id)
     complete_names = {*payload_names, "catalog.json", "SHA256SUMS.txt"}
     if complete_names - existing.keys() and not target.get("prerelease"):
-        client.request("PATCH", f"/releases/{release_id}", payload={"prerelease": True})
+        client.request("PATCH", f"/releases/{release_id}", payload={**metadata, "prerelease": True})
     urls = {}
     failures = []
     for name in payload_names:
@@ -312,11 +312,7 @@ def sync(folder, release, source_repository, target_commit, client):
         mirror_sums = mirror / "SHA256SUMS.txt"
         mirror_sums.write_text("".join(checksums), encoding="utf-8")
         client.ensure_attachment(release_id, mirror_sums, existing)
-    client.request("PATCH", f"/releases/{release_id}", payload={
-        "name": release["name"] or tag,
-        "body": (release["body"] or "") + f"\n\n同步自 GitHub：{release['url']}",
-        "prerelease": False,
-    })
+    client.request("PATCH", f"/releases/{release_id}", payload={**metadata, "prerelease": False})
     print(f"Verified Gitee Release: https://gitee.com/{REPOSITORY}/releases/tag/{tag}", flush=True)
 
 

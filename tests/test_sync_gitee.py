@@ -37,6 +37,8 @@ class FakeGitee(sync_gitee.Gitee):
             self.release = {"id": 42, **payload}
             return self.release
         if method == "PATCH" and path == "/releases/42":
+            if not {"tag_name", "name", "body"} <= payload.keys():
+                raise AssertionError("Gitee requires complete release metadata even for prerelease updates")
             self.release.update(payload)
             self.patches.append(payload)
             return self.release
@@ -170,7 +172,7 @@ class GiteeSync(unittest.TestCase):
         self.client.fail_once = "catalog.json"
         with self.assertRaises(RuntimeError):
             self.sync()
-        self.assertIn({"prerelease": True}, self.client.patches)
+        self.assertTrue(any(p["prerelease"] for p in self.client.patches))
         self.assertTrue(self.client.release["prerelease"])
 
     def test_corrupt_source_fails_before_creating_release(self):

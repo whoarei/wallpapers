@@ -93,3 +93,9 @@ jobs:
         run: >-
           python -u scripts/sync_gitee.py --assets release-assets --release release.json
           --source-repository "$GITHUB_REPOSITORY" --target-commit "$LIBRARY_COMMIT"
+      - name: Fast-forward the Gitee source branch
+        env:
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: |
+          GIT_ASKPASS="$RUNNER_TEMP/gitee-askpass.sh" GIT_TERMINAL_PROMPT=0 \
+            git push https://gitee.com/xishuaiya/wallpapers.git refs/remotes/origin/main:refs/heads/main
