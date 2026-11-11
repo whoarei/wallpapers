@@ -4,8 +4,8 @@ const canvas=document.getElementById('aquarium');
 const ctx=canvas.getContext('2d',{alpha:false});
 const W=1600,H=1000,TAU=Math.PI*2;
 const layer=()=>{const c=document.createElement('canvas');c.width=W;c.height=H;return c;};
-const backdrop=layer(),ground=layer(),frame=layer(),beams=layer();
-const bg=backdrop.getContext('2d'),gc=ground.getContext('2d'),fc=frame.getContext('2d');
+const backdrop=layer(),ground=layer(),shelters=layer(),foreground=layer(),frame=layer(),beams=layer();
+const bg=backdrop.getContext('2d'),gc=ground.getContext('2d'),sc=shelters.getContext('2d'),fg=foreground.getContext('2d'),fc=frame.getContext('2d');
 let seed=8675309;
 const random=()=>{seed=(Math.imul(seed,1664525)+1013904223)>>>0;return seed/4294967296;};
 const rnd=(a,b)=>a+(b-a)*random();
@@ -55,31 +55,31 @@ function buildScene(){
  const sand=gc.createLinearGradient(0,800,0,H);sand.addColorStop(0,'#797c56');sand.addColorStop(.55,'#a1986d');sand.addColorStop(1,'#645f43');
  gc.fillStyle=sand;gc.beginPath();gc.moveTo(0,854);gc.bezierCurveTo(350,866,438,922,750,904);gc.bezierCurveTo(1170,876,1250,850,1600,856);gc.lineTo(1600,1000);gc.lineTo(0,1000);gc.fill();
  for(let i=0;i<10500;i++){const x=rnd(0,W),y=rnd(873,H),r=rnd(.45,1.8);ellipse(gc,x,y,r,r*.5,['#c3bc8f44','#283d2940','#b1aa794b','#393e2940'][i%4]);}
- rock(gc,380,895,230,137,'#768665');rock(gc,498,912,161,86,'#7d8968');rock(gc,296,891,113,80,'#65775a');
- rock(gc,1125,908,252,142,'#758163');rock(gc,1268,914,173,85,'#7a8163');rock(gc,1015,920,111,62,'#83856a');
+ rock(sc,380,895,230,137,'#768665');rock(sc,498,912,161,86,'#7d8968');rock(sc,296,891,113,80,'#65775a');
+ rock(sc,1125,908,252,142,'#758163');rock(sc,1268,914,173,85,'#7a8163');rock(sc,1015,920,111,62,'#83856a');
  // Smooth, branching driftwood and a thin highlight along the grain.
- branch(gc,[[820,911],[858,855],[1022,784],[1124,641]],65,'#354236');
- branch(gc,[[830,901],[904,846],[1012,776],[1124,641]],40,'#655e3e');
- branch(gc,[[858,893],[915,825],[1044,760],[1124,641]],17,'#8b7950');
- branch(gc,[[995,803],[954,720],[893,700],[887,639]],20,'#57553b');
- branch(gc,[[1044,750],[1104,730],[1158,726],[1197,676]],15,'#626041');
- branch(gc,[[1090,692],[1047,650],[1050,595],[1024,565]],11,'#5b5a3e');
- branch(gc,[[861,880],[773,883],[742,824],[692,816]],27,'#52553a');
- for(let i=0;i<16;i++)branch(gc,[[837+i*1.8,907],[900+i*1.3,844],[1032+i*.5,758],[1115+i*.2,656]],.8,'#b2a06b22');
- for(let i=0;i<320;i++){const q=random(),x=lerp(850,1125,q)+rnd(-20,12),y=lerp(895,650,q)+Math.sin(q*5)*17+rnd(-8,8);ellipse(gc,x,y,rnd(2,6),rnd(1,3),['#5e7947','#7a8b4d','#416b47','#91a05d66'][i%4],rnd(-1,1));}
+ branch(sc,[[820,911],[858,855],[1022,784],[1124,641]],65,'#354236');
+ branch(sc,[[830,901],[904,846],[1012,776],[1124,641]],40,'#655e3e');
+ branch(sc,[[858,893],[915,825],[1044,760],[1124,641]],17,'#8b7950');
+ branch(sc,[[995,803],[954,720],[893,700],[887,639]],20,'#57553b');
+ branch(sc,[[1044,750],[1104,730],[1158,726],[1197,676]],15,'#626041');
+ branch(sc,[[1090,692],[1047,650],[1050,595],[1024,565]],11,'#5b5a3e');
+ branch(sc,[[861,880],[773,883],[742,824],[692,816]],27,'#52553a');
+ for(let i=0;i<16;i++)branch(sc,[[837+i*1.8,907],[900+i*1.3,844],[1032+i*.5,758],[1115+i*.2,656]],.8,'#b2a06b22');
+ for(let i=0;i<320;i++){const q=random(),x=lerp(850,1125,q)+rnd(-20,12),y=lerp(895,650,q)+Math.sin(q*5)*17+rnd(-8,8);ellipse(sc,x,y,rnd(2,6),rnd(1,3),['#5e7947','#7a8b4d','#416b47','#91a05d66'][i%4],rnd(-1,1));}
  // Broad anubias leaves clustered around the base of the stones.
  for(const [x,y] of [[300,891],[452,908],[1100,907],[1250,916]])for(let i=0;i<25;i++){
   const a=rnd(-2.9,-.3),len=rnd(25,85),ex=x+Math.cos(a)*len,ey=y+Math.sin(a)*len;
-  gc.strokeStyle='#537747';gc.lineWidth=2;gc.beginPath();gc.moveTo(x,y);gc.lineTo(ex,ey);gc.stroke();
-  const gr=gc.createLinearGradient(ex-18,ey-10,ex+18,ey+10);gr.addColorStop(0,'#729351');gr.addColorStop(.48,'#517e45');gr.addColorStop(1,'#234d37');ellipse(gc,ex,ey,rnd(16,27),rnd(8,13),gr,a);
-  gc.strokeStyle='#a4ba662e';gc.lineWidth=.8;gc.beginPath();gc.moveTo(ex-Math.cos(a)*19,ey-Math.sin(a)*19);gc.lineTo(ex+Math.cos(a)*19,ey+Math.sin(a)*19);gc.stroke();
+  sc.strokeStyle='#537747';sc.lineWidth=2;sc.beginPath();sc.moveTo(x,y);sc.lineTo(ex,ey);sc.stroke();
+  const gr=sc.createLinearGradient(ex-18,ey-10,ex+18,ey+10);gr.addColorStop(0,'#729351');gr.addColorStop(.48,'#517e45');gr.addColorStop(1,'#234d37');ellipse(sc,ex,ey,rnd(16,27),rnd(8,13),gr,a);
+  sc.strokeStyle='#a4ba662e';sc.lineWidth=.8;sc.beginPath();sc.moveTo(ex-Math.cos(a)*19,ey-Math.sin(a)*19);sc.lineTo(ex+Math.cos(a)*19,ey+Math.sin(a)*19);sc.stroke();
  }
  // Fine foreground carpet, pebbles and two small snails.
- for(let i=0;i<500;i++){const x=rnd(-30,1630),y=rnd(935,1015);if(x>500&&x<1040&&random()<.94)continue;gc.strokeStyle=['#527746','#63834d','#355d3a','#819355'][i%4];gc.lineWidth=rnd(1,2);gc.beginPath();gc.moveTo(x,y);gc.quadraticCurveTo(x+rnd(-7,7),y-12,x+rnd(-10,10),y-rnd(10,27));gc.stroke();}
- for(let i=0;i<85;i++){const x=rnd(0,W),y=rnd(918,1000);ellipse(gc,x,y,rnd(2,6),rnd(1,2.5),['#b1ab87','#7d8061','#4f634d'][i%3]);}
- for(const [x,y] of [[595,941],[1325,947]]){ellipse(gc,x,y+4,11,3,'#56654d');ellipse(gc,x-2,y-2,8,7,'#978361');gc.strokeStyle='#5c634d';gc.lineWidth=1;gc.beginPath();gc.arc(x-2,y-2,5,0,TAU*1.5);gc.stroke();}
+ for(let i=0;i<500;i++){const x=rnd(-30,1630),y=rnd(935,1015);if(x>500&&x<1040&&random()<.94)continue;fg.strokeStyle=['#527746','#63834d','#355d3a','#819355'][i%4];fg.lineWidth=rnd(1,2);fg.beginPath();fg.moveTo(x,y);fg.quadraticCurveTo(x+rnd(-7,7),y-12,x+rnd(-10,10),y-rnd(10,27));fg.stroke();}
+ for(let i=0;i<85;i++){const x=rnd(0,W),y=rnd(918,1000);ellipse(fg,x,y,rnd(2,6),rnd(1,2.5),['#b1ab87','#7d8061','#4f634d'][i%3]);}
+ for(const [x,y] of [[595,941],[1325,947]]){ellipse(fg,x,y+4,11,3,'#56654d');ellipse(fg,x-2,y-2,8,7,'#978361');fg.strokeStyle='#5c634d';fg.lineWidth=1;fg.beginPath();fg.arc(x-2,y-2,5,0,TAU*1.5);fg.stroke();}
  // Small air stone tucked into the right-hand planting.
- ellipse(gc,1385,906,27,9,'#536956');ellipse(gc,1385,902,24,6,'#71856a');
+ ellipse(fg,1385,906,27,9,'#536956');ellipse(fg,1385,902,24,6,'#71856a');
  // Glass edge shading is cached, leaving the water itself transparent.
  const vignette=fc.createRadialGradient(800,440,300,800,440,1020);vignette.addColorStop(0,'#021d2300');vignette.addColorStop(.7,'#051f2920');vignette.addColorStop(1,'#031a2799');fc.fillStyle=vignette;fc.fillRect(0,0,W,H);
  const top=fc.createLinearGradient(0,0,0,150);top.addColorStop(0,'#0a2c3444');top.addColorStop(1,'#0a2c3400');fc.fillStyle=top;fc.fillRect(0,0,W,150);
@@ -101,6 +101,76 @@ const rayGradient=ctx.createLinearGradient(0,40,0,890);rayGradient.addColorStop(
 const beamContext=beams.getContext('2d');
 beamContext.filter='blur(17px)';beamContext.fillStyle=rayGradient;
 for(const ray of rays){beamContext.beginPath();beamContext.moveTo(ray.x,-20);beamContext.lineTo(ray.x+ray.w,-20);beamContext.lineTo(ray.x+ray.w+250,930);beamContext.lineTo(ray.x+145,930);beamContext.closePath();beamContext.fill();}
+
+// Each crab has a small patch of sand and a nearby stone to shelter behind.
+// Their timers use simulation time, so local and host pauses also stop them.
+const crabs=[
+ {homeX:632,homeY:936,hideX:553,hideY:916,size:1.03,shell:'#c76c59',rim:'#f0ae79',leg:'#955444',claw:'#e3a16c'},
+ {homeX:914,homeY:941,hideX:975,hideY:922,size:.91,shell:'#54999e',rim:'#a9d2ba',leg:'#397779',claw:'#cea56e'},
+ {homeX:1180,homeY:942,hideX:1204,hideY:918,size:.98,shell:'#8a70a7',rim:'#c7abc3',leg:'#65517f',claw:'#dba079'}
+].map((c,i)=>({...c,x:c.homeX,y:c.homeY,targetX:c.homeX,targetY:c.homeY,activity:'rest',timer:3+i*3.7,speed:9+i*1.3,direction:i%2?-1:1,gait:i*2,gesture:0}));
+
+function restCrab(c){c.activity='rest';c.timer=rnd(5,13);}
+function updateCrabs(dt){
+ for(const c of crabs){
+  const moving=['walk','retreat','emerge'].includes(c.activity);
+  if(moving){
+   const dx=c.targetX-c.x,dy=c.targetY-c.y,d=Math.hypot(dx,dy),step=Math.min(d,c.speed*dt);
+   if(d>0){c.x+=dx/d*step;c.y+=dy/d*step;c.gait+=step*.24;if(Math.abs(dx)>.1)c.direction=Math.sign(dx);}
+   if(d<=step){
+    if(c.activity==='retreat'){c.activity='sheltered';c.timer=rnd(6,12);}
+    else restCrab(c);
+   }
+  }else{
+   c.timer-=dt;
+   if(c.timer<=0){
+    if(c.activity==='sheltered'){c.activity='emerge';c.targetX=c.homeX;c.targetY=c.homeY;}
+    else if(c.activity==='wave')restCrab(c);
+    else{
+     const choice=random();
+     if(choice<.36){c.activity='walk';c.targetX=c.homeX+rnd(-26,28);c.targetY=c.homeY+rnd(-3,5);}
+     else if(choice<.63){c.activity='wave';c.timer=rnd(2.5,4.5);}
+     else{c.activity='retreat';c.targetX=c.hideX;c.targetY=c.hideY;}
+    }
+   }
+  }
+  // A sheltered crab occasionally flexes the exposed claw as it peeks out.
+  c.gesture=c.activity==='wave'?.5+Math.sin(t*3+c.homeX)*.5:c.activity==='sheltered'?Math.max(0,Math.sin(t*1.6+c.homeX))*.28:0;
+ }
+}
+
+function crabBody(c){
+ const moving=['walk','retreat','emerge'].includes(c.activity),stride=moving?1:0;
+ ctx.save();ctx.translate(c.x,c.y);ctx.scale(c.size*c.direction,c.size);
+ ellipse(ctx,0,6,34,6,'#203e3450');
+ ctx.lineCap='round';ctx.lineJoin='round';
+ for(const side of [-1,1]){
+  for(let i=0;i<4;i++){
+   const phase=c.gait+i*Math.PI*.78+(side<0?Math.PI:0),swing=Math.sin(phase)*stride;
+   const jointX=side*(23+i*1.4+swing*2.5),jointY=-6+i*4;
+   const tipX=side*(32+i*1.8+swing*4),tipY=3+i*3-Math.max(0,Math.cos(phase))*stride*4;
+   ctx.strokeStyle='#29483f';ctx.lineWidth=4;ctx.beginPath();ctx.moveTo(side*12,-9+i*3);ctx.lineTo(jointX,jointY);ctx.lineTo(tipX,tipY);ctx.stroke();
+   ctx.strokeStyle=c.leg;ctx.lineWidth=2.5;ctx.stroke();
+   ellipse(ctx,jointX,jointY,1.6,1.4,c.rim);
+  }
+  const wave=side>0?c.gesture:0,cx=side*(28+wave*3),cy=-23-wave*13;
+  ctx.strokeStyle=c.leg;ctx.lineWidth=5;ctx.beginPath();ctx.moveTo(side*12,-13);ctx.lineTo(side*23,-10-wave*7);ctx.lineTo(cx,cy+4);ctx.stroke();
+  ellipse(ctx,cx,cy,6.5,8,c.claw,side*.4);
+  // Two separate fingers leave an open, gently moving pincer.
+  ctx.strokeStyle=c.claw;ctx.lineWidth=3;
+  for(const finger of [-1,1]){ctx.beginPath();ctx.moveTo(cx+finger*4,cy-3);ctx.quadraticCurveTo(cx+finger*(7+wave*3),cy-13,cx+finger*(1.5+wave*3),cy-13);ctx.stroke();}
+  ellipse(ctx,cx-2,cy-2,1.5,3,'#f3d3a05e',.4);
+ }
+ const shell=ctx.createLinearGradient(0,-21,0,3);shell.addColorStop(0,c.rim);shell.addColorStop(.3,c.shell);shell.addColorStop(1,c.leg);
+ ellipse(ctx,0,-9,18,12,'#284b42');ellipse(ctx,0,-10,17,11,shell);
+ ctx.strokeStyle=c.rim;ctx.lineWidth=1;ctx.beginPath();ctx.ellipse(0,-11,13,7,0,Math.PI*1.12,Math.PI*1.9);ctx.stroke();
+ for(const side of [-1,1]){
+  ctx.strokeStyle=c.leg;ctx.lineWidth=3;ctx.beginPath();ctx.moveTo(side*8,-16);ctx.lineTo(side*10,-23);ctx.stroke();
+  ellipse(ctx,side*10,-24,3,3.5,'#d9d29b');ellipse(ctx,side*10+.5,-24,1.6,2.2,'#183735');ellipse(ctx,side*10,-25,.7,.8,'#e4ead6');
+  ellipse(ctx,side*9,-8,2,1,'#f0ca9259');
+ }
+ ctx.restore();
+}
 
 function fishBody(f){
  const s=f.size,tail=Math.sin(t*3.8+f.phase)*(f.type==='angel'?.08:.2),squeeze=Math.max(.15,Math.abs(f.turn)),sign=f.turn<0?-1:1;
@@ -143,6 +213,7 @@ function fishBody(f){
 
 function update(dt){
  t+=dt;const strength=currentStrength();
+ updateCrabs(dt);
  lightValue=lerp(lightValue,lighting,Math.min(1,dt*.75));
  for(let i=foods.length-1;i>=0;i--){const food=foods[i];food.y+=food.speed*dt;food.x+=Math.sin(t*.8+food.phase)*dt*2*strength;food.age+=dt;if(food.y>906||food.age>36)foods.splice(i,1);}
  for(const f of fish){
@@ -182,6 +253,10 @@ function render(){
  // Fish are layered among the hardscape and the closer plants.
  fish.filter(f=>f.depth<.84).sort((a,b)=>a.size-b.size).forEach(fishBody);
  ctx.drawImage(ground,0,0);
+ crabs.forEach(crabBody);
+ // The opaque hardscape hides only the overlapping parts of a crab;
+ // exposed legs and claws stay visible while it waits behind a stone.
+ ctx.drawImage(shelters,0,0);ctx.drawImage(foreground,0,0);
  // Ground caustics, thin and uneven, follow the current.
  ctx.save();ctx.globalAlpha=.1*(1-lightValue*.3);ctx.strokeStyle='#d2dfac';ctx.lineWidth=1;
  for(let k=0;k<12;k++){ctx.beginPath();for(let j=0;j<=22;j++){const x=300+j*46,y=915+k*8+Math.sin(j*.8+k+t*.23)*7+Math.sin(j*1.8+t*.15)*3;j?ctx.lineTo(x,y):ctx.moveTo(x,y);}ctx.stroke();}ctx.restore();
@@ -229,5 +304,5 @@ document.addEventListener('keydown',event=>{if(event.ctrlKey||event.altKey||even
 document.addEventListener('visibilitychange',()=>{last=0;});
 clock();setInterval(clock,1000);render();requestAnimationFrame(tick);
 // Read-only diagnostics for local browser verification, independent of gallery discovery.
-window.aquarium={getState:()=>({time:t,paused,lighting,flow,fish:fish.length,foods:foods.length,eaten,totalFed,frames,positions:fish.map(f=>({x:f.x,y:f.y}))})};
+window.aquarium={getState:()=>({time:t,paused,lighting,flow,fish:fish.length,crabs:crabs.length,crabStates:crabs.map(c=>({x:c.x,y:c.y,activity:c.activity,gait:c.gait,gesture:c.gesture})),foods:foods.length,eaten,totalFed,frames,positions:fish.map(f=>({x:f.x,y:f.y}))})};
 })();
