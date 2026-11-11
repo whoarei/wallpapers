@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "ocean-drift",
+  "type": "web",
+  "name": "蔚蓝漫游",
+  "subtitle": "OCEAN DRIFT",
+  "description": "一幅可以慢慢游览的海底长卷：从缤纷珊瑚花园穿过海藻森林，抵达水母发光的幽蓝深海。镜头停留后缓缓巡游，也可拖动探索；鱼群、海龟与鳐鱼在层层光影间自在游动。",
+  "version": "1.0.0",
+  "minAppVersion": "0.2.0",
+  "entry": "index.html",
+  "cover": "cover.jpg",
+  "tags": ["海底", "全景漫游", "珊瑚", "海洋生物"],
+  "order": 80,
+  "enabled": true
+}
