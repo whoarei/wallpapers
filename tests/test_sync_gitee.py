@@ -257,7 +257,7 @@ class GiteeAPI(unittest.TestCase):
             self.assertIn('form-string = "access_token=secret"', config)
             self.assertIn('file=@', config)
             self.assertIn('scene.zip', config)
-            self.assertIn('max-time = "300"', config)
+            self.assertIn('max-time = "600"', config)
             self.assertNotIn('archive bytes', config)
 
     def test_upload_transport_errors_are_retryable_and_redacted(self):

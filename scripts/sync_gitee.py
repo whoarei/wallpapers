@@ -18,6 +18,7 @@ REPOSITORY = "xishuaiya/wallpapers"
 API = f"https://gitee.com/api/v5/repos/{REPOSITORY}"
 TAG = re.compile(r"library-v(?:0|[1-9][0-9]*)\.(?:0|[1-9][0-9]*)\.(?:0|[1-9][0-9]*)\Z")
 ATTEMPTS = 3
+UPLOAD_TIMEOUT = 600
 
 
 class GiteeError(RuntimeError):
@@ -114,7 +115,7 @@ class Gitee:
             "request": "POST",
             "header": "Accept: application/json",
             "connect-timeout": "30",
-            "max-time": "300",
+            "max-time": str(UPLOAD_TIMEOUT),
             "expect100-timeout": "5",
             "write-out": "\n__gitee_status__:%{http_code}",
         }
@@ -124,7 +125,7 @@ class Gitee:
         config += "form = " + quoted('file=@"' + str(file.resolve()).replace('"', '\\"') + '";type=application/octet-stream') + "\n"
         try:
             result = subprocess.run(["curl", "--config", "-"], input=config.encode(),
-                                    stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=315, check=False)
+                                    stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=UPLOAD_TIMEOUT + 15, check=False)
         except FileNotFoundError:
             raise GiteeError("Gitee attachment upload requires curl on PATH") from None
         except subprocess.TimeoutExpired:

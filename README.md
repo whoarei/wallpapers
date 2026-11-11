@@ -74,7 +74,7 @@ https://github.com/whoarei/wallpapers/releases/latest/download/catalog.json
 
 `.github/workflows/sync-gitee.yml` 会下载已发布的 GitHub Release 附件并校验 SHA-256，再推送该版本的 Git 标签、创建同名 Gitee Release。ZIP 和封面保持原始内容；Gitee 的 `catalog.json` 中下载和封面地址改为实际的 Gitee 附件地址，`SHA256SUMS.txt` 随之重新生成。上传后会匿名下载每个附件验证 SHA-256，全部完成后将 Gitee `main` 快进到本次检出的 GitHub `main`。主分支或标签存在冲突时不强制覆盖。
 
-附件通过系统 `curl` 流式上传，令牌仅经标准输入传入。网络中断会先重新查询远端文件名并校验内容，再决定是否重试，避免请求已成功但响应丢失时重复上传。每个文件最多尝试三次；某个附件的连接失败不会阻断其余附件的补传。清单和校验文件只在全部壁纸包与封面通过验证后上传；未完成的 Gitee 镜像标为预发布，完成后转为正式版本。失败日志保留 HTTP / curl 错误码，不输出令牌。
+附件通过系统 `curl` 流式上传，令牌仅经标准输入传入。网络中断会先重新查询远端文件名并校验内容，再决定是否重试，避免请求已成功但响应丢失时重复上传。单次上传允许最长十分钟，每个文件最多尝试三次；某个附件的连接失败不会阻断其余附件的补传。清单和校验文件只在全部壁纸包与封面通过验证后上传；未完成的 Gitee 镜像标为预发布，完成后转为正式版本。失败日志保留 HTTP / curl 错误码，不输出令牌。
 
 发布工作流成功后会直接调用同步流程，因为使用 `GITHUB_TOKEN` 发布 Release 不会触发另一个 `release: published` 工作流。同时保留 `release: published` 入口，支持手动在 GitHub 发布的正式版本。
 
