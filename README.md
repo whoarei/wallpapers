@@ -1,5 +1,7 @@
 # 壁纸盒子 · 官方壁纸库
 
+**简体中文** | [English](README.en.md)
+
 这里收录了「壁纸盒子」的官方动态壁纸，涵盖像素小镇、自然风景、海底世界与实时星空等主题。在 [壁纸盒子](https://github.com/whoarei/wallpaper-box) 中即可浏览、按需下载和切换壁纸，已安装的壁纸可离线使用。
 
 也可前往 [GitHub Releases](https://github.com/whoarei/wallpapers/releases) 或 [Gitee Releases](https://gitee.com/xishuaiya/wallpapers/releases) 下载壁纸包。
