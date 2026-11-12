@@ -1,12 +1,23 @@
 ---
 name: gitee-release-sync
-description: 将 whoarei/wallpapers 已发布的 GitHub 正式版本同步到 xishuaiya/wallpapers 的 Gitee Release。用于同步 Gitee、漏传附件补齐、同步失败诊断、已有版本补同步，以及新版发布后的镜像验收。复用原包和原版本，核对所有附件、清单、校验值、源码与默认更新入口。
+description: 仅在用户明确要求将已发布的 GitHub 壁纸库版本同步到 Gitee、补齐漏传附件、排查 Release 同步失败，或已获授权的新版本发布进入 Gitee 同步阶段时使用。普通开发、测试、提交、推送及仅同步 Git 源码不触发本 skill。复用原版本和原包，校验 Release 附件、清单与默认更新入口。
 ---
 
 # 同步已发布版本到 Gitee
 
 在 `whoarei/wallpapers` 仓库根目录执行。源为 GitHub `whoarei/wallpapers`，
 目标为 Gitee `xishuaiya/wallpapers`。
+
+## 触发边界
+
+- 用户明确要求同步、补齐或排查已发布版本的 Gitee Release，或一次已授权的
+  新版发布进入镜像同步阶段时，才进入本流程。
+- 普通开发、测试、提交、推送，不启动本流程。不要为了让 Gitee main 跟上
+  普通提交，重新同步一个已有 Release。
+- 仅要求 Git 源码或分支同步时，按源码同步处理，不派发 `sync-gitee.yml`。
+  “同步 Gitee”若上下文只有源码改动，不自动解释成 Release 附件同步。
+- 仅编写或修改本 skill 时，只做文件与必要的本地检查，不把 skill 自己执行一遍。
+- 只排查或只核验的请求，先执行只读检查，不据此自动派发有写入的同步任务。
 
 这里的“补同步”是把已有正式版的缺失附件补齐并核验，不生成新的内容版本。
 需要修改壁纸内容或创建新版本时，使用 [wallpaper-release](../wallpaper-release/SKILL.md)，

@@ -61,8 +61,10 @@ https://github.com/whoarei/wallpapers/releases/latest/download/catalog.json
 
 仓库提供两个可独立调用的 agent skill：
 
-- [`wallpaper-release`](.agents/skills/wallpaper-release/SKILL.md)：准备和发布新版。先列出更新点、推荐版本号与其他合理选项，由用户最终确定版本号后再修改版本、打标签发布。
-- [`gitee-release-sync`](.agents/skills/gitee-release-sync/SKILL.md)：同步已发布版本、补齐 Gitee 漏传附件并核验。复用原版本和原包，不另发内容版本。
+- [`wallpaper-release`](.agents/skills/wallpaper-release/SKILL.md)：用户明确要求准备或发布新版时使用。先列出更新点、推荐版本号与其他合理选项，由用户最终确定版本号后再修改版本、打标签发布。
+- [`gitee-release-sync`](.agents/skills/gitee-release-sync/SKILL.md)：用户明确要求同步已发布版本、补齐 Gitee 漏传附件，或已授权的新版发布进入同步阶段时使用。复用原版本和原包，不另发内容版本。
+
+普通开发、测试、提交和推送不调用这两个 skill，也不因此询问或修改版本号。仅同步 Git 源码时，按源码同步处理，不触发 Release 同步。
 
 发布新版会衔接 Gitee 同步；两端完整校验且默认入口返回最新版后，才报告完整发布。独立验收命令为 `python scripts/verify_release.py library-vX.Y.Z`；只检查历史版时加 `--historical`，不要求旧版成为 latest。
 
