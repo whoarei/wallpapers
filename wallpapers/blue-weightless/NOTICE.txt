@@ -3,13 +3,18 @@
 Original wallpaper made for the Wallpaper Box official library.
 Pool background and complete character pose illustrations were generated
 specifically for this project from the original visual concept. The character
-depicts an adult athlete. Version 1.1.0 replaces the detached-part character
-with seven complete illustrations and a continuous deformation mesh. Faces,
-fingers and toes are rigid detail regions. Animation is intentionally gentle
-to preserve the authored anatomy. A complete-artwork fallback is used when
-WebGL is unavailable. Camera, water, fish, plants and controls use local
-Canvas 2D rendering. No network services, tracking, audio or runtime fonts are
-required. The wallpaper contains exactly one animated swimmer.
+depicts an adult athlete. Standing, diving, gliding and climbing use complete
+illustrations with a detail-preserving mesh, or complete-artwork fallback.
+Freestyle, breaststroke, backstroke and butterfly each use sixteen complete
+authored drawings, registered to the same torso position. Each frame preserves
+the drawn face, fingers and toes without separating or stretching limbs.
+Breaststroke has a longer glide; butterfly uses two kicks per arm cycle.
+Forward motion, water entry splashes and body movement follow stroke timing.
+Stroke cycles are composited with Canvas 2D and also work without WebGL.
+A missing motion atlas falls back to the corresponding complete illustration.
+Camera, water, fish, plants and controls use local Canvas 2D rendering.
+No network services, tracking, audio or runtime fonts are required. The
+wallpaper contains exactly one animated swimmer.
 
 Keyboard: Space pause, A follow, G garden, 1–7 chapters, arrows explore,
 R restart, S hide interface, F fullscreen, H help, Escape close / reveal.

@@ -11,18 +11,19 @@ const crypto = require('node:crypto');
 const { chromium } = require(process.env.PLAYWRIGHT_PATH || 'playwright');
 const args = process.argv.slice(2), option = n => args.includes(n) ? args[args.indexOf(n) + 1] : undefined;
 const folder = path.resolve(process.env.WALLPAPER_ROOT || path.join(__dirname, '../wallpapers/blue-weightless'));
+const Motion = require(path.join(folder, 'motion.js'));
 const output = path.resolve(option('--output-dir') || path.join(os.tmpdir(), 'blue-weightless-qa'));
 const origin = 'https://blue-weightless.test/';
 const errors = [], external = [], checks = [];
 const hash = b => crypto.createHash('sha256').update(b).digest('hex');
 const state = p => p.evaluate(() => blueWeightless.getState());
-async function route(context, missingAtlas = false) {
+async function route(context, missingAtlas = false, missingCycle = '') {
   await context.route('**/*', r => {
     const u = new URL(r.request().url());
     if (u.origin !== new URL(origin).origin) { external.push(u.href); return r.abort(); }
     const name = decodeURIComponent(u.pathname.slice(1)) || 'index.html';
     if (name === 'favicon.ico') return r.fulfill({ status: 204 });
-    if (name.includes('..') || missingAtlas && name.endsWith('heroine-poses.png')) return r.fulfill({ status: 404, body: '' });
+    if (name.includes('..') || missingAtlas && name.endsWith('heroine-poses.png') || missingCycle && name.endsWith(missingCycle)) return r.fulfill({ status: 404, body: '' });
     const file = path.join(folder, name);
     if (!fs.existsSync(file)) return r.fulfill({ status: 404, body: '' });
     const contentType = ({ html: 'text/html; charset=utf-8', js: 'text/javascript', css: 'text/css', png: 'image/png', jpg: 'image/jpeg' })[path.extname(name).slice(1)] || 'application/octet-stream';
@@ -54,14 +55,42 @@ function watch(page) {
       assert.equal(await page.locator('#chapter-name').textContent(), title);
       const character = (await state(page)).character;
       assert.ok(character.minAreaRatio >= .3499); assert.ok(character.gain > 0); assert.equal(character.error, null);
+      if (Motion.definitions[character.pose]) {
+        assert.equal(character.mode, 'pose-cycle'); assert.equal(character.sequenceLength, 16);
+        assert.equal(character.availableCycles.length, 4); assert.equal(character.cycleWarning, null);
+      }
       await page.screenshot({ path: path.join(output, `${file}.jpg`), type: 'jpeg', quality: 93 });
     }
+    // Check the actual rendered result throughout every stroke, not just a chapter still.
+    for (const [name, d] of Object.entries(Motion.definitions)) {
+      const hashes = new Set(), review = [], weights = d.holds || Array(16).fill(1), total = weights.reduce((a, b) => a + b, 0);
+      let cursor = 0;
+      for (let i = 0; i < 16; i++) {
+        const phase = (cursor + weights[i] * .5) / total; cursor += weights[i];
+        await page.evaluate(t => blueWeightless.seek(t), d.start + phase * d.period);
+        const s = await state(page); assert.equal(s.character.sequenceFrame, i);
+        assert.equal(s.character.sequenceSource, d.order ? d.order[i] : i);
+        const shot = await page.screenshot({ clip: { x: Math.round(s.x - s.camera) - 320, y: 320, width: 640, height: 400 } });
+        hashes.add(hash(shot));
+        if (args.includes('--motion-review')) {
+          fs.writeFileSync(path.join(output, `${name}-${String(i + 1).padStart(2, '0')}.png`), shot);
+          review.push(`data:image/png;base64,${shot.toString('base64')}`);
+        }
+      }
+      assert.equal(hashes.size, 16, `${name} renders sixteen distinct poses`);
+      if (review.length) {
+        const board = await context.newPage(); await board.setViewportSize({ width: 2560, height: 1760 });
+        await board.setContent(`<body style="margin:0;background:#102c3a;color:#dceee5;font:24px system-ui"><h1 style="margin:20px">${name} · 16 complete poses</h1><div style="display:grid;grid-template-columns:repeat(4,640px)">${review.map((url, i) => `<figure style="margin:0;position:relative"><img style="display:block;width:640px;height:400px" src="${url}"><b style="position:absolute;left:12px;top:12px;background:#10333bad;padding:4px 10px">${i + 1}</b></figure>`).join('')}</div></body>`);
+        await board.screenshot({ path: path.join(output, `${name}-contact-sheet.png`), fullPage: true }); await board.close();
+      }
+    }
+    checks.push('all 64 authored poses render through the real pool compositor with deterministic phase and no double-body fades');
     await page.evaluate(() => blueWeightless.seek(10));
     const reaction = (await state(page)).fishReaction;
     await page.click('#pause'); await page.waitForTimeout(350); await page.click('#pause');
     assert.ok((await state(page)).fishReaction > reaction, 'fish react to the submerged swimmer');
     await page.click('#garden'); assert.equal((await state(page)).fishCount, 0); await page.click('#garden'); assert.equal((await state(page)).fishCount, 84);
-    checks.push('pause freezes pixels, seven complete character artworks animate without folded surfaces, fish avoid swimmer, garden toggle');
+    checks.push('pause freezes pixels, complete pose cycles and detail-preserving idle mesh, fish avoid swimmer, garden toggle');
 
     await page.evaluate(() => blueWeightless.seek(30));
     const cam = (await state(page)).camera;
@@ -116,11 +145,17 @@ function watch(page) {
     await fallback.addInitScript(() => { const native = HTMLCanvasElement.prototype.getContext; HTMLCanvasElement.prototype.getContext = function(type, ...args) { return type === 'webgl' ? null : native.call(this, type, ...args); }; });
     const lowGpu = await fallback.newPage(); watch(lowGpu); await lowGpu.goto(origin); await lowGpu.waitForFunction(() => blueWeightless.getState().ready);
     assert.equal((await state(lowGpu)).character.mode, 'artwork'); await lowGpu.evaluate(() => blueWeightless.seek(59)); assert.equal((await state(lowGpu)).character.pose, 'backstroke');
+    assert.equal((await state(lowGpu)).character.mode, 'pose-cycle', 'stroke cycles also work without WebGL');
     await lowGpu.screenshot({ path: path.join(output, 'fallback.jpg'), type: 'jpeg', quality: 90 }); await fallback.close();
     // Asset failures must expose a usable recovery control instead of a blank scene.
     const failed = await browser.newContext({ offline: true }); await route(failed, true);
     const broken = await failed.newPage(); await broken.goto(origin); await broken.locator('#loading button').waitFor(); assert.match(await broken.locator('#loading').textContent(), /重新加载/); await failed.close();
-    checks.push('reduced-motion starts paused, whole-artwork GPU fallback, missing-asset recovery, no external runtime requests');
+    const incomplete = await browser.newContext({ reducedMotion: 'reduce', offline: true }); await route(incomplete, false, 'freestyle-cycle.png');
+    const partial = await incomplete.newPage(); await partial.goto(origin); await partial.waitForFunction(() => blueWeightless.getState().ready);
+    await partial.evaluate(() => blueWeightless.seek(24));
+    assert.equal((await state(partial)).character.sequenceLength, 0); assert.equal((await state(partial)).character.availableCycles.length, 3);
+    await partial.evaluate(() => blueWeightless.seek(42)); assert.equal((await state(partial)).character.mode, 'pose-cycle'); await incomplete.close();
+    checks.push('reduced-motion starts paused, CPU-only pose cycles, missing-cycle illustration fallback, required-asset recovery, no external runtime requests');
     assert.deepEqual(external, []); assert.deepEqual(errors, []);
     fs.writeFileSync(path.join(output, 'result.json'), JSON.stringify({ checks, errors, external }, null, 2));
     console.log(JSON.stringify({ checks, output }, null, 2));

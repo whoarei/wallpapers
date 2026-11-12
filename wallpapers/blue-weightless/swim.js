@@ -18,6 +18,13 @@
   const random = () => { seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0; return seed / 4294967296; };
   const pool = new Image(), poses = new Image(), strokes = new Image(), glide = new Image();
   pool.src = 'assets/pool.png'; poses.src = 'assets/heroine-poses.png'; strokes.src = 'assets/heroine-strokes.png'; glide.src = 'assets/heroine-glide.png';
+  const motionImages = Object.fromEntries(Object.keys(SwimMotion.definitions).map(name => {
+    const image = new Image(); image.src = `assets/${name}-cycle.png`; return [name, image];
+  }));
+  // A missing new atlas must fall back to the existing complete illustration.
+  const motionReady = Promise.all(Object.entries(motionImages).map(async ([name, image]) => {
+    try { await image.decode(); return [name, image]; } catch { return null; }
+  })).then(entries => Object.fromEntries(entries.filter(Boolean)));
   try {
     const prefs = JSON.parse(localStorage.getItem('blue-weightless.v1') || '{}');
     if ([.5, 1, 1.5].includes(prefs.speed)) speed = prefs.speed;
@@ -207,12 +214,22 @@
     ctx.restore();
     // Waterline highlights and splashes are composited over the swimmer.
     if (state.y < SURFACE + 65 && state.y > SURFACE - 50 && state.motion !== 'stand' && state.motion !== 'climb') {
-      const intensity = state.motion === 'butterfly' ? 1.45 : .8;
+      const cycle = SwimMotion.sample(state);
+      const intensity = (state.motion === 'butterfly' ? 1.25 : .65) * (cycle ? .2 + cycle.force * .8 : 1);
       for (let i = 0; i < 27; i++) {
         const age = (time * 1.3 + i * .073) % 1, s = Math.sin(i * 7.2), sx = x + s * (40 + age * 70), sy = SURFACE + 9 - Math.sin(age * Math.PI) * (10 + (i % 7) * 4) * intensity;
         ellipse(ctx, sx, sy, 1 + (1 - age) * 1.3, 1.5 + (1 - age) * 2, `rgba(236,252,231,${(1 - age) * .75})`, s * .5);
       }
       ctx.strokeStyle = '#e0f8e699'; ctx.lineWidth = 1.5; ctx.beginPath(); ctx.ellipse(x - 5, SURFACE + 8, 100, 5, 0, 0, TAU); ctx.stroke();
+      if (cycle) for (const event of cycle.events) {
+        const age = event.age / .58, sx = x + event.x * Math.min(1, viewWidth / 540);
+        for (let i = 0; i < 13; i++) {
+          const spread = Math.sin(i * 2.399), px = sx + spread * age * 46;
+          const py = SURFACE + 2 - Math.sin(age * Math.PI) * (9 + i % 5 * 6) * event.strength;
+          ellipse(ctx, px, py, .7 + (1 - age), 1 + (1 - age) * 1.5,
+            `rgba(237,252,232,${(1 - age) * .55})`, spread * .6);
+        }
+      }
     }
     // The dive entry blooms once per loop, expanding and settling naturally.
     if (state.t > 6.45 && state.t < 9.25) {
@@ -354,8 +371,9 @@
     setCamera(value) { following = false; camera = targetCamera = clamp(Number(value) || 0, 0, WORLD_WIDTH - viewWidth); syncControls(); draw(); }
   });
   syncControls(); resize();
-  Promise.all([pool.decode(), poses.decode(), strokes.decode(), glide.decode()]).then(() => {
+  Promise.all([pool.decode(), poses.decode(), strokes.decode(), glide.decode(), motionReady]).then(([, , , , cycles]) => {
     character = new SwimCharacter.Renderer({ poses, strokes, glide });
+    character.setCycles(cycles, SwimMotion);
     ready = true; updateFish(1, J.sample(time)); $('loading').classList.add('loaded'); draw(); requestAnimationFrame(tick);
   }).catch(() => {
     $('loading').textContent = '画面素材未能加载，请重新打开这张壁纸。';

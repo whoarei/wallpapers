@@ -1,9 +1,10 @@
 (function (root, factory) {
   'use strict';
-  const api = factory();
+  const motion = typeof module === 'object' && module.exports ? require('./motion.js') : root.SwimMotion;
+  const api = factory(motion);
   if (typeof module === 'object' && module.exports) module.exports = api;
   else root.SwimJourney = api;
-})(typeof window === 'object' ? window : globalThis, function () {
+})(typeof window === 'object' ? window : globalThis, function (Motion) {
   'use strict';
   const TAU = Math.PI * 2, DURATION = 112, WORLD_WIDTH = 9000, SURFACE = 535;
   const clamp = (v, a = 0, b = 1) => Math.max(a, Math.min(b, v));
@@ -32,13 +33,13 @@
       x = lerp(920, 1830, u); y = SURFACE + lerp(132, 18, smooth(u)) + Math.sin(u * Math.PI) * 26;
       angle = .58 * (1 - smooth(u * 4)) - .08 * Math.sin(u * Math.PI); motion = 'glide';
     } else if (!beginning && t >= 17 && t < 35) {
-      x = lerp(1830, 3300, (t - 17) / 18); y = SURFACE + 18 + Math.sin(t * 2.7) * 3; angle = Math.sin(t * 2.7) * .018; motion = 'freestyle';
+      x = lerp(1830, 3300, (t - 17) / 18); y = SURFACE + 18; angle = 0; motion = 'freestyle';
     } else if (!beginning && t >= 35 && t < 51) {
-      x = lerp(3300, 4600, (t - 35) / 16); y = SURFACE + 12 + Math.sin(t * 2.15) * 8; angle = Math.sin(t * 2.15) * .035; motion = 'breaststroke';
+      x = lerp(3300, 4600, (t - 35) / 16); y = SURFACE + 12; angle = 0; motion = 'breaststroke';
     } else if (!beginning && t >= 51 && t < 67) {
-      x = lerp(4600, 5950, (t - 51) / 16); y = SURFACE + 11 + Math.sin(t * 2.5) * 3; angle = 0; motion = 'backstroke';
+      x = lerp(4600, 5950, (t - 51) / 16); y = SURFACE + 11; angle = 0; motion = 'backstroke';
     } else if (!beginning && t >= 67 && t < 88) {
-      x = lerp(5950, 7800, (t - 67) / 21); y = SURFACE + 17 + Math.sin(t * 2.8) * 12; angle = Math.sin(t * 2.8) * .065; motion = 'butterfly';
+      x = lerp(5950, 7800, (t - 67) / 21); y = SURFACE + 17; angle = 0; motion = 'butterfly';
     } else if (!beginning && t >= 88 && t < 92) {
       x = lerp(7800, 8130, smooth((t - 88) / 4)); y = SURFACE + 17; angle = 0; motion = 'breaststroke';
     } else if (!beginning && t >= 92) {
@@ -48,6 +49,13 @@
     if (stage > 0 && t - stages[stage].start < 1) {
       const previous = sample(stages[stage].start - .0001), u = smooth(t - stages[stage].start);
       y = lerp(previous.y, y, u); angle = lerp(previous.angle, angle, u);
+    }
+    const cycle = Motion.sample({ t, motion });
+    if (cycle) {
+      const end = stage === 6 ? 92 : stages[stage + 1].start;
+      const envelope = smooth((t - stages[stage].start) / .9) * smooth((end - t) / .9);
+      const distance = motion === 'breaststroke' ? 10 : 5;
+      x += Math.sin((cycle.phase - .25) * TAU) * distance * envelope;
     }
     const fade = t >= 104 && t < 108 ? smooth((t - 104) / 4) : t >= 108 ? 1 - smooth((t - 108) / 4) : 0;
     return { t, stage, x, y, angle, motion, amount, fade, beginning, submerged: y > SURFACE + 50 };

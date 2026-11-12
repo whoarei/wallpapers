@@ -131,10 +131,37 @@
       this.images = Object.fromEntries(Object.entries(images).map(([key, image]) => [key, cleanAlpha(image)]));
       this.meshes = Object.fromEntries(Object.entries(definitions).map(([key, d]) => [key, createMesh(d)]));
       this.mode = 'artwork'; this.currentPose = 'stand'; this.lastError = null;
+      this.cycles = {}; this.cycle = null; this.cycleWarning = null;
       try { this.initializeGL(); } catch (error) { this.lastError = error.message; this.gl = null; }
       this.fallback = document.createElement('canvas'); this.fallback.width = WIDTH; this.fallback.height = HEIGHT; this.fc = this.fallback.getContext('2d');
       this.canvas.addEventListener('webglcontextlost', event => { event.preventDefault(); this.mode = 'artwork'; this.gl = null; });
       this.canvas.addEventListener('webglcontextrestored', () => { try { this.initializeGL(); } catch (error) { this.lastError = error.message; } });
+    }
+    setCycles(images, motion) {
+      this.motion = motion;
+      for (const [name, image] of Object.entries(images)) {
+        if (!motion.definitions[name]) continue;
+        if (image.naturalWidth !== 1536 || image.naturalHeight !== 1024) {
+          this.cycleWarning = `Invalid motion atlas: ${name}`; continue;
+        }
+        const sheet = cleanAlpha(image), d = motion.definitions[name];
+        this.cycles[name] = Array.from({ length: motion.COUNT }, (_, index) => {
+          const frame = document.createElement('canvas'); frame.width = 576; frame.height = 384;
+          const c = frame.getContext('2d'), [ax, ay] = d.anchors[index];
+          c.drawImage(sheet, index % 4 * 384, Math.floor(index / 4) * 256, 384, 256,
+            288 - ax * d.scale, 192 - ay * d.scale, 384 * d.scale, 256 * d.scale);
+          return frame;
+        });
+      }
+    }
+    drawCycle(state) {
+      const cycle = this.motion.sample(state), frames = this.cycles[state.motion];
+      if (!cycle || !frames) return null;
+      const c = this.fc; c.clearRect(0, 0, WIDTH, HEIGHT); c.save();
+      c.translate(WIDTH / 2, HEIGHT / 2 + cycle.heave); c.rotate(state.angle + cycle.pitch);
+      // Exactly one complete drawing. No double-body crossfade or articulated cutouts.
+      c.drawImage(frames[cycle.source], -288, -192);
+      c.restore(); this.cycle = cycle; return this.fallback;
     }
     initializeGL() {
       const gl = this.canvas.getContext('webgl', { alpha: true, premultipliedAlpha: true, antialias: true, preserveDrawingBuffer: true });
@@ -166,6 +193,8 @@
     draw(state) {
       const key = poseFor(state), mesh = this.meshes[key] || this.meshes.glide, d = mesh.definition;
       this.currentPose = key;
+      this.cycle = null;
+      if (this.cycles[key]) return this.drawCycle(state);
       const angle = key === 'stand' || key === 'climb' ? 0 : state.angle;
       const ca = Math.cos(angle), sa = Math.sin(angle), positions = deform(mesh, state.t);
       if (!this.gl) {
@@ -185,7 +214,13 @@
       gl.bindBuffer(gl.ELEMENT_ARRAY_BUFFER, this.indexBuffer); gl.bufferData(gl.ELEMENT_ARRAY_BUFFER, mesh.indices, gl.STATIC_DRAW); gl.drawElements(gl.TRIANGLES, mesh.indices.length, gl.UNSIGNED_SHORT, 0);
       return this.canvas;
     }
-    getState() { const mesh = this.meshes[this.currentPose]; return { mode: this.mode, pose: this.currentPose, gain: mesh?.gain, minAreaRatio: mesh?.minAreaRatio, error: this.lastError }; }
+    getState() { const mesh = this.meshes[this.currentPose]; return {
+      mode: this.cycle ? 'pose-cycle' : this.mode, pose: this.currentPose,
+      gain: this.cycle ? 1 : mesh?.gain, minAreaRatio: this.cycle ? 1 : mesh?.minAreaRatio, error: this.lastError,
+      sequenceFrame: this.cycle?.frame ?? null, sequenceSource: this.cycle?.source ?? null,
+      sequenceLength: this.cycle?.count ?? 0, phase: this.cycle?.phase ?? null, breath: this.cycle?.breath ?? 0,
+      cycleWarning: this.cycleWarning, availableCycles: Object.keys(this.cycles)
+    }; }
   }
   return { WIDTH, HEIGHT, definitions, createMesh, deform, poseFor, Renderer };
 });

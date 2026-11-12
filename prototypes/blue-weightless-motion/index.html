@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>蓝色失重 · 游泳动作研究</title>
+  <link rel="stylesheet" href="study.css">
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">WEIGHTLESS IN BLUE / MOTION STUDY 01</p>
+      <h1>让她，真正游起来。</h1>
+      <p class="intro">保留现在的人物，重新设计划水、换气与身体的节奏。</p>
+      <span class="badge">自由泳 · 8 个关键姿态草稿</span>
+    </header>
+
+    <section class="comparison" aria-label="新旧动作对比">
+      <article>
+        <div class="panel-heading"><span>01 / 当前版本</span><b>一张原画的局部摆动</b></div>
+        <canvas id="before" width="1000" height="560" aria-label="当前自由泳动画"></canvas>
+        <p>人物已经漂亮，但回臂、推水与换气没有形成完整动作。</p>
+      </article>
+      <article class="proposed">
+        <div class="panel-heading"><span>02 / 动作方向</span><b>连续关键姿态预演</b></div>
+        <canvas id="after" width="1000" height="560" aria-label="自由泳八个关键姿态预演"></canvas>
+        <p id="phase-note">伸展与推水：前臂向前延伸，另一侧完成推水。</p>
+      </article>
+    </section>
+
+    <section class="transport" aria-label="动作播放控制">
+      <div class="play-controls">
+        <button id="previous" aria-label="上一关键姿态">← 上一帧</button>
+        <button id="play" class="primary">暂停预演</button>
+        <button id="next" aria-label="下一关键姿态">下一帧 →</button>
+        <label>速度 <select id="speed"><option value="0.5">0.5×</option><option value="1" selected>1×</option><option value="1.5">1.5×</option></select></label>
+        <label class="water-toggle"><input id="water" type="checkbox"> 水面参考线</label>
+      </div>
+      <label class="scrub-label" for="scrub"><span>关键姿态</span><output id="position">01 / 08</output></label>
+      <input id="scrub" type="range" min="0" max="7" value="0" step="1" aria-label="选择关键姿态">
+      <div class="frames" id="frames" role="group" aria-label="八个关键姿态"></div>
+      <p class="draft-note">这是动作关键姿态预演，尚未补中间帧。手臂前后层次、体型稳定和首尾衔接还需精修，不作为最终流畅度展示。</p>
+      <p id="loading" role="status">正在加载人物原画…</p>
+    </section>
+
+    <section class="direction" aria-labelledby="direction-heading">
+      <p class="eyebrow">FOUR STROKES / 四种泳姿的动作方向</p>
+      <h2 id="direction-heading">每种泳姿，都要有自己的呼吸。</h2>
+      <div class="stroke-cards">
+        <article><span>01</span><h3>自由泳</h3><p>高肘回臂、左右交替，肩髋随划水转动。换气时侧转，随后低头回水。</p><small>伸展 → 抱水 → 推水 → 回臂</small></article>
+        <article><span>02</span><h3>蛙泳</h3><p>划水抬肩换气，收腿后蹬夹，再伸展滑行。把“发力—停留”的节奏做出来。</p><small>划水 → 换气 → 蹬夹 → 滑行</small></article>
+        <article><span>03</span><h3>仰泳</h3><p>双臂交替过肩回摆，肩带随身体转动；头保持稳定，打腿小而连续。</p><small>出水 → 过肩 → 入水 → 水下推水</small></article>
+        <article><span>04</span><h3>蝶泳</h3><p>双臂同步回摆，波浪从胸部传向髋腿；一轮划臂配两次打腿，头先于手回水。</p><small>入水一踢 → 抱水 → 推水二踢 → 回臂</small></article>
+      </div>
+    </section>
+    <footer>
+      <p>视觉研究入口：<a href="https://fs.iwatobi-sc.com/movie/" target="_blank" rel="noreferrer">《Free!》官方公开 PV</a>。
+        动作结构核对：<a href="https://www.usms.org/fitness-and-training/guides/freestyle/body-position" target="_blank" rel="noreferrer">USMS 自由泳</a>、<a href="https://www.usms.org/fitness-and-training/articles-and-videos/articles/master-butterfly" target="_blank" rel="noreferrer">USMS 蝶泳</a>。</p>
+      <p>本页保留早期八帧动作研究。四种泳姿的十六帧循环已接入壁纸实现。</p>
+    </footer>
+  </main>
+  <script src="../../wallpapers/blue-weightless/character.js"></script>
+  <script src="study.js"></script>
+</body>
+</html>
