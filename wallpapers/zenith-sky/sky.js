@@ -1,11 +1,12 @@
 (() => {
   'use strict';
+function startScene() {
+const runtime = window.WallpaperRuntime;
+runtime.refresh();
   const M = window.StarMath, data = window.ZENITH_DATA;
   const canvas = document.querySelector('#sky'), ctx = canvas.getContext('2d', { alpha: false });
   const $ = s => document.querySelector(s), KEY = 'zenith-sky.settings.v1:' + String(window.ZENITH_DEFAULTS?.profile || 'official').slice(0, 80);
-  // The host may install its CSS/data marker only at DOMContentLoaded, after
-  // deferred module scripts. Its input bridge is available from initialization.
-  const desktop = document.documentElement.dataset.screenGardenWallpaper === 'true' || typeof window.__SCREEN_GARDEN_DESKTOP_CLICK === 'function';
+  const desktop = runtime.mode === 'desktop';
   document.body.dataset.desktop = String(desktop);
   const example = { name: '上海', latitude: 31.2304, longitude: 121.4737, source: 'example' };
   function validSite(s) { return s && typeof s.latitude === 'number' && typeof s.longitude === 'number' && Number.isFinite(s.latitude) && Number.isFinite(s.longitude) && Math.abs(s.latitude) <= 90 && Math.abs(s.longitude) <= 180; }
@@ -48,7 +49,8 @@
   for (const alt of [15, 30, 45, 60, 75]) gridPaths.push(Array.from({ length: 181 }, (_, i) => { const a = i * 2 * M.R; return [Math.sin(a) * Math.cos(alt * M.R), Math.cos(a) * Math.cos(alt * M.R), Math.sin(alt * M.R)]; }));
   for (let az = 0; az < 360; az += 30) gridPaths.push(Array.from({ length: 46 }, (_, i) => [Math.sin(az * M.R) * Math.cos(i * 2 * M.R), Math.cos(az * M.R) * Math.cos(i * 2 * M.R), Math.sin(i * 2 * M.R)]));
   const horizon = Array.from({ length: 241 }, (_, i) => [Math.sin(i / 240 * M.TAU), Math.cos(i / 240 * M.TAU), 0]);
-  function currentTime(stamp = performance.now()) { return paused ? frozenTime : speed === 1 ? Date.now() : baseTime + (stamp - baseStamp) * speed; }
+  let suspended = runtime.hostPaused || document.hidden, suspendedTime = baseTime;
+  function currentTime(stamp = performance.now()) { return paused ? frozenTime : suspended ? suspendedTime : speed === 1 ? Date.now() : baseTime + (stamp - baseStamp) * speed; }
   function wake() { lastInput = performance.now(); document.body.classList.remove('idle'); }
   function notify(message) { $('#notice').textContent = message; $('#notice').classList.add('visible'); clearTimeout(noticeTimer); noticeTimer = setTimeout(() => $('#notice').classList.remove('visible'), 4000); }
   function save() { try { localStorage.setItem(KEY, JSON.stringify(settings)); storageAvailable = true; } catch { storageAvailable = false; notify('设置已应用，本次环境无法保存；可在预览中导出桌面壁纸保留设置。'); } }
@@ -85,9 +87,9 @@
     }, error => { if (request !== locatedRequest) return; $('#locate').disabled = false; $('#location-status').textContent = error.code === 1 ? '未获得定位权限。可选择城市或输入经纬度。' : error.code === 3 ? '定位超时。可重试，或选择城市和经纬度。' : '暂时无法确定位置，请选择城市或输入经纬度。'; }, { enableHighAccuracy: false, timeout: 10000, maximumAge: 86400000 });
   }
   $('#locate').addEventListener('click', locate);
-  function setPaused(value) { const now = currentTime(); paused = Boolean(value); if (paused) frozenTime = now; else { baseTime = now; baseStamp = performance.now(); } $('#pause').textContent = paused ? '▷' : 'Ⅱ'; $('#pause').setAttribute('aria-pressed', String(paused)); dirty = true; render(); }
-  function setSpeed(value) { const now = currentTime(); speed = [1, 60, 600].includes(value) ? value : 1; baseTime = speed === 1 ? Date.now() : now; baseStamp = performance.now(); paused = false; $('#pause').textContent = 'Ⅱ'; $('#pause').setAttribute('aria-pressed', 'false'); $('#speed').textContent = speed === 1 ? '实时' : `${speed}×`; dirty = true; render(); }
-  function setTime(ms) { if (!Number.isFinite(ms)) throw new RangeError('Invalid observation time'); frozenTime = ms; paused = true; $('#pause').textContent = '▷'; $('#pause').setAttribute('aria-pressed', 'true'); dirty = true; render(); }
+  function setPaused(value) { const now = currentTime(); paused = Boolean(value); if (paused) frozenTime = now; else { baseTime = now; baseStamp = performance.now(); } $('#pause').textContent = paused ? '▷' : 'Ⅱ'; $('#pause').setAttribute('aria-pressed', String(paused)); runtime.setUserPaused(paused); dirty = true; render(); }
+  function setSpeed(value) { const now = currentTime(); speed = [1, 60, 600].includes(value) ? value : 1; baseTime = speed === 1 ? Date.now() : now; baseStamp = performance.now(); paused = false; $('#pause').textContent = 'Ⅱ'; $('#pause').setAttribute('aria-pressed', 'false'); $('#speed').textContent = speed === 1 ? '实时' : `${speed}×`; runtime.setUserPaused(paused); dirty = true; render(); }
+  function setTime(ms) { if (!Number.isFinite(ms)) throw new RangeError('Invalid observation time'); frozenTime = ms; paused = true; $('#pause').textContent = '▷'; $('#pause').setAttribute('aria-pressed', 'true'); runtime.setUserPaused(paused); dirty = true; render(); }
   function setZoom(value) { zoom = M.clamp(value, .65, 6); radius = Math.min(width, height) * .45 * zoom; dirty = true; }
   function resetView() { q = [0, 0, 0, 1]; setZoom(1.7); render(); }
   $('#pause').addEventListener('click', () => setPaused(!paused)); $('#speed').addEventListener('click', () => setSpeed([1, 60, 600][([1, 60, 600].indexOf(speed) + 1) % 3]));
@@ -195,13 +197,13 @@
     if (e.code === 'KeyC') $('#lines').click(); if (e.code === 'KeyN') $('#names').click(); if (e.code === 'KeyG') $('#grid').click();
     if (e.code === 'KeyH') togglePanel('help-panel'); if (e.code === 'KeyS') document.body.classList.toggle('interface-hidden');
     if (e.code === 'Escape') { togglePanel('location-panel', false); togglePanel('help-panel', false); }
-    if (e.code === 'KeyF') { if (document.fullscreenElement) document.exitFullscreen().catch(() => {}); else document.documentElement.requestFullscreen().catch(() => notify('可使用 F11 进入浏览器全屏')); }
+    if (e.code === 'KeyF' && runtime.capabilities.fullscreen) { if (document.fullscreenElement) document.exitFullscreen().catch(() => {}); else document.documentElement.requestFullscreen().catch(() => notify('可使用 F11 进入浏览器全屏')); }
   });
   $('#export').addEventListener('click', async () => {
     const button = $('#export'); button.disabled = true; button.textContent = '正在准备桌面壁纸…';
     const snapshot = cleanSettings(settings);
     try {
-      const names = ['index.html', 'sky.css', 'astro.js', 'sky-data.js', 'settings.js', 'archive.js', 'sky.js', 'module.json', 'cover.jpg', 'NOTICE.txt'];
+      const names = ['index.html', 'wallpaper-runtime.js', 'sky.css', 'astro.js', 'sky-data.js', 'settings.js', 'archive.js', 'sky.js', 'module.json', 'cover.jpg', 'NOTICE.txt'];
       const files = await Promise.all(names.map(async name => {
         if (name === 'settings.js') return { name, data: 'window.ZENITH_DEFAULTS = ' + JSON.stringify({ ...snapshot, profile: 'configured-' + Date.now().toString(36) }, null, 2) + ';\n' };
         const response = await fetch(new URL(name, location.href)); if (!response.ok) throw new Error('asset unavailable');
@@ -212,17 +214,26 @@
     } catch { notify('暂时无法导出。请在壁纸盒子的独立预览或本地网页服务中重试。'); }
     finally { button.disabled = false; button.textContent = '保存此位置的桌面壁纸'; }
   });
-  addEventListener('resize', resize); document.addEventListener('visibilitychange', () => { if (!document.hidden) { lastPaint = -Infinity; dirty = true; } });
+  addEventListener('resize', resize); document.addEventListener('visibilitychange', () => { if (!document.hidden && !paused) { lastPaint = -Infinity; dirty = true; } });
   function loop(stamp) {
     requestAnimationFrame(loop);
-    if (document.hidden) return;
+    if (runtime.hostPaused || document.hidden) return;
     if (!$('#location-panel').hidden || !$('#help-panel').hidden || document.querySelector('button:focus-visible,input:focus-visible,summary:focus-visible')) lastInput = stamp;
-    if (stamp - lastInput > 7000) document.body.classList.add('idle');
+    if (stamp - lastInput > 7000 && runtime.canIdle()) document.body.classList.add('idle');
     const interval = drag || dirty ? 1000 / 30 : speed > 1 && !paused ? 1000 / 15 : 1000;
     if ((paused && !dirty) || stamp - lastPaint < interval) return;
     lastPaint = stamp; render();
   }
   const getState = () => ({ id: 'zenith-sky', site: { ...settings.site }, observationTime, paused, speed, desktop, zoom, orientation: [...q], atZenith: Math.abs(q[3]) > .999999, frames, width: canvas.width, height: canvas.height, starCount: stars.length, constellationCount: new Set(constellations.map(c => c.id)).size, visible: projectedStars.length, drawnStars: projectedStars.map(s => ({ ...s })), settings: { ...settings, site: { ...settings.site } }, storageAvailable, renderFps: drag ? 30 : speed > 1 ? 15 : 1 });
   window.zenithSky = Object.freeze({ getState, setSite, setPaused, setSpeed, setTime, resetView, setZoom: value => { setZoom(value); render(); } }); window.getState = getState;
+  runtime.onStateChange(() => {
+    const next = runtime.hostPaused || document.hidden;
+    if (next && !suspended) suspendedTime = currentTime();
+    if (!next && suspended && !paused && speed > 1) { baseTime = suspendedTime; baseStamp = performance.now(); }
+    suspended = next; lastPaint = -Infinity; if (!paused) dirty = true; drag = null; wake();
+  });
   updateSite(); resize(); requestAnimationFrame(loop);
+}
+if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });
+else startScene();
 })();

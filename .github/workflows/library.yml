@@ -19,6 +19,7 @@ jobs:
           python-version: '3.12'
       - name: Test packaging and validate tag
         run: |
+          python scripts/sync_runtime.py --check
           python -m unittest discover -s tests -v
           node tests/zenith-sky.test.cjs
           node tests/blue-weightless.test.cjs
@@ -41,9 +42,43 @@ jobs:
           name: wallpaper-packages
           path: dist/*
           if-no-files-found: error
+  browser-adaptation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
+        with:
+          python-version: '3.12'
+      - name: Install browser test tools
+        run: |
+          npm install --prefix "$RUNNER_TEMP/wallpaper-browser-qa" --no-save --package-lock=false playwright@1.62.1
+          "$RUNNER_TEMP/wallpaper-browser-qa/node_modules/.bin/playwright" install --with-deps chromium
+      - name: Check standalone release packages in offline browser
+        env:
+          PLAYWRIGHT_PATH: ${{ runner.temp }}/wallpaper-browser-qa/node_modules/playwright
+          WALLPAPER_ROOT: ${{ runner.temp }}/wallpaper-packages
+          QA_OUTPUT_DIR: ${{ runner.temp }}/wallpaper-adaptation-results
+        run: |
+          python scripts/sync_runtime.py --check
+          python scripts/build.py
+          python - <<'PY'
+          import json, os, zipfile
+          from pathlib import Path
+          for item in json.loads(Path('dist/catalog.json').read_text())['wallpapers']:
+              with zipfile.ZipFile(Path('dist') / (item['id'] + '-' + item['version'] + '.zip')) as package:
+                  package.extractall(Path(os.environ['WALLPAPER_ROOT']) / item['id'])
+          PY
+          BROWSER_PATH="$(node -e 'process.stdout.write(require(process.env.PLAYWRIGHT_PATH).chromium.executablePath())')" node tests/wallpaper-adaptation.browser.cjs
+      - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f
+        if: always()
+        with:
+          name: wallpaper-adaptation-results
+          path: ${{ runner.temp }}/wallpaper-adaptation-results
+          if-no-files-found: warn
   publish:
     if: startsWith(github.ref, 'refs/tags/library-v')
-    needs: build
+    needs: [build, browser-adaptation]
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:

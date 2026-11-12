@@ -1,5 +1,8 @@
 (() => {
   'use strict';
+function startScene() {
+const runtime = window.WallpaperRuntime;
+runtime.refresh();
   const canvas = document.querySelector('#scene');
   const ctx = canvas.getContext('2d', { alpha: false });
   let width = 1600, height = 900, viewWidth = 1600, time = 0, paused = false, golden = false;
@@ -180,13 +183,17 @@
     const ratio=Math.min(devicePixelRatio||1,1.5,1920/innerWidth);width=Math.max(1,Math.round(innerWidth*ratio));height=Math.max(1,Math.round(innerHeight*ratio));
     canvas.width=width;canvas.height=height;viewWidth=900*width/height;ctx.setTransform(height/900,0,0,height/900,0,0);scene();
   }
-  function setPaused(value){paused=Boolean(value);document.querySelector('#pause').textContent=paused?'继续':'暂停';last=0;}
+  function setPaused(value){paused=Boolean(value);runtime.setUserPaused(paused);document.querySelector('#pause').textContent=paused?'继续':'暂停';last=0;}
   function toggleLight(){golden=!golden;document.querySelector('#light').textContent=golden?'清晨光线':'日落光线';scene();}
   document.querySelector('#pause').addEventListener('click',()=>setPaused(!paused));document.querySelector('#light').addEventListener('click',toggleLight);
-  addEventListener('keydown',event=>{if(event.repeat)return;if(event.code==='Space'){event.preventDefault();setPaused(!paused);}if(event.code==='KeyL')toggleLight();if(event.code==='KeyF'){if(document.fullscreenElement)document.exitFullscreen().catch(()=>{});else document.documentElement.requestFullscreen().catch(()=>{});}});
+  addEventListener('keydown',event=>{if(event.repeat)return;if(event.code==='Space'){event.preventDefault();setPaused(!paused);}if(event.code==='KeyL')toggleLight();if(event.code==='KeyF'&&runtime.capabilities.fullscreen){if(document.fullscreenElement)document.exitFullscreen().catch(()=>{});else document.documentElement.requestFullscreen().catch(()=>{});}});
   addEventListener('resize',resize);document.addEventListener('visibilitychange',()=>{last=0;});
   const getState=()=>({id:'sky-islands',time,paused,golden,frames,width,height,maxFps:30});
   window.skyIslands=Object.freeze({getState,setPaused,toggleLight});window.getState=getState;
-  function loop(stamp){requestAnimationFrame(loop);if(document.hidden||paused){last=0;return;}if(stamp-lastDraw<1000/30)return;const dt=last?Math.min(.05,(stamp-last)/1000):0;last=stamp;lastDraw=stamp;time+=dt;scene();}
+  function loop(stamp){requestAnimationFrame(loop);if(runtime.paused){last=0;return;}if(stamp-lastDraw<1000/30)return;const dt=last?Math.min(.05,(stamp-last)/1000):0;last=stamp;lastDraw=stamp;time+=dt;scene();}
+  runtime.onStateChange(()=>{last=lastDraw=0;});
   resize();requestAnimationFrame(loop);
+}
+if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });
+else startScene();
 })();

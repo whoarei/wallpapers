@@ -1,5 +1,8 @@
 (() => {
 'use strict';
+function startScene() {
+const runtime = window.WallpaperRuntime;
+runtime.refresh();
 const canvas=document.getElementById('aquarium');
 const ctx=canvas.getContext('2d',{alpha:false});
 const W=1600,H=1000,TAU=Math.PI*2;
@@ -469,68 +472,44 @@ function render(){
  ctx.drawImage(frame,0,0);frames++;
 }
 function tick(now){
+ if(runtime.paused){last=0;requestAnimationFrame(tick);return;}
  if(!last)last=now;
  const elapsed=now-last;
- if(elapsed>=1000/30){last=now;if(!paused&&!hostPaused)update(Math.min(elapsed/1000,.075));if(!paused&&!hostPaused)render();}
- if(wallpaperAdapter.context().capabilities.pointerMove&&now-wakeAt>8000&&document.getElementById('help-panel').hidden&&!document.querySelector('.controls').contains(document.activeElement))document.body.classList.add('idle');
+ if(elapsed>=1000/30){last=now;if(!paused)update(Math.min(elapsed/1000,.075));render();}
+ if(now-wakeAt>8000&&runtime.canIdle())document.body.classList.add('idle');
  if(toastAt&&now-toastAt>3000){document.getElementById('toast').classList.remove('show');toastAt=0;}
  requestAnimationFrame(tick);
 }
 function wake(){wakeAt=performance.now();document.body.classList.remove('idle');}
 function toast(message){const node=document.getElementById('toast');node.textContent=message;node.classList.add('show');toastAt=performance.now();}
-function feed(x=800,y=210){
- if(paused){toast('先让时间继续流动吧。');return {ok:false,code:'PAUSED',message:'水族箱已暂停，请先继续画面。'};}
- if(foods.length>42){toast('先让鱼儿慢慢吃完这一餐。');return {ok:false,code:'DISABLED',message:'先让鱼儿慢慢吃完这一餐。'};}
+function feed(x=800,y=210,options={}){
+ if(!runtime.canAct(options)){toast('先让时间继续流动吧。');return false;}
+ if(foods.length>42){toast('先让鱼儿慢慢吃完这一餐。');return false;}
  for(let i=0;i<7;i++)foods.push({x:clamp(x+rnd(-18,18),90,1510),y:clamp(y+rnd(-9,9),115,760),speed:rnd(8,13),phase:rnd(0,TAU),age:0});
- ripples.push({x,y,age:0});totalFed+=7;toast('一点小小的好心情，鱼儿收到了。');return {ok:true,data:{foods:foods.length,totalFed}};
+ ripples.push({x,y,age:0});totalFed+=7;toast('一点小小的好心情，鱼儿收到了。');return true;
 }
 function switchLight(){lighting=(lighting+1)%3;document.getElementById('light-label').textContent=['晨光','暮色','月光'][lighting];toast(['把清晨的光，留在水里。','水草也有自己的黄昏。','今夜，和鱼儿一起看月光。'][lighting]);}
 function switchFlow(){flow=(flow+1)%3;document.getElementById('flow-label').textContent=['缓流','轻涌','静水'][flow];toast(['水草在缓缓呼吸。','一阵小小的水流经过。','安静一点，再安静一点。'][flow]);}
-function pause(){paused=!paused;document.getElementById('pause').setAttribute('aria-pressed',String(paused));document.getElementById('pause-icon').textContent=paused?'▷':'Ⅱ';document.getElementById('pause-label').textContent=paused?'继续':'暂停';document.getElementById('pause-badge').hidden=!paused;}
-async function fullscreen(){try{if(document.fullscreenElement)await document.exitFullscreen();else await document.documentElement.requestFullscreen();}catch{toast('按 F11，也能进入或退出全屏。');}}
+function pause(){paused=!paused;runtime.setUserPaused(paused);document.getElementById('pause').setAttribute('aria-pressed',String(paused));document.getElementById('pause-icon').textContent=paused?'▷':'Ⅱ';document.getElementById('pause-label').textContent=paused?'继续':'暂停';document.getElementById('pause-badge').hidden=!paused;}
+async function fullscreen(){if(!runtime.capabilities.fullscreen)return;try{if(document.fullscreenElement)await document.exitFullscreen();else await document.documentElement.requestFullscreen();}catch{toast('按 F11，也能进入或退出全屏。');}}
 function help(){const panel=document.getElementById('help-panel');panel.hidden=!panel.hidden;document.getElementById('help').setAttribute('aria-expanded',String(!panel.hidden));wake();}
 function clock(){const now=new Date();document.getElementById('time').textContent=now.toLocaleTimeString('zh-CN',{timeZone:'Asia/Shanghai',hour:'2-digit',minute:'2-digit',hour12:false});document.getElementById('date').textContent=now.toLocaleDateString('zh-CN',{timeZone:'Asia/Shanghai',month:'long',day:'numeric',weekday:'short'});}
 document.getElementById('feed').onclick=()=>feed();document.getElementById('light').onclick=switchLight;document.getElementById('flow').onclick=switchFlow;document.getElementById('pause').onclick=pause;document.getElementById('fullscreen').onclick=fullscreen;document.getElementById('help').onclick=help;document.getElementById('close-help').onclick=help;
 document.getElementById('shark-slower').onclick=()=>changeSharkSpeed(-.25);document.getElementById('shark-faster').onclick=()=>changeSharkSpeed(.25);showSharkSpeed();
 canvas.addEventListener('click',event=>{const scale=Math.max(innerWidth/W,innerHeight/H),x=(event.clientX-(innerWidth-W*scale)/2)/scale,y=(event.clientY-(innerHeight-H*scale)/2)/scale;feed(x,y);});
 document.addEventListener('pointermove',wake,{passive:true});document.addEventListener('pointerdown',wake,{passive:true});
-document.addEventListener('keydown',event=>{if(!wallpaperAdapter.context().capabilities.keyboard||event.ctrlKey||event.altKey||event.metaKey||event.repeat)return;wake();switch(event.key.toLowerCase()){case 'e':feed();break;case 'l':switchLight();break;case 'c':switchFlow();break;case ' ':event.preventDefault();pause();break;case 'f':fullscreen();break;case 'h':help();break;case 's':hidden=!hidden;document.body.classList.toggle('hidden-ui',hidden);break;}});
+document.addEventListener('keydown',event=>{if(event.ctrlKey||event.altKey||event.metaKey||event.repeat)return;wake();switch(event.key.toLowerCase()){case 'e':feed();break;case 'l':switchLight();break;case 'c':switchFlow();break;case ' ':event.preventDefault();pause();break;case 'f':fullscreen();break;case 'h':help();break;case 's':hidden=!hidden;document.body.classList.toggle('hidden-ui',hidden);break;}});
 document.addEventListener('visibilitychange',()=>{last=0;});
-
-let clockTimer=null,hostPaused=wallpaperAdapter.state().paused;
-function syncActivity(){
- hostPaused=wallpaperAdapter.state().paused;last=0;wake();
- if(hostPaused||document.hidden){if(clockTimer!==null)clearInterval(clockTimer);clockTimer=null;}
- else if(clockTimer===null){clock();clockTimer=setInterval(clock,1000);}
-}
-window.addEventListener('wallpaperhost:statechange',syncActivity);
-window.addEventListener('pageshow',syncActivity);
-window.addEventListener('pagehide',()=>{if(clockTimer!==null)clearInterval(clockTimer);clockTimer=null;});
-document.addEventListener('visibilitychange',syncActivity);
-
-function configureEnvironment(){
- const {mode,capabilities}=wallpaperAdapter.context();
- document.documentElement.dataset.wallpaperMode=mode;
- if(!capabilities.fullscreen)document.getElementById('fullscreen').hidden=true;
- if(!capabilities.keyboard){
-  for(const button of document.querySelectorAll('.controls button[title]'))button.title=button.title.replace(/（.*?）/g,'').split('；')[0];
-  document.getElementById('help-panel').querySelector('dl').hidden=true;
-  document.getElementById('help-panel').querySelector('.muted').textContent=capabilities.pointerMove?'移动鼠标到桌面空白处可唤回控制栏。使用控制栏暂停画面；主程序或托盘可暂停整张壁纸。':'使用下方控制栏操作画面；当前保持控制栏可见。';
-  document.querySelector('#pause-badge small').textContent='点击控制栏的“继续”恢复画面';
- }
- wake();syncActivity();
-}
-window.wallpaperApp=wallpaperAdapter.createActions([
- {id:'feed',label:'投喂鱼儿',allowWhenOccluded:true,
-  disabledReason:()=>paused?'水族箱已暂停，请先继续画面。':foods.length>42?'先让鱼儿慢慢吃完这一餐。':undefined,run:()=>feed()},
- {id:'light',label:'切换光照',disabledReason:()=>paused?'水族箱已暂停，请先继续画面。':undefined,
-  run:()=>{switchLight();return {ok:true,data:{lighting}};}},
- {id:'flow',label:'切换水流',disabledReason:()=>paused?'水族箱已暂停，请先继续画面。':undefined,
-  run:()=>{switchFlow();return {ok:true,data:{flow}};}}
-]);
-wallpaperAdapter.ready(configureEnvironment);
-
-render();requestAnimationFrame(tick);
+runtime.onStateChange(()=>{last=0;wake();});
+runtime.everySecond(clock);
+runtime.registerActions([
+ {id:'feed',label:'投喂鱼儿',allowWhenOccluded:true,disabledReason:()=>foods.length>42?'先让鱼儿慢慢吃完这一餐。':null,run:()=>{feed(undefined,undefined,{allowWhenOccluded:true});return {totalFed,foods:foods.length};}},
+ {id:'light',label:'切换光照',run:()=>{switchLight();return {lighting};}},
+ {id:'flow',label:'切换水流',run:()=>{switchFlow();return {flow};}}
+]);render();requestAnimationFrame(tick);
 // Read-only diagnostics for local browser verification, independent of gallery discovery.
 window.aquarium={sampleWater:waterAt,getState:()=>({time:t,paused,lighting,flow,fish:fish.length,crabs:crabs.length,crabStates:crabs.map(c=>({x:c.x,y:c.y,activity:c.activity,gait:c.gait,gesture:c.gesture})),shark:shark?{x:shark.x,y:shark.y,angle:shark.angle,phase:shark.phase,age:shark.age,caught:shark.caught,goal:shark.goal,bite:shark.bite,speed:shark.speed}:null,nextSharkIn:nextShark,sharkSpeedScale,visits,totalCaught,totalReturned,returning:returningFish.length,tension,water:{active:waterActive,peak:waterPeak,velocityPeak:waterSpeedPeak,fishDrift:Math.max(...fish.map(f=>Math.hypot(f.driftX,f.driftY))),plantBend:Math.max(...plants.map(p=>Math.abs(p.sway||0)))},plantStates:plants.map(p=>({x:p.x,y:p.y,bend:p.sway||0,velocity:p.swayVelocity||0})),frightened:fish.filter(f=>f.alarm>.18).length,foods:foods.length,eaten,totalFed,frames,positions:fish.map(f=>({x:f.x,y:f.y,vx:f.vx,vy:f.vy,type:f.type,alarm:f.alarm,entering:f.entering,driftX:f.driftX,driftY:f.driftY,waterRoll:f.waterRoll}))})};
+}
+if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });
+else startScene();
 })();

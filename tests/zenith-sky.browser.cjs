@@ -76,7 +76,7 @@ function unzip(bytes) {
     await page.fill('#latitude', '-33.8688');
     const downloadPromise = page.waitForEvent('download'); await page.click('#export'); const download = await downloadPromise;
     const exportedPath = path.join(output, 'configured-zenith-sky.zip'); await download.saveAs(exportedPath);
-    const exported = unzip(fs.readFileSync(exportedPath)); assert.equal(exported.size, 10);
+    const exported = unzip(fs.readFileSync(exportedPath)); assert.equal(exported.size, 11); assert.ok(exported.has('wallpaper-runtime.js'));
     const parsed = { window: {} }; vm.runInNewContext(exported.get('settings.js').toString('utf8'), parsed);
     assert.equal(parsed.window.ZENITH_DEFAULTS.site.latitude, -33.8688); assert.ok(parsed.window.ZENITH_DEFAULTS.profile.startsWith('configured-'));
     const fresh = await browser.newContext(); await route(fresh, exported);
@@ -126,7 +126,7 @@ function unzip(bytes) {
       await host.addInitScript({ path: path.resolve(option('--host-wrapper')) });
       const desktop = await host.newPage(); watch(desktop); await desktop.goto(origin);
       assert.equal((await desktop.evaluate(() => getState())).desktop, true);
-      assert.equal(await desktop.locator('#location-button').isVisible(), true); assert.equal(await desktop.locator('.tools').isVisible(), false);
+      assert.equal(await desktop.locator('#location-button').isVisible(), true); assert.equal(await desktop.locator('.tools').isVisible(), await desktop.evaluate(() => window.wallpaperHost?.protocolVersion === 1));
       async function hostClick(selector) { const box = await desktop.locator(selector).boundingBox(); assert.ok(box); const reply = await desktop.evaluate(({ x, y }) => __SCREEN_GARDEN_DESKTOP_CLICK(x / innerWidth, y / innerHeight), { x: box.x + box.width / 2, y: box.y + box.height / 2 }); assert.equal(reply.delivered, true); }
       await hostClick('#location-button'); assert.equal(await desktop.locator('#location-panel').isVisible(), true);
       await hostClick('[data-city="19"]'); assert.equal((await desktop.evaluate(() => getState())).site.name, '伦敦'); await hostClick('#close-location');

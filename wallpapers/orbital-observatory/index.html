@@ -6,10 +6,11 @@
   <meta name="color-scheme" content="dark">
   <title>深空观测站 · Orbital Observatory</title>
   <link rel="stylesheet" href="observatory.css">
+  <script src="wallpaper-runtime.js" defer></script>
   <script src="observatory.js" defer></script>
 </head>
 <body>
   <canvas id="observatory" aria-label="深空观测站的舷窗外，一颗蓝色行星和星轨缓慢移动，偶尔有流星经过"></canvas>
-  <div class="hud"><div><strong>深空观测站</strong><small>ORBITAL OBSERVATORY</small></div><button id="pause" type="button" aria-pressed="false">暂停</button><span>空格 暂停 · F 全屏</span></div>
+  <div data-scene-controls class="hud"><div><strong>深空观测站</strong><small>ORBITAL OBSERVATORY</small></div><button id="pause" type="button" aria-pressed="false">暂停</button><span data-keyboard>空格 暂停<span data-fullscreen> · F 全屏</span></span></div>
 </body>
 </html>

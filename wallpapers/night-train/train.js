@@ -1,5 +1,8 @@
 (() => {
 'use strict';
+function startScene() {
+const runtime = window.WallpaperRuntime;
+runtime.refresh();
 const canvas=document.getElementById('train'),ctx=canvas.getContext('2d',{alpha:false});
 let width=0,height=0,ratio=1,time=0,frames=0,last=0,lastPaint=0,paused=false,drops=[],layers=[];
 function randomGenerator(seed){return()=>{seed=(Math.imul(seed,1664525)+1013904223)>>>0;return seed/4294967296;};}
@@ -52,9 +55,13 @@ function draw(){
  ctx.font=`${compact?9:10}px Consolas,monospace`;ctx.textAlign='center';ctx.fillStyle='#afa38a55';ctx.fillText('NIGHT SERVICE  /  NEXT STOP: SOMEWHERE QUIET',width*.5,height*.879);
  frames++;
 }
-function tick(now){if(!last)last=now;if(now-lastPaint>=1000/30-.3){const dt=Math.min((now-last)/1000,.1);last=now;lastPaint=now;if(!paused)time+=dt;draw();}requestAnimationFrame(tick);}
-function toggle(){paused=!paused;const b=document.getElementById('pause');b.textContent=paused?'继续':'暂停';b.setAttribute('aria-pressed',String(paused));}
-document.getElementById('pause').onclick=toggle;document.addEventListener('keydown',event=>{if(event.repeat||event.ctrlKey||event.altKey||event.metaKey)return;if(event.code==='Space'){event.preventDefault();toggle();}if(event.key.toLowerCase()==='f'){if(document.fullscreenElement)document.exitFullscreen().catch(()=>{});else document.documentElement.requestFullscreen().catch(()=>{});}});
+function tick(now){if(runtime.paused){last=lastPaint=0;requestAnimationFrame(tick);return;}if(!last)last=now;if(now-lastPaint>=1000/30-.3){const dt=Math.min((now-last)/1000,.1);last=now;lastPaint=now;if(!paused)time+=dt;draw();}requestAnimationFrame(tick);}
+function toggle(){paused=!paused;runtime.setUserPaused(paused);const b=document.getElementById('pause');b.textContent=paused?'继续':'暂停';b.setAttribute('aria-pressed',String(paused));}
+document.getElementById('pause').onclick=toggle;document.addEventListener('keydown',event=>{if(event.repeat||event.ctrlKey||event.altKey||event.metaKey)return;if(event.code==='Space'){event.preventDefault();toggle();}if(event.key.toLowerCase()==='f'&&runtime.capabilities.fullscreen){if(document.fullscreenElement)document.exitFullscreen().catch(()=>{});else document.documentElement.requestFullscreen().catch(()=>{});}});
+runtime.onStateChange(()=>{last=lastPaint=0;});
 addEventListener('resize',resize);document.addEventListener('visibilitychange',()=>{last=0;lastPaint=0;});resize();draw();requestAnimationFrame(tick);
 window.nightTrain={getState:()=>({frames,time,paused,width,height,raindrops:drops.length,targetFps:30})};
+}
+if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });
+else startScene();
 })();

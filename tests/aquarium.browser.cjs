@@ -23,6 +23,7 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
   const origin='http://aquarium.test/';
   await page.context().route('**/*',route=>{
    if(route.request().url()===origin)return route.fulfill({contentType:'text/html; charset=utf-8',body:html});
+   if(route.request().url()===origin+'wallpaper-runtime.js')return route.fulfill({contentType:'text/javascript',body:fs.readFileSync(path.join(root,'wallpaper-runtime.js'),'utf8')});
    if(route.request().url()===origin+'favicon.ico')return route.fulfill({status:204});
    external.push(route.request().url());return route.abort();
   });
@@ -191,7 +192,8 @@ const output=process.env.QA_OUTPUT_DIR||fs.mkdtempSync(path.join(os.tmpdir(),'aq
   assert.equal(still.time,frozen.time);assert.deepEqual(still.crabStates,frozen.crabStates);
   await page.evaluate(()=>document.getElementById('pause').click());
   const resumed=await page.evaluate(()=>__qaStep(1,60000));
-  assert.ok(resumed.time>still.time&&resumed.time-still.time<=.076,'Resume clamps a long host RAF gap');
+  assert.ok(resumed.time>=still.time&&resumed.time-still.time<=.076,'Resume resets the frame clock after a long host RAF gap');
+  assert.ok((await page.evaluate(()=>__qaStep(2))).time>still.time,'Simulation continues on subsequent frames');
   await page.evaluate(()=>{document.getElementById('feed').click();document.getElementById('light').click();document.getElementById('flow').click();});
   const controls=await page.evaluate(()=>aquarium.getState());
   assert.equal(controls.totalFed,7);assert.equal(controls.lighting,1);assert.equal(controls.flow,1);

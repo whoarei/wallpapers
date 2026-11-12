@@ -1,5 +1,8 @@
 (() => {
   'use strict';
+function startScene() {
+const runtime = window.WallpaperRuntime;
+runtime.refresh();
   const canvas = document.querySelector('#ocean');
   const ctx = canvas.getContext('2d', { alpha: false });
   const WORLD = 7200, H = 1000, TAU = Math.PI * 2;
@@ -354,7 +357,7 @@
     jellies.forEach(j => moveAnimal(j, jellyHome(j), dt));
   }
   function bloomAt(x, y, power = .85, touch = false) {
-    if (paused || document.hidden) return;
+    if (runtime.paused) return;
     power *= preferences.interactionStrength;
     // Bound both work and brightness even during a rapid burst of desktop clicks.
     if (time - lastBloom < .12) return;
@@ -784,7 +787,7 @@
       if (value) pausedAt = Date.now();
       else { if (pausedAt && Date.now() - pausedAt > 60000) syncLocalDaylight(); pausedAt = 0; lastWallFrame = Date.now(); }
     }
-    const held = Boolean(pointer); cancelPointer(); paused = Boolean(value); last = 0; document.querySelector('#pause').setAttribute('aria-pressed', String(paused)); document.querySelector('#pause-label').textContent = paused ? '继续' : '暂停'; document.querySelector('#pause-icon').textContent = paused ? '▷' : 'Ⅱ';
+    const held = Boolean(pointer); cancelPointer(); paused = Boolean(value); runtime.setUserPaused(paused); last = 0; document.querySelector('#pause').setAttribute('aria-pressed', String(paused)); document.querySelector('#pause-label').textContent = paused ? '继续' : '暂停'; document.querySelector('#pause-icon').textContent = paused ? '▷' : 'Ⅱ';
     if (held) render();
   }
   function goToZone(zone, immediate = false, persist = true) {
@@ -798,7 +801,7 @@
     const el = document.querySelector('#help-panel'); el.hidden = value === undefined ? !el.hidden : !value; document.querySelector('#help').setAttribute('aria-expanded', String(!el.hidden)); wake();
     if (!el.hidden) document.querySelector('#close-help').focus(); else document.querySelector('#help').focus();
   }
-  function fullscreen() { if (document.fullscreenElement) document.exitFullscreen().catch(() => toast('请使用 F11 退出浏览器全屏')); else document.documentElement.requestFullscreen().catch(() => toast('可按 F11 进入浏览器全屏')); }
+  function fullscreen() { if (!runtime.capabilities.fullscreen) return; if (document.fullscreenElement) document.exitFullscreen().catch(() => toast('请使用 F11 退出浏览器全屏')); else document.documentElement.requestFullscreen().catch(() => toast('可按 F11 进入浏览器全屏')); }
   function cancelPointer(suppress = true) {
     if (!pointer) return;
     const id = pointer.id; pointer = null;
@@ -806,7 +809,7 @@
     if (canvas.hasPointerCapture(id)) canvas.releasePointerCapture(id);
   }
   canvas.addEventListener('pointerdown', e => {
-    if (e.button !== 0 || pointer || paused) return;
+    if (runtime.capabilities.pointer !== 'native' || e.button !== 0 || pointer || runtime.paused) return;
     suppressClickUntil = 0; pointer = { id: e.pointerId, x: e.clientX, y: e.clientY, camera, birth: time, dragged: false };
     // Desktop click forwarding dispatches synthetic pointer events, which have
     // no active native pointer to capture. Their subsequent click still works.
@@ -843,7 +846,8 @@
   document.querySelector('#fullscreen').addEventListener('click', fullscreen);
   document.querySelector('#help').addEventListener('click', () => toggleHelp());
   document.querySelector('#close-help').addEventListener('click', () => toggleHelp(false));
-  addEventListener('pointermove', wake, { passive: true });
+  document.addEventListener('pointermove', wake, { passive: true });
+  document.addEventListener('pointerdown', wake, { passive: true });
   addEventListener('keydown', e => {
     if (e.ctrlKey || e.metaKey || e.altKey || /INPUT|TEXTAREA|SELECT/.test(e.target.tagName)) return;
     wake();
@@ -913,8 +917,8 @@
   function loop(stamp) {
     requestAnimationFrame(loop);
     if (!document.querySelector('#help-panel').hidden || document.body.classList.contains('settings-open') || document.querySelector('button:focus-visible')) lastInput = stamp;
-    if (stamp - lastInput > 6500) document.body.classList.add('idle');
-    if (document.hidden || paused) { last = 0; return; }
+    if (stamp - lastInput > 6500 && runtime.canIdle()) document.body.classList.add('idle');
+    if (runtime.paused) { last = 0; return; }
     const wallFrame = Date.now();
     if (wallFrame - lastWallFrame > 60000) syncLocalDaylight();
     lastWallFrame = wallFrame;
@@ -923,7 +927,11 @@
     const dt = last ? Math.min(.08, (stamp - last) / 1000) : 0; last = stamp; lastDraw = stamp - (stamp - lastDraw) % interval;
     time += dt; atmosphere = climate.sample(time); updateCamera(dt); updateInteractions(dt); render();
   }
+  runtime.onStateChange(() => { last = lastDraw = 0; cancelPointer(); wake(); });
   resize(); setAuto(auto, false, false);
   if (preferences.tourMode === 'fixed') { camera = targetFor(preferences.fixedZone); render(); }
   requestAnimationFrame(loop);
+}
+if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });
+else startScene();
 })();

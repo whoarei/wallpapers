@@ -14,6 +14,11 @@ const output = path.resolve(option('--output-dir') || '/tmp/ocean-environment-qa
 const storageKey = 'ocean-drift.preferences.v2';
 const defaults = { tourMode: 'auto', fixedZone: 0, tourSpeed: 1, brightness: 1, interactionStrength: 1, quietSide: 'none', quality: 'balanced', weather: 'auto', daylight: 'auto' };
 const hash = bytes => createHash('sha256').update(bytes).digest('hex');
+// Hash the actual Canvas bitmap; DOM controls may independently fade or wake.
+async function canvasHash(page) {
+  const pixels = await page.locator('canvas').evaluate(canvas => Array.from(canvas.getContext('2d').getImageData(0, 0, canvas.width, canvas.height).data));
+  return hash(Buffer.from(pixels));
+}
 const climateFields = ['clear', 'overcast', 'rain', 'storm', 'light', 'warmth', 'current', 'surfaceDisturbance', 'night', 'visibility'];
 const climateValues = state => Object.fromEntries(climateFields.map(key => [key, state.climate[key]]));
 
@@ -166,11 +171,11 @@ const climateValues = state => Object.fromEntries(climateFields.map(key => [key,
     const night = await advance(clock, 65);
     assert.ok(night.climate.night > .99 && night.climate.storm > .99, 'day/night changes independently of weather');
     await clock.evaluate(() => oceanDrift.setPaused(true));
-    const frozen = await state(clock), frozenCanvas = hash(await clock.locator('canvas').screenshot());
+    const frozen = await state(clock), frozenCanvas = await canvasHash(clock);
     await clock.evaluate(() => __step(100));
     assert.equal((await state(clock)).time, frozen.time);
     assert.deepEqual(climateValues(await state(clock)), climateValues(frozen), 'pause freezes weather and daylight');
-    assert.equal(hash(await clock.locator('canvas').screenshot()), frozenCanvas, 'pause freezes actual weather rendering');
+    assert.equal(await canvasHash(clock), frozenCanvas, 'pause freezes actual weather rendering');
     await clock.evaluate(() => { oceanDrift.setPaused(false); __visibility(true); __step(100, 60000); });
     assert.equal((await state(clock)).time, frozen.time, 'background time cannot advance climate');
     await clock.evaluate(() => { __visibility(false); __step(1); });
@@ -181,14 +186,14 @@ const climateValues = state => Object.fromEntries(climateFields.map(key => [key,
     const suspended = await newScene({ ...defaults, tourMode: 'fixed' }, { viewport: { width: 160, height: 100 }, wallHour: 12 });
     const resumed = suspended.page;
     await advance(resumed, 65);
-    const noon = await state(resumed), noonCanvas = hash(await resumed.locator('canvas').screenshot());
+    const noon = await state(resumed), noonCanvas = await canvasHash(resumed);
     assert.ok(noon.climate.night < .01, 'virtual local noon starts in daylight');
     await resumed.evaluate(() => { __visibility(true); __jumpWallClock(12 * 60 * 60 * 1000); __step(10); __visibility(false); });
     const waking = await state(resumed);
     assert.equal(waking.time, noon.time, 'overnight suspension does not fast-forward scene or weather time');
     assert.deepEqual(climateValues(waking), climateValues(noon), 'local-time resync retains the displayed climate at the instant of resume');
     assert.equal(waking.environment.light, noon.environment.light, 'resumed physical light does not jump');
-    assert.equal(hash(await resumed.locator('canvas').screenshot()), noonCanvas, 'overnight resume preserves actual canvas immediately');
+    assert.equal(await canvasHash(resumed), noonCanvas, 'overnight resume preserves actual canvas immediately');
     await resumed.evaluate(() => __step(1));
     assert.equal((await state(resumed)).time, noon.time, 'first resumed frame does not advance suspended scene time');
     const midnight = await advance(resumed, 65);

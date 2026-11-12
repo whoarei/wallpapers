@@ -5,11 +5,16 @@
   "name": "像素露营地",
   "subtitle": "ONE MORE NIGHT OUTSIDE",
   "description": "松林深处的一顶小帐篷。篝火、溪流与萤火虫陪你等待缓慢变化的天色。",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "0.2.0",
   "entry": "index.html",
   "cover": "cover.jpg",
-  "tags": ["像素", "露营", "昼夜", "篝火"],
+  "tags": [
+    "像素",
+    "露营",
+    "昼夜",
+    "篝火"
+  ],
   "order": 40,
   "enabled": true
 }

@@ -1,5 +1,8 @@
 (() => {
   'use strict';
+function startScene() {
+const runtime = window.WallpaperRuntime;
+runtime.refresh();
   const J = window.SwimJourney;
   const { TAU, SURFACE, WORLD_WIDTH, DURATION, clamp, lerp, smooth, stages } = J;
   const $ = id => document.getElementById(id);
@@ -278,10 +281,10 @@
   function tick(now) {
     requestAnimationFrame(tick);
     const dt = last ? Math.min(.06, (now - last) / 1000) : 0; last = now;
-    if (!ready || document.hidden || now - drawAt < 1000 / 30) return;
+    if (!ready || runtime.paused || now - drawAt < 1000 / 30) return;
     const elapsed = drawAt ? Math.min(.1, (now - drawAt) / 1000) : dt; drawAt = now;
     const previous = time;
-    if (now - lastActivity > 9000 && $('help-panel').hidden && !document.querySelector('.hud:focus-within')) document.body.classList.add('idle');
+    if (now - lastActivity > 9000 && runtime.canIdle()) document.body.classList.add('idle');
     if (paused && !seeking) return;
     if (!paused && !seeking) time = (time + elapsed * speed) % DURATION;
     const state = J.sample(time);
@@ -303,12 +306,13 @@
     time = clamp(Number(value), 0, DURATION - .01); following = true; camera = targetCamera = cameraFor(J.sample(time)); ripples.length = 0;
     updateFish(1, J.sample(time)); syncControls(); wake(); draw();
   }
-  function togglePause() { paused = !paused; last = drawAt = 0; syncControls(); wake(); }
+  function togglePause() { paused = !paused; runtime.setUserPaused(paused); last = drawAt = 0; syncControls(); wake(); }
   function toggleFollow() { following = !following; if (following) { targetCamera = cameraFor(J.sample(time)); if (paused) { camera = targetCamera; draw(); } } syncControls(); wake(); }
   function pan(delta) { following = false; targetCamera = clamp(targetCamera + delta, 0, WORLD_WIDTH - viewWidth); syncControls(); wake(); if (paused) { camera = targetCamera; draw(); } }
   function toggleGarden() { garden = !garden; syncControls(); save(); wake(); draw(); }
   function help(open) { $('help-panel').hidden = !open; $('help').setAttribute('aria-expanded', String(open)); wake(); if (open) $('close-help').focus(); else $('help').focus(); }
   async function fullscreen() {
+    if (!runtime.capabilities.fullscreen) return;
     try { if (document.fullscreenElement) await document.exitFullscreen(); else await document.documentElement.requestFullscreen(); }
     catch { toast('当前窗口不支持全屏，可使用壁纸盒子的桌面模式'); }
     wake();
@@ -323,7 +327,7 @@
   $('scrubber').addEventListener('change', () => { seeking = false; });
   addEventListener('pointerup', () => { seeking = false; });
   canvas.addEventListener('pointerdown', e => {
-    if (e.button !== 0) return; wake(); pointer = { id: e.pointerId, x: e.clientX, y: e.clientY, startX: e.clientX, startY: e.clientY, moved: false };
+    if (runtime.capabilities.pointer !== 'native' || e.button !== 0) return; wake(); pointer = { id: e.pointerId, x: e.clientX, y: e.clientY, startX: e.clientX, startY: e.clientY, moved: false };
     // Desktop clicks are synthetic and have no active native pointer to capture.
     if (e.isTrusted) canvas.setPointerCapture(e.pointerId);
   });
@@ -340,13 +344,14 @@
   });
   canvas.addEventListener('pointercancel', () => { pointer = null; });
   canvas.addEventListener('click', e => {
+    if (runtime.hostPaused || document.hidden) return;
     wake(); if (canvas.dataset.suppressClick) { delete canvas.dataset.suppressClick; return; }
     const rect = canvas.getBoundingClientRect(), y = (e.clientY - rect.top) / rect.height * 1000;
     if (y < SURFACE - 18) return;
     if (ripples.length >= 12) ripples.shift(); ripples.push({ x: (e.clientX - rect.left) / rect.width * viewWidth + camera, y: Math.max(SURFACE, y), time });
     if (paused) { updateFish(1, J.sample(time)); draw(); }
   });
-  canvas.addEventListener('wheel', e => { e.preventDefault(); pan((e.deltaX || e.deltaY) * .8); }, { passive: false });
+  canvas.addEventListener('wheel', e => { if (runtime.capabilities.pointer !== 'native') return; e.preventDefault(); pan((e.deltaX || e.deltaY) * .8); }, { passive: false });
   addEventListener('keydown', e => {
     if (e.repeat || /INPUT|TEXTAREA|SELECT/.test(e.target.tagName)) return;
     wake();
@@ -363,13 +368,16 @@
   });
   document.addEventListener('visibilitychange', () => { last = drawAt = 0; });
   document.addEventListener('pointermove', wake, { passive: true });
+  document.addEventListener('pointerdown', wake, { passive: true });
   document.addEventListener('focusin', wake); addEventListener('resize', resize);
   window.blueWeightless = Object.freeze({
     getState: () => ({ time, paused, following, garden, speed, camera, targetCamera, width, height, viewWidth, frames, ready, fishCount: garden ? fish.length : 0, plantCount: garden ? plants.length : 0, fishReaction, rippleCount: ripples.length, totalSplashes, targetFps: 30, characterCount: 1, ...J.sample(time), character: character?.getState() }),
     seek,
-    setPaused(value) { paused = Boolean(value); syncControls(); },
+    setPaused(value) { paused = Boolean(value); runtime.setUserPaused(paused); syncControls(); },
     setCamera(value) { following = false; camera = targetCamera = clamp(Number(value) || 0, 0, WORLD_WIDTH - viewWidth); syncControls(); draw(); }
   });
+  runtime.onStateChange(() => { last = drawAt = 0; pointer = null; wake(); });
+  runtime.setUserPaused(paused);
   syncControls(); resize();
   Promise.all([pool.decode(), poses.decode(), strokes.decode(), glide.decode(), motionReady]).then(([, , , , cycles]) => {
     character = new SwimCharacter.Renderer({ poses, strokes, glide });
@@ -379,4 +387,7 @@
     $('loading').textContent = '画面素材未能加载，请重新打开这张壁纸。';
     const retry = document.createElement('button'); retry.textContent = '重新加载'; retry.style.cssText = 'margin-top:24px;padding:10px 18px;border:1px solid #d6f3e080;border-radius:7px;background:#165f72'; retry.addEventListener('click', () => location.reload()); $('loading').appendChild(retry);
   });
+}
+if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });
+else startScene();
 })();

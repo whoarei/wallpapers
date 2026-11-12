@@ -8,20 +8,21 @@
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='12' fill='%23197f94'/%3E%3Cpath d='M6 22q7-9 14 0t14 0M6 29q7-9 14 0t14 0' fill='none' stroke='%23c9f3e8' stroke-width='2'/%3E%3C/svg%3E">
   <title>蓝色失重 · Weightless in Blue</title>
   <link rel="stylesheet" href="swim.css">
+  <script src="wallpaper-runtime.js" defer></script>
   <script src="motion.js" defer></script>
   <script src="journey.js" defer></script>
   <script src="character.js" defer></script>
   <script src="swim.js" defer></script>
 </head>
 <body>
-  <canvas id="pool" role="img" aria-label="暮色中的超长泳池。一位成年卡通女泳者依次完成跳水、潜游、自由泳、蛙泳、仰泳、蝶泳和上岸。鱼群在水草间游动。拖动探索，轻点水面泛起涟漪。"></canvas>
+  <canvas id="pool" role="img" aria-label="暮色中的超长泳池。一位成年卡通女泳者依次完成跳水、潜游、自由泳、蛙泳、仰泳、蝶泳和上岸。鱼群在水草间游动。点击章节探索泳池，轻点水面泛起涟漪。"></canvas>
   <header class="hud identity"><span class="symbol" aria-hidden="true">≈</span><div><h1>蓝色失重</h1><p>WEIGHTLESS IN BLUE</p></div></header>
   <div class="hud chapter"><span id="chapter-number">01 / 07</span><span id="chapter-name">纵身入蓝</span><small id="chapter-note">让世界，轻一点。</small></div>
   <div id="loading" role="status">正在铺开一池暮色<span>LOADING THE BLUE HOUR</span></div>
   <footer class="hud console">
     <div class="toolbar">
       <span class="caption"><i></i><span id="mode-label">随她，游过一整个黄昏</span></span>
-      <nav class="controls" aria-label="壁纸播放控制">
+      <nav data-scene-controls class="controls" aria-label="壁纸播放控制">
         <button id="follow" aria-pressed="true" title="跟随人物 / 自由探索（A）"><span aria-hidden="true">↔</span><b id="follow-label">跟随</b></button>
         <button id="pause" aria-pressed="false" title="暂停 / 继续（空格）"><span id="pause-icon" aria-hidden="true">Ⅱ</span><b id="pause-label">暂停</b></button>
         <button id="speed" title="切换播放速度" aria-label="播放速度 1 倍">1×</button>
@@ -31,12 +32,12 @@
       </nav>
     </div>
     <div class="timeline"><div class="timeline-fill" id="timeline-fill"></div><input id="scrubber" type="range" min="0" max="111.99" value="0" step="0.01" aria-label="游泳旅程进度" aria-valuetext="纵身入蓝"></div>
-    <nav class="stages" aria-label="游泳旅程章节">
+    <nav data-scene-controls class="stages" aria-label="游泳旅程章节">
       <button data-stage="0" aria-current="step"><em>01</em>跃入</button><button data-stage="1"><em>02</em>潜游</button><button data-stage="2"><em>03</em>自由泳</button><button data-stage="3"><em>04</em>蛙泳</button><button data-stage="4"><em>05</em>仰泳</button><button data-stage="5"><em>06</em>蝶泳</button><button data-stage="6"><em>07</em>归岸</button>
     </nav>
   </footer>
-  <p class="hud hint">拖动探索 · 轻点泛起涟漪<span> · 空格 暂停 · S 隐藏界面</span></p>
-  <aside id="help-panel" hidden aria-labelledby="help-title"><button id="close-help" aria-label="关闭说明">×</button><small>A LITTLE LESS GRAVITY</small><h2 id="help-title">把时间，交给水。</h2><p>一段 112 秒的泳池长卷，从纵身跃入，到从容归岸。小鱼会为她让路，水草会随水流轻轻摇晃。</p><dl><dt>拖动 / ← → / 滚轮</dt><dd>自由探索泳池，离开跟随镜头</dd><dt>轻点池水</dt><dd>涟漪、气泡与轻轻散开的鱼群</dd><dt>章节 / 1—7</dt><dd>前往喜欢的泳姿，重新跟随</dd><dt>A / 跟随</dt><dd>让镜头回到女孩身边</dd><dt>空格</dt><dd>暂停 / 继续整片水中的时间</dd><dt>G</dt><dd>显示 / 隐藏鱼群与水草</dd><dt>S</dt><dd>隐藏 / 显示界面</dd><dt>F</dt><dd>进入 / 退出全屏</dd><dt>R</dt><dd>从跳水重新开始</dd><dt>H / Esc</dt><dd>打开 / 关闭说明</dd></dl><p class="footnote">界面会在静置后淡出，移动鼠标或轻点即可唤回。<br>所有画面与动画均可离线运行。</p></aside>
+  <p class="hud hint">轻点泛起涟漪<span data-native-pointer> · 拖动探索</span><span data-keyboard> · 空格 暂停 · S 隐藏界面</span></p>
+  <aside id="help-panel" hidden aria-labelledby="help-title" data-scene-panel><button id="close-help" aria-label="关闭说明">×</button><small>A LITTLE LESS GRAVITY</small><h2 id="help-title">把时间，交给水。</h2><p>一段 112 秒的泳池长卷，从纵身跃入，到从容归岸。小鱼会为她让路，水草会随水流轻轻摇晃。</p><p data-desktop-only>轻点池水泛起涟漪。点击章节切换泳姿，「跟随」回到人物身边，「暂停」控制时间，「水中花园」切换鱼群水草。</p><dl data-keyboard><dt>拖动 / ← → / 滚轮</dt><dd>自由探索泳池，离开跟随镜头</dd><dt>轻点池水</dt><dd>涟漪、气泡与轻轻散开的鱼群</dd><dt>章节 / 1—7</dt><dd>前往喜欢的泳姿，重新跟随</dd><dt>A / 跟随</dt><dd>让镜头回到女孩身边</dd><dt>空格</dt><dd>暂停 / 继续整片水中的时间</dd><dt>G</dt><dd>显示 / 隐藏鱼群与水草</dd><dt>S</dt><dd>隐藏 / 显示界面</dd><dt data-fullscreen>F</dt><dd data-fullscreen>进入 / 退出全屏</dd><dt>R</dt><dd>从跳水重新开始</dd><dt>H / Esc</dt><dd>打开 / 关闭说明</dd></dl><p class="footnote">界面会在静置后淡出，移动鼠标或轻点即可唤回。<br>所有画面与动画均可离线运行。</p></aside>
   <div id="toast" role="status" aria-live="polite"></div>
 </body>
 </html>

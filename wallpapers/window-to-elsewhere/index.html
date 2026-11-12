@@ -6,15 +6,16 @@
   <meta name="color-scheme" content="dark light">
   <title>通往别处的窗户 · A Window to Elsewhere</title>
   <link rel="stylesheet" href="window.css">
+  <script src="wallpaper-runtime.js" defer></script>
   <script src="window.js" defer></script>
 </head>
 <body>
   <canvas id="window" aria-label="一扇望向远山与湖泊的窗户，云与水面缓慢流动"></canvas>
-  <div class="hud" aria-label="壁纸控制">
+  <div data-scene-controls class="hud" aria-label="壁纸控制">
     <span class="title">通往别处的窗户 <small>A WINDOW TO ELSEWHERE</small></span>
     <button id="weather" type="button">雨天</button>
     <button id="pause" type="button">暂停</button>
-    <span class="keys">R 晴雨 · 空格 暂停 · F 全屏</span>
+    <span class="keys" data-keyboard>R 晴雨 · 空格 暂停<span data-fullscreen> · F 全屏</span></span>
   </div>
 </body>
 </html>

@@ -11,16 +11,18 @@
 @media(max-width:650px){.shark-tools{right:20px;top:87px;bottom:auto;padding:3px 5px 3px 8px}.shark-tools button{width:30px;height:30px}.shark-tools-icon{width:18px;margin-right:3px}.shark-tools output{min-width:40px}}
 
 /* Desktop presentation belongs to this wallpaper, including legacy-host fallback. */
-html[data-wallpaper-mode="desktop"] .brand,
-html[data-wallpaper-mode="desktop"] .clock,
-html[data-wallpaper-mode="desktop"] .caption,
-html[data-wallpaper-mode="desktop"] .hint{display:none!important}
-html[data-wallpaper-mode="desktop"] .controls{display:flex!important}
-html[data-wallpaper-mode="desktop"] .toast{display:block!important}
-html[data-wallpaper-mode="desktop"] .help-panel:not([hidden]){display:block!important}
-html[data-wallpaper-mode="desktop"] .pause-badge:not([hidden]){display:block!important}
-html[data-wallpaper-mode="desktop"] [hidden]{display:none!important}
+html[data-scene-mode="desktop"] .brand,
+html[data-scene-mode="desktop"] .clock,
+html[data-scene-mode="desktop"] .caption,
+html[data-scene-mode="desktop"] .hint{display:none!important}
+html[data-scene-mode="desktop"] .controls{display:flex!important}
+html[data-scene-mode="desktop"] .toast{display:block!important}
+html[data-scene-mode="desktop"] .help-panel:not([hidden]){display:block!important}
+html[data-scene-mode="desktop"] .pause-badge:not([hidden]){display:block!important}
+html[data-scene-mode="desktop"] [hidden]{display:none!important}
 
-html[data-wallpaper-mode="desktop"] .controls{max-width:calc(100vw - 24px)}
-html[data-wallpaper-mode="desktop"] .controls b{display:inline}
-@media(max-width:650px){html[data-wallpaper-mode="desktop"] .controls{flex-wrap:wrap;justify-content:center}html[data-wallpaper-mode="desktop"] .controls button{padding:8px 6px;gap:5px}html[data-wallpaper-mode="desktop"] .controls .divider{display:none}}
+html[data-scene-mode="desktop"] .controls{max-width:calc(100vw - 24px)}
+html[data-scene-mode="desktop"] .controls b{display:inline}
+@media(max-width:650px){html[data-scene-mode="desktop"] .controls{flex-wrap:wrap;justify-content:center}html[data-scene-mode="desktop"] .controls button{padding:8px 6px;gap:5px}html[data-scene-mode="desktop"] .controls .divider{display:none}}
+
+html[data-scene-mode=desktop] .controls{max-width:calc(100% - 24px);flex-wrap:wrap;justify-content:center}html[data-scene-mode=desktop] .controls b{display:inline;font-size:10px}html[data-scene-mode=desktop] .controls button{gap:4px;padding:8px}

@@ -1,9 +1,12 @@
 (() => {
 'use strict';
+function startScene() {
+const runtime = window.WallpaperRuntime;
+runtime.refresh();
 const canvas=document.getElementById('window'),ctx=canvas.getContext('2d',{alpha:false});
 const room=document.createElement('canvas'),rc=room.getContext('2d');
 const land=document.createElement('canvas'),lc=land.getContext('2d');
-let W=1600,H=1000,win={},rain=false,paused=false,clock=0,last=0,drawAt=0;
+let W=1600,H=1000,win={},rain=false,paused=false,clock=0,last=0,drawAt=0,frames=0;
 const TAU=Math.PI*2;
 function random(seed){return()=>{seed|=0;seed=seed+0x6D2B79F5|0;let t=Math.imul(seed^seed>>>15,1|seed);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296;};}
 const rnd=random(102619),clouds=Array.from({length:10},()=>({x:rnd(),y:.07+rnd()*.27,s:.05+rnd()*.085,v:.001+rnd()*.0014,a:.10+rnd()*.12}));
@@ -70,7 +73,7 @@ function resize(){
   const margin=innerWidth/innerHeight<1.05?.15:.12;
   win={x:W*margin,y:H*.105,w:W*(1-margin*2),h:H*.755};landscape();indoor();render();
 }
-function render(){
+function render(){frames++;
   const {x,y,w,h}=win;if(!w)return;
   const sky=ctx.createLinearGradient(0,y,0,y+h*.63);sky.addColorStop(0,rain?'#758d91':'#b9c8bd');sky.addColorStop(1,rain?'#b5c0b2':'#e3dfbd');ctx.fillStyle=sky;ctx.fillRect(0,0,W,H);
   ctx.save();ctx.beginPath();ctx.rect(x,y,w,h);ctx.clip();
@@ -92,10 +95,15 @@ function render(){
   // Soft falloff around the room.
   const shade=ctx.createRadialGradient(W*.5,H*.47,H*.2,W*.5,H*.47,Math.max(W,H)*.72);shade.addColorStop(0,'#14282000');shade.addColorStop(1,'#17271f40');ctx.fillStyle=shade;ctx.fillRect(0,0,W,H);
 }
-function tick(now){requestAnimationFrame(tick);const dt=last?Math.min(.05,(now-last)/1000):0;last=now;if(!paused)clock+=dt;if(now-drawAt<1000/30)return;drawAt=now;render();}
+function tick(now){requestAnimationFrame(tick);if(runtime.paused){last=drawAt=0;return;}const dt=last?Math.min(.05,(now-last)/1000):0;last=now;if(!paused)clock+=dt;if(now-drawAt<1000/30)return;drawAt=now;render();}
 function toggleWeather(){rain=!rain;document.getElementById('weather').textContent=rain?'晴天':'雨天';landscape();indoor();render();}
-function togglePause(){paused=!paused;document.getElementById('pause').textContent=paused?'继续':'暂停';}
+function togglePause(){paused=!paused;runtime.setUserPaused(paused);document.getElementById('pause').textContent=paused?'继续':'暂停';}
 document.getElementById('weather').addEventListener('click',toggleWeather);document.getElementById('pause').addEventListener('click',togglePause);
-addEventListener('keydown',event=>{if(event.repeat)return;if(event.code==='KeyR')toggleWeather();if(event.code==='Space'){event.preventDefault();togglePause();}if(event.code==='KeyF'){if(document.fullscreenElement)document.exitFullscreen();else document.documentElement.requestFullscreen().catch(()=>{});}});
+addEventListener('keydown',event=>{if(event.repeat)return;if(event.code==='KeyR')toggleWeather();if(event.code==='Space'){event.preventDefault();togglePause();}if(event.code==='KeyF'&&runtime.capabilities.fullscreen){if(document.fullscreenElement)document.exitFullscreen();else document.documentElement.requestFullscreen().catch(()=>{});}});
+window.windowElsewhere={getState:()=>({time:clock,paused,rain,frames,width:W,height:H})};
+runtime.onStateChange(()=>{last=drawAt=0;});
 document.addEventListener('visibilitychange',()=>{last=0;});addEventListener('resize',resize);resize();requestAnimationFrame(tick);
+}
+if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });
+else startScene();
 })();

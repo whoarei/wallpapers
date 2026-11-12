@@ -5,11 +5,15 @@
   "name": "通往别处的窗户",
   "subtitle": "A WINDOW TO ELSEWHERE",
   "description": "推开一扇安静的窗，远山、湖面与缓慢游走的云，仿佛就在桌面之外。",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "0.2.0",
   "entry": "index.html",
   "cover": "cover.jpg",
-  "tags": ["窗外风景", "远山湖泊", "晴雨切换"],
+  "tags": [
+    "窗外风景",
+    "远山湖泊",
+    "晴雨切换"
+  ],
   "order": 30,
   "enabled": true
 }

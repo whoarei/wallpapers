@@ -1,5 +1,8 @@
 (() => {
 'use strict';
+function startScene() {
+const runtime = window.WallpaperRuntime;
+runtime.refresh();
 const canvas=document.getElementById('observatory'),ctx=canvas.getContext('2d',{alpha:false});
 const sky=document.createElement('canvas'),planet=document.createElement('canvas');
 let width=0,height=0,ratio=1,time=0,last=0,lastPaint=0,frames=0,paused=false,clock='',clockSecond=-1;
@@ -49,11 +52,15 @@ function draw(){
  const dotX=width*.5-36;for(let i=0;i<5;i++)circle(ctx,dotX+i*18,bottom+height*.14,1.4,i===Math.floor(time*.3)%5?'#9cc7ab':'#314b51');
  frames++;
 }
-function tick(now){if(!last)last=now;if(now-lastPaint>=1000/30-.3){const dt=Math.min((now-last)/1000,.1);last=now;lastPaint=now;if(!paused)time+=dt;draw();}requestAnimationFrame(tick);}
-function toggle(){paused=!paused;const button=document.getElementById('pause');button.textContent=paused?'继续':'暂停';button.setAttribute('aria-pressed',String(paused));}
+function tick(now){if(runtime.paused){last=lastPaint=0;requestAnimationFrame(tick);return;}if(!last)last=now;if(now-lastPaint>=1000/30-.3){const dt=Math.min((now-last)/1000,.1);last=now;lastPaint=now;if(!paused)time+=dt;draw();}requestAnimationFrame(tick);}
+function toggle(){paused=!paused;runtime.setUserPaused(paused);const button=document.getElementById('pause');button.textContent=paused?'继续':'暂停';button.setAttribute('aria-pressed',String(paused));}
 document.getElementById('pause').onclick=toggle;
-document.addEventListener('keydown',event=>{if(event.repeat||event.ctrlKey||event.altKey||event.metaKey)return;if(event.code==='Space'){event.preventDefault();toggle();}if(event.key.toLowerCase()==='f'){if(document.fullscreenElement)document.exitFullscreen().catch(()=>{});else document.documentElement.requestFullscreen().catch(()=>{});}});
+document.addEventListener('keydown',event=>{if(event.repeat||event.ctrlKey||event.altKey||event.metaKey)return;if(event.code==='Space'){event.preventDefault();toggle();}if(event.key.toLowerCase()==='f'&&runtime.capabilities.fullscreen){if(document.fullscreenElement)document.exitFullscreen().catch(()=>{});else document.documentElement.requestFullscreen().catch(()=>{});}});
+runtime.onStateChange(()=>{last=lastPaint=0;});
 addEventListener('resize',resize);document.addEventListener('visibilitychange',()=>{last=0;lastPaint=0;});
 makePlanet();resize();draw();requestAnimationFrame(tick);
 window.observatory={getState:()=>({frames,time,paused,width,height,stars:stars.length,targetFps:30,clock})};
+}
+if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });
+else startScene();
 })();

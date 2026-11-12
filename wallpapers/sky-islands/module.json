@@ -5,11 +5,16 @@
   "name": "云端浮岛",
   "subtitle": "A LITTLE CLOSER TO THE SKY",
   "description": "浮岛之间，瀑布落入云海。一艘慢悠悠的飞艇经过，风车与草木随着高空的风轻轻摆动。",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "0.2.0",
   "entry": "index.html",
   "cover": "cover.jpg",
-  "tags": ["浮岛", "云海", "幻想", "飞艇"],
+  "tags": [
+    "浮岛",
+    "云海",
+    "幻想",
+    "飞艇"
+  ],
   "order": 50,
   "enabled": true
 }

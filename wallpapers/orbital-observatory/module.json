@@ -5,11 +5,15 @@
   "name": "深空观测站",
   "subtitle": "ORBITAL OBSERVATORY",
   "description": "舷窗外悬着一颗蓝色行星，星轨、流星与观测站的微光陪你看时间经过。",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "0.2.0",
   "entry": "index.html",
   "cover": "cover.jpg",
-  "tags": ["深空", "行星轨道", "本地时钟"],
+  "tags": [
+    "深空",
+    "行星轨道",
+    "本地时钟"
+  ],
   "order": 60,
   "enabled": true
 }

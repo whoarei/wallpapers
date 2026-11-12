@@ -50,6 +50,14 @@
       balanced: '平衡清晰度与日常运行负担。',
       high: '呈现更多清晰细节，适合高分辨率屏幕。'
     }[preferences.quality];
+    panel?.querySelectorAll('[data-cycle]').forEach(button => {
+      const input = form.elements.namedItem(button.dataset.cycle);
+      button.textContent = input.selectedOptions[0].textContent + ' ↻';
+    });
+    panel?.querySelectorAll('[data-adjust]').forEach(button => {
+      const input = form.elements.namedItem(button.dataset.adjust);
+      button.disabled = Number(button.dataset.step) < 0 ? Number(input.value) <= Number(input.min) : Number(input.value) >= Number(input.max);
+    });
   }
   function announce(text) {
     if (!saved) return;
@@ -121,5 +129,51 @@
   document.addEventListener('pointerdown', event => {
     if (panel && !panel.hidden && !panel.contains(event.target) && !toggle.contains(event.target)) setOpen(false, false);
   }, true);
+  function configureDesktop() {
+    if (window.WallpaperRuntime.mode !== 'desktop' || !panel || !form) return;
+    // Desktop clicks do not open native selects or provide slider dragging.
+    for (const input of form.querySelectorAll('select')) {
+      input.hidden = true;
+      const button = document.createElement('button');
+      button.type = 'button'; button.dataset.cycle = input.name; button.className = 'preference-cycle';
+      button.setAttribute('aria-label', input.previousElementSibling.textContent + '，点击切换');
+      button.addEventListener('click', event => {
+        event.preventDefault();
+        input.selectedIndex = (input.selectedIndex + 1) % input.options.length;
+        input.dispatchEvent(new Event('change', { bubbles: true }));
+      });
+      input.after(button);
+    }
+    for (const input of form.querySelectorAll('input[type=range]')) {
+      input.hidden = true;
+      const group = document.createElement('span'); group.className = 'preference-stepper';
+      for (const step of [-1, 1]) {
+        const button = document.createElement('button'); button.type = 'button';
+        button.dataset.adjust = input.name; button.dataset.step = String(step); button.textContent = step < 0 ? '−' : '+';
+        button.setAttribute('aria-label', input.parentElement.querySelector('span').textContent + (step < 0 ? '降低' : '提高'));
+        button.addEventListener('click', event => {
+          event.preventDefault();
+          input.value = String(Math.max(Number(input.min), Math.min(Number(input.max), Number(input.value) + step * Number(input.step))));
+          input.dispatchEvent(new Event('input', { bubbles: true }));
+        });
+        group.append(button);
+      }
+      input.after(group);
+    }
+    const sections = [...form.querySelectorAll('fieldset')];
+    const tabs = document.createElement('nav'); tabs.className = 'desktop-preference-tabs'; tabs.setAttribute('aria-label', '偏好分类');
+    sections.forEach((section, index) => {
+      const button = document.createElement('button'); button.type = 'button';
+      button.textContent = section.querySelector('legend').textContent;
+      button.addEventListener('click', () => {
+        sections.forEach((item, i) => { item.hidden = i !== index; });
+        [...tabs.children].forEach((item, i) => item.setAttribute('aria-pressed', String(i === index)));
+      });
+      button.setAttribute('aria-pressed', String(index === 0)); section.hidden = index !== 0; tabs.append(button);
+    });
+    form.before(tabs); sync();
+  }
+  if (document.readyState === 'complete') configureDesktop();
+  else document.addEventListener('DOMContentLoaded', configureDesktop, { once: true });
   sync();
 })();
