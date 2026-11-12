@@ -59,6 +59,13 @@ https://github.com/whoarei/wallpapers/releases/latest/download/catalog.json
 
 ## 发布内容更新
 
+仓库提供两个可独立调用的 agent skill：
+
+- [`wallpaper-release`](.agents/skills/wallpaper-release/SKILL.md)：准备和发布新版。先列出更新点、推荐版本号与其他合理选项，由用户最终确定版本号后再修改版本、打标签发布。
+- [`gitee-release-sync`](.agents/skills/gitee-release-sync/SKILL.md)：同步已发布版本、补齐 Gitee 漏传附件并核验。复用原版本和原包，不另发内容版本。
+
+发布新版会衔接 Gitee 同步；两端完整校验且默认入口返回最新版后，才报告完整发布。独立验收命令为 `python scripts/verify_release.py library-vX.Y.Z`；只检查历史版时加 `--historical`，不要求旧版成为 latest。
+
 1. 修改或加入壁纸；修改文件时增加该壁纸 `module.json` 的 `version`。
 2. 增加 `library.json` 的库版本；壁纸版本和库版本独立。
 3. 运行 `python scripts/build.py` 检查清单与 ZIP。
