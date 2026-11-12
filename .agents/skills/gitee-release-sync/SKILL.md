@@ -55,6 +55,8 @@ gh run list --repo whoarei/wallpapers --workflow sync-gitee.yml --limit 5
 直接重跑旧标签的失败工作流仍会使用旧标签对应的脚本。
 工作流全局串行，`cancel-in-progress: false`；已有目标任务在运行时先跟进，
 不要连续派发或仅因跨区域上传较慢就取消重来。每次等候不阻断进度更新。
+上传进度优先跟踪 GitHub 工作流；不要高频轮询 Gitee 的 Release API，
+以免耗尽匿名请求额度。同步完成后再执行一次完整匿名验收。
 
 凭证使用 GitHub Actions 已配置的 `GITEE_TOKEN`，所需权限为 `projects`。
 不读取或导出其值，不放进命令参数、URL、日志或仓库。
