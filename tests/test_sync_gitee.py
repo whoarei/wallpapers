@@ -257,7 +257,8 @@ class GiteeAPI(unittest.TestCase):
             self.assertIn('form-string = "access_token=secret"', config)
             self.assertIn('file=@', config)
             self.assertIn('scene.zip', config)
-            self.assertIn('max-time = "600"', config)
+            self.assertIn('max-time = "1200"', config)
+            self.assertEqual(run.call_args.kwargs['timeout'], 1215)
             self.assertNotIn('archive bytes', config)
 
     def test_upload_transport_errors_are_retryable_and_redacted(self):
@@ -268,6 +269,15 @@ class GiteeAPI(unittest.TestCase):
         self.assertTrue(caught.exception.retryable)
         self.assertIn('curl 56', str(caught.exception))
         self.assertNotIn('secret', str(caught.exception))
+
+    def test_upload_reports_safe_transfer_metrics_and_parses_response(self):
+        reply = subprocess.CompletedProcess([], 0, b'HTTP/1.1 201 Created\r\n\r\n{"id":7}\n__gitee_transfer__:13131000,19000.25,691.5\n__gitee_status__:201', b'')
+        with patch.object(sync_gitee.subprocess, "run", return_value=reply), patch('builtins.print') as output:
+            result = sync_gitee.Gitee("secret").request("POST", "/releases/42/attach_files", file=Path("scene.zip"))
+        self.assertEqual(result, {"id": 7})
+        message = output.call_args.args[0]
+        self.assertIn('13131000 bytes in 691.5s', message)
+        self.assertNotIn('secret', message)
 
     def test_upload_honors_http_retry_after_and_does_not_retry_auth_failure(self):
         for status, retryable in ((429, True), (403, False)):

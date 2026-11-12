@@ -18,7 +18,7 @@ REPOSITORY = "xishuaiya/wallpapers"
 API = f"https://gitee.com/api/v5/repos/{REPOSITORY}"
 TAG = re.compile(r"library-v(?:0|[1-9][0-9]*)\.(?:0|[1-9][0-9]*)\.(?:0|[1-9][0-9]*)\Z")
 ATTEMPTS = 3
-UPLOAD_TIMEOUT = 600
+UPLOAD_TIMEOUT = 1200
 
 
 class GiteeError(RuntimeError):
@@ -117,7 +117,7 @@ class Gitee:
             "connect-timeout": "30",
             "max-time": str(UPLOAD_TIMEOUT),
             "expect100-timeout": "5",
-            "write-out": "\n__gitee_status__:%{http_code}",
+            "write-out": "\n__gitee_transfer__:%{size_upload},%{speed_upload},%{time_total}\n__gitee_status__:%{http_code}",
         }
         config = "\n".join(f"{key} = {quoted(value)}" for key, value in fields.items())
         config += "\nhttp1.1\nsilent\nshow-error\ninclude\n"
@@ -132,6 +132,12 @@ class Gitee:
             raise GiteeError("Gitee POST transfer timed out", retryable=True) from None
         response, marker, status_text = result.stdout.rpartition(b"\n__gitee_status__:")
         status = int(status_text) if marker and status_text.strip().isdigit() else 0
+        response_body, transfer_marker, transfer = response.rpartition(b"\n__gitee_transfer__:")
+        if transfer_marker:
+            response = response_body
+            if re.fullmatch(rb"[0-9.]+,[0-9.]+,[0-9.]+", transfer.strip()):
+                sent, rate, elapsed = (float(value) for value in transfer.split(b","))
+                print(f"Upload transfer for {file.name}: {sent:.0f} bytes in {elapsed:.1f}s ({rate:.0f} bytes/s)", flush=True)
         if result.returncode:
             detail = self.redact(result.stderr.decode(errors="replace"))[:600]
             raise GiteeError(f"Gitee POST transport failed (curl {result.returncode}): {detail}",
