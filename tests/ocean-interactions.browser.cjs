@@ -93,10 +93,12 @@ const hash = data => createHash('sha256').update(data).digest('hex');
     checks.push('kelp responds to local current, jellyfish light propagates in sequence');
 
     await page.evaluate(() => oceanDrift.setPaused(true));
-    const frozen = await state(), before = hash(await page.locator('canvas').screenshot());
+    // Hash the actual canvas bitmap: an element screenshot also captures HUD
+    // overlays, which correctly wake up when the pointer or keyboard is used.
+    const frozen = await state(), before = hash(await page.evaluate(() => document.querySelector('canvas').toDataURL()));
     await step(80); await page.mouse.click(480, 300); await page.keyboard.press('KeyE');
     assert.equal((await state()).interactions, frozen.interactions, 'Paused inputs cannot add effects');
-    assert.equal(hash(await page.locator('canvas').screenshot()), before, 'Pause freezes the rendered interaction');
+    assert.equal(hash(await page.evaluate(() => document.querySelector('canvas').toDataURL())), before, 'Pause freezes the rendered interaction');
     await page.evaluate(() => { oceanDrift.setPaused(false); __visibility(true); });
     const hidden = await state(); await step(40);
     assert.equal((await state()).time, hidden.time);
@@ -110,7 +112,9 @@ const hash = data => createHash('sha256').update(data).digest('hex');
 
     // A separate real scene keeps animal hit tests independent of earlier blooms.
     const animals = await context.newPage(); watch(animals); await animals.goto(url);
-    await animals.evaluate(() => { oceanDrift.setAuto(false); __step(2); });
+    // This context intentionally retains user preferences from the earlier page;
+    // choose the reef explicitly for the independent animal hit-test fixtures.
+    await animals.evaluate(() => { oceanDrift.goToZone(0, true); __step(2); });
     const animalState = () => animals.evaluate(() => getState());
     const animalStep = n => animals.evaluate(n => __step(n), n);
     async function frameAnimal(p) {
@@ -174,6 +178,27 @@ const hash = data => createHash('sha256').update(data).digest('hex');
     const countBeforeDrag = a.animalTouches;
     await animals.mouse.move(480, 300); await animals.mouse.down(); await animals.mouse.move(300, 300, { steps: 4 }); await animals.mouse.up();
     assert.equal((await animalState()).animalTouches, countBeforeDrag, 'Dragging across animals never triggers escape');
+    // Keep the same world field of view while running two minutes of real
+    // ecology at a smaller raster size. Inspect every frame through school turns.
+    await animals.setViewportSize({ width: 160, height: 100 });
+    const longRun = await animals.evaluate(() => {
+      let minimumFacing = 1, reversals = 0, invalid = false;
+      let previous = getState().fishStates.map(f => Math.sign(f.facing));
+      for (let frame = 0; frame < 3600; frame++) {
+        const state = __step(1);
+        state.fishStates.forEach((f, i) => {
+          minimumFacing = Math.min(minimumFacing, Math.abs(f.facing));
+          const facing = Math.sign(f.facing); if (facing !== previous[i]) reversals++;
+          previous[i] = facing;
+          if (!Number.isFinite(f.x + f.y + f.vx + f.vy + f.facing) || f.x < 50 - 1e-8 || f.x > state.worldWidth - 50 + 1e-8 || f.y < 100 - 1e-8 || f.y > 840 + 1e-8) invalid = true;
+        });
+      }
+      return { minimumFacing, reversals, invalid };
+    });
+    assert.ok(longRun.minimumFacing >= .58 - 1e-8, 'Turning fish retain a nonzero three-quarter body profile');
+    assert.ok(longRun.reversals > 0, 'Long-run coverage includes actual school direction changes');
+    assert.equal(longRun.invalid, false, 'Two-minute schooling and repeated turns stay finite within habitat bounds');
+    checks.push('two minutes of school turns, non-collapsing body profiles, finite and bounded ecology');
     await animals.close();
     await context.close();
 

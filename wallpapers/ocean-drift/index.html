@@ -7,25 +7,57 @@
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23073c50'/%3E%3Ctext x='5' y='30' fill='%23b9e4d5' font-size='36'%3E≈%3C/text%3E%3C/svg%3E">
   <title>蔚蓝漫游 · Ocean Drift</title>
   <link rel="stylesheet" href="ocean.css">
+  <script src="climate.js" defer></script>
+  <script src="settings.js" defer></script>
   <script src="ocean.js" defer></script>
 </head>
 <body>
   <canvas id="ocean" role="img" aria-label="互动海底长卷：轻点绽开荧光涟漪，按住再松开释放星海，触碰鱼、海龟、鳐鱼和水母，它们会游开；水母传递微光，拖动探索三片海域。也可按 E 唤起星海。"></canvas>
   <header class="hud identity"><span class="emblem" aria-hidden="true">≈</span><div><h1>蔚蓝漫游</h1><p>O C E A N &nbsp; D R I F T</p></div></header>
-  <div class="hud location"><span class="live-dot" aria-hidden="true"></span><span id="location">珊瑚花园</span><span class="location-detail" id="journey">随洋流，慢慢看世界</span></div>
+  <div class="hud location"><span class="live-dot" aria-hidden="true"></span><span id="location">珊瑚花园</span><span class="climate-status" id="climate-status" role="status" aria-live="polite">天气缓缓流转</span><span class="location-detail" id="journey">随洋流，慢慢看世界</span></div>
   <nav class="hud atlas" aria-label="海底区域">
     <div class="atlas-track" aria-hidden="true"><i id="view-marker"></i></div>
     <div class="atlas-stops"><button data-zone="0" aria-current="location">01 <span>珊瑚花园</span></button><button data-zone="1">02 <span>海藻森林</span></button><button data-zone="2">03 <span>幽蓝深海</span></button></div>
   </nav>
   <nav class="hud controls" aria-label="壁纸控制">
-    <button id="bloom" title="唤起星海（E）"><span aria-hidden="true">✧</span><b>唤起星海</b></button>
-    <button id="tour" aria-pressed="true" title="自动巡游（A）"><span aria-hidden="true">↔</span><b id="tour-label">自动巡游</b></button>
-    <button id="pause" aria-pressed="false" title="暂停 / 继续（空格）"><span id="pause-icon" aria-hidden="true">Ⅱ</span><b id="pause-label">暂停</b></button>
+    <button id="bloom" aria-label="唤起星海" title="唤起星海（E）"><span aria-hidden="true">✧</span><b>唤起星海</b></button>
+    <button id="tour" aria-label="自动巡游开关" aria-pressed="true" title="自动巡游（A）"><span aria-hidden="true">↔</span><b id="tour-label">自动巡游</b></button>
+    <button id="pause" aria-label="暂停或继续" aria-pressed="false" title="暂停 / 继续（空格）"><span id="pause-icon" aria-hidden="true">Ⅱ</span><b id="pause-label">暂停</b></button>
     <button id="fullscreen" class="icon-button" aria-label="全屏" title="全屏（F）">⛶</button>
+    <button id="settings" class="icon-button" aria-label="海洋偏好" aria-expanded="false" aria-controls="settings-panel" title="海洋偏好"><span aria-hidden="true">⚙</span></button>
     <button id="help" class="icon-button" aria-label="互动说明" aria-expanded="false" title="互动说明（H）">?</button>
   </nav>
   <p class="hud hint">轻点泛起微光 · 按住释放星海 · 拖动探索<span class="hint-extra"> · E 唤起星海 · H 互动说明</span></p>
-  <aside id="help-panel" hidden aria-labelledby="help-title"><button id="close-help" aria-label="关闭说明">×</button><small>A LITTLE TOUCH, AN OCEAN OF LIGHT</small><h2 id="help-title">轻轻一碰，整片海回应你。</h2><p>在海水里点一朵光，涟漪轻轻推开鱼儿、摇动海草。等一会儿，好奇的小鱼又会围过来。碰到小鱼、海龟或鳐鱼，它们会转身游开，过一会儿再恢复巡游。深海的水母也会轻轻避让，把微光传给同伴。</p><dl><dt>轻点海水</dt><dd>荧光涟漪与上浮气泡</dd><dt>轻点动物</dt><dd>受惊游开，同伴轻轻避让</dd><dt>按住，再松开</dt><dd>积起光珠，散成掌心星海</dd><dt>E / ✧</dt><dd>在眼前唤起一片星海</dd><dt>拖动 / ← →</dt><dd>自由探索，停止自动巡游</dd><dt>1 / 2 / 3</dt><dd>前往三片海域</dd><dt>A</dt><dd>开启 / 关闭自动巡游</dd><dt>空格</dt><dd>暂停 / 继续海底时间</dd><dt>S</dt><dd>隐藏 / 显示界面</dd><dt>F</dt><dd>全屏</dd><dt>H / Esc</dt><dd>打开 / 关闭说明</dd></dl><p class="footnote">桌面壁纸中轻点空白处即可泛起微光。<br>独立预览还可按住蓄光、拖动探索。<br>一切都会慢慢平静下来，不必做任何事。</p></aside>
+  <aside id="help-panel" hidden aria-labelledby="help-title"><button id="close-help" aria-label="关闭说明">×</button><small>A LITTLE TOUCH, AN OCEAN OF LIGHT</small><h2 id="help-title">轻轻一碰，整片海回应你。</h2><p>在海水里点一朵光，涟漪轻轻推开鱼儿、摇动海草。等一会儿，好奇的小鱼又会围过来。碰到小鱼、海龟或鳐鱼，它们会转身游开，过一会儿再恢复巡游。深海的水母也会轻轻避让，把微光传给同伴。</p><dl><dt>轻点海水</dt><dd>荧光涟漪与上浮气泡</dd><dt>轻点动物</dt><dd>受惊游开，同伴轻轻避让</dd><dt>按住，再松开</dt><dd>积起光珠，散成掌心星海</dd><dt>E / ✧</dt><dd>在眼前唤起一片星海</dd><dt>拖动 / ← →</dt><dd>自由探索，停止自动巡游</dd><dt>1 / 2 / 3</dt><dd>前往三片海域</dd><dt>A</dt><dd>开启 / 关闭自动巡游</dd><dt>空格</dt><dd>暂停 / 继续海底时间</dd><dt>S</dt><dd>隐藏 / 显示界面</dd><dt>F</dt><dd>全屏</dd><dt>H / Esc</dt><dd>打开 / 关闭说明</dd></dl><p>海洋偏好里可以停在喜欢的海域，调整巡游速度，并为桌面图标留出安静的一侧。省电、均衡与高清三档，适合不同的屏幕和使用习惯。</p><p>天气会在晴、阴、雨与风暴间缓慢演变，也可以固定一种。昼夜默认跟随本地时间，能够独立选择白昼、黄昏或夜晚；深海受海面天气的影响更轻。天气演变离线运行。</p><p class="footnote">桌面壁纸中轻点空白处即可泛起微光。<br>独立预览还可按住蓄光、拖动探索。<br>偏好保存在当前设备的这个窗口中。<br>一切都会慢慢平静下来，不必做任何事。</p></aside>
+  <aside id="settings-panel" class="settings-panel" role="dialog" aria-labelledby="settings-title" hidden>
+    <button id="close-settings" class="panel-close" aria-label="关闭海洋偏好">×</button>
+    <small class="panel-eyebrow">YOUR OWN LITTLE OCEAN</small>
+    <h2 id="settings-title">让海，慢一点。</h2>
+    <p class="settings-intro">留住喜欢的风景，其余交给洋流。</p>
+    <form id="ocean-preferences" autocomplete="off">
+      <fieldset>
+        <legend>漫游</legend>
+        <label class="preference-row" for="pref-tourMode"><span>观看方式</span><select id="pref-tourMode" name="tourMode"><option value="auto">自动巡游</option><option value="fixed">固定海域</option></select></label>
+        <label class="preference-row" id="fixed-zone-row" for="pref-fixedZone" hidden><span>停留海域</span><select id="pref-fixedZone" name="fixedZone"><option value="0">珊瑚花园</option><option value="1">海藻森林</option><option value="2">幽蓝深海</option></select></label>
+        <label class="preference-row" id="tour-speed-row" for="pref-tourSpeed"><span>巡游速度</span><select id="pref-tourSpeed" name="tourSpeed"><option value="0.5">舒缓</option><option value="1">标准</option><option value="1.5">轻快</option></select></label>
+        <label class="preference-row" for="pref-quietSide"><span>图标留白</span><select id="pref-quietSide" name="quietSide"><option value="none">自然构图</option><option value="left">左侧安静</option><option value="right">右侧安静</option></select></label>
+      </fieldset>
+      <fieldset>
+        <legend>海面与天光</legend>
+        <label class="preference-row" for="pref-weather"><span>海面天气</span><select id="pref-weather" name="weather"><option value="auto">自然演变</option><option value="clear">晴天</option><option value="overcast">阴天</option><option value="rain">雨天</option><option value="storm">风暴</option></select></label>
+        <label class="preference-row" for="pref-daylight"><span>昼夜</span><select id="pref-daylight" name="daylight" aria-describedby="daylight-note"><option value="auto">跟随本地时间</option><option value="day">白昼</option><option value="dusk">黄昏</option><option value="night">夜晚</option></select></label>
+        <p class="preference-note" id="daylight-note">天气离线演变，光线会慢慢过渡。</p>
+      </fieldset>
+      <fieldset>
+        <legend>舒适与画质</legend>
+        <label class="preference-range" for="pref-brightness"><span>画面亮度</span><output id="value-brightness" for="pref-brightness">100%</output><input id="pref-brightness" name="brightness" type="range" min="0.65" max="1.2" step="0.05" value="1"></label>
+        <label class="preference-range" for="pref-interactionStrength"><span>互动强度</span><output id="value-interactionStrength" for="pref-interactionStrength">100%</output><input id="pref-interactionStrength" name="interactionStrength" type="range" min="0.4" max="1.4" step="0.05" value="1"></label>
+        <label class="preference-row" for="pref-quality"><span>画面质量</span><select id="pref-quality" name="quality" aria-describedby="quality-note"><option value="eco">省电</option><option value="balanced">均衡</option><option value="high">高清</option></select></label>
+        <p class="preference-note" id="quality-note">平衡清晰度与日常运行负担。</p>
+      </fieldset>
+      <div class="settings-footer"><span id="settings-saved" role="status" aria-live="polite">偏好会自动保存</span><button id="reset-preferences" type="button">恢复默认</button></div>
+    </form>
+  </aside>
   <div id="toast" role="status" aria-live="polite"></div>
 </body>
 </html>
