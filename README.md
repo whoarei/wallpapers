@@ -89,6 +89,8 @@ https://github.com/whoarei/wallpapers/releases/latest/download/catalog.json
 
 发布工作流成功后会直接调用同步流程，因为使用 `GITHUB_TOKEN` 发布 Release 不会触发另一个 `release: published` 工作流。同时保留 `release: published` 入口，支持手动在 GitHub 发布的正式版本。
 
+同步结束后，运行器会再使用匿名 HTTP 请求核验双端附件、清单、源码与默认更新入口，验收结果保存为 `public-release-audit-<tag>` 工作流附件。核验最新正式版时要求两端 latest 均返回目标版本；补同步历史版时不要求 latest 回退。
+
 补同步已有版本：打开 GitHub **Actions → Sync release to Gitee → Run workflow**，选择 `main` 分支，填写 `library-vX.Y.Z`；留空则取最新正式 Release。同步失败不会撤回 GitHub Release。修复同步脚本后应从 `main` 手动补同步，以使用新脚本；直接重跑旧标签的失败任务仍会使用旧版脚本。已有且校验一致的 Gitee 附件会复用；同名附件内容不一致或已有标签指向不同提交时会报错，不强制覆盖。GitHub 草稿和预发布版本不参与同步。
 
 Gitee Release 入口：

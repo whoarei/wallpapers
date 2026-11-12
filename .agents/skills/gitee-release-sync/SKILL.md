@@ -86,6 +86,11 @@ gh run list --repo whoarei/wallpapers --workflow sync-gitee.yml --limit 5
 
 工作流成功后，用独立的只读脚本进行公开下载检查：
 
+工作流的“Audit public attachments and update endpoints”步骤也会运行本脚本，
+以不携带 Gitee 令牌的 HTTP 请求核验，并保存 `public-release-audit-<tag>` 附件。
+可读取该步骤与验收附件作为运行器上的检查证据。当前环境若被接口限流，停止轮询，
+遵守服务返回的限制；不要把限流错误当成缺失附件或直接宣称检查通过。
+
 ```bash
 python scripts/verify_release.py "$release_tag"
 ```
