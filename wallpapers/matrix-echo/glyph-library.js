@@ -1,7 +1,7 @@
 (() => {
   'use strict';
   const G = window.MatrixGlyphs;
-  function create({ runtime, settings, onChange, notify, download }) {
+  function create({ runtime, settings, onChange, notify, download, editable = true }) {
     const $ = id => document.getElementById(id);
     const builtins = G.collection(window.MATRIX_GLYPHS), original = new Map(builtins.map(e => [e.id, e]));
     const active = new Map();
@@ -38,7 +38,7 @@
       settings.glyphOverrides = [...overrides.values()]; settings.glyphRemoved = removed;
     }
     function editor(entry = null) {
-      if (!runtime.capabilities.keyboard) return;
+      if (!runtime.capabilities.keyboard || !editable) return;
       editId = entry?.id || null; $('glyph-editor').hidden = false;
       $('glyph-editor-title').textContent = entry ? '编辑悬浮文字' : '添加悬浮文字';
       $('glyph-script').value = entry?.script || 'kai'; $('glyph-character').value = entry?.character || '';
@@ -62,6 +62,7 @@
         title.append(preview, document.createTextNode(script.name + ' · ' + (original.has(entry.id) ? '内置' : '个人')));
         detail.textContent = entry.reading || '未填写读音或字母名'; description.textContent = entry.description;
         summary.append(title, detail, description);
+        if (!editable) { row.append(summary); container.append(row); continue; }
         const actions = document.createElement('div'); actions.className = 'row-actions';
         actions.append(button(entry.enabled ? '已启用' : '已停用', () => {
           upsert([{ ...entry, enabled: !entry.enabled }]); refresh('已更新悬浮文字的启用状态。');
@@ -81,7 +82,7 @@
     $('add-glyph').addEventListener('click', () => editor());
     $('cancel-glyph-edit').addEventListener('click', () => { editId = null; $('glyph-editor').hidden = true; });
     $('glyph-editor').addEventListener('submit', event => {
-      event.preventDefault(); if (!runtime.capabilities.keyboard) return;
+      event.preventDefault(); if (!runtime.capabilities.keyboard || !editable) return;
       try {
         const old = list().find(e => e.id === editId);
         const entry = G.normalize({ ...(editId ? { id: editId } : {}), script: $('glyph-script').value,
@@ -91,9 +92,9 @@
         upsert([entry]); editId = null; $('glyph-editor').hidden = true; refresh(`已保存悬浮文字「${entry.character}」。`);
       } catch (error) { notify(error.message); }
     });
-    $('import-glyphs').addEventListener('click', () => { if (runtime.capabilities.keyboard) $('glyph-file').click(); });
+    $('import-glyphs').addEventListener('click', () => { if (runtime.capabilities.keyboard && editable) $('glyph-file').click(); });
     $('glyph-file').addEventListener('change', async event => {
-      if (!runtime.capabilities.keyboard) return;
+      if (!runtime.capabilities.keyboard || !editable) return;
       const files = [...event.target.files]; event.target.value = ''; if (!files.length) return;
       try {
         if (files.length > G.limits.entries || files.reduce((n, f) => n + f.size, 0) > G.limits.bytes) throw new Error('一次最多导入 500 个文件，总大小不超过 2 MiB。');
@@ -131,7 +132,8 @@
       event.preventDefault(); const next = $('library-poems').hidden ? $('tab-poems') : $('tab-glyphs'); next.click(); next.focus();
     });
     refresh();
-    return Object.freeze({ list, active: script => active.get(script) || [], builtinFiles: () => sourceFiles(builtins) });
+    return Object.freeze({ list, active: script => active.get(script) || [], builtinFiles: () => sourceFiles(builtins),
+      reload: () => { editId = null; $('glyph-editor').hidden = true; $('glyph-restore-confirm').hidden = true; refresh(); } });
   }
   window.MatrixGlyphLibrary = Object.freeze({ create });
 })();

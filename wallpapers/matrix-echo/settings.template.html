@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>矩阵回声 · 壁纸设置</title>
+  <link rel="stylesheet" href="settings-page.css">
+  <script src="/__wallpaper_host__/settings.js" defer></script>
+  <script src="poetry.js" defer></script><script src="poems.generated.js" defer></script>
+  <script src="glyphs.js" defer></script><script src="glyphs.generated.js" defer></script>
+  <script src="settings.js" defer></script><script src="culture-config.js" defer></script>
+  <script src="archive.js" defer></script><script src="glyph-library.js" defer></script>
+  <script src="culture.js" defer></script><script src="settings-page.js" defer></script>
+</head>
+<body>
+  <header class="settings-heading"><h1>矩阵回声设置</h1><p>管理诗词、悬浮文字与注释。先把新增或编辑内容保存到草稿，再点击底部「保存到主程序」。</p></header>
+  <p id="legacy-settings-hint" hidden>原先在预览中添加的个人内容可通过 JSON 备份导入本页；保存后，主程序将使用这里的共享配置。</p>
+  <fieldset id="editor-fields" disabled>
+    <div class="scene-options"><label>流速<select id="config-speed"><option value="0">缓慢</option><option value="1">标准</option><option value="2">疾速</option></select></label><label>辉光<select id="config-light"><option value="0">柔和</option><option value="1" selected>标准</option><option value="2">明亮</option></select></label></div>
+    <!-- MATRIX_CULTURE_EDITOR -->
+  </fieldset>
+  <footer class="settings-save"><div><p id="config-capacity">配置容量：— / 32 KiB</p><p id="config-draft-state"></p><p id="config-feedback" role="status" aria-live="polite">正在读取主程序配置…</p><p id="config-error" role="alert" hidden></p></div><div class="save-buttons"><button id="config-reload" type="button">重新载入（替换草稿）</button><button id="config-save" type="button" disabled>保存到主程序</button></div></footer>
+  <p class="settings-help">保存后，同一设备上使用这张壁纸的桌面和预览共用配置；未运行时，下次启动读取。配置最多 32 KiB。重新载入会替换未保存草稿；备份和 ZIP 导出可在壁纸预览中操作。</p>
+  <div hidden><button id="culture" type="button"></button><div id="floating-script"></div><span id="echo-verse"></span><span id="echo-credit"></span><aside id="glyph-note" hidden><h2 id="glyph-note-title"></h2><p id="glyph-note-reading"></p><p id="glyph-note-description"></p><button id="close-glyph-note" type="button"></button></aside></div>
+</body>
+</html>

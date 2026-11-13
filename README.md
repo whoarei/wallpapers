@@ -32,3 +32,6 @@
 
 为「矩阵回声」增加诗词，可直接提交 JSON 文件，见 [诗词库说明](wallpapers/matrix-echo/content/poems/README.md)。
 增加悬浮文字与注释同样支持 JSON，见 [悬浮文字库说明](wallpapers/matrix-echo/content/glyphs/README.md)。
+
+矩阵回声已接入主程序 v0.12.0+ 的「壁纸设置」入口，可管理、导入诗词和悬浮文字注释，
+保存后同步各屏幕及预览。配置容量上限 32 KiB，旧版宿主和普通浏览器继续使用原有本地配置。

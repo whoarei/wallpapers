@@ -12,6 +12,7 @@
   <script src="glyphs.js" defer></script>
   <script src="glyphs.generated.js" defer></script>
   <script src="settings.js" defer></script>
+  <script src="culture-config.js" defer></script>
   <script src="archive.js" defer></script>
   <script src="glyph-library.js" defer></script>
   <script src="culture.js" defer></script>
@@ -38,6 +39,7 @@
       <button id="fullscreen" type="button" data-fullscreen>全屏</button>
     </div>
   </footer>
+  <!-- culture-editor:start -->
   <aside id="culture-panel" class="culture-panel" data-scene-panel hidden aria-labelledby="culture-title">
     <div class="panel-heading"><div><p class="eyebrow">WORDS THROUGH THE CODE</p><h2 id="culture-title">诗词与文字</h2></div><button id="close-culture" type="button" aria-label="关闭诗词与文字">×</button></div>
     <div class="display-options">
@@ -48,6 +50,7 @@
     </div>
     <fieldset class="script-options"><legend>悬浮字形</legend><label><input type="checkbox" data-script="seal" checked>小篆</label><label><input type="checkbox" data-script="kai" checked>楷书</label><label><input type="checkbox" data-script="yi" checked>彝文</label><label><input type="checkbox" data-script="tibetan" checked>藏文</label></fieldset>
     <p id="desktop-edit-hint" data-desktop-only>桌面支持启停、删除文字和调整字号。添加、编辑或导入文件，请在壁纸盒子的预览中操作，再导出已配置壁纸并导入。</p>
+    <p id="host-settings-notice" hidden>当前使用主程序的共享配置。编辑或导入请打开主程序或托盘的「壁纸设置 → 矩阵回声」，保存后会通知所有使用这张壁纸的屏幕。预览中仍可查看和导出备份。</p>
     <div id="library-tabs" class="library-tabs" role="tablist" aria-label="内容库">
       <button id="tab-poems" type="button" role="tab" aria-selected="true" aria-controls="library-poems">诗词库</button>
       <button id="tab-glyphs" type="button" role="tab" aria-selected="false" aria-controls="library-glyphs" tabindex="-1">悬浮文字库</button>
@@ -88,5 +91,6 @@
     <div class="library-tools"><button id="export-wallpaper" type="button" data-keyboard>导出已配置壁纸</button></div>
     <p id="culture-status" role="status" aria-live="polite"></p>
   </aside>
+  <!-- culture-editor:end -->
 </body>
 </html>

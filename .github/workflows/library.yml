@@ -20,6 +20,7 @@ jobs:
       - name: Test packaging and validate tag
         run: |
           python scripts/sync_runtime.py --check
+          python scripts/sync_matrix_settings.py --check
           python -m unittest discover -s tests -v
           node tests/zenith-sky.test.cjs
           node tests/blue-weightless.test.cjs
@@ -73,6 +74,7 @@ jobs:
           PY
           BROWSER_PATH="$(node -e 'process.stdout.write(require(process.env.PLAYWRIGHT_PATH).chromium.executablePath())')" node tests/wallpaper-adaptation.browser.cjs
           BROWSER_PATH="$(node -e 'process.stdout.write(require(process.env.PLAYWRIGHT_PATH).chromium.executablePath())')" node tests/matrix-echo.browser.cjs
+          BROWSER_PATH="$(node -e 'process.stdout.write(require(process.env.PLAYWRIGHT_PATH).chromium.executablePath())')" node tests/matrix-settings.browser.cjs
           BROWSER_PATH="$(node -e 'process.stdout.write(require(process.env.PLAYWRIGHT_PATH).chromium.executablePath())')" node tests/ocean-weather.browser.cjs
       - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f
         if: always()

@@ -49,6 +49,22 @@ class Packages(unittest.TestCase):
             finally:
                 build.ROOT = original_root
 
+    def test_optional_settings_entry(self):
+        valid = {"id": "scene", "name": "Scene", "version": "1.0.0", "entry": "index.html"}
+        build.validate_metadata({**valid, "settings": {"entry": "settings.html"}}, "scene")
+        for settings in (None, "settings.html", {}, {"entry": "../settings.html"}, {"entry": "index.html"}, {"entry": "https://a.test/settings.html"}, {"entry": "settings.js"}):
+            with self.subTest(settings=settings), self.assertRaises(ValueError):
+                build.validate_metadata({**valid, "settings": settings}, "scene")
+
+    def test_matrix_settings_shared_markup(self):
+        from matrix_settings import collect
+        folder = Path(__file__).resolve().parent.parent / "wallpapers/matrix-echo"
+        generated = collect(folder)
+        self.assertEqual(generated, (folder / "settings.html").read_bytes())
+        self.assertIn(b'/__wallpaper_host__/settings.js', generated)
+        self.assertIn(b'id="import-poems"', generated)
+        self.assertIn(b'id="import-glyphs"', generated)
+
 
 if __name__ == "__main__":
     unittest.main()

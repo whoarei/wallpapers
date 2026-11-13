@@ -58,4 +58,6 @@ body.idle .hud,body.idle .identity,body.idle .signature{opacity:0}
 #glyph-editor input,#glyph-editor textarea,#glyph-editor select,.glyph-filter select{border:1px solid #3b674a;background:#020e07;color:#d4ecdc;border-radius:4px;font:13px/1.8 "Microsoft YaHei",sans-serif}
 #glyph-editor input,#glyph-editor textarea,#glyph-editor select{display:block;width:100%;padding:8px}#glyph-editor textarea{resize:vertical}.glyph-fields{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 #glyph-note-description{white-space:pre-wrap}
+[data-host-managed=true] .display-options,[data-host-managed=true] .script-options,[data-host-managed=true] #add-poem,[data-host-managed=true] #add-glyph,[data-host-managed=true] #import-poems,[data-host-managed=true] #import-glyphs,[data-host-managed=true] #restore-poems,[data-host-managed=true] #restore-glyphs,[data-host-managed=true] #desktop-edit-hint,[data-host-managed=true] .library-help{display:none!important}
+#host-settings-notice{padding:12px;border:1px solid #436b4e;border-radius:6px;color:#b4d5bd;font-size:12px}
 @media(max-width:650px){.culture-panel{top:12px;right:12px;bottom:140px;width:calc(100% - 24px);padding:16px}.poem-fields{grid-template-columns:1fr}.poem-row{align-items:flex-start}.poem-row .row-actions{max-width:125px}}

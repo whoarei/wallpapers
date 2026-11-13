@@ -8,6 +8,7 @@ import zipfile
 from pathlib import Path
 from matrix_poetry import collect as collect_matrix_poetry
 from matrix_glyphs import collect as collect_matrix_glyphs
+from matrix_settings import collect as collect_matrix_settings
 
 ROOT = Path(__file__).resolve().parent.parent
 SLUG = re.compile(r"[a-z0-9][a-z0-9-]{0,63}\Z")
@@ -49,6 +50,11 @@ def validate_metadata(metadata, wallpaper_id):
     order = metadata.get("order", 100)
     if type(order) is not int or not -(1 << 63) <= order < (1 << 63) or type(metadata.get("enabled", True)) is not bool:
         raise ValueError(f"Invalid order/enabled field: {wallpaper_id}")
+    if "settings" in metadata:
+        settings = metadata["settings"]
+        entry = settings.get("entry") if isinstance(settings, dict) else None
+        if not isinstance(entry, str) or not safe_path(entry) or not entry.endswith(".html") or entry == metadata.get("entry", "index.html"):
+            raise ValueError(f"Invalid settings.entry: {wallpaper_id}")
 
 
 def build(previous=None):
@@ -82,6 +88,8 @@ def build(previous=None):
         entry = metadata.get("entry", "index.html")
         if not safe_path(entry) or not entry.endswith(".html") or not (folder / entry).is_file():
             raise ValueError(f"Invalid entry: {folder.name}")
+        if "settings" in metadata and not (folder / metadata["settings"]["entry"]).is_file():
+            raise ValueError(f"Missing settings.entry: {folder.name}")
         if metadata.get("type", "web") != "web" or metadata.get("schemaVersion", 1) != 1:
             raise ValueError("Only schema 1 web wallpapers are supported")
         archive_name = f"{folder.name}-{version}.zip"
@@ -95,6 +103,7 @@ def build(previous=None):
         generated_glyphs = collect_matrix_glyphs(folder) if folder.name == "matrix-echo" and (folder / "glyphs.js").is_file() else None
         if generated_glyphs is not None and not (folder / "glyphs.generated.js").is_file():
             raise ValueError("Missing matrix-echo/glyphs.generated.js; run scripts/sync_matrix_glyphs.py")
+        generated_settings = collect_matrix_settings(folder) if folder.name == "matrix-echo" and (folder / "settings.template.html").is_file() else None
         with zipfile.ZipFile(archive_path, "w", compression=zipfile.ZIP_STORED) as archive:
             for source in files:
                 relative = source.relative_to(folder).as_posix()
@@ -106,6 +115,8 @@ def build(previous=None):
                     data = generated_poems
                 if generated_glyphs is not None and relative == "glyphs.generated.js":
                     data = generated_glyphs
+                if generated_settings is not None and relative == "settings.html":
+                    data = generated_settings
                 # Match the repository's LF policy on Windows working trees too;
                 # identical source text must produce identical release ZIPs.
                 if source.suffix.lower() in {".html", ".css", ".js", ".mjs", ".cjs", ".json", ".svg", ".md", ".txt", ".glsl", ".wgsl", ".vert", ".frag"}:

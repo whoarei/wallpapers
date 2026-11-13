@@ -16,7 +16,34 @@
     const speeds = [.52, 1, 1.6], speedNames = ['缓慢', '标准', '疾速'];
     const lights = [.62, 1, 1.32], lightNames = ['柔和', '标准', '明亮'];
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
-    const culture = window.MatrixCulture.create(runtime, wake, () => { if (width && height) draw(); });
+    const config = window.MatrixCultureConfig, settingsHost = config.host();
+    let nativeSettings = null, configurationSource = 'local';
+    if (settingsHost) try {
+      nativeSettings = config.read(settingsHost.getSettings());
+      if (nativeSettings) configurationSource = 'host';
+    } catch (error) { document.getElementById('culture-status').textContent = error.message; }
+    if (nativeSettings) ({ speedIndex, lightIndex } = nativeSettings);
+    const culture = window.MatrixCulture.create(runtime, wake, () => { if (width && height) draw(); }, {
+      initialSettings: nativeSettings?.culture, storage: !nativeSettings, readOnly: Boolean(settingsHost)
+    });
+    function renderSceneOptions() {
+      document.getElementById('speed').textContent = '流速 · ' + speedNames[speedIndex];
+      document.getElementById('light').textContent = '辉光 · ' + lightNames[lightIndex];
+    }
+    renderSceneOptions();
+    if (settingsHost) addEventListener('wallpaperhost:settingschange', () => {
+      try {
+        // Read the host snapshot rather than trusting a manually dispatched event.
+        const next = config.read(settingsHost.getSettings()) || {
+          culture: config.culture(window.MATRIX_DEFAULTS || {}), speedIndex: 0, lightIndex: 1
+        };
+        const sceneChanged = speedIndex !== next.speedIndex || lightIndex !== next.lightIndex;
+        speedIndex = next.speedIndex; lightIndex = next.lightIndex; configurationSource = 'host';
+        const cultureChanged = culture.applySettings(next.culture);
+        renderSceneOptions();
+        if (sceneChanged && !cultureChanged && width && height) draw();
+      } catch (error) { document.getElementById('culture-status').textContent = '主程序配置未应用：' + error.message; }
+    });
     function randomGenerator(seed) {
       return () => { seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0; return seed / 4294967296; };
     }
@@ -325,7 +352,7 @@
     makeAtlas(); resize();
     if (!runtime.paused) raf = requestAnimationFrame(tick);
     window.matrixEcho = { getState: () => ({ width, height, time, frames, paused, speedIndex, lightIndex,
-      interactions, rippleCount: ripples.length, streams: streams.length, targetFps: 30,
+      interactions, rippleCount: ripples.length, streams: streams.length, targetFps: 30, configurationSource,
       rainPoem: rainPoemState(), culture: culture.getState() }) };
   }
   if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });

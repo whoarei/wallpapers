@@ -316,7 +316,7 @@ async function download(page, selector, name) {
     assert.ok(repo.has('content/poems/shan-ju-qiu-ming.json'), 'existing source filename is preserved');
     assert.ok(repo.has(`content/poems/${id}.json`));
     const configured = unzip(await download(page, '#export-wallpaper', 'configured.zip'));
-    for (const asset of ['fonts/Seal.woff', 'fonts/WenKai.woff', 'fonts/Yi.woff', 'fonts/Tibetan.woff', 'poems.generated.js', 'settings.js', 'glyphs.js', 'glyphs.generated.js', 'glyph-library.js']) assert.ok(configured.has(asset), asset);
+    for (const asset of ['fonts/Seal.woff', 'fonts/WenKai.woff', 'fonts/Yi.woff', 'fonts/Tibetan.woff', 'poems.generated.js', 'settings.js', 'glyphs.js', 'glyphs.generated.js', 'glyph-library.js', 'culture-config.js', 'settings.html', 'settings-page.js', 'settings-page.css']) assert.ok(configured.has(asset), asset);
     const exportedRoot = path.join(output, 'configured');
     for (const [name, data] of configured) { const target = path.join(exportedRoot, name); fs.mkdirSync(path.dirname(target), { recursive: true }); fs.writeFileSync(target, data); }
     const roundtrip = await context(browser, exportedRoot), exportedPage = await open(roundtrip.c);

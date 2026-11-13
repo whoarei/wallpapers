@@ -2,26 +2,16 @@
   'use strict';
   const P = window.MatrixPoetry;
   const G = window.MatrixGlyphs, scripts = G.scripts;
-  function create(runtime, wake, redraw = () => {}) {
+  function create(runtime, wake, redraw = () => {}, options = {}) {
     const $ = id => document.getElementById(id);
     const builtins = Array.isArray(window.MATRIX_POEMS) && !window.MATRIX_POEMS.length ? [] : P.collection(window.MATRIX_POEMS);
     const original = new Map(builtins.map(p => [p.id, p]));
-    const defaults = window.MATRIX_DEFAULTS || {};
+    const defaults = options.initialSettings || window.MATRIX_DEFAULTS || {};
     const key = 'matrix-echo.culture.v1:official';
     let storageAvailable = true, initialWarning = '';
-    function clean(value) {
-      if (!value || typeof value !== 'object') throw new Error('设置格式无效');
-      const overrides = Array.isArray(value.overrides) && value.overrides.length ? P.collection(value.overrides) : [];
-      const removed = Array.isArray(value.removed) ? value.removed.filter(id => typeof id === 'string').slice(0, 500) : [];
-      const glyphOverrides = Array.isArray(value.glyphOverrides) && value.glyphOverrides.length ? G.collection(value.glyphOverrides) : [];
-      const glyphRemoved = Array.isArray(value.glyphRemoved) ? value.glyphRemoved.filter(id => typeof id === 'string').slice(0, 500) : [];
-      return { poems: value.poems !== false, floating: value.floating !== false,
-        scale: [1, 1.5, 2, 2.5, 3].includes(value.scale) ? value.scale : 2,
-        scripts: Array.isArray(value.scripts) ? scripts.filter(s => value.scripts.includes(s.id)).map(s => s.id) : scripts.map(s => s.id),
-        overrides, removed, glyphOverrides, glyphRemoved, importSeed: typeof value.importSeed === 'string' ? value.importSeed.slice(0, 80) : '' };
-    }
+    const clean = window.MatrixCultureConfig.culture;
     let settings = clean(defaults);
-    try {
+    if (options.storage !== false) try {
       const saved = localStorage.getItem(key);
       if (saved) {
         const parsed = clean(JSON.parse(saved));
@@ -34,7 +24,9 @@
     let viewport = { width: innerWidth, height: innerHeight, x: 0, y: 0, door: null };
     const verseCursors = new Map(), fontReady = new Set(), floats = [];
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
-    const glyphLibrary = window.MatrixGlyphLibrary.create({ runtime, settings, notify, download,
+    $('culture-panel').dataset.hostManaged = String(options.readOnly === true);
+    $('host-settings-notice').hidden = options.readOnly !== true;
+    const glyphLibrary = window.MatrixGlyphLibrary.create({ runtime, settings, notify, download, editable: !options.readOnly,
       onChange: message => { rebuildFloats(); mutate(message, false); } });
     function library() {
       const merged = new Map(builtins.map(p => [p.id, p]));
@@ -44,12 +36,14 @@
     }
     function notify(message) { $('culture-status').textContent = message; }
     function save() {
+      options.onChange?.(JSON.parse(JSON.stringify(settings)));
+      if (options.storage === false || options.readOnly) return;
       try { localStorage.setItem(key, JSON.stringify(settings)); storageAvailable = true; }
       catch { storageAvailable = false; notify('本次修改已应用，但当前环境无法保存。请导出文件备份。'); }
     }
     function resetVerse() { current = null; due = clock + 2; $('echo-verse').textContent = ''; $('echo-credit').textContent = ''; }
     function mutate(message, reset = true) {
-      if (message) notify(message);
+      if (message) notify(message + (options.editorOnly ? '（草稿，保存到主程序后生效）' : ''));
       save(); if (reset) resetVerse(); renderManager(); wake(); paint(); redraw();
     }
     function next() {
@@ -69,6 +63,7 @@
       resetVerse(); due = clock + 6;
     }
     function rebuildFloats() {
+      if (options.editorOnly) return;
       closeNote();
       $('floating-script').replaceChildren(); floats.length = 0;
       const available = scripts.filter(s => settings.scripts.includes(s.id) && fontReady.has(s.id) && glyphLibrary.active(s.id).length);
@@ -152,6 +147,7 @@
       return { x: px, y: py, motion };
     }
     function paint() {
+      if (options.editorOnly) return;
       const { width, height, x, y } = viewport;
       for (const f of floats) {
         const entries = glyphLibrary.active(f.script.id);
@@ -202,7 +198,7 @@
       settings.removed = settings.removed.filter(id => !incoming.has(id));
     }
     function editor(poem = null) {
-      if (!runtime.capabilities.keyboard) return;
+      if (!runtime.capabilities.keyboard || options.readOnly) return;
       editId = poem?.id || null; $('poem-editor').hidden = false;
       $('editor-heading').textContent = poem ? '编辑诗词' : '添加诗词';
       $('poem-title').value = poem?.title || ''; $('poem-author').value = poem?.author || '';
@@ -229,6 +225,7 @@
         title.textContent = poem.title;
         detail.textContent = `${poem.author} · ${poem.verses.length} 条 · ${original.has(poem.id) ? '内置' : '个人'}`;
         summary.append(title, detail);
+        if (options.readOnly) { row.append(summary); list.append(row); continue; }
         const actions = document.createElement('div'); actions.className = 'row-actions';
         actions.append(button(poem.enabled ? '已启用' : '已停用', () => { upsert([{ ...poem, enabled: !poem.enabled }]); mutate(); }, poem.enabled));
         if (runtime.capabilities.keyboard) actions.append(button('编辑', () => editor(poem)));
@@ -263,7 +260,7 @@
     $('add-poem').addEventListener('click', () => editor());
     $('cancel-edit').addEventListener('click', () => { $('poem-editor').hidden = true; editId = null; });
     $('poem-editor').addEventListener('submit', event => {
-      event.preventDefault(); if (!runtime.capabilities.keyboard) return;
+      event.preventDefault(); if (!runtime.capabilities.keyboard || options.readOnly) return;
       try {
         const old = library().find(p => p.id === editId);
         const poem = P.normalize({ ...(editId ? { id: editId } : {}), title: $('poem-title').value,
@@ -296,9 +293,9 @@
       download(MatrixArchive.zip(sourceFiles()), 'matrix-poems-repository.zip');
       notify('ZIP 内每首诗词对应一个 JSON，内置作品保留原文件名。将文件加入仓库的 content/poems/，下次发布自动带入。');
     });
-    $('import-poems').addEventListener('click', () => { if (runtime.capabilities.keyboard) $('poem-file').click(); });
+    $('import-poems').addEventListener('click', () => { if (runtime.capabilities.keyboard && !options.readOnly) $('poem-file').click(); });
     $('poem-file').addEventListener('change', async event => {
-      if (!runtime.capabilities.keyboard) return;
+      if (!runtime.capabilities.keyboard || options.readOnly) return;
       const files = [...event.target.files]; event.target.value = '';
       if (!files.length) return;
       try {
@@ -321,7 +318,7 @@
       const b = $('export-wallpaper'), snapshot = JSON.parse(JSON.stringify(settings));
       b.disabled = true; notify('正在打包诗词、文字、设置与离线字体…');
       try {
-        const names = ['index.html', 'matrix.css', 'matrix.js', 'culture.js', 'glyphs.js', 'glyphs.generated.js', 'glyph-library.js', 'poetry.js', 'archive.js', 'wallpaper-runtime.js',
+        const names = ['index.html', 'matrix.css', 'matrix.js', 'culture.js', 'culture-config.js', 'settings.html', 'settings.template.html', 'settings-page.js', 'settings-page.css', 'glyphs.js', 'glyphs.generated.js', 'glyph-library.js', 'poetry.js', 'archive.js', 'wallpaper-runtime.js',
           'module.json', 'cover.jpg', 'fonts/Seal.woff', 'fonts/WenKai.woff', 'fonts/Yi.woff', 'fonts/Tibetan.woff',
           'fonts/Seal-OFL.txt', 'fonts/Seal-NOTICE.md', 'fonts/WenKai-OFL.txt', 'fonts/Noto-OFL.txt', 'fonts/NOTICE.md'];
         const files = await Promise.all(names.map(async name => {
@@ -341,10 +338,10 @@
       if (runtime.capabilities.keyboard && selectedFloat && event.key === 'Escape') {
         event.preventDefault(); closeNote(true); return;
       }
-      if (!runtime.capabilities.keyboard || $('culture-panel').hidden) return;
+      if (options.editorOnly || !runtime.capabilities.keyboard || $('culture-panel').hidden) return;
       if (event.key === 'Escape') { event.preventDefault(); togglePanel(false); }
     });
-    for (const script of scripts) {
+    if (!options.editorOnly) for (const script of scripts) {
       document.fonts.load(`32px ${script.family}`, script.sample).then(faces => {
         if (!faces.length) throw new Error('font missing');
         fontReady.add(script.id); rebuildFloats(); paint(); if (!runtime.paused) redraw();
@@ -353,7 +350,21 @@
     // Import a configured package once, then keep its personal additions under
     // the official stable key so later library updates can load them as well.
     renderManager(); if (settings.importSeed) save(); if (initialWarning) notify(initialWarning);
-    return Object.freeze({ update, togglePanel, finishVerse, getVerse: () => fontReady.has('kai') && settings.poems ? current : null,
+    function applySettings(value) {
+      const next = clean(value);
+      if (JSON.stringify(settings) === JSON.stringify(next)) {
+        if (options.editorOnly) {
+          editId = null; $('poem-editor').hidden = true; $('restore-confirm').hidden = true;
+          glyphLibrary.reload(); renderManager();
+        }
+        return false;
+      }
+      const reset = JSON.stringify([settings.poems, settings.overrides, settings.removed]) !== JSON.stringify([next.poems, next.overrides, next.removed]);
+      Object.assign(settings, next); if (reset) resetVerse();
+      editId = null; $('poem-editor').hidden = true; $('restore-confirm').hidden = true;
+      glyphLibrary.reload(); rebuildFloats(); renderManager(); paint(); redraw(); return true;
+    }
+    return Object.freeze({ update, togglePanel, finishVerse, applySettings, getVerse: () => fontReady.has('kai') && settings.poems ? current : null,
       getState: () => ({ clock, current: current ? { ...current } : null,
       settings: JSON.parse(JSON.stringify(settings)), poems: library(), glyphs: glyphLibrary.list(), fontReady: [...fontReady],
       floatingCount: floats.length, annotation: selectedFloat ? { script: selectedFloat.script.id, character: selectedFloat.el.textContent } : null,
