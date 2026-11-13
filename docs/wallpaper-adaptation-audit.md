@@ -1,6 +1,6 @@
 # 壁纸适配检查与修复
 
-依据：[2026-11-12 壁纸适配规范 v1](https://github.com/whoarei/wallpapers/blob/main/docs/wallpaper-adaptation.html)。范围为 `wallpapers/` 中有 `module.json` 的全部 10 张正式壁纸；`prototypes/` 是未发布实验，不属于内容库。
+依据：[壁纸适配规范 v1](wallpaper-adaptation.md)。范围为 `wallpapers/` 中有 `module.json` 的全部 10 张正式壁纸；`prototypes/` 是未发布实验，不属于内容库。
 
 | 壁纸 | 检查发现 | 本次适配 |
 | --- | --- | --- |
