@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "matrix-echo",
+  "type": "web",
+  "name": "矩阵回声",
+  "subtitle": "MATRIX ECHO",
+  "description": "绿色代码雨流过数字空间，一道微光中的门通往矩阵深处。点击激起数据涟漪，可切换流速与辉光。",
+  "version": "1.0.0",
+  "minAppVersion": "0.2.0",
+  "entry": "index.html",
+  "cover": "cover.jpg",
+  "tags": ["代码雨", "科幻", "点击互动"],
+  "order": 110,
+  "enabled": true
+}

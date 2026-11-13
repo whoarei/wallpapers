@@ -12,7 +12,7 @@ const scenes = {
   aquarium: 'aquarium', 'pinewind-town': 'pinewind', 'window-to-elsewhere': 'windowElsewhere',
   'pixel-camp': 'pixelCamp', 'sky-islands': 'skyIslands', 'night-train': 'nightTrain',
   'orbital-observatory': 'observatory', 'ocean-drift': 'oceanDrift',
-  'blue-weightless': 'blueWeightless', 'zenith-sky': 'zenithSky'
+  'blue-weightless': 'blueWeightless', 'zenith-sky': 'zenithSky', 'matrix-echo': 'matrixEcho'
 };
 const failures = [], reports = [];
 const advance = (page, ms) => page.evaluate(ms => __advance(ms), ms);
@@ -59,10 +59,11 @@ async function checkButtons(page) {
 }
 async function checkActions(page, slug, name) {
   const currentInstance = await page.evaluate(() => wallpaperHost.instanceId);
-  const actionId = slug === 'aquarium' ? 'feed' : 'train';
+  const expectedActions = slug === 'aquarium' ? ['feed', 'light', 'flow'] : slug === 'matrix-echo' ? ['speed', 'light'] : ['phase', 'weather', 'train'];
+  const actionId = slug === 'aquarium' ? 'feed' : slug === 'matrix-echo' ? 'speed' : 'train';
   const invoke = (requestId, action = actionId, instanceId = currentInstance) => page.evaluate(
     request => typeof window.__SCREEN_GARDEN_INVOKE_ACTION === 'function' ? __SCREEN_GARDEN_INVOKE_ACTION(request).result : wallpaperApp.invoke(request), { protocolVersion: 1, requestId, instanceId, actionId: action });
-  assert.deepEqual(await page.evaluate(() => wallpaperApp.getActions().map(a => a.id)), slug === 'aquarium' ? ['feed','light','flow'] : ['phase','weather','train']);
+  assert.deepEqual(await page.evaluate(() => wallpaperApp.getActions().map(a => a.id)), expectedActions);
   assert.equal(await page.evaluate(() => wallpaperApp.getActions()[0].enabled), false);
   assert.equal((await invoke('initial')).code, 'PAUSED');
   await setHostPause(page, false);
@@ -70,6 +71,7 @@ async function checkActions(page, slug, name) {
   const after = await state(page, name);
   assert.deepEqual(await invoke('first'), first, 'duplicate requests return the cached result');
   if (slug === 'aquarium') assert.equal((await state(page, name)).totalFed, after.totalFed);
+  if (slug === 'matrix-echo') assert.equal((await state(page, name)).speedIndex, after.speedIndex);
   assert.equal((await invoke('first', 'other-action')).code, 'INVALID_REQUEST');
   assert.equal((await invoke('stale', actionId, 'old-instance')).code, 'STALE_INSTANCE');
   assert.equal((await invoke('unknown', 'unknown-action')).code, 'UNKNOWN_ACTION');
@@ -86,7 +88,7 @@ async function checkActions(page, slug, name) {
     let reply;
     for (let i = 0; i < 9; i++) { reply = await invoke('fill-' + i); if (!reply.ok) break; }
     assert.equal(reply.code, 'DISABLED');
-    assert.deepEqual(await page.evaluate(() => wallpaperApp.getActions().map(a => a.id)), slug === 'aquarium' ? ['feed','light','flow'] : ['phase','weather','train']);
+    assert.deepEqual(await page.evaluate(() => wallpaperApp.getActions().map(a => a.id)), expectedActions);
   assert.equal(await page.evaluate(() => wallpaperApp.getActions()[0].enabled), false);
     assert.equal((await invoke('first')).ok, true, 'cached success survives later capacity limits');
   }
@@ -164,10 +166,10 @@ async function checkActions(page, slug, name) {
             const initial = await state(page, name);
             await advance(page, 250);
             assert.equal((await state(page, name)).frames, initial.frames, 'initial system pause stops painting');
-            if (['aquarium', 'pinewind-town'].includes(slug)) await checkActions(page, slug, name);
+            if (['aquarium', 'pinewind-town', 'matrix-echo'].includes(slug)) await checkActions(page, slug, name);
             await setHostPause(page, false);
           }
-          if (!desktop && ['aquarium', 'pinewind-town'].includes(slug)) assert.deepEqual(await page.evaluate(() => wallpaperApp.getActions()), []);
+          if (!desktop && ['aquarium', 'pinewind-town', 'matrix-echo'].includes(slug)) assert.deepEqual(await page.evaluate(() => wallpaperApp.getActions()), []);
           const start = await state(page, name);
           await advance(page, slug === 'zenith-sky' ? 1100 : 250);
           assert.ok((await state(page, name)).frames > start.frames, 'scene runs');

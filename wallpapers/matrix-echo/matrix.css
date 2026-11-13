@@ -1,0 +1,19 @@
+*{box-sizing:border-box}
+html,body{width:100%;height:100%;margin:0;overflow:hidden;background:#020704;color:#b7d5bd;font-family:"Segoe UI","Microsoft YaHei",sans-serif}
+canvas{display:block;width:100%;height:100%;touch-action:manipulation}
+.identity{position:fixed;top:36px;left:40px;display:flex;align-items:center;gap:15px;pointer-events:none;transition:opacity .7s}
+.mark{font:27px/1 Georgia,serif;color:#82b895;border-left:1px solid #477d53;padding-left:11px}
+h1{font-size:13px;font-weight:400;letter-spacing:.35em;margin:0 0 7px;color:#acc6b2}
+.identity p{font:8px/1.4 Consolas,monospace;color:#5e846a;margin:0}
+.signature{position:fixed;top:44px;right:40px;font:8px/1.5 Consolas,monospace;letter-spacing:.13em;color:#557d60;pointer-events:none;transition:opacity .7s}
+.signal{display:inline-block;width:4px;height:4px;border-radius:50%;background:#8aca9a;margin:0 8px 1px 0;box-shadow:0 0 8px #60eb8a66}
+.separator{padding:0 12px;color:#365540}
+.hud{position:fixed;bottom:28px;left:40px;right:40px;display:flex;justify-content:space-between;align-items:center;gap:16px;transition:opacity .7s}
+.hint{font-size:10px;letter-spacing:.12em;color:#71967c}
+.controls{display:flex;flex-wrap:wrap;gap:6px}
+button{min-height:34px;padding:7px 13px;border:1px solid #6b9e7726;background:#041109b8;color:#93b59d;border-radius:4px;font:11px/1.4 "Segoe UI","Microsoft YaHei",sans-serif;cursor:pointer;backdrop-filter:blur(10px)}
+button:hover{background:#173d23b8;border-color:#72b58466;color:#d0edda}
+button:focus-visible{outline:2px solid #98efb4;outline-offset:3px}
+body.idle .hud,body.idle .identity,body.idle .signature{opacity:0}
+@media(max-width:650px){.identity{top:24px;left:22px}.signature{display:none}.hud{left:20px;right:20px;bottom:20px;flex-direction:column;align-items:flex-start;gap:12px}.controls{gap:5px}button{padding:7px 10px}.hint{font-size:9px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
