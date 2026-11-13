@@ -24,11 +24,11 @@
 
 ## 开发者文档
 
-[壁纸适配规范](docs/wallpaper-adaptation.html) · [逐张适配检查与验证](docs/wallpaper-adaptation-audit.md)
+[壁纸适配规范](docs/wallpaper-adaptation.md) · [逐张适配检查与验证](docs/wallpaper-adaptation-audit.md)
 
-规范包含主程序 v0.11.0 起的[语言同步约定](docs/wallpaper-adaptation.html#environment)，以及面向主程序 v0.12.0+ 的[壁纸设置通信扩展](docs/wallpaper-adaptation.html#wallpaper-settings)：自定义设置页、设备共享配置、配置读取与变更事件、设置页 SDK、版本冲突和错误处理。基础 `protocolVersion` 仍为 1，扩展需要单独检测设置能力；强依赖设置扩展的壁纸应声明 `minAppVersion: "0.12.0"` 或更高版本。
+规范包含主程序 v0.11.0 起的[语言同步约定](docs/wallpaper-adaptation.md#语言同步v1-的可选扩展)，以及面向主程序 v0.12.0+ 的[壁纸设置通信扩展](docs/wallpaper-adaptation.md#可选壁纸设置通信)：自定义设置页、设备共享配置、配置读取与变更事件、设置页 SDK、版本冲突和错误处理。基础 `protocolVersion` 仍为 1，扩展需要单独检测设置能力；强依赖设置扩展的壁纸应声明 `minAppVersion: "0.12.0"` 或更高版本。
 
-文档同步自主程序 [v0.12.0 目标提交](https://github.com/whoarei/wallpaper-box/commit/e98b15bf51d92bfcb1771dda6b38a8e8fe2252f4)。可参考主程序的[设置页示例](https://github.com/whoarei/wallpaper-box/blob/e98b15bf51d92bfcb1771dda6b38a8e8fe2252f4/wallpapers/aquarium/settings.html)；此处同步接入规范，不表示所有在库壁纸已提供设置页，具体设置项以各壁纸实现为准。
+文档同步自主程序 [Markdown 文档提交](https://github.com/whoarei/wallpaper-box/commit/0d57d004ce167ed519039c7102b124fcef319eb1)。可参考主程序的[设置页示例](https://github.com/whoarei/wallpaper-box/blob/e98b15bf51d92bfcb1771dda6b38a8e8fe2252f4/wallpapers/aquarium/settings.html)；此处同步接入规范，不表示所有在库壁纸已提供设置页，具体设置项以各壁纸实现为准。
 
 为「矩阵回声」增加诗词，可直接提交 JSON 文件，见 [诗词库说明](wallpapers/matrix-echo/content/poems/README.md)。
 增加悬浮文字与注释同样支持 JSON，见 [悬浮文字库说明](wallpapers/matrix-echo/content/glyphs/README.md)。
