@@ -21,3 +21,11 @@ You can also download wallpaper packages from [GitHub Releases](https://github.c
 | The Sky Above You | A night sky based on your chosen location and the current time, featuring 5,044 stars, constellations, and the direction of the Milky Way, with city selection. |
 | Weightless in Blue | A swimming journey through a twilight pool, from diving through different swimming strokes to returning to the poolside, accompanied by fish and swaying aquatic plants. |
 | Matrix Echo | Chinese verses enter the green code rain character by character. Floating Seal, Kai, Yi and Tibetan characters reveal notes when clicked. Both libraries support editing, JSON extensions and offline export. |
+
+## Developer documentation
+
+[Wallpaper integration guide (Chinese)](docs/wallpaper-adaptation.html) · [Adaptation audit (Chinese)](docs/wallpaper-adaptation-audit.md)
+
+The guide includes the [locale contract](docs/wallpaper-adaptation.html#environment) available since Wallpaper Box v0.11.0 and the [wallpaper settings extension](docs/wallpaper-adaptation.html#wallpaper-settings) for Wallpaper Box v0.12.0 and later: custom settings pages, one configuration per wallpaper across the device, configuration reads and change events, the settings-page SDK, revision conflicts, and error handling. The base `protocolVersion` remains 1; detect the settings capability separately. Wallpapers that require this extension must declare `minAppVersion: "0.12.0"` or later.
+
+This documentation is synchronized from the app's [v0.12.0 target commit](https://github.com/whoarei/wallpaper-box/commit/e98b15bf51d92bfcb1771dda6b38a8e8fe2252f4). See the app's [settings-page example](https://github.com/whoarei/wallpaper-box/blob/e98b15bf51d92bfcb1771dda6b38a8e8fe2252f4/wallpapers/aquarium/settings.html). Synchronizing the protocol does not add settings pages to every wallpaper in this library; available options depend on each wallpaper's implementation.
