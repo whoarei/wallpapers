@@ -43,7 +43,7 @@
     }
     function resetVerse() { current = null; due = clock + 2; $('echo-verse').textContent = ''; $('echo-credit').textContent = ''; }
     function mutate(message, reset = true) {
-      if (message) notify(message + (options.editorOnly ? '（草稿，保存到主程序后生效）' : ''));
+      if (message) notify(message + (options.editorOnly ? '（保存更改后生效）' : ''));
       save(); if (reset) resetVerse(); renderManager(); wake(); paint(); redraw();
     }
     function next() {

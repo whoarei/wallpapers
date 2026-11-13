@@ -1,7 +1,48 @@
-*{box-sizing:border-box}[hidden]{display:none!important}html,body{margin:0;min-height:100%;background:#07140d;color:#c4dfcc;font:13px/1.7 system-ui,"Microsoft YaHei",sans-serif}
-body{padding:16px 20px 22px}h1{font-size:20px;letter-spacing:.08em;margin:0}h2{font-size:18px}h3{font-size:14px;font-weight:500;margin:12px 0}p{margin:8px 0}button,input,textarea,select{font:inherit;color:inherit}button,select,input,textarea{border:1px solid #41644a;border-radius:5px;background:#0c2114}button{padding:7px 11px;cursor:pointer}button:hover{background:#1c3b25}button:disabled{opacity:.5;cursor:default}button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:2px solid #95d9a9;outline-offset:2px}button[aria-pressed=false]{color:#8aa393}fieldset{border:0;padding:0;margin:0;min-width:0}fieldset:disabled{opacity:.55}
-.settings-heading p,.settings-help,.library-help,#desktop-edit-hint{font-size:11px;color:#8eaf99}.settings-heading{margin-bottom:15px}.scene-options{display:flex;gap:18px;margin:12px 0}.scene-options label{display:flex;align-items:center;gap:8px}select{padding:6px 9px}.culture-panel{margin:16px 0}.culture-panel>.panel-heading,[data-desktop-only],#export-wallpaper,#export-poems,#export-repository,#export-glyphs,#export-glyph-repository{display:none!important}.display-options,.library-tools{display:flex;flex-wrap:wrap;gap:7px}.script-options{border:0;border-bottom:1px solid #37583f;padding:10px 0 14px;display:flex;flex-wrap:wrap;gap:12px}.script-options legend{padding-top:12px}.script-options label{display:flex;align-items:center;gap:5px}input[type=checkbox]{accent-color:#8ad9a6;width:15px;height:15px}
-.library-tabs{display:flex;gap:8px;margin:16px 0}.library-tabs [aria-selected=true]{background:#264c32;border-color:#8cba99}.library-heading{display:flex;align-items:center;justify-content:space-between;gap:10px}.library-heading small{font-size:11px;color:#8caf97;margin-left:8px}.poem-list{max-height:300px;overflow:auto;margin:10px 0 14px}.poem-row{display:flex;justify-content:space-between;align-items:center;gap:12px;border-bottom:1px solid #2e4b36;padding:10px 0}.poem-row b{font-weight:400;display:block}.poem-row p{font-size:11px;color:#8caf97;margin:3px 0}.row-actions{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:5px}.row-actions button{font-size:11px;padding:5px 8px;white-space:nowrap}.glyph-summary{min-width:0;flex:1}.glyph-summary p{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.glyph-preview{font:22px/1.5 system-ui,"Microsoft YaHei",sans-serif!important;margin-right:8px}.glyph-filter{display:flex;align-items:center;gap:8px;font-size:11px}
-#poem-editor,#glyph-editor{border:1px solid #41644a;border-radius:7px;padding:13px;margin:14px 0;background:#0c2114}.poem-fields,.glyph-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}#poem-editor label,#glyph-editor label{display:block;margin-bottom:10px;font-size:12px}#poem-editor input,#poem-editor textarea,#glyph-editor input,#glyph-editor textarea,#glyph-editor select{display:block;width:100%;padding:8px;margin-top:4px}textarea{resize:vertical}#poem-editor>p{color:#8caf97;font-size:11px}.restore-confirm{padding:10px;margin:12px 0;border:1px solid #59785e;border-radius:5px}.settings-save{position:sticky;bottom:0;z-index:3;display:flex;align-items:center;justify-content:space-between;gap:12px;border-top:1px solid #45674c;background:#07140df7;padding:12px 0;margin-top:18px}.settings-save p{font-size:11px;margin:0}.save-buttons{display:flex;flex-wrap:wrap;gap:7px}#config-save{background:#315d3e;border-color:#739e7f}.over-limit,#config-error{color:#ffb5a6}#config-error{border-left:2px solid #d68c77;padding-left:10px}#legacy-settings-hint{font-size:12px;padding:10px;background:#102819;border-radius:5px}#config-feedback{font-size:12px}#culture-status{font-size:12px;min-height:1.7em}
-@media(max-width:460px){body{padding:12px}.poem-fields,.glyph-fields{grid-template-columns:1fr}.settings-save{align-items:flex-start;flex-direction:column}.row-actions{max-width:125px}.scene-options{gap:10px}.scene-options label{gap:5px}button{padding:6px 9px}.poem-row{gap:8px}}
-.library-help,#next-verse{display:none!important}
+/* Business-specific layout on top of the locally bundled host settings styles. */
+h3 { font-size: 13px; font-weight: 500; margin: 8px 0; }
+p { margin: 6px 0; }
+.scene-options { display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 10px; }
+.scene-options label { display: flex; align-items: center; gap: 8px; }
+.scene-options select { width: 90px; max-width: none; }
+.culture-panel { margin: 0; }
+.culture-panel > .panel-heading, [data-desktop-only], #export-wallpaper,
+#export-poems, #export-repository, #export-glyphs, #export-glyph-repository,
+.library-help, #next-verse { display: none !important; }
+.display-options, .library-tools { display: flex; flex-wrap: wrap; gap: 6px; }
+button[aria-pressed="false"] { color: var(--settings-muted); }
+.script-options { display: flex; flex-wrap: wrap; gap: 8px 12px; border-bottom: 1px solid var(--settings-line); padding: 4px 0 8px; margin: 6px 0; }
+.script-options legend { font-size: 11px; color: var(--settings-muted); }
+.script-options label { display: flex; align-items: center; gap: 4px; }
+input[type="checkbox"] { width: 15px; height: 15px; margin: 0; }
+.library-tabs { display: flex; gap: 6px; margin: 10px 0 4px; }
+.library-tabs [aria-selected="true"] { color: var(--settings-accent); background: #e7eee2; border-color: #a7b89e; }
+.library-heading { display: flex; align-items: center; justify-content: space-between; gap: 10px; min-height: 40px; }
+.library-heading small { color: var(--settings-muted); font-size: 11px; font-weight: 400; margin-left: 6px; }
+.poem-list { margin: 0 0 10px; }
+.poem-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; border-bottom: 1px solid var(--settings-line); padding: 7px 0; }
+.poem-row > div:first-child { min-width: 0; flex: 1; overflow-wrap: anywhere; }
+.poem-row b { font-weight: 400; display: block; }
+.poem-row p { font-size: 11px; color: var(--settings-muted); margin: 2px 0; }
+.row-actions { display: flex; flex: none; flex-wrap: wrap; justify-content: flex-end; gap: 4px; }
+.row-actions button { font-size: 11px; padding: 4px 8px; }
+.glyph-summary { min-width: 0; flex: 1; }
+.glyph-summary p { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.glyph-preview { font: 22px/1.5 system-ui, "Microsoft YaHei", sans-serif !important; margin-right: 8px; }
+.glyph-filter { display: flex; align-items: center; gap: 8px; font-size: 11px; margin: 4px 0; }
+.glyph-filter select { width: 140px; }
+#poem-editor, #glyph-editor { border: 1px solid var(--settings-line); border-radius: var(--settings-radius); padding: 12px; margin: 12px 0; background: var(--settings-control-bg); }
+.poem-fields, .glyph-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+#poem-editor label, #glyph-editor label { display: block; margin-bottom: 10px; font-size: 12px; }
+#poem-editor input, #poem-editor textarea, #glyph-editor input, #glyph-editor textarea, #glyph-editor select { display: block; width: 100%; max-width: none; margin-top: 4px; }
+#poem-editor > p, #config-details, #culture-status { color: var(--settings-muted); font-size: 11px; }
+#culture-status:empty { display: none; }
+.restore-confirm { padding: 10px; margin: 10px 0; border: 1px solid var(--settings-line); border-radius: var(--settings-radius); }
+#config-save { background: var(--settings-accent); border-color: var(--settings-accent); color: #fff; }
+#config-save:hover:not(:disabled) { background: var(--settings-accent-hover); }
+.over-limit, #config-error { color: var(--settings-error); }
+@media (max-width: 460px) {
+  .poem-fields, .glyph-fields { grid-template-columns: 1fr; }
+  .row-actions { max-width: 116px; }
+  .scene-options { gap: 12px; }
+  .poem-row { gap: 8px; }
+}

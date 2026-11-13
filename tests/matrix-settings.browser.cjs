@@ -121,10 +121,44 @@ const csp = "default-src 'self' data: blob:; script-src 'self' 'unsafe-inline' '
     const good = await state(later);
     await later.evaluate(revision => __SCREEN_GARDEN_SET_SETTINGS({ moduleId: 'matrix-echo', revision, settings: { matrixEcho: { version: 2 } } }), snapshot.revision + 1);
     assert.equal((await state(later)).speedIndex, good.speedIndex, 'invalid configuration keeps last valid state');
-    await child.evaluate(() => scrollTo(0, 0));
+    await child.evaluate(() => { document.querySelector('#settings-content').scrollTop = 0; });
     await parent.screenshot({ path: path.join(output, 'native-matrix-settings.png') });
-    await frame.locator('#tab-glyphs').click(); await child.evaluate(() => scrollTo(0, 0));
+    await frame.locator('#tab-glyphs').click(); await child.evaluate(() => { document.querySelector('#settings-content').scrollTop = 0; });
     await parent.screenshot({ path: path.join(output, 'native-matrix-glyph-settings.png') });
+    // Actual embedded sizes, including the released v0.12.0 host's small frame.
+    // Resizing must keep the same draft and leave save controls above all content.
+    await frame.locator('#config-speed').selectOption('0');
+    const saves = requests.filter(request => request.method === 'save').length;
+    for (const [width, height] of [[574, 410], [574, 209], [320, 180]]) {
+      await parent.locator('iframe').evaluate((node, size) => { node.style.width = size.width + 'px'; node.style.height = size.height + 'px'; }, { width, height });
+      await child.evaluate(() => { document.querySelector('#settings-content').scrollTop = 0; });
+      assert.equal(await frame.locator('#config-speed').inputValue(), '0');
+      const geometry = await child.evaluate(() => {
+        const main = document.querySelector('#settings-content').getBoundingClientRect();
+        const footer = document.querySelector('.settings-save').getBoundingClientRect();
+        const save = document.querySelector('#config-save'), button = save.getBoundingClientRect();
+        return { width: innerWidth, height: innerHeight, contentWidth: document.documentElement.scrollWidth,
+          mainBottom: main.bottom, footerTop: footer.top, buttonBottom: button.bottom,
+          background: getComputedStyle(document.documentElement).backgroundColor,
+          hit: document.elementFromPoint(button.x + button.width / 2, button.y + button.height / 2) === save };
+      });
+      assert.equal(geometry.background, 'rgb(255, 255, 255)');
+      assert.ok(geometry.contentWidth <= width && geometry.mainBottom <= geometry.footerTop, JSON.stringify(geometry));
+      assert.ok(geometry.hit && geometry.buttonBottom <= height, JSON.stringify(geometry));
+      await parent.locator('iframe').screenshot({ path: path.join(output, `matrix-settings-${width}x${height}.png`) });
+    }
+    await child.evaluate(() => {
+      const error = document.querySelector('#config-error'); error.hidden = false;
+      error.textContent = '配置写入失败，请保留当前输入后重新读取。'.repeat(30);
+      const main = document.querySelector('#settings-content'); main.scrollTop = main.scrollHeight;
+    });
+    assert.ok(await child.evaluate(() => {
+      const save = document.querySelector('#config-save'), button = save.getBoundingClientRect();
+      const details = document.querySelector('#config-details').getBoundingClientRect();
+      return details.bottom <= document.querySelector('.settings-save').getBoundingClientRect().top &&
+        document.elementFromPoint(button.x + button.width / 2, button.y + button.height / 2) === save;
+    }), 'Long errors and the last content row must not cover the save action');
+    assert.equal(requests.filter(request => request.method === 'save').length, saves);
     assert.deepEqual(errors, []); assert.deepEqual(external, []);
     await c.close();
     console.log('Matrix native settings passed: real SDK + host shim, sandbox file import, drafts, shared live delivery, pause preservation, revisions, failures, size budget, next-launch and read-only playback.');
