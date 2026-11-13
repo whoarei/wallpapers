@@ -7,20 +7,53 @@
   <title>矩阵回声 · Matrix Echo</title>
   <link rel="stylesheet" href="matrix.css">
   <script src="wallpaper-runtime.js" defer></script>
+  <script src="poetry.js" defer></script>
+  <script src="poems.generated.js" defer></script>
+  <script src="settings.js" defer></script>
+  <script src="archive.js" defer></script>
+  <script src="culture.js" defer></script>
   <script src="matrix.js" defer></script>
 </head>
 <body>
-  <canvas id="matrix" aria-label="绿色代码雨在黑暗中流淌，通向一道发光的门；点击画面泛起数据涟漪"></canvas>
+  <canvas id="matrix" aria-label="完整诗句沿绿色代码雨流淌，特色文字悬浮其上；点击画面泛起数据涟漪" aria-describedby="poetry-transcript"></canvas>
+  <div id="floating-script" aria-hidden="true"></div>
+  <div id="poetry-transcript" class="sr-only"><span id="echo-verse"></span><span id="echo-credit"></span></div>
   <header class="identity"><span class="mark" aria-hidden="true">Ⅲ</span><div><h1>矩阵回声</h1><p>M A T R I X &nbsp; E C H O</p></div></header>
   <div class="signature" aria-hidden="true"><span class="signal"></span> THE CONSTRUCT <span class="separator">/</span> FOLLOW THE WHITE RABBIT</div>
   <footer class="hud" data-scene-controls>
     <span class="hint">点击 · 扰动矩阵<span data-keyboard> / 空格 · 暂停</span></span>
     <div class="controls">
+      <button id="culture" type="button" aria-expanded="false" aria-controls="culture-panel">诗词与文字</button>
       <button id="speed" type="button">流速 · 缓慢</button>
       <button id="light" type="button">辉光 · 标准</button>
       <button id="pause" type="button" aria-pressed="false">暂停</button>
       <button id="fullscreen" type="button" data-fullscreen>全屏</button>
     </div>
   </footer>
+  <aside id="culture-panel" class="culture-panel" data-scene-panel hidden aria-labelledby="culture-title">
+    <div class="panel-heading"><div><p class="eyebrow">WORDS THROUGH THE CODE</p><h2 id="culture-title">诗词与文字</h2></div><button id="close-culture" type="button" aria-label="关闭诗词与文字">×</button></div>
+    <div class="display-options">
+      <button id="poems-toggle" type="button" aria-pressed="true">诗词 · 开启</button>
+      <button id="floating-toggle" type="button" aria-pressed="true">悬浮文字 · 开启</button>
+      <button id="floating-size" type="button">字号 · 2 倍</button>
+      <button id="next-verse" type="button">切换流中诗句</button>
+    </div>
+    <fieldset class="script-options"><legend>悬浮字形</legend><label><input type="checkbox" data-script="seal" checked>小篆</label><label><input type="checkbox" data-script="kai" checked>楷书</label><label><input type="checkbox" data-script="yi" checked>彝文</label><label><input type="checkbox" data-script="tibetan" checked>藏文</label></fieldset>
+    <p id="desktop-edit-hint" data-desktop-only>桌面支持切换显示与字号。添加文字或导入文件，请在壁纸盒子的预览中操作，再导出已配置壁纸并导入。</p>
+    <div class="library-heading"><h3>诗词库 <small id="poem-count"></small></h3><button id="add-poem" type="button" data-keyboard>添加诗词</button></div>
+    <div id="poem-list" class="poem-list" aria-label="诗词列表"></div>
+    <form id="poem-editor" hidden>
+      <h3 id="editor-heading">添加诗词</h3>
+      <div class="poem-fields"><label>篇名<input id="poem-title" required maxlength="80" autocomplete="off"></label><label>作者<input id="poem-author" required maxlength="40" autocomplete="off"></label><label>朝代（选填）<input id="poem-dynasty" maxlength="20" autocomplete="off"></label></div>
+      <label>完整诗句<textarea id="poem-verses" rows="5" required placeholder="明月松间照，清泉石上流。&#10;竹喧归浣女，莲动下渔舟。"></textarea></label>
+      <p>每行填写一次完整展示的诗句或句联，保留标点；每行最多 120 字。</p>
+      <button type="submit">保存诗词</button><button id="cancel-edit" type="button">取消</button>
+    </form>
+    <div class="library-tools"><button id="import-poems" type="button" data-keyboard>导入 JSON</button><button id="export-poems" type="button" data-keyboard>导出 JSON</button><button id="export-repository" type="button" data-keyboard>导出仓库文件 ZIP</button><button id="restore-poems" type="button">恢复内置诗词</button><button id="export-wallpaper" type="button" data-keyboard>导出已配置壁纸</button></div>
+    <input id="poem-file" type="file" accept=".json,application/json" multiple hidden>
+    <div id="restore-confirm" class="restore-confirm" hidden><p>恢复内置诗词的原文与启用状态？个人新增诗词会保留。</p><button id="confirm-restore" type="button">确认恢复</button><button id="cancel-restore" type="button">取消</button></div>
+    <p class="library-help">新增诗词保存在本地。可导出仓库文件，将其中的 JSON 加入 content/poems/，下次发布自动带入。导入按 id 合并，文件出错时整批保持原样。</p>
+    <p id="culture-status" role="status" aria-live="polite"></p>
+  </aside>
 </body>
 </html>

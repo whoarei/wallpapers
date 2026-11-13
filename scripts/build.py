@@ -6,6 +6,7 @@ import re
 import shutil
 import zipfile
 from pathlib import Path
+from matrix_poetry import collect as collect_matrix_poetry
 
 ROOT = Path(__file__).resolve().parent.parent
 SLUG = re.compile(r"[a-z0-9][a-z0-9-]{0,63}\Z")
@@ -87,6 +88,9 @@ def build(previous=None):
         files = sorted(p for p in folder.rglob("*") if p.is_file())
         names = set()
         total = 0
+        generated_poems = collect_matrix_poetry(folder) if folder.name == "matrix-echo" else None
+        if generated_poems is not None and not (folder / "poems.generated.js").is_file():
+            raise ValueError("Missing matrix-echo/poems.generated.js; run scripts/sync_matrix_poetry.py")
         with zipfile.ZipFile(archive_path, "w", compression=zipfile.ZIP_STORED) as archive:
             for source in files:
                 relative = source.relative_to(folder).as_posix()
@@ -94,6 +98,8 @@ def build(previous=None):
                     raise ValueError(f"Unsafe or duplicate package file: {relative}")
                 names.add(relative.casefold())
                 data = source.read_bytes()
+                if generated_poems is not None and relative == "poems.generated.js":
+                    data = generated_poems
                 # Match the repository's LF policy on Windows working trees too;
                 # identical source text must produce identical release ZIPs.
                 if source.suffix.lower() in {".html", ".css", ".js", ".mjs", ".cjs", ".json", ".svg", ".md", ".txt", ".glsl", ".wgsl", ".vert", ".frag"}:
