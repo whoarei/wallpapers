@@ -5,7 +5,7 @@
   "name": "蔚蓝漫游",
   "subtitle": "OCEAN DRIFT",
   "description": "一片随天气与昼夜缓慢变化的海底长卷：穿过珊瑚花园、海藻森林与幽蓝深海，看鱼群聚散、海龟滑行、水母传递微光。轻点泛起荧光涟漪，触碰动物让它们轻轻游开。可固定海域与天气、调整亮度、为桌面图标留白，并选择省电至 4K 高清画质。完全离线运行。",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "minAppVersion": "0.2.1",
   "entry": "index.html",
   "cover": "cover.jpg",
