@@ -29,6 +29,17 @@ runtime.refresh();
   function environmentAt(depth = clamp((camera + view * .5 - 1800) / 4200, 0, 1)) {
     return OceanClimate.atDepth(atmosphere, depth);
   }
+  function surgeAt(x, y) {
+    return OceanWeather.flow(x, y, time, environmentAt(clamp((x - 1800) / 4200, 0, 1)), reduced.matches);
+  }
+  function carriedByWater(home, response = 1, lag = 0) {
+    const water = OceanWeather.transport(home.x, home.y, time - lag, environmentAt(clamp((home.x - 1800) / 4200, 0, 1)), reduced.matches);
+    const offset = { x: water.x * response, y: water.y * response };
+    // Buoyancy carries the body; swimming direction stays relative to the water.
+    // Use this same home for simulation, drawing, telemetry and hit testing.
+    return { ...home, x: home.x + offset.x, y: home.y + offset.y,
+      waterOffset: offset, waterTilt: clamp(water.vy * response * .006, -.1, .1) };
+  }
   function quietMask(screenX) {
     if (preferences.quietSide === 'none') return 1;
     const position = clamp(screenX / view, 0, 1);
@@ -180,21 +191,21 @@ runtime.refresh();
     const split = Math.pow(Math.max(0, Math.sin(time * .018 + s.index * 2.1)), 6);
     const lane = f.slot % 2 ? 1 : -1;
     const wave = time * .19 + f.x * .006 + s.index;
-    return {
+    return carriedByWater({
       x: s.x + f.x * gathering + Math.sin(cycle) * 260 + Math.sin(wave) * 12 + f.flowX,
       y: s.y + f.y * (.82 + gathering * .18) + Math.cos(cycle) * 27 + Math.sin(wave * .8) * 8 + lane * split * 35 + f.flowY,
       vx: Math.cos(cycle) * rate * 260 + Math.cos(wave) * 2.28,
       vy: -Math.sin(cycle) * rate * 27 + Math.cos(wave * .8) * 1.22
-    };
+    }, .9, .12);
   }
   const turtleHome = () => {
     const phase = .022 * (time + 18 * Math.sin(time * .045));
     const activity = .2 + .8 * (.5 + Math.cos(time * .045) * .5);
-    return { x: 1300 + Math.sin(phase) * 700, y: 330 + Math.sin(time * .08) * 24 + (1 - activity) * 45, vx: Math.cos(phase) * 15.4 * (1 + .81 * Math.cos(time * .045)), vy: Math.cos(time * .08) * 1.92, activity };
+    return carriedByWater({ x: 1300 + Math.sin(phase) * 700, y: 330 + Math.sin(time * .08) * 24 + (1 - activity) * 45, vx: Math.cos(phase) * 15.4 * (1 + .81 * Math.cos(time * .045)), vy: Math.cos(time * .08) * 1.92, activity }, .5, .55);
   };
   const rayHome = () => {
     const phase = .018 * (time + 14 * Math.sin(time * .035));
-    return { x: 3950 + Math.sin(phase) * 1020, y: 360 + Math.sin(time * .065) * 58, vx: Math.cos(phase) * 18.36 * (1 + .49 * Math.cos(time * .035)), vy: Math.cos(time * .065) * 3.77, activity: .76 + Math.cos(time * .035) * .24 };
+    return carriedByWater({ x: 3950 + Math.sin(phase) * 1020, y: 360 + Math.sin(time * .065) * 58, vx: Math.cos(phase) * 18.36 * (1 + .49 * Math.cos(time * .035)), vy: Math.cos(time * .065) * 3.77, activity: .76 + Math.cos(time * .035) * .24 }, .7, .35);
   };
   function jellyBeat(j) {
     const phase = mod(j.stroke / 4.8 + j.phase / TAU, 1);
@@ -205,7 +216,7 @@ runtime.refresh();
   }
   const jellyHome = j => {
     const beat = jellyBeat(j);
-    return { x: j.x + Math.sin(time * .11 + j.phase) * 23, y: j.y + Math.sin(time * .08 + j.phase) * 17 - beat.lift * 13, vx: Math.cos(time * .11 + j.phase) * 2.53, vy: 0 };
+    return carriedByWater({ x: j.x + Math.sin(time * .11 + j.phase) * 23, y: j.y + Math.sin(time * .08 + j.phase) * 17 - beat.lift * 13, vx: Math.cos(time * .11 + j.phase) * 2.53, vy: 0 }, 1.05, .08);
   };
   const position = (a, home) => ({ x: home.x + a.ox, y: home.y + a.oy });
   function jellyPosition(j) { return position(j, jellyHome(j)); }
@@ -228,7 +239,7 @@ runtime.refresh();
     // into the zero-width sprite produced by interpolating -1 directly to +1.
     a.facing = (profile < 0 ? -1 : 1) * (.58 + .42 * Math.abs(profile));
     a.turn = Math.abs(Math.sin(a.heading));
-    a.tilt = mix(a.tilt, clamp(vy / 75, -.4, .4) * Math.sign(profile || 1) + Math.sin(a.heading) * .08, 1 - Math.exp(-dt * 3));
+    a.tilt = mix(a.tilt, clamp(vy / 75, -.4, .4) * Math.sign(profile || 1) + Math.sin(a.heading) * .08 + (home.waterTilt || 0), 1 - Math.exp(-dt * 3));
     a.stroke += dt * ((home.activity || 1) * .8 + .2 + alarm(a) * 3);
   }
   function finBeat(clock, period = 5.9) {
@@ -332,9 +343,9 @@ runtime.refresh();
           if (Math.abs(dx) < clearance) obstacleX += (dx < 0 ? -1 : 1) * (1 - Math.abs(dx) / clearance) * 13;
         }
         const flow = reduced.matches ? 0 : weather.current;
-        const targetX = clamp(separateX + obstacleX + Math.sin(time * .1 + f.phase) * flow * 6, -25, 25);
+        const targetX = clamp(separateX + obstacleX + Math.sin(time * .1 + f.phase) * flow * 6, -30, 30);
         const floorAvoidance = Math.max(0, p.y - surface(p.x) + 125) * .45;
-        const targetY = reduced.matches ? 0 : clamp(separateY - floorAvoidance + school.shelter * 27, -28, 28);
+        const targetY = reduced.matches ? 0 : clamp(separateY - floorAvoidance + school.shelter * 36, -34, 34);
         const response = 1 - Math.exp(-dt * .75);
         f.flowX = mix(f.flowX, targetX, response); f.flowY = mix(f.flowY, targetY, response);
       }
@@ -482,31 +493,20 @@ runtime.refresh();
     light.addColorStop(0, `rgba(${Math.round(175 + warmth * 40)},${Math.round(231 - Math.max(0, warmth) * 8)},${Math.round(218 - warmth * 28)},${.29 * sunlight})`); light.addColorStop(1, '#9fe5db00'); ctx.fillStyle = light; ctx.fillRect(0, 0, view, H);
     const beamCount = detailLevel < .75 ? 5 : 8;
     for (let i = 0; i < beamCount; i++) {
-      const drift = reduced.matches ? 0 : Math.sin(time * .045 + i * 1.9) * 30;
+      const drift = reduced.matches ? 0 : Math.sin(time * .045 + i * 1.9) * 30 + surgeAt(camera + i * 180, 70).x * .8;
       const x = sx - 480 + i * 155 + drift, width = 16 + (i * 19 % 45);
-      const visibility = .35 + env.visibility * .65, strength = (.025 + Math.sin(time * .07 + i) * .006) * sunlight * visibility;
+      const visibility = .35 + env.visibility * .65, strength = (.065 + Math.sin((reduced.matches ? 0 : time) * .07 + i) * .014) * sunlight * visibility * (1 - env.storm * .55);
       const beam = gradient(ctx, x, -20, x + 430, 950, [[0, `rgba(201,239,215,${strength})`], [1, '#a3e6d000']]);
       polygon(ctx, [[x, 0], [x + width, 0], [x + 570, 1000], [x + 260, 1000]], beam);
     }
     // Wide, soft cloud shadows drift across the incoming light, never flash.
-    const cloud = (env.overcast * .055 + env.rain * .07 + env.storm * .105) * (1 - deep * .82);
+    const cloud = (env.overcast * .07 + env.rain * .1 + env.storm * .16) * env.weatherInfluence;
     if (cloud > .001) for (let i = 0; i < 3; i++) {
-      const x = view * (.12 + i * .45) + (reduced.matches ? 0 : Math.sin(time * .024 + i * 2.7) * view * .16);
+      const x = view * (.12 + i * .45) + (reduced.matches ? 0 : Math.sin(time * .024 + i * 2.7) * view * .16 + env.storm * Math.sin(time * .044 + i * 1.7) * view * .1);
       const shadow = ctx.createRadialGradient(x, 60, 10, x + 80, 160, Math.max(380, view * .45));
       shadow.addColorStop(0, `rgba(5,32,58,${cloud})`); shadow.addColorStop(1, '#05203a00'); ctx.fillStyle = shadow; ctx.fillRect(0, 0, view, H);
     }
-    // Looking up through rain shows refracted surface light, not falling drops.
-    if (env.surfaceDisturbance > .02 && deep < .9) {
-      ctx.save(); ctx.lineWidth = .8;
-      const count = detailLevel < .75 ? 8 : 15;
-      for (let i = 0; i < count; i++) {
-        const age = mod(time * .055 + i * .618, 1), x = mod(i * 197.3 - camera * .1 + Math.sin(i * 3.1) * 70, view + 200) - 100;
-        const y = 18 + (i % 5) * 24 + age * 9;
-        ctx.globalAlpha = env.surfaceDisturbance * Math.sin(age * Math.PI) * .1 * quietMask(x);
-        ctx.strokeStyle = '#b9e3e0'; ctx.beginPath(); ctx.ellipse(x, y, 25 + age * 65, 1.5 + age * 3, -.12, .2, 2.9); ctx.stroke();
-      }
-      ctx.restore();
-    }
+    OceanWeather.drawSurface(ctx, { time, view, camera, env, reduced: reduced.matches, detail: detailLevel, quiet: quietMask });
     // Three receding shelves and a water-coloured veil give the reef its depth.
     for (let layer = 0; layer < 2; layer++) {
       ctx.save(); ctx.translate(-camera * (.33 + layer * .19), 0); ctx.globalAlpha = (.12 + layer * .09) * (.6 + env.visibility * .4);
@@ -531,7 +531,7 @@ runtime.refresh();
   function drawCoral(c) {
     if (!visible(c.x, 300, c.depth)) return;
     const env = environmentAt(), x = c.x - camera * c.depth, water = currentAt(c.x + camera * (1 - c.depth), c.y - 100 * c.s);
-    const sway = reduced.matches ? 0 : Math.sin(time * .18 + c.phase) * (.008 + env.current * .006);
+    const sway = reduced.matches ? 0 : Math.sin(time * .18 + c.phase) * (.008 + env.current * .006) + surgeAt(c.x, c.y).x * .00035;
     ctx.save(); ctx.translate(x, c.y); ctx.rotate(sway + water.x * .0011); ctx.scale(c.s, c.s);
     ctx.globalAlpha = (c.depth < 1 ? .3 + env.visibility * .15 : c.front ? .94 : .92) * quietMask(x); ctx.drawImage(sprites[c.type], -240, -414); ctx.restore();
   }
@@ -539,7 +539,8 @@ runtime.refresh();
     if (!visible(k.x, 180, k.depth)) return;
     const env = environmentAt(), x = k.x - camera * k.depth, local = currentAt(k.x + camera * (1 - k.depth), k.y - k.h * .65).x;
     const motionTime = reduced.matches ? 0 : time;
-    const sway = Math.sin(motionTime * .23 + k.phase) * (20 + env.current * 22) + Math.sin(motionTime * .11 + k.phase * 2) * 14 + local * 1.1;
+    const surge = surgeAt(k.x, k.y - k.h * .6);
+    const sway = Math.sin(motionTime * .23 + k.phase) * (20 + env.current * 22) + Math.sin(motionTime * .11 + k.phase * 2) * 14 + local * 1.1 + surge.x * 1.15;
     // Leaves attach to the same flexible spine; lag grows toward each soft tip.
     const spine = t => k.lean * t + sway * t * t + Math.sin(t * 5.8 + k.phase + motionTime * .18) * 13 * t;
     ctx.save(); ctx.globalAlpha = (k.depth < 1 ? .22 + env.visibility * .07 : k.front ? .88 : .6) * quietMask(x);
@@ -564,7 +565,7 @@ runtime.refresh();
     const env = environmentAt(), x = g.x - camera;
     ctx.save(); ctx.globalAlpha = .8 * quietMask(x);
     for (let j = 0; j < (detailLevel < .75 ? 3 : 5); j++) {
-      const h = g.h * (.6 + j * .12), sway = (reduced.matches ? 0 : Math.sin(time * .42 + g.phase + j * .2) * h * (.12 + env.current * .1)) + currentAt(g.x, g.y - h).x * .7;
+      const h = g.h * (.6 + j * .12), sway = (reduced.matches ? 0 : Math.sin(time * .42 + g.phase + j * .2) * h * (.12 + env.current * .1)) + currentAt(g.x, g.y - h).x * .7 + surgeAt(g.x, g.y - h).x * .8;
       ctx.beginPath(); ctx.moveTo(x + j * 4, g.y); ctx.quadraticCurveTo(x + j * 4 - 8, g.y - h * .6, x + sway + (j - 2) * 9, g.y - h); ctx.quadraticCurveTo(x + j * 4 + 4, g.y - h * .4, x + j * 4 + 4, g.y); ctx.fillStyle = j % 2 ? '#285c58' : '#397b66'; ctx.fill();
     }
     ctx.restore();
@@ -671,9 +672,9 @@ runtime.refresh();
     ctx.save();
     for (let i = 0; i < motes.length; i++) {
       if (detailLevel < .75 && i % 2) continue;
-      const p = motes[i], x = mod(p.x + motionTime * p.speed, WORLD) - camera * p.depth;
+      const p = motes[i], surge = surgeAt(p.x, p.y), x = mod(p.x + motionTime * p.speed, WORLD) - camera * p.depth + surge.x * .8;
       if (x < -20 || x > view + 20) continue;
-      const y = mod(p.y - motionTime * p.speed * .25 + Math.sin(motionTime * .2 + p.phase) * 9, H);
+      const y = mod(p.y - motionTime * p.speed * .25 + Math.sin(motionTime * .2 + p.phase) * 9 + surge.y, H);
       const luminous = env.night * (i % 11 === 0 ? .35 : 0);
       ctx.globalAlpha = (.08 + Math.sin(motionTime * .21 + p.phase) * .045 + luminous) * quietMask(x);
       ellipse(ctx, x, y, p.r, p.r, luminous ? '#a7dfef' : '#c5e7d3');
@@ -681,7 +682,7 @@ runtime.refresh();
     for (let i = 0; i < ambientBubbles.length; i++) {
       if (detailLevel < .75 && i % 2) continue;
       const b = ambientBubbles[i]; if (!visible(b.x, 40)) continue;
-      const age = mod(motionTime * b.speed + b.phase, 1), x = b.x - camera + Math.sin(age * 9 + b.phase) * 10, y = surface(b.x) - age * 650;
+      const age = mod(motionTime * b.speed + b.phase, 1), y = surface(b.x) - age * 650, x = b.x - camera + Math.sin(age * 9 + b.phase) * 10 + surgeAt(b.x, y).x * age;
       ctx.globalAlpha = Math.sin(age * Math.PI) * .19 * quietMask(x); ctx.beginPath(); ctx.arc(x, y, b.r, 0, TAU); ctx.strokeStyle = '#b8e1db'; ctx.lineWidth = .7; ctx.stroke(); ellipse(ctx, x - b.r * .3, y - b.r * .4, b.r * .2, b.r * .12, '#e1efe5');
     }
     ctx.globalAlpha = 1;
@@ -715,6 +716,7 @@ runtime.refresh();
     // particles are composited afterwards so night retains points of life.
     ctx.fillStyle = `rgba(2,16,37,${clamp((1 - environment.light) * .38 + (1 - environment.visibility) * .1, 0, .48)})`;
     ctx.fillRect(0, 0, view, H);
+    OceanWeather.drawSediment(ctx, { time, view, camera, env: environment, reduced: reduced.matches, detail: detailLevel, quiet: quietMask });
     particles(); drawInteractions();
     const vignette = ctx.createRadialGradient(view * .5, 430, 160, view * .5, 500, Math.max(view * .7, 800)); vignette.addColorStop(0, '#012c4000'); vignette.addColorStop(1, '#01233660'); ctx.fillStyle = vignette; ctx.fillRect(0, 0, view, H);
     ctx.fillStyle = grain; ctx.fillRect(0, 0, view, H);
@@ -886,7 +888,9 @@ runtime.refresh();
   addEventListener('ocean-preferences-change', () => {
     if (writingPreferences) return;
     const previous = preferences; preferences = OceanSettings.get();
-    climate.configure({ weather: preferences.weather, daylight: preferences.daylight }, time);
+    // An explicit selection is quick to inspect, including a static preview
+    // while paused. Automatic fronts still use their full minute-long blend.
+    climate.configure({ weather: preferences.weather, daylight: preferences.daylight }, time, runtime.paused ? 0 : 5);
     if (previous.daylight !== 'auto' && preferences.daylight === 'auto') syncLocalDaylight();
     if (preferences.quality !== previous.quality) {
       qualityLevel = preferences.quality; detailLevel = qualityProfiles[qualityLevel].detail;
@@ -906,12 +910,17 @@ runtime.refresh();
     }
   });
   reduced.addEventListener('change', e => { if (e.matches) setAuto(false, false, false); });
+  function animalSnapshot(a, home) {
+    return { ...position(a, home), waterOffset: home.waterOffset,
+      drift: Math.hypot(a.ox, a.oy), scared: alarm(a) };
+  }
   const getState = () => ({ id: 'ocean-drift', time, frames, paused, auto, camera, viewWidth: view, worldWidth: WORLD, maxCamera, zone: zoneAt(), dwelling: !transit, dwell, transit: transit ? { ...transit } : null, width: canvas.width, height: canvas.height, maxFps: qualityProfiles[preferences.quality].fps, detailLevel, qualityLevel, preferences: { ...preferences }, climate: climate.sample(time), environment: environmentAt(), renderCost, fish: fish.length, bubbles: bubbles.length, reducedMotion: reduced.matches,
+    weatherSurface: OceanWeather.sample(time, environmentAt(), reduced.matches),
     interactions, animalTouches, charge: charge(), blooms: blooms.map(b => ({ x: b.x, y: b.y, power: b.power, age: time - b.birth })), sparks: sparks.length,
-    fishStates: fish.map(f => ({ ...position(f, fishHome(f)), size: f.size, facing: f.facing, tilt: f.tilt, drift: Math.hypot(f.ox, f.oy), vx: f.vx, vy: f.vy, scared: alarm(f), avoidingLight: f.avoidUntil > time })),
-    turtle: { ...position(turtleMotion, turtleHome()), drift: Math.hypot(turtleMotion.ox, turtleMotion.oy), scared: alarm(turtleMotion) },
-    ray: { ...position(rayMotion, rayHome()), drift: Math.hypot(rayMotion.ox, rayMotion.oy), scared: alarm(rayMotion) },
-    jellyStates: jellies.map(j => ({ ...jellyPosition(j), size: j.size, drift: Math.hypot(j.ox, j.oy), scared: alarm(j), light: jellyLight(j), pending: j.echoes.filter(e => e.at > time).length })),
+    fishStates: fish.map(f => ({ ...animalSnapshot(f, fishHome(f)), size: f.size, facing: f.facing, tilt: f.tilt, vx: f.vx, vy: f.vy, avoidingLight: f.avoidUntil > time })),
+    turtle: animalSnapshot(turtleMotion, turtleHome()),
+    ray: animalSnapshot(rayMotion, rayHome()),
+    jellyStates: jellies.map(j => ({ ...animalSnapshot(j, jellyHome(j)), size: j.size, light: jellyLight(j), pending: j.echoes.filter(e => e.at > time).length })),
     kelpBend: Math.max(0, ...kelps.map(k => Math.abs(currentAt(k.x + camera * (1 - k.depth), k.y - k.h * .65).x))) });
   window.oceanDrift = Object.freeze({ getState, setPaused, setAuto, goToZone }); window.getState = getState;
   function loop(stamp) {

@@ -45,7 +45,8 @@ const climateValues = state => Object.fromEntries(climateFields.map(key => [key,
     let iterations = 0;
     while ((await state(page)).time < target - .001) {
       assert.ok(iterations++ < 500, 'scene clock must keep advancing');
-      await page.evaluate(() => __step(80));
+      const remaining = target - (await state(page)).time;
+      await page.evaluate(count => __step(count), Math.min(80, Math.max(1, Math.ceil(remaining / .08))));
     }
     return state(page);
   };
@@ -163,9 +164,9 @@ const climateValues = state => Object.fromEntries(climateFields.map(key => [key,
     await clock.evaluate(() => __step(1));
     const first = climateValues(await state(clock));
     assert.ok(climateFields.every(key => Math.abs(first[key] - beforeClimate[key]) < .01), 'weather transition begins gently');
-    const midpoint = await advance(clock, 28);
+    const midpoint = await advance(clock, 2);
     assert.ok(midpoint.climate.storm > .15 && midpoint.climate.storm < .95, 'weather is blended midway through transition');
-    const settled = await advance(clock, 36);
+    const settled = await advance(clock, 4);
     assert.ok(settled.climate.storm > .99 && settled.climate.night < .01, 'storm finishes without changing daylight');
     await clock.evaluate(() => OceanSettings.update({ daylight: 'night' }));
     const night = await advance(clock, 65);

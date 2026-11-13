@@ -2,7 +2,8 @@
  * requests, flashing lightning, or raindrops drawn below the water surface.
  *
  * OceanClimate.create({ weather, daylight, hour, seed }) returns:
- *   configure({ weather, daylight }, sceneTime), synchronizeHour(hour, sceneTime),
+ *   configure({ weather, daylight }, sceneTime, transitionSeconds = 60),
+ *   synchronizeHour(hour, sceneTime),
  *   sample(sceneTime), getState(sceneTime).
  * Weather: auto | clear | overcast | rain | storm.
  * Daylight: auto | day | dusk | night. `hour` anchors auto to local time at load.
@@ -36,6 +37,7 @@
   const blendVector = (a, b, t) => a.map((value, i) => mix(value, b[i], t));
   const blendDaylight = (a, b, t) => ({ light: mix(a.light, b.light, t), warmth: mix(a.warmth, b.warmth, t), night: mix(a.night, b.night, t) });
   const weighted = (weights, values) => weights.reduce((sum, weight, i) => sum + weight * values[i], 0);
+  const blendProgress = (time, blend) => blend.duration === 0 ? 1 : clamp((time - blend.at) / (blend.duration ?? DURATION));
 
   function daylightAt(mode, hour) {
     if (mode === 'day') return { light: 1, warmth: .06, night: 0 };
@@ -76,7 +78,7 @@
     function weatherAt(time) {
       const target = weatherMode === 'auto' ? autoWeather(time) : { weights: vector(weatherMode), transitioning: false, progress: 1 };
       if (!weatherBlend) return target;
-      const progress = clamp((time - weatherBlend.at) / DURATION);
+      const progress = blendProgress(time, weatherBlend);
       return {
         weights: blendVector(weatherBlend.from, target.weights, smooth(progress)),
         transitioning: progress < 1 || target.transitioning,
@@ -86,7 +88,7 @@
     function dayAt(time) {
       const target = daylightAt(daylightMode, hourAt(time));
       if (!daylightBlend) return { ...target, transitioning: false, progress: 1 };
-      const progress = clamp((time - daylightBlend.at) / DURATION);
+      const progress = blendProgress(time, daylightBlend);
       return { ...blendDaylight(daylightBlend.from, target, smooth(progress)), transitioning: progress < 1, progress };
     }
     function sample(sceneTime = 0) {
@@ -110,14 +112,15 @@
         weatherLight, weatherWarmth, weatherVisibility
       };
     }
-    function configure(patch = {}, sceneTime = 0) {
+    function configure(patch = {}, sceneTime = 0, transitionSeconds = DURATION) {
       const time = clock(sceneTime);
+      const duration = Number.isFinite(transitionSeconds) ? clamp(transitionSeconds, 0, DURATION) : DURATION;
       if (validWeather(patch.weather) && patch.weather !== weatherMode) {
-        weatherBlend = { from: weatherAt(time).weights, at: time };
+        weatherBlend = { from: weatherAt(time).weights, at: time, duration };
         weatherMode = patch.weather;
       }
       if (validDaylight(patch.daylight) && patch.daylight !== daylightMode) {
-        daylightBlend = { from: dayAt(time), at: time };
+        daylightBlend = { from: dayAt(time), at: time, duration };
         daylightMode = patch.daylight;
       }
       return sample(time);

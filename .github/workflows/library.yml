@@ -25,13 +25,14 @@ jobs:
           node tests/blue-weightless.test.cjs
           node tests/ocean-climate.test.cjs
           node tests/matrix-echo.test.cjs
+          node tests/ocean-waves.test.cjs
           python -c "import json,os; v=json.load(open('library.json'))['version']; assert os.getenv('GITHUB_REF_TYPE')!='tag' or os.environ['GITHUB_REF_NAME']=='library-v'+v"
-      - name: Build packages and prevent silent version changes
+      - name: Build packages and validate release version changes
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
         run: |
-          if gh release view --json tagName >/dev/null 2>&1; then
+          if [ "$GITHUB_REF_TYPE" = "tag" ]; then
             mkdir previous
             gh release download --pattern catalog.json --dir previous
             python scripts/build.py --previous previous/catalog.json
@@ -72,6 +73,7 @@ jobs:
           PY
           BROWSER_PATH="$(node -e 'process.stdout.write(require(process.env.PLAYWRIGHT_PATH).chromium.executablePath())')" node tests/wallpaper-adaptation.browser.cjs
           BROWSER_PATH="$(node -e 'process.stdout.write(require(process.env.PLAYWRIGHT_PATH).chromium.executablePath())')" node tests/matrix-echo.browser.cjs
+          BROWSER_PATH="$(node -e 'process.stdout.write(require(process.env.PLAYWRIGHT_PATH).chromium.executablePath())')" node tests/ocean-weather.browser.cjs
       - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f
         if: always()
         with:

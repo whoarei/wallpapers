@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="ocean.css">
   <script src="wallpaper-runtime.js" defer></script>
   <script src="climate.js" defer></script>
+  <script src="weather-effects.js" defer></script>
   <script src="settings.js" defer></script>
   <script src="ocean.js" defer></script>
 </head>
@@ -29,7 +30,7 @@
     <button id="help" class="icon-button" aria-label="互动说明" aria-expanded="false" title="互动说明（H）">?</button>
   </nav>
   <p class="hud hint">轻点泛起微光 · 点击「✧」释放星海<span data-native-pointer> · 按住蓄光 · 拖动探索</span><span class="hint-extra" data-keyboard> · E 唤起星海 · H 互动说明</span></p>
-  <aside id="help-panel" hidden aria-labelledby="help-title" data-scene-panel><button id="close-help" aria-label="关闭说明">×</button><small>A LITTLE TOUCH, AN OCEAN OF LIGHT</small><h2 id="help-title">轻轻一碰，整片海回应你。</h2><p>在海水里点一朵光，涟漪轻轻推开鱼儿、摇动海草。等一会儿，好奇的小鱼又会围过来。碰到小鱼、海龟或鳐鱼，它们会转身游开，过一会儿再恢复巡游。深海的水母也会轻轻避让，把微光传给同伴。</p><p data-desktop-only>轻点海水泛起微光，轻点动物让它们游开。用下方按钮切换海域、星海、巡游和暂停；点击「⚙」设置天气与画面偏好。</p><dl data-keyboard><dt>轻点海水</dt><dd>荧光涟漪与上浮气泡</dd><dt>轻点动物</dt><dd>受惊游开，同伴轻轻避让</dd><dt>按住，再松开</dt><dd>积起光珠，散成掌心星海</dd><dt>E / ✧</dt><dd>在眼前唤起一片星海</dd><dt>拖动 / ← →</dt><dd>自由探索，停止自动巡游</dd><dt>1 / 2 / 3</dt><dd>前往三片海域</dd><dt>A</dt><dd>开启 / 关闭自动巡游</dd><dt>空格</dt><dd>暂停 / 继续海底时间</dd><dt>S</dt><dd>隐藏 / 显示界面</dd><dt data-fullscreen>F</dt><dd data-fullscreen>全屏</dd><dt>H / Esc</dt><dd>打开 / 关闭说明</dd></dl><p>海洋偏好里可以停在喜欢的海域，调整巡游速度，并为桌面图标留出安静的一侧。省电、均衡与高清三档，适合不同的屏幕和使用习惯。</p><p>天气会在晴、阴、雨与风暴间缓慢演变，也可以固定一种。昼夜默认跟随本地时间，能够独立选择白昼、黄昏或夜晚；深海受海面天气的影响更轻。天气演变离线运行。</p><p class="footnote">桌面壁纸中轻点空白处即可泛起微光。<br><span data-native-pointer>独立预览还可按住蓄光、拖动探索。</span><br>偏好保存在当前设备的这个窗口中。<br>一切都会慢慢平静下来，不必做任何事。</p></aside>
+  <aside id="help-panel" hidden aria-labelledby="help-title" data-scene-panel><button id="close-help" aria-label="关闭说明">×</button><small>A LITTLE TOUCH, AN OCEAN OF LIGHT</small><h2 id="help-title">轻轻一碰，整片海回应你。</h2><p>在海水里点一朵光，涟漪轻轻推开鱼儿、摇动海草。等一会儿，好奇的小鱼又会围过来。碰到小鱼、海龟或鳐鱼，它们会转身游开，过一会儿再恢复巡游。深海的水母也会轻轻避让，把微光传给同伴。</p><p data-desktop-only>轻点海水泛起微光，轻点动物让它们游开。用下方按钮切换海域、星海、巡游和暂停；点击「⚙」设置天气与画面偏好。</p><dl data-keyboard><dt>轻点海水</dt><dd>荧光涟漪与上浮气泡</dd><dt>轻点动物</dt><dd>受惊游开，同伴轻轻避让</dd><dt>按住，再松开</dt><dd>积起光珠，散成掌心星海</dd><dt>E / ✧</dt><dd>在眼前唤起一片星海</dd><dt>拖动 / ← →</dt><dd>自由探索，停止自动巡游</dd><dt>1 / 2 / 3</dt><dd>前往三片海域</dd><dt>A</dt><dd>开启 / 关闭自动巡游</dd><dt>空格</dt><dd>暂停 / 继续海底时间</dd><dt>S</dt><dd>隐藏 / 显示界面</dd><dt data-fullscreen>F</dt><dd data-fullscreen>全屏</dd><dt>H / Esc</dt><dd>打开 / 关闭说明</dd></dl><p>海洋偏好里可以停在喜欢的海域，调整巡游速度，并为桌面图标留出安静的一侧。省电、均衡与高清三档，适合不同的屏幕和使用习惯。</p><p>天气会在晴、阴、雨与风暴间缓慢演变，也可以固定一种。风暴时碎沫散开，气泡卷入水下再缓缓上浮，鱼群、海龟、鳐鱼和水草随水体往复晃动；晴天保留平缓的水流与透水光束。昼夜可独立选择，深海受海面天气的影响更轻。手动选择约 5 秒切换，暂停时可查看静态预览。天气演变离线运行。</p><p class="footnote">桌面壁纸中轻点空白处即可泛起微光。<br><span data-native-pointer>独立预览还可按住蓄光、拖动探索。</span><br>偏好保存在当前设备的这个窗口中。<br>一切都会慢慢平静下来，不必做任何事。</p></aside>
   <aside id="settings-panel" class="settings-panel" role="dialog" aria-labelledby="settings-title" hidden data-scene-panel>
     <button id="close-settings" class="panel-close" aria-label="关闭海洋偏好">×</button>
     <small class="panel-eyebrow">YOUR OWN LITTLE OCEAN</small>
@@ -47,7 +48,7 @@
         <legend>海面与天光</legend>
         <label class="preference-row" for="pref-weather"><span>海面天气</span><select id="pref-weather" name="weather"><option value="auto">自然演变</option><option value="clear">晴天</option><option value="overcast">阴天</option><option value="rain">雨天</option><option value="storm">风暴</option></select></label>
         <label class="preference-row" for="pref-daylight"><span>昼夜</span><select id="pref-daylight" name="daylight" aria-describedby="daylight-note"><option value="auto">跟随本地时间</option><option value="day">白昼</option><option value="dusk">黄昏</option><option value="night">夜晚</option></select></label>
-        <p class="preference-note" id="daylight-note">天气离线演变，光线会慢慢过渡。</p>
+        <p class="preference-note" id="daylight-note">天气离线演变。手动选择约 5 秒切换；暂停时显示所选天气的静态预览。</p>
       </fieldset>
       <fieldset>
         <legend>舒适与画质</legend>
