@@ -5,7 +5,7 @@
   "name": "矩阵回声",
   "subtitle": "MATRIX ECHO",
   "description": "诗句随绿色字节流逐字入场，篆书、楷书与彝藏文字独立悬浮。点击文字查看注释，可在主程序壁纸设置中管理、导入诗词与文字，并同步到各屏幕。",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "minAppVersion": "0.2.0",
   "entry": "index.html",
   "settings": { "entry": "settings.html" },

@@ -28,7 +28,7 @@
 
 规范包含主程序 v0.11.0 起的[语言同步约定](docs/wallpaper-adaptation.md#语言同步v1-的可选扩展)，以及面向主程序 v0.12.0+ 的[壁纸设置通信扩展](docs/wallpaper-adaptation.md#可选壁纸设置通信)：自定义设置页、设备共享配置、配置读取与变更事件、设置页 SDK、版本冲突和错误处理。基础 `protocolVersion` 仍为 1，扩展需要单独检测设置能力；强依赖设置扩展的壁纸应声明 `minAppVersion: "0.12.0"` 或更高版本。
 
-文档同步自主程序 [设置页规范与容器改进提交](https://github.com/whoarei/wallpaper-box/commit/62b0cf1)。可参考主程序的[设置页示例](https://github.com/whoarei/wallpaper-box/blob/62b0cf1/docs/examples/wallpaper-settings.html)；规范现已包含 iframe 实际尺寸、统一风格、内容滚动与操作栏要求，并提供完整模板。此处同步接入规范，不表示所有在库壁纸已提供设置页，具体设置项以各壁纸实现为准。
+文档同步自主程序 [设置页规范与容器改进提交](https://github.com/whoarei/wallpaper-box/commit/a0e0ab0)。可参考主程序的[设置页示例](https://github.com/whoarei/wallpaper-box/blob/a0e0ab0/docs/examples/wallpaper-settings.html)；规范现已包含 iframe 实际尺寸、统一风格、内容滚动与操作栏要求，并提供完整模板。此处同步接入规范，不表示所有在库壁纸已提供设置页，具体设置项以各壁纸实现为准。
 
 为「矩阵回声」增加诗词，可直接提交 JSON 文件，见 [诗词库说明](wallpapers/matrix-echo/content/poems/README.md)。
 增加悬浮文字与注释同样支持 JSON，见 [悬浮文字库说明](wallpapers/matrix-echo/content/glyphs/README.md)。

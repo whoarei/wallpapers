@@ -131,6 +131,7 @@ const csp = "default-src 'self' data: blob:; script-src 'self' 'unsafe-inline' '
     const saves = requests.filter(request => request.method === 'save').length;
     for (const [width, height] of [[574, 410], [574, 209], [320, 180]]) {
       await parent.locator('iframe').evaluate((node, size) => { node.style.width = size.width + 'px'; node.style.height = size.height + 'px'; }, { width, height });
+      await child.waitForFunction(([width, height]) => innerWidth === width && innerHeight === height, [width, height]);
       await child.evaluate(() => { document.querySelector('#settings-content').scrollTop = 0; });
       assert.equal(await frame.locator('#config-speed').inputValue(), '0');
       const geometry = await child.evaluate(() => {
