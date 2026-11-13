@@ -1,6 +1,7 @@
 import hashlib
 import io
 import json
+import re
 import tempfile
 import unittest
 import urllib.error
@@ -203,6 +204,12 @@ class GiteeSync(unittest.TestCase):
 
 
 class GiteeAPI(unittest.TestCase):
+    def setUp(self):
+        temporary = tempfile.TemporaryDirectory()
+        self.addCleanup(temporary.cleanup)
+        self.file = Path(temporary.name) / "scene.zip"
+        self.file.write_bytes(b"archive bytes")
+
     @unittest.skipUnless(shutil.which("curl"), "streaming transport requires curl")
     def test_real_curl_uploads_multi_megabyte_multipart_and_expect_continue(self):
         captured = []
@@ -265,15 +272,31 @@ class GiteeAPI(unittest.TestCase):
         reply = subprocess.CompletedProcess([], 56, b'\n__gitee_status__:000', b'connection reset secret')
         with patch.object(sync_gitee.subprocess, "run", return_value=reply):
             with self.assertRaises(sync_gitee.GiteeError) as caught:
-                sync_gitee.Gitee("secret").request("POST", "/releases/42/attach_files", file=Path("scene.zip"))
+                sync_gitee.Gitee("secret").request("POST", "/releases/42/attach_files", file=self.file)
         self.assertTrue(caught.exception.retryable)
         self.assertIn('curl 56', str(caught.exception))
         self.assertNotIn('secret', str(caught.exception))
 
+    def test_large_upload_has_time_for_observed_cross_region_transfer(self):
+        # The 18.6 MB matrix archive timed out at 20 minutes while sending at
+        # 11–15 KB/s. Keep streaming and allow that transfer plus processing.
+        size = 18_611_548
+        with self.file.open("wb") as stream:
+            stream.truncate(size)
+        reply = subprocess.CompletedProcess([], 0, b'{"id":7}\n__gitee_status__:201', b'')
+        with patch.object(sync_gitee.subprocess, "run", return_value=reply) as run, patch.object(Path, "read_bytes", side_effect=AssertionError("upload must stream")):
+            self.assertEqual(sync_gitee.Gitee("secret").request("POST", "/upload", file=self.file), {"id": 7})
+        config = run.call_args.kwargs["input"].decode()
+        timeout = int(re.search(r'max-time = "(\d+)"', config).group(1))
+        self.assertGreater(timeout, size / 11_250 + 300)
+        self.assertLessEqual(timeout, 3600)
+        self.assertEqual(run.call_args.kwargs["timeout"], timeout + 15)
+        self.assertEqual(sync_gitee.upload_timeout(100 * 1024 * 1024), 3600)
+
     def test_upload_reports_safe_transfer_metrics_and_parses_response(self):
         reply = subprocess.CompletedProcess([], 0, b'HTTP/1.1 201 Created\r\n\r\n{"id":7}\n__gitee_transfer__:13131000,19000.25,691.5\n__gitee_status__:201', b'')
         with patch.object(sync_gitee.subprocess, "run", return_value=reply), patch('builtins.print') as output:
-            result = sync_gitee.Gitee("secret").request("POST", "/releases/42/attach_files", file=Path("scene.zip"))
+            result = sync_gitee.Gitee("secret").request("POST", "/releases/42/attach_files", file=self.file)
         self.assertEqual(result, {"id": 7})
         message = output.call_args.args[0]
         self.assertIn('13131000 bytes in 691.5s', message)
@@ -284,7 +307,7 @@ class GiteeAPI(unittest.TestCase):
             reply = subprocess.CompletedProcess([], 0, f'HTTP/1.1 {status} Error\r\nRetry-After: 19\r\n\r\nsecret\n__gitee_status__:{status}'.encode(), b'')
             with patch.object(sync_gitee.subprocess, "run", return_value=reply):
                 with self.assertRaises(sync_gitee.GiteeError) as caught:
-                    sync_gitee.Gitee("secret").request("POST", "/releases/42/attach_files", file=Path("scene.zip"))
+                    sync_gitee.Gitee("secret").request("POST", "/releases/42/attach_files", file=self.file)
             self.assertEqual(caught.exception.retryable, retryable)
             self.assertEqual(caught.exception.retry_after, 19)
             self.assertNotIn('secret', str(caught.exception))

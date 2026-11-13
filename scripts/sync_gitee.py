@@ -19,6 +19,15 @@ API = f"https://gitee.com/api/v5/repos/{REPOSITORY}"
 TAG = re.compile(r"library-v(?:0|[1-9][0-9]*)\.(?:0|[1-9][0-9]*)\.(?:0|[1-9][0-9]*)\Z")
 ATTEMPTS = 3
 UPLOAD_TIMEOUT = 1200
+MAX_UPLOAD_TIMEOUT = 3600
+# Cross-region uploads have been observed at 11–15 KB/s. Budget for 8 KiB/s
+# plus server processing, keeping the existing minimum and a finite upper bound.
+UPLOAD_MIN_BYTES_PER_SECOND = 8 * 1024
+
+
+def upload_timeout(size):
+    transfer = (size + UPLOAD_MIN_BYTES_PER_SECOND - 1) // UPLOAD_MIN_BYTES_PER_SECOND
+    return min(MAX_UPLOAD_TIMEOUT, max(UPLOAD_TIMEOUT, transfer + 300))
 
 
 class GiteeError(RuntimeError):
@@ -110,12 +119,15 @@ class Gitee:
         def quoted(value):
             return '"' + value.replace('\\', '\\\\').replace('"', '\\"').replace('\r', '\\r').replace('\n', '\\n') + '"'
 
+        size = file.stat().st_size
+        timeout = upload_timeout(size)
+        print(f"Upload time budget for {file.name}: {timeout}s ({size} bytes)", flush=True)
         fields = {
             "url": API + path,
             "request": "POST",
             "header": "Accept: application/json",
             "connect-timeout": "30",
-            "max-time": str(UPLOAD_TIMEOUT),
+            "max-time": str(timeout),
             "expect100-timeout": "5",
             "write-out": "\n__gitee_transfer__:%{size_upload},%{speed_upload},%{time_total}\n__gitee_status__:%{http_code}",
         }
@@ -125,7 +137,7 @@ class Gitee:
         config += "form = " + quoted('file=@"' + str(file.resolve()).replace('"', '\\"') + '";type=application/octet-stream') + "\n"
         try:
             result = subprocess.run(["curl", "--config", "-"], input=config.encode(),
-                                    stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=UPLOAD_TIMEOUT + 15, check=False)
+                                    stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=timeout + 15, check=False)
         except FileNotFoundError:
             raise GiteeError("Gitee attachment upload requires curl on PATH") from None
         except subprocess.TimeoutExpired:
