@@ -34,7 +34,7 @@
     }
     catch { storageAvailable = false; initialWarning = '本地设置未能读取，已使用内置诗词；可导出文件保留本次修改。'; }
     let clock = 0, due = 4, current = null, cursor = 0, serial = 0, editId = null;
-    let viewport = { width: innerWidth, height: innerHeight, x: 0, y: 0 };
+    let viewport = { width: innerWidth, height: innerHeight, x: 0, y: 0, door: null };
     const verseCursors = new Map(), fontReady = new Set(), floats = [];
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
     function library() {
@@ -82,24 +82,57 @@
         floats.push({ el, script, i, cycle: -1 });
       }
     }
+    function floatPosition(px, py, halfWidth, halfHeight, motion = reducedMotion ? 0 : 1) {
+      const { width, height, door } = viewport;
+      // Reserve the full drift/parallax envelope and text shadow, so a letter
+      // can keep floating without jumping aside as it approaches the frame.
+      const rx = halfWidth + 14 + motion * 23;
+      const ry = halfHeight + 14 + motion * 18;
+      if (width < rx * 2 || height < ry * 2) return motion ? floatPosition(px, py, halfWidth, halfHeight, 0) : null;
+      px = Math.max(rx, Math.min(width - rx, px));
+      py = Math.max(ry, Math.min(height - ry, py));
+      if (door) {
+        const left = door.cx - door.dw / 2 - 26, right = door.cx + door.dw / 2 + 26;
+        const top = door.top - 26, bottom = door.floor + 26;
+        if (px + rx > left && px - rx < right && py + ry > top && py - ry < bottom) {
+          const candidates = [{ x: left - rx, y: py }, { x: right + rx, y: py },
+            { x: px, y: top - ry }, { x: px, y: bottom + ry }]
+            .filter(p => p.x >= rx && p.x <= width - rx && p.y >= ry && p.y <= height - ry);
+          candidates.sort((a, b) => Math.hypot(a.x - px, a.y - py) - Math.hypot(b.x - px, b.y - py));
+          if (candidates.length) return { ...candidates[0], motion };
+          // Large lettering on narrow screens can stay still in a safe space.
+          return motion ? floatPosition(px, py, halfWidth, halfHeight, 0) : null;
+        }
+      }
+      return { x: px, y: py, motion };
+    }
     function paint() {
       const { width, height, x, y } = viewport;
       for (const f of floats) {
         const phase = reducedMotion ? .5 : (clock / 24 + f.i * .137) % 1;
         const cycle = reducedMotion ? 0 : Math.floor(clock / 24 + f.i * .137);
-        if (cycle !== f.cycle) { f.cycle = cycle; f.el.textContent = f.script.glyphs[(f.i * 7 + cycle * 3) % f.script.glyphs.length]; }
+        const fontSize = 24 * settings.scale * (f.i % 3 === 0 ? 1.2 : 1);
+        if (cycle !== f.cycle || fontSize !== f.fontSize) {
+          f.cycle = cycle; f.fontSize = fontSize;
+          f.el.textContent = f.script.glyphs[(f.i * 7 + cycle * 3) % f.script.glyphs.length];
+          f.el.style.fontSize = `${fontSize}px`;
+          const bounds = f.el.getBoundingClientRect();
+          f.halfWidth = bounds.width / 2; f.halfHeight = bounds.height / 2;
+        }
         const fx = .28 + ((f.i * .347 + cycle * .113) % .63);
         const fy = .16 + ((f.i * .193 + cycle * .173) % .57);
-        f.el.style.fontSize = `${24 * settings.scale * (f.i % 3 === 0 ? 1.2 : 1)}px`;
+        const position = floatPosition(width * fx, height * fy, f.halfWidth, f.halfHeight);
+        f.el.style.visibility = position ? 'visible' : 'hidden';
+        if (!position) continue;
         f.el.style.opacity = String(reducedMotion ? .45 : Math.sin(phase * Math.PI) ** 2 * .65);
         const dx = reducedMotion ? 0 : Math.sin(clock * .13 + f.i) * 12 + x * 11;
         const dy = reducedMotion ? 0 : Math.cos(clock * .11 + f.i) * 10 + y * 8;
-        f.el.style.transform = `translate(${width * fx + dx}px,${height * fy + dy}px) translate(-50%,-50%)`;
+        f.el.style.transform = `translate(${position.x + dx * position.motion}px,${position.y + dy * position.motion}px) translate(-50%,-50%)`;
       }
     }
-    function update(dt, width, height, x, y) {
+    function update(dt, width, height, x, y, door) {
       const resized = (viewport.width < 650) !== (width < 650);
-      viewport = { width, height, x, y }; clock += dt;
+      viewport = { width, height, x, y, door }; clock += dt;
       if (resized) rebuildFloats();
       if (!current && clock >= due) { next(); if (!current) due = clock + 5; }
       paint();

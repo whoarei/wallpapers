@@ -44,6 +44,13 @@ async function context(browser, root = source, options = {}) {
     };
     const fillText = CanvasRenderingContext2D.prototype.fillText;
     const drawImage = CanvasRenderingContext2D.prototype.drawImage;
+    const fillRect = CanvasRenderingContext2D.prototype.fillRect;
+    CanvasRenderingContext2D.prototype.fillRect = function(x, y, width, height) {
+      if (this.canvas.id === 'matrix' && this.fillStyle === '#010703') {
+        window.__doorBounds = { left: x, right: x + width, top: y, bottom: y + height };
+      }
+      return fillRect.call(this, x, y, width, height);
+    };
     CanvasRenderingContext2D.prototype.drawImage = function(image, ...args) {
       // Resizes/font completion may repaint between async assertions. Capture
       // the last complete scene frame, rather than joining several frames.
@@ -67,9 +74,24 @@ async function checkRainVerse(page, expected) {
   assert.equal(layout.columns.map(c => c.text).join(''), expected, 'whole verse remains in reading order');
   assert.ok(layout.columns.every(c => c.x > 0 && c.x < s.width && c.top >= 0 && c.bottom < s.height));
   const painted = await page.evaluate(() => { const result = window.__poemPaint; window.__poemPaint = null; return result; });
-  painted.sort((a, b) => b.x - a.x || a.y - b.y);
-  assert.equal(painted.map(c => c.text).join(''), expected, 'actual canvas cells contain every verse character and punctuation');
+  painted.sort((a, b) => b.x - a.x || b.y - a.y);
+  assert.equal(painted.map(c => c.text).join(''), expected, 'first character leads each falling column, with the full verse trailing above');
   assert.ok(painted.every(c => c.font.includes('MatrixKai')));
+}
+async function checkFloatingDoor(page) {
+  const result = await page.evaluate(() => {
+    const door = window.__doorBounds, overlaps = [], hidden = [];
+    for (const el of document.querySelectorAll('.floating-glyph')) {
+      if (getComputedStyle(el).visibility === 'hidden') { hidden.push(el.textContent); continue; }
+      const r = el.getBoundingClientRect();
+      // Include the letter's 14px shadow and the door's frame/glow clearance.
+      if (r.right + 14 > door.left - 25.9 && r.left - 14 < door.right + 25.9 &&
+          r.bottom + 14 > door.top - 25.9 && r.top - 14 < door.bottom + 25.9) overlaps.push(el.textContent);
+    }
+    return { overlaps, hidden };
+  });
+  assert.deepEqual(result.overlaps, [], 'floating letters and their shadows stay clear of the actual painted doorway');
+  assert.deepEqual(result.hidden, [], 'supported viewports keep all floating letters visible');
 }
 async function open(c) {
   const page = await c.newPage(); await page.goto('https://matrix.test/');
@@ -100,6 +122,7 @@ async function download(page, selector, name) {
     const fasterStart = await state(page); await advance(page, 1000); const fasterEnd = await state(page);
     assert.ok(fasterEnd.rainPoem.columns[0].top - fasterStart.rainPoem.columns[0].top > distance * 1.7, 'flow control accelerates poetry together with the code');
     assert.equal(s.culture.floatingCount, 9);
+    await checkFloatingDoor(page);
     assert.deepEqual(new Set(await page.locator('.floating-glyph').evaluateAll(els => els.map(e => getComputedStyle(e).fontFamily))), new Set(['MatrixSeal', 'MatrixKai', 'MatrixYi', 'MatrixTibetan']));
     await page.locator('#pause').click(); const paused = await state(page);
     const transform = await page.locator('.floating-glyph').first().getAttribute('style');
@@ -175,15 +198,32 @@ async function download(page, selector, name) {
       await checkRainVerse(page, long);
     }
     await page.screenshot({ path: path.join(output, 'long-verse-portrait.png') });
+    for (const viewport of [{ width: 1440, height: 900 }, { width: 320, height: 480 }, { width: 390, height: 844 }, { width: 800, height: 450 }]) {
+      await page.setViewportSize(viewport);
+      await page.locator('#culture').click();
+      for (let size = 0; size < 5; size++) {
+        await page.locator('#floating-size').click(); await advance(page, 50);
+        await checkFloatingDoor(page);
+      }
+      await page.locator('#close-culture').click();
+      for (const point of [{ x: 0, y: 0 }, { x: viewport.width - 1, y: viewport.height - 1 }]) {
+        await page.mouse.move(point.x, point.y); await advance(page, 1500);
+        await checkFloatingDoor(page);
+      }
+    }
+    await page.screenshot({ path: path.join(output, 'door-clearance.png') });
+    await page.setViewportSize({ width: 390, height: 844 }); await advance(page, 50);
     await page.locator('#culture').click(); await page.locator('#poems-toggle').click();
     assert.equal((await state(page)).rainPoem, null, 'poetry switch removes only poetry from the rain');
     assert.equal((await state(page)).culture.floatingCount, 5, 'independent floating characters remain');
     assert.deepEqual(errors, []); assert.deepEqual(external, []); await c.close();
     const reduced = await context(browser, source, { reducedMotion: 'reduce' }), reducedPage = await open(reduced.c);
     await advance(reducedPage, 1000);
+    await checkFloatingDoor(reducedPage);
     const before = await reducedPage.locator('.floating-glyph').first().getAttribute('style');
     await advance(reducedPage, 26000);
     assert.equal(await reducedPage.locator('.floating-glyph').first().getAttribute('style'), before, 'reduced motion keeps floating letters stationary');
+    await checkFloatingDoor(reducedPage);
     await reduced.c.close();
     console.log('Matrix Echo offline QA passed: full verses, font layers, pause, management, atomic import, persistence, exports, portrait and reduced motion.');
   } finally { await browser.close(); }

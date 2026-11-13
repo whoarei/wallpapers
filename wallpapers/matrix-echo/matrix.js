@@ -98,8 +98,8 @@
       columns = Math.ceil(chars.length / rows);
       const possible = lanes.length - columns + 1;
       const start = Math.floor((verse.serial * .381966 % 1) * possible);
-      // Traditional vertical reading: top to bottom, then the next column to
-      // the left. Each character occupies a normal cell, replacing random code.
+      // The first character leads the falling stream; later characters trail
+      // above it. Long verses continue in the next column to the left.
       const chosen = lanes.slice(start, start + columns).reverse();
       const carrier = chosen[0];
       const head = Math.max(rows * step + height * .10, Math.min(height * .69, streamHead(carrier)));
@@ -108,10 +108,10 @@
     }
     function rainPoemState() {
       if (!poemRain) return null;
-      const top = poemRain.head + (time - poemRain.born) * poemRain.speed - poemRain.rows * poemRain.step;
+      const head = poemRain.head + (time - poemRain.born) * poemRain.speed;
       return { verse: poemRain.verse, serial: poemRain.serial, speed: poemRain.speed, step: poemRain.step,
         columns: [...poemRain.members].map(([s, chars]) => ({ text: chars.join(''), x: s.x + pointer.x * (s.layer + 1) * 2,
-          top, bottom: top + (chars.length - 1) * poemRain.step, fontSize: s.size, layer: s.layer })) };
+          top: head - chars.length * poemRain.step, bottom: head - poemRain.step, fontSize: s.size, layer: s.layer })) };
     }
     function drawRain() {
       preparePoemRain();
@@ -138,7 +138,7 @@
           // A quiet region at the left keeps desktop shortcuts legible.
           const quiet = .38 + .62 * Math.min(1, Math.max(0, (x / width - .12) / .38));
           const tail = Math.pow(1 - j / length, 1.15);
-          const poemIndex = poem ? poemRain.rows - j : -1;
+          const poemIndex = poem ? j - 1 : -1;
           if (poemIndex >= 0 && poemIndex < poem.length) {
             ctx.globalAlpha = Math.min(1, (.72 + boost * .4) * lights[lightIndex]);
             ctx.fillStyle = j < 3 ? '#a4f6bb' : '#58d47d';
@@ -181,13 +181,16 @@
       }
       ctx.globalAlpha = 1; ctx.restore();
     }
-    function drawDoor() {
+    function doorGeometry() {
       const compact = width < 650;
       const dh = Math.min(height * .40, width * (compact ? .66 : .28));
       const dw = dh * .43;
       const cx = width * (compact ? .57 : .655) + pointer.x * 5;
       const floor = height * .735 + pointer.y * 2;
       const top = floor - dh;
+      return { cx, floor, top, dh, dw };
+    }
+    function drawDoor({ cx, floor, top, dh, dw }) {
       glow(ctx, cx, top + dh * .5, dh * .85, dh * .94, '#36bb5a18');
       drawFloor(cx, floor, dh);
       // The doorway is a dark cut in the code, rimmed with pale green light.
@@ -219,9 +222,10 @@
       ctx.restore();
     }
     function draw(dt = 0) {
-      culture.update(dt, width, height, pointer.x, pointer.y);
+      const door = doorGeometry();
+      culture.update(dt, width, height, pointer.x, pointer.y, door);
       ctx.globalAlpha = 1; ctx.drawImage(background, 0, 0);
-      drawRain(); drawDoor();
+      drawRain(); drawDoor(door);
       // Soft edge falloff and fine scanlines unify the layers without flashing.
       const shade = ctx.createRadialGradient(width * .64, height * .47, height * .13, width * .55, height * .5, Math.max(width, height) * .78);
       shade.addColorStop(0, '#00000000'); shade.addColorStop(1, '#000000b3');
