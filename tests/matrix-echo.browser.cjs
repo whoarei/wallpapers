@@ -72,6 +72,13 @@ async function context(browser, root = source, options = {}, relayed = false) {
 }
 const state = page => page.evaluate(() => matrixEcho.getState());
 const advance = (page, ms) => page.evaluate(ms => __advance(ms), ms);
+async function setViewport(page, viewport) {
+  await page.setViewportSize(viewport);
+  await page.waitForFunction(({ width, height }) => {
+    const s = matrixEcho.getState();
+    return s.width === width && s.height === height;
+  }, viewport, { polling: 50 });
+}
 async function checkRainVerse(page, expected, entering = false) {
   let s = await state(page);
   const layout = s.rainPoem;
@@ -273,13 +280,13 @@ async function download(page, selector, name) {
     await page.waitForFunction(() => matrixEcho.getState().culture.poems.some(p => p.title === '长句测试'), null, { polling: 100 });
     await page.locator('#next-verse').click(); await page.locator('#close-culture').click();
     for (const viewport of [{ width: 320, height: 480 }, { width: 800, height: 450 }, { width: 390, height: 844 }]) {
-      await page.setViewportSize(viewport); await advance(page, 50);
+      await setViewport(page, viewport); await advance(page, 50);
       assert.equal(await page.locator('#echo-verse').textContent(), long);
       await checkRainVerse(page, long, true);
     }
     await page.screenshot({ path: path.join(output, 'long-verse-portrait.png') });
     for (const viewport of [{ width: 1440, height: 900 }, { width: 320, height: 480 }, { width: 390, height: 844 }, { width: 800, height: 450 }]) {
-      await page.setViewportSize(viewport);
+      await setViewport(page, viewport);
       await page.locator('#culture').click();
       for (let size = 0; size < 5; size++) {
         await page.locator('#floating-size').click(); await advance(page, 50);
@@ -292,7 +299,7 @@ async function download(page, selector, name) {
       }
     }
     await page.screenshot({ path: path.join(output, 'door-clearance.png') });
-    await page.setViewportSize({ width: 390, height: 844 }); await advance(page, 50);
+    await setViewport(page, { width: 390, height: 844 }); await advance(page, 50);
     await checkAnnotations(page);
     await page.locator('#culture').click(); await page.locator('#poems-toggle').click();
     assert.equal((await state(page)).rainPoem, null, 'poetry switch removes only poetry from the rain');
