@@ -1,13 +1,7 @@
 (() => {
   'use strict';
   const P = window.MatrixPoetry;
-  const scripts = [
-    { id: 'seal', name: '小篆', family: 'MatrixSeal', lang: 'zh', glyphs: Array.from('山水天地日月星云风雨春秋江海松竹清明') },
-    { id: 'kai', name: '楷书', family: 'MatrixKai', lang: 'zh', glyphs: Array.from('山水天地日月星云风雨春秋江海松竹清明') },
-    { id: 'yi', name: '彝文', family: 'MatrixYi', lang: 'ii', glyphs: Array.from('ꀀꀁꀂꀃꀄꀅꀆꀇꀈꀉꀊꀋ') },
-    // Complete base letters; combining marks are never sampled in isolation.
-    { id: 'tibetan', name: '藏文', family: 'MatrixTibetan', lang: 'bo', glyphs: Array.from('ཀཁགངཅཆཇཉཏཐདན') }
-  ];
+  const G = window.MatrixGlyphs, scripts = G.scripts;
   function create(runtime, wake, redraw = () => {}) {
     const $ = id => document.getElementById(id);
     const builtins = Array.isArray(window.MATRIX_POEMS) && !window.MATRIX_POEMS.length ? [] : P.collection(window.MATRIX_POEMS);
@@ -19,10 +13,12 @@
       if (!value || typeof value !== 'object') throw new Error('设置格式无效');
       const overrides = Array.isArray(value.overrides) && value.overrides.length ? P.collection(value.overrides) : [];
       const removed = Array.isArray(value.removed) ? value.removed.filter(id => typeof id === 'string').slice(0, 500) : [];
+      const glyphOverrides = Array.isArray(value.glyphOverrides) && value.glyphOverrides.length ? G.collection(value.glyphOverrides) : [];
+      const glyphRemoved = Array.isArray(value.glyphRemoved) ? value.glyphRemoved.filter(id => typeof id === 'string').slice(0, 500) : [];
       return { poems: value.poems !== false, floating: value.floating !== false,
         scale: [1, 1.5, 2, 2.5, 3].includes(value.scale) ? value.scale : 2,
         scripts: Array.isArray(value.scripts) ? scripts.filter(s => value.scripts.includes(s.id)).map(s => s.id) : scripts.map(s => s.id),
-        overrides, removed, importSeed: typeof value.importSeed === 'string' ? value.importSeed.slice(0, 80) : '' };
+        overrides, removed, glyphOverrides, glyphRemoved, importSeed: typeof value.importSeed === 'string' ? value.importSeed.slice(0, 80) : '' };
     }
     let settings = clean(defaults);
     try {
@@ -38,6 +34,8 @@
     let viewport = { width: innerWidth, height: innerHeight, x: 0, y: 0, door: null };
     const verseCursors = new Map(), fontReady = new Set(), floats = [];
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const glyphLibrary = window.MatrixGlyphLibrary.create({ runtime, settings, notify, download,
+      onChange: message => { rebuildFloats(); mutate(message, false); } });
     function library() {
       const merged = new Map(builtins.map(p => [p.id, p]));
       settings.overrides.forEach(p => merged.set(p.id, p));
@@ -73,7 +71,7 @@
     function rebuildFloats() {
       closeNote();
       $('floating-script').replaceChildren(); floats.length = 0;
-      const available = scripts.filter(s => settings.scripts.includes(s.id) && fontReady.has(s.id));
+      const available = scripts.filter(s => settings.scripts.includes(s.id) && fontReady.has(s.id) && glyphLibrary.active(s.id).length);
       if (!available.length || !settings.floating) return;
       const count = viewport.width < 650 ? 5 : 9;
       for (let i = 0; i < count; i++) {
@@ -81,9 +79,10 @@
         el.type = 'button'; el.dataset.script = script.id;
         el.className = 'floating-glyph'; el.lang = script.lang; el.style.fontFamily = script.family;
         el.setAttribute('aria-haspopup', 'dialog'); el.setAttribute('aria-controls', 'glyph-note'); el.setAttribute('aria-expanded', 'false');
-        el.textContent = script.glyphs[(i * 7 + Math.floor(clock / 25)) % script.glyphs.length];
+        const entries = glyphLibrary.active(script.id), entry = entries[(i * 7 + Math.floor(clock / 25)) % entries.length];
+        el.textContent = entry.character;
         $('floating-script').append(el);
-        const f = { el, script, i, cycle: -1 };
+        const f = { el, script, entry, i, cycle: -1 };
         el.addEventListener('click', event => { event.stopPropagation(); selectedFloat === f ? closeNote(true) : showNote(f); });
         el.addEventListener('focus', () => { f.focusedAt = clock; paint(); });
         el.addEventListener('blur', () => { f.focusedAt = null; paint(); });
@@ -99,13 +98,14 @@
       paint(); wake();
     }
     function showNote(f) {
-      const note = window.MatrixGlyphNotes.describe(f.script.id, f.el.textContent);
+      const note = G.describe(f.entry);
       if (!note) return;
       closeNote(); selectedFloat = f; f.selectedAt = clock;
       f.el.setAttribute('aria-expanded', 'true');
       $('glyph-note-title').textContent = note.title;
       $('glyph-note-title').style.fontFamily = `${f.script.family}, sans-serif`;
       $('glyph-note-reading').textContent = note.reading;
+      $('glyph-note-reading').hidden = !note.reading;
       $('glyph-note-description').textContent = note.description;
       $('glyph-note').hidden = false; paint(); wake();
       if (runtime.capabilities.keyboard) $('close-glyph-note').focus();
@@ -154,13 +154,16 @@
     function paint() {
       const { width, height, x, y } = viewport;
       for (const f of floats) {
+        const entries = glyphLibrary.active(f.script.id);
+        if (!entries.length) { f.el.style.visibility = 'hidden'; continue; }
         const floatClock = f.selectedAt ?? f.focusedAt ?? clock;
         const phase = reducedMotion ? .5 : (floatClock / 24 + f.i * .137) % 1;
         const cycle = reducedMotion ? 0 : Math.floor(floatClock / 24 + f.i * .137);
         const fontSize = 24 * settings.scale * (f.i % 3 === 0 ? 1.2 : 1);
         if (cycle !== f.cycle || fontSize !== f.fontSize) {
           f.cycle = cycle; f.fontSize = fontSize;
-          f.el.textContent = f.script.glyphs[(f.i * 7 + cycle * 3) % f.script.glyphs.length];
+          f.entry = entries[(f.i * 7 + cycle * 3) % entries.length];
+          f.el.textContent = f.entry.character;
           f.el.setAttribute('aria-label', `${f.script.name} ${f.el.textContent}，查看注释`);
           f.el.style.fontSize = `${fontSize}px`;
           const bounds = f.el.getBoundingClientRect();
@@ -316,9 +319,9 @@
     $('export-wallpaper').addEventListener('click', async () => {
       if (!runtime.capabilities.keyboard) return;
       const b = $('export-wallpaper'), snapshot = JSON.parse(JSON.stringify(settings));
-      b.disabled = true; notify('正在打包诗词、设置与离线字体…');
+      b.disabled = true; notify('正在打包诗词、文字、设置与离线字体…');
       try {
-        const names = ['index.html', 'matrix.css', 'matrix.js', 'culture.js', 'glyph-notes.js', 'poetry.js', 'archive.js', 'wallpaper-runtime.js',
+        const names = ['index.html', 'matrix.css', 'matrix.js', 'culture.js', 'glyphs.js', 'glyphs.generated.js', 'glyph-library.js', 'poetry.js', 'archive.js', 'wallpaper-runtime.js',
           'module.json', 'cover.jpg', 'fonts/Seal.woff', 'fonts/WenKai.woff', 'fonts/Yi.woff', 'fonts/Tibetan.woff',
           'fonts/Seal-OFL.txt', 'fonts/Seal-NOTICE.md', 'fonts/WenKai-OFL.txt', 'fonts/Noto-OFL.txt', 'fonts/NOTICE.md'];
         const files = await Promise.all(names.map(async name => {
@@ -328,7 +331,7 @@
         }));
         files.push({ name: 'settings.js', data: 'window.MATRIX_DEFAULTS = ' + json({ ...snapshot, importSeed: 'configured-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 8) }) + ';\n' },
           { name: 'poems.generated.js', data: 'window.MATRIX_POEMS = ' + json(builtins).replace(/</g, '\\u003c') + ';\nwindow.MATRIX_POEM_FILES = ' + json(Object.fromEntries(builtins.map(p => [p.id, filename(p)]))) + ';\n' },
-          ...builtins.map(p => ({ name: `content/poems/${filename(p)}`, data: json(p) })));
+          ...builtins.map(p => ({ name: `content/poems/${filename(p)}`, data: json(p) })), ...glyphLibrary.builtinFiles());
         download(MatrixArchive.zip(files), 'matrix-echo-configured.zip');
         notify('已导出已配置壁纸。在壁纸盒子的「设置 → 导入壁纸」中导入此 ZIP 即可。');
       } catch (error) { notify(`导出失败：${error.message}。请在独立预览或本地网页服务中重试。`); }
@@ -342,7 +345,7 @@
       if (event.key === 'Escape') { event.preventDefault(); togglePanel(false); }
     });
     for (const script of scripts) {
-      document.fonts.load(`32px ${script.family}`, script.glyphs.join('')).then(faces => {
+      document.fonts.load(`32px ${script.family}`, script.sample).then(faces => {
         if (!faces.length) throw new Error('font missing');
         fontReady.add(script.id); rebuildFloats(); paint(); if (!runtime.paused) redraw();
       }).catch(() => notify(`${script.name}字体未能加载，请检查壁纸文件是否完整。`));
@@ -352,7 +355,7 @@
     renderManager(); if (settings.importSeed) save(); if (initialWarning) notify(initialWarning);
     return Object.freeze({ update, togglePanel, finishVerse, getVerse: () => fontReady.has('kai') && settings.poems ? current : null,
       getState: () => ({ clock, current: current ? { ...current } : null,
-      settings: JSON.parse(JSON.stringify(settings)), poems: library(), fontReady: [...fontReady],
+      settings: JSON.parse(JSON.stringify(settings)), poems: library(), glyphs: glyphLibrary.list(), fontReady: [...fontReady],
       floatingCount: floats.length, annotation: selectedFloat ? { script: selectedFloat.script.id, character: selectedFloat.el.textContent } : null,
       storageAvailable, panelOpen: !$('culture-panel').hidden }) });
   }

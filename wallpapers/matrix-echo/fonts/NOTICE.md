@@ -2,9 +2,9 @@
 
 These fonts are bundled for offline use. No font CDN is contacted.
 
-- `Seal.woff`: 20-character subset of **Shuowen Seal**, obtained from
+- `Seal.woff`: 4,752-character upstream subset of **Shuowen Seal**, obtained from
   https://github.com/LiaBrio/seal-fonts (`ShuowenSeal-Subset.woff`).
-  Glyph outlines are unchanged; subset and WOFF conversion performed with fontTools.
+  The upstream WOFF is bundled unchanged, covering more Han characters for JSON extensions.
   See `Seal-OFL.txt` and `Seal-NOTICE.md` for licensing, upstream sources,
   and the required attribution to 全字庫說文解字 / 中華民國數位發展部.
 - `WenKai.woff`: **LXGW WenKai Regular**, full font converted from TTF to WOFF

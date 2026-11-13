@@ -20,4 +20,4 @@ You can also download wallpaper packages from [GitHub Releases](https://github.c
 | Ocean Drift | A panoramic underwater world that changes with the weather and time of day, spanning coral gardens, kelp forests, and the deep sea. Tap for glowing ripples or touch animals to make them swim away. |
 | The Sky Above You | A night sky based on your chosen location and the current time, featuring 5,044 stars, constellations, and the direction of the Milky Way, with city selection. |
 | Weightless in Blue | A swimming journey through a twilight pool, from diving through different swimming strokes to returning to the poolside, accompanied by fish and swaying aquatic plants. |
-| Matrix Echo | Complete Chinese verses flow within the green code rain. Seal and Kai characters, Yi and Tibetan letters float independently above it. Includes a personal poetry library. |
+| Matrix Echo | Chinese verses enter the green code rain character by character. Floating Seal, Kai, Yi and Tibetan characters reveal notes when clicked. Both libraries support editing, JSON extensions and offline export. |

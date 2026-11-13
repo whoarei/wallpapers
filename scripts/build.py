@@ -7,6 +7,7 @@ import shutil
 import zipfile
 from pathlib import Path
 from matrix_poetry import collect as collect_matrix_poetry
+from matrix_glyphs import collect as collect_matrix_glyphs
 
 ROOT = Path(__file__).resolve().parent.parent
 SLUG = re.compile(r"[a-z0-9][a-z0-9-]{0,63}\Z")
@@ -91,6 +92,9 @@ def build(previous=None):
         generated_poems = collect_matrix_poetry(folder) if folder.name == "matrix-echo" else None
         if generated_poems is not None and not (folder / "poems.generated.js").is_file():
             raise ValueError("Missing matrix-echo/poems.generated.js; run scripts/sync_matrix_poetry.py")
+        generated_glyphs = collect_matrix_glyphs(folder) if folder.name == "matrix-echo" and (folder / "glyphs.js").is_file() else None
+        if generated_glyphs is not None and not (folder / "glyphs.generated.js").is_file():
+            raise ValueError("Missing matrix-echo/glyphs.generated.js; run scripts/sync_matrix_glyphs.py")
         with zipfile.ZipFile(archive_path, "w", compression=zipfile.ZIP_STORED) as archive:
             for source in files:
                 relative = source.relative_to(folder).as_posix()
@@ -100,6 +104,8 @@ def build(previous=None):
                 data = source.read_bytes()
                 if generated_poems is not None and relative == "poems.generated.js":
                     data = generated_poems
+                if generated_glyphs is not None and relative == "glyphs.generated.js":
+                    data = generated_glyphs
                 # Match the repository's LF policy on Windows working trees too;
                 # identical source text must produce identical release ZIPs.
                 if source.suffix.lower() in {".html", ".css", ".js", ".mjs", ".cjs", ".json", ".svg", ".md", ".txt", ".glsl", ".wgsl", ".vert", ".frag"}:

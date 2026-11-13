@@ -31,6 +31,7 @@ body.idle .hud,body.idle .identity,body.idle .signature{opacity:0}
 .identity,.signature,.hud{z-index:3}
 .culture-panel{position:fixed;right:28px;top:24px;bottom:94px;width:min(540px,calc(100% - 40px));z-index:5;overflow:auto;background:#05140ef5;border:1px solid #42684d;border-radius:12px;padding:24px;box-shadow:0 20px 80px #0009;scrollbar-color:#41654a #07170e;font-size:12px;line-height:1.7}
 .panel-heading,.library-heading{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.culture-panel>.panel-heading{position:sticky;top:0;z-index:1;background:#05140e}
 .panel-heading h2{font:25px/1.4 MatrixKai,serif;letter-spacing:.12em;margin:4px 0 16px;color:#d0edda}
 .panel-heading>button{align-self:flex-start;font-size:20px;min-width:36px;padding:1px 10px}
 .eyebrow{font:8px/1.5 Consolas,monospace;letter-spacing:.2em;color:#6f9b7d;margin:0}
@@ -50,4 +51,11 @@ body.idle .hud,body.idle .identity,body.idle .signature{opacity:0}
 #poem-editor p,.library-help,#desktop-edit-hint{color:#799884;font-size:11px}
 #culture-status{min-height:1.7em;color:#b5e1c2;margin-bottom:0}
 .restore-confirm{padding:10px;border:1px solid #62805d;margin-top:14px;border-radius:4px}
+.library-tabs{display:flex;gap:8px;margin:14px 0}.library-tabs [aria-selected=true]{background:#20442b;border-color:#719f7d;color:#ddf6e4}
+.glyph-filter{display:flex;align-items:center;gap:10px;font-size:11px;color:#8caf97}.glyph-filter select{padding:5px 8px}
+.glyph-summary{min-width:0;flex:1}.glyph-summary p{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.glyph-summary b{display:flex;align-items:center;gap:10px}.glyph-preview{font-size:25px;line-height:1.5;min-width:30px;text-align:center;color:#c8edD3}
+#glyph-editor{border:1px solid #3b674a;border-radius:8px;padding:15px;margin:16px 0;background:#0b2217}#glyph-editor label{display:block;color:#a9c9b3;margin-bottom:10px}
+#glyph-editor input,#glyph-editor textarea,#glyph-editor select,.glyph-filter select{border:1px solid #3b674a;background:#020e07;color:#d4ecdc;border-radius:4px;font:13px/1.8 "Microsoft YaHei",sans-serif}
+#glyph-editor input,#glyph-editor textarea,#glyph-editor select{display:block;width:100%;padding:8px}#glyph-editor textarea{resize:vertical}.glyph-fields{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+#glyph-note-description{white-space:pre-wrap}
 @media(max-width:650px){.culture-panel{top:12px;right:12px;bottom:140px;width:calc(100% - 24px);padding:16px}.poem-fields{grid-template-columns:1fr}.poem-row{align-items:flex-start}.poem-row .row-actions{max-width:125px}}

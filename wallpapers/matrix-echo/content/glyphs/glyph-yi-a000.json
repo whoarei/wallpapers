@@ -1,0 +1,8 @@
+{
+  "id": "glyph-yi-a000",
+  "script": "yi",
+  "character": "ꀀ",
+  "reading": "it",
+  "description": "规范彝文中的音节文字，用于记录彝语语音。单独的音节不对应固定的汉语词义。",
+  "enabled": true
+}
