@@ -117,10 +117,3 @@ jobs:
           sha256sum -c SHA256SUMS.txt
           cmp catalog.json ../dist/catalog.json
           gh release edit "$LIBRARY_TAG" --draft=false --latest
-  sync-gitee:
-    needs: publish
-    uses: ./.github/workflows/sync-gitee.yml
-    with:
-      tag: ${{ github.ref_name }}
-    secrets:
-      GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}

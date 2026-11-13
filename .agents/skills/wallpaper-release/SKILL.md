@@ -1,6 +1,6 @@
 ---
 name: wallpaper-release
-description: 仅在用户明确要求发布 whoarei/wallpapers 壁纸库新版本，或准备一次明确计划的版本发布时使用。普通壁纸开发、修复、美化、测试、提交和推送不触发本 skill。发布时先列更新点、推荐版本与其他合理选项，由用户最终确定版本号，再打包、发布 GitHub 并衔接 Gitee。仅同步已有版本时使用 gitee-release-sync。
+description: 仅在用户明确要求发布 whoarei/wallpapers 壁纸库新版本，或准备一次明确计划的版本发布时使用。普通壁纸开发、修复、美化、测试、提交和推送不触发本 skill。发布时先列更新点、推荐版本与其他合理选项，由用户最终确定版本号，再打包并发布 GitHub。Gitee 已停止同步；用户另行要求恢复时使用 gitee-release-sync。
 ---
 
 # 壁纸库新版发布
@@ -23,7 +23,7 @@ description: 仅在用户明确要求发布 whoarei/wallpapers 壁纸库新版�
 
 ## 先读当前实现
 
-- `README.md` 的“发布内容更新”和“配置 Gitee Release 同步”。
+- `README.md` 的发布来源与 Gitee 停止同步说明。
 - `library.json`、本次变更壁纸的 `wallpapers/<id>/module.json`。
 - `.github/workflows/library.yml`、`.github/workflows/sync-gitee.yml`。
 - `scripts/build.py`、`scripts/sync_gitee.py`。
@@ -108,25 +108,21 @@ python scripts/build.py --previous "$release_previous_dir/catalog.json"
    ```
 
 4. 查到本次标签触发的 **Wallpaper library** 工作流，核对 `headSha`
-   是预期提交。等打包、GitHub 发布和后续 Gitee 同步完成。
+   是预期提交。等打包和 GitHub 发布完成。
 5. 使用准确的更新点整理 Release 标题、说明；多行内容用临时文件配合
    `gh release edit --notes-file`，不通过 shell 字符串拼接发布正文。
 
 CI 上传草稿附件后会下载验证，再发布为 latest。已有正式 Release 不覆盖。
 不要另走手工重打包、覆盖正式附件的路径。
 
-## 4. 衔接 Gitee 同步与验收
+## 4. 验收发布
 
-继续读取并执行 [gitee-release-sync](../gitee-release-sync/SKILL.md) 的
-“核验与完成标准”。正常发布由 `library.yml` 直接调用同步工作流；
-已有任务正在同步时不要重复派发。
+用户已要求停止 Gitee 同步，新版发布只以 GitHub 为目标。核对 GitHub Release
+为正式版本，附件集合与校验文件一致，实际下载的 ZIP、封面和清单通过大小及
+SHA-256 检查，标签指向预期提交，latest 返回目标版本。
 
-```bash
-python scripts/verify_release.py "$release_tag"
-```
+不调用要求两端一致的 `verify_release.py` 作为 GitHub 单端发布的完成条件，
+也不自动派发或恢复 Gitee 任务。只有用户重新明确要求恢复同步时，才读取并
+执行 [gitee-release-sync](../gitee-release-sync/SKILL.md)。
 
-**两端均为正式版本、所有附件及清单校验通过、main 和标签一致、默认更新入口
-返回目标最新版后，才算完整发布。** GitHub 成功但 Gitee 尚在运行或失败时，
-准确报告当前状态并继续处理；不能只凭任务已启动或 Release 页面存在就说完成。
-
-最后简要报告用户选定的库版本、变更壁纸版本、更新点、验证结果及两端 Release 链接。
+最后简要报告用户选定的库版本、变更壁纸版本、更新点、验证结果及 GitHub Release 链接。

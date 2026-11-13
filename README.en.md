@@ -4,7 +4,7 @@
 
 This is the official collection of live wallpapers for [Wallpaper Box](https://github.com/whoarei/wallpaper-box), featuring pixel towns, natural landscapes, underwater worlds, and a real-time night sky. Browse, download individual wallpapers, and switch between them in the app. Installed wallpapers work offline.
 
-You can also download wallpaper packages from [GitHub Releases](https://github.com/whoarei/wallpapers/releases) or [Gitee Releases](https://gitee.com/xishuaiya/wallpapers/releases).
+You can also download wallpaper packages from [GitHub Releases](https://github.com/whoarei/wallpapers/releases). Gitee synchronization has stopped; use GitHub for new releases. Existing attachments remain on [Gitee Releases](https://gitee.com/xishuaiya/wallpapers/releases).
 
 ## Wallpaper list
 

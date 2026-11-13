@@ -1,6 +1,6 @@
 ---
 name: gitee-release-sync
-description: 仅在用户明确要求将已发布的 GitHub 壁纸库版本同步到 Gitee、补齐漏传附件、排查 Release 同步失败，或已获授权的新版本发布进入 Gitee 同步阶段时使用。普通开发、测试、提交、推送及仅同步 Git 源码不触发本 skill。复用原版本和原包，校验 Release 附件、清单与默认更新入口。
+description: 仅在用户明确要求恢复 Gitee 同步、补齐漏传附件或排查 Release 同步失败时使用。当前已停止自动同步，普通发布、开发、测试、提交、推送及仅同步 Git 源码不触发本 skill。复用原版本和原包，校验 Release 附件、清单与默认更新入口。
 ---
 
 # 同步已发布版本到 Gitee
@@ -10,8 +10,8 @@ description: 仅在用户明确要求将已发布的 GitHub 壁纸库版本同�
 
 ## 触发边界
 
-- 用户明确要求同步、补齐或排查已发布版本的 Gitee Release，或一次已授权的
-  新版发布进入镜像同步阶段时，才进入本流程。
+- 用户已要求停止 Gitee 同步，GitHub 新版发布不包含镜像同步。
+  只有用户重新明确要求恢复、补齐或排查 Gitee Release 时，才进入本流程。
 - 普通开发、测试、提交、推送，不启动本流程。不要为了让 Gitee main 跟上
   普通提交，重新同步一个已有 Release。
 - 仅要求 Git 源码或分支同步时，按源码同步处理，不派发 `sync-gitee.yml`。
@@ -39,9 +39,8 @@ description: 仅在用户明确要求将已发布的 GitHub 壁纸库版本同�
 
 ## 2. 启动或恢复同步
 
-正常新版发布由 `library.yml` 直接调用同步流程。
-`GITHUB_TOKEN` 创建的 Release 不会触发另一个 `release: published` 工作流，
-不要删除这个直接调用而只依赖 Release 事件。
+`library.yml` 已移除自动同步，`sync-gitee.yml` 仅保留手动入口。
+没有用户重新明确授权时，不派发同步任务，也不重新启用自动入口。
 
 补同步已有版本，或需要使用修复后的脚本时，从 GitHub **main** 派发：
 
