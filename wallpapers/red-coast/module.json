@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "red-coast",
+  "type": "web",
+  "name": "红岸回声",
+  "subtitle": "RED COAST",
+  "description": "锈白的巨型天线压在整座混凝土基地上，密集钢架、雪山与冷灰云层重现旧时代深空工程的尺度。动态山雾、微弱工作灯与角落的小收音机陪伴缓慢流转的天色。",
+  "version": "1.0.0",
+  "minAppVersion": "0.2.0",
+  "entry": "index.html",
+  "cover": "cover.jpg",
+  "tags": [
+    "写实科幻",
+    "山中基地",
+    "点击互动"
+  ],
+  "order": 120,
+  "enabled": true
+}

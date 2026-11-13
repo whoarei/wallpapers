@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>红岸回声 · Red Coast</title>
+  <link rel="stylesheet" href="coast.css">
+  <script src="wallpaper-runtime.js" defer></script>
+  <script src="coast.js" defer></script>
+</head>
+<body>
+  <canvas id="coast" aria-label="写实的锈白巨型天线立在混凝土基地上，山雾轻移，工作灯微亮，角落保留小型监听收音机；轻点天线可发射信号"></canvas>
+  <header class="identity"><span class="emblem" aria-hidden="true">岸</span><div><h1>红岸回声</h1><p>深空监听 · 值守记录</p></div></header>
+  <div class="location" aria-hidden="true"><b>红岸工程</b><small>第 01 监听站 · 大兴安岭</small></div>
+  <footer class="hud" data-scene-controls>
+    <div class="caption"><span id="transmission" role="status" aria-live="polite">群山沉默，星空无言。</span><small>轻点天线 · 发出讯息<span data-keyboard> / 空格 · 暂停</span></small></div>
+    <div class="controls">
+      <button id="phase" type="button">天色 · 流转</button>
+      <button id="scan" type="button" aria-pressed="true">镜头 · 缓移</button>
+      <button id="signal" type="button">发射信号</button>
+      <button id="pause" type="button" aria-pressed="false">暂停</button>
+      <button id="fullscreen" type="button" data-fullscreen>全屏</button>
+    </div>
+  </footer>
+</body>
+</html>

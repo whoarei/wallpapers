@@ -1,0 +1,24 @@
+*{box-sizing:border-box}
+html,body{width:100%;height:100%;margin:0;overflow:hidden;background:#101c1d;color:#d8caa5;font-family:"Noto Serif CJK SC","Songti SC",SimSun,serif}
+canvas{display:block;width:100%;height:100%;touch-action:manipulation}
+.identity{position:fixed;left:39px;top:31px;display:flex;gap:15px;align-items:center;pointer-events:none;transition:opacity .8s}
+.emblem{display:grid;place-items:center;width:36px;height:40px;border:2px solid #9c644b8c;color:#b57655;font-size:24px;font-weight:bold;transform:rotate(-4deg);box-shadow:inset 0 0 0 2px #242e2680}
+h1{margin:0 0 6px;font-size:18px;font-weight:600;letter-spacing:.30em;color:#d6c7a2;text-shadow:0 2px 10px #07171ac0}
+.identity p{margin:0;color:#b9af8e;font-size:9px;letter-spacing:.24em;opacity:.8}
+.location{position:fixed;top:32px;right:39px;pointer-events:none;text-align:right;transition:opacity .8s}
+.location b{display:inline-block;border:1px solid #ad684c73;padding:4px 7px;color:#bd8f68b8;font-size:12px;font-weight:500;letter-spacing:.2em;transform:rotate(2deg)}
+.location small{display:block;margin-top:8px;color:#b8ad8a7d;font-size:8px;letter-spacing:.15em}
+.hud{position:fixed;bottom:24px;left:39px;right:35px;display:flex;justify-content:space-between;align-items:flex-end;gap:20px;transition:opacity .8s}
+.caption{display:grid;gap:7px;font-size:10px;letter-spacing:.15em;color:#cfc4a1b8;text-shadow:0 1px 5px #061719}
+.caption small{font-family:"Segoe UI","Microsoft YaHei",sans-serif;font-size:8px;letter-spacing:.08em;color:#b2b2918c}
+.controls{display:flex;flex-wrap:wrap;gap:5px;padding:5px 6px;background:linear-gradient(#343c30db,#1c2d25ef);border:1px solid #a1936459;box-shadow:0 3px 9px #04141488,inset 0 1px #d2bb7b2a}
+button{min-height:32px;padding:6px 11px;border:1px solid #8e8c6385;border-top-color:#b6aa76a6;border-left-color:#a69d6a8c;background:linear-gradient(#46503c,#303d2e);color:#d1c7a4;border-radius:1px;box-shadow:inset 1px 1px #d5c68c18,inset -1px -1px #071e1b88,0 1px 2px #071b1a99;font:10px/1.4 "Noto Serif CJK SC",SimSun,serif;cursor:pointer}
+button:hover{background:linear-gradient(#596045,#3b4931);color:#eee0b2}
+button:active,button[aria-pressed=true]{background:linear-gradient(#293d2d,#3a4933);box-shadow:inset 1px 2px 4px #031c1d99;border-top-color:#60775499}
+button:focus-visible{outline:2px solid #dbbc76;outline-offset:3px}
+button:disabled{opacity:.45;cursor:default}
+#signal{color:#e0c18c;border-bottom-color:#aa744599}
+body.idle .hud,body.idle .identity,body.idle .location{opacity:0}
+@media(max-width:750px){.identity{left:22px;top:23px;gap:11px}.identity h1{font-size:15px}.emblem{width:30px;height:34px;font-size:21px}.location{display:none}.hud{left:16px;right:16px;bottom:18px;flex-direction:column;align-items:flex-start;gap:12px}.controls{gap:4px;padding:5px}button{padding:6px 8px;font-size:10px}.caption{font-size:9px;gap:6px}.caption small{font-size:8px}}
+@media(max-width:360px){button{padding:6px 7px}.caption small{font-size:7px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}

@@ -21,3 +21,4 @@ You can also download wallpaper packages from [GitHub Releases](https://github.c
 | The Sky Above You | A night sky based on your chosen location and the current time, featuring 5,044 stars, constellations, and the direction of the Milky Way, with city selection. |
 | Weightless in Blue | A swimming journey through a twilight pool, from diving through different swimming strokes to returning to the poolside, accompanied by fish and swaying aquatic plants. |
 | Matrix Echo | Layered green code rain surrounds a luminous doorway. Click for data ripples and adjust the flow speed and glow. |
+| Red Coast | A realistic, weathered white radio telescope above a massive concrete mountain station, with drifting mist, subtle work lights, and a small vintage receiver. |
