@@ -49,6 +49,7 @@ async function setHostPause(page, paused, pauseReason = 'manual') {
 }
 async function checkButtons(page) {
   const bad = await page.evaluate(() => [...document.querySelectorAll('button')].flatMap(button => {
+    if (button.matches('.floating-glyph')) return [];
     if (!button.checkVisibility() || button.closest('[data-scene-panel]')) return [];
     const r = button.getBoundingClientRect();
     const hit = document.elementFromPoint(r.x + r.width / 2, r.y + r.height / 2);

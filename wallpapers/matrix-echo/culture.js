@@ -34,6 +34,7 @@
     }
     catch { storageAvailable = false; initialWarning = '本地设置未能读取，已使用内置诗词；可导出文件保留本次修改。'; }
     let clock = 0, due = 4, current = null, cursor = 0, serial = 0, editId = null;
+    let selectedFloat = null;
     let viewport = { width: innerWidth, height: innerHeight, x: 0, y: 0, door: null };
     const verseCursors = new Map(), fontReady = new Set(), floats = [];
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -70,18 +71,62 @@
       resetVerse(); due = clock + 6;
     }
     function rebuildFloats() {
+      closeNote();
       $('floating-script').replaceChildren(); floats.length = 0;
       const available = scripts.filter(s => settings.scripts.includes(s.id) && fontReady.has(s.id));
       if (!available.length || !settings.floating) return;
       const count = viewport.width < 650 ? 5 : 9;
       for (let i = 0; i < count; i++) {
-        const script = available[i % available.length], el = document.createElement('span');
+        const script = available[i % available.length], el = document.createElement('button');
+        el.type = 'button'; el.dataset.script = script.id;
         el.className = 'floating-glyph'; el.lang = script.lang; el.style.fontFamily = script.family;
+        el.setAttribute('aria-haspopup', 'dialog'); el.setAttribute('aria-controls', 'glyph-note'); el.setAttribute('aria-expanded', 'false');
         el.textContent = script.glyphs[(i * 7 + Math.floor(clock / 25)) % script.glyphs.length];
         $('floating-script').append(el);
-        floats.push({ el, script, i, cycle: -1 });
+        const f = { el, script, i, cycle: -1 };
+        el.addEventListener('click', event => { event.stopPropagation(); selectedFloat === f ? closeNote(true) : showNote(f); });
+        el.addEventListener('focus', () => { f.focusedAt = clock; paint(); });
+        el.addEventListener('blur', () => { f.focusedAt = null; paint(); });
+        floats.push(f);
       }
     }
+    function closeNote(restoreFocus = false) {
+      const previous = selectedFloat;
+      if (!previous) return;
+      selectedFloat = null; previous.selectedAt = null;
+      previous.el.setAttribute('aria-expanded', 'false'); $('glyph-note').hidden = true;
+      if (restoreFocus && runtime.capabilities.keyboard && previous.el.isConnected) previous.el.focus();
+      paint(); wake();
+    }
+    function showNote(f) {
+      const note = window.MatrixGlyphNotes.describe(f.script.id, f.el.textContent);
+      if (!note) return;
+      closeNote(); selectedFloat = f; f.selectedAt = clock;
+      f.el.setAttribute('aria-expanded', 'true');
+      $('glyph-note-title').textContent = note.title;
+      $('glyph-note-title').style.fontFamily = `${f.script.family}, sans-serif`;
+      $('glyph-note-reading').textContent = note.reading;
+      $('glyph-note-description').textContent = note.description;
+      $('glyph-note').hidden = false; paint(); wake();
+      if (runtime.capabilities.keyboard) $('close-glyph-note').focus();
+    }
+    function positionNote() {
+      if (!selectedFloat) return;
+      const { width, height, door } = viewport;
+      const r = selectedFloat.el.getBoundingClientRect(), note = $('glyph-note');
+      const w = note.offsetWidth, h = note.offsetHeight, gap = 12;
+      const candidates = [{ x: r.right + gap, y: r.top }, { x: r.left - w - gap, y: r.top },
+        { x: r.left, y: r.bottom + gap }, { x: r.left, y: r.top - h - gap },
+        { x: gap, y: gap }, { x: gap, y: height - h - gap }]
+        .map(p => ({ x: Math.max(gap, Math.min(width - w - gap, p.x)), y: Math.max(gap, Math.min(height - h - gap, p.y)) }));
+      const position = candidates.find(p => !door || p.x + w <= door.cx - door.dw / 2 - 26 ||
+        p.x >= door.cx + door.dw / 2 + 26 || p.y + h <= door.top - 26 || p.y >= door.floor + 26) || candidates[0];
+      note.style.left = `${position.x}px`; note.style.top = `${position.y}px`;
+    }
+    $('close-glyph-note').addEventListener('click', () => closeNote(true));
+    document.addEventListener('click', event => {
+      if (selectedFloat && !$('glyph-note').contains(event.target) && !event.target.closest('.floating-glyph')) closeNote();
+    }, true);
     function floatPosition(px, py, halfWidth, halfHeight, motion = reducedMotion ? 0 : 1) {
       const { width, height, door } = viewport;
       // Reserve the full drift/parallax envelope and text shadow, so a letter
@@ -109,12 +154,14 @@
     function paint() {
       const { width, height, x, y } = viewport;
       for (const f of floats) {
-        const phase = reducedMotion ? .5 : (clock / 24 + f.i * .137) % 1;
-        const cycle = reducedMotion ? 0 : Math.floor(clock / 24 + f.i * .137);
+        const floatClock = f.selectedAt ?? f.focusedAt ?? clock;
+        const phase = reducedMotion ? .5 : (floatClock / 24 + f.i * .137) % 1;
+        const cycle = reducedMotion ? 0 : Math.floor(floatClock / 24 + f.i * .137);
         const fontSize = 24 * settings.scale * (f.i % 3 === 0 ? 1.2 : 1);
         if (cycle !== f.cycle || fontSize !== f.fontSize) {
           f.cycle = cycle; f.fontSize = fontSize;
           f.el.textContent = f.script.glyphs[(f.i * 7 + cycle * 3) % f.script.glyphs.length];
+          f.el.setAttribute('aria-label', `${f.script.name} ${f.el.textContent}，查看注释`);
           f.el.style.fontSize = `${fontSize}px`;
           const bounds = f.el.getBoundingClientRect();
           f.halfWidth = bounds.width / 2; f.halfHeight = bounds.height / 2;
@@ -124,11 +171,16 @@
         const position = floatPosition(width * fx, height * fy, f.halfWidth, f.halfHeight);
         f.el.style.visibility = position ? 'visible' : 'hidden';
         if (!position) continue;
-        f.el.style.opacity = String(reducedMotion ? .45 : Math.sin(phase * Math.PI) ** 2 * .65);
-        const dx = reducedMotion ? 0 : Math.sin(clock * .13 + f.i) * 12 + x * 11;
-        const dy = reducedMotion ? 0 : Math.cos(clock * .11 + f.i) * 10 + y * 8;
+        const held = f.selectedAt != null || f.focusedAt != null;
+        const opacity = held ? .8 : reducedMotion ? .45 : Math.sin(phase * Math.PI) ** 2 * .65;
+        f.el.style.opacity = String(opacity);
+        f.el.style.pointerEvents = opacity >= .12 ? 'auto' : 'none';
+        f.el.tabIndex = runtime.capabilities.keyboard && opacity >= .12 ? 0 : -1;
+        const dx = reducedMotion ? 0 : Math.sin(floatClock * .13 + f.i) * 12 + x * 11;
+        const dy = reducedMotion ? 0 : Math.cos(floatClock * .11 + f.i) * 10 + y * 8;
         f.el.style.transform = `translate(${position.x + dx * position.motion}px,${position.y + dy * position.motion}px) translate(-50%,-50%)`;
       }
+      positionNote();
     }
     function update(dt, width, height, x, y, door) {
       const resized = (viewport.width < 650) !== (width < 650);
@@ -187,6 +239,7 @@
       }
     }
     function togglePanel(open = $('culture-panel').hidden) {
+      if (open) closeNote();
       $('culture-panel').hidden = !open; $('culture').setAttribute('aria-expanded', String(open));
       if (runtime.capabilities.keyboard) (open ? $('close-culture') : $('culture')).focus();
       wake();
@@ -265,7 +318,7 @@
       const b = $('export-wallpaper'), snapshot = JSON.parse(JSON.stringify(settings));
       b.disabled = true; notify('正在打包诗词、设置与离线字体…');
       try {
-        const names = ['index.html', 'matrix.css', 'matrix.js', 'culture.js', 'poetry.js', 'archive.js', 'wallpaper-runtime.js',
+        const names = ['index.html', 'matrix.css', 'matrix.js', 'culture.js', 'glyph-notes.js', 'poetry.js', 'archive.js', 'wallpaper-runtime.js',
           'module.json', 'cover.jpg', 'fonts/Seal.woff', 'fonts/WenKai.woff', 'fonts/Yi.woff', 'fonts/Tibetan.woff',
           'fonts/Seal-OFL.txt', 'fonts/Seal-NOTICE.md', 'fonts/WenKai-OFL.txt', 'fonts/Noto-OFL.txt', 'fonts/NOTICE.md'];
         const files = await Promise.all(names.map(async name => {
@@ -282,6 +335,9 @@
       finally { b.disabled = false; }
     });
     document.addEventListener('keydown', event => {
+      if (runtime.capabilities.keyboard && selectedFloat && event.key === 'Escape') {
+        event.preventDefault(); closeNote(true); return;
+      }
       if (!runtime.capabilities.keyboard || $('culture-panel').hidden) return;
       if (event.key === 'Escape') { event.preventDefault(); togglePanel(false); }
     });
@@ -297,7 +353,8 @@
     return Object.freeze({ update, togglePanel, finishVerse, getVerse: () => fontReady.has('kai') && settings.poems ? current : null,
       getState: () => ({ clock, current: current ? { ...current } : null,
       settings: JSON.parse(JSON.stringify(settings)), poems: library(), fontReady: [...fontReady],
-      floatingCount: floats.length, storageAvailable, panelOpen: !$('culture-panel').hidden }) });
+      floatingCount: floats.length, annotation: selectedFloat ? { script: selectedFloat.script.id, character: selectedFloat.el.textContent } : null,
+      storageAvailable, panelOpen: !$('culture-panel').hidden }) });
   }
   window.MatrixCulture = Object.freeze({ create });
 })();

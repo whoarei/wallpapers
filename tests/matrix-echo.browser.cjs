@@ -20,7 +20,7 @@ function unzip(buffer) {
   }
   return files;
 }
-async function context(browser, root = source, options = {}) {
+async function context(browser, root = source, options = {}, relayed = false) {
   const c = await browser.newContext({ viewport: { width: 1440, height: 900 }, offline: true, acceptDownloads: true, ...options });
   const errors = [], external = [];
   await c.route('**/*', route => {
@@ -62,21 +62,100 @@ async function context(browser, root = source, options = {}) {
       return fillText.call(this, text, x, y, ...args);
     };
   });
+  if (relayed) await c.addInitScript(() => {
+    window.wallpaperHost = Object.freeze({ protocolVersion: 1, mode: 'desktop', instanceId: 'notes-test',
+      capabilities: Object.freeze({ pointer: 'relayed', pointerMove: false, keyboard: false, fullscreen: false, pause: false, actions: false }),
+      getState: () => ({ paused: false, pauseReason: 'none' }) });
+  });
   c.on('page', p => p.on('pageerror', error => errors.push(error.message)));
   return { c, errors, external };
 }
 const state = page => page.evaluate(() => matrixEcho.getState());
 const advance = (page, ms) => page.evaluate(ms => __advance(ms), ms);
-async function checkRainVerse(page, expected) {
-  await page.evaluate(() => { window.__poemPaint = []; }); await advance(page, 50);
-  const s = await state(page), layout = s.rainPoem;
+async function checkRainVerse(page, expected, entering = false) {
+  let s = await state(page);
+  const layout = s.rainPoem;
   assert.equal(layout.verse, expected);
   assert.equal(layout.columns.map(c => c.text).join(''), expected, 'whole verse remains in reading order');
-  assert.ok(layout.columns.every(c => c.x > 0 && c.x < s.width && c.top >= 0 && c.bottom < s.height));
-  const painted = await page.evaluate(() => { const result = window.__poemPaint; window.__poemPaint = null; return result; });
-  painted.sort((a, b) => b.x - a.x || b.y - a.y);
-  assert.equal(painted.map(c => c.text).join(''), expected, 'first character leads each falling column, with the full verse trailing above');
-  assert.ok(painted.every(c => c.font.includes('MatrixKai')));
+  assert.ok(layout.columns.every(c => c.x > 0 && c.x < s.width));
+  if (entering) assert.ok(layout.columns.every(c => c.bottom + c.fontSize / 2 < 0), 'a new verse starts completely above the screen');
+  const seen = layout.columns.map(c => new Set());
+  let capturedEntry = false;
+  await page.evaluate(() => { window.__poemPaint = []; });
+  for (let elapsed = 0; elapsed < 120000; elapsed += 250) {
+    await advance(page, 250); s = await state(page);
+    assert.equal(s.rainPoem?.serial, layout.serial, 'the verse stays active until every character has flowed through');
+    const painted = await page.evaluate(() => window.__poemPaint);
+    s.rainPoem.columns.forEach((column, i) => {
+      Array.from(column.text).forEach((character, j) => {
+        const y = column.bottom - j * layout.step;
+        if (y < 0 || y > s.height) return;
+        const cell = painted.find(p => p.text === character && Math.abs(p.x - column.x) < .01 && Math.abs(p.y - y) < .01);
+        assert.ok(cell, 'each visible poem cell is drawn in its moving stream');
+        assert.ok(cell.font.includes('MatrixKai'));
+        if (!seen[i].size) assert.equal(j, 0, 'the first character enters before later characters in its column');
+        seen[i].add(j);
+      });
+    });
+    if (entering && !capturedEntry && seen[0].size > 0 && seen[0].size < Array.from(layout.columns[0].text).length) {
+      await page.screenshot({ path: path.join(output, `poem-entry-${s.width}x${s.height}.png`) }); capturedEntry = true;
+    }
+    if (seen.every((indices, i) => indices.size === Array.from(layout.columns[i].text).length)) break;
+  }
+  await page.evaluate(() => { window.__poemPaint = null; });
+  assert.ok(seen.every((indices, i) => indices.size === Array.from(layout.columns[i].text).length), 'all characters and punctuation eventually flow into view');
+}
+async function clickableGlyph(page, script) {
+  for (let attempt = 0; attempt < 25; attempt++) {
+    const index = await page.locator('.floating-glyph').evaluateAll((els, script) => els.findIndex(el => {
+      const r = el.getBoundingClientRect(), style = getComputedStyle(el);
+      return el.dataset.script === script && style.visibility !== 'hidden' && Number(style.opacity) >= .12 &&
+        el.contains(document.elementFromPoint(r.x + r.width / 2, r.y + r.height / 2));
+    }), script);
+    if (index >= 0) return page.locator('.floating-glyph').nth(index);
+    await advance(page, 1000);
+  }
+  assert.fail('no clickable glyph for ' + script);
+}
+async function relayTap(page, locator) {
+  const r = await locator.boundingBox();
+  await page.evaluate(({ x, y }) => {
+    const target = document.elementFromPoint(x, y);
+    for (const type of ['pointerdown', 'mousedown', 'pointerup', 'mouseup', 'click']) {
+      const EventClass = type.startsWith('pointer') ? PointerEvent : MouseEvent;
+      target.dispatchEvent(new EventClass(type, { bubbles: true, clientX: x, clientY: y }));
+    }
+  }, { x: r.x + r.width / 2, y: r.y + r.height / 2 });
+}
+async function checkAnnotations(page, relay = false) {
+  for (const script of ['seal', 'kai', 'yi', 'tibetan']) {
+    const glyph = await clickableGlyph(page, script), character = await glyph.textContent();
+    const before = await state(page);
+    if (relay) await relayTap(page, glyph); else await glyph.click();
+    assert.equal(await page.locator('#glyph-note').isVisible(), true);
+    assert.equal((await state(page)).interactions, before.interactions, 'reading a note does not trigger a background ripple');
+    assert.deepEqual((await state(page)).culture.annotation, { script, character });
+    assert.ok((await page.locator('#glyph-note-title').textContent()).includes(character));
+    assert.ok((await page.locator('#glyph-note-reading').textContent()).length > 0);
+    await advance(page, 1500);
+    assert.equal(await glyph.textContent(), character, 'the annotated character remains unchanged while being read');
+    const bounds = await page.locator('#glyph-note').boundingBox(), viewport = page.viewportSize();
+    assert.ok(bounds.x >= 0 && bounds.y >= 0 && bounds.x + bounds.width <= viewport.width && bounds.y + bounds.height <= viewport.height);
+    if (script === 'seal') await page.screenshot({ path: path.join(output, `glyph-note-${relay ? 'desktop' : 'browser'}-${viewport.width}.png`) });
+    if (relay) await relayTap(page, page.locator('#close-glyph-note')); else await page.locator('#close-glyph-note').click();
+    assert.equal(await page.locator('#glyph-note').isVisible(), false);
+    await page.evaluate(() => document.activeElement?.blur());
+  }
+  const glyph = await clickableGlyph(page, 'kai');
+  if (relay) await relayTap(page, glyph); else { await glyph.focus(); await page.keyboard.press('Enter'); }
+  await page.mouse.click(page.viewportSize().width - 2, page.viewportSize().height - 2);
+  assert.equal(await page.locator('#glyph-note').isVisible(), false, 'clicking blank space dismisses the note');
+  if (!relay) {
+    await glyph.focus(); await page.keyboard.press('Enter'); await page.keyboard.press('Escape');
+    assert.equal(await page.locator('#glyph-note').isVisible(), false, 'Escape dismisses the note');
+    assert.equal(await glyph.evaluate(el => el === document.activeElement), true, 'closing restores keyboard focus');
+    await glyph.evaluate(el => el.blur());
+  }
 }
 async function checkFloatingDoor(page) {
   const result = await page.evaluate(() => {
@@ -107,17 +186,17 @@ async function download(page, selector, name) {
   const browser = await chromium.launch({ executablePath: process.env.BROWSER_PATH || '/usr/bin/chromium', headless: true });
   try {
     const { c, errors, external } = await context(browser), page = await open(c);
-    await advance(page, 6000);
+    await advance(page, 4100);
     let s = await state(page);
     assert.ok(s.culture.current);
     assert.equal(await page.locator('#echo-verse').textContent(), s.culture.current.verse);
     assert.equal(await page.locator('#poetry-echo').count(), 0, 'verses have no independent floating overlay');
     assert.ok(s.culture.poems.find(p => p.id === s.culture.current.id).verses.includes(s.culture.current.verse));
-    await checkRainVerse(page, s.culture.current.verse);
+    await checkRainVerse(page, s.culture.current.verse, true);
     const beforeFlow = await state(page); await advance(page, 1000); const afterFlow = await state(page);
     const distance = afterFlow.rainPoem.columns[0].top - beforeFlow.rainPoem.columns[0].top;
     assert.ok(distance > 0, 'poetry moves down in the code rain');
-    assert.ok(Math.abs(distance - (afterFlow.time - beforeFlow.time) * afterFlow.rainPoem.speed) < .001, 'poem uses the carrier stream velocity');
+    assert.ok(Math.abs(distance - (afterFlow.time - beforeFlow.time) * afterFlow.rainPoem.columns[0].speed) < .001, 'poem uses the carrier stream velocity');
     await page.locator('#speed').click();
     const fasterStart = await state(page); await advance(page, 1000); const fasterEnd = await state(page);
     assert.ok(fasterEnd.rainPoem.columns[0].top - fasterStart.rainPoem.columns[0].top > distance * 1.7, 'flow control accelerates poetry together with the code');
@@ -131,6 +210,7 @@ async function download(page, selector, name) {
     assert.deepEqual((await state(page)).rainPoem, paused.rainPoem, 'pause freezes embedded verse positions');
     assert.equal(await page.locator('.floating-glyph').first().getAttribute('style'), transform);
     await page.locator('#pause').click();
+    await checkAnnotations(page);
     await page.locator('#culture').click();
     const oldSize = await page.locator('.floating-glyph').first().evaluate(e => parseFloat(getComputedStyle(e).fontSize));
     await page.locator('#floating-size').click();
@@ -166,7 +246,7 @@ async function download(page, selector, name) {
     assert.ok(repo.has('content/poems/shan-ju-qiu-ming.json'), 'existing source filename is preserved');
     assert.ok(repo.has(`content/poems/${id}.json`));
     const configured = unzip(await download(page, '#export-wallpaper', 'configured.zip'));
-    for (const asset of ['fonts/Seal.woff', 'fonts/WenKai.woff', 'fonts/Yi.woff', 'fonts/Tibetan.woff', 'poems.generated.js', 'settings.js']) assert.ok(configured.has(asset), asset);
+    for (const asset of ['fonts/Seal.woff', 'fonts/WenKai.woff', 'fonts/Yi.woff', 'fonts/Tibetan.woff', 'poems.generated.js', 'settings.js', 'glyph-notes.js']) assert.ok(configured.has(asset), asset);
     const exportedRoot = path.join(output, 'configured');
     for (const [name, data] of configured) { const target = path.join(exportedRoot, name); fs.mkdirSync(path.dirname(target), { recursive: true }); fs.writeFileSync(target, data); }
     const roundtrip = await context(browser, exportedRoot), exportedPage = await open(roundtrip.c);
@@ -195,7 +275,7 @@ async function download(page, selector, name) {
     for (const viewport of [{ width: 320, height: 480 }, { width: 800, height: 450 }, { width: 390, height: 844 }]) {
       await page.setViewportSize(viewport); await advance(page, 50);
       assert.equal(await page.locator('#echo-verse').textContent(), long);
-      await checkRainVerse(page, long);
+      await checkRainVerse(page, long, true);
     }
     await page.screenshot({ path: path.join(output, 'long-verse-portrait.png') });
     for (const viewport of [{ width: 1440, height: 900 }, { width: 320, height: 480 }, { width: 390, height: 844 }, { width: 800, height: 450 }]) {
@@ -213,6 +293,7 @@ async function download(page, selector, name) {
     }
     await page.screenshot({ path: path.join(output, 'door-clearance.png') });
     await page.setViewportSize({ width: 390, height: 844 }); await advance(page, 50);
+    await checkAnnotations(page);
     await page.locator('#culture').click(); await page.locator('#poems-toggle').click();
     assert.equal((await state(page)).rainPoem, null, 'poetry switch removes only poetry from the rain');
     assert.equal((await state(page)).culture.floatingCount, 5, 'independent floating characters remain');
@@ -225,6 +306,9 @@ async function download(page, selector, name) {
     assert.equal(await reducedPage.locator('.floating-glyph').first().getAttribute('style'), before, 'reduced motion keeps floating letters stationary');
     await checkFloatingDoor(reducedPage);
     await reduced.c.close();
+    const desktop = await context(browser, source, {}, true), desktopPage = await open(desktop.c);
+    await advance(desktopPage, 6000); await checkAnnotations(desktopPage, true);
+    assert.deepEqual(desktop.errors, []); assert.deepEqual(desktop.external, []); await desktop.c.close();
     console.log('Matrix Echo offline QA passed: full verses, font layers, pause, management, atomic import, persistence, exports, portrait and reduced motion.');
   } finally { await browser.close(); }
 })().catch(error => { console.error(error); process.exitCode = 1; });

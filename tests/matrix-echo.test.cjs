@@ -4,6 +4,12 @@ const fs = require('node:fs');
 const path = require('node:path');
 const vm = require('node:vm');
 const P = require('../wallpapers/matrix-echo/poetry.js');
+const notes = require('../wallpapers/matrix-echo/glyph-notes.js');
+assert.match(notes.describe('seal', '山').reading, /对应汉字「山」.*shān/);
+assert.match(notes.describe('kai', '月').description, /月亮/);
+assert.equal(notes.describe('yi', 'ꀀ').reading, '音节名 · it');
+assert.equal(notes.describe('tibetan', 'ཀ').reading, '字母名 · ka');
+assert.equal(notes.describe('tibetan', '山'), null);
 const poem = { title: '山居秋暝', author: '王维', verses: ['明月松间照，清泉石上流。'] };
 assert.equal(P.normalize(poem).id, 'poem-d221ffd0');
 for (const patch of [{ verses: [] }, { verses: ['山'.repeat(121)] }, { author: 123 }, { dynasty: null }, { enabled: 'false' }, { id: '../escape' }]) {
