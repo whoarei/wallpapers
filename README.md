@@ -4,7 +4,7 @@
 
 这里收录了「壁纸盒子」的官方动态壁纸，涵盖像素小镇、自然风景、海底世界与实时星空等主题。在 [壁纸盒子](https://github.com/whoarei/wallpaper-box) 中即可浏览、按需下载和切换壁纸，已安装的壁纸可离线使用。
 
-也可前往 [GitHub Releases](https://github.com/whoarei/wallpapers/releases) 下载壁纸包。Gitee 已停止同步，新版本以 GitHub 为准；[Gitee Releases](https://gitee.com/xishuaiya/wallpapers/releases) 保留已有附件。
+也可前往 [GitHub Releases](https://github.com/whoarei/wallpapers/releases) 下载壁纸包。以后只向 GitHub 发布；Gitee 已永久停止源码、标签及发布附件同步，自动和手动同步入口均已移除。[Gitee Releases](https://gitee.com/xishuaiya/wallpapers/releases) 保留已有附件。
 
 ## 壁纸列表
 

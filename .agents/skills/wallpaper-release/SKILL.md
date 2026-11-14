@@ -1,12 +1,16 @@
 ---
 name: wallpaper-release
-description: 仅在用户明确要求发布 whoarei/wallpapers 壁纸库新版本，或准备一次明确计划的版本发布时使用。普通壁纸开发、修复、美化、测试、提交和推送不触发本 skill。发布时先列更新点、推荐版本与其他合理选项，由用户最终确定版本号，再打包并发布 GitHub。Gitee 已停止同步；用户另行要求恢复时使用 gitee-release-sync。
+description: 仅在用户明确要求发布 whoarei/wallpapers 壁纸库新版本，或准备一次明确计划的版本发布时使用。普通壁纸开发、修复、美化、测试、提交和推送不触发本 skill。发布时先列更新点、推荐版本与其他合理选项，由用户最终确定版本号，再打包并发布 GitHub。Gitee 已永久停止源码、标签及发布附件同步，不包含在发布或验收流程内。
 ---
 
 # 壁纸库新版发布
 
 在 `whoarei/wallpapers` 仓库根目录执行。本 skill 发布壁纸内容，主程序
 `whoarei/wallpaper-box` 的安装包发布不在此流程内。
+
+发布目标仅为 GitHub。Gitee 已永久停止同步；不推送源码、分支或标签，
+不创建、补传或更新 Gitee Release 与附件，不派发、重跑或恢复历史同步任务。
+“发布”“推送”“同步协议文档”均不隐含 Gitee 同步，也不以 Gitee 状态作为完成条件。
 
 ## 触发边界
 
@@ -18,15 +22,14 @@ description: 仅在用户明确要求发布 whoarei/wallpapers 壁纸库新版�
   等用户明确要求发布时，再统一列更新点和版本建议。
 - 用户只询问发布流程或要求编写、修改 skill 时，完成说明或文件修改即可，
   不实际运行发布、Release 同步或全量线上验收。
-- 只同步源码到 Gitee 属于源码同步，不调用 Release 同步流程。
-  本 skill 被读取不代表获得了执行发布的授权，先确认本次任务符合以上范围。
+- 本 skill 被读取不代表获得了执行发布的授权，先确认本次任务符合以上范围。
 
 ## 先读当前实现
 
 - `README.md` 的发布来源与 Gitee 停止同步说明。
 - `library.json`、本次变更壁纸的 `wallpapers/<id>/module.json`。
-- `.github/workflows/library.yml`、`.github/workflows/sync-gitee.yml`。
-- `scripts/build.py`、`scripts/sync_gitee.py`。
+- `.github/workflows/library.yml`。
+- `scripts/build.py`。
 
 检查工作区、当前分支、GitHub 最新正式 Release 及现有标签。保留用户已有改动。
 以本次读取的实现为准；不要沿用旧任务中的版本、附件数量或提交 SHA。
@@ -121,8 +124,8 @@ CI 上传草稿附件后会下载验证，再发布为 latest。已有正式 Rel
 为正式版本，附件集合与校验文件一致，实际下载的 ZIP、封面和清单通过大小及
 SHA-256 检查，标签指向预期提交，latest 返回目标版本。
 
-不调用要求两端一致的 `verify_release.py` 作为 GitHub 单端发布的完成条件，
-也不自动派发或恢复 Gitee 任务。只有用户重新明确要求恢复同步时，才读取并
-执行 [gitee-release-sync](../gitee-release-sync/SKILL.md)。
+`scripts/verify_release.py` 是历史双端验收工具，普通发布不运行它，也不为使其通过
+而补齐 Gitee。历史同步脚本与停用的 skill 不属于发布步骤；仅修改本 skill 不运行
+发布或线上全量下载验收。
 
 最后简要报告用户选定的库版本、变更壁纸版本、更新点、验证结果及 GitHub Release 链接。
