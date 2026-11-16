@@ -1,0 +1,16 @@
+{
+  "id": "poem-6a08c6180301427f763139cb",
+  "title": "郊庙歌辞 仪坤庙乐章 雍和",
+  "author": "员半千",
+  "dynasty": "唐",
+  "verses": [
+    "孝享云毕，惟彻有章。",
+    "云感玄羽，风凄素商。",
+    "瞻望神座，祗恋匪遑。",
+    "礼终乐阕，肃雍锵锵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-2bcac1d6-b744-4060-9ef5-7f35dad5db8f"
+}

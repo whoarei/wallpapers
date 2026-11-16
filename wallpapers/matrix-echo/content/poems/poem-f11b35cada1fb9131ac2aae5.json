@@ -1,0 +1,23 @@
+{
+  "id": "poem-f11b35cada1fb9131ac2aae5",
+  "title": "送李端",
+  "author": "严维",
+  "dynasty": "唐",
+  "verses": [
+    "故关衰草遍，离别正堪悲。",
+    "路出寒云外，人归暮雪时。",
+    "少孤为客早，多难识君迟。",
+    "揜泣空相向，风尘何所期。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "冬天",
+    "友情",
+    "送别",
+    "五言律诗",
+    "伤怀"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-67c18ea1-db49-44b5-8b21-6176e4a86416"
+}

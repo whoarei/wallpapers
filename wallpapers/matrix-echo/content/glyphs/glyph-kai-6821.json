@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6821",
+  "script": "kai",
+  "character": "校",
+  "reading": "xiào；jiào",
+  "description": "xiào：(1)学堂，专门进行教育的机构～园。～长。\n(2)军衔的一级，在将”之下，尉”之上。\n(3)古代军队编制单位～尉（统带一校的军官）。\njiào：(1)比较～场。\n(2)查对、订正～勘。～订。～对。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-校"
+}

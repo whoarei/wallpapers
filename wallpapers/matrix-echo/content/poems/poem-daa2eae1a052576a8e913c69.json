@@ -1,0 +1,16 @@
+{
+  "id": "poem-daa2eae1a052576a8e913c69",
+  "title": "菩萨蛮·画屏重叠巫阳翠",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "画屏重叠巫阳翠，楚神尚有行云意。",
+    "朝暮几般心，向他情漫深。",
+    "风流今古隔，虚作瞿塘客。",
+    "山月照山花，梦回灯影斜。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-17"
+}

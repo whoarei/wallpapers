@@ -1,0 +1,16 @@
+{
+  "id": "poem-0ae72fb9a964994a600e2287",
+  "title": "春日对雨得情字",
+  "author": "王孝廉",
+  "dynasty": "唐",
+  "verses": [
+    "主人开宴在边听，客醉如泥等上京。",
+    "疑是雨师知圣意，甘滋芳润洒羁情。",
+    "（同前。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-66c39208-e3a3-4254-9f3a-05305aa66764"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-bdfce3cfae6a70d2370539fd",
+  "title": "山坡羊",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)娘子，我病体难医难治，你这苦如何存济？(旦)原流恩降福，降福灾星退。",
+    "(生)势渐危，料应我不久矣！若还我死，你必选个高门配，我便死向黄泉，一心只念你。",
+    "(旦)休提。",
+    "不由人泪暗垂。",
+    "伤悲，何时得归故里？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3001",
+  "tags": []
+}

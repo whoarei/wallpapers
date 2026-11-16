@@ -1,0 +1,14 @@
+{
+  "id": "poem-6b67b8e9226f45bea30ea821",
+  "title": "远寺钟",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "疎钟何处来，度竹兼拂水。",
+    "渐逐微风声，依依犹在耳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-adc558c2-6360-4480-be16-abc304c00cb4"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b1e671f4e5c24dd693db3170",
+  "title": "晚秋 二",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "天涯地角一何长，雁塞龙塠万里疆。",
+    "每恨沦流经数载，更嗟缧绁泣千行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-e7d67e74-af4a-41db-896a-bcc83bb7e01f"
+}

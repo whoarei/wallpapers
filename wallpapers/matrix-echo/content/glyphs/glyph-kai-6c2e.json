@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c2e",
+  "script": "kai",
+  "character": "氮",
+  "reading": "dàn",
+  "description": "dàn：一种气体元素，无色、无臭、无味，化学性质不活泼。是植物营养的重要成分之一～肥。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-氮"
+}

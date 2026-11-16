@@ -1,0 +1,14 @@
+{
+  "id": "poem-1e114f5ba4f36c8b93933314",
+  "title": "送三藏归西天国",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "十万里程多少碛，沙中弹舌授降龙。",
+    "五天到日应头白，月落长安半夜钟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3c89f910-3c30-4728-b5d6-48b2bf980932"
+}

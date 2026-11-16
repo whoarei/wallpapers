@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6dd1",
+  "script": "kai",
+  "character": "淑",
+  "reading": "shū",
+  "description": "shū：(1)善，美（多指女性）～质（善良的品质）。～丽。～静。～慎。～德。～女。\n(2)清澈～清。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淑"
+}

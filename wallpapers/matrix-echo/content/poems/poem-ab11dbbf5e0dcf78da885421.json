@@ -1,0 +1,21 @@
+{
+  "id": "poem-ab11dbbf5e0dcf78da885421",
+  "title": "奉济驿重送严公四韵",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "远送从此别，青山空复情。",
+    "几时桮重把，昨夜月同行。",
+    "列郡讴歌惜，三朝出入荣。",
+    "江村独归处，寂寞养残生。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "送别",
+    "五言律诗",
+    "惜别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c2c83ee2-940f-4ae3-9ab3-4f509d2991f3"
+}

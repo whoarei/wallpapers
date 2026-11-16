@@ -1,0 +1,16 @@
+{
+  "id": "poem-bde2b0d2996cebd28905810e",
+  "title": "秋夜玩月怀玉霄道士",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "光异磨砻出，轮非雕斵成。",
+    "今宵刚道别，举世勿人争。",
+    "征妇砧添怨，诗人哭到明。",
+    "惟宜华顶叟，笙磬有余声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f797c58f-66fc-4824-b457-fd739470ce47"
+}

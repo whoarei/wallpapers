@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7bac",
+  "script": "seal",
+  "character": "箬",
+  "reading": "ruò",
+  "description": "ruò：(1)一种竹子，叶大而宽，可编竹笠，又可用来包棕子～竹。～笠。～帽。～席。\n(2)箬竹的叶子。\n(3)笋皮。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-箬"
+}

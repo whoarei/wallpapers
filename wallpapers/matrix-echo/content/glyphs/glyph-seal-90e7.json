@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-90e7",
+  "script": "seal",
+  "character": "郧",
+  "reading": "yún",
+  "description": "古国名\n在今湖北什陆县。春秋时为楚所灭\n古地名\n春秋卫地。故城在今江苏省如皋县\n春秋吴地,在今江苏省如皋县东\n郧yún郧县，在湖北省。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-郧"
+}

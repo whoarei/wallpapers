@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bc1",
+  "script": "seal",
+  "character": "证",
+  "reading": "zhèng",
+  "description": "谏正\n通症”。病症\n假借为徵”。今亦用为譪验字。证据\n⒈以人物、事实来表明或断定～人。～物。～明。～实。～几何题。\n⒉凭据，帮助断定的东西～据。物～。居民身份～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-证"
+}

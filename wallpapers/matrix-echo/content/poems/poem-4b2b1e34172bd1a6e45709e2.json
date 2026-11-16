@@ -1,0 +1,14 @@
+{
+  "id": "poem-4b2b1e34172bd1a6e45709e2",
+  "title": "题山院",
+  "author": "权审",
+  "dynasty": "唐",
+  "verses": [
+    "万叶风声利，一山秋气寒。",
+    "晓霜浮碧瓦，落日度朱栏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3c64bb3c-68fd-4dc0-8830-3c319892b3a2"
+}

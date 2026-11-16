@@ -1,0 +1,16 @@
+{
+  "id": "poem-a0b067562d95e7ad042a03b9",
+  "title": "赠陶山人",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "处士例营营，惟君纵此生。",
+    "闲能资寿考，健不换公卿。",
+    "药圃妻同耨，山田子共耕。",
+    "定知丹熟后，无姓亦无名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-d145d16f-5c47-40d0-9b2e-a8ad34ef40e9"
+}

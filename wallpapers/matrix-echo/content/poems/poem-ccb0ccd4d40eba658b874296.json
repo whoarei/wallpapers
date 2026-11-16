@@ -1,0 +1,14 @@
+{
+  "id": "poem-ccb0ccd4d40eba658b874296",
+  "title": "惜花",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "山中春已晚，处处见花稀。",
+    "明日来应尽，林间宿不归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-1aee5e51-52a5-4f6d-9271-a95b47d1db12"
+}

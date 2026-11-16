@@ -1,0 +1,19 @@
+{
+  "id": "poem-6da1a88737fdc0faf2ea4cee",
+  "title": "清明日宴梅道士房",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "林卧愁春尽，开轩览物华。",
+    "忽逢青鸟使，邀入赤松家。",
+    "丹灶初开火，仙桃正落花。",
+    "童颜若可驻，何惜醉流霞。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-d2b5090e-e6fe-4d4f-9dd6-fe94ff6d4b5c"
+}

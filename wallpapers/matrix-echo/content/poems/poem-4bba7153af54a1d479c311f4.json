@@ -1,0 +1,18 @@
+{
+  "id": "poem-4bba7153af54a1d479c311f4",
+  "title": "望江南・忆江南·新月出",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "新月出，清影尚苍茫。",
+    "学扇欲生青海上，如钩先挂碧霄傍。",
+    "星斗焕文章。",
+    "林下客，把酒挹孤光。",
+    "斟酌嫦娥怜我老，故窥书幌照人床。",
+    "此意自难忘。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-566",
+  "tags": []
+}

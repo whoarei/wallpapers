@@ -1,0 +1,14 @@
+{
+  "id": "poem-c8c4272310a5dde5f4ad46f1",
+  "title": "诗三首  其二",
+  "author": "释遇贤",
+  "dynasty": "宋",
+  "verses": [
+    "心闲增道气，忍事敌灾屯。",
+    "谨言终少祸，节俭胜求人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-cebea315-5618-405d-86ee-5a294fb18f81"
+}

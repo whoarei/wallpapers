@@ -1,0 +1,18 @@
+{
+  "id": "poem-b52c7850b17acedc7616b64c",
+  "title": "读东坡和渊明贫士诗寄诸子姪云重九俯迩樽俎萧然今余亦有此叹因次其韵将录寄梁谿诸弟以发数千里一笑  其六",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "自我去廊庙，远举如飞蓬。",
+    "徇道敢怀禄，谋身殊未工。",
+    "空余耿耿心，不惭楚两龚。",
+    "幸然诸季贤，意气与我同。",
+    "何当恩听归，兵息道路通。",
+    "却寻惠山路，杖策得相从。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-0c21e355-9b21-4884-b278-cdf2066f0a17"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bca",
+  "script": "seal",
+  "character": "诊",
+  "reading": "zhěn",
+  "description": "医生为断定疾症而察看病人身体内部、外部的情况门～。～断。～室。～脉。\n察看，验证匠石觉而～其梦”。\n诊zhěn看病，检查病人就～。～病。～断。随到随～。巡廻～治。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诊"
+}

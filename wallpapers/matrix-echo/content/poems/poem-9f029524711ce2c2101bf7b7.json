@@ -1,0 +1,16 @@
+{
+  "id": "poem-9f029524711ce2c2101bf7b7",
+  "title": "从军行五首 四",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "飞将下天来，奇谋阃外裁。",
+    "水心龙劒动，地肺鴈山开。",
+    "望气燕师锐，当锋虏阵摧。",
+    "从今射雕骑，不敢过云堆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-37cec46c-16fe-40f9-8610-845d552c562f"
+}

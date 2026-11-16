@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65a1",
+  "script": "seal",
+  "character": "斡",
+  "reading": "wò；guǎn",
+  "description": "wò：转，旋～流。～运。～旋（调解，把弄僵了的局面扭转过来）。\nguǎn：古同管”，主管，掌管。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-斡"
+}

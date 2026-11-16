@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-830f",
+  "script": "seal",
+  "character": "茏",
+  "reading": "lóng",
+  "description": "形容草木青翠茂盛。也作葱茏”\n茏葱\n茏lǒng 1.见\"笼茸\"﹑\"笼苁\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茏"
+}

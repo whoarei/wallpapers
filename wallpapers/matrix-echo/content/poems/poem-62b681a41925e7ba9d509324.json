@@ -1,0 +1,14 @@
+{
+  "id": "poem-62b681a41925e7ba9d509324",
+  "title": "荷叶杯·一点露珠凝冷",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "一点露珠凝冷，波影。满池塘。",
+    "绿茎红艳两相乱，肠断。水风凉。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-13",
+  "tags": []
+}

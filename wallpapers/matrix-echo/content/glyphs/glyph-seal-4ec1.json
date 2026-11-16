@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ec1",
+  "script": "seal",
+  "character": "仁",
+  "reading": "rén",
+  "description": "rén：(1)一种道德范畴，指人与人相互友爱、互助、同情等～义（ａ．仁爱与正义；ｂ．通情达理，性格温顺，能为别人着想）。～爱。～政。～人志士（仁爱有节操的人）。～义礼智（儒家的伦理思想）。～至义尽。一视同～（同样看待，不分厚薄）。\n(2)果核的最内部分或其他硬壳中可以吃的部分核桃～儿。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-仁"
+}

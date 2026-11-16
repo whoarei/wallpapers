@@ -1,0 +1,16 @@
+{
+  "id": "poem-e9c22e9fbc4485216ff57744",
+  "title": "过多福寺次王龟龄壁间韵",
+  "author": "熊应亨",
+  "dynasty": "宋",
+  "verses": [
+    "七尺枯藤手自摩，闲过僧寺坐横坡。",
+    "花开曲径霜前密，云压层城雨后多。",
+    "田舍竹林分鹫岭，山城芦水漾鱼波。",
+    "禅床处处堆黄叶，独剩寒松不改柯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-a573dc2d-c0c1-4bad-ae8c-d8704382107e"
+}

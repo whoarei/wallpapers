@@ -1,0 +1,16 @@
+{
+  "id": "poem-40b366c0721c9847bcafaaf7",
+  "title": "拜丰陵",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "岁朝园寝遣公卿，学省班中亦摄行。",
+    "身逐陵官齐再拜，手持木铎叩三声。",
+    "寒更报点来山殿，晓炬分行照栢城。",
+    "却下龙门看渐远，金峰高处日微明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-3fee945e-5d15-48c3-9ca1-4115f9ee27cd"
+}

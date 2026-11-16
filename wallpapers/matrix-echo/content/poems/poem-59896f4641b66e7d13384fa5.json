@@ -1,0 +1,16 @@
+{
+  "id": "poem-59896f4641b66e7d13384fa5",
+  "title": "延平门高斋亭子应岐王教",
+  "author": "张谔",
+  "dynasty": "唐",
+  "verses": [
+    "花源药屿凤城西，翠幕纱窗莺乱啼。",
+    "昨夜蒲萄初上架，今朝杨柳半垂堤。",
+    "片片仙云来渡水，双双燕子共衔泥。",
+    "请语东风催后骑，倂将歌舞向前谿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-c869f274-e9ed-452a-b3b6-fa246a95be0d"
+}

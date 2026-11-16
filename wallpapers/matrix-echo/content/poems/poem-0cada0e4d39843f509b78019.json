@@ -1,0 +1,14 @@
+{
+  "id": "poem-0cada0e4d39843f509b78019",
+  "title": "郊庙歌辞 武后大享昊天乐章 七",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "樽浮九酝，礼备三周。",
+    "陈诚菲奠，契福神猷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-48d76427-8d1c-425a-9425-e4d4a8751f74"
+}

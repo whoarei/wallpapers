@@ -1,0 +1,19 @@
+{
+  "id": "poem-e9cae989d138a8635bf25f11",
+  "title": "丽春",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "百草竞春华，丽春应最胜。",
+    "少须好颜色，多漫枝条賸。",
+    "纷纷桃李枝，处处总能移。",
+    "如何贵此重，却怕有人知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "花草",
+    "春天"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-ccea1790-b4a4-422a-b1f0-2cd37caad120"
+}

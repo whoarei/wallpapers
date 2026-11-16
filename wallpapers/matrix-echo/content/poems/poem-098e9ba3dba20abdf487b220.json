@@ -1,0 +1,15 @@
+{
+  "id": "poem-098e9ba3dba20abdf487b220",
+  "title": "麻婆子",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "对景对景空题恨，赢得闷上心。",
+    "止愁止愁青春过，年华暗逐人。",
+    "殷勤回首问东君：桃花开谢逢春，怕奴容颜老，何时遇个人？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8574",
+  "tags": []
+}

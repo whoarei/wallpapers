@@ -1,0 +1,14 @@
+{
+  "id": "poem-d24112c6df085cdd4d19abfd",
+  "title": "浣溪沙·寂寞流苏冷绣茵",
+  "author": "阎选",
+  "dynasty": "五代",
+  "verses": [
+    "寂寞流苏冷绣茵，倚屏山枕惹香尘，小庭花露泣浓香。",
+    "刘阮信非仙洞客，嫦娥终是月中人，此生无路访东邻。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-23"
+}

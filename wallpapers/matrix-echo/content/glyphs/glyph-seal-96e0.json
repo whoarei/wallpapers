@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-96e0",
+  "script": "seal",
+  "character": "雠",
+  "reading": "chóu",
+  "description": "校对文字\n同仇”。仇恨;仇怨\n同仇”。\n①同'仇'，\n②校对文字校～。\n⒈校对～校。～正。\n⒉应答。〈引〉应验不～。\n⒊售，卖出去酒～数倍。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-雠"
+}

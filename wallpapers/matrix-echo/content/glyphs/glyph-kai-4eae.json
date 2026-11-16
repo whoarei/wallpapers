@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4eae",
+  "script": "kai",
+  "character": "亮",
+  "reading": "liàng",
+  "description": "liàng：(1)明，有光天～了，敞～。明～。豁～。～光。～度。\n(2)光线屋子里一点～儿也没有。\n(3)明摆出来，显露，显示～相。\n(4)明朗，清楚心里～了。\n(5)声音响洪～。响～。\n(6)使声音响～开嗓子唱。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-亮"
+}

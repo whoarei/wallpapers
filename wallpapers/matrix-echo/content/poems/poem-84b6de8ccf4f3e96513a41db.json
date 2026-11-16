@@ -1,0 +1,15 @@
+{
+  "id": "poem-84b6de8ccf4f3e96513a41db",
+  "title": "送禅师宗极归玉峰",
+  "author": "栖白",
+  "dynasty": "唐",
+  "verses": [
+    "背郭去归宿，头陀意颇浓。",
+    "鹤争栖远树，猨鬬上孤峰。",
+    "夜戍经霜月，秋城过雨钟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-38171e7f-158a-43d6-bf6e-be26927a569b"
+}

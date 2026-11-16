@@ -1,0 +1,14 @@
+{
+  "id": "poem-f6f782c83cbd9de78938ea54",
+  "title": "颂古三十一首  其九",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "幸然无事鼓风涛，激起洪波万丈高。",
+    "直得浑家都浸杀，至今平地浪滔滔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-445f4225-6d06-41c6-9e96-53495ec33aa0"
+}

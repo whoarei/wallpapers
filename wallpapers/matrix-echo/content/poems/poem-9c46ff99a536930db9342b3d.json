@@ -1,0 +1,14 @@
+{
+  "id": "poem-9c46ff99a536930db9342b3d",
+  "title": "颂古三十一首  其一二",
+  "author": "释安永",
+  "dynasty": "宋",
+  "verses": [
+    "臭口未开经万劫，丝毫才犯铁轮随。",
+    "雨散云收明月夜，反动江波说向谁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-076ebda6-07ff-4e6a-9b15-f501b11cb03f"
+}

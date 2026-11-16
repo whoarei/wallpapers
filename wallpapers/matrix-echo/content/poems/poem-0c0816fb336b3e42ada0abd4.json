@@ -1,0 +1,16 @@
+{
+  "id": "poem-0c0816fb336b3e42ada0abd4",
+  "title": "宿龙兴寺",
+  "author": "綦毋潜",
+  "dynasty": "唐",
+  "verses": [
+    "香刹夜忘归，松清古殿扉。",
+    "灯明方丈室，珠系比丘衣。",
+    "白日传心净，青莲喻法微。",
+    "天花落不尽，处处鸟衔飞。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-宿龍興寺"
+}

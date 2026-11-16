@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9aa7",
+  "script": "seal",
+  "character": "骧",
+  "reading": "xiāng",
+  "description": "腾跃;昂首奔驰\n仰;上举\n后右足白的马\n泛指马\n⒈马抬起头快跑。\n⒉上举，高举。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骧"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ce3aab8d64a8ff95a8b150c0",
+  "title": "河传·锦浦",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "锦浦，春女，绣衣金缕。",
+    "雾薄云轻，花深柳暗，时节正是清明，雨初晴。",
+    "玉鞭魂断烟霞路，莺莺语，一望巫山雨。",
+    "香尘隐映，遥见翠槛红楼，黛眉愁。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-6"
+}

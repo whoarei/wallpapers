@@ -1,0 +1,19 @@
+{
+  "id": "poem-da4457733d1fbad9694afae5",
+  "title": "点绛唇·春遇瑶池",
+  "author": "仲殊",
+  "dynasty": "宋",
+  "verses": [
+    "春遇瑶池，长空飞下残英片。",
+    "素光围练。",
+    "寒透笙歌院。",
+    "莫把寿阳，妆信传书箭。",
+    "掩香面。",
+    "汉宫寻遍。",
+    "月里还相见。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-880",
+  "tags": []
+}

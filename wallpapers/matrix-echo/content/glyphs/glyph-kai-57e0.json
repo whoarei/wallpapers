@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-57e0",
+  "script": "kai",
+  "character": "埠",
+  "reading": "bù",
+  "description": "bù：(1)停船的码头，靠近水的地方（古亦作步”）～头。本～。外～。船～。\n(2)旧与外国通商的城市开～。商～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-埠"
+}

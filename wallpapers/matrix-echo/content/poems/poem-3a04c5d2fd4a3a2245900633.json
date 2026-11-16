@@ -1,0 +1,14 @@
+{
+  "id": "poem-3a04c5d2fd4a3a2245900633",
+  "title": "元祐己巳岁维扬后斋为亳州使君蒋公写二首  其二",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "小疾翻令吏日闲，明窗尽展古书看。",
+    "何须新句能消暑，满腹风云六月寒。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-f7c037a4-e2a6-4c5f-83c0-b3a04cc781b4"
+}

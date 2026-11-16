@@ -1,0 +1,14 @@
+{
+  "id": "poem-2999129309e7c173604f62a7",
+  "title": "初夏戏题",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "长养薰风拂晓吹，渐开荷芰落蔷薇。",
+    "青虫也学庄周梦，化作南园蛱蝶飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-40b0453a-1856-4853-a9ca-618f7b951f97"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-4047adad2393f813e55dc504",
+  "title": "虹县旧题二首  其二",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "碧榆绿柳旧游中，华发苍颜未退翁。",
+    "天使残年司笔砚，圣知小学是家风。",
+    "长安又到人徒老，吾道何时定复东。",
+    "题柱扁舟真老矣，竟无事业奏肤公。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-b19879f9-2434-4711-a70c-4baf3de2ccf9"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6caa",
+  "script": "kai",
+  "character": "沪",
+  "reading": "hù",
+  "description": "捕鱼的竹栅\n上海的简称\n⒈上海的简称。因境内的吴松江下流古称\"沪渎\"而得名。\n⒉捕鱼的竹栅。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沪"
+}

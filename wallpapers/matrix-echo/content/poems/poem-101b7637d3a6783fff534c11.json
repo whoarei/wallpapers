@@ -1,0 +1,25 @@
+{
+  "id": "poem-101b7637d3a6783fff534c11",
+  "title": "崇义里滞雨",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "落莫谁家子，来感长安秋。",
+    "壮年抱羁恨，梦泣生白头。",
+    "瘦马秣败草，雨沫飘寒沟。",
+    "南宫古帘暗，湿景传签筹。",
+    "家山远千里，云脚天东头。",
+    "忧眠枕劒匣，客帐梦封侯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "写雨",
+    "秋天",
+    "抒怀",
+    "雨",
+    "怀才不遇",
+    "愤懑"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-840a294d-06b8-45a1-9751-fa3e97c881ee"
+}

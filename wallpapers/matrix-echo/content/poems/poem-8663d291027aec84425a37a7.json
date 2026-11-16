@@ -1,0 +1,16 @@
+{
+  "id": "poem-8663d291027aec84425a37a7",
+  "title": "崇阳道中作四首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "我行江南春，初见农事作。",
+    "及兹旅湖外，秋稻半已获。",
+    "隔林闻晚舂，藁秸积篱落。",
+    "童稚亦熙熙，田家有余乐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-486e3aa6-03cb-4921-aecc-37767b58ec24"
+}

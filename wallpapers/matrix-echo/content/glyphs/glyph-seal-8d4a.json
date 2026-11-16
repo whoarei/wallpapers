@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d4a",
+  "script": "seal",
+  "character": "赊",
+  "reading": "shē",
+  "description": "买货延期交款\n段注贳买者,在彼为贳,在我则为赊也。”\n卖物延期收款\n⒈买卖货物时欠着或延期付款～欠。～买。～销。\n⒉松，缓带～。\n⒊长，远蜀道～。\n⒋〈古〉通\"奢\"。奢侈。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赊"
+}

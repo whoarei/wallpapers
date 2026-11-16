@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7c89",
+  "script": "kai",
+  "character": "粉",
+  "reading": "fěn",
+  "description": "fěn：(1)细末儿～末。～剂。～尘。米～。花～。药～。漂白～。\n(2)特指化装用的粉末香～。～墨登场。～黛。扑～。～霜。\n(3)用涂料抹刷～刷。～饰。\n(4)使破碎，成为粉末～碎。～身碎骨。\n(5)白色的或带粉末的～墙。～蝶。～连纸。～笔。\n(6)用豆粉或别的粉做成的食品～丝。凉～。～皮。～芡（qiàn）。米～肉。\n(7)浅红色～色。～花。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-粉"
+}

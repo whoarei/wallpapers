@@ -1,0 +1,16 @@
+{
+  "id": "poem-5df708e71cc99b66eb2cc36d",
+  "title": "至七里滩作",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "迁客投于越，临江泪满衣。",
+    "独随流水远，转觉故人稀。",
+    "万木迎秋序，千峰驻晚晖。",
+    "行舟犹未已，惆怅暮潮归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-90852836-e7f5-4e1f-87d7-5961625496ad"
+}

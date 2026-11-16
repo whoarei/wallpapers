@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e23c0941698006adec624db",
+  "title": "将之苕溪戏作呈诸友  其一",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "松竹留因夏，溪山去为秋。",
+    "久赓白雪咏，更度采菱讴。",
+    "缕玉鲈堆案，团金橘满洲。",
+    "水宫无限景，载与谢公游。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-cfd6ac95-5c23-45d0-9f4a-790a037d1521"
+}

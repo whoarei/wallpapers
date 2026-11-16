@@ -1,0 +1,16 @@
+{
+  "id": "poem-b5ae25c0ae80309589b113d3",
+  "title": "赠窦十九",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "灵台暮宿意多违，木落花开羡客归。",
+    "江海几时传锦字，风尘不觉化缁衣。",
+    "山阳会里同人少，灞曲农时故老稀。",
+    "幸得汉皇容直谏，怜君未遇觉人非。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-b311196f-b1ae-4df5-8ee5-7e1af438478a"
+}

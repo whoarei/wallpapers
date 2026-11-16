@@ -1,0 +1,14 @@
+{
+  "id": "poem-b31f2859da727d376be17ce8",
+  "title": "逢侠者",
+  "author": "钱起",
+  "dynasty": "唐",
+  "verses": [
+    "燕赵悲歌士，相逢剧孟家。",
+    "寸心言不尽，前路日将斜。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-逢俠者"
+}

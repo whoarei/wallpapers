@@ -1,0 +1,14 @@
+{
+  "id": "poem-38ab95a47faa09dff5595949",
+  "title": "渝州逢故人（「渝州」，原作「滁州」，从原卷改。）",
+  "author": "胡皓",
+  "dynasty": "唐",
+  "verses": [
+    "共是他乡客，俱为失路人。",
+    "自怜蓬髪改，不掩柳条春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-b6814928-84c3-43d0-8c00-e0373f7371e7"
+}

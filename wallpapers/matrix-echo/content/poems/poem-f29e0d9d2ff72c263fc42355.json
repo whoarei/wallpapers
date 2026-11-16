@@ -1,0 +1,14 @@
+{
+  "id": "poem-f29e0d9d2ff72c263fc42355",
+  "title": "宿巾子山禅寺",
+  "author": "任翻",
+  "dynasty": "唐",
+  "verses": [
+    "绝顶新秋生夜凉，鹤翻松露滴衣裳。",
+    "前峰月映半江水，僧在翠微开竹房。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-25748fc8-5511-4aa3-b7b2-ee7c7b8af56d"
+}

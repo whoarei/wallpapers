@@ -1,0 +1,16 @@
+{
+  "id": "poem-e045e2e94946bacd5565bcab",
+  "title": "巴中逢故人",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "劳思空积岁，偶会更无由。",
+    "以分难相舍，将行且暂留。",
+    "路歧何处极，江峡半猨愁。",
+    "到此分南北，离怀岂易收。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-299e6f45-a91e-4790-ad6c-5472640d6f40"
+}

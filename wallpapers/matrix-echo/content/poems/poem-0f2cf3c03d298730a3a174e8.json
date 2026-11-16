@@ -1,0 +1,16 @@
+{
+  "id": "poem-0f2cf3c03d298730a3a174e8",
+  "title": "山居诗  其二○",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "自甘疏拙懒经营，大道从来戒满盈。",
+    "但起贪心迷有限，谁能触目悟无生。",
+    "云融远景危峰小，风戛寒溪野艇横。",
+    "禅后不妨敷六义，祇图歌出野人情。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-f7cc3ee3-c738-4b7c-bf1a-4f083441742e"
+}

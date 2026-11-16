@@ -1,0 +1,16 @@
+{
+  "id": "poem-3f52b0e25c24079b6cd9b420",
+  "title": "梯飚",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "凉腋拊岧嶤，可扪丛玉霄。",
+    "一层高步武，千仞拔尘嚣。",
+    "明月秦箫断，雕盘古篆消。",
+    "天浆几时熟，款曲试芳瓢。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-edb8760e-64e6-4a4c-b1d5-e4e07749beba"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-55fe",
+  "script": "seal",
+  "character": "嗾",
+  "reading": "sǒu",
+  "description": "sǒu：指使狗的声音。\n〔～使〕教唆、指使别人做坏事。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嗾"
+}

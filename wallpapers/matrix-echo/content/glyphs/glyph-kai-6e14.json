@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6e14",
+  "script": "kai",
+  "character": "渔",
+  "reading": "yú",
+  "description": "掠夺\n①捕鱼。\n②捕鱼的人。\n③侵占，掠夺。\n④泛指寻觅。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-渔"
+}

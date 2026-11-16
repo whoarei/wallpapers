@@ -1,0 +1,17 @@
+{
+  "id": "poem-b444e09fdd413a32fdbead79",
+  "title": "横吹曲辞 出塞",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "金带连环束战袍，马头冲雪度临洮。",
+    "卷旗夜劫单于帐，乱斫胡兵缺宝刀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "战争",
+    "边塞"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-b2898783-b22c-4ded-b6c0-492b879a3b2d"
+}

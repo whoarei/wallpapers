@@ -1,0 +1,16 @@
+{
+  "id": "poem-897d2c30b2398dd32ecefd84",
+  "title": "送萧颖士赴东府得往字",
+  "author": "郑愕",
+  "dynasty": "唐",
+  "verses": [
+    "斤溪数亩田，素心拟长往。",
+    "繄君曲得引，使我缨俗网。",
+    "风尘岂不劳，道义成心赏。",
+    "春郊桃李月，忍此戒征两。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-aba90e40-6a95-49eb-9432-5ef7e17a3ee8"
+}

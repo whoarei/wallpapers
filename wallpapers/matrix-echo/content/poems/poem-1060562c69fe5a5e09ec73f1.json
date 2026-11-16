@@ -1,0 +1,16 @@
+{
+  "id": "poem-1060562c69fe5a5e09ec73f1",
+  "title": "偈颂（幷序○序为南岳齐己撰） 二十二",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "拟学论情实苦哉，疑心不断妄难摧。",
+    "未了携囊须且去，得闲无事却肯伊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-004a2f19-0437-4d4f-ad42-0fd032d98f6c"
+}

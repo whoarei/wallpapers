@@ -1,0 +1,14 @@
+{
+  "id": "poem-247de3c188307a4c1738ffdc",
+  "title": "览镜",
+  "author": "李崇嗣",
+  "dynasty": "唐",
+  "verses": [
+    "岁去红颜尽，愁来白发新。",
+    "今朝开镜匣，疑是别逢人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-8badfc5b-9cd3-42c7-a477-debbac0fa971"
+}

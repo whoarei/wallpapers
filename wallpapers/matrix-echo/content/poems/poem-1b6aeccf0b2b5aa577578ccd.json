@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b6aeccf0b2b5aa577578ccd",
+  "title": "送张学士赴西川",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "右蜀分忧辍近臣，翩翩旄节下青冥。",
+    "单车唯载支机石，夙驾长先使者星。",
+    "已有清风驰栈道，犹酣别酒过长亭。",
+    "佗年报政征黄入，留取文翁旧典刑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-965dc12f-7efc-4c54-a314-28c052fc0843"
+}

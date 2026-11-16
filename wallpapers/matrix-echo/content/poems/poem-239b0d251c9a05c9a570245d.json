@@ -1,0 +1,18 @@
+{
+  "id": "poem-239b0d251c9a05c9a570245d",
+  "title": "春光好·胭脂腻",
+  "author": "曾觌",
+  "dynasty": "宋",
+  "verses": [
+    "胭脂腻，粉光轻。",
+    "正新晴。",
+    "枝上闹红无处著，近清明。",
+    "仙娥进酒多情。",
+    "向花下、相闹盈盈。",
+    "不惜十分倾玉斝，惜凋零。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-352",
+  "tags": []
+}

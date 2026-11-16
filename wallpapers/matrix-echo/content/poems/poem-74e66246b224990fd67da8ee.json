@@ -1,0 +1,15 @@
+{
+  "id": "poem-74e66246b224990fd67da8ee",
+  "title": "河南府试十二月乐词 六月",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "裁生罗，伐湘竹。",
+    "帔拂疎霜簟秋玉，炎炎红镜东方开。",
+    "晕如车轮上裴回，啾啾赤帝骑龙来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-94a3e3ca-a454-4c8d-a7ac-db2972824153"
+}

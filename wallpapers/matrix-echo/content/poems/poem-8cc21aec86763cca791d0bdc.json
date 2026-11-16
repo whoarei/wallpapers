@@ -1,0 +1,13 @@
+{
+  "id": "poem-8cc21aec86763cca791d0bdc",
+  "title": "句  其一",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "一夜黄星照官渡，本初何面见田丰。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-b56ea48b-10b8-44c9-9d35-a05cc2bc0cbe"
+}

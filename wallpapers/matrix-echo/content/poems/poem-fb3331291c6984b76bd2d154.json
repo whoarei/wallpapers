@@ -1,0 +1,14 @@
+{
+  "id": "poem-fb3331291c6984b76bd2d154",
+  "title": "蜀葵",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "片片川罗湿露凉，染红才了染鹅黄。",
+    "花根疑是忠臣骨，开出倾心向太阳。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-1cdc32c0-a92f-44ac-a9dd-ec0def31f492"
+}

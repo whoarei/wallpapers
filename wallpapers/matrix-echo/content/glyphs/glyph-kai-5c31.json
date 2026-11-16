@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c31",
+  "script": "kai",
+  "character": "就",
+  "reading": "jiù",
+  "description": "jiù：(1)凑近，靠近避难～易。～着灯看书。\n(2)到，从事，开始进入～位。～业。～寝。～任。～绪。～医。高～。\n(3)依照现有情况或趁着当前的便利，顺便～近。～便。～事论事。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-就"
+}

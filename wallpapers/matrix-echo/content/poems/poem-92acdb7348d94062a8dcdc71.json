@@ -1,0 +1,20 @@
+{
+  "id": "poem-92acdb7348d94062a8dcdc71",
+  "title": "渔翁",
+  "author": "柳宗元",
+  "dynasty": "唐",
+  "verses": [
+    "渔翁夜傍西岩宿，晓汲清湘燃楚竹。",
+    "烟销日出不见人，[欸]乃一声山水绿。",
+    "回看天际下中流，岩上无心云相逐。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写人",
+    "七言古诗",
+    "山水"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-51b1aeeb-9a66-412d-b15c-4afaa6c6b1d7"
+}

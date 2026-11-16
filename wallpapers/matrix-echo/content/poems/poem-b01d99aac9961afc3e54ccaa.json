@@ -1,0 +1,15 @@
+{
+  "id": "poem-b01d99aac9961afc3e54ccaa",
+  "title": "后苦寒行二首 二",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "晚来江门失大木，猛风中夜吹白屋。",
+    "天兵斩断青海戎，杀气南行动地轴，不尔苦寒何太酷。",
+    "巴东之峡生凌澌，彼苍回轩人得知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-ad408522-3d66-49f7-be14-8ca7a8d29301"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-00b7a876e622c8fc598c8d98",
+  "title": "越恁好",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)自上长安道，自上长安道，步蟾宫，挂紫袍。",
+    "为不就万俟丞相宠招，不从赘配多娇。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8355",
+  "tags": []
+}

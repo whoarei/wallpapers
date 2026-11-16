@@ -1,0 +1,16 @@
+{
+  "id": "poem-eb844076dd666782efa09f65",
+  "title": "更漏子 其五",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "背江楼，临海月，城上角声呜咽。",
+    "堤柳动，岛烟昏，两行征雁分。",
+    "京口路，归帆渡，正是芳菲欲度。",
+    "银烛尽，玉绳低，一声村落鸡。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-18",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-36f2805fcd5d9d8ce88cd891",
+  "title": "送河西从事",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "结束佐戎旃，河西住几年。",
+    "陇头随日去，碛里寄星眠。",
+    "水近沙连帐，程遥马入天。",
+    "圣朝思上策，重待奏安边。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-0879d94f-3cc1-4458-8bcf-3b5d2206cb08"
+}

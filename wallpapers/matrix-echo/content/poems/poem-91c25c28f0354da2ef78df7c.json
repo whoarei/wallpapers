@@ -1,0 +1,15 @@
+{
+  "id": "poem-91c25c28f0354da2ef78df7c",
+  "title": "薄命女·天欲晓",
+  "author": "和凝",
+  "dynasty": "五代",
+  "verses": [
+    "天欲晓，宫漏穿花声缭绕。",
+    "窗里星光少，冷霞寒侵帐额，残月光沉树杪。",
+    "梦断锦帷空悄悄，强起愁眉小。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-22"
+}

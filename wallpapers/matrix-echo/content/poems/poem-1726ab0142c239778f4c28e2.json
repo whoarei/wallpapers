@@ -1,0 +1,16 @@
+{
+  "id": "poem-1726ab0142c239778f4c28e2",
+  "title": "玉楼春·晚妆初了明肌雪",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "晚妆初了明肌雪，春殿嫔娥鱼贯列。",
+    "笙箫吹断水云间，重按霓裳歌遍彻。",
+    "临春谁更飘香屑？醉拍栏杆情味切。",
+    "归时休放烛光红，待踏马啼清夜月。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-28"
+}

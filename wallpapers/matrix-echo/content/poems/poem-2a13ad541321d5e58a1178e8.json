@@ -1,0 +1,16 @@
+{
+  "id": "poem-2a13ad541321d5e58a1178e8",
+  "title": "长安疾后首秋夜即事",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "九重深锁禁城秋，月过南宫渐映楼。",
+    "紫陌夜深槐露滴，碧空云尽火星流。",
+    "清风刻漏传三殿，甲第歌钟乐五侯。",
+    "楚客病来乡思苦，寂寥灯下不胜愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-87b6f483-98c5-4ec5-a715-87e36110e96b"
+}

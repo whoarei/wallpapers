@@ -1,0 +1,14 @@
+{
+  "id": "poem-d628c0ddce85d48aefa23b42",
+  "title": "金焦叶",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "奈何？奈何？恨苍天把人耽误。",
+    "自恨时乖运苦，怎禁这般折挫？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8806",
+  "tags": []
+}

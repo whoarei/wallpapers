@@ -1,0 +1,16 @@
+{
+  "id": "poem-106c889ff7525ca29e6848c3",
+  "title": "鼓吹曲辞 巫山高",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "巫山十二峰，皆在碧虚中。",
+    "回合云藏日，霏微雨带风。",
+    "猨声寒过水，树色暮连空。",
+    "愁向高唐望，清秋见楚宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-a5a4b9de-6628-40ce-8e63-6e433f69997d"
+}

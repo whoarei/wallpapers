@@ -1,0 +1,17 @@
+{
+  "id": "poem-d1a21a56d002d1d4e535ff4e",
+  "title": "高阳台",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "宦海沉身，京尘迷目，名缰利锁难脱。",
+    "目断家乡，空劳魂梦飞越。",
+    "闲聒，闲藤野蔓休缠也，俺自有正兔丝和那的亲瓜葛。",
+    "是谁人，无端调引，谩劳饶舌。",
+    "(末唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5007",
+  "tags": []
+}

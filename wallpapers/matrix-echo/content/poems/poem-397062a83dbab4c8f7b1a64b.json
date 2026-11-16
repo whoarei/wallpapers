@@ -1,0 +1,14 @@
+{
+  "id": "poem-397062a83dbab4c8f7b1a64b",
+  "title": "浣溪沙·花月香寒悄夜尘",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "花月香寒悄夜尘，绮筵幽会暗伤神，婵娟依约画屏人。",
+    "人不见时还暂语，令才抛后爱微颦，越罗巴锦不胜春。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-33"
+}

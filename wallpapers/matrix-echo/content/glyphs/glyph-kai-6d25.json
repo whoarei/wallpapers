@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6d25",
+  "script": "kai",
+  "character": "津",
+  "reading": "jīn",
+  "description": "jīn：(1)渡水的地方～渡。关～。～要。问～。\n(2)口液，唾液～液。～～有味。\n(3)汗遍体生～。\n(4)滋润，补～润。～贴。\n(5)中国天津市的简称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-津"
+}

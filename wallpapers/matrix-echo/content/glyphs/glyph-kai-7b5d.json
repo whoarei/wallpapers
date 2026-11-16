@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7b5d",
+  "script": "kai",
+  "character": "筝",
+  "reading": "zhēng",
+  "description": "zhēng：弦乐器，木制长形。古代十三或十六根弦，现为二十五根弦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-筝"
+}

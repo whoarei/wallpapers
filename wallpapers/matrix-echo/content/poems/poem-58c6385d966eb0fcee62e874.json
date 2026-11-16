@@ -1,0 +1,16 @@
+{
+  "id": "poem-58c6385d966eb0fcee62e874",
+  "title": "句 一",
+  "author": "高骈",
+  "dynasty": "唐",
+  "verses": [
+    "手栽桃李十余春，今日经过重建勋。",
+    "（《经虢县》。",
+    "见崔致远《桂苑笔耕集》卷十七《磻溪》诗自注引高骈句。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-54f295e5-7eed-4deb-8f79-e3b77d9f4795"
+}

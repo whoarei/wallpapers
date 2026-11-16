@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8273",
+  "script": "kai",
+  "character": "艳",
+  "reading": "yàn",
+  "description": "文辞华丽\n⒈长得漂亮美而～。\n⒉色彩鲜明，文辞华美～丽。鲜～。百花争～。信言不～。\n⒊喜爱，羡慕～羡。\n⒋指爱情方面的事～史。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-艳"
+}

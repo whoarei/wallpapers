@@ -1,0 +1,16 @@
+{
+  "id": "poem-63d8c0120c6fa81e77f1cad1",
+  "title": "郊庙歌辞 五郊乐章 赤帝徵音",
+  "author": "魏征",
+  "dynasty": "唐",
+  "verses": [
+    "青阳告谢，朱明戒序。",
+    "延长是祈，敬陈椒醑。",
+    "博硕斯荐，笙镛备举。",
+    "庶尽肃恭，非馨稷黍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-17fef454-d5fd-45a0-97d8-318fb7d4bcce"
+}

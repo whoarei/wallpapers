@@ -1,0 +1,14 @@
+{
+  "id": "poem-1d4410ac17c55b41cfe52b96",
+  "title": "小游仙诗九十八首 二十六",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "偷来洞口访刘君，缓步轻擡玉线裙。",
+    "细擘桃花逐流水，更无言语倚彤云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-f138f395-d02f-423f-a9a8-f009e4dac3c5"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-12cd5e368387cfc909f7dd5f",
+  "title": "偈颂 七",
+  "author": "文偃",
+  "dynasty": "唐",
+  "verses": [
+    "玩古松高云不齐，鸿鸧鹤抱几年栖。",
+    "剖㲉同时殊有异，羽张腾汉碧霄低。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-0afb8d28-8b6c-4362-a50f-cf215959d7ac"
+}

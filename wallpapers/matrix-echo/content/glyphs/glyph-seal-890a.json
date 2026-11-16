@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-890a",
+  "script": "seal",
+  "character": "褊",
+  "reading": "biǎn",
+  "description": "biǎn：(1)衣服狭小。\n(2)狭小，狭隘～小。～急。～狭（狭小，如土地～～”，气量～～”）。～窄。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-褊"
+}

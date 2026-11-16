@@ -1,0 +1,22 @@
+{
+  "id": "poem-6f5192c93a6a0590a4daec08",
+  "title": "长沙过贾谊宅",
+  "author": "刘长卿",
+  "dynasty": "唐",
+  "verses": [
+    "三年谪宦此栖迟，万古惟留楚客悲。",
+    "秋草独寻人去后，寒林空见日斜时。",
+    "汉文有道恩犹薄，湘水无情吊岂知。",
+    "寂寂江山摇落处，怜君何事到天涯。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "迁谪",
+    "生活",
+    "怀古",
+    "七言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-8cefa67f-2b9a-4e13-8158-4d38cbfb331b"
+}

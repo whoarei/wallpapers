@@ -1,0 +1,19 @@
+{
+  "id": "poem-aa63b91347857b9df8b8ed4d",
+  "title": "巫山一段云·萧氏贤夫妇",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "萧氏贤夫妇，茅家好弟兄。",
+    "羽轮飙驾赴层城。",
+    "高会尽仙卿。",
+    "一曲云谣为寿。",
+    "倒尽金壶碧酒。",
+    "醺酣争撼白榆花。",
+    "踏碎九光霞。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-105",
+  "tags": []
+}

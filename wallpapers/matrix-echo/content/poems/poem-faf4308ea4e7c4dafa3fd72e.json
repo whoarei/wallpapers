@@ -1,0 +1,21 @@
+{
+  "id": "poem-faf4308ea4e7c4dafa3fd72e",
+  "title": "送陆员外",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "郎署有伊人，居然古人风。",
+    "天子顾河北，诏书除征东。",
+    "拜手辞上官，缓步出南宫。",
+    "九河平原外，七国蓟门中。",
+    "阴风悲枯桑，古塞多飞蓬。",
+    "万里不见虏，萧条胡地空。",
+    "无为费中国，更欲邀奇功。",
+    "迟迟前相送，握手嗟异同。",
+    "行当对侯归，肯访商山翁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7762fa57-7362-4dc5-ac5f-dbae7b4db5aa"
+}

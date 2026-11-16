@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7b7e",
+  "script": "seal",
+  "character": "签",
+  "reading": "qiān",
+  "description": "用简单的文字拟具意见\n粗粗地缝合起来\n引,导引\n下令征调\n刺;插\n旧时官府交给差役拘捕犯人的片状凭证,多用竹、木做成\n⒈亲笔署名或画上符号～名。～押。\n⒉简要的写出重点或意见～注。\n⒊旧时官府拘人的凭证朱～。火～。\n⒋用竹木等做成的细条或片状物牙～子。竹～儿。\n⒌用作标志的片条标～儿。书～。\n⒍迷信或赌博使用的片条求～祈神自欺欺人。\n⒎粗粗地缝合起来。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-签"
+}

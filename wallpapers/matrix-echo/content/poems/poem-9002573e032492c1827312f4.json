@@ -1,0 +1,14 @@
+{
+  "id": "poem-9002573e032492c1827312f4",
+  "title": "前腔",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(净、丑)孙华杀人是实，孙荣移尸去，假妆成狗是乔的。",
+    "(生)你不说赏雪醉迷，跌倒在雪儿取，拐玉环你回家去？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1955",
+  "tags": []
+}

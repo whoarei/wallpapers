@@ -1,0 +1,14 @@
+{
+  "id": "poem-c0e42443c3a4dd5041f0927b",
+  "title": "看花四绝句  其四",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "南园桃李近方栽，浇水未干花已开。",
+    "山果野蔬随分有，交游不厌但频来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-aaf53b8f-d567-46e5-adfc-3cc480ce0253"
+}

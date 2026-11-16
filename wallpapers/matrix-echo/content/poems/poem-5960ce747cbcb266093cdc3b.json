@@ -1,0 +1,22 @@
+{
+  "id": "poem-5960ce747cbcb266093cdc3b",
+  "title": "寒食城东即事",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "清溪一道穿桃李，演漾绿蒲涵白芷。",
+    "溪上人家凡几家，落花半落东流水。",
+    "蹴鞠屡过飞鸟上，秋千竞出垂杨里。",
+    "少年分日作遨游，不用清明兼上巳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "描写水",
+    "闲适",
+    "写鸟",
+    "写水",
+    "鸟"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a5a19b2c-d215-4b3e-8b8c-29d9da7bccce"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-2f1a46d52395685f9433690d",
+  "title": "惜花",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "年少共怜含露色，老人偏惜委尘红。",
+    "如何遂得心中事，每要花时不厌风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ba152c85-e889-40b0-812b-2fb34179e18f"
+}

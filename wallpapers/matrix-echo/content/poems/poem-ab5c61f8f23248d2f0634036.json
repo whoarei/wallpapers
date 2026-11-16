@@ -1,0 +1,17 @@
+{
+  "id": "poem-ab5c61f8f23248d2f0634036",
+  "title": "望远行",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生上)春风紫陌，又是大涯行客。",
+    "(小生上)野草闲花，掩映水光山色。",
+    "(末、净上)杏花朵朵欹红，杨柳丝丝弄碧，沙岸远涟漪初溢。",
+    "(生)携书挟策赴天邦，(小生)那更风光直艳阳，(末)路上野花钻地出。",
+    "(净)村中美酒透瓶香。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3061",
+  "tags": []
+}

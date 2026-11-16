@@ -1,0 +1,14 @@
+{
+  "id": "poem-8f869324f498d4362643eaaf",
+  "title": "江上送客",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "故人南去汉江阴，秋雨萧萧云梦深。",
+    "江上见人应下泪，由来远客易伤心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-64df610f-2fd8-479f-8ed5-8f87799e634d"
+}

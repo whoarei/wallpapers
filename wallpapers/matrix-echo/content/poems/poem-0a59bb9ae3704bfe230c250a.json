@@ -1,0 +1,14 @@
+{
+  "id": "poem-0a59bb9ae3704bfe230c250a",
+  "title": "忆紫溪",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "长忆紫溪春欲尽，千岩交映水回斜。",
+    "岩空水满溪自紫，水态更笼南烛花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-277caaef-adac-43db-a554-c183d97cb795"
+}

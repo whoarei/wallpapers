@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5208",
+  "script": "seal",
+  "character": "刈",
+  "reading": "yì",
+  "description": "yì：割（草或谷类）～除。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-刈"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b1dde78d28a20d6c6062c3cc",
+  "title": "忆弟从善",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "弟贫居歙县，兄老住丰溪。",
+    "大被身分寝，长绳足共覊。",
+    "幅云横断岭，钩月照斜谿。",
+    "安得源源过，陶然乐黍鸡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c3385d36-1092-4360-a528-924e3da98e6c"
+}

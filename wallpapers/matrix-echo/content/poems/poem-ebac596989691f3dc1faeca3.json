@@ -1,0 +1,19 @@
+{
+  "id": "poem-ebac596989691f3dc1faeca3",
+  "title": "醉中真・浣溪沙·不信芳春厌老人",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "不信芳春厌老人。",
+    "老人几度送春归。",
+    "惜春行乐莫辞频。",
+    "巧笑艳歌皆我意，恼花颠酒拼君嗔。",
+    "物情惟有醉中真。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-73"
+}

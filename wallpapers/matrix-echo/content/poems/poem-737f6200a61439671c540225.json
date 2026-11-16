@@ -1,0 +1,18 @@
+{
+  "id": "poem-737f6200a61439671c540225",
+  "title": "诗品二十四则 形容",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "绝伫灵素，少回清真。",
+    "如觅水影，如写阳春。",
+    "风云变态，花草精神。",
+    "海之波澜，山之嶙峋。",
+    "俱似大道，妙契同尘。",
+    "离形得似，庶几斯人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-2f623830-7ea6-45f5-9a9c-35724dd4c1ef"
+}

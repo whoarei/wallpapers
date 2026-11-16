@@ -1,0 +1,17 @@
+{
+  "id": "poem-65c5e133f7ba00af9dca2283",
+  "title": "效古促促曲为河上思妇作",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "促促何促促，黄河九回曲。",
+    "嫁与棹船郎，空床将影宿。",
+    "不道君心不如石，那教妾貌长如玉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6ce804ea-013c-4af4-a4c3-4e1e4fb89500"
+}

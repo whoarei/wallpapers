@@ -1,0 +1,16 @@
+{
+  "id": "poem-e559726c8b83a58a46dff3ac",
+  "title": "还自会稽歌",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "野粉椒壁黄，湿萤满梁殿。",
+    "台城应教人，秋衾梦铜辇。",
+    "吴霜点归鬓，身与塘蒲晚。",
+    "脉脉辞金鱼，羁臣守迍贱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-eb9c11f4-96b8-4445-9ca8-7a6f7c87da21"
+}

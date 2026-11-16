@@ -1,0 +1,16 @@
+{
+  "id": "poem-8d11ad768c7534817ab6a301",
+  "title": "寄净虚上人初至云门",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "寒踪白云里，法侣自提携。",
+    "竹径通城下，松门隔水西。",
+    "方同沃洲去，不似武陵迷。",
+    "仿佛方知处，高峰是会稽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-b5cbb21b-6545-4746-995f-b084fca74d5e"
+}

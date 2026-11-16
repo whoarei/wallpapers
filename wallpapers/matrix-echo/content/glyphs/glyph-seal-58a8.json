@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-58a8",
+  "script": "seal",
+  "character": "墨",
+  "reading": "mò",
+  "description": "mò：(1)写字绘画用的黑色颜料一锭～。～汁。～盒。～迹。～宝（珍贵的字画。亦用来尊称别人写的字、画的画）。\n(2)写字画画用的各色颜料～水。油～。粉～登场。\n(3)黑色或接近于黑色的～黑。～面（ａ．黑的脸色；ｂ．指墨刑）。～镜。～绿。～菊。～晶（黑色的水晶）。\n(4)贪污贪～。～吏。\n(5)古代一种刑罚，在脸上刺字并涂墨（亦称黥”）～刑。\n(6)姓。\n(7)古同默”，缄默。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-墨"
+}

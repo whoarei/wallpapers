@@ -1,0 +1,16 @@
+{
+  "id": "poem-d6eb7be54acf3b66cf22b335",
+  "title": "摊破浣溪沙·葬名花",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "林下荒苔道韫家，生怜玉骨委尘沙。",
+    "愁向风前无处说，数归鸦。",
+    "半世浮萍随逝水，一宵冷雨葬名花。",
+    "魂是柳绵吹欲碎，绕天涯。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-17"
+}

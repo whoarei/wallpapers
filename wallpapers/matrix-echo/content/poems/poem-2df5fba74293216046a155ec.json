@@ -1,0 +1,14 @@
+{
+  "id": "poem-2df5fba74293216046a155ec",
+  "title": "招韩武康章",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "山僧虽不饮，酤酒引陶潜。",
+    "此意无人别，多为俗士嫌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-1da61721-336f-4f70-9fe4-fc96d8eb9794"
+}

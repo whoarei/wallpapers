@@ -1,0 +1,18 @@
+{
+  "id": "poem-b81b8232f91448e263e16f21",
+  "title": "鹧鸪天·欲上南湖采舫嬉",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "欲上南湖采舫嬉。",
+    "还思北渚与岚漪。",
+    "圆荷盖水垂杨暗，㶉𫛶鸳鸯总下时。",
+    "持此意，遣谁知。",
+    "清波还照鬓间丝。",
+    "西楼重唱池塘好，应有红妆敛翠眉。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-231",
+  "tags": []
+}

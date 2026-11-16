@@ -1,0 +1,14 @@
+{
+  "id": "poem-60c9073993f69c304e85ac97",
+  "title": "狂题十八首 十五",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "昨日流莺今日蝉，起来又是夕阳天。",
+    "六龙飞辔长相窘，更忍乘危自着鞭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-2926ddf8-9d99-4c0a-87c9-56db60e5cb75"
+}

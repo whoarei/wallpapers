@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94c4",
+  "script": "seal",
+  "character": "铄",
+  "reading": "shuò",
+  "description": "销毁\n削弱\n秦先得齐宋,则韩氏铄,韩氏铄则楚孤而\n⒈发光的样子闪～。光～如闪电。\n⒉熔化金属～金。销～。\n⒊削弱，毁坏，消灭。\n铄yuè 1.烙;烧灼。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铄"
+}

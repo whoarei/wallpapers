@@ -1,0 +1,16 @@
+{
+  "id": "poem-0aa7bf11f5636ed6b790fac3",
+  "title": "郊庙歌辞 享太庙乐章 和宁舞",
+  "author": "牛僧孺",
+  "dynasty": "唐",
+  "verses": [
+    "湜湜颀颀，融昭德辉。",
+    "不纽不舒，贯成九围。",
+    "武烈文经，敷施当宜。",
+    "纂尧付启，亿万熙熙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-811d83e1-a2d7-4ffd-93b3-5705c81706e2"
+}

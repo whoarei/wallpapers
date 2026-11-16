@@ -1,0 +1,20 @@
+{
+  "id": "poem-ebac4ccf2a7216d099cc3380",
+  "title": "阮郎归·小楼秋霁碧阑干",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "小楼秋霁碧阑干。",
+    "中人初薄寒。",
+    "霜风吹我到湖山。",
+    "平林斜照残。",
+    "空阔里，有无间。",
+    "牵萝翠袖闲。",
+    "篮舆兴尽却愁还。",
+    "断肠歌未阑。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-430",
+  "tags": []
+}

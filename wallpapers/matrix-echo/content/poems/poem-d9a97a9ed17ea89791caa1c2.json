@@ -1,0 +1,14 @@
+{
+  "id": "poem-d9a97a9ed17ea89791caa1c2",
+  "title": "狂题十八首 一",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "莫恨艰危日日多，时情其奈幸门何。",
+    "貔貅睡稳蛟龙渴，犹把烧残朽铁磨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a3c2f0e7-0940-4496-a686-ef586df5e2ad"
+}

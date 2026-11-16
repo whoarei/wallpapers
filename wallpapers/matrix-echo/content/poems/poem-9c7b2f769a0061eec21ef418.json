@@ -1,0 +1,16 @@
+{
+  "id": "poem-9c7b2f769a0061eec21ef418",
+  "title": "送新罗僧",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "东来此学禅，多病念佛缘。",
+    "把锡离岩寺，收经上海船。",
+    "落帆敲石火，宿岛汲瓶泉。",
+    "永向扶桑老，知无再少年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-f6d277af-3905-4a1b-98e9-7d57e4a64806"
+}

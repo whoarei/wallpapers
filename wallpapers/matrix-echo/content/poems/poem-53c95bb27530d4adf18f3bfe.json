@@ -1,0 +1,16 @@
+{
+  "id": "poem-53c95bb27530d4adf18f3bfe",
+  "title": "送张乔下第归宣州",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "诗道世难通，归宁楚浪中。",
+    "早程残岳月，夜泊隔淮钟。",
+    "一镜随双鬓，全家老半峰。",
+    "无成来往过，折尽谢亭松。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-7d00b4df-f560-4cb3-92e9-eb2282038793"
+}

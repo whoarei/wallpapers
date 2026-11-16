@@ -1,0 +1,16 @@
+{
+  "id": "poem-a7f09d752719d85ce8b90ae2",
+  "title": "鱼山神女祠歌 迎神",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "坎坎击鼓，鱼山之下。",
+    "吹洞箫，望极浦，女巫进，纷屡舞。",
+    "陈瑶席，湛清酤，风凄凄兮夜雨。",
+    "不知神之来兮不来，使我心兮苦复苦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-1a6e884e-e9fb-4564-81f5-9b937d3c74b1"
+}

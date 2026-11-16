@@ -1,0 +1,21 @@
+{
+  "id": "poem-94c910366e13a96150c6c1ce",
+  "title": "蝉",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "本以高难饱，徒劳恨费声。",
+    "五更疎欲断，一树碧无情。",
+    "薄宦梗犹泛，故园芜已平。",
+    "烦君最相警，我亦举家清。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "咏物",
+    "咏物诗",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b3de619f-cc8b-457d-942b-49f06651aba4"
+}

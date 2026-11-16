@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9efc",
+  "script": "seal",
+  "character": "黼",
+  "reading": "fǔ",
+  "description": "fǔ：古代礼服上绣的半黑半白的花纹～座（帝王的宝座）。～黻（ａ．古代礼服所绣的花纹；ｂ．喻华丽的辞藻）。～藻（指华美的辞藻）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-黼"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-6af015a29052d5972009c0ac",
+  "title": "古意九首 一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "一雨火云尽，闭门心冥冥。",
+    "兰花与芙蓉，满院同芳馨。",
+    "佳人天一涯，好鸟何嘤嘤。",
+    "我有双白璧，不羡于虞卿。",
+    "我有径寸珠，别是天地精。",
+    "玩之室生白，潇洒身安轻。",
+    "只应天上人，见我双眼明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-309461b0-8cf8-4288-8eca-6f610fa9d2ec"
+}

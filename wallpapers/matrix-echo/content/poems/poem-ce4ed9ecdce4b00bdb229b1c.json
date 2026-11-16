@@ -1,0 +1,20 @@
+{
+  "id": "poem-ce4ed9ecdce4b00bdb229b1c",
+  "title": "蝶恋花·水鉴中看尤未老",
+  "author": "黄裳",
+  "dynasty": "宋",
+  "verses": [
+    "水鉴中看尤未老。",
+    "乘兴拿舟，更向湘江过。",
+    "俯仰太虚都一个。",
+    "九春风思谁吟到。",
+    "闲上钓台云外坐。",
+    "待得金鳞，始放芳尊倒。",
+    "醉后言归犹更早。",
+    "素纤有数君须道。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-611",
+  "tags": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-9e095b51a58461affd6a402a",
+  "title": "题金陵渡",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "金陵津渡小山楼，一宿行人自可愁。",
+    "潮落夜江斜月里，两三星火是瓜州。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "抒情",
+    "七言绝句",
+    "旅途"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-bce40ff4-816c-490c-be30-04de15f7c25e"
+}

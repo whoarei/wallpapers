@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-94a5",
+  "script": "kai",
+  "character": "钥",
+  "reading": "yào",
+  "description": "门直闩。上穿横闩下插地上的直木\n枢要,重要之处\n钥匙\n指锁\n每夜必手自关门下钥,其钥为外洋上等货,且钥匙仅有一枚,甲自佩之。至明晨,始手\n⒈锁。\n⒈锁。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钥"
+}

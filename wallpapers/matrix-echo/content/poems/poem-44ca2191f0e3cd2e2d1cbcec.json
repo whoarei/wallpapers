@@ -1,0 +1,18 @@
+{
+  "id": "poem-44ca2191f0e3cd2e2d1cbcec",
+  "title": "玉楼春·去时梅萼初凝粉",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "去时梅萼初凝粉。",
+    "不觉小桃风力损。",
+    "梨花最晚又凋零，何事归期无定准。",
+    "阑干倚遍重来凭。",
+    "泪粉偷将红袖印。",
+    "蜘蛛喜鹊误人多，似此无凭安足信。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-687",
+  "tags": []
+}

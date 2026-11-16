@@ -1,0 +1,14 @@
+{
+  "id": "poem-0efa5fe898973b40cf4f7663",
+  "title": "哭程晦夫  其二",
+  "author": "孙嵩",
+  "dynasty": "宋",
+  "verses": [
+    "尚谓乡邦离有合，忍闻丘垄夜无晨。",
+    "夕阳古道曾经别，肠断西风泪满巾。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-b93d6e3a-edcd-4bd0-b401-7f1a41f4096a"
+}

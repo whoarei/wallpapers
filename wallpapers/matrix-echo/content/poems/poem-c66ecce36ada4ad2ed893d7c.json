@@ -1,0 +1,16 @@
+{
+  "id": "poem-c66ecce36ada4ad2ed893d7c",
+  "title": "见王贞白",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "共贺登科后，明宣入紫宸。",
+    "又看重试榜，还见苦吟人。",
+    "此得名浑别，归来话亦新。",
+    "分明一枝桂，堪动楚江滨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-d84a1d6c-b0a6-43a0-83f7-b3c5dabdbcf0"
+}

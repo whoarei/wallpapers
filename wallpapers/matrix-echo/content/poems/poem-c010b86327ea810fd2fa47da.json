@@ -1,0 +1,14 @@
+{
+  "id": "poem-c010b86327ea810fd2fa47da",
+  "title": "醉扶归",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "我钉缘结发曾相共，难道是无缘对面不相逢？我凤枕驾衾也和他同，到凭兔毫茧纸将他功。",
+    "休休，毕竟一齐分付与东风，把往事也如春梦。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5215",
+  "tags": []
+}

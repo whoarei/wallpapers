@@ -1,0 +1,14 @@
+{
+  "id": "poem-de06ed325462492642157d82",
+  "title": "重送成都漕",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "曾游淮上爱清流，况子官为郡督邮。",
+    "可贺吕虔贤太守，佩刀应得不须求。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-c8be0b09-2e8f-454d-a668-1a2407efca65"
+}

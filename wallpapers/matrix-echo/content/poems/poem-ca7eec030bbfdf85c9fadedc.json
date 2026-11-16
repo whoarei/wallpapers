@@ -1,0 +1,14 @@
+{
+  "id": "poem-ca7eec030bbfdf85c9fadedc",
+  "title": "因僧看经颂",
+  "author": "文益",
+  "dynasty": "唐",
+  "verses": [
+    "今人看古教，不免心中闹。",
+    "欲免心中闹，但知看古教。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-9dd212ac-d2c4-40bd-ab7b-225c7634f220"
+}

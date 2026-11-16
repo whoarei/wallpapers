@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-66f7",
+  "script": "seal",
+  "character": "曷",
+  "reading": "hé",
+  "description": "hé：(1)何，什么蹈死不顾，亦～故哉？”\n(2)怎么，为什么汝～弗告朕？”\n(3)古同盍”，何不。\n(4)何时悠悠苍天，～其有所？”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-曷"
+}

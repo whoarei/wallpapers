@@ -1,0 +1,14 @@
+{
+  "id": "poem-122e94f3ff9e5552cae423c1",
+  "title": "甘园寻梅  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "楮幌春生斗底房，不知冰结夜来霜。",
+    "无因领略黄昏月，只遣疎钟管暗香。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-638a2015-c432-45c7-a047-156cf9544cb3"
+}

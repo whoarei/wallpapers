@@ -1,0 +1,15 @@
+{
+  "id": "poem-fedff63a95ae59a837c478ac",
+  "title": "敦煌廿咏（并序） 六、阳关戍咏",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "万里通西域，千秋尚有名。",
+    "平沙迷旧路，眢井引前程。",
+    "马色[一七]无人间，晨鸡吏不听。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d51aae04-acd9-4134-b255-51be47bbdc9a"
+}

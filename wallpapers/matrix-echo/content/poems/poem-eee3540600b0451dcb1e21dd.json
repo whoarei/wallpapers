@@ -1,0 +1,16 @@
+{
+  "id": "poem-eee3540600b0451dcb1e21dd",
+  "title": "送张忠州使君八兄二首  其一",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "邂逅江干不自期，坐倾谈屑看霏霏。",
+    "岂无清禁摛华地，只得名城衣锦归。",
+    "惜别定知双鬓换，问诗常恨寸心违。",
+    "目穷千里苍茫际，惟有樯乌向北飞。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-b37a85c3-fcf3-4c32-8345-05cdf1c9f1dc"
+}

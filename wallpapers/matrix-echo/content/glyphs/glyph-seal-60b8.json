@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-60b8",
+  "script": "seal",
+  "character": "悸",
+  "reading": "jì",
+  "description": "jì：因害怕而自觉心跳惊～。～栗（心惊肉跳）。～动。心有余～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-悸"
+}

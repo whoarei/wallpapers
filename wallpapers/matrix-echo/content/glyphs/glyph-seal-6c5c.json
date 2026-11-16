@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c5c",
+  "script": "seal",
+  "character": "汜",
+  "reading": "sì",
+  "description": "sì：(1)水决后又流入。\n(2)不流通的小沟渠。\n〔～水〕水名，在中国河南省。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-汜"
+}

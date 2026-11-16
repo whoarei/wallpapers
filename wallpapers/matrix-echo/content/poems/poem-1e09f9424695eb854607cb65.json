@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e09f9424695eb854607cb65",
+  "title": "忆故山赠司空曙",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "汉主金门正召才，马卿多病自迟回。",
+    "旧山𫏐别老将至，芳草欲阑归去来。",
+    "云在高天风会起，年如流水日长催。",
+    "知君素有栖禅意，岁晏蓬门迟尔开。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-855456e2-f8a8-4344-b207-b764395bda19"
+}

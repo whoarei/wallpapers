@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-98d1",
+  "script": "seal",
+  "character": "飑",
+  "reading": "biāo",
+  "description": "暴风\n飑云\n飑 biāo气象学上指风向突然改变，风速急剧增大的天气现象。\n飑páo 1.风大而急。\n飑pò 1.见\"飑飑\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-飑"
+}

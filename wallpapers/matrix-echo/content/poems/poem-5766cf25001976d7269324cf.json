@@ -1,0 +1,17 @@
+{
+  "id": "poem-5766cf25001976d7269324cf",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "虽然如此，伊家富贵，那更青春年少。",
+    "看你紫袍着体，金带垂腰。",
+    "做你的媳妇呵，应须有封号，金花紫诰。",
+    "必俊倬，须媚娇。",
+    "若还他丑貌，相公，怎不相休去了？(生唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5224",
+  "tags": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-d411d4cc1ddd68155718463c",
+  "title": "青玉案·杏花时候匆匆别",
+  "author": "吴泳",
+  "dynasty": "宋",
+  "verses": [
+    "杏花时候匆匆别。",
+    "又欲迫、黄花节。",
+    "过了三年经八月。",
+    "骊驹声里，青鸿头畔，几见刀头折。",
+    "诸生立尽门前雪。",
+    "半偈重翻为渠说。",
+    "且莫从头烹瓠叶。",
+    "已呼童稚，多藏酒秫，共醉陶彭泽。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-582",
+  "tags": []
+}

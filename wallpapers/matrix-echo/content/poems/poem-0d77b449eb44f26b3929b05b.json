@@ -1,0 +1,14 @@
+{
+  "id": "poem-0d77b449eb44f26b3929b05b",
+  "title": "赠长安小主人",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "上清真子玉童颜，花态娇羞月思闲。",
+    "仙路迷人应有术，桃源不必在深山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-d15a28d4-a1c4-4cdf-a3b3-0108e89eb5c5"
+}

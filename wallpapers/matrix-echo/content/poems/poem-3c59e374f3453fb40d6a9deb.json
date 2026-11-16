@@ -1,0 +1,18 @@
+{
+  "id": "poem-3c59e374f3453fb40d6a9deb",
+  "title": "朝中措·吴松江影漾清辉",
+  "author": "张抡",
+  "dynasty": "宋",
+  "verses": [
+    "吴松江影漾清辉。",
+    "山远翠光微。",
+    "杨柳风轻日永，桃花浪暖鱼肥。",
+    "东来西往。",
+    "随情任性，本自无机。",
+    "何事沙边鸥鹭，一声欸乃惊飞。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-943",
+  "tags": []
+}

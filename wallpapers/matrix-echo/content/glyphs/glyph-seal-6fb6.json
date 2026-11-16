@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6fb6",
+  "script": "seal",
+  "character": "澶",
+  "reading": "chán",
+  "description": "chán：水流平静～湉。\n〔～渊〕ａ．古湖名，故址在今中国河南省濮阳市西；ｂ．古地名，在今中国安徽省萧山市一带。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-澶"
+}

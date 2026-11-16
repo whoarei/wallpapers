@@ -1,0 +1,16 @@
+{
+  "id": "poem-c973b3a2eb855bf9295050f2",
+  "title": "送丁道士归南中",
+  "author": "谭用之",
+  "dynasty": "宋",
+  "verses": [
+    "孤云无定鹤辞巢，自负焦桐不说劳。",
+    "服药几年期碧落，验符何处呪丹毫。",
+    "子陵山晓红云密，青草湖平雪浪高。",
+    "从此人稀见踪迹，还应选地种仙桃。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-dc67a3e6-c1f7-483b-a56e-bb68187d1ca9"
+}

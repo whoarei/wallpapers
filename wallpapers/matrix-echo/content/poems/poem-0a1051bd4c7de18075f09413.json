@@ -1,0 +1,19 @@
+{
+  "id": "poem-0a1051bd4c7de18075f09413",
+  "title": "春怨",
+  "author": "刘方平",
+  "dynasty": "唐",
+  "verses": [
+    "纱窗日落渐黄昏，金屋无人见泪痕。",
+    "寂寞空庭春欲晚，梨花满地不开门。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "孤独",
+    "七言绝句",
+    "宫怨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-fc1bc01d-c281-40fd-9e0d-4c484539e4ae"
+}

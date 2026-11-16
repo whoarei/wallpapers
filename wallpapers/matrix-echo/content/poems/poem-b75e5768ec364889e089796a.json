@@ -1,0 +1,16 @@
+{
+  "id": "poem-b75e5768ec364889e089796a",
+  "title": "答丁元珍",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "春风疑不到天涯，二月山城未见花。",
+    "残雪压枝犹有橘，冻雷惊笋欲抽芽。",
+    "夜闻啼雁生乡思，病入新年感物华。",
+    "曾是洛阳花下客，野芳虽晚不须嗟。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-答丁元珍"
+}

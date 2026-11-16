@@ -1,0 +1,16 @@
+{
+  "id": "poem-45c8b37a9db2ee290fd65ca7",
+  "title": "经杜工部坟",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "骚人久不出，安得国风清。",
+    "拟掘孤坟破，重教大雅生。",
+    "皇天高莫问，白酒恨难平。",
+    "悒怏寒江上，谁人知此情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8c64fb66-2c36-4866-a2a7-3508dd901c49"
+}

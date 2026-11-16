@@ -1,0 +1,16 @@
+{
+  "id": "poem-380247d6c859876252a22787",
+  "title": "正月闺情",
+  "author": "袁晖",
+  "dynasty": "唐",
+  "verses": [
+    "正月金闺里，微风绣户间。",
+    "晓魂怜别梦，春思逼啼颜。",
+    "遶砌梅堪折，当轩树未攀。",
+    "岁华庭北上，何日度阳关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-bea50743-fb46-4fc0-94c0-0e8fc05f5294"
+}

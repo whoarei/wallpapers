@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-660f",
+  "script": "seal",
+  "character": "昏",
+  "reading": "hūn",
+  "description": "hūn：(1)天刚黑的时候黄～。～晓（朝夕。亦指明暗）。～定晨省（xǐng）（人子侍奉父母的日常礼节，晚上服侍就寝，早上省视问安）。\n(2)暗而无光～暗。～黑。\n(3)惑乱～愦。～聩。～庸。\n(4)神智不清楚或失去知觉发～。～厥（亦称晕厥”）。～乱。\n(5)古同婚”，婚姻。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昏"
+}

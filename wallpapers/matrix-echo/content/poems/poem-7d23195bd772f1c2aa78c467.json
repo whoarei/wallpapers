@@ -1,0 +1,16 @@
+{
+  "id": "poem-7d23195bd772f1c2aa78c467",
+  "title": "题麟凤碑",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "非篆非科璞已雕，形容振振与萧萧。",
+    "曾因忠厚方周德，坐想𬣙谟览舜韶。",
+    "汉德已衰还应孽，鲁邦既弱不为妖。",
+    "虚斋自是惊人玩，不胜雄狐逐怒雕。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-8a21051c-de4f-4db3-81d2-ed601c525cdf"
+}

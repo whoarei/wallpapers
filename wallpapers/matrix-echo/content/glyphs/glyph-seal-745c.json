@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-745c",
+  "script": "seal",
+  "character": "瑜",
+  "reading": "yú",
+  "description": "yú：(1)美玉。\n(2)玉的光泽，喻优点瑕～互见。瑕不掩～。\n〔～伽〕a.大乘佛教的派别之一，称瑜伽宗”；b.印度哲学的一派，此派注重调息、静坐等修行方法。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瑜"
+}

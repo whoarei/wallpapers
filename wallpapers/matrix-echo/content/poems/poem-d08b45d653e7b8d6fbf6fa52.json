@@ -1,0 +1,14 @@
+{
+  "id": "poem-d08b45d653e7b8d6fbf6fa52",
+  "title": "夏日金陵制幕即事  其二",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "早来留得气清明，吏捧军书课日程。",
+    "秉烛搀先书押了，闲欹凉枕数残更。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-7f862b9e-3280-464a-bd22-3a8da397e260"
+}

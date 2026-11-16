@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d56",
+  "script": "seal",
+  "character": "赖",
+  "reading": "lài",
+  "description": "依靠;依赖;依恃、凭藉\n赖子存之。\n⒈倚靠，仗持依～。办好这件事，有～大家同心协力。\n⒉不承认～债。抵～。证据确凿，～是～不掉的。\n⒊诬陷，反过来怪人诬～。自己错了，别～他人。\n⒋怪罪，责备学习成绩差，只能～自己努力不够。\n⒌差，劣，坏这种电视机的质量不～。\n⒍停在某地，不愿离开～在家里。\n⒎［无赖］\n①生活无依无靠。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赖"
+}

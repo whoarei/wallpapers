@@ -1,0 +1,20 @@
+{
+  "id": "poem-2caf92dc8ab378e00573c726",
+  "title": "长干曲四首 一",
+  "author": "崔颢",
+  "dynasty": "唐",
+  "verses": [
+    "君家何处住？妾住在横塘。",
+    "停船暂借问，或恐是同乡。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "孤独",
+    "女子",
+    "思乡",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c39225f9-16b2-4713-a11c-d7030ec3b1c9"
+}

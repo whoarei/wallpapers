@@ -1,0 +1,18 @@
+{
+  "id": "poem-5fd66f52e48075e8931ea81c",
+  "title": "伤韦令孔雀词",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "可怜孔雀初得时，美人为尔别开池。",
+    "池边凤凰作伴侣，羌声鹦鹉无言语。",
+    "雕笼玉架嫌不栖，夜夜思归向南舞。",
+    "如今憔悴人见恶，万里更求新孔雀。",
+    "热眠雨水饥拾虫，翠尾盘泥金彩落。",
+    "多时人养不解飞，海山风黑何处归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-ddec6ff9-8dd4-4e9e-8789-009f896a7703"
+}

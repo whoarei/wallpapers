@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6e0a",
+  "script": "kai",
+  "character": "渊",
+  "reading": "yuān",
+  "description": "深潭\n⒈深水，潭深～。鱼跃于～。\n⒉深，深远学识～博。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-渊"
+}

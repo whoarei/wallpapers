@@ -1,0 +1,14 @@
+{
+  "id": "poem-c2afa023df1939eb1326bd30",
+  "title": "北得胜令",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "化一狗，假如人，撇他在后园门。",
+    "孙员外匆忙见，料无能辨假真！杀人，教他结义的难承认，销魂，须知是亲人到底亲。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1891",
+  "tags": []
+}

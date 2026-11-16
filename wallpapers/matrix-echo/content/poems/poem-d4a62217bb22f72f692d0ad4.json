@@ -1,0 +1,14 @@
+{
+  "id": "poem-d4a62217bb22f72f692d0ad4",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(小旦)看孩儿容貌希奇，与相公面庞无二。",
+    "收留在此犹如嫡子，长成时莫忘了窦公恩义。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8949",
+  "tags": []
+}

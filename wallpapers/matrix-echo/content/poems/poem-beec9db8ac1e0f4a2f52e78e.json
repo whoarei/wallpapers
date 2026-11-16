@@ -1,0 +1,16 @@
+{
+  "id": "poem-beec9db8ac1e0f4a2f52e78e",
+  "title": "游越溪",
+  "author": "郑绍",
+  "dynasty": "唐",
+  "verses": [
+    "溪水碧悠悠，猨声断客愁。",
+    "渔潭逢钓楫，月浦值孤舟。",
+    "访泊随烟火，迷途视斗牛。",
+    "今宵越乡意，还取醉忘忧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-2237386f-91db-4f62-9103-fec2c5791d81"
+}

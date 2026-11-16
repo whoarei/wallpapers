@@ -1,0 +1,16 @@
+{
+  "id": "poem-d83f7a982aa2bac8fcff31ec",
+  "title": "更漏子·烟月寒",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "烟月寒，秋夜静，漏转金壶初永。",
+    "罗幕下，绣屏空，灯花结碎红。",
+    "人悄悄，愁无了，思梦不成难晓。",
+    "长忆得，与郎期，窃香私语时。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-43"
+}

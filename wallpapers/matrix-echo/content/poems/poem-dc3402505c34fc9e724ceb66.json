@@ -1,0 +1,14 @@
+{
+  "id": "poem-dc3402505c34fc9e724ceb66",
+  "title": "一○六",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "家有梵志诗，生死免入狱。",
+    "不论有益事，且得耳根熟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d3e3a577-c1d8-4f77-9b56-67c1196876bd"
+}

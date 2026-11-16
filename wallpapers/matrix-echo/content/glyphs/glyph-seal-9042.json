@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9042",
+  "script": "seal",
+  "character": "遂",
+  "reading": "suí；suì",
+  "description": "suì：(1)顺，如意～心。～愿。\n(2)成功，实现未～。功成名～。\n(3)于是，就服药后头痛～止。\n(4)通达何往而不～”。\n(5)进，荐不能退，不能～”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-遂"
+}

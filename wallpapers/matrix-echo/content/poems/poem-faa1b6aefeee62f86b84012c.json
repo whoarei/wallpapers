@@ -1,0 +1,16 @@
+{
+  "id": "poem-faa1b6aefeee62f86b84012c",
+  "title": "始见二毛",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "玄发迎忧光色阑，衰华因镜强相看。",
+    "百川赴海返潮易，一叶报秋归树难。",
+    "初弄藕丝牵欲断，又惊机素翦仍残。",
+    "颜生岂是光阴晚，余亦何人不自宽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-9bb3ff12-7af7-4f58-b077-0e19a8a9b5ea"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-da1b18fd6ed56d417355bf7c",
+  "title": "归舟三绝  其二",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "波声拍枕不成眠，拥被推篷月尚圆。",
+    "霜下夜深人正悄，数声飞雁度林颠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-8cd3c7cd-ce9c-4c57-b34f-4ae8096c89a5"
+}

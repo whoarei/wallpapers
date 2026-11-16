@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8a07",
+  "script": "seal",
+  "character": "訇",
+  "reading": "hōng",
+  "description": "hōng：形容大声～的一声。\n〔阿～〕伊斯兰教主持教仪、讲授经典的人。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-訇"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-da2d53343f06096f95342c4e",
+  "title": "落花",
+  "author": "朱淑贞",
+  "dynasty": "宋",
+  "verses": [
+    "连理枝头花正开，妒花风雨便相催。",
+    "愿教青帝常为主，莫遣纷纷点翠苔。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-落花"
+}

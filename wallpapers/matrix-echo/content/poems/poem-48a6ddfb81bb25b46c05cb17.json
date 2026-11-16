@@ -1,0 +1,18 @@
+{
+  "id": "poem-48a6ddfb81bb25b46c05cb17",
+  "title": "春日又送潘述之扬州",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "别渚望邗城，岐路春日徧。",
+    "柔风吹杨柳，芳景流郊甸。",
+    "日日东林期，今夕异乡县。",
+    "文房旷佳士，禅室阻清盼。",
+    "离恨夺赏心，不得谐所愿。",
+    "莫忆山中人，碧云遥可见。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-50bd8261-d9b9-4f9b-9c4e-7520bfb16325"
+}

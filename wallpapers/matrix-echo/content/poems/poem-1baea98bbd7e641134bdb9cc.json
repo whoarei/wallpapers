@@ -1,0 +1,14 @@
+{
+  "id": "poem-1baea98bbd7e641134bdb9cc",
+  "title": "天仙子·柳色披衫金缕凤",
+  "author": "和凝",
+  "dynasty": "五代",
+  "verses": [
+    "柳色披衫金缕凤，纤手轻拈红豆弄，翠蛾双敛正含情。",
+    "桃花洞，瑶台梦，一片春愁谁与共。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-24"
+}

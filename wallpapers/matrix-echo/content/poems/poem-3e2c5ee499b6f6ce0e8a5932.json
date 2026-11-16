@@ -1,0 +1,14 @@
+{
+  "id": "poem-3e2c5ee499b6f6ce0e8a5932",
+  "title": "嘉州作",
+  "author": "杨徽之",
+  "dynasty": "宋",
+  "verses": [
+    "俗遇腊辰持药献，吏逢衙日隔花参。",
+    "耆宿因来问封部，竹篱西畔是云南。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-c9217b2a-7467-402e-90bb-072f5ab9f30f"
+}

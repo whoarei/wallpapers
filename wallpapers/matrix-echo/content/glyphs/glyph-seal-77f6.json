@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-77f6",
+  "script": "seal",
+  "character": "矶",
+  "reading": "jī",
+  "description": "水边突出的岩石或石滩\n矶jī 1.水冲击岩石。引申为激怒，触犯。 2.水边石滩或突出的岩石。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-矶"
+}

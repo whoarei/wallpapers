@@ -1,0 +1,16 @@
+{
+  "id": "poem-bb6d316f74d446233d3dde22",
+  "title": "雒中寒夜姚侍御宅怀贾岛",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "夜木动寒色，雒阳城阙深。",
+    "如何异乡思，更抱故人心。",
+    "微月关山远，闲堦霜霰侵。",
+    "谁知石门路，待与子同寻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-f4562dfc-b136-4ff9-bb53-0488eaab0424"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5bb8",
+  "script": "seal",
+  "character": "宸",
+  "reading": "chén",
+  "description": "chén：(1)屋宇，深邃的房屋。\n(2)北极星所在，后借指帝王所居，又引申为王位、帝王的代称～极。～居。～章。～札（帝王的书札）。～游。～翰（帝王的书迹）。～垣（京师）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宸"
+}

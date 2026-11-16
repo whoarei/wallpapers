@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-79c3",
+  "script": "kai",
+  "character": "秃",
+  "reading": "tū",
+  "description": "tū：(1)人无头发，山无树木，树木无枝叶～子。～头。～顶。\n(2)鸟羽毛脱落，物体失去尖端～鹫。～笔。～针。\n(3)表示不圆满、不周全文章的开头写得有点～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-秃"
+}

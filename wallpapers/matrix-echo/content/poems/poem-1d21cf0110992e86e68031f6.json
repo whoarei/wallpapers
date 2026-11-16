@@ -1,0 +1,16 @@
+{
+  "id": "poem-1d21cf0110992e86e68031f6",
+  "title": "嵩山十志十首 其八",
+  "author": "卢鸿一",
+  "dynasty": "唐",
+  "verses": [
+    "青崖阴兮月磵曲，重幽叠邃兮隐沦躅。",
+    "草树緜幂兮翠蒙茏，当其无兮庭在中。",
+    "当无有用兮幂翠庭，神可谷兮道可冥。",
+    "有幽人兮张素琴，皇徽兮绿水阴，德之愔兮澹多心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-4699c6a4-e9cb-4315-85ae-882145bdc345"
+}

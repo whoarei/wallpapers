@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f0f",
+  "script": "kai",
+  "character": "伏",
+  "reading": "fú",
+  "description": "fú：(1)趴，脸向下，体前屈～卧。～案读书。\n(2)低下去此起彼～。\n(3)屈服，承认错误或受到惩罚～法。～输。～辩（伏罪的供状，亦作伏辨”）。\n(4)使屈服降～。降龙～虎。\n(5)隐藏～兵。埋～。\n(6)农历划分夏季最炎热的三个阶段～日。～旱。～暑。～天。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-伏"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-961646d112cbb268c37d759c",
+  "title": "移梅",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "邻家争乞丽春栽，玉手轻分带月培。",
+    "窗下老翁迂入骨，清斋三日为移梅。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-61a2ea96-3312-4a91-aaa1-e6dda38e168d"
+}

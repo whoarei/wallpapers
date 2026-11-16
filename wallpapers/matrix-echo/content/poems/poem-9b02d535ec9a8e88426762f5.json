@@ -1,0 +1,15 @@
+{
+  "id": "poem-9b02d535ec9a8e88426762f5",
+  "title": "往体  其二",
+  "author": "赵崇鉘",
+  "dynasty": "宋",
+  "verses": [
+    "皓彩青云端，飞光落溟渤。",
+    "浑河与清沚，同受明月魄。",
+    "勿以清浊殊，天光本无隔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-7b0360d2-9509-46c0-b059-2ee7d1b86959"
+}

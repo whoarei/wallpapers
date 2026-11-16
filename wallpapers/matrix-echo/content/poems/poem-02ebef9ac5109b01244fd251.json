@@ -1,0 +1,16 @@
+{
+  "id": "poem-02ebef9ac5109b01244fd251",
+  "title": "杜陵贻杜牧侍御",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "紫陌尘多不可寻，南溪酒熟一披襟。",
+    "山高昼枕石床隐，泉落夜窗烟树深。",
+    "白首寻人嗟问计，青云无路觅知音。",
+    "唯君怀抱安如水，他日门墙许醉吟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-baddcc92-7920-4b9b-946e-f44542a75daa"
+}

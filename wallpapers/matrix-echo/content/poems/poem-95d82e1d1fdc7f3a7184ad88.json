@@ -1,0 +1,16 @@
+{
+  "id": "poem-95d82e1d1fdc7f3a7184ad88",
+  "title": "虚室",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "轩前列群山，轩后得虚室。",
+    "宛若成都居，枵然惟四壁。",
+    "清明照窗牖，不待秋月色。",
+    "万籁悄无声，终年饱岑寂。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-c25a2eaa-ee8e-4aa7-bf4d-7ba838cb2dd0"
+}

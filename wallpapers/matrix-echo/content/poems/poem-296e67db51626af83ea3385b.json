@@ -1,0 +1,21 @@
+{
+  "id": "poem-296e67db51626af83ea3385b",
+  "title": "蜀先主庙",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "verses": [
+    "天地英雄气，千秋尚凛然。",
+    "势分三足鼎，业复五铢钱。",
+    "得相能开国，生儿不象贤。",
+    "凄凉蜀故妓，来舞魏宫前。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "咏史怀古",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-2f37297b-77d5-412b-bc73-105bfa4d011d"
+}

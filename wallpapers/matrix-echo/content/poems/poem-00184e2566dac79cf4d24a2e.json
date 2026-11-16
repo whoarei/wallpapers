@@ -1,0 +1,15 @@
+{
+  "id": "poem-00184e2566dac79cf4d24a2e",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［丑上］奴奴方始念弥陀，忽听堂前谁叫我。",
+    "偷睛把眼睃，却是我哥哥。",
+    "阿三，快把柴来烧焰火。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8185",
+  "tags": []
+}

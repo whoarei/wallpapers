@@ -1,0 +1,18 @@
+{
+  "id": "poem-447a4220f8b4f2885e3a883e",
+  "title": "送方外上人",
+  "author": "刘长卿",
+  "dynasty": "唐",
+  "verses": [
+    "孤云将野鹤，岂向人间住。",
+    "莫买沃洲山，时人已知处。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "送别",
+    "五言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c26445b5-a433-4cd7-9020-435866b845f9"
+}

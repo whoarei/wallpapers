@@ -1,0 +1,17 @@
+{
+  "id": "poem-d740d5ea6656c310c71b0254",
+  "title": "浣溪沙·灯尽垂花月似霜",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "灯尽垂花月似霜。",
+    "薄帘映月两交光。",
+    "酒醺红粉自生香。",
+    "双手舞馀拖翠袖，一声歌已釂金觞。",
+    "休回娇眼断人肠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-745",
+  "tags": []
+}

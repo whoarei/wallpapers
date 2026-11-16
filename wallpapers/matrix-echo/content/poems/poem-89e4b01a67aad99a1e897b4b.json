@@ -1,0 +1,16 @@
+{
+  "id": "poem-89e4b01a67aad99a1e897b4b",
+  "title": "思越人·古台平",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "古台平，芳草远，馆娃宫外春深。",
+    "翠黛空留千载恨，教人何处相寻。",
+    "绮罗无复当时事，露花点滴香泪。",
+    "惆怅遥天横绿水，鸳鸯对时飞起。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-39"
+}

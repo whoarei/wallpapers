@@ -1,0 +1,20 @@
+{
+  "id": "poem-e8f680b3555fe5b99fbbcd4e",
+  "title": "沁园春",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "赵女姿容，蔡邕文业，两月夫妻。",
+    "奈朝廷黄榜，遍招贤士，高堂严命，强赴春闱。",
+    "一举螯头，再婚牛氏，利绾名牵竟不归。",
+    "饥荒岁，双亲俱丧，此际实堪悲。",
+    "堪悲赵女支持，剪下香云送舅姑。",
+    "罗裙包土，筑成坟墓；琵琶写怨，竟往京畿。",
+    "孝矣伯喈，贤哉牛氏，书馆相逢最惨凄。",
+    "重庐墓，一夫二妇，旌表耀门闾。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4908",
+  "tags": []
+}

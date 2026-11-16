@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8eac",
+  "script": "kai",
+  "character": "躬",
+  "reading": "gōng",
+  "description": "gōng：(1)身体。\n(2)自身，亲自反～自问。～行实践。事必～亲。\n(3)弯曲身体鞠～。～身下拜。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-躬"
+}

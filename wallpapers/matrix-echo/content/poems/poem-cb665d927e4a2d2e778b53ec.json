@@ -1,0 +1,14 @@
+{
+  "id": "poem-cb665d927e4a2d2e778b53ec",
+  "title": "和三乡诗",
+  "author": "王硕",
+  "dynasty": "唐",
+  "verses": [
+    "无姓无名越水滨，芳词空怨路傍人。",
+    "莫教才子偏惆怅，宋玉东家是旧邻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-10ddafb1-fd9a-42a2-82c4-16e28862cde8"
+}

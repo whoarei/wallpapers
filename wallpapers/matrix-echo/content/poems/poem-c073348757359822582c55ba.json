@@ -1,0 +1,16 @@
+{
+  "id": "poem-c073348757359822582c55ba",
+  "title": "后庭花·越罗小袖新香蒨",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "越罗小袖新香蒨，薄笼金钏。",
+    "倚栏无语摇轻扇，半遮匀面。",
+    "春残日暖莺娇懒，满庭花片。",
+    "怎不教人长相见，画堂深院。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-7"
+}

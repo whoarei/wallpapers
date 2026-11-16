@@ -1,0 +1,19 @@
+{
+  "id": "poem-1b12504c511911b78cbba259",
+  "title": "燕归梁·轻蹑罗鞋掩绛绡",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "轻蹑罗鞋掩绛绡。",
+    "传音耗、苦相招。",
+    "语声犹颤不成娇。",
+    "乍得见、两魂消。",
+    "匆匆草草难留恋，还归去又无聊。",
+    "若谐雨夕与云朝。",
+    "得似个、有嚣嚣。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-251",
+  "tags": []
+}

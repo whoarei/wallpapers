@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-59dd",
+  "script": "seal",
+  "character": "姝",
+  "reading": "shū",
+  "description": "shū：(1)美丽，美好～丽。～好。\n(2)美女丽～。\n(3)柔顺～～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-姝"
+}

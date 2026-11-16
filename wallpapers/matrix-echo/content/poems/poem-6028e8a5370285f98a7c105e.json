@@ -1,0 +1,20 @@
+{
+  "id": "poem-6028e8a5370285f98a7c105e",
+  "title": "满庭芳·初绾云鬟",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "初绾云鬟，才胜罗绮，便嫌柳陌花街。",
+    "占春才子，容易托行媒。",
+    "其奈风情债负，烟花部、不免差排。",
+    "刘郎恨，桃花片片，随水染尘埃。",
+    "风流，贤太守，能笼翠羽，宜醉金钗。",
+    "且留取垂杨，掩映厅阶。",
+    "直待朱轓去后，从伊便、窄袜弓鞋。",
+    "知恩否，朝云暮雨，还向梦中来。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-651",
+  "tags": []
+}

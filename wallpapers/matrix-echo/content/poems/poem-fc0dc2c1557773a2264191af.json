@@ -1,0 +1,19 @@
+{
+  "id": "poem-fc0dc2c1557773a2264191af",
+  "title": "秋夜寄丘二十二员外",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "verses": [
+    "怀君属秋夜，散步咏凉天。",
+    "山空松子落，幽人应未眠。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "秋天",
+    "怀人",
+    "五言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-96455db1-a0c6-402c-8892-05c6b9a3d029"
+}

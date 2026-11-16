@@ -1,0 +1,16 @@
+{
+  "id": "poem-c4afcd763d242d0a64d229eb",
+  "title": "菩萨蛮 其四",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "翠翘金缕双㶉𫛶，水纹细起春池碧。",
+    "池上海棠梨，雨晴红满枝。",
+    "绣衫遮笑靥，烟草粘飞蝶。",
+    "青琐对芳菲，玉关音信稀。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-3",
+  "tags": []
+}

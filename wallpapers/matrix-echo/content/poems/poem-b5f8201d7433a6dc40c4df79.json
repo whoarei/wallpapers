@@ -1,0 +1,16 @@
+{
+  "id": "poem-b5f8201d7433a6dc40c4df79",
+  "title": "简兮",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "简兮简兮，方将万舞。日之方中，在前上处。",
+    "硕人俣俣，公庭万舞。有力如虎，执辔如组。",
+    "左手执龠，右手秉翟。赫如渥赭，公言锡爵。",
+    "山有榛，隰有苓。云谁之思？西方美人。彼美人兮，西方之人兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-37"
+}

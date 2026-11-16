@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7c38",
+  "script": "kai",
+  "character": "簸",
+  "reading": "bò；bǒ",
+  "description": "bò：〔～箕〕ａ．扬糠除秽、清理垃圾的器具，用竹篾、柳条或铁皮制成，三面有边沿，一面敞口；ｂ．簸箕形的指纹（箕”均读轻声）。\nbǒ：(1)用簸箕颠动米粮，扬去糠秕和灰尘～谷。\n(2)颠动摇晃颠～。～荡。～动。～弄。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-簸"
+}

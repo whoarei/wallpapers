@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7fe0",
+  "script": "kai",
+  "character": "翠",
+  "reading": "cuì",
+  "description": "cuì：(1)绿色～绿。苍～。～微（青绿的山色，亦泛指青山）。\n(2)指翡翠”（硬玉）～玉。～镯。珠宝～钻。\n〔～鸟〕属鸣禽类，形似杜鹃，嘴长，头部深橄榄色，有青绿色斑纹，背青绿色，腹赤褐色，尾短，捕食小鱼。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-翠"
+}

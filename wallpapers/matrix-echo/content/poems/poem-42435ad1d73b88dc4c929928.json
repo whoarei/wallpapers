@@ -1,0 +1,14 @@
+{
+  "id": "poem-42435ad1d73b88dc4c929928",
+  "title": "春秋战国门 子产",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "为政何门是化源，宽仁高下保安全。",
+    "如嫌水德人多狎，拯溺宜将猛济宽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2a504538-462d-42a4-a1fd-8465841458fe"
+}

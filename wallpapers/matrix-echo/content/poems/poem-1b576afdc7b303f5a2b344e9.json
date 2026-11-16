@@ -1,0 +1,15 @@
+{
+  "id": "poem-1b576afdc7b303f5a2b344e9",
+  "title": "水底鱼",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生、外、末扮番军上)白草黄沙，毡房为住家。",
+    "胡儿胡女惯能骑战马。",
+    "因贪财宝到中华，闲戏耍，被他拿住，铁里温都哈喇。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2856",
+  "tags": []
+}

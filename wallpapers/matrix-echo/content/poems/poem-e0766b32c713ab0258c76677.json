@@ -1,0 +1,22 @@
+{
+  "id": "poem-e0766b32c713ab0258c76677",
+  "title": "哭殷遥",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "人生能几何，毕竟归无形。",
+    "念君等为死，万事伤人情。",
+    "慈母未及葬，一女才十龄。",
+    "泱漭寒郊外，萧条闻哭声。",
+    "浮云为苍茫，飞鸟不能鸣。",
+    "行人何寂寞，白日自凄清。",
+    "忆昔君在时，问我学无生。",
+    "劝君苦不早，令君无所成。",
+    "故人各有赠，又不及生平。",
+    "负尔非一途，恸哭返柴荆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-41355750-b4e1-4c5a-8fc6-17f4e8a7049e"
+}

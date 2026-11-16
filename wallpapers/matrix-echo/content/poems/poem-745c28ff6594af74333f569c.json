@@ -1,0 +1,16 @@
+{
+  "id": "poem-745c28ff6594af74333f569c",
+  "title": "随州献李侍御二首 一",
+  "author": "姚鹄",
+  "dynasty": "唐",
+  "verses": [
+    "彩笔曾专造化权，道尊翻向宦途闲。",
+    "端居有地唯栽药，静坐无时不忆山。",
+    "德望旧悬霄汉外，政声新溢路歧间。",
+    "众知圣主搜贤相，朝夕欲徴黄霸还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-6ea858a2-2beb-4a9f-945d-d13ae55873bc"
+}

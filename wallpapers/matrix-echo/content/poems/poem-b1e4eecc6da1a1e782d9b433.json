@@ -1,0 +1,16 @@
+{
+  "id": "poem-b1e4eecc6da1a1e782d9b433",
+  "title": "兵火后野望  其一",
+  "author": "艾可翁",
+  "dynasty": "宋",
+  "verses": [
+    "干戈连万国，丘壑卧三年。",
+    "虎啸黄茅地，鸦屯白骨田。",
+    "渴虹疑竭海，腥雾欲沈天。",
+    "摇落前朝老，长怀鲁仲连。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-ad78ab14-5511-4a57-ab1e-19258c45bc92"
+}

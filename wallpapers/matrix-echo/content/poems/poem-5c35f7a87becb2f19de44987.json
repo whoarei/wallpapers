@@ -1,0 +1,16 @@
+{
+  "id": "poem-5c35f7a87becb2f19de44987",
+  "title": "去秋行",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "去秋涪江木落时，臂枪走马谁家儿。",
+    "到今不知白骨处，部曲有去皆无归。",
+    "遂州城中汉节在，遂州城外巴人稀。",
+    "战场冤魂每夜哭，空令野营猛士悲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-21f7f097-466f-4f6a-b76f-96d443de7109"
+}

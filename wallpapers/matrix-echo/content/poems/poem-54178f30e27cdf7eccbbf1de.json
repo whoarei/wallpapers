@@ -1,0 +1,16 @@
+{
+  "id": "poem-54178f30e27cdf7eccbbf1de",
+  "title": "陈正字山居",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "一叶闲飞斜照里，江南仲蔚在蓬蒿。",
+    "天衢云险驽骀蹇，月桂风和梦想劳。",
+    "遶枕泉声秋雨细，对门山色古屏高。",
+    "此中即是神仙地，引手何妨一钓鼇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-eb17d113-a2f4-47aa-bdbd-4b4ff1cadfb6"
+}

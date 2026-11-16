@@ -1,0 +1,17 @@
+{
+  "id": "poem-2afa0eb3b857e9e4c60268cf",
+  "title": "登米老庵呈天启学士",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "我居为江山，亦不为像法。",
+    "劫火色相空，未觉眼界乏。",
+    "屹然留西庵，使我老境惬。",
+    "卫公精爽在，千古对岌嶪。",
+    "公来不可作，登临浩相接。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-c8f08b25-58a9-4562-b3b4-bdd9ba67de53"
+}

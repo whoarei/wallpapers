@@ -1,0 +1,14 @@
+{
+  "id": "poem-4257c05bb71cb8ad7ec67345",
+  "title": "放鹦鹉二首  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "虽道长安乐，争如在陇头。",
+    "林间祝圣主，万歳复千秋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-5d502386-0ccf-4d7b-804f-ba2ff0717804"
+}

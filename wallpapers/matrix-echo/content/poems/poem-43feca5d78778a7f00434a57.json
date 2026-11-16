@@ -1,0 +1,14 @@
+{
+  "id": "poem-43feca5d78778a7f00434a57",
+  "title": "浣溪沙·偏戴花冠白玉簪",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "偏戴花冠白玉簪，睡容新起意沉吟，翠钿金缕镇眉心。",
+    "小槛日斜风悄悄，隔帘零落杏花阴，断香轻碧锁愁深。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-34"
+}

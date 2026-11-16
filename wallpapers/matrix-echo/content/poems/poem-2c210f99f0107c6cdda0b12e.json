@@ -1,0 +1,16 @@
+{
+  "id": "poem-2c210f99f0107c6cdda0b12e",
+  "title": "送僧归玉泉寺",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "玉泉归故刹，便老是僧期。",
+    "乱木孤蝉后，寒山绝鸟时。",
+    "若寻流水去，转出白云迟。",
+    "见说千峰路，溪深复顶危。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-135b439d-b60c-4a42-8d0c-22cc25e42426"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-815bda88b0cc02ddb2642405",
+  "title": "杂诗 十三",
+  "author": "无名氏",
+  "dynasty": "唐",
+  "verses": [
+    "近寒食雨草萋萋，著麦苗风柳映堤。",
+    "早是有家归未得，杜鹃休向耳边啼。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "寒食节",
+    "七言绝句",
+    "思乡",
+    "感伤"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-31e9a6b0-5035-4b1b-a9d3-ff1c279f53b6"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-d41b71233b7c5e8db367fefa",
+  "title": "诉衷情·高歌宴罢月初盈",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "高歌宴罢月初盈，诗情引恨情。",
+    "烟露冷，水流轻，思想梦难成。",
+    "罗帐袅香平，恨频生。",
+    "思君无计睡还醒，隔层城。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-4"
+}

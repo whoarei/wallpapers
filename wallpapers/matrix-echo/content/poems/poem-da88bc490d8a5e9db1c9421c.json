@@ -1,0 +1,14 @@
+{
+  "id": "poem-da88bc490d8a5e9db1c9421c",
+  "title": "代崇徽公主意",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "金钗坠地鬓堆云，自别朝阳帝岂闻。",
+    "遣妾一身安社稷，不知何处用将军。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-1a7353dc-27dd-4f11-a384-4cec7a407e29"
+}

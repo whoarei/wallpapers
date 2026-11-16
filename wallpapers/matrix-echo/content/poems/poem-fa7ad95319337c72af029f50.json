@@ -1,0 +1,18 @@
+{
+  "id": "poem-fa7ad95319337c72af029f50",
+  "title": "圣小儿诗",
+  "author": "贺德英",
+  "dynasty": "宋",
+  "verses": [
+    "英秀钟河岳，生来号圣儿。",
+    "虽云年尚小，不待学而知。",
+    "博古通今识，超群迈秀姿。",
+    "浩然食牛气，非若聚鱼嬉。",
+    "祖莹耽书日，甘罗入相时。",
+    "看看头角长，身到凤凰池。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-3519c7d8-3172-495b-a102-8eba82429b7b"
+}

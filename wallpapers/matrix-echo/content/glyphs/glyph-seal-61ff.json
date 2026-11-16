@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-61ff",
+  "script": "seal",
+  "character": "懿",
+  "reading": "yì",
+  "description": "yì：美好（多指德行，指有关女子的）嘉言～行。～范。～德。～旨（皇后或太后的诏令）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-懿"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-0afcd1b01cd04e0f05635a5b",
+  "title": "同朱五题卢使君义井",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "高义唯良牧，深仁自下车。",
+    "宁知凿井处，还是饮冰余。",
+    "地即泉源久，人当汲引初。",
+    "体清能鉴物，色洞每含虚。",
+    "上善滋来往，中和浃里闾。",
+    "济时应未竭，怀惠复何如。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-ff727be9-d103-4627-890a-94808ee85a13"
+}

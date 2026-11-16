@@ -1,0 +1,16 @@
+{
+  "id": "poem-c6e49bc563957bb884b2b22d",
+  "title": "乾元中寓居同谷县作歌七首 四",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "有妹有妹在钟离，良人早殁诸孤痴。",
+    "长淮浪高蛟龙怒，十年不见来何时。",
+    "扁舟欲往箭满眼，杳杳南国多旌旗。",
+    "鸣呼四歌兮歌四奏，林猨为我啼清昼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d9068fa3-4453-4d44-845f-1a4ab4186a1a"
+}

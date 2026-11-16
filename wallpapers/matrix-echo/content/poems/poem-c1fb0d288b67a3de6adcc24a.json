@@ -1,0 +1,15 @@
+{
+  "id": "poem-c1fb0d288b67a3de6adcc24a",
+  "title": "神功盛德诗  其一",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "茫茫神州，有疆有理。",
+    "歼殄豺虎，翦夷荆杞。",
+    "人可以群，神获其祀，惟宣祖是畀。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-6504b6ef-3b36-4a9c-ab33-7eab0fa74f4b"
+}

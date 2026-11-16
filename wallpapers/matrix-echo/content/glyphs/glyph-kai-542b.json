@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-542b",
+  "script": "kai",
+  "character": "含",
+  "reading": "hán",
+  "description": "hán：(1)衔在嘴里，不吐出也不咽下～一口水。～漱剂。～英咀（jǔ）华（喻反复琢磨体味文章的妙处）。～饴弄孙（含着糖逗小孙子，形容老年人的乐趣）。\n(2)藏在里面，包容在里面包～。～义。～量。～苞。～蕴。～混。～垢纳污（指包容坏人坏事）。\n(3)怀有某种感情或意思，不完全表露出来～怒。～羞。～情。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-含"
+}

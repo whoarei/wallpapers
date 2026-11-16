@@ -1,0 +1,16 @@
+{
+  "id": "poem-ed5dba11256820c92f229adf",
+  "title": "衮第三",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "那更老亲，鬓垂白，筋力皆癯瘁。",
+    "形只影单，无弟兄，谁奉侍？况隔千山万水，生死存亡，虽有音书难寄。",
+    "最可悲，他甘旨不供，我食禄有愧。",
+    "(又唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5025",
+  "tags": []
+}

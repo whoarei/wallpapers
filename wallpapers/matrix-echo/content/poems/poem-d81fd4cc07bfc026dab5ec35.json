@@ -1,0 +1,16 @@
+{
+  "id": "poem-d81fd4cc07bfc026dab5ec35",
+  "title": "挽令人",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "糟糠情味饱相谙，我事耕耘尔力蚕。",
+    "误走迷途半天下，忽惊魂梦断泉南。",
+    "二年旅榇悲无奈，千里途车涕不堪。",
+    "预卜黄华晚秋节，佳城归祔白岩庵。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-b3787fd3-facf-4591-9e29-ac34daa31089"
+}

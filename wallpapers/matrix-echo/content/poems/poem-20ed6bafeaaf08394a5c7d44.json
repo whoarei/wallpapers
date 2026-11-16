@@ -1,0 +1,18 @@
+{
+  "id": "poem-20ed6bafeaaf08394a5c7d44",
+  "title": "鹧鸪天·莫问甘醪浊与清",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "莫问甘醪浊与清。",
+    "试将一酌破愁城。",
+    "海棠过后荼蘼发，堪叹人间不再生。",
+    "心已老，眼重明。",
+    "嫣然国色带朝酲。",
+    "耳边听得兰亭曲，一咏流觞已有名。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-741",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-98838c07f4689d8f5d489f59",
+  "title": "怀智体道人",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "栖碧思吾友，庭莺百啭时。",
+    "唯应一处住，方得不相思。",
+    "云水淹门阃，春雷在树枝。",
+    "平生无限事，不独白云知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-8aee9d96-68d9-4f98-8e8c-7398592228ad"
+}

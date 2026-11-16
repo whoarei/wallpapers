@@ -1,0 +1,16 @@
+{
+  "id": "poem-a93154a3bcb28222a42a2b41",
+  "title": "题青龙兴化禅院方丈",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "廓然丈室湛虚明，地僻山空万象清。",
+    "滴翠老杉清净色，锵金流水妙圆声。",
+    "慇懃禅客邀迎厚，寂寞宰官身世轻。",
+    "野鹤孤云无不可，会须还作二龙行。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-d19b0a85-4a9b-4541-977a-f67d0cfb1c7c"
+}

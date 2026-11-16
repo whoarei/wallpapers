@@ -1,0 +1,16 @@
+{
+  "id": "poem-a865f2641dc9cfb86b592504",
+  "title": "尚书新造花笺",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "浓染红桃二月花，只宜神笔纵龙蛇。",
+    "浅澄秋水看云母，碎擘轻苔间粉霞。",
+    "写赋好追陈后宠，题诗堪送窦滔家。",
+    "使君即入金銮殿，夜直无非草白麻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ba028a2f-decc-4bfb-abe3-15ab300eb410"
+}

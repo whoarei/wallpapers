@@ -1,0 +1,14 @@
+{
+  "id": "poem-3ec933834acf528322bb07fb",
+  "title": "送人归黔府",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "伏波箫鼓水云中，长戟如霜大斾红。",
+    "油幕晓开飞鸟绝，翩翩上将独趋风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-2fea3769-7cab-4c8d-9a7b-5a9d654b9573"
+}

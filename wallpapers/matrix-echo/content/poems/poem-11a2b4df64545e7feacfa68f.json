@@ -1,0 +1,16 @@
+{
+  "id": "poem-11a2b4df64545e7feacfa68f",
+  "title": "次韵柳郎中二咏  其一",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "蒲条围坐雪添瓶，侧理糊窗炽炭明。",
+    "常对图书堆四壁，却思裘褐胜双旌。",
+    "道心生后安休息，事局闲来怕践更。",
+    "睡足定应输杜守，穷愁何必学虞卿。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-5b283344-201b-4be8-a4b2-d124afed6904"
+}

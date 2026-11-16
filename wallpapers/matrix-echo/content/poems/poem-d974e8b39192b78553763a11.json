@@ -1,0 +1,14 @@
+{
+  "id": "poem-d974e8b39192b78553763a11",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)休焦，所许前问，侍枕之私，敢惜微眇。",
+    "(生)既如此，却又推三阻四怎么？(旦)怕仁人累德，娶而不告，朋友相嘲。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2984",
+  "tags": []
+}

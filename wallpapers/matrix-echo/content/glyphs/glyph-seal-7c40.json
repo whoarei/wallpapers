@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7c40",
+  "script": "seal",
+  "character": "籀",
+  "reading": "zhòu",
+  "description": "zhòu：阅读～读（读书）。～绎（阅读并理出文章的脉络）。\n〔～文〕古代的一种字体。中国春秋战国时流行于秦国，今存石鼓文是其代表。亦称大篆”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-籀"
+}

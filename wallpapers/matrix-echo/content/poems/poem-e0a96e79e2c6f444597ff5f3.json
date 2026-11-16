@@ -1,0 +1,20 @@
+{
+  "id": "poem-e0a96e79e2c6f444597ff5f3",
+  "title": "送杨长史赴果州",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "襃斜不容幰，之子去何之。",
+    "鸟道一千里，猿声十二时。",
+    "官桥祭酒客，山木女郎祠。",
+    "别后同明月，君应听子规。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "抒情",
+    "送别",
+    "写景"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-4787f534-eb1a-4c3b-a785-6e36eadf9f45"
+}

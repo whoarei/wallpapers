@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-97ad",
+  "script": "kai",
+  "character": "鞭",
+  "reading": "biān",
+  "description": "biān：(1)驱使牲畜的用具，柔软像绳子～杆。～长莫及。\n(2)用鞭子抽打～打。～扑。～责。～策。\n(3)形状细长类似鞭子的东西教～。\n(4)一种古代兵器，铁制有节，无锋刃钢～。竹节～。\n(5)编连成串的爆竹～炮。小～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鞭"
+}

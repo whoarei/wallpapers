@@ -1,0 +1,16 @@
+{
+  "id": "poem-7a595a4879474890f31f23b7",
+  "title": "思园春",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)久阻尊颜想念勤。",
+    "(老旦)孩儿，此逢将谓是梦和魂。",
+    "(外)这女儿是谁？(老旦)是我途中厮认来的。",
+    "(小旦)奴是不应亲者，今日强来亲。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3030",
+  "tags": []
+}

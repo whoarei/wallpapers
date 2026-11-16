@@ -1,0 +1,14 @@
+{
+  "id": "poem-2024a26ae3343d040ac98892",
+  "title": "范真传侍御累有寄因奉酬十首 一",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "昨日新花红满眼，今朝美酒绿留人。",
+    "更宜明月含芳露，凭仗萧郎夜赏春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-07ff702e-afa1-4580-a6cd-edd5c07cad60"
+}

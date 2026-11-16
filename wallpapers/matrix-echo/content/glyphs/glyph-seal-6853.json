@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6853",
+  "script": "seal",
+  "character": "桓",
+  "reading": "huán",
+  "description": "huán：(1)古代立在城郭、宫殿、官署、陵墓或驿站路边的木柱～表。\n(2)大～治（大治）。\n(3)姓。\n〔～～〕威武的样子，如～～陈将军，仗钺奋忠烈”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-桓"
+}

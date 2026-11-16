@@ -1,0 +1,18 @@
+{
+  "id": "poem-e2429d946abc9207eaf7d016",
+  "title": "丰年多庆九日示怀",
+  "author": "德宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "爽气肃时令，早衣闻朔鸿。",
+    "重阳有佳节，具物欣年丰。",
+    "皎洁暮潭色，芬敷新菊丛。",
+    "芳尊满衢室，繁吹凝烟空。",
+    "惠合信吾道，保和惟尔同。",
+    "推诚至玄化，天下期为公。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-776916a8-bf58-4662-9596-e233239efdec"
+}

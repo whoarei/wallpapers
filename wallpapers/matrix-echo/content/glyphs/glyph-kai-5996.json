@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5996",
+  "script": "kai",
+  "character": "妖",
+  "reading": "yāo",
+  "description": "yāo：(1)迷信的人指异于常态而害人的东西～魔鬼怪。～精（a.妖怪；b.喻姿色迷人的女子。精”均读轻声）。～氛。\n(2)装束或神态不正派～里～气。～态。\n(3)媚，艳丽～女。～娆。～艳。～冶。～妍。\n(4)邪恶而迷惑人的～言。～人。～术。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-妖"
+}

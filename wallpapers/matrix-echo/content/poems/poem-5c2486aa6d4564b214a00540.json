@@ -1,0 +1,15 @@
+{
+  "id": "poem-5c2486aa6d4564b214a00540",
+  "title": "有駜",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "有駜有駜，駜彼乘黄。夙夜在公，在公明明。振振鹭，鹭于下。鼓咽咽，醉言舞。于胥乐兮！",
+    "有駜有駜，駜彼乘牡。夙夜在公，在公饮酒。振振鹭，鹭于飞。鼓咽咽，醉言归。于胥乐兮！",
+    "有駜有駜，駜彼乘駽。夙夜在公，在公载燕。自今以始，岁其有。君子有谷，诒孙子。于胥乐兮！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-297"
+}

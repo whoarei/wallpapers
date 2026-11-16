@@ -1,0 +1,16 @@
+{
+  "id": "poem-51bd03f4c1b786b709c01493",
+  "title": "送郑孝廉淮西觐省",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "离袂翠华满，晨羞欲早行。",
+    "春风生楚树，晓角发隋城。",
+    "野霭湿衣彩，江鸿增客情。",
+    "征途不用戒，坐见白波清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3571ccea-faa3-42ec-bb60-33cbb4d2f112"
+}

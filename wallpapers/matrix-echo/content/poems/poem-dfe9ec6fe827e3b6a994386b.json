@@ -1,0 +1,16 @@
+{
+  "id": "poem-dfe9ec6fe827e3b6a994386b",
+  "title": "题新安国寺",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "佛亦遇艰难，重兴叠废坛。",
+    "偃松枝旧折，画竹粉新干。",
+    "开讲宫娃听，抛生禁鸟餐。",
+    "钟声入帝梦，天竺化长安。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-13d229d0-4297-4936-bf0a-bb367ad0ddc9"
+}

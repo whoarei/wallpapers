@@ -1,0 +1,16 @@
+{
+  "id": "poem-a6022b4e3f2f6a04f9f9769e",
+  "title": "山中道者",
+  "author": "苏拯",
+  "dynasty": "唐",
+  "verses": [
+    "筇杖六尺许，坐石流泉所。",
+    "举头看古松，似对仙鹤语。",
+    "是时天气清，四迥无尘侣。",
+    "顾我笑相迎，知有丹砂异。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-dccaae80-d48f-4071-bab5-52a00fc01ce7"
+}

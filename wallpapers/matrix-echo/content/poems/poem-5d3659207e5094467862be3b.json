@@ -1,0 +1,17 @@
+{
+  "id": "poem-5d3659207e5094467862be3b",
+  "title": "杏殇 二",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "地上空拾星，枝上不见花。",
+    "哀哀孤老人，戚戚无子家。",
+    "岂若没水凫，不如拾巢鸦。",
+    "浪鷇破便飞，风雏褭相夸。",
+    "芳婴不复生，向物空悲嗟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-cd91cd6c-166f-4f90-bcab-d71b2f6d48bc"
+}

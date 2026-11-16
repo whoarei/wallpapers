@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-901e",
+  "script": "seal",
+  "character": "逞",
+  "reading": "chěng",
+  "description": "chěng：(1)显示，施展，炫耀，卖弄～能。～强。～凶。～威风。\n(2)意愿实现，称心～志。～吾愿。不～之徒（因私欲得不到满足而为非作歹，捣乱闹事的人）。\n(3)放任～性。骄～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-逞"
+}

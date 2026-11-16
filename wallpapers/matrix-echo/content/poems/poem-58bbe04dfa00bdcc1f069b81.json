@@ -1,0 +1,14 @@
+{
+  "id": "poem-58bbe04dfa00bdcc1f069b81",
+  "title": "浣溪沙·夜夜相思更漏残",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "夜夜相思更漏残，伤心明月凭栏干，想君思我锦衾寒。",
+    "咫尺画堂深似海，忆来唯把旧书看，几时携手入长安。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-32"
+}

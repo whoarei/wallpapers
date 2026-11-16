@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53ec",
+  "script": "kai",
+  "character": "召",
+  "reading": "zhào；shào",
+  "description": "zhào：(1)召唤～集。～见。\n(2)召致，引来～祸。～人怨。\nshào：古通邵”，古邑名，在今中国陕西省岐山县西南。（三）姓氏。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-召"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-2d642f2adec22db3fedf979a",
+  "title": "句",
+  "author": "李涛",
+  "dynasty": "宋",
+  "verses": [
+    "一言寤主宁复听，三谏不从归去来。",
+    "谏晋主不从作。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-329ddd62-6d24-4e48-aad7-78a4708b4d6a"
+}

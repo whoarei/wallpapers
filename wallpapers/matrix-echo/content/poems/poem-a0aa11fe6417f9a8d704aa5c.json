@@ -1,0 +1,13 @@
+{
+  "id": "poem-a0aa11fe6417f9a8d704aa5c",
+  "title": "句",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "公道此时如不得，昭陵恸哭一生休。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-fc3945f6-f7a7-434c-adc5-fe0b2043d17d"
+}

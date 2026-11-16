@@ -1,0 +1,14 @@
+{
+  "id": "poem-1dc4ffa334785942b24f1932",
+  "title": "小游仙诗九十八首 三十四",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "天上邀来不肯来，人间双鹤又空回。",
+    "秦皇汉武死何处，海畔红桑花自开。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a101806a-f602-46be-ac4f-c06fd32c72cd"
+}

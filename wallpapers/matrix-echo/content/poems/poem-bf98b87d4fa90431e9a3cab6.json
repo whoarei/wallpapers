@@ -1,0 +1,19 @@
+{
+  "id": "poem-bf98b87d4fa90431e9a3cab6",
+  "title": "点绛唇·何处君家",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "何处君家，蟠桃花下瑶池畔。",
+    "日迟烟暖。",
+    "占得春长远。",
+    "几见花开，一任年光换。",
+    "今年见。",
+    "明年重见。",
+    "春色如人面。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-852",
+  "tags": []
+}

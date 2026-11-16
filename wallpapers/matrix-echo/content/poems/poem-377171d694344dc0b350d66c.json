@@ -1,0 +1,18 @@
+{
+  "id": "poem-377171d694344dc0b350d66c",
+  "title": "蓦山溪·山明水秀",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "山明水秀，尽属诗人道。",
+    "应是五陵儿，见衰翁、孤吟绝倒。",
+    "一觞一咏，潇洒寄高闲，松月下，竹风间，试想为襟抱。",
+    "玉关遥指，万里天衢杳。",
+    "笔阵扫秋风，泻珠玑、琅琅皎皎。",
+    "卧龙智略，三诏佐升平，烟塞事，玉堂心，频把菱花照。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-749",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-82db",
+  "script": "seal",
+  "character": "苛",
+  "reading": "kē；hē",
+  "description": "kē：(1)过于严厉～刻。～毒。～求。～责。～待。\n(2)繁重，使人难以忍受～重（zhòng）。～捐杂税。\n(3)腐蚀性～性（如氢氧化钾、氢氧化钠等能腐蚀皮肤及纤维之类的化学性质）。～性钠（烧碱）。\nhē：古同诃”，谴责，责问。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-苛"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-a12909ea6f69fa488976574a",
+  "title": "玉蝴蝶·春欲尽",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "春欲尽，景仍长，满园花正黄。",
+    "粉翘两悠飏，翩翩过短墙。",
+    "鲜飙暖，牵游伴，飞去立残芳。",
+    "无语对萧娘，舞衫沉麝香。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-31"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b8d2f7a07e4be373df00878",
+  "title": "游仙窟诗 咏双树",
+  "author": "张文成",
+  "dynasty": "唐",
+  "verses": [
+    "新华发两树，分香遍一林。",
+    "迎风转细影，向日动轻阴。",
+    "戏蜂时隐见，飞蝶远追寻。",
+    "承闻欲采摘，若个动君心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-2893058c-de87-4b31-9753-5ac056a456ec"
+}

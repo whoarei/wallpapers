@@ -1,0 +1,14 @@
+{
+  "id": "poem-e2e53accc3983ccfe4f33a4c",
+  "title": "湖上",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "万红飞尽雨如烟，心事伤春哭杜鹃。",
+    "游子不来弦管歇，画船空系柳丝边。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-339b1c79-25a9-4014-a942-9a6329bb0577"
+}

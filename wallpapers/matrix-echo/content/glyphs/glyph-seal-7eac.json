@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7eac",
+  "script": "seal",
+  "character": "纬",
+  "reading": "wěi",
+  "description": "缠捆,系束\n组织\n治理\n纬纱;织物的横丝\n东西向的道路或土地。与南北向的经”相\n⒈纬线，织布时使用梭子穿织的横纱或编织物的横线。\n⒉地理学上假设的与赤道平行之线。从赤道向北的称\"北纬\"，从赤道向南的称\"南纬\"，由赤道至南极或北极各为九十度。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-纬"
+}

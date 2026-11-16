@@ -1,0 +1,22 @@
+{
+  "id": "poem-641f84c0239e1db058b7d45a",
+  "title": "奉和九日幸临渭亭登高应制得枝字",
+  "author": "韦安石",
+  "dynasty": "唐",
+  "verses": [
+    "重九开秋节，得一动宸仪。",
+    "金风飘菊蘂，玉露泫萸枝。",
+    "睿览八纮外，天文七曜披。",
+    "临深应在即，居高岂忘危。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "重阳",
+    "写景",
+    "抒情",
+    "登高",
+    "重阳节"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-de75bf9f-8d29-41a6-9a03-ce01876f7971"
+}

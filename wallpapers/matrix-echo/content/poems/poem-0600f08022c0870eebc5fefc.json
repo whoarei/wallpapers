@@ -1,0 +1,16 @@
+{
+  "id": "poem-0600f08022c0870eebc5fefc",
+  "title": "长安退将",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "塞外冲沙损眼明，归来养病住秦京。",
+    "上高楼阁看星坐，著白衣裳把劒行。",
+    "常说老身思鬬将，最悲无力制蕃营。",
+    "翠眉红脸和回鹘，惆怅中原不用兵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e29cad57-2131-4c70-a665-685a81ce8286"
+}

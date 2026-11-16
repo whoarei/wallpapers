@@ -1,0 +1,16 @@
+{
+  "id": "poem-bed3a04a7aa7c2eb4665e662",
+  "title": "题终南麻先生寂禅师石室",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "因居石室贫，五十二回春。",
+    "拥褐冥心客，穷经暮齿人。",
+    "翠沈空水定，雨绝片云新。",
+    "危细秋峰径，相随到顶频。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-69e6771a-9618-4817-a98b-63bae08e606d"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4eff",
+  "script": "kai",
+  "character": "仿",
+  "reading": "fǎng",
+  "description": "fǎng：(1)效法，照样做～效。～古。～冒。～宋（印刷字体的一种，亦称仿宋体”）。\n(2)依照范本写的字～影。～书。\n(3)相似，好像～像（仿佛相似）。～佛（fú）。二者相～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-仿"
+}

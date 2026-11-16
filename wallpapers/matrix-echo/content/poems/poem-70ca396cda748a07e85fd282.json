@@ -1,0 +1,16 @@
+{
+  "id": "poem-70ca396cda748a07e85fd282",
+  "title": "红衫儿",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "你不信我教伊休说破，到此如何？算你爹心性，我岂不料过。",
+    "我为甚胡掩胡遮？只为着这些。",
+    "你直待要打破了砂锅，是你招灾揽祸。",
+    "(贴唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5181",
+  "tags": []
+}

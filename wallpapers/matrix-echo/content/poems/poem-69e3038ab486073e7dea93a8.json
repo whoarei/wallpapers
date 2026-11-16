@@ -1,0 +1,16 @@
+{
+  "id": "poem-69e3038ab486073e7dea93a8",
+  "title": "赠可上人",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "寺门和鹤倚香杉，月吐秋光到思嚵。",
+    "将法传来穿泱漭，把诗吟去入嵌岩。",
+    "糢糊书卷烟岚滴，狼籍衣裳瀑布缄。",
+    "不断清风牙底嚼，无因内殿得名衔。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8ec6188a-cfae-416e-b48f-5906b2877810"
+}

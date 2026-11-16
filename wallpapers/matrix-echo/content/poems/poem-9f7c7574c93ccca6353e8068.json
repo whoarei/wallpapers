@@ -1,0 +1,16 @@
+{
+  "id": "poem-9f7c7574c93ccca6353e8068",
+  "title": "横吹曲辞 洛阳道",
+  "author": "于武陵",
+  "dynasty": "唐",
+  "verses": [
+    "浮世若浮云，千回故复新。",
+    "旋添青草冢，更有白头人。",
+    "岁暮客将老，雪晴山欲春。",
+    "行行车与马，不尽洛阳尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ef02ddad-16dc-47e8-b7fc-f5afd4c8c593"
+}

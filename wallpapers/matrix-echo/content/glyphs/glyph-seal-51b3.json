@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-51b3",
+  "script": "seal",
+  "character": "决",
+  "reading": "jué",
+  "description": "jué：(1)排除阻塞物，疏通水道禹～江疏河”。\n(2)堤岸被水冲开～口。溃～。\n(3)断定，拿定主意～定。～断。～计。～然。～胜。～议。犹豫不～。\n(4)一定（用在否定词前）～不后退。\n(5)决定最后胜败～赛。～战。\n(6)执行死刑处～。枪～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-决"
+}

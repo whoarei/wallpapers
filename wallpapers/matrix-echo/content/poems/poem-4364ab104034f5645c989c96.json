@@ -1,0 +1,15 @@
+{
+  "id": "poem-4364ab104034f5645c989c96",
+  "title": "一○三",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "世无百年人，强作千年调。",
+    "（《分门古今类事》卷三引《南史》引此诗，「强」作「拟」，「年」作「岁」，「打」作「以」，「限」作「关」。",
+    "）打铁作门限，鬼见拍手笑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-88c2de9f-080c-4132-ae80-ae67c4cf2cf8"
+}

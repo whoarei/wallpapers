@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51a0",
+  "script": "kai",
+  "character": "冠",
+  "reading": "guàn；guān",
+  "description": "guān：(1)帽子衣～。～戴。～盖（古代官吏的帽子和车盖，借指官吏）。衣～楚楚。\n(2)形状像帽子或在顶上的东西～子。鸡～。树～。～状动脉。\nguàn：(1)把帽子戴在头上沐猴而～。\n(2)超出众人，居第一位～军。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-冠"
+}

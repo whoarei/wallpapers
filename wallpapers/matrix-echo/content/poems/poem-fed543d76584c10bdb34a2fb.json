@@ -1,0 +1,14 @@
+{
+  "id": "poem-fed543d76584c10bdb34a2fb",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "妾的衷肠事，万万千，说来又怕添萦绊。",
+    "六十日夫妻恩情断，八十岁父母如何展？教我如何不怨？(合前)(末唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4950",
+  "tags": []
+}

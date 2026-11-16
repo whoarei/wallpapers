@@ -1,0 +1,16 @@
+{
+  "id": "poem-c85929dbabf8cd7aec560f13",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "是我夫，不相认，见着我忙闭了门。",
+    "我当初闭门不留伊，你及第应是无分。",
+    "千余里，到此来，望你厮存问。",
+    "目下要归我没盘缠，我今宵，更无投奔。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2657",
+  "tags": []
+}

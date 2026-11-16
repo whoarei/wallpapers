@@ -1,0 +1,19 @@
+{
+  "id": "poem-3445ea701b976922d8509669",
+  "title": "秋夜巫山",
+  "author": "乔备",
+  "dynasty": "唐",
+  "verses": [
+    "巫峡徘徊雨，阳台潭[一]荡云。",
+    "江山空窈窕，朝暮自氛氲。",
+    "萤色寒秋露，猿啼清夜闻。",
+    "唯怜梦魂远，肠断思纷纷。",
+    "（[一]俞云：「『潭』当作『澹』。",
+    "」刘云：「潭荡双声字。",
+    "」）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-00809229-fe6e-48c6-9783-38a1cab1dfe1"
+}

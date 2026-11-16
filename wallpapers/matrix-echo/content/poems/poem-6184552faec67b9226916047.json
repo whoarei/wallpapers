@@ -1,0 +1,16 @@
+{
+  "id": "poem-6184552faec67b9226916047",
+  "title": "郊庙歌辞 蜡百神乐章 雍和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "缇籥劲序，玄英晚候。",
+    "姬蜡开仪，豳歌入奏。",
+    "蕙馥雕俎，兰芬玉酎。",
+    "大享明祇，永绥多祐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d441fe0d-554f-42aa-9e65-272f75f506e3"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-bdd52aea406aba48337c67d0",
+  "title": "句 千秋节应制",
+  "author": "陆坚",
+  "dynasty": "唐",
+  "verses": [
+    "风移覃土宇，云上浃群臣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-f9e4128d-2ed0-4356-917c-ca2e67d4a0bb"
+}

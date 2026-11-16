@@ -1,0 +1,16 @@
+{
+  "id": "poem-34b8d60b4d0e823445c34c27",
+  "title": "秋雨叹三首 三",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "长安布衣谁比数，反鏁衡门守环堵。",
+    "老夫不出长蓬蒿，穉子无忧走（一作「奏」）风雨。",
+    "雨声飕飕催早寒，胡雁翅湿高飞难。",
+    "秋来未曾（一作「省」）见白日，埿污后（一作「厚」）土何时干？"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-9c725632-fe02-4fc7-b443-9410da36c7e5"
+}

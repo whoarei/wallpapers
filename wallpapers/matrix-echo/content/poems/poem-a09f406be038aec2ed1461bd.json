@@ -1,0 +1,18 @@
+{
+  "id": "poem-a09f406be038aec2ed1461bd",
+  "title": "思佳客·不肯楼边著画船",
+  "author": "高观国",
+  "dynasty": "宋",
+  "verses": [
+    "不肯楼边著画船。",
+    "载将诗酒入风烟。",
+    "浪花溅白疑飞鹭，荷芰藏红似小莲。",
+    "醒醉梦，唤吟仙。",
+    "先秋一叶莫惊蝉。",
+    "白云乡里温柔远，结得清凉世界缘。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-382",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-c4aa939078c7f08b0826cb49",
+  "title": "雪霁晨起",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "雪覆寒溪竹，风卷野田蓬。",
+    "四望无竹迹，谁怜孤老翁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-275423ed-cfdb-4b5b-830e-cc40137333ee"
+}

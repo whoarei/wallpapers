@@ -1,0 +1,14 @@
+{
+  "id": "poem-0b61962d00783173ea10c9b1",
+  "title": "别董大二首 一",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "十里黄云白日曛，北风吹雁雪纷纷。",
+    "莫愁前路无知己，天下谁人不识君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-36d65b5a-7b4d-4b3d-a1b7-6fd144360f8f"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-298896b9e0822950fc14070c",
+  "title": "幽情",
+  "author": "李收",
+  "dynasty": "唐",
+  "verses": [
+    "幽人惜春暮，潭上折芳草。",
+    "佳期何时还，欲寄千里道。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d2badd5e-3ef1-45e1-a80c-7a520b185952"
+}

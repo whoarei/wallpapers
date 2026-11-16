@@ -1,0 +1,19 @@
+{
+  "id": "poem-0d21c1cb3405c9da68218920",
+  "title": "太湖馆送殷秀才赴举",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "春风洞庭路，摇荡暮天多。",
+    "衰疾见芳草，别离伤远波。",
+    "诗名推首荐，赋甲拟前科。",
+    "数日闻天府，山衣制芰荷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "太湖",
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-1439bee2-2d1c-48b2-82c3-b404a9fdacbc"
+}

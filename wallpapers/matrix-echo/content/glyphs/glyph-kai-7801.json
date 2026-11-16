@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7801",
+  "script": "kai",
+  "character": "码",
+  "reading": "mǎ",
+  "description": "表示数目的符号\n计算数目的用具\n指垒成的堆。相当于垛\n⒈代表数目的符号数～∨～儿。邮政编～。\n⒉计算数目的用具珐～。筹～子。\n⒊指一件事或一类的事两～事，不能混为一谈。\n⒋英美长度单位，1码等于0.9144米。\n⒌〈方〉垒起～雪人。那个小孩在～积木。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-码"
+}

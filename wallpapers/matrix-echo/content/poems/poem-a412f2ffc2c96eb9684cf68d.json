@@ -1,0 +1,14 @@
+{
+  "id": "poem-a412f2ffc2c96eb9684cf68d",
+  "title": "谪后再书一绝",
+  "author": "卢肇",
+  "dynasty": "唐",
+  "verses": [
+    "崆峒道士悮烧丹，赤鼠黄牙几许难。",
+    "坠堕阎浮南斗下，不知何事犯星官。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-8ca8e155-a2e7-466b-b002-509820884ebc"
+}

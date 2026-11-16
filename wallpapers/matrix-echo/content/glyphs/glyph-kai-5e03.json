@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e03",
+  "script": "kai",
+  "character": "布",
+  "reading": "bù",
+  "description": "bù：(1)棉、麻及棉型化学短纤维经纺纱后的织成物～匹。～帛。～衣。\n(2)古代的一种钱币。\n(3)宣告，对众陈述宣～。发～。～告。开诚～公（推诚相见，坦白无私）。\n(4)分散到各处散～。遍～。星罗棋～。\n(5)流传，散播～道。～施。\n(6)做出安排～置。～景。～局。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-布"
+}

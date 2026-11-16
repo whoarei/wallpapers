@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-887d",
+  "script": "seal",
+  "character": "衽",
+  "reading": "rèn",
+  "description": "rèn：(1)衣襟连～成帷”。敛～。\n(2)衣袖。\n(3)古代睡觉时用的席子～席。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-衽"
+}

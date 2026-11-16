@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6e83",
+  "script": "seal",
+  "character": "溃",
+  "reading": "kuì",
+  "description": "⒈水冲破堤坝～决。～溢。大水～出。〈引〉冲破包围～围而出。\n⒉散乱，垮台～散。败将～兵。～不成军。经济崩～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-溃"
+}

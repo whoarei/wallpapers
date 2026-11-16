@@ -1,0 +1,14 @@
+{
+  "id": "poem-5d058c5fa50a9eee2dc4f34d",
+  "title": "滴翠峰",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "春气薰空草木浮，绿云冉冉起山头。",
+    "岚光浥翠浓于染，润入衣襟冷欲秋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-fa6511b0-26db-44ca-ab46-b2c08007e6f0"
+}

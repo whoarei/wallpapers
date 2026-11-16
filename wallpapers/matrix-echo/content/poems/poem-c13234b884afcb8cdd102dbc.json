@@ -1,0 +1,14 @@
+{
+  "id": "poem-c13234b884afcb8cdd102dbc",
+  "title": "南乡子·烟漠漠",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "烟漠漠，雨凄凄，岸花零落鹧鸪啼。",
+    "远客扁舟临野渡，思乡处，潮退水平春色暮。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-25"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-2a41cde54fe0d5bec47b75a8",
+  "title": "水调歌头·静练平千顷",
+  "author": "仲并",
+  "dynasty": "宋",
+  "verses": [
+    "静练平千顷，华栋俯中流。",
+    "凌晨画戟，来看宿雨断虹收。",
+    "八九胸中云梦，三千笔端风月，无处快凝眸。",
+    "笑咏一堂上，挥麈气横秋。",
+    "俯危阑，红日下，暮云稠。",
+    "无穷伟观，祗应天意为君谋。",
+    "容我时醒时醉，独泛微烟微雨，浩荡逐轻鸥。",
+    "不羡岳阳胜，丹碧耸层楼。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-207",
+  "tags": []
+}

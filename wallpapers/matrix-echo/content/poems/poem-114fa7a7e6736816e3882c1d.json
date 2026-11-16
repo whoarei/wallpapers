@@ -1,0 +1,16 @@
+{
+  "id": "poem-114fa7a7e6736816e3882c1d",
+  "title": "左迁至蓝关示侄孙湘",
+  "author": "韩愈",
+  "dynasty": "唐",
+  "verses": [
+    "一封朝奏九重天，夕贬潮阳路八千。",
+    "本为圣朝除弊政，敢将衰朽惜残年。",
+    "云横秦岭家何在，雪拥蓝关马不前。",
+    "知汝远来应有意，好收吾骨瘴江边。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-左遷至藍關示侄孫湘"
+}

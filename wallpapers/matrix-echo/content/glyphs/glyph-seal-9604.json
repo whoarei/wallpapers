@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9604",
+  "script": "seal",
+  "character": "阄",
+  "reading": "jiū",
+  "description": "写上字或画上记号的小纸团,供赌胜负或决定事情时抓取\n拈阄,抓阄",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阄"
+}

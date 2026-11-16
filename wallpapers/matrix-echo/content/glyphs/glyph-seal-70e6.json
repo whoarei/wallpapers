@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-70e6",
+  "script": "seal",
+  "character": "烦",
+  "reading": "fán",
+  "description": "烦躁,烦闷\n通繁”。烦琐;繁多\n⒈急躁，苦闷～躁。～闷。心～。莫～恼。\n⒉多、乱、杂～琐。要言不～。～言饰辞，而无实用。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-烦"
+}

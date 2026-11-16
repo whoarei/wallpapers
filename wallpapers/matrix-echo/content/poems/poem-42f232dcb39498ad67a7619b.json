@@ -1,0 +1,15 @@
+{
+  "id": "poem-42f232dcb39498ad67a7619b",
+  "title": "又一首",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "旧来心使眼，心思眼剩（《唐人小说》本作即。",
+    "）传。",
+    "由心使眼见，眼亦共心怜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-53e6130a-bb17-41e2-83ef-443a099a79c5"
+}

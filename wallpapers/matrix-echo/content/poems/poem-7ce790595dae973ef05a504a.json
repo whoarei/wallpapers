@@ -1,0 +1,16 @@
+{
+  "id": "poem-7ce790595dae973ef05a504a",
+  "title": "中兴乐·池塘暖碧浸晴晖",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "池塘暖碧浸晴晖，蒙蒙柳絮轻飞。",
+    "红蕊凋来，解梦还稀。",
+    "春云空有雁归，珠帘垂。",
+    "东风寂寞，恨郎抛掷，泪湿罗衣。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-42"
+}

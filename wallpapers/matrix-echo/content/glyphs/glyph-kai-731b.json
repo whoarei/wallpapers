@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-731b",
+  "script": "kai",
+  "character": "猛",
+  "reading": "měng",
+  "description": "měng：(1)气势大，力量大～将。～士。～烈。勇～。\n(2)忽然，突然～然。～省（xǐng）（亦作猛醒”）。～可（突然，陡然）。～不防。\n(3)严厉宽以济～。\n(4)凶暴苛政～于虎。～禽。～兽。～戾。～悍。\n(5)古哺乳动物，长毛的象～犸。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-猛"
+}

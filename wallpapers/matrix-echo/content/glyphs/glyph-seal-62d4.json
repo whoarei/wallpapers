@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62d4",
+  "script": "seal",
+  "character": "拔",
+  "reading": "bá",
+  "description": "bá：(1)抽，拉出，连根拽出～腿。～草。～牙。～苗助长。\n(2)夺取军事上的据点连～数城。\n(3)吸出～毒。～火罐儿。\n(4)选取，提升提～。～擢。\n(5)超出，高出海～。挺～。～地（山、树、建筑物等高耸在地面上）。～尖儿。出类～萃。\n(6)把东西放在凉水里使变凉把西瓜放在冰水里～一～。\n(7)改变坚韧不～。心志不可～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拔"
+}

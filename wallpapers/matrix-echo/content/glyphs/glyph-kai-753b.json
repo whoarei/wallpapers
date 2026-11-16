@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-753b",
+  "script": "kai",
+  "character": "画",
+  "reading": "huà",
+  "description": "绘画;作画\n善画者或兼\n⒈图图～儿。宣传～。连环～儿。\n⒉描绘，写描～。绘～。～图表。～人物。～个圈儿。叫你～押。\n⒊汉字的一笔叫\"一画\"\"札\"字是五画。\n⒋同\"划\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-画"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "poem-e7f349fbb3bd3d7f1ee4c67a",
+  "title": "感遇十二首 二",
+  "author": "张九龄",
+  "dynasty": "唐",
+  "verses": [
+    "幽林归独卧，滞虑洗孤清。",
+    "持此谢高鸟，因之传远情。",
+    "日夕怀空意，人谁感至精。",
+    "飞沈理自隔，何所慰吾诚。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "寓人",
+    "五言古诗",
+    "哲理",
+    "写鸟",
+    "寓言",
+    "鸟"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-6df38a77-6e5d-43ae-a115-7de36475f53e"
+}

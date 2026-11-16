@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-724c",
+  "script": "kai",
+  "character": "牌",
+  "reading": "pái",
+  "description": "pái：(1)用木板或其他材料做的标志门～。路～。～子。～匾。～价。\n(2)凭证金～。银～。腰～。\n(3)产品的商标名～货。\n(4)古代兵士在战争时或现代警察在驱散示威者时用来遮护身体的东西盾～。挡箭～。\n(5)娱乐或赌博用的东西纸～。扑克～。麻将～。\n(6)神主、灵位或题着名字作为祭祀对象的木牌～位。\n(7)词曲的调名词～。曲～。～子曲。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-牌"
+}

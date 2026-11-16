@@ -1,0 +1,14 @@
+{
+  "id": "poem-18692adc81055f15176394c9",
+  "title": "扬州怀古",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "故国歌钟地，长桥车马尘。",
+    "彭城阁边柳，偏似不胜春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-9f62397a-8eef-4408-81dc-2cb54b55a866"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-9138d843e53874e23f9bb979",
+  "title": "容南初食荔枝二首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "买地城南种荔枝，毎留核付守园儿。",
+    "但祈四海兵戈息，会见开花著子时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-3802ad94-81a5-4430-a30d-b43c0405a1ca"
+}

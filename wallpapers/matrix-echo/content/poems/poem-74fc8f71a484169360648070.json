@@ -1,0 +1,14 @@
+{
+  "id": "poem-74fc8f71a484169360648070",
+  "title": "和元晦马迹桥",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "便请行从马迹桥，何须乘鹤簉丛霄。",
+    "殷勤底事登临去，不为山僧苦见招。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-faa9e79d-4d8f-4a0c-ae41-e7d6aa66b6cb"
+}

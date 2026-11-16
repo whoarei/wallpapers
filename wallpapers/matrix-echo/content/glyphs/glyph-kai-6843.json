@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6843",
+  "script": "kai",
+  "character": "桃",
+  "reading": "táo",
+  "description": "táo：(1)落叶小乔木，品种很多，果实略呈球形，表面有短绒毛，味甜，有大核，核仁可入药～儿。～李（喻所教的学生）。～李不言，下自成蹊（喻实至名归，尚事实，不尚虚名）。世外～源（指不受外界影响的地方或幻想中的美好世界）。\n(2)形状像桃子的棉～儿。\n(3)指核桃～仁。～酥。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-桃"
+}

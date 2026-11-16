@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8877",
+  "script": "seal",
+  "character": "衷",
+  "reading": "zhōng",
+  "description": "zhōng：(1)内心由～。苦～。无动于～。～肠。\n(2)福，善降～于下民”。\n(3)正中不偏折～。\n(4)贴身的内衣。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-衷"
+}

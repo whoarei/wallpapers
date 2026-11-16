@@ -1,0 +1,14 @@
+{
+  "id": "poem-bfd6842e10c1e4682ef2b17f",
+  "title": "句  其二",
+  "author": "韩缜",
+  "dynasty": "宋",
+  "verses": [
+    "唐蒙谕巴蜀，通道至卭僰。",
+    "列郡徼西南，夷居半岩壁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-5e898937-5299-41fe-b3be-e56f9ac3b7d4"
+}

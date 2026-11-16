@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5df1",
+  "script": "kai",
+  "character": "己",
+  "reading": "jǐ",
+  "description": "jǐ：(1)对别人称本身自～。知～。反求诸～。推～及人。～所不欲，勿施于人。\n(2)天干的第六位，用作顺序第六的代称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-己"
+}

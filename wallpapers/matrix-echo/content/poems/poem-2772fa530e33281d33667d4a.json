@@ -1,0 +1,14 @@
+{
+  "id": "poem-2772fa530e33281d33667d4a",
+  "title": "和韦开州盛山十二首 竹岩",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "独入千竿里，缘岩踏石层。",
+    "笋头齐欲出，更不许人登。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-389039e4-0124-42c5-84cf-cf29ebcb31e4"
+}

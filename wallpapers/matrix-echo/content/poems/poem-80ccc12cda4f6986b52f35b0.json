@@ -1,0 +1,18 @@
+{
+  "id": "poem-80ccc12cda4f6986b52f35b0",
+  "title": "郊庙歌辞 封泰山乐章 豫和 二",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "亿上帝，临下庭。",
+    "骑日月，陪列星。",
+    "嘉祝信，大糦馨。",
+    "澹神心，醉皇灵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "泰山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-4902d495-3ed3-4aa2-9c67-36a054455042"
+}

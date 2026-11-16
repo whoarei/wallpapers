@@ -1,0 +1,20 @@
+{
+  "id": "poem-4b02c5c3e3f90752a64c9ed8",
+  "title": "一丛花·碧山无意解银鱼",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "碧山无意解银鱼。",
+    "花底且携壶。",
+    "华颠又喜熊罴且，笑骐骥，老反为驹。",
+    "文史渐抛，功名更懒，随处见真如。",
+    "高情敢并汉庭疏。",
+    "长揖去田庐。",
+    "囊无上赐金堪散，也未妨、山猎溪渔。",
+    "廉颇纵强，莫随年少，白马向黄榆。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-201",
+  "tags": []
+}

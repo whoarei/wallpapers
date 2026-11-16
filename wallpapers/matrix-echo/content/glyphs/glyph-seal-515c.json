@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-515c",
+  "script": "seal",
+  "character": "兜",
+  "reading": "dōu",
+  "description": "dōu：(1)古代作战时戴的盔～鍪。\n(2)口袋网～。\n(3)做成兜形把东西拢住～风。用手巾～着。\n(4)环绕，围绕～抄。～剿。～圈子。\n(5)招揽～售。～销。～揽。\n(6)承担，包下来出事我～着。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-兜"
+}

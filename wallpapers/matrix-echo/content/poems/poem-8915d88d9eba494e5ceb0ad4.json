@@ -1,0 +1,16 @@
+{
+  "id": "poem-8915d88d9eba494e5ceb0ad4",
+  "title": "净业寺",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "红楼高耸碧池深，荷芰生凉豁远襟。",
+    "湖色静涵孤刹影，花香暗入定僧心。",
+    "经翻佛藏研朱荚，地赐朝家布紫金。",
+    "下马长堤一吟望，梵钟杂送海潮音。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-218"
+}

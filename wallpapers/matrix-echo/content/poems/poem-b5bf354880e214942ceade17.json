@@ -1,0 +1,21 @@
+{
+  "id": "poem-b5bf354880e214942ceade17",
+  "title": "书情献知己",
+  "author": "姚鹄",
+  "dynasty": "唐",
+  "verses": [
+    "日日恨何穷，巴云旧隐空。",
+    "一为栖寓客，二见北归鸿。",
+    "有道期攀桂，无门息转蓬。",
+    "赁居将罄比，乞食与僧同。",
+    "花月登临处，江山怅望中。",
+    "众皆轻病骥，谁肯救焦桐。",
+    "坐惜春还至，愁吟夜每终。",
+    "谷寒思变律，叶晚怯回风。",
+    "谒蔡慙王粲，怜衡冀孔融。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b6a05d15-81fa-4e16-a387-df81a786aa4c"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-faef80efdaf5c59d23d13871",
+  "title": "温泉宫",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "忆昔开元天地平，武皇十月幸华清。",
+    "山蒸阴火云三素，日落温泉鸡一鸣。",
+    "彩羽鸟仙歌不死，翠霓童妾舞长生。",
+    "仍闻老叟垂黄发，犹说龙髯缥缈情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-739cdb6a-c48b-457b-b4aa-ea2ad0f0040d"
+}

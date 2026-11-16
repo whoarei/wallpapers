@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-56fa",
+  "script": "kai",
+  "character": "固",
+  "reading": "gù",
+  "description": "gù：(1)结实，牢靠坚～。稳～。巩～。凝～。加～。\n(2)坚定，不变动～执。～定。～本。\n(3)本，原来～有。～步自封（亦作故步自封”）。\n(4)鄙陋（见识浅少）。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-固"
+}

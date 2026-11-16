@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-54bd",
+  "script": "kai",
+  "character": "咽",
+  "reading": "yān；yàn；yè",
+  "description": "yān：口腔后部由肌肉和黏膜构成的管子，分三部分，上段与鼻腔相对称鼻咽”；中段与口腔相对称口咽”；下段在喉的后部称喉咽”。咽是呼吸道和消化道的共同通路（亦称咽头”）～喉。\n吐；\nyàn：使嘴里的食物或别的东西通过咽头到食道里去～唾沫。狼吞虎～。细嚼慢～。\n吐；\nyè：阻塞，声音因阻塞而低沉哽～。呜～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咽"
+}

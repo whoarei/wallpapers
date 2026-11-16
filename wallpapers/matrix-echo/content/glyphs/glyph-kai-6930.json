@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6930",
+  "script": "kai",
+  "character": "椰",
+  "reading": "yē",
+  "description": "yē：〔～子〕ａ．常绿乔木，产于热带，树干很高，核果椭圆形，果肉白色多汁，可食，亦可榨油。果壳可做各种器皿，叶可盖屋、编席、制扇等；ｂ．这种植物的果实，简称椰”，如～油”，～杯”，～雕”，～蓉”，～胡”（用半个椰壳制成的胡琴）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-椰"
+}

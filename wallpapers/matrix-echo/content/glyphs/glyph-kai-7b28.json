@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7b28",
+  "script": "kai",
+  "character": "笨",
+  "reading": "bèn",
+  "description": "bèn：(1)不聪明～人。～拙。～伯（ａ．傻瓜，愚蠢的人；ｂ．肥大的人）。愚～。\n(2)不灵巧嘴～。～口拙舌。～鸟先飞。\n(3)粗重，费力气的～重。～活。粗～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-笨"
+}

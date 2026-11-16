@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62c6",
+  "script": "kai",
+  "character": "拆",
+  "reading": "chāi；cā",
+  "description": "chāi：(1)把合在一起的弄开～信。～洗。～卸。～字。\n(2)分散，毁掉～散。～台。～迁。\n〔～白〕方言，流氓骗取财物。\n搭；装；\ncā：方言，排泄（大小便）～烂污（喻不负责任）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拆"
+}

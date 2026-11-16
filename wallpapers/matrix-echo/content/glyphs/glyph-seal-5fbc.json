@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5fbc",
+  "script": "seal",
+  "character": "徼",
+  "reading": "jiǎo；jiào",
+  "description": "jiǎo：(1)同侥”。\n(2)求。\njiào：(1)边界～外。\n(2)巡逻，巡察～巡。～道（巡查警戒的道路）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-徼"
+}

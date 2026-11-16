@@ -1,0 +1,22 @@
+{
+  "id": "poem-cc77fbc80647c84a6004d8e3",
+  "title": "渔家傲·几日北风江海立",
+  "author": "胡舜陟",
+  "dynasty": "宋",
+  "verses": [
+    "几日北风江海立。",
+    "千车万马鏖声急。",
+    "短棹峭寒欺酒力。",
+    "飞雨息。",
+    "琼花细细穿窗隙。",
+    "我本绿蓑青箬笠。",
+    "浮家泛宅烟波逸。",
+    "渚鹭沙鸥多旧识。",
+    "行未得。",
+    "高歌与尔相寻觅。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-596",
+  "tags": []
+}

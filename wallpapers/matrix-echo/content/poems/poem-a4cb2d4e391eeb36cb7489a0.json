@@ -1,0 +1,18 @@
+{
+  "id": "poem-a4cb2d4e391eeb36cb7489a0",
+  "title": "尚书都堂瓦松",
+  "author": "李晔",
+  "dynasty": "唐",
+  "verses": [
+    "华省秘僊踪，高堂露瓦松。",
+    "叶因春后长，花为雨来浓。",
+    "影混鸳鸯色，光含翡翠容。",
+    "天然斯所寄，地势太无从。",
+    "接栋临双阙，连甍近九重。",
+    "宁知深涧底，霜雪岁兼封。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-e68b6697-98a2-488a-b620-77a99420cc3b"
+}

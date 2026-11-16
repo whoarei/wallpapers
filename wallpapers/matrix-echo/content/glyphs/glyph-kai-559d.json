@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-559d",
+  "script": "kai",
+  "character": "喝",
+  "reading": "hē；hè；yè",
+  "description": "hē：(1)把液体饮料或流质食物咽下去～水。～酒。～茶。～粥。\n(2)特指喝酒～醉了。\nhè：大声喊叫～彩。～问。\nyè：声音嘶哑、噎塞儿生，号啼之声鸿朗高畅者寿，嘶～湿下者夭”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-喝"
+}

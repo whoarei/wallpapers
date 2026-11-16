@@ -1,0 +1,22 @@
+{
+  "id": "poem-84464636e8592f1a35e18b45",
+  "title": "渔家傲·海角秋高风力骤",
+  "author": "李弥逊",
+  "dynasty": "宋",
+  "verses": [
+    "海角秋高风力骤。",
+    "楼台四面山容瘦。",
+    "季子貂裘寒欲透。",
+    "悬弧昼。",
+    "高歌棣萼聊卮酒。",
+    "且共追欢宽白首。",
+    "清闲赢得身长久。",
+    "世上功名翻覆手。",
+    "为君寿。",
+    "腰间要看悬金斗。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-50",
+  "tags": []
+}

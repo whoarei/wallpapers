@@ -1,0 +1,16 @@
+{
+  "id": "poem-13985861f6ae0f37708ec853",
+  "title": "自愧",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "多负悬弧礼，危时隐薜萝。",
+    "有心明俎豆，无力执干戈。",
+    "壮士难移节，贞松不改柯。",
+    "缨尘徒自满，欲濯待清波。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-dfe9b161-4cdc-4cb3-99a7-f250a07afe10"
+}

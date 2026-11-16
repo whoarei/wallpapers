@@ -1,0 +1,19 @@
+{
+  "id": "poem-9aa691ab8e35cbe3fb6f0010",
+  "title": "减字浣溪沙・浣溪沙·楼角初销一缕霞",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "楼角初销一缕霞。",
+    "淡黄杨柳暗栖鸦。",
+    "玉人和月摘梅花。",
+    "笑拈粉香归洞户，更垂帘幕护窗纱。",
+    "东风寒似夜来些。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-102"
+}

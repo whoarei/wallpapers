@@ -1,0 +1,20 @@
+{
+  "id": "poem-241b8a702d72748d2c01a524",
+  "title": "石上阁",
+  "author": "无名氏",
+  "dynasty": "唐",
+  "verses": [
+    "水石引我去，南湖复东壑。",
+    "不厌随竹阴，来登石上阁。",
+    "磴道通石门，欹崖断如凿。",
+    "飞梁架峰头，夭矫虹霓若。",
+    "下视竹木杪，仰见悬泉落。",
+    "水声兼松吹，音响参众乐。",
+    "时时为雾雨，飘洒湿帘箔。",
+    "吾欲弃簪缨，于兹守寂寞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d827bbc7-2b82-4437-b81b-5e174dcdc134"
+}

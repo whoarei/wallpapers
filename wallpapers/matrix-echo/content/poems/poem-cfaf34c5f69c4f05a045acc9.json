@@ -1,0 +1,16 @@
+{
+  "id": "poem-cfaf34c5f69c4f05a045acc9",
+  "title": "寄沙阳邓季明二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "海上归来近七峰，故人犹冀一樽同。",
+    "心忧世故存当日，身履时危到此中。",
+    "玉带金鱼非素志，碧斋翠阁自清风。",
+    "十年扰扰成何事，依旧梁谿一拙翁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-a0776a04-cd27-45c3-838e-77e5a18b8f20"
+}

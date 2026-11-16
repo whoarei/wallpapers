@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6492",
+  "script": "kai",
+  "character": "撒",
+  "reading": "sā；sǎ",
+  "description": "sā：(1)放开，发出～手。～网。～谎（说谎）。～气。\n(2)尽量施展或表现出来～刁。～奸。～娇。～欢儿。～野。～酒疯。\n(3)姓。\n洒；\nsǎ：(1)散播，散布，散落～种（zhǒng）。～播。把酒端平，别～了。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撒"
+}

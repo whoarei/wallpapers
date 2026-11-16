@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5351",
+  "script": "kai",
+  "character": "卑",
+  "reading": "bēi",
+  "description": "bēi：(1)低下，低劣～鄙。～下。～劣。～微。～怯。～恭。地势～湿。～以自牧（保持谦虚的态度以提高自己的修养）。\n(2)古同俾”，使。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卑"
+}

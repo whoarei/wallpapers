@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-667a",
+  "script": "seal",
+  "character": "智",
+  "reading": "zhì",
+  "description": "zhì：聪明，见识～力。～慧。～商。～育。～能。～谋。才～。机～。理～。明～（ａ．考虑问题周到、严密；ｂ．有远见）。足～多谋。利令～昏。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-智"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c9fc2706e663b4bd8419361e",
+  "title": "苏州江岸留别乐天",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "银泥裙暎锦障泥，画舸停桡马簇蹄。",
+    "清管曲终鹦鹉语，红旗影动薄寒嘶。",
+    "渐消酒色朱颜浅，欲话离情翠黛低。",
+    "莫忘使君吟咏处，女坟湖北武丘西。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-3db0db09-2db6-4884-bc07-4dd85d45b67c"
+}

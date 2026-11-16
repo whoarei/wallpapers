@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-67d9",
+  "script": "seal",
+  "character": "柙",
+  "reading": "xiá",
+  "description": "xiá：(1)关闭猛兽的笼槛，亦指押解犯人的囚笼或囚车。\n(2)古同匣”，收藏东西的器具。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-柙"
+}

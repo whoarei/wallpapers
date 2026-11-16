@@ -1,0 +1,16 @@
+{
+  "id": "poem-f2b56e42e2bdeaeb152b9e7e",
+  "title": "送智玄首座归蜀中旧山",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "像教得重兴，因师说大乘。",
+    "从来悟明主，今去证高僧。",
+    "蜀国烟霞异，灵山水月澄。",
+    "乡闾诸善友，喜似见南能。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-aa4780fe-f910-470e-bdad-95daf6277090"
+}

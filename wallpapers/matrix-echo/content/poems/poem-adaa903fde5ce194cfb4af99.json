@@ -1,0 +1,14 @@
+{
+  "id": "poem-adaa903fde5ce194cfb4af99",
+  "title": "依韵赠南安方处士五首 三",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "百万僧中不为僧，比君知道仅谁能。",
+    "无家寄泊南安县，六月门前也似冰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-89d7ccef-4f26-4b71-97c7-4eb4ef83579c"
+}

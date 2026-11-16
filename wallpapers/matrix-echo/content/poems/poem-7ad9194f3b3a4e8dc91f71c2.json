@@ -1,0 +1,14 @@
+{
+  "id": "poem-7ad9194f3b3a4e8dc91f71c2",
+  "title": "墓门",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "墓门有棘，斧以斯之。夫也不良，国人知之。知而不已，谁昔然矣。",
+    "墓门有梅，有鸮萃止。夫也不良，歌以讯之。讯予不顾，颠倒思予。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-140"
+}

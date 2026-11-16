@@ -1,0 +1,19 @@
+{
+  "id": "poem-26276c41c301fe5409db55ba",
+  "title": "锦缠道",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "髻云堆，珠翠簇。",
+    "兰姿蕙质，香肌称罗绮。",
+    "黛眉长，盈盈照一泓秋水。",
+    "鞋直上冠儿至底。",
+    "诸余没半星儿不美。",
+    "针指暂闲时，花朝月夕，丫鬟侍妾随。",
+    "好景须欢会，四时不负佳致。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2895",
+  "tags": []
+}

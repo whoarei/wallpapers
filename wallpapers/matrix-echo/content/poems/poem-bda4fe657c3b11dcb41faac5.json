@@ -1,0 +1,16 @@
+{
+  "id": "poem-bda4fe657c3b11dcb41faac5",
+  "title": "谒圣林",
+  "author": "杨文郁",
+  "dynasty": "唐",
+  "verses": [
+    "悠悠往古继来今，天地无穷照孔林。",
+    "两到金丝堂下拜，门生无负百年心。",
+    "（见《宋诗纪事补遗》卷二引《阙里志》。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-0de2d1e7-ca75-4aba-8d24-94a1cc0859fd"
+}

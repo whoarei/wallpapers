@@ -1,0 +1,20 @@
+{
+  "id": "poem-c8091e8d39b60ca5c634b687",
+  "title": "坏屋",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "官家有坏屋，居者愿离得。",
+    "苟或幸其迁，回循任倾侧。",
+    "若当君子住，一日还修餙。",
+    "必使换榱楹，先须木端直。",
+    "永令雀与鼠，无处求栖息。",
+    "坚固传后人，从今勉劳力。",
+    "以兹喩臣下，亦可成邦国。",
+    "虽曰愚者词，将来幸无惑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-380d7f3c-cd6c-47ce-9ccb-a8a90906376f"
+}

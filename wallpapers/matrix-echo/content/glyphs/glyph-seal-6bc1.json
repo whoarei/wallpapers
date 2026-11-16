@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6bc1",
+  "script": "seal",
+  "character": "毁",
+  "reading": "huǐ",
+  "description": "huǐ：(1)破坏损害～灭。～害。～弃。销～。\n(2)烧掉烧～。焚～。\n(3)把成件的旧东西改造成别的东西一张旧桌子～成两个小凳子。\n(4)诽谤，说别人的坏话～谤。～誉。诋～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-毁"
+}

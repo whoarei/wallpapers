@@ -1,0 +1,14 @@
+{
+  "id": "poem-18caf51c31880c96b65e6fb5",
+  "title": "宿山祠",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "秋草宫人斜里墓，宫人谁送葬来时。",
+    "千千万万皆如此，家在边城亦不知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ec4bc92d-bd98-4edd-9a32-223db867aebc"
+}

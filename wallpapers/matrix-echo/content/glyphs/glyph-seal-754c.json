@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-754c",
+  "script": "seal",
+  "character": "界",
+  "reading": "jiè",
+  "description": "jiè：(1)边境，一个区域的边限～石（标志地界的石碑或石块）。～标。～址。～线（ａ．两个地区分界的线；ｂ．不同事物的分界；ｃ．某些事物的边缘）。～限（ａ．不同事物的分界；ｂ．尽头处，限度）。地～。\n(2)范围眼～。世～。自然～。\n(3)按职业或性别等所划的人群范围教育～。科学～。各～人士。\n(4)指大自然中动物、植物、矿物等的最大的类别无机～。有机～。\n(5)地层系统分类的最高一级，相当于地质年代中的代”。界”以下为系”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-界"
+}

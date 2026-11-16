@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b8c",
+  "script": "seal",
+  "character": "完",
+  "reading": "wán",
+  "description": "wán：(1)全～备。～全。～整。～善。～好。～璧归赵。覆巢无～卵。\n(2)尽，无用～了。煤烧～了。\n(3)做成，了结～毕。～成。～结。\n(4)交纳～粮。～税。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-完"
+}

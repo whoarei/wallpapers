@@ -1,0 +1,16 @@
+{
+  "id": "poem-8b35c8f41226edf1d04e3ff0",
+  "title": "次赵有翼简徐圣可元韵",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "已向幽居赋晚晴，欲经绝壁访神清。",
+    "不忧五柳荒松菊，敢叹三闾带杜蘅。",
+    "=无风月三千首，赖有丝桐一再行。",
+    "谁似孔庭能父子，继挥高韵思如倾。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-fc3a6d26-2d13-432d-86a4-ab073affadae"
+}

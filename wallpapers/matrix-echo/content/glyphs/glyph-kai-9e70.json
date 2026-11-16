@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9e70",
+  "script": "kai",
+  "character": "鹰",
+  "reading": "yīng",
+  "description": "种鸟\n比喻爪牙\n形容勇猛,激进\n鹰yīng鸟名。种类很多，常见的有苍～、雀～、鸢～等，均已少见，要保护，禁止猎杀。鹰上嘴弯曲尖锐，趾有锐利的钩爪，性凶猛，捕食鼠类和其它鸟类等。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鹰"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5531",
+  "script": "seal",
+  "character": "唱",
+  "reading": "chàng",
+  "description": "chàng：(1)依照乐（yuè）律发声～歌。～腔。～段。～功。～和（hè）。歌～。\n(2)高呼，大声叫～名。～收。\n(3)歌曲唱个～儿。\n(4)古同倡”，倡导。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-唱"
+}

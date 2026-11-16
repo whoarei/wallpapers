@@ -1,0 +1,16 @@
+{
+  "id": "poem-d8a819d2cf6621eb58282700",
+  "title": "菩萨蛮·月华如水笼香砌",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "月华如水笼香砌，金环碎撼门初闭。",
+    "寒影堕高檐，钩垂一画帘。",
+    "碧烟轻袅袅，红战灯花笑。",
+    "即此是高唐，掩屏秋梦长。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-0"
+}

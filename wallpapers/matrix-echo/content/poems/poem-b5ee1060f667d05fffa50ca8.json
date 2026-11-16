@@ -1,0 +1,20 @@
+{
+  "id": "poem-b5ee1060f667d05fffa50ca8",
+  "title": "玉楼春·西湖南北烟波阔",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "西湖南北烟波阔。",
+    "风里丝簧声韵咽。",
+    "舞馀裙带绿双垂，酒入香腮红一抹。",
+    "杯深不觉琉璃滑。",
+    "贪看六么花十八。",
+    "明朝车马各西东，惆怅画桥风与月。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-675",
+  "tags": [
+    "西湖"
+  ]
+}

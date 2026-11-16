@@ -1,0 +1,16 @@
+{
+  "id": "poem-bb5370862d732a643d11463e",
+  "title": "郊庙歌辞 祭方丘乐章 金奏",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "坤元至德，品物资生。",
+    "神凝博厚，道协高明。",
+    "列镇五岳，环流四瀛。",
+    "于何不载，万宝斯成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-7c643aeb-d85f-4619-87e5-ba68c9880228"
+}

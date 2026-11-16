@@ -1,0 +1,16 @@
+{
+  "id": "poem-197361d39df4918b12848de7",
+  "title": "扈驾西山",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "凤翥龙蟠势作环，浮青不断太行山。",
+    "九重殿阁葱茏里，一气风云吐纳间。",
+    "熊虎自当驰道伏，蛟螭长棒御书闲。",
+    "黄图此日论形胜，惭愧频叨侍从班。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-242"
+}

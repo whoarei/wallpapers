@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75b5",
+  "script": "seal",
+  "character": "疵",
+  "reading": "cī",
+  "description": "cī：(1)毛病～吝。～病。吹毛求～。\n(2)缺点或过失～瑕。～咎。～点。\n(3)诽谤，非议～物。～毁。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疵"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e7c",
+  "script": "kai",
+  "character": "幼",
+  "reading": "yòu",
+  "description": "yòu：(1)年纪小，初出生的～儿。～虫。～苗。～年。\n(2)小孩儿～教（jiào）。～师。扶老携～。\n(3)对儿童爱护～吾幼，以及人之幼。”",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-幼"
+}

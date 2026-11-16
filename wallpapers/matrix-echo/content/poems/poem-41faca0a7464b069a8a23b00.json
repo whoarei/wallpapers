@@ -1,0 +1,21 @@
+{
+  "id": "poem-41faca0a7464b069a8a23b00",
+  "title": "秋日赴阙题潼关驿楼",
+  "author": "许浑",
+  "dynasty": "唐",
+  "verses": [
+    "红叶晚萧萧，长亭酒一瓢。",
+    "残云归太华，疎雨过中条。",
+    "树色随山迥，河声入海遥。",
+    "帝乡明日到，犹自梦渔樵。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写景",
+    "送别",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-292c14cd-151f-4321-a94c-46fc86693eb3"
+}

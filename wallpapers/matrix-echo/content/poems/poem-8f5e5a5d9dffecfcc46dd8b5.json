@@ -1,0 +1,16 @@
+{
+  "id": "poem-8f5e5a5d9dffecfcc46dd8b5",
+  "title": "赠孔尚书",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "能将直道历荣班，事著元和实录间。",
+    "三表自陈辞北阙，一家相送入南山。",
+    "买来侍女教人嫁，赐得朝衣在箧闲。",
+    "宅近青山高静处，时归林下暂开关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-68da5949-d64b-4058-85e9-ccdf23dd687c"
+}

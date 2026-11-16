@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7a46",
+  "script": "kai",
+  "character": "穆",
+  "reading": "mù",
+  "description": "mù：(1)温和；～清（ａ．清平；ｂ．指上天）。～如清风。\n(2)恭敬严肃肃～。静～。\n(3)古同默”，沉默。\n(4)古代宗庙次序，父居右为昭”，子居左为穆”。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-穆"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-beb46a9832dba23c3af5c104",
+  "title": "吕宣徽挽歌二首  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "维岳人皆仰，长城众所依。",
+    "远猷方克壮，昭世忽长违。",
+    "象设俨如在，英灵窅不归。",
+    "唯应令名久，竹素蔼余辉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8af179ec-743d-4098-8987-ea92e2f63b5e"
+}

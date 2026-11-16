@@ -1,0 +1,16 @@
+{
+  "id": "poem-3305cdd96fc8e0aa8c777e6a",
+  "title": "马明生遇王婉罗",
+  "author": "李翔",
+  "dynasty": "唐",
+  "verses": [
+    "彻骨金疮分已休，谢神妃护到灵丘。",
+    "供丞（承）洞府知何地，洒扫云房不记秋。",
+    "金锁玉函虽照燿，宝书真篆敢规（窥）求。",
+    "龙胎未肯传初学，又逐安期万里游。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-3f8002ae-3229-4887-8438-03ae13fadddf"
+}

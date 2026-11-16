@@ -1,0 +1,16 @@
+{
+  "id": "poem-f009b8aff8be892c8844e5d8",
+  "title": "北京留守王太师挽歌词二首  其一",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "卢肇时推重，终军众共贤。",
+    "何如夺标日，未及弃𦈡年。",
+    "官历清涂徧，名居美事先。",
+    "人间福有五，视履岂非全。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-9ce8eeeb-688d-419a-8437-7a35ccf64b58"
+}

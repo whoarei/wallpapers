@@ -1,0 +1,18 @@
+{
+  "id": "poem-3af531429e7483b88e5d74d5",
+  "title": "送张少府赴夏县",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "虽为州县职，还欲抱琴过。",
+    "树古闻风早，山枯见雪多。",
+    "鸡声连绛市，马色傍黄河。",
+    "太守新临郡，还逢五袴歌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d455202e-0577-4455-bf2b-0e7040ed9bf4"
+}

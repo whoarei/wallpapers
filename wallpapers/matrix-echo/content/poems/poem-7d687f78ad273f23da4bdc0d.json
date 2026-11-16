@@ -1,0 +1,16 @@
+{
+  "id": "poem-7d687f78ad273f23da4bdc0d",
+  "title": "送客往鄜州",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "新参将相事营平，锦带骍弓结束轻。",
+    "晓上关城吟画角，暗驰羗马发支兵。",
+    "回中地近风常急，鄜畤年多草自生。",
+    "近喜扶阳系戎相，从来衞霍笑长缨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-79f78a30-4013-4ecf-ac2f-93fa0b234ecb"
+}

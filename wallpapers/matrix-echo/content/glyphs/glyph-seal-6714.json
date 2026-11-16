@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6714",
+  "script": "seal",
+  "character": "朔",
+  "reading": "shuò",
+  "description": "shuò：(1)农历每月初一～日。～望（朔日”和望日”）。\n(2)始皆从其～”。\n(3)北方～方。～漠（北方沙漠地带）。～气。～土。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-朔"
+}

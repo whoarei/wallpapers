@@ -1,0 +1,14 @@
+{
+  "id": "poem-5e3d18e9a66c48ac6453491e",
+  "title": "太平坊寻裴郎中故宅",
+  "author": "子兰",
+  "dynasty": "唐",
+  "verses": [
+    "不语凄凉无限情，荒堦行尽又重行。",
+    "昔年住此何人在，满地槐花秋草生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-12d0306e-9266-438c-af72-21161bea05fb"
+}

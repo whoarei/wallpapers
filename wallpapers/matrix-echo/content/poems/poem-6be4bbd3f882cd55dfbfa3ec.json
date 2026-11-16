@@ -1,0 +1,19 @@
+{
+  "id": "poem-6be4bbd3f882cd55dfbfa3ec",
+  "title": "秋怀五首 五",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "龙荒变露色，燕鴈南为客。",
+    "游子声影中，涕零念离析。",
+    "四时如车马，转此今与昔。",
+    "往叹在空中，存事委幽迹。",
+    "翩翩日歛照，朗朗月系夕。",
+    "物生春不留，年壮老还迫。",
+    "天机杳何为，长寿与松柏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-14f984ba-f8fb-4eb4-ae65-ad5b10233ec3"
+}

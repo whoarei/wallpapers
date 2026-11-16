@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6cfe",
+  "script": "seal",
+  "character": "泾",
+  "reading": "jīng",
+  "description": "渭水支流。有南、北二源。北源出宁夏六盘山东麓固原县;南源出甘肃省华亭县,至平凉县境合流后,又东南流入陕西省,至高陵县入渭河 。如泾渭分明\n古州名\n县名\n⒈泾河，源出宁夏回族自治区，流到陕西省与渭河汇合。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-泾"
+}

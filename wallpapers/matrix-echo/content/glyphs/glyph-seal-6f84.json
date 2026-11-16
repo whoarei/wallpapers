@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6f84",
+  "script": "seal",
+  "character": "澄",
+  "reading": "chéng；dèng",
+  "description": "chéng：水静而清～莹。～酒（淡酒）。～汰。～澈。～湛。～廓。～清。～碧。～净。～静。～明。\ndèng：让液体里的杂质沉下去～清。～沙。～泥浆。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-澄"
+}

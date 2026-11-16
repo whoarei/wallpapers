@@ -1,0 +1,14 @@
+{
+  "id": "poem-8dce8251ebd0f73ef62ed27f",
+  "title": "芙蓉馆",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "拂壁留诗墨尚鲜，如今屈指五年前。",
+    "直须强健常来此，到老宁消几五年。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-2754174c-9ad5-4346-ba73-bb8e128b9461"
+}

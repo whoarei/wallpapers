@@ -1,0 +1,15 @@
+{
+  "id": "poem-0f1d2592722c85f3d7190da8",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "本为泉下人，谢你救我一命存。",
+    "只恨我不久身广，报不得媳妇恩。",
+    "(合前)(夫唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5051",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-e427657039c116567ef66927",
+  "title": "山阁晚秋",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "山亭秋色满，岩牖凉风度。",
+    "疎兰尚染烟，残菊犹承露。",
+    "古石衣新苔，新巢封古树。",
+    "历览情无极，咫尺输光暮。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-5f4f255b-13f1-4a5f-b36c-5ef48f8fc455"
+}

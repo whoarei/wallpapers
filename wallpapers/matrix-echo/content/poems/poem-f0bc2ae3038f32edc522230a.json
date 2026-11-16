@@ -1,0 +1,23 @@
+{
+  "id": "poem-f0bc2ae3038f32edc522230a",
+  "title": "无题",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "相见时难别亦难，东风无力百花残。",
+    "春蚕到死丝方尽，蜡炬成灰泪始干。",
+    "晓镜但愁云鬓改，夜吟应觉月光寒。",
+    "蓬山此去无多路，青鸟殷勤为探看。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "七言律诗",
+    "八年级下册(课外)",
+    "初中古诗",
+    "爱情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-ed79f9bc-d5d1-4251-b22d-d091e0758a3f"
+}

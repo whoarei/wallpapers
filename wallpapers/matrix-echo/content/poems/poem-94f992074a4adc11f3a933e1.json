@@ -1,0 +1,14 @@
+{
+  "id": "poem-94f992074a4adc11f3a933e1",
+  "title": "赠亮首坐",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "雪顶庞眉八十余，五峰深处结精庐。",
+    "阅人老眼能青白，赠我严公一轴书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-494ff1c9-5a9d-4445-967f-f315f0515e79"
+}

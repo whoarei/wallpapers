@@ -1,0 +1,20 @@
+{
+  "id": "poem-28277076f08192128b6252fa",
+  "title": "北青萝",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "残阳西入崦，茅屋访孤僧。",
+    "落叶人何在，寒云路几层。",
+    "独敲初夜磬，闲倚一枝藤。",
+    "世界微尘里，吾宁爱与憎。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "寻访",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-9380d4f6-e19d-4ff1-8309-07f4ede69f7c"
+}

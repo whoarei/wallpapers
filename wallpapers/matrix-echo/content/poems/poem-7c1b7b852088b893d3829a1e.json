@@ -1,0 +1,20 @@
+{
+  "id": "poem-7c1b7b852088b893d3829a1e",
+  "title": "菩萨蛮·牛星织女年年别",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "牛星织女年年别。",
+    "分明不及人间物。",
+    "匹鸟少孤飞。",
+    "断沙犹并栖。",
+    "洗车昏雨过。",
+    "缺月云中堕。",
+    "斜汉晓依依。",
+    "暗蛩还促机。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-381",
+  "tags": []
+}

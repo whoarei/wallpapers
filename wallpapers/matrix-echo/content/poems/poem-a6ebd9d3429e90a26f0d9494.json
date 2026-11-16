@@ -1,0 +1,20 @@
+{
+  "id": "poem-a6ebd9d3429e90a26f0d9494",
+  "title": "蝶恋花·高下亭台山水境",
+  "author": "黄裳",
+  "dynasty": "宋",
+  "verses": [
+    "高下亭台山水境。",
+    "两畔清辉，中有垂杨径。",
+    "鹭点前汀供雪景。",
+    "花乘流水传春信。",
+    "不醉无归先说定。",
+    "醉待言归，又被风吹醒。",
+    "月下壶天游未尽。",
+    "广寒宫是波中影。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-609",
+  "tags": []
+}

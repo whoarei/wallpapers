@@ -1,0 +1,14 @@
+{
+  "id": "poem-432d6577cb08fccda34bd961",
+  "title": "山坡羊",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "儿，你不念我年华高迈，不念我形衰力败，不念我无人养老，不念我绝宗枝派。",
+    "我想这桩事不是别人，都足你老祸胎，受了孙家婚聘财，逼得他衔冤负屈投江海。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8229",
+  "tags": []
+}

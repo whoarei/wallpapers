@@ -1,0 +1,14 @@
+{
+  "id": "poem-86b1ef43172aece3387fa7f8",
+  "title": "正月十四日大雪上信国公冢  其四",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "十年目与肠俱断，不见延平病雁回。",
+    "若不从公天上去，定应随我雪中来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-07353782-41ce-43d7-9ae9-ef6596c2b414"
+}

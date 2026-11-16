@@ -1,0 +1,16 @@
+{
+  "id": "poem-22aa70e6b41264a753e755b3",
+  "title": "题崔端公园林",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "上士爱清辉，开门向翠微。",
+    "抱琴看鹤去，枕石待云归。",
+    "野坐苔生席，高眠竹挂衣。",
+    "旧山东望远，惆怅暮花飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-68d9ed9c-3785-4e67-9f3c-6e214f9a15a5"
+}

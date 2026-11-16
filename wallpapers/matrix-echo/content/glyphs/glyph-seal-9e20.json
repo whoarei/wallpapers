@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e20",
+  "script": "seal",
+  "character": "鸠",
+  "reading": "jiū",
+  "description": "鸠鸽科的鸟的泛称\n维鸠盈之。\n维鸠方之。\n一种行于沙中的运载工具\n⒈鸟名。形状像鸽。种类很多，常见的有斑～、山～等，均已少见，要保护，禁止猎杀。\n鸠zhì 1.解决。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鸠"
+}

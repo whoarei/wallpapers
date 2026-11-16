@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e9c",
+  "script": "seal",
+  "character": "府",
+  "reading": "fǔ",
+  "description": "fǔ：(1)储藏文书或财物的地方～库。天～。\n(2)旧时封建贵族和官僚的主宅，泛指一般人的住宅～邸。～第。王～。～上。\n(3)中国唐代至清代的行政区域名，等级在县和省之间开封～。～尹。～治。～试。首～。\n(4)国家行政机关政～。官～。\n(5)古同腑”，脏腑。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-府"
+}

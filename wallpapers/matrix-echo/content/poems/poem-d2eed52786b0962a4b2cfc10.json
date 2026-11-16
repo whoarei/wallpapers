@@ -1,0 +1,16 @@
+{
+  "id": "poem-d2eed52786b0962a4b2cfc10",
+  "title": "郊庙歌辞 明皇祀圜丘乐章 肃和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "止奏潜聆，登仪宿啭。",
+    "太玉躬奉，参钟首奠。",
+    "簠簋聿升，牺牲遰荐。",
+    "昭事颙若，存存以伣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-57fe80f8-d358-44eb-9b4f-7b9af4148431"
+}

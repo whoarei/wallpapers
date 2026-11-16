@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b2f75d2926e72fea89e567e",
+  "title": "代常州请平江郑侍郎",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "接壤西东似犬牙，一时迎送使君车。",
+    "应怜壮岁棠阴在，未觉神京驿路赊。",
+    "飞观惯看凉月挂，层楼将见瑞云遮。",
+    "当筵莫诉杯行速，两地春光作一家。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-ea713b7d-02ca-4337-9f9e-8fafc0260d23"
+}

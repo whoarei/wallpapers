@@ -1,0 +1,14 @@
+{
+  "id": "poem-0263104898e0d1644a3ab216",
+  "title": "清明",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "清明时节雨纷纷，路上行人欲断魂。",
+    "借问酒家何处有，牧童遥指杏花村。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-清明"
+}

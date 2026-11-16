@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8bad",
+  "script": "kai",
+  "character": "训",
+  "reading": "xùn",
+  "description": "解说,注释。用通俗的话解释词语的意义\n但世人未之深亮训\n⒈教导，教诲～导。～练。吸取教～。\n⒉法则，规范，准则遗～。不足为～。\n⒊申斥～人。～诫。\n⒋词义解释～释。～诂。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-训"
+}

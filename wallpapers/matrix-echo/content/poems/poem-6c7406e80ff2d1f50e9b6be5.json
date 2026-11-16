@@ -1,0 +1,16 @@
+{
+  "id": "poem-6c7406e80ff2d1f50e9b6be5",
+  "title": "河传·去去",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "去去，何处？迢迢巴楚，山水相连。",
+    "朝云暮雨，依旧十二峰前，猿声到客船。",
+    "愁肠岂异丁香结？因离别，故国音书绝。",
+    "想佳人花下，对明月春风，恨应同。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-48"
+}

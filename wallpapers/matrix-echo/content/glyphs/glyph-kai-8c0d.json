@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8c0d",
+  "script": "kai",
+  "character": "谍",
+  "reading": "dié",
+  "description": "间谍\n传递的情报\n通牒”。书札\n①秘密刺探军事、政治及经济方面的情报～报。\n②进行谍报活动的人间～。\n【谍报】\n①刺探到的情报。\n②将刺探到的情报交给上级或有关方面。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谍"
+}

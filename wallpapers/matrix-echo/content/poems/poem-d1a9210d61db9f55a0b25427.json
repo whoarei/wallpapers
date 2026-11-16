@@ -1,0 +1,15 @@
+{
+  "id": "poem-d1a9210d61db9f55a0b25427",
+  "title": "定西番·紫塞月明千里",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "紫塞月明千里，金甲冷，戍楼寒，梦长安。",
+    "乡思望中天阔，漏残星亦残。",
+    "画角数声呜咽，雪漫漫。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-22"
+}

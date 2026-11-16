@@ -1,0 +1,16 @@
+{
+  "id": "poem-d8ed58f1c3b39c7e9a35a7f2",
+  "title": "送清会上人游京",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "佳游限衰疾，一笑向西风。",
+    "思见青门外，曾临素浐东。",
+    "峰明云际寺，日出露寒宫。",
+    "行道禅长在，香尘不染空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-09aaf32b-3623-4c87-a46e-36a12b7a31d3"
+}

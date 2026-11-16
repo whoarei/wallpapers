@@ -1,0 +1,14 @@
+{
+  "id": "poem-3f8644b043542f51caa9cb0f",
+  "title": "寿定叟弟  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "今年黄菊开花早，手撷芳新寿一杯。",
+    "不用南阳三十斛，家山根蒂好栽培。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-2e092146-44af-4cb4-865f-1f5362750832"
+}

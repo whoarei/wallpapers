@@ -1,0 +1,20 @@
+{
+  "id": "poem-6fc5a4d30bae970e8796cccb",
+  "title": "宋城道中逢王直方八韵",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "二年离子载，发迹自江南。",
+    "马上行寻度，途中语再三。",
+    "始因穷去魏，河北战方酣。",
+    "后以文投许，淮西难未戡。",
+    "谪官逢李涉，狂客见刘弇。",
+    "失意怜初话，多端耻旧谙。",
+    "茶风无奈笔，酒秃不胜簪。",
+    "几郁胸中恨，聊当遂剧谈。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-e5083d11-7f30-4681-9c30-f98524b56778"
+}

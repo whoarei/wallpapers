@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-88f9",
+  "script": "seal",
+  "character": "裹",
+  "reading": "guǒ",
+  "description": "guǒ：(1)包；缠绕～脚。把这包糖～好。～足不前。\n(2)夹带；夹杂不该把次货～进去卖∶人坏人～在一起一时分不清。\n(3)方言，吸（奶）小孩生下来就会～奶。奶头被这孩子～得生疼。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-裹"
+}

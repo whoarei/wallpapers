@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-872e",
+  "script": "seal",
+  "character": "蜮",
+  "reading": "yù",
+  "description": "yù：传说中一种在水里暗中害人的怪物鬼～（喻阴险的人）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蜮"
+}

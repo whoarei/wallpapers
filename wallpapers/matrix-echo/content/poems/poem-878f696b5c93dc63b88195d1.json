@@ -1,0 +1,15 @@
+{
+  "id": "poem-878f696b5c93dc63b88195d1",
+  "title": "好姐姐",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［外］听吾一言说与，那王秀才欲求科举。",
+    "他若去时，必定家空虚。",
+    "［合］堪忧虑，形只影单添凄楚，暮想朝思愈困苦。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8111",
+  "tags": []
+}

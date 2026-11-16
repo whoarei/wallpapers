@@ -1,0 +1,17 @@
+{
+  "id": "poem-0076d3a58efbd1275880b221",
+  "title": "题故人所居",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "与君昔离别，星岁为三周；今日觏颜色，苍然双鬓秋。",
+    "茅居枕河浒，耕凿傍山丘。",
+    "往往登憇迳，时时或饭牛。",
+    "一身尚栖屑，庶身安无忧？",
+    "相见未言语，唏吁先泪流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-4a28374b-df67-4c03-97b8-eb16bc314212"
+}

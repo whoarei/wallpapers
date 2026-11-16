@@ -1,0 +1,22 @@
+{
+  "id": "poem-8ab298bfdef27f737013604c",
+  "title": "江城子·试霜池面浅粼粼",
+  "author": "张镃",
+  "dynasty": "宋",
+  "verses": [
+    "试霜池面浅粼粼。",
+    "鹊飞晴。",
+    "远峰明。",
+    "蓬岛群仙，来过瑞云清。",
+    "龙榜当年人第一，黄叔度，是前生。",
+    "玉堂行见演丝纶。",
+    "彩毫轻。",
+    "思难停。",
+    "醉里长鲸，翻浪吸东溟。",
+    "谢女风流相称好，今母更，鬓常青。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-349",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5887c8e39a046077164c1808",
+  "title": "春更书怀",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "丰溪村内野人居，隐约南山对敝庐。",
+    "花下小桥春策蹇，竹中深径夜归渔。",
+    "无名正可骄王谢，有句还能继庾徐。",
+    "醉罢浊醪邻客散，一番清梦又蘧蘧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-9651de83-f3bd-4bba-b746-cd206f017493"
+}

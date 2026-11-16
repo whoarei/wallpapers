@@ -1,0 +1,21 @@
+{
+  "id": "poem-c9ab183a8f001f789026b27e",
+  "title": "章台夜思",
+  "author": "韦庄",
+  "dynasty": "唐",
+  "verses": [
+    "清瑟怨遥夜，遶弦风雨哀。",
+    "孤灯闻楚角，残月下章台。",
+    "芳草已云暮，故人殊未来。",
+    "乡书不可寄，秋雁又南回。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "怀人",
+    "思乡",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-19796737-ec7b-4c33-8df4-a81a7ca2cc10"
+}

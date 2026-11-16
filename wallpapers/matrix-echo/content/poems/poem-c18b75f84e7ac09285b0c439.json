@@ -1,0 +1,16 @@
+{
+  "id": "poem-c18b75f84e7ac09285b0c439",
+  "title": "思帝乡·花花",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "花花，满枝红似霞。",
+    "罗袖画帘肠断，卓香车。",
+    "回面共人闲语，战篦金凤斜。",
+    "惟有阮郎春尽，不归家。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-5",
+  "tags": []
+}

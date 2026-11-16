@@ -1,0 +1,16 @@
+{
+  "id": "poem-de3c31f59b3291433801d5ed",
+  "title": "郊庙歌辞 晋朝飨乐章 群臣酒行歌 二",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "万国咸归禹，千官共祝尧。",
+    "拜恩瞻凤扆，倾耳听云韶。",
+    "运启金行远，时和玉烛调。",
+    "酒酣齐抃舞，同贺圣明朝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-7f4d2f20-a7ac-4310-b2d5-3fb079011272"
+}

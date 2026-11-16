@@ -1,0 +1,23 @@
+{
+  "id": "poem-689270058fafd9b71a4ed248",
+  "title": "杂曲歌辞 盖罗缝 一",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "秦时明月汉时关，万里征人尚未还。",
+    "但愿龙庭神将在，不教胡马渡阴山。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "战争",
+    "写景",
+    "忧国忧民",
+    "爱国",
+    "唐诗三百首",
+    "乐府",
+    "山",
+    "边塞"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7066e611-faa5-427c-8fce-e0bf10c55416"
+}

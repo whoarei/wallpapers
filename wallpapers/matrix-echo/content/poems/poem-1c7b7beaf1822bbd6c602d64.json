@@ -1,0 +1,15 @@
+{
+  "id": "poem-1c7b7beaf1822bbd6c602d64",
+  "title": "尾声",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(外)相逢到此缘非浅，真与假明朝便见。",
+    "你二人传语状元，亲事不敢相扳，只请枉临一会，再无他意。",
+    "望勿推辞，特请他来赴宴。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3102",
+  "tags": []
+}

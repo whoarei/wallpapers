@@ -1,0 +1,24 @@
+{
+  "id": "poem-7a8548fbd47f8bbbd2145020",
+  "title": "晁端州秀宴席",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "同寮贵公子，好事敌原尝。",
+    "晁侯更萧散，不爱囊中装。",
+    "步兵玉觥滑，洞庭金丸香。",
+    "宛转莼带细，纷纶鲙缕长。",
+    "鳆鱼三百饤，岂必河之鲂。",
+    "咄嗟事便办，侍御色不忙。",
+    "熙熙春台上，醉语各相忘。",
+    "汤餠最后出，虽饱别有肠。",
+    "愿君善遇客，懽乐殊未央。",
+    "不须投车辖，敬举主人觞。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-8199df0b-bd68-4f10-901e-14edd7aa2043"
+}

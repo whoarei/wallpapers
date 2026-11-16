@@ -1,0 +1,16 @@
+{
+  "id": "poem-ae08d1a453d9c78be4393edf",
+  "title": "郊庙歌辞 享章怀太子庙乐章 迎俎酌献",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "通三锡胤，明两承英。",
+    "太山比赫，伊水闻笙。",
+    "宗祧是寄，礼乐其亨。",
+    "嘉辰荐俎，以发声明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-b94c383f-7e56-4f31-97d9-f5e0b11f6bec"
+}

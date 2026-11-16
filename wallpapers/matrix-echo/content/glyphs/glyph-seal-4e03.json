@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e03",
+  "script": "seal",
+  "character": "七",
+  "reading": "qī",
+  "description": "qī：(1)数名，六加一（在钞票和单据上常用大写柒”代）。\n(2)文体名，或称七体”，为赋体的另一种形式。\n(3)旧时人死后每隔七天一祭，共七次，称做七”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-七"
+}

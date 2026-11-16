@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f8e",
+  "script": "seal",
+  "character": "美",
+  "reading": "měi",
+  "description": "měi：(1)好，善～德。～学。～谈。审～。～丽。～容（美化容貌）。～不胜收。\n(2)得意，高兴～滋滋的。\n(3)称赞，以为好赞～。～言。～誉。\n(4)指亚美利加洲”（简称美洲”）北～。南～。\n(5)指美国”～元。～籍华人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-美"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-e13fe1c19fd43656d56c951d",
+  "title": "寄别者",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "寒天正飞雪，行人心切切。",
+    "同为万里客，中路忽离别。",
+    "别君汾水东，望君汾水西。",
+    "积雪无平冈，空山无人蹊。",
+    "羸马时倚辕，行行未遑食。",
+    "下车劝僮仆，相顾莫叹息。",
+    "讵知佳期隔，离念终无极。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a3b26734-32e3-4c56-a6d2-fa8a2a206fc0"
+}

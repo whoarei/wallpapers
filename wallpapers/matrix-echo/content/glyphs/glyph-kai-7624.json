@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7624",
+  "script": "kai",
+  "character": "瘤",
+  "reading": "liú",
+  "description": "liú：身体组织增殖生成的赘生物，多由刺激或微生物寄生而起～子。肉～。肿～。根～。～胃（反刍动物的胃的一部分）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瘤"
+}

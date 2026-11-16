@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9661",
+  "script": "kai",
+  "character": "陡",
+  "reading": "dǒu",
+  "description": "dǒu：(1)斜度很大，近于垂直～坡。～峭。～立。～峻。\n(2)突然～然。～变。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陡"
+}

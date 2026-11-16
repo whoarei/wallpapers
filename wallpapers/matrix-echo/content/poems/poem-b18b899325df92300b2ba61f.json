@@ -1,0 +1,16 @@
+{
+  "id": "poem-b18b899325df92300b2ba61f",
+  "title": "临洞庭",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "八月湖水平，涵虚混太清。",
+    "气蒸云梦泽，波撼岳阳城。",
+    "欲济无舟楫，端居耻圣明。",
+    "坐观垂钓者，徒有羡鱼情。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-臨洞庭"
+}

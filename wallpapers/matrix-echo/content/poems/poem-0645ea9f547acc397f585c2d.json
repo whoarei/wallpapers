@@ -1,0 +1,20 @@
+{
+  "id": "poem-0645ea9f547acc397f585c2d",
+  "title": "阮郎归·歌停檀板舞停鸾",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "歌停檀板舞停鸾。",
+    "高阳饮兴阑。",
+    "兽烟喷尽玉壶干。",
+    "香分小凤团。",
+    "雪浪浅，露花圆。",
+    "捧瓯春笋寒。",
+    "绛纱笼下跃金鞍。",
+    "归时人倚阑。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-751",
+  "tags": []
+}

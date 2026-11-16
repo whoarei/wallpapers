@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94c5",
+  "script": "seal",
+  "character": "铅",
+  "reading": "qiān",
+  "description": "青金\n古时也指锡类\n一种重而柔软、有延展性、可塑性而没有弹性的二价或四价的金属元素,元素符号pb。原子序数82,刚切割时呈蓝白色,但在潮湿空气中很快失去光泽而变暗灰色,它大多以化合\n状态存在\n⒈金属化学元素。符号pb。银灰色，质软，熔点低。用作制电缆、煤气管、蓄电池等∠金用做铅字、轴承、电线包皮等。\n⒉石墨～笔。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铅"
+}

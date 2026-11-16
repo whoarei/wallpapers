@@ -1,0 +1,17 @@
+{
+  "id": "poem-9612526de91eb151cefd612c",
+  "title": "古意九首 四",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "乾坤有清气，散入诗人脾。",
+    "圣贤遗清风，不在恶木枝。",
+    "千人万人中，一人两人知。",
+    "忆在东溪日，花开叶落时。",
+    "几拟以黄金，铸作钟子期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3ea05842-1f5c-427f-ab89-9bbac4075eb1"
+}

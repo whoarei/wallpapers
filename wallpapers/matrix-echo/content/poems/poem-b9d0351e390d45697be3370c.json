@@ -1,0 +1,16 @@
+{
+  "id": "poem-b9d0351e390d45697be3370c",
+  "title": "送黄梅江明府",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "封疆多难正经纶，台阁如何不用君。",
+    "江上又劳为小邑，箧中徒自有雄文。",
+    "书生胆气人谁信，远俗歌谣主不闻。",
+    "一首新诗无限意，再三吟咏向秋云。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-6020c922-18ab-4981-aeec-08a63a6e98be"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-06e188690275319af61be413",
+  "title": "御街行·凌寒架雪知春近",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "凌寒架雪知春近。",
+    "闲探处、如相问。",
+    "溪流清浅暮云低，玉蓓横斜风定。",
+    "晚枝雀啅，幽姿方展，还映疏篁冷。",
+    "镜鸾妆罢明梢嫩。",
+    "犹记宜相并。",
+    "如今却月别传香，知引何人幽兴。",
+    "不堪楼上，昭华吹断，声与愁肠尽。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-184",
+  "tags": []
+}

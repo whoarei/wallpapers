@@ -1,0 +1,23 @@
+{
+  "id": "poem-af7a07707156bc42d61e6f95",
+  "title": "春晚书山家屋壁二首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "水香塘黑蒲森森，鸳鸯㶉𫛶如家禽。",
+    "前村后垄桑柘深，东邻西舍无相侵。",
+    "蚕娘洗茧前溪渌，牧童吹笛和衣浴。",
+    "山翁留我宿又宿，笑指西坡瓜豆熟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "山",
+    "写景",
+    "抒情",
+    "喜悦",
+    "组诗",
+    "乡村"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-ca89ed95-a370-4413-ad31-55a752465d07"
+}

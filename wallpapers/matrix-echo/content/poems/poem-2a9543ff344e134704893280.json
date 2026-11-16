@@ -1,0 +1,19 @@
+{
+  "id": "poem-2a9543ff344e134704893280",
+  "title": "题灵泉寺",
+  "author": "程序",
+  "dynasty": "唐",
+  "verses": [
+    "烟景[昼]（尽）冥冥，楼台隐翠屏。",
+    "猨攀太子树，鸟听《法王经》。",
+    "悟理心无著，求缘塔有灵。",
+    "回车犹未远，日暮数峰青。",
+    "（亦见《安阳县金石录》。",
+    "）（按此诗与徐源、徐淮诗刻一石，诗下原题「广平程序字[土]〖古〗伦」七字。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-bc267111-b4c6-43cf-8ce0-bedd090054cf"
+}

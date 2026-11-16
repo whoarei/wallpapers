@@ -1,0 +1,22 @@
+{
+  "id": "poem-5cb87894591c7d3d144f04e5",
+  "title": "浪淘沙·把酒祝东风",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "把酒祝东风。",
+    "且共从容。",
+    "垂杨紫陌洛城东。",
+    "总是当时携手处，游遍芳丛。",
+    "聚散苦匆匆。",
+    "此恨无穷。",
+    "今年花胜去年红。",
+    "可惜明年花更好，知与谁同。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-176"
+}

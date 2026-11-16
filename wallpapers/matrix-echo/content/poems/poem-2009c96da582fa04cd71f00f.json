@@ -1,0 +1,16 @@
+{
+  "id": "poem-2009c96da582fa04cd71f00f",
+  "title": "鲍老催",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "意深爱笃，文章富贵珠万斛，天教艳质为眷属。",
+    "似蝶恋花，凤栖梧，鸾停竹。",
+    "男儿有书须勤读，书中自黄金屋，也自有千钟粟。",
+    "(合唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5066",
+  "tags": []
+}

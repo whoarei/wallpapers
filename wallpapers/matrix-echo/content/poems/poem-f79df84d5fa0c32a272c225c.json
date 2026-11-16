@@ -1,0 +1,16 @@
+{
+  "id": "poem-f79df84d5fa0c32a272c225c",
+  "title": "白石潭秋霁作",
+  "author": "周繇",
+  "dynasty": "唐",
+  "verses": [
+    "潭心烟雾破斜晖，殷殷雷声隔翠微。",
+    "崖蹙盘涡翻蜃窟，滩吹白石上渔矶。",
+    "陵风舴艋讴哑去，出水鸬鹚薄泊飞。",
+    "秋霁更谁同此望，远钟时见一僧归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ee815980-f7ce-4628-bd99-698fff712372"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-d3937ac988de35ef20ea5ce2",
+  "title": "调笑・调笑令·翻翻绣袖上红茵",
+  "author": "邵伯温",
+  "dynasty": "宋",
+  "verses": [
+    "翻翻绣袖上红茵。",
+    "舞姬犹是旧精神。",
+    "坐中莫怪无欢意，我与将军是故人。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-568",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-2465a443fe3b4dabe89d91e8",
+  "title": "边上送杨侍御鞫狱回",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "狱成冤雪晚云开，豸角威清塞鴈回。",
+    "飞将送迎遥避马，离亭不敢劝金杯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-ba6e544d-649b-417e-92d7-fd47cb420bde"
+}

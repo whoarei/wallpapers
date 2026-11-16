@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c55",
+  "script": "seal",
+  "character": "汕",
+  "reading": "shàn",
+  "description": "shàn：古代称抄网类的捕鱼用具。\n〔～～〕群鱼游水的样子，如南有嘉鱼，丞然～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-汕"
+}

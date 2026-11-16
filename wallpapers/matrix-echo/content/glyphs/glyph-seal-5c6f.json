@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c6f",
+  "script": "seal",
+  "character": "屯",
+  "reading": "tún；zhūn",
+  "description": "tún：(1)聚集，储存～粮。～积。～聚。\n(2)驻军防守～兵。～垦。～田（驻军开垦田地）。\n(3)村庄皇姑～。～子（村庄）。\nzhūn：困难～蹇（不顺利，艰难困苦）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-屯"
+}

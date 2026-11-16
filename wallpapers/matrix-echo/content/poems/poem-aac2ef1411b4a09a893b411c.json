@@ -1,0 +1,14 @@
+{
+  "id": "poem-aac2ef1411b4a09a893b411c",
+  "title": "天仙子·深夜归来长酩酊",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "深夜归来长酩酊，扶入流苏犹未醒。",
+    "醺醺酒气麝兰和，惊睡觉，笑呵呵，长道人生能几何。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-8"
+}

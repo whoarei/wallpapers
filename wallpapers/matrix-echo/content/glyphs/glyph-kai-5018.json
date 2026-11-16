@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5018",
+  "script": "kai",
+  "character": "倘",
+  "reading": "tǎng；cháng",
+  "description": "tǎng：假使，如果～或。～若。～使。～然。\ncháng：同徜”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-倘"
+}

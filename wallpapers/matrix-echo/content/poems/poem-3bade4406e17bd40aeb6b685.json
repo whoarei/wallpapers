@@ -1,0 +1,16 @@
+{
+  "id": "poem-3bade4406e17bd40aeb6b685",
+  "title": "送旻上人游天台",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "真心不废别，试看越溪清。",
+    "知汝机忘尽，春山自有情。",
+    "月思华顶宿，云爱石门行。",
+    "海近应须泛，无令鸥鹭惊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3b059853-57c0-434e-a748-879d646fb580"
+}

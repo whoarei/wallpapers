@@ -1,0 +1,14 @@
+{
+  "id": "poem-ca89ed2bcda4eebddc54c372",
+  "title": "绕池游",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "张叶拜启：\"念是读书辈，往长安拟欲应举。",
+    "些少裹足，路途里欲得支费，望周全不须劫去。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2453",
+  "tags": []
+}

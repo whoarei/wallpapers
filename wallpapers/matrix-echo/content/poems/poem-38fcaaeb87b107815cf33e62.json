@@ -1,0 +1,14 @@
+{
+  "id": "poem-38fcaaeb87b107815cf33e62",
+  "title": "宫词  其六八",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "长乐疏钟常送月，灵和垂柳只从风。",
+    "还知天上人难老，颜色年年不减红。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-a503e3a6-1456-4880-827d-2b307edc6f14"
+}

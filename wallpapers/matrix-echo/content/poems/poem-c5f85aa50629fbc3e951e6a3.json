@@ -1,0 +1,16 @@
+{
+  "id": "poem-c5f85aa50629fbc3e951e6a3",
+  "title": "近榆亭  其七",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "少日接为构，无何了桑榆。",
+    "邀食有余地，何事须千奴。",
+    "此亭与此木，到眼聊为娱。",
+    "五诗信睡语，定博君卢胡。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-9dc4a03d-03dd-478c-8b5f-d039088cb5d6"
+}

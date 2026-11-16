@@ -1,0 +1,16 @@
+{
+  "id": "poem-ae08126411a356d6f55fab5e",
+  "title": "青海卧疾之作 二",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "邂逅遇迍蒙，人情讵见通？",
+    "昔时曾虎步，即日似禽笼。",
+    "有命如朝露，天依类断蓬。",
+    "缅怀知我者，荣辱杳难同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-6d4d45e4-c86a-43ff-b8dc-c8245cc70fd0"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-07bf5c8db623cf0f3f8c36a3",
+  "title": "绝句",
+  "author": "权审",
+  "dynasty": "唐",
+  "verses": [
+    "得即高歌失即休，多悲多恨谩悠悠。",
+    "今朝有酒今朝醉，明日愁来明日愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-43199678-079e-4d21-8f2f-811c906c1d34"
+}

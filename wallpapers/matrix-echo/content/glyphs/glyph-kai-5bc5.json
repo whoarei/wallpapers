@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5bc5",
+  "script": "kai",
+  "character": "寅",
+  "reading": "yín",
+  "description": "yín：(1)地支的第三位，属虎～吃卯粮（喻入不敷出）。\n(2)用于计时～时（夜三点至五点）。\n(3)敬～钱（恭敬地送）。～畏（敬畏）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-寅"
+}

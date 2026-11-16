@@ -1,0 +1,16 @@
+{
+  "id": "poem-bef70da02f25cc6584401a0a",
+  "title": "折桂令",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "燕沈檀香喷金猊，昭告灵魂，听剖因依。",
+    "自从俺宴罢瑶池，宫袍宠赐，相府勒赘。",
+    "掩只为撇不下糟糠旧妻，苦推辞桃杏新室，致受磨折，改调俺在潮阳。",
+    "妻，因此上耽误了恁的归期。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8271",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c7b1f40e785317b24186b9d6",
+  "title": "满宫花·月沉沉",
+  "author": "尹鹗 六首",
+  "dynasty": "五代",
+  "verses": [
+    "月沉沉，人悄悄，一炷后庭香袅。",
+    "风流帝子不归来，满地禁花慵扫。",
+    "离恨多，相见少，何处醉迷三岛。",
+    "漏清宫树子规啼，愁锁碧窗春晓。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-29"
+}

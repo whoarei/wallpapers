@@ -1,0 +1,22 @@
+{
+  "id": "poem-7d9400fddd819b36524f6276",
+  "title": "水调歌头·湖海倦游客",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "湖海倦游客，江汉有归舟。",
+    "西风千里，送我今夜岳阳楼。",
+    "日落君山云气，春到沅湘草木，远思渺难收。",
+    "徙倚栏杆久，缺月挂帘钩。",
+    "雄三楚，吞七泽，隘九州。",
+    "人间好处，何处更似此楼头。",
+    "欲吊沈累无所，但有渔儿樵子，哀此写离忧。",
+    "回首叫虞舜，杜若满芳洲。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-386",
+  "tags": [
+    "岳阳楼"
+  ]
+}

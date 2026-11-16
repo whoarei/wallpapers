@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53f8",
+  "script": "kai",
+  "character": "司",
+  "reading": "sī",
+  "description": "sī：(1)主管，操作～法。～机。～令。～南（古代用磁石做成的辨别方向的仪器，为现在指南针的始祖）。～空（ａ．古代中央政府中掌管工程的长官；ｂ．复姓）。～徒（ａ．古代中央政府中掌管土地和徒役的长官，后为丞相；ｂ．复姓）。～马（ａ．古代中央政府中掌管军务的长官；ｂ．复姓）。～寇（ａ．古代中央政府中掌管刑狱、纠察的长官；ｂ．复姓）。\n(2)官署名称人事～。\n(3)视察～日月之长短。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-司"
+}

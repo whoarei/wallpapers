@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-786c",
+  "script": "kai",
+  "character": "硬",
+  "reading": "yìng",
+  "description": "yìng：(1)坚固，与软”相对坚～。～木。～煤。～卧。～席。～币。～笔（钢笔、铅笔、圆珠笔的统称）。～化。～件（计算机系统的组成部分，构成计算机的各个元件、部件和装置的统称）。～碰～（喻用强硬对付强硬，或强手对强手。）\n(2)刚强有力强～。～朗。～实。～气（ａ．刚强，有骨气；ｂ．有正当理由，于心无愧。气”读轻声）。～骨头。欺软怕～。\n(3)固执；勉强生～。～撑。～是。～顶。～挺。生拉～拽。\n(4)能力强，质量好～手。～功。过得～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-硬"
+}

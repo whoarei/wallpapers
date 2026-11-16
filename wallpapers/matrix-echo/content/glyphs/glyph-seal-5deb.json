@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5deb",
+  "script": "seal",
+  "character": "巫",
+  "reading": "wū",
+  "description": "wū：(1)以祈祷求神骗取财物的人～婆。女～。男～。～术。小～见大～（喻小的跟大的一比，就显得小不如大）。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-巫"
+}

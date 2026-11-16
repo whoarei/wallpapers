@@ -1,0 +1,15 @@
+{
+  "id": "poem-8723864a95d4142e133fc004",
+  "title": "南池杂咏五首 溪云",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "舒卷意何穷，萦流复带空。",
+    "有形不累物，无迹去随风。",
+    "莫怪长相逐，飘然与我同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f1528b27-d4f2-458c-b755-c60c0e53a111"
+}

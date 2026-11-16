@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5a55",
+  "script": "seal",
+  "character": "婕",
+  "reading": "jié",
+  "description": "jié：〔～妤〕中国汉代宫中女官名。自魏晋至明代多沿置。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-婕"
+}

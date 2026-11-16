@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7da6",
+  "script": "seal",
+  "character": "綦",
+  "reading": "qí",
+  "description": "qí：(1)青黑色～巾。\n(2)极，很～难。～切。言之～详。\n(3)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-綦"
+}

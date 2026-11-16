@@ -1,0 +1,16 @@
+{
+  "id": "poem-ee4246c1d5ccb2fe658ecdce",
+  "title": "同明府章送沈秀才还石门山读书",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "身为郢令客，心许楚山云。",
+    "文墨应经世，林泉漫诱君。",
+    "欲随樵子去，惜与道流分。",
+    "肯谢申公辈，治诗事汉文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-e7a61698-8744-4ba7-ad8e-6e8aae32456e"
+}

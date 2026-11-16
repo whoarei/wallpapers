@@ -1,0 +1,16 @@
+{
+  "id": "poem-89431bb4518de4fb72697063",
+  "title": "泣颜回",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)他从早离门儿。",
+    "(小生)与谁为伴？(旦)与两个乔人排会，终朝宴乐，他两个却自先回。",
+    "若非小叔，险些儿冻死在深雪里。",
+    "背归来再生人世，不知他倒在何处？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1772",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-915d",
+  "script": "kai",
+  "character": "酝",
+  "reading": "yùn",
+  "description": "逐渐造成\n⒈酿酒春～夏成。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-酝"
+}

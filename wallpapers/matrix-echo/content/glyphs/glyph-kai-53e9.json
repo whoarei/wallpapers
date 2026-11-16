@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53e9",
+  "script": "kai",
+  "character": "叩",
+  "reading": "kòu",
+  "description": "kòu：(1)敲打～击。～门。～关（ａ．入国求见；ｂ．攻打关门；ｃ．指足球、冰球等运动中攻打球门）。～诊。\n(2)旧时一种礼节～拜。～见。～谒。～首。～头。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-叩"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-958c45afdbcc01493dace329",
+  "title": "山友赠藓花冠",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "尘污出华发，慙君青藓冠。",
+    "此身闲未得，终日戴应难。",
+    "好就松阴挂，宜当枕石看。",
+    "会须寻道士，簪去绕霜坛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-968139f4-44e2-401d-b6fb-198b2e829282"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-668b50c31f2e1a5180e639e3",
+  "title": "夜坐",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "柏香烟里瀹山茶，穷似烧丹道士家。",
+    "窗纸渐明寒月上，一肱清梦入梅花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-13ab296a-d6b5-4d9a-81a7-1e03cd39ad96"
+}

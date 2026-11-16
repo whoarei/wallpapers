@@ -1,0 +1,14 @@
+{
+  "id": "poem-eac3efe232d8a277901f0719",
+  "title": "咏华清宫",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "行尽江南数十程，晓风残月入华清。",
+    "朝元阁上西风急，都入长杨作雨声。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-詠華清宮"
+}

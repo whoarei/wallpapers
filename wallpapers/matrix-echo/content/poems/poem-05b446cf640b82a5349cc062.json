@@ -1,0 +1,16 @@
+{
+  "id": "poem-05b446cf640b82a5349cc062",
+  "title": "张大年览文与可墨竹及先人所题与可挽诗见惠长句因次其韵",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "墨妙苍筤双玉枝，赏音悲壮七哀诗。",
+    "多惭寂寞青毡地，又得风流黄绢词。",
+    "往事白杨无数拱，余生衰鬓不堪垂。",
+    "声沈影绝何人识，頼有柯亭可见思。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-c34e31ca-60b3-4d49-98f9-30be9b215d59"
+}

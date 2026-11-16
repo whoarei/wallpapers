@@ -1,0 +1,15 @@
+{
+  "id": "poem-0e02d8e5caa37dad977d8289",
+  "title": "句（《吟窗杂录》卷三一《历代吟谱》引此二句，题作《秋夕诗》。）",
+  "author": "卞震",
+  "dynasty": "唐",
+  "verses": [
+    "空囊万里客，斜月一床寒。",
+    "（见《宋诗纪事》引宋失名撰《历代吟谱》。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-3a8e3553-61d2-479e-ab2a-28e76b1852a6"
+}

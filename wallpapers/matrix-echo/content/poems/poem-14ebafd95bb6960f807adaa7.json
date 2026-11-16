@@ -1,0 +1,17 @@
+{
+  "id": "poem-14ebafd95bb6960f807adaa7",
+  "title": "太清舞·渔舟之子来何所",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "渔舟之子来何所。",
+    "尽相猜相语。",
+    "夜宿玉堂空，见火轮飞舞。",
+    "凡心有虑尚依然，复归指、维舟沙浦。",
+    "回首已茫茫，叹愚迷不悟。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-15",
+  "tags": []
+}

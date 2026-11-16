@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-518c",
+  "script": "seal",
+  "character": "册",
+  "reading": "cè",
+  "description": "cè：(1)古代称编串好的竹简，现在指装潢好的纸本子纪念～。花名～。画～。\n(2)量词，指书籍一～书。\n(3)古代帝王祭祀天地神仙的文书或封爵的诏书～文（文体名，为册命、册书等诰命文字的一种。简称册”）。～命。～封。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-册"
+}

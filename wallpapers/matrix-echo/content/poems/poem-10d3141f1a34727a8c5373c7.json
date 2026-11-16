@@ -1,0 +1,16 @@
+{
+  "id": "poem-10d3141f1a34727a8c5373c7",
+  "title": "四七",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "见贵当须避，知强远利他。",
+    "（「利」，伯三五五八、伯三六五六卷作「离」。",
+    "）高飞能去纲（按当作「网」。",
+    "）岂得值低罗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-05adbd3d-d50e-4cbf-881e-bf958afc87ea"
+}

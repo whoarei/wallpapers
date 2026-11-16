@@ -1,0 +1,16 @@
+{
+  "id": "poem-9349a2a249d0306bb317546c",
+  "title": "女冠子·云罗雾縠",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "云罗雾縠，新授明威法箓，降真函。",
+    "髻绾青丝发，冠抽碧玉簪。",
+    "往来云过五，去往岛经三。",
+    "正遇刘郎使，启瑶缄。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-43"
+}

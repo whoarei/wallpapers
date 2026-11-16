@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9776",
+  "script": "seal",
+  "character": "靶",
+  "reading": "bǎ",
+  "description": "bǎ：(1)练习射箭或射击用的目标～子。～场。～标。打～。\n(2)缰绳。\n(3)供加速器、原子核反应堆、放射性源等发出的粒子流轰击的实物样品，用以研究核反应，获得放射性同位素或产生Ｘ射线等。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-靶"
+}

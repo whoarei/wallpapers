@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7c92",
+  "script": "seal",
+  "character": "粒",
+  "reading": "lì",
+  "description": "lì：(1)成颗的东西，细小的固体米～。盐～。颗～。～子（ａ．成果的、细小的东西，子”读轻声；ｂ．指基本粒子”，物理学上指构成物体的最简单的物质）。\n(2)量词，多指颗粒状的东西一～米。一～珍珠。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-粒"
+}

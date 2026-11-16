@@ -1,0 +1,22 @@
+{
+  "id": "poem-3f76e218d295e47a4b96c7bb",
+  "title": "秦楼月・忆秦娥·楼阴缺",
+  "author": "范成大",
+  "dynasty": "宋",
+  "verses": [
+    "楼阴缺。",
+    "阑干影卧东厢月。",
+    "东厢月。",
+    "一天风露，杏花如雪。",
+    "隔烟催漏金虬咽。",
+    "罗帏暗淡灯花结。",
+    "灯花结。",
+    "片时春梦，江南天阔。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-275"
+}

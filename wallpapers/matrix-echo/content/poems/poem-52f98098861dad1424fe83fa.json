@@ -1,0 +1,14 @@
+{
+  "id": "poem-52f98098861dad1424fe83fa",
+  "title": "歌",
+  "author": "元寂",
+  "dynasty": "唐",
+  "verses": [
+    "酒秃酒秃，何荣何辱。",
+    "但见衣冠成古丘，不见江河变陵谷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3c0acdd4-79dd-4f19-93ab-513eb1147024"
+}

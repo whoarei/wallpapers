@@ -1,0 +1,17 @@
+{
+  "id": "poem-de629563c3b67229cd166d2f",
+  "title": "浣溪沙·十里西畴熟稻香",
+  "author": "范成大",
+  "dynasty": "宋",
+  "verses": [
+    "十里西畴熟稻香。",
+    "槿花篱落竹丝长。",
+    "垂垂山果挂青黄。",
+    "浓雾知秋晨气润，薄云遮日午阴凉。",
+    "不须飞盖护戎装。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-259",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-501a",
+  "script": "kai",
+  "character": "倚",
+  "reading": "yǐ",
+  "description": "yǐ：(1)靠着，～靠。～赖。～傍。～托。～重。\n(2)仗恃～势。～恃。～仗。\n(3)偏，歪不偏不～。\n(4)随着，和着使慎夫人鼓瑟，上自～瑟而歌”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-倚"
+}

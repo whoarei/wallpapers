@@ -1,0 +1,16 @@
+{
+  "id": "poem-a93b138f4792bb48941839a9",
+  "title": "宿楚国寺有怀",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "风动衰荷寂寞香，断烟残月共苍苍。",
+    "寒生晚寺波摇壁，红堕疎林叶满床。",
+    "起雁似惊南浦棹，阴云欲护北楼霜。",
+    "江边松菊荒应尽，八月长安夜正长。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-23f92364-8920-49e3-9b7f-d9c70cfcbf95"
+}

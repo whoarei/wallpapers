@@ -1,0 +1,15 @@
+{
+  "id": "poem-503862bad26c6d0e42c3fb08",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)依旧珠围翠簇，依旧雕鞍绣毂，列侍妾丫鬟使女，送金杯听歌观舞也。",
+    "(小旦)因灾致福，爱惜奴似亲生儿女。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3053",
+  "tags": []
+}

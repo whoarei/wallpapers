@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7fca",
+  "script": "seal",
+  "character": "翊",
+  "reading": "yì",
+  "description": "yì：(1)辅佐，帮助～戴（辅佐拥戴）。～赞。\n(2)古同翌”，明日。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-翊"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-49da98a7412846010b3e3eb1",
+  "title": "渔歌子·泛流萤",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "泛流萤，明又灭，夜凉水冷东湾阔。",
+    "风浩浩，笛寥寥，万顷金波澄澈。",
+    "杜若洲，香郁烈，一声宿雁霜时节。",
+    "经霅水，过松江，尽属侬家日月。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-47"
+}

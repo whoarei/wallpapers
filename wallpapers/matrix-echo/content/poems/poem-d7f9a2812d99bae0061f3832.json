@@ -1,0 +1,18 @@
+{
+  "id": "poem-d7f9a2812d99bae0061f3832",
+  "title": "临江仙·寒食清明春事好",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "寒食清明春事好，公家霁月光风。",
+    "年时犹记雨声中。",
+    "州侯陈乐舞，法从酒杯同。",
+    "坐上王杨虽自散，酴醿依旧香浓。",
+    "待将诗易寿无穷。",
+    "鸢飞鱼跃矣，风虎更云龙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-471",
+  "tags": []
+}

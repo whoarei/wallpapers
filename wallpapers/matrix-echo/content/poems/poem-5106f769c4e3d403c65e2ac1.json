@@ -1,0 +1,19 @@
+{
+  "id": "poem-5106f769c4e3d403c65e2ac1",
+  "title": "甘草子·秋尽",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "秋尽。",
+    "叶翦红绡，砌菊遗金粉。",
+    "雁字一行来，还有边庭信。",
+    "飘散露华清风紧。",
+    "动翠幕、晓寒犹嫩。",
+    "中酒残妆慵整顿。",
+    "聚两眉离恨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-58",
+  "tags": []
+}

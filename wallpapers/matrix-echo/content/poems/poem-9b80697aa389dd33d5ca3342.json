@@ -1,0 +1,20 @@
+{
+  "id": "poem-9b80697aa389dd33d5ca3342",
+  "title": "玉楼春·燕鸿过后春归去",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "燕鸿过后春归去。",
+    "细算浮生千万绪。",
+    "来如春梦几多时，去似朝云无觅处。",
+    "闻琴解神仙侣。",
+    "挽断罗衣留不住。",
+    "劝君莫作独醒人，烂醉花间应有数。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-174"
+}

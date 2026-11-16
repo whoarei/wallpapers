@@ -1,0 +1,14 @@
+{
+  "id": "poem-6caaa73fb1569f72489228d3",
+  "title": "加颂蜀僧雪颂  其一",
+  "author": "释印肃",
+  "dynasty": "宋",
+  "verses": [
+    "庭前雪子落纷纷，妙触灵明应普门。",
+    "不是药山无用处，权令庞老警儿孙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-a4689ed9-d436-430c-a600-4d8fc2fe812d"
+}

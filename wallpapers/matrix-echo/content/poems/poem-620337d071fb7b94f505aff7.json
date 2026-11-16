@@ -1,0 +1,14 @@
+{
+  "id": "poem-620337d071fb7b94f505aff7",
+  "title": "壁间韵  其三",
+  "author": "赵崇鉘",
+  "dynasty": "宋",
+  "verses": [
+    "海棠开尽故清寒，漠漠梨花暮色闲。",
+    "酒满绿樽愁满酒，醉凭枕障认巫山。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-1a91e80a-4213-4d5a-bb8e-08f3f83356f4"
+}

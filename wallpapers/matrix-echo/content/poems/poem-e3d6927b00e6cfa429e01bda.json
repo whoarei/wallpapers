@@ -1,0 +1,20 @@
+{
+  "id": "poem-e3d6927b00e6cfa429e01bda",
+  "title": "浪淘沙·花外倒金翘",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "花外倒金翘。",
+    "饮散无憀。",
+    "柔桑蔽日柳迷条。",
+    "此地年时会一醉，还是春朝。",
+    "今日举轻桡。",
+    "帆影飘飘。",
+    "长亭回首短亭遥。",
+    "过尽长亭人更远，特地魂销。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-727",
+  "tags": []
+}

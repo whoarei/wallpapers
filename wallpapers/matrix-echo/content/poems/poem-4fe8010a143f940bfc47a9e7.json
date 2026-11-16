@@ -1,0 +1,14 @@
+{
+  "id": "poem-4fe8010a143f940bfc47a9e7",
+  "title": "家书",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "未得还乡泪欲珠，一书封了又踌躇。",
+    "家人会得征夫意，门外西风即是书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-993ca72e-3c7e-42bc-9180-db2a9e980c6d"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-867a",
+  "script": "seal",
+  "character": "虺",
+  "reading": "huī；huǐ",
+  "description": "huǐ：古书上说的一种毒蛇～蜮（虺、蜴、蜮都是害人的毒物，喻奸恶小人）。为～弗摧，为蛇若何（小蛇不打死，成了大蛇怎么办？原喻要趁敌人弱小时就把它消灭，后泛指坏人要及早除掉）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-虺"
+}

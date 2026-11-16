@@ -1,0 +1,14 @@
+{
+  "id": "poem-317eccba087907c56d7f8ab0",
+  "title": "村墅",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "正月二月村墅闲，余粮未乏人心宽。",
+    "南邻雨中揭屋笑，酒熟数家来相看。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-b19282c0-6f4c-4824-a886-31587743db98"
+}

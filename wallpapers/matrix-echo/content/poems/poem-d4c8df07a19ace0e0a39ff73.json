@@ -1,0 +1,20 @@
+{
+  "id": "poem-d4c8df07a19ace0e0a39ff73",
+  "title": "减字木兰花·摇毫铸藻",
+  "author": "葛立方",
+  "dynasty": "宋",
+  "verses": [
+    "摇毫铸藻。",
+    "纵有微之应压倒。",
+    "万里鹏程。",
+    "南省今书淡墨名。",
+    "胪传丹陛。",
+    "月里桂花先著袂。",
+    "雁塔高题。",
+    "玉季巍科尚觉低。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-525",
+  "tags": []
+}

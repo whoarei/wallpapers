@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7b3c",
+  "script": "seal",
+  "character": "笼",
+  "reading": "lóng",
+  "description": "用竹片编成的盛物的器具\n桂枝为笼钩。\n饲养鸟、虫、家禽等的笼子\n⒉较大的箱子箱～。\n⒈用竹篾、木条或塑料等制做的盛物器或罩物器筷～。灯～。\n⒉养鸟、兽等的器具鸡～。鸟～子。蝈蝈～。\n⒊囚禁犯人的刑具囚～。\n⒋有盖用以蒸东西的器具蒸～。～屉。\n⒌将手放在袖筒里～着手。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-笼"
+}

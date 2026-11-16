@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6a79",
+  "script": "seal",
+  "character": "橹",
+  "reading": "lǔ",
+  "description": "顶部没有覆盖的远望楼\n比桨长大的划船工具,安在船尾或船旁\n⒊艪、\n⒈大盾牌。\n⒉望楼，瞭望台泰山为～。\n⒊船桨，拨水使船前进的工具摇～。大舶夹双～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-橹"
+}

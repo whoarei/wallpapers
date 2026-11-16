@@ -1,0 +1,16 @@
+{
+  "id": "poem-1588252b1af7c60dcacacea0",
+  "title": "夏日樊川别业即事",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "无事称无才，柴门亦罕开。",
+    "脱巾吟永日，著屐步荒台。",
+    "风卷微尘上，霆将暴雨来。",
+    "终南云渐合，咫尺失崔嵬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-fe62a52d-e93a-4c54-8962-7641bafc1c57"
+}

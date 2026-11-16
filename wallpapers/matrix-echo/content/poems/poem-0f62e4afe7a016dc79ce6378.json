@@ -1,0 +1,16 @@
+{
+  "id": "poem-0f62e4afe7a016dc79ce6378",
+  "title": "送恒操上人归江外觐省",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "依佛不违亲，高堂与寺邻。",
+    "问安双树晓，求膳一僧贫。",
+    "持呪过龙庙，翻经化海人。",
+    "还同惠休去，儒者亦沾巾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-e1255db2-ff1c-49ff-b4b0-9914fbad280e"
+}

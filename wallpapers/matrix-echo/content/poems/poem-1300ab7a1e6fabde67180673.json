@@ -1,0 +1,18 @@
+{
+  "id": "poem-1300ab7a1e6fabde67180673",
+  "title": "鹧鸪天·舞凤飞龙五百年",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "舞凤飞龙五百年。",
+    "尽将锦绣裹山川。",
+    "王家券册诸孙嗣，主第笙歌故国传。",
+    "居玉铉，拥金蝉。",
+    "祗今门户庆蝉联。",
+    "君侯合侍明光殿，且作横槎海上仙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-237",
+  "tags": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-4c1a9129ac1f8d28f009f25a",
+  "title": "关山月",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "离离天际云，皎皎关山月。",
+    "羌笛一声来，白尽征人髪。",
+    "嘹唳孤鸿高，萧索悲风发。",
+    "雪压塞尘清，雕落沙场阔。",
+    "何当胡无人，荷戈朝凤阙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-797e6674-d389-4f87-bdfb-50861c154abe"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-99801d93edc5406cc1cbf8df",
+  "title": "夏日  其二",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "泓泓圆碧漾新荷，猎猎斜风颤绿莎。",
+    "农事正忙三月后，野田齐唱插秧歌。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-d0ecbcdb-57e3-44f1-bf2a-4e44387e401e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c6007d333ffd4c28ff2256b8",
+  "title": "临江仙·洞庭波浪飐晴天",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "洞庭波浪飐晴天，君山一点凝烟。",
+    "此中真境属神仙，玉楼珠殿，相映月轮边。",
+    "万里平湖秋色冷，星辰垂影参然。",
+    "桔林霜重更红鲜，罗浮山下，有路暗相连。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-39"
+}

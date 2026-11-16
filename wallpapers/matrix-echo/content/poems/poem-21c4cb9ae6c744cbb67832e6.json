@@ -1,0 +1,14 @@
+{
+  "id": "poem-21c4cb9ae6c744cbb67832e6",
+  "title": "春秋战国门 又吟",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "马毙廐人欲就刑，百年临尽一言生。",
+    "赖逢贤相能匡救，仍免吾君播恶声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-32c324a7-d5e8-4eb7-8ce7-59196f059bcd"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-6e65004f073715f999d452b1",
+  "title": "寻山僧真胜上人不遇",
+  "author": "栖白",
+  "dynasty": "唐",
+  "verses": [
+    "松下禅栖所，苔滋径莫分。",
+    "青山春暮见，流水夜深闻。",
+    "不坐看心石，应随出定云。",
+    "猨猱非可问，岩谷自空曛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-48e2260b-6d78-4713-bf1b-2df974a97f80"
+}

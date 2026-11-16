@@ -1,0 +1,16 @@
+{
+  "id": "poem-a6e4e227adb25f3552c36172",
+  "title": "春暮途中",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "细雨如尘散暖空，数峰春色在云中。",
+    "须知触目皆成恨，纵道多文争那穷。",
+    "飞燕有情依旧阁，垂杨无力受东风。",
+    "谁能会得乾坤意，九土枯荣自不同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-b4210c74-a311-49ed-aa4c-6a97d6553958"
+}

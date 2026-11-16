@@ -1,0 +1,22 @@
+{
+  "id": "poem-007eb728085a324ea349cbe3",
+  "title": "行香子·黄金叶细",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "黄金叶细，碧玉枝纤。",
+    "初暖日、当乍晴天。",
+    "向武昌溪畔，于彭泽门前。",
+    "陶潜影，张绪态，两相牵。",
+    "数株堤面，几树桥边。",
+    "嫩垂条、絮荡轻绵。",
+    "系长江舴艋，拂深院秋千。",
+    "寒食下，半和雨，半和烟。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-915",
+  "tags": [
+    "长江"
+  ]
+}

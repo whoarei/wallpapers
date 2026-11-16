@@ -1,0 +1,16 @@
+{
+  "id": "poem-f15a65039a7ab761399ea8c3",
+  "title": "和黄仲秉喜雨",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "雨后清泉遶舍流，悬知耘耜遍南州。",
+    "占相岁事端无恙，劳苦农人亦少休。",
+    "好句收功经百炼，弥旬不见便三秋。",
+    "闲来只愿长丰稔，江海白鸥盟共求。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-5e4ab7eb-325c-4453-bef6-f07414cc1a2a"
+}

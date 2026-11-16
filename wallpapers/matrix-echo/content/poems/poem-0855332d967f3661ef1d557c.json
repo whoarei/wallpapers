@@ -1,0 +1,16 @@
+{
+  "id": "poem-0855332d967f3661ef1d557c",
+  "title": "郊庙歌辞 梁太庙乐舞辞 撤豆",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "笙镛洋洋，庭燎煌煌。",
+    "明星有烂，祝史下堂。",
+    "[笾]豆斯撤，礼容有章。",
+    "克勤克俭，无怠无荒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-bee147ae-b09f-4b5b-a916-8297f1584642"
+}

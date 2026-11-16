@@ -1,0 +1,14 @@
+{
+  "id": "poem-58e1e997f54619d5cecb37ae",
+  "title": "题开圣寺",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "宿雨初收草木浓，群鸦飞散下堂钟。",
+    "长廊无事僧归院，尽日门前独看松。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4d9dbc25-afa4-4316-95b6-abba6bd0f8c6"
+}

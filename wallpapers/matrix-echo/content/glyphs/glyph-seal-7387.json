@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7387",
+  "script": "seal",
+  "character": "率",
+  "reading": "lǜ；shuài",
+  "description": "shuài：(1)带领～领。统～。～队。～先（带头）。～兽食人（喻暴君残害人民）。\n(2)轻易地，不细想，不慎重轻～。草～。～尔。～尔操觚（觚”，供写书用的木简；意思是轻易地下笔作文）。\n(3)爽直坦白直～。坦～。\n(4)大概，大略～常。大～。\n(5)遵循～教。～礼。\n(6)模范，楷模表～。\n(7)漂亮，俏皮（亦作帅”）这字写得～。\n(8)姓。\nlǜ：比值，两数之比效～。税～。概～。圆周～。出勤～。增长～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-率"
+}

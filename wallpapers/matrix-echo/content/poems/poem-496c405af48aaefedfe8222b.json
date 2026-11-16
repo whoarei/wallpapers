@@ -1,0 +1,15 @@
+{
+  "id": "poem-496c405af48aaefedfe8222b",
+  "title": "南中客舍对雨送故人归北",
+  "author": "长孙佐辅",
+  "dynasty": "唐",
+  "verses": [
+    "猨声啾啾雁声苦，卷帘相对愁不语。",
+    "几年客吴君在楚，况送君归我犹阻。",
+    "家书作得不忍封，北风吹断堦前雨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-fc27b340-1e98-48f2-b3f6-2a8e67608bc0"
+}

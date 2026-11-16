@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7c4d",
+  "script": "seal",
+  "character": "籍",
+  "reading": "jí",
+  "description": "jí：(1)书，书册古～。书～。经～。典～。\n(2)登记隶属关系的簿册；隶属关系～贯。户～。国～。学～。\n(3)登记～没（mò）。～吏民。\n(4)征收～田。\n(5)古代各种捐税的统称。\n〔～～〕ａ．形容纷扰很大；ｂ．形容名声很大；ｃ．形容纵横交错的样子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-籍"
+}

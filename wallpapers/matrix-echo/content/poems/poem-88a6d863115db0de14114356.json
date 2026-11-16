@@ -1,0 +1,16 @@
+{
+  "id": "poem-88a6d863115db0de14114356",
+  "title": "杂诗四首  其一",
+  "author": "李涛",
+  "dynasty": "宋",
+  "verses": [
+    "滔滔东流水，赴海无归期。",
+    "亭亭右转日，今兹复来兹。",
+    "人生寄天地，百年七十稀。",
+    "思虑复营营，恐为达此嗤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-7b4d7315-69ed-4d68-8876-37bcba9fed9f"
+}

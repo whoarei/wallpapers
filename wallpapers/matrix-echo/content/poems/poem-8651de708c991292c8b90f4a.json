@@ -1,0 +1,17 @@
+{
+  "id": "poem-8651de708c991292c8b90f4a",
+  "title": "苦篁调啸引",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "请说轩辕在时事，伶伦采竹二十四。",
+    "伶伦采之自昆丘，轩辕诏遣中分作十二。",
+    "伶伦以之正音律，轩辕以之调元气。",
+    "当时黄帝上天时，二十三管咸相随。",
+    "唯留一管人间吹，无德不能得此管，此管沈埋虞舜祠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-8f6bd03f-8b60-487c-8448-570a10a581a5"
+}

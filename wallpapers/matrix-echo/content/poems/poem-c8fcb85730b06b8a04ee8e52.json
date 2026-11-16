@@ -1,0 +1,16 @@
+{
+  "id": "poem-c8fcb85730b06b8a04ee8e52",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)自从爹爹死了，止有嫡亲兄嫂。",
+    "他缘何反面生嗔？拆散大妻两口。",
+    "望叔叔做主，望叔叔做主。",
+    "想是姻缘不到，怎得大妻谐老？自今朝，拜别分离去，交奴苦怎熬？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8879",
+  "tags": []
+}

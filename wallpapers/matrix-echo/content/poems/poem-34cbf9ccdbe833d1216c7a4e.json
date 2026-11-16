@@ -1,0 +1,16 @@
+{
+  "id": "poem-34cbf9ccdbe833d1216c7a4e",
+  "title": "偈颂（幷序○序为南岳齐己撰） 十八",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "了得心源处处安，何须终日对林峦。",
+    "玉向火中烧转润，莲华在水叶长干。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-d69e9b23-4f01-441b-a45a-0d43e41ef7eb"
+}

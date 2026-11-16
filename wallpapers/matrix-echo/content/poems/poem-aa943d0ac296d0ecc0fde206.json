@@ -1,0 +1,22 @@
+{
+  "id": "poem-aa943d0ac296d0ecc0fde206",
+  "title": "旅夜书怀",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "细草微风岸，危樯独夜舟。",
+    "星垂平野阔，月涌大江流。",
+    "名岂文章著，官因老病休。",
+    "飘飘何所似，天地一沙鸥。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写景",
+    "孤独",
+    "抒怀",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-f96506ea-e8ac-47e0-a0a6-ccd306e56645"
+}

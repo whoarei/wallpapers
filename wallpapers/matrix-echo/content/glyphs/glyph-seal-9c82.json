@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9c82",
+  "script": "seal",
+  "character": "鲂",
+  "reading": "fáng",
+  "description": "魚名。鳊鱼的古称\n鱼名,似鳊鱼,银灰色,腹部隆起\n比喻人的劳苦\n鲂 fáng鲂鱼，与鳊鱼相似。体扁侧，银白色。头小而尖。腹部隆起。武昌鱼就是鲂鱼的一种。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲂"
+}

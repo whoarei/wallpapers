@@ -1,0 +1,20 @@
+{
+  "id": "poem-50e684dba26e3dc65c143095",
+  "title": "从元太守夏䜩西楼",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "六月晨亦热，卑居多烦昏。",
+    "五马游西城，几杖随朱轮。",
+    "西楼临方塘，嘉木当华轩。",
+    "凫鹥满中流，有酒复盈尊。",
+    "山东地无山，平视大海垠。",
+    "高风凉气来，灏景沈清源。",
+    "青衿俨坐傍，礼容益敦敦。",
+    "愿为颜氏徒，歌咏夫子门。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-44108987-73c2-4661-a258-cab7d617838b"
+}

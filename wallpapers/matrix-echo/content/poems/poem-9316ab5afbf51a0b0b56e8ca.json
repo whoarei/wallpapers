@@ -1,0 +1,16 @@
+{
+  "id": "poem-9316ab5afbf51a0b0b56e8ca",
+  "title": "郊庙歌辞 祭[太]社乐章 雍和",
+  "author": "褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "美报崇本，严恭展事。",
+    "受露疎坛，承风启地。",
+    "絜粢登俎，醇牺入馈。",
+    "介福远流，群生毕遂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-4e16514b-49db-4319-a118-d8a6e866e300"
+}

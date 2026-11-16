@@ -1,0 +1,19 @@
+{
+  "id": "poem-8f818994770a72d5380818c4",
+  "title": "玉台体十二首 十一",
+  "author": "权德舆",
+  "dynasty": "唐",
+  "verses": [
+    "昨夜裙带解，今朝蟢子飞。",
+    "铅华不可弃，莫是藁砧归。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "五言绝句",
+    "女子"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-9a5070c8-8b6a-46d3-a976-ce942baf42e7"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c6b",
+  "script": "seal",
+  "character": "豫",
+  "reading": "yù",
+  "description": "yù：(1)欢喜，快乐～附。～游（逸乐嬉游）。不～之色。\n(2)同预”。\n(3)安闲，舒适逸～。\n(4)古同与”，参与。\n(5)中国河南省的别称～剧（亦称河南梆子”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-豫"
+}

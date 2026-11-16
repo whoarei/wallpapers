@@ -1,0 +1,16 @@
+{
+  "id": "poem-c7a2b0538d94b477ef41bba8",
+  "title": "从驾温泉宫",
+  "author": "徐安贞",
+  "dynasty": "唐",
+  "verses": [
+    "神女调温液，年年待圣人。",
+    "试开临水殿，来洗属车尘。",
+    "暖气随明主，恩波浃近臣。",
+    "灵威自无极，从此献千春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-f3b708f8-cfaa-4fad-81bd-7219ca1f10ec"
+}

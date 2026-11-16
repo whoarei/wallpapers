@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-539a",
+  "script": "seal",
+  "character": "厚",
+  "reading": "hòu",
+  "description": "hòu：(1)扁平物体上下两个面的距离～度。～薄（厚度）。\n(2)扁平物体上下两个面距离较大的，与薄”相对～纸。～重（zhòng）（ａ．又厚又重；ｂ．丰厚；ｃ．厚道而庄重）。\n(3)深，重（zhòng），浓，多～望。\n(4)不刻薄，待人好～道（诚恳，宽容，道”读轻声）。宽～。\n(5)重视，推崇～此薄彼。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-厚"
+}

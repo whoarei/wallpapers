@@ -1,0 +1,17 @@
+{
+  "id": "poem-9ec874e8e692c4200dcb55bf",
+  "title": "浣溪沙·水北烟寒雪似梅",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "水北烟寒雪似梅。",
+    "水南梅闹雪千堆。",
+    "月明南北两瑶台。",
+    "云近恰如天上坐，魂清疑向斗边来。",
+    "梅花多处载春回。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-731",
+  "tags": []
+}

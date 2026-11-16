@@ -1,0 +1,14 @@
+{
+  "id": "poem-15f09f28907a2bf17c442966",
+  "title": "八拍蛮·云锁嫩黄烟柳细",
+  "author": "阎选",
+  "dynasty": "五代",
+  "verses": [
+    "云锁嫩黄烟柳细，风吹红蒂雪梅残。",
+    "光景不胜闺阁恨，行行坐坐黛眉攒。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-24"
+}

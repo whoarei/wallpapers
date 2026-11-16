@@ -1,0 +1,17 @@
+{
+  "id": "poem-3a30c2d24b23b146064f2369",
+  "title": "南曲风人松",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "我一心指望你攻书。",
+    "要改换门闾。",
+    "如今把奴成抛弃，朝朝望朝朝不至。",
+    "好教人鸳衾坦冷落，须闲了我一个枕头儿。",
+    "(又唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8616",
+  "tags": []
+}

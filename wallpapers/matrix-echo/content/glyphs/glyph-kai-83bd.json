@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-83bd",
+  "script": "kai",
+  "character": "莽",
+  "reading": "mǎng",
+  "description": "mǎng：(1)草，密生的草～原。草～。\n(2)广大，辽阔～苍。～～（ａ．形容原野辽阔，无边无际；ｂ．形容草木茂盛）。\n(3)古书上指一种短节竹。\n(4)粗鲁，冒失～汉。～撞。鲁～。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-莽"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd759350d4ce6dcf69ed7dc1",
+  "title": "斗黑麻",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "奴深谢公公，便辱许诺。",
+    "从来的深恩，怎敢忘却！只怕途路远，体怯弱；病染孤身，力衰倦脚。",
+    "(合)孤坟寂寞，路途滋味恶。",
+    "两处堪悲，万愁怎摸？(末唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5165",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9985",
+  "script": "kai",
+  "character": "馅",
+  "reading": "xiàn",
+  "description": "面食、糕点里包的豆沙、糖、果仁、果肉或切碎的肉、菜等填料\n被包裹的人或物\n比喻事情的底细,隐密\n馅xiàn包在米粉、面食等内部的甜或咸心子芝麻～。豆沙～。三鲜～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-馅"
+}

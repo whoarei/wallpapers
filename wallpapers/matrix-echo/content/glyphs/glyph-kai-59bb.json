@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-59bb",
+  "script": "kai",
+  "character": "妻",
+  "reading": "qī；qì",
+  "description": "qī：男子的配偶～子。～室（指妻子）。～小（妻子和儿女）。～离子散。\n夫；\nqì：以女嫁人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-妻"
+}

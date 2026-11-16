@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f0c",
+  "script": "seal",
+  "character": "缌",
+  "reading": "sī",
+  "description": "制作丧服的细麻布\n古代丧服名。五种丧服之最轻者,以细麻布为孝服,服丧三个月\n较为疏远的亲属关系\n缌sī细的麻布。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缌"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7434",
+  "script": "seal",
+  "character": "琴",
+  "reading": "qín",
+  "description": "qín：(1)古代弦乐器，最初是五根弦，后加至七根弦（亦称七弦琴”；通称古琴”）～瑟。～曲。～师。～意。抚～。～棋书画。\n(2)某些乐器的统称钢～。月～→～。口～。竖～。小提～。～书（曲艺的一种）。弹（tán）～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-琴"
+}

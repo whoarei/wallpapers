@@ -1,0 +1,20 @@
+{
+  "id": "poem-1af19089da0555eeebcc5689",
+  "title": "一丛花·东君密意在花心",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "东君密意在花心。",
+    "飞雪戏妆林。",
+    "多情定怪春来晚，故穿花、千点深深。",
+    "烟柳上轻，风丝漫袅，楼阁晚还阴。",
+    "雕梁双燕悄来音。",
+    "帘幕镇沈沈。",
+    "西城未有花堪采，醉狂兴、冷落难禁。",
+    "应约万红，商量细细，留向未开寻。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-236",
+  "tags": []
+}

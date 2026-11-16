@@ -1,0 +1,16 @@
+{
+  "id": "poem-fcb4c23c13555df78e7ec3b7",
+  "title": "雨",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "引电随龙密又轻，酒桮闲噀得嘉名。",
+    "千山草木如云暗，陆地波澜接海平。",
+    "洒竹几添春睡重，滴簷偏遣夜愁生。",
+    "阴妖冷孽成何怪，敢蔽高天日月明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-a638f6e8-ba9f-48fa-ba33-e23c8e4d71b2"
+}

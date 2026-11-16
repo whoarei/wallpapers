@@ -1,0 +1,18 @@
+{
+  "id": "poem-72c97ed45e90682a70315261",
+  "title": "浪淘沙令·帘外雨潺潺",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "帘外雨潺潺，春意阑珊。",
+    "罗衾不耐五更寒。",
+    "梦里不知身是客，一晌贪欢。",
+    "独自莫凭栏，无限江山。",
+    "别时容易见时难。",
+    "流水落花春去也，天上人间。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-36"
+}

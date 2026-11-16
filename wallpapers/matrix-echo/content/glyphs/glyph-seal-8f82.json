@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f82",
+  "script": "seal",
+  "character": "辂",
+  "reading": "lù",
+  "description": "引申为古代的大车,多指帝王用的\n拉车\n⒈〈古〉车前用来牵引车子的横木。\n⒉〈古〉一种大车玉～。\n辂yà 1.迎上前去。\n辂hé 1.车辕上用来挽车的横木。 2.驾。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辂"
+}

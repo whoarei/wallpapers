@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-86af",
+  "script": "kai",
+  "character": "蚯",
+  "reading": "qiū",
+  "description": "qiū：〔～蚓〕环节动物，身体细长柔软，生活于土中，以带有机物的土壤为食，使土壤疏松，对农作物有益。可作鱼和家禽的食饵，可入药。亦称曲蟮”、地龙”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蚯"
+}

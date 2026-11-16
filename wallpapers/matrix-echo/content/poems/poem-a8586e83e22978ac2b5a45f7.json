@@ -1,0 +1,22 @@
+{
+  "id": "poem-a8586e83e22978ac2b5a45f7",
+  "title": "还乡偶书  其二",
+  "author": "黄拱",
+  "dynasty": "唐",
+  "verses": [
+    "少小离家老大回，乡音难改鬓毛衰。",
+    "儿童相见不相识，借问客从何处来。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "二年级上册",
+    "唐诗三百首",
+    "伤老",
+    "七言绝句",
+    "思乡",
+    "感慨",
+    "小学古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-569ef0e1-887d-4d98-b869-9634f099c8e9"
+}

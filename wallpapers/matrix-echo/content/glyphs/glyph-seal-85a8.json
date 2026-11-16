@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-85a8",
+  "script": "seal",
+  "character": "薨",
+  "reading": "hōng",
+  "description": "hōng：古代称诸侯或有爵位的大官死去。\n〔～～〕成群的昆虫一起飞的声音，如虫飞～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-薨"
+}

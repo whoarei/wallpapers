@@ -1,0 +1,14 @@
+{
+  "id": "poem-de1548a48a7d5015f3b856b7",
+  "title": "偈颂七十一首  其二二",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "起寨重招五百兵，等闲恢复百余城。",
+    "凌烟阁上清风起，留得将军万世名。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-e3f165cf-08cf-4738-b907-6379e69b85c2"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-052bb8da39ff47bf18ef5ee8",
+  "title": "送李潜归绵州觐省",
+  "author": "姚鹄",
+  "dynasty": "唐",
+  "verses": [
+    "朱楼对翠微，红斾出重扉。",
+    "此地千人望，寥天一鹤归。",
+    "雪封山崦白，鸟拂栈梁飞。",
+    "谁比趋庭恋，骊珠耀彩衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-0b3df43d-b443-466e-8850-b800c99ec211"
+}

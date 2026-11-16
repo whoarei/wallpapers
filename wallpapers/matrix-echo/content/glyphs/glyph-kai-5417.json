@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5417",
+  "script": "kai",
+  "character": "吗",
+  "reading": "ma",
+  "description": "译音字\n嗎、么、麽吗\n用在句末,表示疑问或反诘的语气\n吗má〈方〉什么干～？他笑～？\n儿等禁用。吗啡及其毒品，严禁私造、贩卖、私购、使用等，违法者严惩。\n吗、么ma\n⒈助词。〈表〉疑问，用于句末你看过了～？你懂了～？\n⒉助词。〈表〉带有含蓄的语气，用在句中停顿处你说的道理～，其实他都懂。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吗"
+}

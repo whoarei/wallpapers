@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-523b",
+  "script": "seal",
+  "character": "刻",
+  "reading": "kè",
+  "description": "kè：(1)雕，用刀子挖～本（雕版印成的书本）。～石。～字。～板。～舟求剑。\n(2)古代用漏壶记时，一昼夜共一百刻。今用钟表计时，一刻等于十五分钟五点一～。\n(3)时间此～。即～。顷～（极短时间）。时～。～不容缓。\n(4)形容程度极深深～。～意。～骨（感受深切入骨）。～苦。\n(5)不厚道～毒。～薄。尖～。苛～。\n(6)同克”④。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-刻"
+}

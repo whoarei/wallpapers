@@ -1,0 +1,16 @@
+{
+  "id": "poem-17ac7bf32edfee4706973296",
+  "title": "同邢判官寻龙湍观归湖中",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "星使下仙京，云湖喜昼晴。",
+    "更从探穴处，还作櫂歌行。",
+    "丝管荷风入，帘帷竹气清。",
+    "莫愁归路远，水月夜虚明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-05b87ce2-d432-48d8-ae41-e3328cb6008a"
+}

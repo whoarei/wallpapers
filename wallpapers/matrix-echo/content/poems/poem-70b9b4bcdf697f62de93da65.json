@@ -1,0 +1,15 @@
+{
+  "id": "poem-70b9b4bcdf697f62de93da65",
+  "title": "前腔",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(贴)劝君不听，切莫再三言。",
+    "又恐官人生别见，反将恩爱变成冤。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1706",
+  "tags": []
+}

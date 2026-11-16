@@ -1,0 +1,16 @@
+{
+  "id": "poem-d7685a22fd860ca81d231b7e",
+  "title": "谒金门·空相忆",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "空相忆，无计得传消息。",
+    "天上嫦娥人不识，寄书何处觅。",
+    "新睡觉来无力，不忍把伊书迹。",
+    "满院落花春寂寂，断肠芳草碧。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-1"
+}

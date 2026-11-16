@@ -1,0 +1,16 @@
+{
+  "id": "poem-7107a58c10879116ff89d818",
+  "title": "杂诗三首 一",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "落叶惊秋妇，高砧促暝机。",
+    "蜘蛛寻月度，萤火傍人飞。",
+    "清镜红埃入，孤灯绿焰微。",
+    "怨啼能至晓，独自懒缝衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-0e568765-f484-4616-9ca7-676b6831dc32"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-660a",
+  "script": "seal",
+  "character": "昊",
+  "reading": "hào",
+  "description": "hào：(1)大（指天）～天（ａ．广大的天；ｂ．喻父母的恩情深重）。～穹。～苍。\n(2)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昊"
+}

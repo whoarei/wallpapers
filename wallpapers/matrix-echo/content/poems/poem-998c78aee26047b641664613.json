@@ -1,0 +1,14 @@
+{
+  "id": "poem-998c78aee26047b641664613",
+  "title": "题北村六首  其四",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "风泉盈耳鬓斑斑，林下幽窗对万山。",
+    "妇子职修簟食足，病身何幸亦安闲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-99ab87d2-4d4e-4505-8847-e6f1227fa997"
+}

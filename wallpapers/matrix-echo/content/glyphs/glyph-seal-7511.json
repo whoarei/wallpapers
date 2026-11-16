@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7511",
+  "script": "seal",
+  "character": "甑",
+  "reading": "zèng",
+  "description": "zèng：(1)古代蒸饭的一种瓦器。底部有许多透蒸气的孔格，置于鬲上蒸煮，如同现代的蒸锅～尘釜鱼。\n(2)蒸馏或使物体分解用的器皿曲颈～。\n〔～子〕现在蒸饭用的木制桶状物，有屉而无底。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-甑"
+}

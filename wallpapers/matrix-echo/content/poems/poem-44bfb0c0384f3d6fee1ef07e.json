@@ -1,0 +1,18 @@
+{
+  "id": "poem-44bfb0c0384f3d6fee1ef07e",
+  "title": "荅太原从军杨员外送别",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "君将海月珮，赠之光我行。",
+    "见知言不浅，怀报意非轻。",
+    "反照临歧思，中年未达情。",
+    "河梁人送别，秋汉鴈相鸣。",
+    "衰柳摇边吹，寒云冒古城。",
+    "西游还献赋，应许托平生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-79b4e2e7-8425-45ce-9f77-0e9673355628"
+}

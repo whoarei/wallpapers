@@ -1,0 +1,16 @@
+{
+  "id": "poem-ffc8904d4787103c85d2bcf1",
+  "title": "陇上独望",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "斜日挂边树，萧萧独望间。",
+    "阴云藏汉垒，飞火照胡山。",
+    "陇首行人绝，河源夕鸟还。",
+    "谁为立勋者，可惜宝刀闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-0a2486ef-b0b1-4503-a349-f24baf1f4504"
+}

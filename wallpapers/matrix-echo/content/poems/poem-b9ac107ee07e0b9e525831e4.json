@@ -1,0 +1,18 @@
+{
+  "id": "poem-b9ac107ee07e0b9e525831e4",
+  "title": "拟古·予生未三十",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "予生未三十，忧愁居其半。",
+    "心事如落花，春风吹已断。",
+    "行当适远道，作记殊汗漫。",
+    "寒食青草多，薄暮烟冥冥。",
+    "山桃一夜红，茵箔随飘零。",
+    "愿餐玉红草，一醉不复醒。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-250"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-9b30c7faf1ea58c99cc1695a",
+  "title": "鸡黍",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "鸡黍招要意已真，后堂许到转相亲。",
+    "巧裁花竹岂多地，浄扫轩窗无一尘。",
+    "倾倒不知情话密，衰𬯎深畏酒行频。",
+    "落花一夜成疏迹，风雨还增客恨新。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-e63b96e8-0dda-4106-9543-f10e7871ca9b"
+}

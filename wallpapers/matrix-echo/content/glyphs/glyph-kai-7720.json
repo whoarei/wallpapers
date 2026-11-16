@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7720",
+  "script": "kai",
+  "character": "眠",
+  "reading": "mián",
+  "description": "mián：(1)睡觉安～。长～。失～。\n(2)某些动物一定时期内像睡眠那样不食不动初～。冬～。\n(3)倒卧一日三～三起。\n(4)横放～琴绿阴”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-眠"
+}

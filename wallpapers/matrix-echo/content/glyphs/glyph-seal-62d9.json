@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62d9",
+  "script": "seal",
+  "character": "拙",
+  "reading": "zhuō",
+  "description": "zhuō：(1)笨，不灵巧笨～。弄巧成～。～劣。\n(2)谦辞，称自己的～作。～见。～笔。～著。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拙"
+}

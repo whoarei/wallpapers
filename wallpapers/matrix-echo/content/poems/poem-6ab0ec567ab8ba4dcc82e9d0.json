@@ -1,0 +1,16 @@
+{
+  "id": "poem-6ab0ec567ab8ba4dcc82e9d0",
+  "title": "上之回",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "制书下关右，天子问回中。",
+    "坛𫮃经过远，威仪侍从雄。",
+    "黄麾摇昼日，青幰曳松风。",
+    "回望甘泉道，龙山隐汉宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-1f8bdfa2-20aa-45a4-a460-77df1ebab288"
+}

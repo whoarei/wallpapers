@@ -1,0 +1,20 @@
+{
+  "id": "poem-c648465356e08f770663d046",
+  "title": "蝶恋花·满到十分人望尽",
+  "author": "黄裳",
+  "dynasty": "宋",
+  "verses": [
+    "满到十分人望尽。",
+    "仙桂无根，到处留光景。",
+    "听我尊前欢未竟。",
+    "金卮已弄寒蟾影。",
+    "银色界中风色定。",
+    "散了浮云，宝匣初开镜。",
+    "归去不须红烛影。",
+    "天边自与人相趁。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-631",
+  "tags": []
+}

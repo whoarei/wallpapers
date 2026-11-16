@@ -1,0 +1,16 @@
+{
+  "id": "poem-ef2ea0f1058cba887b0f3f4b",
+  "title": "胡笳十八拍 第十四拍",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "大麦干枯小麦黄，问谁腰镰胡与羌。",
+    "汉家战士三十万，此岂有意仍腾骧。",
+    "安得突骑只五千，长驱东胡胡走藏。",
+    "近静潼关扫蝼蚁，为留猛士守未央。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-a8db8276-860d-4ecb-9f8a-0b37e3116c54"
+}

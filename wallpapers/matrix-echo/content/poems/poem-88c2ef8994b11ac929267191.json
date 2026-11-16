@@ -1,0 +1,14 @@
+{
+  "id": "poem-88c2ef8994b11ac929267191",
+  "title": "书灵筵手巾",
+  "author": "后主煜",
+  "dynasty": "唐",
+  "verses": [
+    "浮生共顦顇，壮岁失婵娟。",
+    "汗手遗香渍，痕眉染黛烟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-a1bfef77-89cd-4e38-90b7-bc41784d58de"
+}

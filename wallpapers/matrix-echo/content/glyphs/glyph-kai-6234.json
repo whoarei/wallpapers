@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6234",
+  "script": "kai",
+  "character": "戴",
+  "reading": "dài",
+  "description": "dài：(1)加在头、面、颈、手等处～帽子。披星～月。～圆履方。不共～天。\n(2)尊奉，推崇，拥护～仰。爱～。拥～。感恩～德。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-戴"
+}

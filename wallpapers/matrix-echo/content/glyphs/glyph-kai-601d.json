@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-601d",
+  "script": "kai",
+  "character": "思",
+  "reading": "sī；sāi",
+  "description": "sī：(1)想，考虑，动脑筋～想（ａ．客观存在反映在人的意识中经过思维活动而产生的结果；ｂ．想法，念头；ｃ．思量）。～忖。～索。～维。沉～。寻～。见异～迁。\n(2)想念，挂念～念。～恋。相～。\n(3)想法～绪。～致（新颖独到的构思、意趣）。构～。\n(4)姓。\n念；想；\nsāi：〔于～〕多胡须的样子，如自捋颔下，则～～者如故矣”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-思"
+}

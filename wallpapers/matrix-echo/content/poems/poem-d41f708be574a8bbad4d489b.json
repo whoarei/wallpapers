@@ -1,0 +1,21 @@
+{
+  "id": "poem-d41f708be574a8bbad4d489b",
+  "title": "题大庾岭北驿",
+  "author": "宋之问",
+  "dynasty": "唐",
+  "verses": [
+    "阳月南飞雁，传闻至此回。",
+    "我行殊未已，何日复归来？江静潮初落，林昏瘴不开。",
+    "明朝望乡处，应见陇头梅。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言律诗",
+    "思乡",
+    "带有地名",
+    "地名"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-058db0d1-0656-4e8f-ac49-87622e16b19b"
+}

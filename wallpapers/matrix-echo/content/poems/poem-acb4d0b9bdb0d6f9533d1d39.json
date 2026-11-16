@@ -1,0 +1,16 @@
+{
+  "id": "poem-acb4d0b9bdb0d6f9533d1d39",
+  "title": "更漏子·今夜期",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "今夜期，来日别，相对只堪愁绝。",
+    "偎粉面，捻瑶簪，无言泪满襟。",
+    "银箭落，霜华薄，墙外晓鸡咿喔。",
+    "听咐嘱，恶情悰，断肠西复东。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-22"
+}

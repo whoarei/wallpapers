@@ -1,0 +1,16 @@
+{
+  "id": "poem-8e508788cd0331f6f1af489c",
+  "title": "寄岐山林逢吉明府",
+  "author": "谭用之",
+  "dynasty": "宋",
+  "verses": [
+    "岐山高与陇山连，制锦无私服晏眠。",
+    "鹦鹉语中分百里，凤凰声里过三年。",
+    "秦无旧俗云烟媚，周有遗风父老贤。",
+    "莫役生灵种杨柳，一枝枝折灞桥边。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-59acb909-bc51-4b86-9207-8c728e494d59"
+}

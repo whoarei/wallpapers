@@ -1,0 +1,16 @@
+{
+  "id": "poem-4b1d2ab3d01db64d20e751e2",
+  "title": "寓居临平山下三首 其三",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "散髪垂肩久不簪，竹床推椀就藤阴。",
+    "涧傍春渡水流急，山半夜归云色深。",
+    "拂槛数竿为去处，随波一叶是浮沉。",
+    "世间年少正行乐，应笑老人无事心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-afdf02f9-0d3e-4bd2-8eb1-9c2cb8694c10"
+}

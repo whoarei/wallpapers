@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-54d5",
+  "script": "seal",
+  "character": "哕",
+  "reading": "yue；hui",
+  "description": "打呃\n引申为欲言又止的样子\n呕吐。亦指呕吐物\n唾骂;唾弃\n唾,用力\n⒈呕吐～出来了。\n哕huì 1.鸟鸣。 2.象声词。参见\"哕哕\"。 3.见\"哕哕\"。 4.见\"哕息\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哕"
+}

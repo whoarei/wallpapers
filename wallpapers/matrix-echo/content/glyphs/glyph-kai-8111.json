@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8111",
+  "script": "kai",
+  "character": "脑",
+  "reading": "nǎo",
+  "description": "形状或颜色像脑髓的东西\n头部\n官开动～筋。用～子，好好想想。\n⒉形状或颜色像脑的豆腐～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-脑"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-6c0f70c109575e5d046d1704",
+  "title": "风入松",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "原来他也只是无奈，恁地好似鬼使神差。",
+    "便是他当原在家辞赴选，他父母也不从他，这是三不从把他厮禁害。",
+    "恁的呵，三不孝亦非其罪。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5243",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-af77ac7602aab7a03f9c0170",
+  "title": "小游仙诗九十八首 六十一",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "绛节笙歌绕殿飞，紫皇欲到五云归。",
+    "细腰侍女瑶花外，争向红房报玉妃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-e4178a61-f447-43b9-8eb7-3d047c211a9d"
+}

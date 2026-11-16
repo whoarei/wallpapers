@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ead",
+  "script": "seal",
+  "character": "亭",
+  "reading": "tíng",
+  "description": "tíng：(1)有顶无墙，供休息用的建筑物，多建筑在路旁或花园里；凉～。牡丹～。\n(2)建筑得比较简单的小房子书～。邮～。岗～。\n(3)适中，均匀～匀。\n(4)正，当～午（正午，中午）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-亭"
+}

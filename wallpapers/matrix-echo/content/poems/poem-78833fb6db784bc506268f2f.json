@@ -1,0 +1,21 @@
+{
+  "id": "poem-78833fb6db784bc506268f2f",
+  "title": "绿水词",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "今宵好风月，阿侯在何处。",
+    "为有倾人色，翻成足愁苦。",
+    "东湖采莲叶，南湖拔蒲根。",
+    "未持寄小姑，且持感愁魂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "爱情",
+    "回忆",
+    "女子",
+    "相思"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-54fb0ffc-a287-41a6-b415-ebf47436548a"
+}

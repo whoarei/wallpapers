@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5fdd",
+  "script": "seal",
+  "character": "忝",
+  "reading": "tiǎn",
+  "description": "tiǎn：辱，有愧于，常用作谦辞～在知交。～属知己。～列门墙（愧在师门）。～为人师。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-忝"
+}

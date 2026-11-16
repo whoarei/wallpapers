@@ -1,0 +1,14 @@
+{
+  "id": "poem-02467c7057fbf31c42f5c1f3",
+  "title": "别山居",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "万壑千岩景象开，登临未足又须回。",
+    "凭师莫断松间路，秋月圆时弟子来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3c776f78-a13c-49a8-bba2-68cbb50a7a83"
+}

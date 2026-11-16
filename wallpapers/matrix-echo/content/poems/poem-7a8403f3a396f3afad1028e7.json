@@ -1,0 +1,16 @@
+{
+  "id": "poem-7a8403f3a396f3afad1028e7",
+  "title": "咏小瀑布",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "瀑布小更奇，潺湲二三尺。",
+    "细脉穿乱沙，丛声咽危石。",
+    "初因智者赏，果会幽人迹。",
+    "不向定中闻，那知我心寂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c0e7fc56-c2c2-4369-9056-a8a2c2eb5b59"
+}

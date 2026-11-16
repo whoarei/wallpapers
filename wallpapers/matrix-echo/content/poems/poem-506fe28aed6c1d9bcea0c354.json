@@ -1,0 +1,16 @@
+{
+  "id": "poem-506fe28aed6c1d9bcea0c354",
+  "title": "菩萨蛮·青岩碧洞经朝雨",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "青岩碧洞经朝雨，隔花相唤南溪去。",
+    "一只木兰船，波平远浸天。",
+    "扣舷惊翡翠，嫩玉抬香臂。",
+    "红日欲沉西，烟中遥解觽。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-3"
+}

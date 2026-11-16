@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5175",
+  "script": "seal",
+  "character": "兵",
+  "reading": "bīng",
+  "description": "bīng：(1)武器～器。～刃。～不血刃（兵器上面没有沾血，指不经过战斗而取得胜利）。\n(2)战士，军队～士。～卒。～丁。～戎相见（指武装冲突）。\n(3)与军事或战争有关事物的统称～法。～家。～机。～衅（战争的争端）。～书。～谏（进谏时以武力要挟，迫使必从）。～荒马乱。～贵神速。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-兵"
+}

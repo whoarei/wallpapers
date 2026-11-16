@@ -1,0 +1,16 @@
+{
+  "id": "poem-3ae6cc999851111b5c0580f0",
+  "title": "好事近·落日水熔金",
+  "author": "廖世美",
+  "dynasty": "宋",
+  "verses": [
+    "落日水熔金，天淡暮烟凝碧。",
+    "楼上谁家红袖，靠阑干无力。",
+    "鸳鸯相对浴红衣，短棹弄长笛。",
+    "惊起一双飞去，听波声拍拍。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-625",
+  "tags": []
+}

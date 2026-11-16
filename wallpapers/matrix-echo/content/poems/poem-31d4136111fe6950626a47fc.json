@@ -1,0 +1,16 @@
+{
+  "id": "poem-31d4136111fe6950626a47fc",
+  "title": "次韵程公辟暮春",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "日日寻春春欲还，园林游兴未应阑。",
+    "间关鶑啭冲牙韵，烂漫花开历绿团。",
+    "须信马蹄随处健，肯教金盏暂时干。",
+    "休惊节物频更换，适意欢娱定一般。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-a0012adf-f67e-4ddd-815c-1631e98dc36f"
+}

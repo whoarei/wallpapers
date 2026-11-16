@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-78b1",
+  "script": "kai",
+  "character": "碱",
+  "reading": "jiǎn",
+  "description": "jiǎn：(1)含在土里的一种物质，化学成分是碳酸钠，用做洗涤剂，亦用来中和发面中的酸味～土。～化。～荒。\n(2)化学上称能在水溶液中电离而生成氢氧离子（ＯＨ－）的化合物，如氢氧化钠等。溶液具有涩味，能使石蕊试纸变蓝，能跟酸中和而生成盐～金属。～式盐。～性岩。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-碱"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-bb40128049b641ad3b14fcb0",
+  "title": "寄曹松",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "莫怪苦吟迟，诗成鬓亦丝。",
+    "鬓丝犹可染，诗病却难医。",
+    "山暝云横处，星沈月侧时。",
+    "冥搜不可得，一句至公知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-5779950b-aa62-4bcb-a185-429204d80b7c"
+}

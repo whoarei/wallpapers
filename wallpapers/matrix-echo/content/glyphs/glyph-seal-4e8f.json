@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e8f",
+  "script": "seal",
+  "character": "亏",
+  "reading": "kuī",
+  "description": "损耗,损害\n⒈欠缺，短少～斤少两。自感理～。月满则～。功～一篑。\n⒊亏负，对不起不做～心事。他不会～人。\n⒋幸而，多亏幸～。这件事～你帮忙。\n⒌〈表〉讥讽～你干得出来！\n⒍毁坏，损害不～不崩。～败风俗。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-亏"
+}

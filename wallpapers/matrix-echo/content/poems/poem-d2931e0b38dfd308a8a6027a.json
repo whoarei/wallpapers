@@ -1,0 +1,16 @@
+{
+  "id": "poem-d2931e0b38dfd308a8a6027a",
+  "title": "春夜与诸公同宴呈陆郎中",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "南国宴佳宾，交情老倍亲。",
+    "月慙红泪烛，花笑白头人。",
+    "宝瑟絚余怨，琼枝不让春。",
+    "更闻歌子夜，桃李艳妆新。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-35811b12-3828-42e8-8bc1-384b8cdfc57b"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-7060b23bf454ed16f3d9ab2b",
+  "title": "念奴娇·霜威凄紧",
+  "author": "向",
+  "dynasty": "宋",
+  "verses": [
+    "霜威凄紧，政悲风摇落，千山群木。",
+    "十里清香方盛赏，岩桂娇黄姹绿。",
+    "九畹衰丛，东篱落蕊，到此成粗俗。",
+    "孤标高远，淡然还媚幽独。",
+    "憔悴诗老多情，问佳人底事，幽居空谷。",
+    "日暮天寒垂翠袖，愁倚萧萧修竹。",
+    "林下神情，月边风露，不向雕栏曲。",
+    "殷勤惟有，篆烟留得馀馥。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-181",
+  "tags": []
+}

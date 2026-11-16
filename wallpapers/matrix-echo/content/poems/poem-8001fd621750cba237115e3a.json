@@ -1,0 +1,14 @@
+{
+  "id": "poem-8001fd621750cba237115e3a",
+  "title": "赠别司空曙",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "有月曾同赏，无秋不共悲。",
+    "如何与君别，又是菊花时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-dffd705d-29d2-422f-883a-36ae86876fce"
+}

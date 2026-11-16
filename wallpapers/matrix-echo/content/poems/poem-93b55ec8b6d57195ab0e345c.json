@@ -1,0 +1,22 @@
+{
+  "id": "poem-93b55ec8b6d57195ab0e345c",
+  "title": "渔家傲·红粉墙头花几树",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "红粉墙头花几树。",
+    "落花片片和惊絮。",
+    "墙外有楼花有主。",
+    "寻花去。",
+    "隔墙遥见秋千侣。",
+    "绿索红旗双彩柱。",
+    "行人只得偷回顾。",
+    "肠断楼南金锁户。",
+    "天欲暮。",
+    "流莺飞到秋千处。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-650",
+  "tags": []
+}

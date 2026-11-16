@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e50788b3cea2147e7af7ddb",
+  "title": "汉武帝于宫中宴西王母",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "鼇岫云低太一坛，武皇斋洁不胜懽。",
+    "长生碧字期亲署，延寿丹泉许细看。",
+    "劒佩有声宫树静，星河无影禁花寒。",
+    "秋风褭褭月朗朗，玉女清歌一夜阑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-d21e0ad6-2739-41bc-8476-7af65282a844"
+}

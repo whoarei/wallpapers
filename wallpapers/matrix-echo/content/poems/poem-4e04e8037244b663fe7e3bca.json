@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e04e8037244b663fe7e3bca",
+  "title": "用诸公本韵各和一篇共三首  其三",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "继踵螭阶入右垣，曾参何敢望渊骞。",
+    "复门重庆登庸命，枢合仍陪话旧筵。",
+    "贵贱交情都不改，始终风节固难迁。",
+    "公卿平日推高誉，朝论今谁过邓先。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-530c9dc6-aa8a-44d3-938d-c4a0dd7815d5"
+}

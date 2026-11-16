@@ -1,0 +1,14 @@
+{
+  "id": "poem-c464e3fc9edabe43fca6de2e",
+  "title": "杨叛儿",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "哀怨杨叛儿，骀荡郎知否。",
+    "香死博山炉，烟生白门柳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b5ab2b31-9c18-457b-909b-17a6581d1fbd"
+}

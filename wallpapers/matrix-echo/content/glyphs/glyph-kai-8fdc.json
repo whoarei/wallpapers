@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8fdc",
+  "script": "kai",
+  "character": "远",
+  "reading": "yuǎn",
+  "description": "⒈空间或时间的距离长，跟\"近\"相对～方。～古。路～。长～。久～。\n⒉不接近，关系疏～亲。疏～。\n远yuàn 1.离开;避开。 2.不亲近;不接近。 3.违背。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-远"
+}

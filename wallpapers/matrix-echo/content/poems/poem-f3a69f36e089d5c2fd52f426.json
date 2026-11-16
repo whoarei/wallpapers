@@ -1,0 +1,15 @@
+{
+  "id": "poem-f3a69f36e089d5c2fd52f426",
+  "title": "颂古三十一首  其三○",
+  "author": "释玿",
+  "dynasty": "宋",
+  "verses": [
+    "佛手驴脚生缘，生缘驴脚佛手。",
+    "李公醉倒街头，元是张公吃酒。",
+    "黄龙山里老婆禅，恰似河阳新妇丑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-4bd50575-513f-4253-acbf-7c45cab311d6"
+}

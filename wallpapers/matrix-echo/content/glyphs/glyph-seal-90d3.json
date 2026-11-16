@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-90d3",
+  "script": "seal",
+  "character": "郓",
+  "reading": "yùn",
+  "description": "古地名\n春秋鲁有二郓邑一在今山东省沂水县北。公元前616年,季孙行父所筑。鱼莒屡次争夺,称东郓”。一在今山东省郓城县东。公元前588年鲁成公所筑,称西郓”\n郓城",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-郓"
+}

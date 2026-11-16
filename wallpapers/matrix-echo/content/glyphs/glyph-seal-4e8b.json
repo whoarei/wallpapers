@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e8b",
+  "script": "seal",
+  "character": "事",
+  "reading": "shì",
+  "description": "shì：(1)自然界和社会中的现象和活动～情。～件。～业。\n(2)变故～故（出于某种原因而发生的不幸事情，如工作中的死伤等）。～端。\n(3)职业谋～（指找职业）。\n(4)关系和责任你走吧，没你的～了。\n(5)办法光着急也不是～儿，还得另找出路。\n(6)做，治不～生产。无所～事。\n(7)服侍～父母。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-事"
+}

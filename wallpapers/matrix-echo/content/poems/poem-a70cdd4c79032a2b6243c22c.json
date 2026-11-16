@@ -1,0 +1,21 @@
+{
+  "id": "poem-a70cdd4c79032a2b6243c22c",
+  "title": "羽林行",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "长安恶少出名字，楼下劫商楼上醉。",
+    "天明下直明光宫，散入五陵松柏中。",
+    "百回杀人身合死，赦书尚有收城功。",
+    "九衢一日消息定，乡吏籍中重改姓。",
+    "出来依旧属羽林，立在殿前射飞禽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "隋・唐・五代",
+    "写人",
+    "讽刺"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-83ebd852-25b4-44fa-a74e-76aba64b063f"
+}

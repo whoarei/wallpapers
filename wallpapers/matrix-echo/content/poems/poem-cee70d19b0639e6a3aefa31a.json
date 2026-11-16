@@ -1,0 +1,24 @@
+{
+  "id": "poem-cee70d19b0639e6a3aefa31a",
+  "title": "塞下曲四首 一",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "verses": [
+    "蝉鸣空桑林，八月萧关道。",
+    "出塞入塞寒，处处黄芦草。",
+    "从来幽幷客，皆共尘沙老。",
+    "莫学游侠儿，矜夸紫骝好。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写景",
+    "游侠",
+    "乐府",
+    "讽刺",
+    "边塞",
+    "新乐府辞"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-8d58a158-1a9b-4085-8ef7-b7b4e6adb66d"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-13c1ce7b8cdd8ca8aaaf64c0",
+  "title": "十诗谢廖计使  其一",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "二年仕穷山，书外睡作魔。",
+    "吹律黍为茁，頼公有孰何。",
+    "悬知登门初，大宅浮阳和。",
+    "泛爱公自尔，小子何足多。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-0ec0535b-741b-4c52-8dfd-7c922a49d4d4"
+}

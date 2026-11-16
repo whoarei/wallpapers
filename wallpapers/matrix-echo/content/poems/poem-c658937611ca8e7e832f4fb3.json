@@ -1,0 +1,20 @@
+{
+  "id": "poem-c658937611ca8e7e832f4fb3",
+  "title": "采桑子·平生为爱西湖好",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "平生为爱西湖好，来拥朱轮。",
+    "富贵浮云。",
+    "俯仰流年二十春。",
+    "归来恰似辽东鹤，城郭人民。",
+    "触目皆新。",
+    "谁识当年旧主人。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-607",
+  "tags": [
+    "西湖"
+  ]
+}

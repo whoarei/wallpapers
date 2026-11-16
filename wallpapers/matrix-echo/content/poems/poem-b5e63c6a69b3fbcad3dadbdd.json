@@ -1,0 +1,16 @@
+{
+  "id": "poem-b5e63c6a69b3fbcad3dadbdd",
+  "title": "送严维归越州",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "艰难只用武，归向淛河东。",
+    "松雪千山暮，林泉一水通。",
+    "乡心缘绿草，野思看青枫。",
+    "春日偏相忆，裁书寄剡中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-6ddf2b76-d1de-4a26-adaa-48c0cd3203d2"
+}

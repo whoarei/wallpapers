@@ -1,0 +1,14 @@
+{
+  "id": "poem-c7b9a5d30907ea29c78ed5d2",
+  "title": "春日忆家",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "自觉劳乡梦，无人见客心。",
+    "空余庭草色，日日伴愁襟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-098ed74c-c5fa-4944-9078-b76bd958fbba"
+}

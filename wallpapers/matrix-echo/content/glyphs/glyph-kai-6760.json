@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6760",
+  "script": "kai",
+  "character": "杠",
+  "reading": "gàng；gāng",
+  "description": "gàng：(1)一种较粗的棍子～子。～杆。\n(2)在阅读或批改文字中作标记而画的粗直线。\ngāng：(1)旗杆。\n(2)小桥。\n(3)床前横木。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杠"
+}

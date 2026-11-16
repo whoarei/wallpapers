@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7279",
+  "script": "kai",
+  "character": "特",
+  "reading": "tè",
+  "description": "tè：(1)不平常的，超出一般的～殊。～色。～产。～权。～性。～征。～需。～技。～务。～区。～价。～例。～效。\n(2)单，单一～为（wèi）。～设。～地。～惠。～辑。～使。～赦。～约。\n(3)只，但不～如此。相如度秦王～以诈佯为予赵城，实不可得”。\n(4)三岁的兽，一说四岁的兽不狩不猎，胡瞻尔庭有悬～兮！”\n(5)公牛，亦用以借指公马和雄性的牲畜。\n(6)配偶，匹配不因旧姻，求尔新～”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-特"
+}

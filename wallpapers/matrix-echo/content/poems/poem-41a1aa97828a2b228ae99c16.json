@@ -1,0 +1,14 @@
+{
+  "id": "poem-41a1aa97828a2b228ae99c16",
+  "title": "金谷园",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "当年歌舞时，不说草离离。",
+    "今日歌舞尽，满园秋露垂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-507eda7a-f94e-41cc-aefd-e6cbdec7c5a8"
+}

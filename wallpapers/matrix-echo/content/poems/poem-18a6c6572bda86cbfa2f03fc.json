@@ -1,0 +1,18 @@
+{
+  "id": "poem-18a6c6572bda86cbfa2f03fc",
+  "title": "临江仙·闻道洛阳花正好",
+  "author": "王以宁",
+  "dynasty": "宋",
+  "verses": [
+    "闻道洛阳花正好，家家遮户春风。",
+    "道人饮处百壶空。",
+    "年年花下醉，看尽几番红。",
+    "此拐又从何处去，飘蓬一任西东。",
+    "语声虽异笑声同。",
+    "一轮清夜月，何处不相逢。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-73",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-46b1c676755bbe9da8ec6e9f",
+  "title": "渔父词・渔父·花姑溪上鹭鸶滩",
+  "author": "周紫芝",
+  "dynasty": "宋",
+  "verses": [
+    "花姑溪上鹭鸶滩。",
+    "辜负渔竿二十年。",
+    "无可载，不抛官。",
+    "携取全家去不难。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-511",
+  "tags": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-6b79c83d29b629ca63cd9f3c",
+  "title": "马诗二十三首 一",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "龙脊贴连钱，银蹄白踏烟。",
+    "无人织锦韂，谁为铸金鞭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "马",
+    "抒怀",
+    "写马",
+    "怀才不遇"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-3ad494dc-1f51-4918-bb12-f85f371d5cc6"
+}

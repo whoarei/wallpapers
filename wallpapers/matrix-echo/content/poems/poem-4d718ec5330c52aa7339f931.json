@@ -1,0 +1,14 @@
+{
+  "id": "poem-4d718ec5330c52aa7339f931",
+  "title": "北苑侍宴杂咏诗 水",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "碧草垂低岸，东风起细波。",
+    "横汾从游宴，何谢到天河。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-4bb1d2ca-33ea-4745-adce-b0d561b38bb1"
+}

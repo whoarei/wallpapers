@@ -1,0 +1,14 @@
+{
+  "id": "poem-ce5811972eae2cd4d0e56ee9",
+  "title": "颂古三十一首  其五",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "攒花簇锦绝纤尘，一度拈来一度新。",
+    "啼得血流无用处，不如缄口过残春。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-e39f8f2f-2d97-449e-8919-2dbb4fc570e8"
+}

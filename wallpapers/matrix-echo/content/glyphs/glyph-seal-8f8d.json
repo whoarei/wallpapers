@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f8d",
+  "script": "seal",
+  "character": "辍",
+  "reading": "chuò",
+  "description": "放下,舍弃\n撤销;撤除\n取出,拿出\n辍 chuò中止；停止～学、终日不～。\n【辍学】中途停止上学。\n辍chuò停止，废止～学。～止。日夜不～。中途不能～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辍"
+}

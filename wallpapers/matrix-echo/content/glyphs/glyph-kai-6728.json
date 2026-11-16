@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6728",
+  "script": "kai",
+  "character": "木",
+  "reading": "mù",
+  "description": "mù：(1)树类植物的通称树～。乔～。灌～。～石（树木和石头，喻没有知觉和情感的东西）。缘～求鱼。\n(2)木料、木制品～材。～器。～刻。～匠。～已成舟。\n(3)棺材棺～。\n(4)质朴～讷（朴实迟钝）。\n(5)呆笨～鸡。\n(6)感觉不灵敏，失去知觉麻～。\n(7)中国古代乐器八音之一。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-木"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-fcc311fe86f20ef40d3ac7c1",
+  "title": "奉赠苗员外",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "朱户敞高扉，青槐碍落晖。",
+    "八龙承庆重，三虎递朝归。",
+    "坐竹人声绝，横琴鸟语稀。",
+    "花慙潘岳貌，年称老莱衣。",
+    "叶暗新樱熟，丝长粉蝶飞。",
+    "应怜鲁儒贱，空与故山违。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-0229d4a7-2410-41e2-ab77-0022f9a70c38"
+}

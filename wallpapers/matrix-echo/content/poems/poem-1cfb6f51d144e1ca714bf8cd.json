@@ -1,0 +1,16 @@
+{
+  "id": "poem-1cfb6f51d144e1ca714bf8cd",
+  "title": "夏日闲居",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "无事门多闭，偏知夏日长。",
+    "早蝉声寂寞，新竹气清凉。",
+    "闲对临书案，看移晒药床。",
+    "自怜归未得，犹寄在班行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-3e458cb0-2f60-4831-8ccd-049b303ad609"
+}

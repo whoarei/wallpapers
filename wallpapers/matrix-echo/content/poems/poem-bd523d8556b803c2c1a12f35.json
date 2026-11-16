@@ -1,0 +1,14 @@
+{
+  "id": "poem-bd523d8556b803c2c1a12f35",
+  "title": "城南即事  其六",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "枕边风雨过今春，起步园林已绿阴。",
+    "更向坡头望湘浦，水云无际遶遥岑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-06e294c2-58be-40b8-86de-3a53c8e0f355"
+}

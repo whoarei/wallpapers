@@ -1,0 +1,26 @@
+{
+  "id": "poem-32be58c4f99412c952a5d86b",
+  "title": "人南渡・感皇恩·兰芷满芳洲",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "兰芷满芳洲，游思横路。",
+    "罗袜尘生步。",
+    "迎顾。",
+    "整鬟颦黛，脉脉两情难语。",
+    "细风吹柳絮。",
+    "人南渡。",
+    "回首旧游，山无重数。",
+    "花底深朱户。",
+    "何处。",
+    "半黄梅子，向晚一帘疏雨。",
+    "断魂分付与。",
+    "春将去。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-74"
+}

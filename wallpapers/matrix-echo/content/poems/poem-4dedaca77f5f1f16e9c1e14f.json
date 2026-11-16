@@ -1,0 +1,18 @@
+{
+  "id": "poem-4dedaca77f5f1f16e9c1e14f",
+  "title": "赠越客",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "故国波涛隔，明时心久留。",
+    "献书双阙晚，看月五陵秋。",
+    "南棹何当返，长江忆共游。",
+    "定知钓鱼伴，相望在汀州。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-50e5ef86-c74f-46ff-9adf-c27b7b2e4c8c"
+}

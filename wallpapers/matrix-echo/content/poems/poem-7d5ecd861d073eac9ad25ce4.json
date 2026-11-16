@@ -1,0 +1,16 @@
+{
+  "id": "poem-7d5ecd861d073eac9ad25ce4",
+  "title": "代农答别乘劝耕  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "敢忘百拜与三行，非贾非工只得耕。",
+    "旧不便民毋助长，新非怫众却休更。",
+    "验今多是迂扶曲，考古无非直胜横。",
+    "只把襦歌征别乘，不从谏议问苍生。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-e904ef91-42ba-42c0-89da-75dfb69e6fb6"
+}

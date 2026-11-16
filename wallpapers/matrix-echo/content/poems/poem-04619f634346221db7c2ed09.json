@@ -1,0 +1,17 @@
+{
+  "id": "poem-04619f634346221db7c2ed09",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生)无非买命与赎身，但随行有何囊箧资费？(生、旦)没有，将军。",
+    "(众)快口强舌，休同儿戏。",
+    "(生、旦)听启，乱慌慌行来数日，苦滴滴实没半厘。",
+    "(众)你好不知礼。",
+    "常言道：\"打鱼猎射怎空回？\"。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2962",
+  "tags": []
+}

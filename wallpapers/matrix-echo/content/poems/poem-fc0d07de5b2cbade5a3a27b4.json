@@ -1,0 +1,16 @@
+{
+  "id": "poem-fc0d07de5b2cbade5a3a27b4",
+  "title": "菩萨蛮·玉钗风动春幡急",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "玉钗风动春幡急，交枝红杏笼烟泣。",
+    "楼上望卿卿，窗寒新雨晴。",
+    "熏炉蒙翠被，绣帐鸳鸯睡。",
+    "何处有相知，羡他初画眉。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-16"
+}

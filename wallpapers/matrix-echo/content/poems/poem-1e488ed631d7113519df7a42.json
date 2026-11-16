@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e488ed631d7113519df7a42",
+  "title": "山居诗  其四八",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "高才宏略气凌云，世上浮名梦里身。",
+    "苏氏谩称降六国，韩公休说卷三秦。",
+    "当朝虽立千年事，古庙唯存一聚尘。",
+    "毕竟思量浑大错，何如林下养天真。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-aada7b9c-bf35-4f20-b8a3-e3357b8426f4"
+}

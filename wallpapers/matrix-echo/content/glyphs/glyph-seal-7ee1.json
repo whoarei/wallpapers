@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ee1",
+  "script": "seal",
+  "character": "绡",
+  "reading": "xiāo",
+  "description": "绡xiāo生丝，也指薄的生丝纺织品。\n绡shāo 1.船上挂帆的木柱。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绡"
+}

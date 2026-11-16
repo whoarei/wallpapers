@@ -1,0 +1,14 @@
+{
+  "id": "poem-b7f1092eaa458ba94f7fa09b",
+  "title": "诗一首",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "歛笑偷残靥，含羞露半唇。",
+    "一眉犹叵耐，双眼定伤人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-3c4b8756-8e5c-4bdc-b90f-a8b4fcc5fd1a"
+}

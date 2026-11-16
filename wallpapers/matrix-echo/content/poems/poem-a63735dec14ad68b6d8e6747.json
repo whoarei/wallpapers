@@ -1,0 +1,18 @@
+{
+  "id": "poem-a63735dec14ad68b6d8e6747",
+  "title": "应诏赋得除夜",
+  "author": "史青",
+  "dynasty": "唐",
+  "verses": [
+    "今岁今宵尽，明年明日催。",
+    "寒随一夜去，春逐五更来。",
+    "气色空中改，容颜暗里回。",
+    "风光人不觉，已著后园梅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "春节"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7c339c18-2e14-4988-ba44-43ea5456e44d"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-34dd800feeed7dce3d3480f1",
+  "title": "吊元鲁山 三",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "君子不自蹇，鲁山蹇有因。",
+    "苟含天地秀，皆是天地身。",
+    "天地蹇既甚，鲁山道莫伸。",
+    "天地气不足，鲁山食更贫。",
+    "始知补元化，竟须得贤人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-e5639382-92ac-4d40-a3cd-2196c3843182"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-0f18bd2efe435521f9a61418",
+  "title": "减字木兰花·一尊薄酒",
+  "author": "陈瓘",
+  "dynasty": "宋",
+  "verses": [
+    "一尊薄酒。",
+    "满酌劝君君举手。",
+    "不是亲朋。",
+    "谁肯相从寂寞滨。",
+    "人生如梦。",
+    "梦里惺惺何处用。",
+    "盏到休辞。",
+    "醉后全胜未醉时。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-562",
+  "tags": []
+}

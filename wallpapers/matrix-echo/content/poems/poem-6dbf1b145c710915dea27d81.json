@@ -1,0 +1,18 @@
+{
+  "id": "poem-6dbf1b145c710915dea27d81",
+  "title": "玉楼春·三月初三春渐老",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "三月初三春渐老。",
+    "遍地残花风暗扫。",
+    "命俦啸侣拥笙歌，临水泛觞游宴好。",
+    "浮利浮名何足道。",
+    "丽景芳时须笑傲。",
+    "今年不似去年欢，云海路长天杳杳。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-895",
+  "tags": []
+}

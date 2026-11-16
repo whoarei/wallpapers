@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c89",
+  "script": "seal",
+  "character": "貉",
+  "reading": "mò；hé；háo",
+  "description": "hé：哺乳动物，外形像狐，穴居河谷、山边和田野间；杂食鱼、鼠、蛙、虾、蟹和野果、杂草等，皮很珍贵一丘之～。\nháo：义同（一），用于貉子”、貉绒”。\nmò：古同貊”①。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-貉"
+}

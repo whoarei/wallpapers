@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9752",
+  "script": "seal",
+  "character": "青",
+  "reading": "qīng",
+  "description": "qīng：(1)深绿色或浅蓝色～绿。～碧。～草。～苔。～苗。～菜。～葱。～山绿水。～云直上。万古长～（喻高尚的精神或深厚的友情永远不衰）。\n(2)绿色的东西踏～。～黄不接。\n(3)靛蓝色靛～。～紫。～出于蓝，胜于蓝。\n(4)黑色～布。～线。～衫。～衣。\n(5)喻年轻～年。～春。～工。\n(6)竹简～简。～史（原指写在竹简上的记事，后指史书，如永垂～～”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-青"
+}

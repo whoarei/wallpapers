@@ -1,0 +1,15 @@
+{
+  "id": "poem-5e591da1429c77862edf4d04",
+  "title": "扑灯蛾",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)打伊泼丑生，怎敢到此处！恶向胆边生，教人怒从心起也。",
+    "(小生)适来路里，见吾兄倒在街衢。",
+    "是孙荣背负你归，多谢得贤达嫂嫂留住赐乞食。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1777",
+  "tags": []
+}

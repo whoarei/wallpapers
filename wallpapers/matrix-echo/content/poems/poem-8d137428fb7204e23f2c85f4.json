@@ -1,0 +1,14 @@
+{
+  "id": "poem-8d137428fb7204e23f2c85f4",
+  "title": "同前已（以）诗代书",
+  "author": "马云奇",
+  "dynasty": "唐",
+  "verses": [
+    "故（古）来同病总相怜，不似今人见眼前。",
+    "且随浮俗贪趋世，肯料寒灰亦重燃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-2775ca59-6375-4f03-91b1-8c73890ee69b"
+}

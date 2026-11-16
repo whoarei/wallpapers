@@ -1,0 +1,14 @@
+{
+  "id": "poem-789c895337d285f78c3b12ac",
+  "title": "仙思  其一",
+  "author": "赵崇鉘",
+  "dynasty": "宋",
+  "verses": [
+    "水殿风清急景斜，灵君初下五云车。",
+    "碧罗宝扇双题字，记是谁人咏落花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-6e24e46b-824c-42ba-9ce2-dcac597d59ea"
+}

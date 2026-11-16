@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75d2",
+  "script": "seal",
+  "character": "痒",
+  "reading": "yǎng",
+  "description": "形容某些难以抑制的强烈愿望\n痒yáng 1.忧思过度所成之病。 2.受损害;损害。 3.通\"疡\"。痈疮。参见\"痒疥\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-痒"
+}

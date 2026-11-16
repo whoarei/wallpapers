@@ -1,0 +1,14 @@
+{
+  "id": "poem-cafebc91135dad8ebd86cd33",
+  "title": "春晴",
+  "author": "王驾",
+  "dynasty": "宋",
+  "verses": [
+    "雨前初见花间蕊，雨后全无叶底花。",
+    "蜂蝶纷纷过墙去，却疑春色在邻家。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-春晴"
+}

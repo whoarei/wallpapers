@@ -1,0 +1,16 @@
+{
+  "id": "poem-ffa88728ef7ceed4aa51549a",
+  "title": "郊庙歌辞 武后明堂乐章 宫音",
+  "author": "武则天",
+  "dynasty": "唐",
+  "verses": [
+    "履艮包群望，居中冠百灵。",
+    "万方资广运，庶品荷财成。",
+    "神功谅匪测，盛德实难名。",
+    "藻奠申诚敬，恭祀表惟馨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-a71c4e67-69d8-48ce-96f9-3cec8d90fbc8"
+}

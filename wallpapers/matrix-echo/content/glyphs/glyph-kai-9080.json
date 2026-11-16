@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9080",
+  "script": "kai",
+  "character": "邀",
+  "reading": "yāo",
+  "description": "yāo：(1)约请～请。～集。应～。\n(2)取得，希求～赏。～准。～宠。～功请赏。\n(3)阻留～击（拦击）。～截。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-邀"
+}

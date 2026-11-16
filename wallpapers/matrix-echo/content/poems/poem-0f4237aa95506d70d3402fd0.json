@@ -1,0 +1,14 @@
+{
+  "id": "poem-0f4237aa95506d70d3402fd0",
+  "title": "下楼",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "话旧全应老，逢春喜又悲。",
+    "看花行拭泪，倍觉下楼迟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-44852ba9-ebb5-4651-8b5a-62e293438389"
+}

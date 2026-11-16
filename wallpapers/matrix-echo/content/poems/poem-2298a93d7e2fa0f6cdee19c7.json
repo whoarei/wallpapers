@@ -1,0 +1,14 @@
+{
+  "id": "poem-2298a93d7e2fa0f6cdee19c7",
+  "title": "题淮南寺",
+  "author": "程颢",
+  "dynasty": "宋",
+  "verses": [
+    "南去北来休便休，白苹吹尽楚江秋。",
+    "道人不是悲秋客，一任晚山相对愁。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-題淮南寺"
+}

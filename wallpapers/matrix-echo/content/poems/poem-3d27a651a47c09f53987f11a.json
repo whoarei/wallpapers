@@ -1,0 +1,18 @@
+{
+  "id": "poem-3d27a651a47c09f53987f11a",
+  "title": "踏莎行·旋葺荒园",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "旋葺荒园，初开小径。",
+    "物华还与东风竞。",
+    "曲槛晖晖落照明，高城冉冉孤烟暝。",
+    "柳色金寒，梅花雪静。",
+    "道人随处成幽兴。",
+    "一杯不惜小淹留，归期已理沧浪艇。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-266",
+  "tags": []
+}

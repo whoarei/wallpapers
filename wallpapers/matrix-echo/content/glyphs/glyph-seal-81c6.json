@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-81c6",
+  "script": "seal",
+  "character": "臆",
+  "reading": "yì",
+  "description": "yì：(1)胸胸～（心里，多指心里的话或想法，如直抒～～”）。\n(2)主观地，缺乏客观依据的～造。～测。～度（duó）。～断。～见。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-臆"
+}

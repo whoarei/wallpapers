@@ -1,0 +1,16 @@
+{
+  "id": "poem-eb1fddb9e22d1e84f0cbe41d",
+  "title": "题诠律师院",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "院凉松雨声，相对有山情。",
+    "未许谿边老，犹思岳顶行。",
+    "纱灯留火细，石井灌瓶清。",
+    "欲问吾师外，何人得此生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-bff8dfde-34fb-410c-8cbe-90601ca2f855"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2f0c2d7d34d4f25d91d3c3d1",
+  "title": "菩萨蛮·荒鸡再咽天难晓",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "荒鸡再咽天难晓，星榆落尽秋将老。",
+    "毡幕绕牛羊，敲冰饮酪浆。",
+    "山程兼水宿，漏点清钲续。",
+    "正是梦回时，拥衾无限思。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-192"
+}

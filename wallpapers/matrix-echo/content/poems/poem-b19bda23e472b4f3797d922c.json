@@ -1,0 +1,16 @@
+{
+  "id": "poem-b19bda23e472b4f3797d922c",
+  "title": "尾声",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "埋名避祸挨时运，满望取皇家赦恩。",
+    "罪大弥天，其时许自新。",
+    "(生)古语积善逢善，(小生)常言知恩报恩。",
+    "(合)此去愿逢吉地，前行莫撞凶门。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2893",
+  "tags": []
+}

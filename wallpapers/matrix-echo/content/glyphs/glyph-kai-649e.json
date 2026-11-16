@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-649e",
+  "script": "kai",
+  "character": "撞",
+  "reading": "zhuàng",
+  "description": "zhuàng：(1)冲打，碰击～钟。～车。～击。顶～。冲～。\n(2)碰见，无意中遇到～见。\n(3)试探～大运（碰运气）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撞"
+}

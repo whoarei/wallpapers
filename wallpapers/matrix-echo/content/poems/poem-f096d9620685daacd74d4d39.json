@@ -1,0 +1,18 @@
+{
+  "id": "poem-f096d9620685daacd74d4d39",
+  "title": "忆汉月·红杏一枝遥见",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "红杏一枝遥见。",
+    "凝露粉愁香怨。",
+    "吹开吹谢任春风，恨流莺、不能拘管。",
+    "曲池连夜雨，绿水上、碎红千片。",
+    "直拟移来向深院。",
+    "任凋零、不孤双眼。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-949",
+  "tags": []
+}

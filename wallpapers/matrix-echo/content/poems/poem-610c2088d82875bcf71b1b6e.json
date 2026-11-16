@@ -1,0 +1,14 @@
+{
+  "id": "poem-610c2088d82875bcf71b1b6e",
+  "title": "浣溪沙·庭菊飘黄玉露浓",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "庭菊飘黄玉露浓，冷莎偎砌隐鸣蛩，何期良夜得相逢。",
+    "背帐风摇红蜡滴，惹香梦暖绣衾重，觉来枕上怯晨钟。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-4"
+}

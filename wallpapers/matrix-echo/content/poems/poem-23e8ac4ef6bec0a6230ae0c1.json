@@ -1,0 +1,14 @@
+{
+  "id": "poem-23e8ac4ef6bec0a6230ae0c1",
+  "title": "祝鹊",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "神鹊神鹊好言语，行人早回多利赂。",
+    "我今庭中栽好树，与汝作巢当报汝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-20a724d2-1075-4645-8bbd-7385f675a2dc"
+}

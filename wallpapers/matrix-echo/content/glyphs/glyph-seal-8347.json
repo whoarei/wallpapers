@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8347",
+  "script": "seal",
+  "character": "荇",
+  "reading": "xìng",
+  "description": "xìng：〔～菜〕多年生草本植物，叶略呈圆形，浮在水面，根生水底，夏天开黄花；结椭圆形蒴果。全草可入药。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-荇"
+}

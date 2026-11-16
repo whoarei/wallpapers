@@ -1,0 +1,20 @@
+{
+  "id": "poem-b0e826d339b259ab32be9537",
+  "title": "夜游宫·一带垂杨蘸水",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "一带垂杨蘸水。",
+    "映芳草、萋萋千里。",
+    "跋马回堤少年子。",
+    "拥青娥，向红楼，南酒市。",
+    "拼饮莺花底。",
+    "恣欢笑、粉融香坠。",
+    "不趁临分醉中起。",
+    "但依稀，写柔情，留蜀纸。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-542",
+  "tags": []
+}

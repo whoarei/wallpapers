@@ -1,0 +1,16 @@
+{
+  "id": "poem-ebf63b184502f053e07c3389",
+  "title": "敦煌廿咏（并序） 十八、相似树咏",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "两树夹招提，三春引影低。",
+    "叶中微有字，阶下已成蹊。",
+    "含气同修短，分条德且齐。",
+    "不容凡鸟坐，应欲俟栖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-9711d6f5-569b-48c1-b3c0-7d5c37e34893"
+}

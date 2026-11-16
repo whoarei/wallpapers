@@ -1,0 +1,18 @@
+{
+  "id": "poem-ffc67a270c7a7b1391f81fb6",
+  "title": "送王使君赴太原拜节度副使",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "新从刘太尉，结束向幷州。",
+    "络脑青丝骑，盘囊锦带钩。",
+    "出关逢将校，下岭拥戈矛。",
+    "匣闭黄云冷，山传画角秋。",
+    "劒锋将破虏，函道罢登楼。",
+    "岂作书生老，当封万户侯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6d528dd1-986f-4758-bec4-909824a7f6c8"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-98c1963ae628d08a6eeaba52",
+  "title": "宫词  其七四",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "自古诗人咏具瞻，官仪丞相独尊严。",
+    "三衙扣杖一声喏，只是朱衣略揭帘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-46390de4-1a4c-4344-9b9e-99a60672e79c"
+}

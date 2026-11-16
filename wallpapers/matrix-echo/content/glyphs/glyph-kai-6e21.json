@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6e21",
+  "script": "kai",
+  "character": "渡",
+  "reading": "dù",
+  "description": "dù：(1)横过水面～船。～桥。～河。摆～。强～。远～重洋。\n(2)由此到彼～过难关。\n(3)转手，移交引～。\n(4)过河的地方～口。～头。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-渡"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-7d63fb30dd66dec37e60e5da",
+  "title": "余文",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "向人家，忙投奔，解鞍沽酒共论文，今夜雨打梨花深闭门。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4975",
+  "tags": []
+}

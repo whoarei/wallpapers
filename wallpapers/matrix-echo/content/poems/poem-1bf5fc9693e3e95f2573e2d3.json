@@ -1,0 +1,14 @@
+{
+  "id": "poem-1bf5fc9693e3e95f2573e2d3",
+  "title": "望早日",
+  "author": "何景山",
+  "dynasty": "唐",
+  "verses": [
+    "才分天地色，便禁虎狼心。",
+    "（见《吟窗杂录》卷十四正字王玄《诗中旨格》）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-bb09632a-a748-4fb8-b1e4-b78a17dc68e1"
+}

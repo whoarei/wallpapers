@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-745e",
+  "script": "seal",
+  "character": "瑞",
+  "reading": "ruì",
+  "description": "ruì：(1)古代作为凭信的玉器～玉（诸侯朝见帝王时所执玉器的统称）。～节。～符。\n(2)吉详，好预兆～气。～芝。～签。～雨。祥～。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瑞"
+}

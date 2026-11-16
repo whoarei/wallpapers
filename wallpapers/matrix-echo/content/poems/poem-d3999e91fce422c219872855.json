@@ -1,0 +1,16 @@
+{
+  "id": "poem-d3999e91fce422c219872855",
+  "title": "过洛阳城",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "古来利与名，俱在洛阳城。",
+    "九陌鼓初起，万车轮已行。",
+    "周秦时几变，伊洛水犹清。",
+    "二月中桥路，鸟啼春草生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-099c09a3-9bb4-46ac-b077-d3a47d03535d"
+}

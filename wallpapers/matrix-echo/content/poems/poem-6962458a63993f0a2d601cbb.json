@@ -1,0 +1,14 @@
+{
+  "id": "poem-6962458a63993f0a2d601cbb",
+  "title": "山中四威仪供佛鉴师翁韵  其四",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "山中卧，月落猿啼过。",
+    "正堪眠，石定从教破。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-d8ade8f4-7767-4501-a7d4-cb65274abf43"
+}

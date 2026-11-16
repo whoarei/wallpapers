@@ -1,0 +1,14 @@
+{
+  "id": "poem-ea225a8821d012e4dfb7678b",
+  "title": "句",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "君咏风月夕，余当童稚年。",
+    "闲窗读书罢，偷咏左司篇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-8a7e5945-d571-4c50-b620-634872d6d893"
+}

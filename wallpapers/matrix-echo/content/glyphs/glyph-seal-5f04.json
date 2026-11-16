@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f04",
+  "script": "seal",
+  "character": "弄",
+  "reading": "nòng；lòng",
+  "description": "nòng：(1)玩耍，把玩摆～。玩～。～臣（帝王所亲近狎昵的臣子）。～潮儿。戏～。～瓦（瓦”是原始的纺锤，古代把它给女孩子玩，意为生女儿）。～璋（璋”是一种玉器，古代把它给男孩子玩。意为生儿子）。\n(2)做，干～假成真。～明白。\n(3)设法取得～点钱花。\n(4)搅扰这事～得人心惶惶。\n(5)耍，炫耀搔首～姿。\n(6)不正当地使用～权。～手段。捉～。\n(7)奏乐或乐曲的一段、一章～琴。梅花三～。\n(8)古代百戏乐舞中指扮演角色或表演节目。\nlòng：方言，小巷，胡同～堂。里～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-弄"
+}

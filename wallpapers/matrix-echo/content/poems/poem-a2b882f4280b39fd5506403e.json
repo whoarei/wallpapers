@@ -1,0 +1,16 @@
+{
+  "id": "poem-a2b882f4280b39fd5506403e",
+  "title": "夕发邠宁寄从弟",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "半酣走马别，别后锁边城。",
+    "日落月未上，鸟栖人独行。",
+    "方驰故国恋，复怆长年情。",
+    "入夜不能息，何当闲此生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b7bf1f91-98aa-4db7-8c64-2332247d7e3d"
+}

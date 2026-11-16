@@ -1,0 +1,14 @@
+{
+  "id": "poem-afda6772e8eced07493ccab3",
+  "title": "金珑璁",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "饥荒先自窘。",
+    "那堪连丧双亲，身独自怎支分？衣衫都典尽，首饰并没分文，无计策剪香云。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5118",
+  "tags": []
+}

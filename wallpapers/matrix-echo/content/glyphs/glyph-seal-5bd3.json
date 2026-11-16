@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5bd3",
+  "script": "seal",
+  "character": "寓",
+  "reading": "yù",
+  "description": "yù：(1)原指寄居，后泛指居住～公（古代指寄居他国的官僚贵族；后泛指失势寄居他乡的地主绅士等人）。～居。～所。～舍。～邸。\n(2)住的地方公～。客～。\n(3)寄托寄～。～目（过目）。～言（a.有所寄托的话；b.用来说明某个道理的小故事）。～意（语言文字中所寄托或暗含的意思）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-寓"
+}

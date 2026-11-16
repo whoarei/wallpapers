@@ -1,0 +1,16 @@
+{
+  "id": "poem-b93d9dd12f6245a1a99873df",
+  "title": "姑熟杂咏 牛渚矶",
+  "author": "李赤",
+  "dynasty": "唐",
+  "verses": [
+    "绝壁临巨川，连峰势相向。",
+    "乱石流洑间，回波自成浪。",
+    "但惊群木秀，莫测精灵状。",
+    "更听猨夜啼，忧心醉江上。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-7e4e03c2-33b9-4cdd-8c8c-a5a7ec0d10e8"
+}

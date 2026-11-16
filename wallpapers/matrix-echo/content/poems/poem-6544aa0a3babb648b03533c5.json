@@ -1,0 +1,19 @@
+{
+  "id": "poem-6544aa0a3babb648b03533c5",
+  "title": "少年行",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "少年从猎出长杨，禁中新拜羽林郎。",
+    "独对辇前射双虎，君王手赐黄金珰。",
+    "日日鬬鸡都市里，赢得宝刀重刻字。",
+    "百里报仇夜出城，平明还在娼楼醉。",
+    "遥闻虏到平陵下，不待诏书行上马。",
+    "斩得名王献桂宫，封侯起第一日中。",
+    "不为六郡良家子，百战始取边城功。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-bc5bbf65-131f-496a-bb4d-656e68f06918"
+}

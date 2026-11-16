@@ -1,0 +1,16 @@
+{
+  "id": "poem-97ffd91504b95d073b96ab78",
+  "title": "代故人新姬侍疾",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "双毂不回辙，子疾已在傍。",
+    "侍坐长摇扇，迎医渐下床。",
+    "新施箱中幔，未洗来时妆。",
+    "奉君缠绵意，幸愿莫相忘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-1d84e98a-9ad7-4e40-b772-4da9680ad763"
+}

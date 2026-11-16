@@ -1,0 +1,16 @@
+{
+  "id": "poem-f4d7aac7783fd84bca2f8449",
+  "title": "昔昔盐二十首 恒歛千金笑",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "玉颜恒自歛，羞出镜台前。",
+    "早惑阳城客，今悲华锦筵。",
+    "从军人更远，投喜鹊空传。",
+    "夫壻交河北，迢迢路几千。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-a6b50da8-c9e3-4606-9053-44c1cb81e657"
+}

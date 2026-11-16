@@ -1,0 +1,21 @@
+{
+  "id": "poem-cd75a8eaa56e2fd302978626",
+  "title": "聒龙谣·紫阙苕峣",
+  "author": "赵佶",
+  "dynasty": "宋",
+  "verses": [
+    "紫阙苕峣，绀宇邃深，望极绛河清浅。",
+    "霜月流天，锁穹隆光满。",
+    "水精宫、金锁龙盘，玳瑁帘、玉钩云卷。",
+    "动深思，秋籁萧萧，比人世、倍清燕。",
+    "瑶阶回。",
+    "玉签鸣，渐秘省引水，辘轳声转。",
+    "鸡人唱晓，促铜壶银箭。",
+    "拂晨光、宫柳烟微，荡瑞色、御炉香散。",
+    "从宸游，前后争趋，向金銮殿。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-531",
+  "tags": []
+}

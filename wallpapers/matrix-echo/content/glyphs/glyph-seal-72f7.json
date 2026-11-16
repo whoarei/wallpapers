@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-72f7",
+  "script": "seal",
+  "character": "狷",
+  "reading": "juàn",
+  "description": "juàn：(1)胸襟狭窄，性情急躁～急。～狭。\n(2)洁身自好，性情耿直～介。～傲。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-狷"
+}

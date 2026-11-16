@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5ac1",
+  "script": "kai",
+  "character": "嫁",
+  "reading": "jià",
+  "description": "jià：(1)女子结婚出～。～娶。再～。～奁。～妆。\n(2)把祸害、怨恨推到别人身上～怨。～祸于人。～非（委过于人）。转～。\n〔～接〕把不同品种的两种植物接在一起，让它变种，达到提早结果、增加抗性、提高品种质量等目的。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嫁"
+}

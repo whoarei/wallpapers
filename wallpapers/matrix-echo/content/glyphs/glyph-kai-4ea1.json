@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ea1",
+  "script": "kai",
+  "character": "亡",
+  "reading": "wáng；wú",
+  "description": "wáng：(1)逃逃～。流～。\n(2)失去～佚。～羊补牢。\n(3)死伤～。死～。\n(4)灭灭～。～国奴。救～。兴～。\n灭；殁；卒；\n兴；存；\nwú：古同无”，没有。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-亡"
+}

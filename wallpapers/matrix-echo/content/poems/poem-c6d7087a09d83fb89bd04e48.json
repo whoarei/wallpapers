@@ -1,0 +1,16 @@
+{
+  "id": "poem-c6d7087a09d83fb89bd04e48",
+  "title": "简施芸隠",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "雪后东风作峭寒，客怀零乱客眉攒。",
+    "杭州虽近西湖月，宁似湖州把钓竿。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b05b5742-b6a7-4a21-aa5a-5eb2a19a3d9e"
+}

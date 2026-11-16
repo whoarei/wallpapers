@@ -1,0 +1,16 @@
+{
+  "id": "poem-ded60c6732d93e2cf15b071d",
+  "title": "女冠子·凤楼琪树",
+  "author": "鹿虔扆",
+  "dynasty": "五代",
+  "verses": [
+    "凤楼琪树，惆怅刘郎一去，正春深。",
+    "洞里愁空结，人间信莫寻。",
+    "竹疏斋殿迥，松密醮坛阴。",
+    "倚云低首望，可知心。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-15"
+}

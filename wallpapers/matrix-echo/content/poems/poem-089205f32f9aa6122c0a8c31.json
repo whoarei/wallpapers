@@ -1,0 +1,16 @@
+{
+  "id": "poem-089205f32f9aa6122c0a8c31",
+  "title": "和王彦舟",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "混尘慵走俗，陟𪩘喜非期。",
+    "漠漠江雨歇，溶深春水时。",
+    "陶潜那寄傲，惠远更能诗。",
+    "吏自成稀阔，言归心尚迟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-a4beefc4-dd95-483c-84f1-f35f40dc922f"
+}

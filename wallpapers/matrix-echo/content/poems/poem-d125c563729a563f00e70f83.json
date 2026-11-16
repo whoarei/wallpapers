@@ -1,0 +1,14 @@
+{
+  "id": "poem-d125c563729a563f00e70f83",
+  "title": "浄名  其二",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "旧对湘西雪，迟迟忆故关。",
+    "水云资老景，吟引谢江山。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-b67b9d65-3d33-4600-8288-52817c5b826a"
+}

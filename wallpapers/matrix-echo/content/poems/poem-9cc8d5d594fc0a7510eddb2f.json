@@ -1,0 +1,14 @@
+{
+  "id": "poem-9cc8d5d594fc0a7510eddb2f",
+  "title": "克己复礼",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "克己工夫未肯加，吝骄封闭缩如蜗。",
+    "试于中夜深思省，剖破藩篱即大家。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-ec038d85-3526-4f91-907f-ef67da77711b"
+}

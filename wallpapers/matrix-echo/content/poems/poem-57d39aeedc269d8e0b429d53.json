@@ -1,0 +1,16 @@
+{
+  "id": "poem-57d39aeedc269d8e0b429d53",
+  "title": "早春左省寓直",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "旭景鸾台上，微云象阙间。",
+    "时清政事少，日永直官闲。",
+    "远籁飞箫管，零冰响珮环。",
+    "终军年二十，默坐叩玄关。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-20bc47aa-33c7-48bb-94aa-842b5d83b4e1"
+}

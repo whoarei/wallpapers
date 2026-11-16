@@ -1,0 +1,18 @@
+{
+  "id": "poem-a43d0203a4a12a77d030745b",
+  "title": "送鲍中丞赴太原",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "分路引鸣驺，喧喧似陇头。",
+    "暂移西掖望，全解北门忧。",
+    "专幕临都护，分曹制督邮。",
+    "积冰营不下，盛雪猎方休。",
+    "白草连胡帐，黄云拥戍楼。",
+    "今朝送旌斾，一减鲁儒羞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-90bab4dd-df1b-4079-9c1d-16b826f242ab"
+}

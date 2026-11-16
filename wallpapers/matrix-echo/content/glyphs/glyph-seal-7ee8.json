@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ee8",
+  "script": "seal",
+  "character": "绨",
+  "reading": "tí",
+  "description": "绨〈名〉\n丝织物类名\n绨tí〈古〉一种厚实而光滑的丝织品～袍。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绨"
+}

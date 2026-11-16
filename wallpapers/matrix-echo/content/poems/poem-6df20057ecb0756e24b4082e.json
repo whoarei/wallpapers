@@ -1,0 +1,17 @@
+{
+  "id": "poem-6df20057ecb0756e24b4082e",
+  "title": "浣溪沙·万里阴山万里沙",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "万里阴山万里沙。",
+    "谁将绿鬓斗霜华。",
+    "年来强半在天涯。",
+    "魂梦不离金屈戌，画图亲展玉鸦叉。",
+    "生怜瘦减一分花。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-42"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-8aeb28703b0072a4ff079384",
+  "title": "和蒋进士秋日",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "晚雨霏微思杪秋，不堪才子尚羇游。",
+    "尘随别骑东西急，波促年华日夜流。",
+    "凉月云开光自远，古松风在韵难休。",
+    "男儿但得功名立，纵是深恩亦易酬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-432e8516-22fb-41fa-b79c-5b3e5ce897ef"
+}

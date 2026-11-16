@@ -1,0 +1,16 @@
+{
+  "id": "poem-56f2fa3db880c0a2e120a991",
+  "title": "谢新恩·樱花落尽阶前月",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "樱花落尽阶前月，象床愁倚薰笼。",
+    "远似去年今日，恨还同。",
+    "双鬟不整云憔翠，泪沾红抹胸。",
+    "何处相思苦？纱窗醉梦中。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-31"
+}

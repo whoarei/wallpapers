@@ -1,0 +1,18 @@
+{
+  "id": "poem-738007ffe15de3bb7698018b",
+  "title": "泛水曲",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "载酒入烟浦，方舟泛绿波。",
+    "子酌我复饮，子饮我还歌。",
+    "莲深微路通，峰曲幽气多。",
+    "阅芳无留瞬，弄桂不停柯。",
+    "水上秋日鲜，西山碧峩峩。",
+    "兹欢良可贵，谁复更来过。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-1876a213-663e-4780-ae52-068af79122c3"
+}

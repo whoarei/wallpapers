@@ -1,0 +1,16 @@
+{
+  "id": "poem-ab0f4bb121319c58c2aac82c",
+  "title": "太和 寿和",
+  "author": "贺知章",
+  "dynasty": "唐",
+  "verses": [
+    "惟以明发，有怀载殷。",
+    "乐盈而反，礼顺其禋。",
+    "立清以献，荐欲是亲。",
+    "於穆不已，裒对斯臻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-cc92ee7f-f8d6-47bb-9efe-f2402a4aa123"
+}

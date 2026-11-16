@@ -1,0 +1,14 @@
+{
+  "id": "poem-f6a0bbbc07bad5cb7681886c",
+  "title": "赠侯山人",
+  "author": "熊孺登",
+  "dynasty": "唐",
+  "verses": [
+    "一见清容惬素闻，有人传是紫阳君。",
+    "来时玉女裁春服，翦破湘山几片云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-940eed81-f316-4ce4-91ec-6133b3dc0053"
+}

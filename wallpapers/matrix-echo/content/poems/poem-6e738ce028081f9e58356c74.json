@@ -1,0 +1,14 @@
+{
+  "id": "poem-6e738ce028081f9e58356c74",
+  "title": "妾薄命",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "自从君弃妾，憔悴不羞人。",
+    "唯余坏粉泪，未免映衫匀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-9816ff60-fc81-4291-8d05-cad5e5541933"
+}

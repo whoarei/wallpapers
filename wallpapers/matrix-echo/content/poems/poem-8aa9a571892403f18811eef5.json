@@ -1,0 +1,16 @@
+{
+  "id": "poem-8aa9a571892403f18811eef5",
+  "title": "题招提院静照堂",
+  "author": "宋敏求",
+  "dynasty": "宋",
+  "verses": [
+    "丛林起新构，燕坐水云乡。",
+    "本自禅心静，能令世累忘。",
+    "幡花围昼永，钟梵度宵长。",
+    "归裓新篇富，笼纱映宝坊。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-0b7b1e72-5b78-4b39-b0ef-2d8cf5bc75f4"
+}

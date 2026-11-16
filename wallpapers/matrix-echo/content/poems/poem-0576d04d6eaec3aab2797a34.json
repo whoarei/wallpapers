@@ -1,0 +1,17 @@
+{
+  "id": "poem-0576d04d6eaec3aab2797a34",
+  "title": "番鼓儿",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(净)为塞北。",
+    "为塞北，兴兵临边鄙。",
+    "但州城关津险隘，势怎当敌？待欲迁都回避。",
+    "不许稽迟，上京去缉探事实。",
+    "(合)火速便驰驿，等回音星飞电急。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2902",
+  "tags": []
+}

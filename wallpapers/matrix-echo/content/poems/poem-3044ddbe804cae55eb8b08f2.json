@@ -1,0 +1,16 @@
+{
+  "id": "poem-3044ddbe804cae55eb8b08f2",
+  "title": "今上初登极岁送皇甫孝廉赴选",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "行应会府春，欲劝及芳辰。",
+    "北极天文正，东风汉律新。",
+    "少年逢圣代，欢笑别情亲。",
+    "况是勋庸后，恩荣袭尔身。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-7c60e0bd-891b-41da-8db2-3091534cd6b8"
+}

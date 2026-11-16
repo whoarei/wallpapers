@@ -1,0 +1,13 @@
+{
+  "id": "poem-3ef7ab8b5ed57518c35a0e9b",
+  "title": "句",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "申胥任向秦庭哭，靳尚终贻楚国忧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-1deddf71-9ab1-41e2-bb7e-2b86d0400cdf"
+}

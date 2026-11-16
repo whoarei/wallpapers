@@ -1,0 +1,15 @@
+{
+  "id": "poem-e2f9a7d8c6bd0a34c4596ee0",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(众)寻不见连忙向前，搜索尽墙边院边。",
+    "莫不是隐身法术似神仙？走如烟，眼寻穿。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2883",
+  "tags": []
+}

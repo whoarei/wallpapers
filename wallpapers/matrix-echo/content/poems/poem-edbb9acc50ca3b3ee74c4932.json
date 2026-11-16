@@ -1,0 +1,16 @@
+{
+  "id": "poem-edbb9acc50ca3b3ee74c4932",
+  "title": "昔昔盐二十首 水溢芙蓉沼",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "渌沼春光后，青青草色浓。",
+    "绮罗惊翡翠，暗粉妬芙蓉。",
+    "云遍窗前见，荷翻镜里逢。",
+    "将心托流水，终日渺无从。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-941c324b-08d0-4ecf-9ee7-62d71dd86afd"
+}

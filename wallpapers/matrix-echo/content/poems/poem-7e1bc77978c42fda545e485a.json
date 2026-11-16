@@ -1,0 +1,20 @@
+{
+  "id": "poem-7e1bc77978c42fda545e485a",
+  "title": "鴈汊东守风四首  其三",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "惊麋砀洪浸，何人矢丽龟。",
+    "遂令老病叟，珍毳及晚炊。",
+    "野鹿敢伯仲，江鲟让甘肥。",
+    "淮人笃乡义，贱乞等韭葵。",
+    "向来无人境，沙漫水无涯。",
+    "市声不到耳，茭苇相因依。",
+    "今无暴客虞，解衣候朝曦。",
+    "厚味真过矣，安食如含饴。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-975823af-be04-4ed5-be4e-5638fc969306"
+}

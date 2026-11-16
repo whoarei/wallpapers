@@ -1,0 +1,14 @@
+{
+  "id": "poem-18ef1dbd8f0d6b5c1545ebe8",
+  "title": "题苏仙宅枯松",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "几年苍翠在仙家，一旦枝枯类海槎。",
+    "不如酸涩棠梨树，却占高城独放花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-aff6f954-43c1-41cf-840c-01540f5b4494"
+}

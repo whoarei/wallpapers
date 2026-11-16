@@ -1,0 +1,14 @@
+{
+  "id": "poem-b9b3439b7ca9eae9b1242a13",
+  "title": "途中",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "故园回首雁初来，马上千愁付一杯。",
+    "惟有新诗似相识，暮山吟处共徘徊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-63b4fd17-3860-4666-8aa2-e0e8e4697298"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-6d0662da0ce2be492ae90161",
+  "title": "长安遇冯著",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "verses": [
+    "客从东方来，衣上灞陵雨。",
+    "问客何为来，采山因买斧。",
+    "冥冥花正开，飏飏燕新乳。",
+    "昨别今已春，鬓丝生几缕。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "叙事",
+    "同情",
+    "抒情",
+    "五言古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b8ae44b3-ba8d-42d3-85a7-a70aa8608379"
+}

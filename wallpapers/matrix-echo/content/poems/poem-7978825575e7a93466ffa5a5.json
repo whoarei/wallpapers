@@ -1,0 +1,16 @@
+{
+  "id": "poem-7978825575e7a93466ffa5a5",
+  "title": "宁州春思",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "失意离城早，边城任见花。",
+    "初为断酒客，旧识卖书家。",
+    "寒寺稀无雪，春风亦有沙。",
+    "思归频入梦，即路不言赊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-6147f80e-6161-4a16-aa92-27210e6d856b"
+}

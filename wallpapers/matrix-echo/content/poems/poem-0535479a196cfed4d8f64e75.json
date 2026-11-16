@@ -1,0 +1,14 @@
+{
+  "id": "poem-0535479a196cfed4d8f64e75",
+  "title": "游仙词三十三首  其二七",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "飞佩乘风海上游，麟洲有路透炎州。",
+    "仙人养就千年鼠，时采长毛织火裘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-bc6477e3-496d-44f4-9c07-54f34a39d4bb"
+}

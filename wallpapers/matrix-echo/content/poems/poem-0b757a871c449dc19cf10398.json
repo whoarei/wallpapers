@@ -1,0 +1,14 @@
+{
+  "id": "poem-0b757a871c449dc19cf10398",
+  "title": "送履霜上人还金陵西山",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "携锡西山步绿莎，禅心未了奈情何。",
+    "湘宫水寺清秋夜，月落风悲松柏多。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-d956bc46-82d6-4c9b-9f8d-f936709f89f9"
+}

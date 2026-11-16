@@ -1,0 +1,16 @@
+{
+  "id": "poem-0b54165c350854d7a3eb583c",
+  "title": "送新罗使",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "万里为朝使，离家今几年。",
+    "应知旧行路，却上远归船。",
+    "夜泊避蛟窟，朝炊求岛泉。",
+    "悠悠到乡国，还望海西天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-7b99f297-4701-4256-91bc-e33a5ac4b67c"
+}

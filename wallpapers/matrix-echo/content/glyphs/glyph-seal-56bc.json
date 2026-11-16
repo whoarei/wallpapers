@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-56bc",
+  "script": "seal",
+  "character": "嚼",
+  "reading": "jiáo；jué；jiào",
+  "description": "jiáo：用牙齿咬碎细～慢咽。味同～蜡。\njué：义同（一），用于某些复合词咀～。\njiào：〔倒（dǎo）～〕反刍，牛等动物把粗粗咀嚼后咽下去的食物再反回到嘴里细细咀嚼。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嚼"
+}

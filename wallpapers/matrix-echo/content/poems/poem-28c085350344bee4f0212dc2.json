@@ -1,0 +1,14 @@
+{
+  "id": "poem-28c085350344bee4f0212dc2",
+  "title": "又一首",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "梦中疑是实，觉后忽非真。",
+    "诚知肠欲继，穷鬼故调人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-7e3f42c0-6165-4212-88a2-f0bca754e1be"
+}

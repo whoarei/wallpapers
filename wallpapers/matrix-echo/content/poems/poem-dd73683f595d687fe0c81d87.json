@@ -1,0 +1,20 @@
+{
+  "id": "poem-dd73683f595d687fe0c81d87",
+  "title": "杂曲歌辞 长干曲四首 二",
+  "author": "崔颢",
+  "dynasty": "唐",
+  "verses": [
+    "家临九江水，去来九江侧。",
+    "同是长干人，生小不相识。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "家乡",
+    "女子",
+    "热爱",
+    "唐诗三百首",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-8d480633-1876-4082-aaca-a7b3a26c04d7"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-4bb7bf5b75293b3cb2331cfb",
+  "title": "逢故人",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "山东一十余年别，今日相逢在上都。",
+    "说尽向来无限事，相看摩捋白髭须。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-dbd2b5f0-bdcd-4cf6-a824-32cdc7ed6eaf"
+}

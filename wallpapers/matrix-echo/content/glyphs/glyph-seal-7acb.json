@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7acb",
+  "script": "seal",
+  "character": "立",
+  "reading": "lì",
+  "description": "lì：(1)站，引申为竖起来～正。～柜。～足（ａ．站得往脚；ｂ．处于某种立场）。～场。屹～。顶天～地。\n(2)做出，定出建～。设～。树～。～意。～此存照。\n(3)存在，生存自～。独～。势不两～。\n(4)马上，即刻～时。～刻。～等。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-立"
+}

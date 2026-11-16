@@ -1,0 +1,16 @@
+{
+  "id": "poem-e44f05b6b691b15a6776c714",
+  "title": "郊庙歌辞 周朝飨乐章 忠顺",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "岁迎更始，节及朝元。",
+    "冕旒仰止，冠劒相连。",
+    "八音合奏，万物齐宣。",
+    "常陈盛礼，愿永千年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-48f870b0-fa59-43e1-8ef2-6c58dd86f6a3"
+}

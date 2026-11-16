@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c31",
+  "script": "seal",
+  "character": "谱",
+  "reading": "pǔ",
+  "description": "符号或文字列记乐歌的音节、声调,以便奏唱的籍录\n⒈记载事物类别、系统等的表册或书籍菜～。年～。家～。\n⒉记录音乐、棋局等符号、图形的样本或书册曲～。乐～。五线～。棋～。画～。\n⒊按歌词作曲～曲。\n⒋大致的准则，把握心中有～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谱"
+}

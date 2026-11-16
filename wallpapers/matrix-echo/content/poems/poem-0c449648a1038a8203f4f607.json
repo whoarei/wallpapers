@@ -1,0 +1,25 @@
+{
+  "id": "poem-0c449648a1038a8203f4f607",
+  "title": "鼓吹曲辞 鼓吹铙歌 晋阳武",
+  "author": "柳宗元",
+  "dynasty": "唐",
+  "verses": [
+    "晋阳武，奋义威。",
+    "炀之渝，德焉归。",
+    "氓毕屠，绥者谁。",
+    "皇烈烈，专天机。",
+    "号以仁，扬其旗。",
+    "日之升，九土晞。",
+    "斥田圻，流洪辉。",
+    "有其二，翼余隋。",
+    "斮枭骜，连熊螭。",
+    "枯以肉，勍者羸。",
+    "后土荡，玄穹弥。",
+    "合之育，莽然施。",
+    "惟德辅，庆无期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-df56529b-2c90-46a3-baf8-223faff1c1af"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-1102a06d9516c7e5dc41e819",
+  "title": "赠别李山人",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "分合老西秦，年年梦白苹。",
+    "曾为洞庭客，还送洞庭人。",
+    "语别惜残夜，思归愁见春。",
+    "遥知泊舟处，沙月自相亲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-05f0b477-1b49-4a6e-a91a-ddf4d57a07f4"
+}

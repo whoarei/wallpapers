@@ -1,0 +1,20 @@
+{
+  "id": "poem-a9dcd86ab2e9ad452dd751a5",
+  "title": "送臧子与子仪之楚州告免解二首  其一",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "二臧如静女，不受朱粉加。",
+    "尹姬望邢娥，宜著帝者家。",
+    "向来扬蛾眉，众喙怒以呀。",
+    "指玉谢坚洁，擘肌起疵瑕。",
+    "去汝忽若蜕，人与室俱遐。",
+    "玉台镜如月，满意事铅华。",
+    "九重访娟丽，万目看嫮姱。",
+    "当使听听者，昂首七香车。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-7245bb49-4309-4cb8-9d10-7d6500fc1aff"
+}

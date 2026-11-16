@@ -1,0 +1,20 @@
+{
+  "id": "poem-e7dac37c471264e73b4c7f2a",
+  "title": "严陵祠",
+  "author": "洪子舆",
+  "dynasty": "唐",
+  "verses": [
+    "汉主召子陵，归宿洛阳殿。",
+    "客星今安在，隐迹犹可见。",
+    "水石空潺湲，松篁尚葱蒨。",
+    "岸深翠阴合，川回白云徧。",
+    "幽径滋芜没，荒祠幂霜霰。",
+    "垂钓想遗芳，掇苹羞野荐。",
+    "高风激终古，语理忘荣贱。",
+    "方騐道可尊，山林情不变。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-0cc8df3c-e9b4-4a52-80fe-e1b3014da1d8"
+}

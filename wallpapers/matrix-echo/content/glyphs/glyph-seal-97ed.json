@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-97ed",
+  "script": "seal",
+  "character": "韭",
+  "reading": "jiǔ",
+  "description": "jiǔ：〔～菜〕多年生草本植物，叶细长而扁，夏秋间开凶花；叶和花嫩时可食，种子可入药。简称韭”，如～黄”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-韭"
+}

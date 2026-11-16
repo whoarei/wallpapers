@@ -1,0 +1,14 @@
+{
+  "id": "poem-150a6269692399a8ff29df14",
+  "title": "题龙门寺",
+  "author": "陆海",
+  "dynasty": "唐",
+  "verses": [
+    "窗灯林霭里，闻磬水声中。",
+    "更与龙华会，炉烟满夕风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6971df43-734e-4388-a8d5-1b495931f02e"
+}

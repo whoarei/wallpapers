@@ -1,0 +1,16 @@
+{
+  "id": "poem-bba35855b0f9a6bb63e91d84",
+  "title": "山居诗  其四四",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "万境闲来情澹澹，群嚣息后思微微。",
+    "当时白业无门入，今日玄关有路归。",
+    "熟果不摇翻自落，生禽谁唤却惊飞。",
+    "到头何用空忙得，任运应须待对机。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-35674b93-129e-4cf4-9ca3-6008186c142e"
+}

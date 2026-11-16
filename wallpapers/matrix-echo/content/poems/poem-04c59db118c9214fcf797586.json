@@ -1,0 +1,16 @@
+{
+  "id": "poem-04c59db118c9214fcf797586",
+  "title": "赋得送轩辕先生归罗浮山",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "旧山归隐浪摇青，绿鬓山童一帙经。",
+    "诗帖布帆猿鸟看，药煎金鼎鬼神听。",
+    "洞深头上聆仙语，船静鼻中闻海腥。",
+    "此处先生应不住，吾君南望漫劳形。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-a36c47a8-15ee-41bc-8593-8b7887144bce"
+}

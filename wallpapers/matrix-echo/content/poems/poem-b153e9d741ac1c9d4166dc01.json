@@ -1,0 +1,20 @@
+{
+  "id": "poem-b153e9d741ac1c9d4166dc01",
+  "title": "赠阙下裴舍人",
+  "author": "钱起",
+  "dynasty": "唐",
+  "verses": [
+    "二月黄莺飞上林，春城紫禁晓阴阴。",
+    "长乐钟声花外尽，龙池柳色雨中深。",
+    "阳和不散穷途恨，霄汉长怀捧日新。",
+    "献赋十年犹未遇，羞将白发对华簪。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "援引",
+    "七言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-42f17f00-bbc1-4b5b-82c1-3e9e012725ba"
+}

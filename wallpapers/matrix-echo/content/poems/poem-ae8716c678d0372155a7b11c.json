@@ -1,0 +1,16 @@
+{
+  "id": "poem-ae8716c678d0372155a7b11c",
+  "title": "双髻禅庵请",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "恣无明，逞人我。",
+    "诽释迦，骂达磨。",
+    "虽是赤心，返成话堕。",
+    "六年坐铺卖不行，至今被人唤作滞货。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-a9e2e58f-88e9-4434-abb9-74e0043de5a9"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-8b583c656831d876e5588949",
+  "title": "宛陵馆冬青树",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "碧树如烟覆晚波，清秋欲尽客重过。",
+    "故园亦有如烟树，鸿雁不来风雨多。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-c78d4a35-d541-449a-a7e0-373adff95945"
+}

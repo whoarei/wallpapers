@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-86fe",
+  "script": "kai",
+  "character": "蛾",
+  "reading": "é；yǐ",
+  "description": "é：昆虫，与蝴蝶相似，体肥大，触角细长如丝，翅面灰白，静止时，翅左右平放，常在夜间活动，有趋光性～子。～眉。～扬（眉扬，形容美人笑貌）。～绿。飞～扑火。\nyǐ：古同蚁”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蛾"
+}

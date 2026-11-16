@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c24",
+  "script": "seal",
+  "character": "尤",
+  "reading": "yóu",
+  "description": "yóu：(1)特异的，突出的～为（wéi）。～异。无耻之～。\n(2)更加，格外～其。\n(3)过失效～（学着别人做坏事）。\n(4)怨恨，归咎怨天～人。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-尤"
+}

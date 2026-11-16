@@ -1,0 +1,16 @@
+{
+  "id": "poem-b21c513220c0aafafd47a923",
+  "title": "臧郎中挽歌二首  其一",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "积庆承前烈，呈才会圣时。",
+    "践杨朝有籍，治行吏为师。",
+    "僚友皆亲誉，黎民每去思。",
+    "惜哉违世早，志业未全施。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8928c1dc-b27b-4596-9745-b7e3ca15066a"
+}

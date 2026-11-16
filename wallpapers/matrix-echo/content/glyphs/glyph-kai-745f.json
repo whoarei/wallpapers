@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-745f",
+  "script": "kai",
+  "character": "瑟",
+  "reading": "sè",
+  "description": "sè：(1)弦乐器，似琴。长近三米，古有五十根弦，后为二十五根或十六根弦，平放演奏鼓～。\n(2)矜持端庄的样子。\n(3)洁净鲜明的样子。\n〔～～〕a.形容轻微的声音；b.形容颤抖。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瑟"
+}

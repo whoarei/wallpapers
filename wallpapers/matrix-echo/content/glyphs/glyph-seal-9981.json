@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9981",
+  "script": "seal",
+  "character": "馁",
+  "reading": "něi",
+  "description": "气馁;泄气,丧气\n⒈饥饿冻饿冻～。〈喻〉失掉勇气气～。胜不骄败不～。\n⒉鱼腐烂，不新鲜鱼～而肉败。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-馁"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-2b0427508223d8073100db28",
+  "title": "杪秋夜直",
+  "author": "郑畋",
+  "dynasty": "唐",
+  "verses": [
+    "蘂宫裁诏与宵分，虽在青云忆白云。",
+    "待报君恩了归去，山翁何急草移文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-84fed06b-c500-4cdb-9336-32c87acd98ad"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7c7b",
+  "script": "seal",
+  "character": "类",
+  "reading": "lèi",
+  "description": "亦类此耳。\n⒈种，具有共同特征事物的综合同～。种～。分门别～。物伤其～。\n⒉似，像画虎～狗。刻鹄～鹜。\n⒊大抵，大致～多如斯。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-类"
+}

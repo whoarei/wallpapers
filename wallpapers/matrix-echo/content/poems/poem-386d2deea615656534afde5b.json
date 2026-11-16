@@ -1,0 +1,16 @@
+{
+  "id": "poem-386d2deea615656534afde5b",
+  "title": "寓意",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "油壁香车不再逢，峡云无迹任西东。",
+    "梨花院落溶溶月，柳絮池塘淡淡风。",
+    "几日寂寥伤酒后，一番萧瑟禁烟中。",
+    "鱼书欲寄何由达，水远山长处处同。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-寓意"
+}

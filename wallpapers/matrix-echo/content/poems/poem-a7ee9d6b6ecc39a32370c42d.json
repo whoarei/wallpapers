@@ -1,0 +1,14 @@
+{
+  "id": "poem-a7ee9d6b6ecc39a32370c42d",
+  "title": "鼓吹曲辞 凯歌六首 二",
+  "author": "岑参",
+  "dynasty": "唐",
+  "verses": [
+    "官军西出过楼兰，营幕傍临月窟寒。",
+    "蒲海晓霜凝劒尾，葱山夜雪扑旌竿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-436ddce1-56b4-4d4b-a0e0-2101cf9cebb3"
+}

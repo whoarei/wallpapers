@@ -1,0 +1,18 @@
+{
+  "id": "poem-27c2d55265205d47ad6e2b6b",
+  "title": "鹧鸪天·云到春飞若素期",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "云到春飞若素期。",
+    "柳条吹送落梅枝。",
+    "冰壶表里谁能赋，玉鉴圆明且屈卮。",
+    "村舍北，郡楼西。",
+    "治中风调只心知。",
+    "不堪野老关门醉，想见山翁倒载时。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-482",
+  "tags": []
+}

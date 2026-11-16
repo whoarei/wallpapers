@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8230",
+  "script": "kai",
+  "character": "舰",
+  "reading": "jiàn",
+  "description": "舰,御敌船\n十舰最著前。\n任何大型的航海的船只\n用桨、橹、帆或动力推进的有甲板或没有甲板的军用小船",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舰"
+}

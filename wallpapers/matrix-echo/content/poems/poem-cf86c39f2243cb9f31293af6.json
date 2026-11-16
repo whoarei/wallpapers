@@ -1,0 +1,14 @@
+{
+  "id": "poem-cf86c39f2243cb9f31293af6",
+  "title": "中秋月",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "暮云收尽溢清寒，银汉无声转玉盘。",
+    "此生此夜不长好，明月明年何处看？"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-中秋月"
+}

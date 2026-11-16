@@ -1,0 +1,16 @@
+{
+  "id": "poem-c36c17b2073e87523bb0c1c6",
+  "title": "落帽山",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "落帽山头雨脚长，消愁还是感河阳。",
+    "劳歌不解凄凉意，小饮难投酩酊乡。",
+    "共恨今秋辜彩菊，相期来岁沃霞觞。",
+    "须知四美人间少，一笑千金未易偿。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-8d735394-eae9-4ea2-96ec-b4b71aea0cb8"
+}

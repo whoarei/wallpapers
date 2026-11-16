@@ -1,0 +1,14 @@
+{
+  "id": "poem-98b5b763cdda5d51e8dfa315",
+  "title": "寄别",
+  "author": "杨凭",
+  "dynasty": "唐",
+  "verses": [
+    "晚烟洲雾共苍苍，河雁惊飞不作行。",
+    "廻斾转舟行数里，歌声犹自逐清湘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-bd7b2791-2af0-4dbb-8ad0-36686e015ab9"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-4dd5b8fbd4b2f5da408ba4f5",
+  "title": "劝人 十七",
+  "author": "义存",
+  "dynasty": "唐",
+  "verses": [
+    "磨砖不成镜，虚空终有月。",
+    "火急自提取，莫受多生屑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-7f65b1e2-ef89-459d-a250-e7956139011f"
+}

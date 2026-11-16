@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c42",
+  "script": "kai",
+  "character": "层",
+  "reading": "céng",
+  "description": "构成整个事物的一个层次\n重叠\n层台累榭。\n①量词。用于重叠、可分出层次的事物千～饼、三～楼。\n②重叠；重复～峦叠嶂。\n【层出不穷】接连不断地出现，没有尽头。层重迭；重复。穷尽；完。\n【层递】〈语〉修辞学上辞格之一。用结构相似的语句表达层层递进的事理。如'火车风驰电掣地猛冲过来……五十米，马不动。四十米，马不动。三十米，马还是不动！'\n【层析】色层分析的简称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-层"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-37d36f148af8b610c7c20b47",
+  "title": "昔昔盐二十首 前年过代北",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "代北几千里，前年又复经。",
+    "燕山云自合，胡塞草应青。",
+    "铁马喧鼙鼓，蛾眉怨锦屏。",
+    "不知羌笛曲，掩泪若为听。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-58dfc7b8-98f9-480c-8a1c-36352ddbece5"
+}

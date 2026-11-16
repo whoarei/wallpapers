@@ -1,0 +1,14 @@
+{
+  "id": "poem-fdd66a7bf1e49f154bc63077",
+  "title": "偈十六首  其一三",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "老禅不打鼓山鼓，送老来看雁范山。",
+    "杰阁重楼都不见，溪边茅屋两三间。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-c81028fd-6748-4bde-8c3e-a825be97a61e"
+}

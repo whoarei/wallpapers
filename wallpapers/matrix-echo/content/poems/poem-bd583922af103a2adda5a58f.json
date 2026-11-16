@@ -1,0 +1,18 @@
+{
+  "id": "poem-bd583922af103a2adda5a58f",
+  "title": "再次韵示师文",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "中年多病刚制酒，文字讥评慵挂口。",
+    "克家尚须狮子子，时踞风林一哮吼。",
+    "藏山有书当衣钵，端能太史牛马走。",
+    "之齐莫操竽，名楚要穿柳。",
+    "未闻狗监荐子虚，聊遣吴王质非有。",
+    "独无鼓吹娱乃公，胜日不应长袖手。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-825ce66a-0982-4e5c-a264-230a7dce7876"
+}

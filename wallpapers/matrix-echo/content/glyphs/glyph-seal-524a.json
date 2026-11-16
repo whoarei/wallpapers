@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-524a",
+  "script": "seal",
+  "character": "削",
+  "reading": "xuē；xiāo",
+  "description": "xiāo：(1)用刀切去或割去～皮。～发（fà）。刮～。～足适履（把脚削去一块来适应小鞋，喻迁就或勉强凑合）。\n(2)减少，删除～剔。～职。～损。\n(3)像刀削过似的，一般形容陡峭或消瘦～壁。～立（陡峭壁立）。瘦～。\n(4)古代用来书写的刀～刀。\nxuē：义同（一），用于一些复合词～除。～减。～弱。剥～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-削"
+}

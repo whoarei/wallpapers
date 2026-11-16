@@ -1,0 +1,14 @@
+{
+  "id": "poem-f34a685f079d44259382ded4",
+  "title": "春秋战国门 鲍叔",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "忠臣祝寿吐嘉词，鲍叔临轩酒一巵。",
+    "安不忘危臣所愿，愿思危困必无危。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-266b9e36-04c2-4248-a719-7a631d3baf11"
+}

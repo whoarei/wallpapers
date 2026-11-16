@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e204fb773c5772bb4ba3132",
+  "title": "郊庙歌辞 祀圜丘乐章 雍和",
+  "author": "褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "钦惟大帝，[载]仰皇穹。",
+    "始命田烛，爰启郊宫。",
+    "云门骇听，雷鼓鸣空。",
+    "神其介祀，景祚斯融。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-92a8846f-c399-4145-a36b-4b8c0b7d9c14"
+}

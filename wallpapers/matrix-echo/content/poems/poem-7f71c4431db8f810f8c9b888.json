@@ -1,0 +1,18 @@
+{
+  "id": "poem-7f71c4431db8f810f8c9b888",
+  "title": "宴中山",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "驱马出辽阳，万里转旗常。",
+    "对敌六奇举，临戎八阵张。",
+    "斩鲸澄碧海，卷雾扫扶桑。",
+    "昔去兰萦翠，今来桂染芳。",
+    "云芝浮碎叶，冰镜上朝光。",
+    "回首长安道，方欢宴柏梁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d7c51477-e08e-4f2e-ba3b-361807bbecea"
+}

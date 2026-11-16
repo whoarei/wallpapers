@@ -1,0 +1,18 @@
+{
+  "id": "poem-3ea509bc0af5b30e9e2f240a",
+  "title": "西江月·青锦缠条配剑",
+  "author": "谢逸",
+  "dynasty": "宋",
+  "verses": [
+    "青锦缠条配剑，紫丝络辔飞骢。",
+    "入关意气喜生风。",
+    "年少胸吞云梦。",
+    "金阙日高露泣，东华尘软香红。",
+    "争看荀氏第三龙。",
+    "春暖桃花浪涌。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-607",
+  "tags": []
+}

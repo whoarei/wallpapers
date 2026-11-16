@@ -1,0 +1,16 @@
+{
+  "id": "poem-5632ff10ff6841c2df091dda",
+  "title": "园有桃",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "园有桃，其实之肴。心之忧矣，我歌且谣。不知我者，谓我士也骄。",
+    "彼人是哉，子曰何其？心之忧矣，其谁知之？其谁知之，盖亦勿思！",
+    "园有棘，其实之食。心之忧矣，聊以行国。不知我者，谓我士也罔极。",
+    "彼人是哉，子曰何其？心之忧矣，其谁知之？其谁知之，盖亦勿思！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-108"
+}

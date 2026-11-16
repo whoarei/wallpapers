@@ -1,0 +1,22 @@
+{
+  "id": "poem-c4d20f78ed1988535bafb31a",
+  "title": "江神子・江城子·金银楼阁认蓬莱",
+  "author": "韩元吉",
+  "dynasty": "宋",
+  "verses": [
+    "金银楼阁认蓬莱。",
+    "晓烟开。",
+    "上崔嵬。",
+    "风引孤帆，谁道却船回。",
+    "鹏翼倚天鳌背稳，惊浪起，雪成堆。",
+    "翩翩黄鹤为谁来。",
+    "醉持杯。",
+    "共徘徊。",
+    "四面江声，脚底隐晴雷。",
+    "织女机头凭借问，何处更、有琼台。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-822",
+  "tags": []
+}

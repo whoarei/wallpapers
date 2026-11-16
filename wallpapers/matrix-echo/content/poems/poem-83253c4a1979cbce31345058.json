@@ -1,0 +1,14 @@
+{
+  "id": "poem-83253c4a1979cbce31345058",
+  "title": "早起",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "老欲投闲尚未成，胶胶扰扰厌余生。",
+    "方成枕上游仙梦，忽听窗前唤起声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-f1f56fb7-6e0e-458c-bfa0-e9a7c3be1ee0"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-d740c2d38725429e8b73e773",
+  "title": "月夜",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "不眠行绕石池吟，月色如银夜正深。",
+    "山路无风枯叶静，时闻露滴响空林。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-45b20fdb-cece-4743-8292-e1882422140d"
+}

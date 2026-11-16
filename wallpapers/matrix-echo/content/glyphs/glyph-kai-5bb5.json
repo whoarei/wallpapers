@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5bb5",
+  "script": "kai",
+  "character": "宵",
+  "reading": "xiāo",
+  "description": "xiāo：夜通～达旦。春～。～夜。～禁。～衣旰食（天不亮就起来，天黑了才吃饭，形容勤于政务）。～遁。元～。夜～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宵"
+}

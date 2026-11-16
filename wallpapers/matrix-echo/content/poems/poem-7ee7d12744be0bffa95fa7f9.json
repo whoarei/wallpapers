@@ -1,0 +1,16 @@
+{
+  "id": "poem-7ee7d12744be0bffa95fa7f9",
+  "title": "禹庙",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "禹庙空山里，秋风落日斜。",
+    "荒庭垂橘柚，古屋画龙蛇。",
+    "云气生虚壁，江深走白沙。",
+    "早知乘四载，疏凿控三巴。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-禹廟"
+}

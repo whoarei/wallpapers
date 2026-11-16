@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-50a8",
+  "script": "kai",
+  "character": "储",
+  "reading": "chǔ",
+  "description": "夸大,欺诳\n①存放；储藏～存、～蓄。\n②姓。\n【储君】帝王亲属中确定为继承皇位等最高统治权的人。\n【储蓄】\n①指积存的钱或物家家有～。\n②居民把暂时不用的现金存入银行或其他信用机构，以备需要时取用。\n储chǔ存，积蓄，藏着～存。～积。～蓄。～藏。～备。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-储"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5999",
+  "script": "kai",
+  "character": "妙",
+  "reading": "miào",
+  "description": "miào：(1)美，好～语。～不可言。美～。～境。～处（chù）（a.好的地点；b.美妙的方面）。绝～。～趣横生。\n(2)奇巧，神奇巧～。～计。～用。奥～。～笔生花。灵丹～药。\n(3)青春年少～年。～龄。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-妙"
+}

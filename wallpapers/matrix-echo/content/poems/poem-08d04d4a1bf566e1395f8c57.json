@@ -1,0 +1,16 @@
+{
+  "id": "poem-08d04d4a1bf566e1395f8c57",
+  "title": "崇宁元年五月十六日天汉桥月下闲步",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "闲来步月上银潢，天宇无尘夜色凉。",
+    "双阙高寻佳气耸，三街平衬绿槐长。",
+    "沈沈琳馆东西迥，褭褭珠楼左右光。",
+    "归去不须寻蜀客，莫教知到斗牛傍。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-1efd67a1-2c7f-447c-a750-a02367f1f920"
+}

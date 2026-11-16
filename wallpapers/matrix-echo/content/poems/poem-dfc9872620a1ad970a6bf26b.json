@@ -1,0 +1,15 @@
+{
+  "id": "poem-dfc9872620a1ad970a6bf26b",
+  "title": "前腔",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "唐太宗是圣明之君，犹且杀建成。",
+    "哥哥莫待祸临身，临渴怎生掘井？(生)若非兄弟说着事因，险些儿遭他毒性。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1712",
+  "tags": []
+}

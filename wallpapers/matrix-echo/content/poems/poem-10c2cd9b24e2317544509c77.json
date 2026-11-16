@@ -1,0 +1,16 @@
+{
+  "id": "poem-10c2cd9b24e2317544509c77",
+  "title": "上元",
+  "author": "郭利贞",
+  "dynasty": "唐",
+  "verses": [
+    "九陌连灯影，千门度月华。",
+    "倾城出宝骑，匝路转香车。",
+    "烂熳惟愁晓，周游不问家。",
+    "更逢清管发，处处落梅花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-8802fc47-29ba-4564-a112-a602b5b0ebf0"
+}

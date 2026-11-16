@@ -1,0 +1,16 @@
+{
+  "id": "poem-8881dc2d11d158de3b07e481",
+  "title": "□□",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "愤闷屡纵横，愁深百计生。",
+    "相思凡几度，慷慨至三更。",
+    "虏塞饶白刾，戎乡多紫荆。",
+    "关山尔许远，魂梦若为行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-3d7b1f88-33d2-4b96-93e4-b524381c42cb"
+}

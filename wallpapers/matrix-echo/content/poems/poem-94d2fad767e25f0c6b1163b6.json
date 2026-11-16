@@ -1,0 +1,15 @@
+{
+  "id": "poem-94d2fad767e25f0c6b1163b6",
+  "title": "大叔于田",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "叔于田，乘乘马。执辔如组，两骖如舞。叔在薮，火烈具举。襢裼暴虎，献于公所。将叔勿狃，戒其伤女。",
+    "叔于田，乘乘黄。两服上襄，两骖雁行。叔在薮，火烈具扬。叔善射忌，又良御忌。抑罄控忌，抑纵送忌。",
+    "叔于田，乘乘鸨。两服齐首，两骖如手。叔在薮，火烈具阜。叔马慢忌，叔发罕忌，抑释掤忌，抑鬯弓忌。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-77"
+}

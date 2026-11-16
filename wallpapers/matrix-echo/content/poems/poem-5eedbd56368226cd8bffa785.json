@@ -1,0 +1,16 @@
+{
+  "id": "poem-5eedbd56368226cd8bffa785",
+  "title": "寻桃源",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "武林春草齐，花影隔澄溪。",
+    "路远无人去，山空有鸟啼。",
+    "水垂青霭断，松偃绿萝低。",
+    "世上迷途客，经兹尽不迷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-51a4c495-3f07-4d11-b30a-5ccfc6210734"
+}

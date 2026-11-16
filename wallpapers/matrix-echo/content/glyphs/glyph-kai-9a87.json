@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9a87",
+  "script": "kai",
+  "character": "骇",
+  "reading": "hài",
+  "description": "惊骇;惊诧;惊动\n震动\n骇hài马受惊马～。〈引〉惊恐，害怕惊涛～浪。～人听闻。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骇"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c8ef8ad4d39724962d56f77e",
+  "title": "宫怨",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "露湿晴花春殿香，月明歌吹在昭阳。",
+    "似将海水添宫漏，共滴长门一夜长。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "闺怨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-3ba7240c-f2c7-47b2-aab4-df61036655ca"
+}

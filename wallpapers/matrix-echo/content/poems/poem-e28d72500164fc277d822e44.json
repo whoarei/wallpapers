@@ -1,0 +1,16 @@
+{
+  "id": "poem-e28d72500164fc277d822e44",
+  "title": "奉和圣制龙池篇",
+  "author": "卢怀慎",
+  "dynasty": "唐",
+  "verses": [
+    "代邸东南龙跃泉，清漪碧浪远浮天。",
+    "楼台影就波中出，日月光疑镜里悬。",
+    "雁沼洄流成舜海，龟书荐社应尧年。",
+    "大川既济慙为楫，报德空思奉细涓。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-525315c3-238f-40cd-9433-be42332174d3"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-964b",
+  "script": "seal",
+  "character": "陋",
+  "reading": "lòu",
+  "description": "lòu：(1)丑的，粗劣，不文明的丑～。粗～。～俗。\n(2)狭小，简略～室。简～。因～就简。～巷簟瓢（形容家境贫寒，生活清苦）。\n(3)见识小浅～。孤～寡闻。\n(4)轻视～今而荣古。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陋"
+}

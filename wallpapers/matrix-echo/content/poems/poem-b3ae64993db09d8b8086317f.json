@@ -1,0 +1,16 @@
+{
+  "id": "poem-b3ae64993db09d8b8086317f",
+  "title": "寒食内宴二首 二",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "城阙沈沈向晓寒，恩当令节赐余欢。",
+    "瑞烟深处开三殿，春雨微时引百官。",
+    "宝树楼前分绣幕，彩花廊下暎华栏。",
+    "宫筵戏乐年年别，已得三廻对御看。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-2fc0e121-f66f-4368-9c8a-1fe8635e7ad1"
+}

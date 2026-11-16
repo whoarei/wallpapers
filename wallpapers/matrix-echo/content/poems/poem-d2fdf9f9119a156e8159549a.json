@@ -1,0 +1,16 @@
+{
+  "id": "poem-d2fdf9f9119a156e8159549a",
+  "title": "寄楚琼上人",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "遥知无事日，静对五峰秋。",
+    "鸟隔寒烟语，泉和夕照流。",
+    "凭栏疎磬尽，瞑目远云收。",
+    "几句出人意，风高白雪浮。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-53edfcf6-21b2-4677-9237-5dbfef58ab14"
+}

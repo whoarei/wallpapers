@@ -1,0 +1,14 @@
+{
+  "id": "poem-ce4767304af727b8092765f8",
+  "title": "冬景",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "verses": [
+    "荷尽已无擎雨盖，菊残犹有傲霜枝。",
+    "一年好景君须记，最是橙黄橘绿时。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-冬景"
+}

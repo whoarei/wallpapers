@@ -1,0 +1,14 @@
+{
+  "id": "poem-35a45d279384c3e003e0f4c3",
+  "title": "初夏独游南园二首  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "桃李都无日，梧桐半死身。",
+    "那堪衰病意，更作独游人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-ae76d1b4-8fe9-4010-b306-3bf87c7d3812"
+}

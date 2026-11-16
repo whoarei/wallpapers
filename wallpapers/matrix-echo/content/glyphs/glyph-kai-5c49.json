@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c49",
+  "script": "kai",
+  "character": "屉",
+  "reading": "tì",
+  "description": "tì：(1)器物中可以拿出的盛放物体的部分，常常是匣形或是分层的格架抽～。笼～。\n(2)某些床或椅子的架子上可以取下的部分床～。棕～。藤～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-屉"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5199",
+  "script": "kai",
+  "character": "写",
+  "reading": "xiě",
+  "description": "输送\n倾吐,倾诉;抒发\n⒈摹画，描述～生。～实。\n⒉指书写～字。～文章。\n写xiè 1.倾泻。 2.疏泄。中医治疗方法之一。与\"补\"相对。 3.通\"卸\"。把东西解取或搬运下来。 4.泛指解除，脱卸。 5.泄漏;泄露。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-写"
+}

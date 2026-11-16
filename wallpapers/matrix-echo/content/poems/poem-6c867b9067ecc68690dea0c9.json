@@ -1,0 +1,16 @@
+{
+  "id": "poem-6c867b9067ecc68690dea0c9",
+  "title": "咏鱼鼓二首 二",
+  "author": "义存",
+  "dynasty": "唐",
+  "verses": [
+    "可怜鱼鼓子，天生从地养。",
+    "粥饭不能{歹肖}，空肚作声响。",
+    "时时惊僧睡，懒者烦恼长。",
+    "住持闹喧喧，不如打游漾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-e126ec74-bf49-413d-b423-91e6b9c189fd"
+}

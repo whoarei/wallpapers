@@ -1,0 +1,16 @@
+{
+  "id": "poem-ccd2494e2f5b3d7c599cc715",
+  "title": "归国遥·金翡翠",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "金翡翠，为我南飞传我意。",
+    "罨画桥边春水，几年花下醉。",
+    "别后只知相愧，泪珠难远寄。",
+    "罗幕绣帷鸳被，旧欢如梦里。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-39"
+}

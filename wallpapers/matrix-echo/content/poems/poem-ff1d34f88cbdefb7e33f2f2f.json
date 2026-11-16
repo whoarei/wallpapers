@@ -1,0 +1,19 @@
+{
+  "id": "poem-ff1d34f88cbdefb7e33f2f2f",
+  "title": "山居",
+  "author": "长孙佐辅",
+  "dynasty": "唐",
+  "verses": [
+    "看书爱幽寂，结宇青冥间。",
+    "飞泉引风听，古桂和云攀。",
+    "地深草木稠，境静鱼鸟闲。",
+    "阴气晚出谷，朝光先照山。",
+    "有时独杖藜，入夜犹启关。",
+    "星昏归鸟过，火出樵童还。",
+    "神体自和适，不是离人寰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-89e56e93-9ca5-442b-9aa1-42f401bc7589"
+}

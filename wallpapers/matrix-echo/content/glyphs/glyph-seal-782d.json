@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-782d",
+  "script": "seal",
+  "character": "砭",
+  "reading": "biān",
+  "description": "biān：(1)中国古代用以治病的石针～石。～针。\n(2)用石针扎皮肉治病，引申为刺或规劝～灸。针～（喻指出人的过错，劝人改正）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-砭"
+}

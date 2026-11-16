@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6837",
+  "script": "kai",
+  "character": "样",
+  "reading": "yàng",
+  "description": "假借为像”。式样\n形状,模样\n⒈形状～子。模～儿。走了～。\n⒉种类这两～。那几～。一个～儿。～ ～都行。\n⒊作为标准或代表的榜～。～板。～品儿。货～子。\n样xiàng 1.橡实。即栎实。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-样"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "poem-e79746cb8c54a78caae722d7",
+  "title": "登楼",
+  "author": "朱斌",
+  "dynasty": "唐",
+  "verses": [
+    "白日依山尽，黄河入海流。",
+    "欲穷千里目，更上一层楼。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "黄河",
+    "山水",
+    "励志",
+    "登楼",
+    "写景",
+    "哲理",
+    "名楼、庙宇",
+    "五言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-19340af6-e25d-41c8-90fc-b465d9be1134"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-0916f7aa23636c45ba55ba00",
+  "title": "和前人韵  其二",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "庭前日日见兰芽，谁把青山特地遮。",
+    "雁影寂寥君又远，归期夜夜卜灯花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-c851b010-ab63-4711-81c8-f9033cc4d81b"
+}

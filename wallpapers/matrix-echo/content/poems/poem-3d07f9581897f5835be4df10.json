@@ -1,0 +1,19 @@
+{
+  "id": "poem-3d07f9581897f5835be4df10",
+  "title": "送远曲",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "戏马台南山簇簇，山边饮酒歌别曲。",
+    "行人醉后起登车，席上回尊劝僮仆。",
+    "青天漫漫覆长路，远游无家安得住。",
+    "愿君到处自题名，他日知君从此去。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "送别",
+    "友情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-6a91a995-8301-4000-a129-d93c9224852e"
+}

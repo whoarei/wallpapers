@@ -1,0 +1,16 @@
+{
+  "id": "poem-6353541e0650c8018e91a396",
+  "title": "灞上送客",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "自省论心意不疑，五年风水因追随。",
+    "怜君有玉曾三献，顾我无才忝一枝。",
+    "烟隔灞亭人去日，雨迷秦树鴈归时。",
+    "那知此夏罇前别，却遣相如叹路歧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-db0a20c7-7a54-40c6-b0b7-4a6e8987bf97"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7267",
+  "script": "kai",
+  "character": "牧",
+  "reading": "mù",
+  "description": "mù：(1)放养牲口～童。畜～。～场。放～。游～。～民。～歌。～群。\n(2)治～民（治理人民）。\n(3)古代治民之官州～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-牧"
+}

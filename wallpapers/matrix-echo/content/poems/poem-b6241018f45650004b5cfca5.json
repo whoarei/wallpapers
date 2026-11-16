@@ -1,0 +1,18 @@
+{
+  "id": "poem-b6241018f45650004b5cfca5",
+  "title": "赐房玄龄",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "太液仙舟迥，西园隐上才。",
+    "未晓征车度，鸡鸣关早开。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "赞颂",
+    "写人",
+    "写人诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-291dd1f7-f61e-42b0-bb46-a8b28f9a8ffd"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-75d146d9c380e19befb12342",
+  "title": "同于秘丞赋瀑泉",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "大禹不知凿，来源亦自成。",
+    "色应怜众白，声合让孤清。",
+    "远势曾吞海，飞流欲喷鲸。",
+    "灵槎如可泛，天际问归程。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-bac56787-3e55-4223-9870-a395dd117efd"
+}

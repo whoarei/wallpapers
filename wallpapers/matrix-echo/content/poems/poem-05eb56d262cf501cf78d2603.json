@@ -1,0 +1,16 @@
+{
+  "id": "poem-05eb56d262cf501cf78d2603",
+  "title": "贫女",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "平生不识绣衣裳，闲把荆钗亦自伤。",
+    "镜里只应谙素貌，人间多自信红妆。",
+    "当年未嫁还忧老，终日求媒即道狂。",
+    "两意定知无说处，暗垂珠泪湿蚕筐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-e3ae9671-6997-446b-96dc-3fd66939e152"
+}

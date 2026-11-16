@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-85fb",
+  "script": "kai",
+  "character": "藻",
+  "reading": "zǎo",
+  "description": "zǎo：(1)隐花植物的一大类，无根、茎、叶等部分的区别，有叶绿素可以自己制造养料，种类很多，海水和淡水里都有，极少数可生活在陆地的阴湿地方水～。～。小球～。～类植物。\n(2)泛指生长在水中的植物，亦包括某些水生的高等植物狸～。金鱼～。\n(3)指华丽的文彩、文辞～思（多采的文思）。～丽。～绘（文采）。～井（中国传统建筑物天花板上一方一方的彩画）。～镜（指品评鉴别。亦称藻鉴”）。辞～。～饰。\n(4)古代帝王冕上系玉的五彩丝绳玉～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-藻"
+}

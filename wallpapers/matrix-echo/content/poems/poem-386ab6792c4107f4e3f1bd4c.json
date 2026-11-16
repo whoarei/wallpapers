@@ -1,0 +1,14 @@
+{
+  "id": "poem-386ab6792c4107f4e3f1bd4c",
+  "title": "和韦开州盛山十二首 流杯渠",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "渌酒白螺杯，随流去复回。",
+    "似知人把处，各向面前来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-2c498561-27a0-447d-86fc-ad0232f9ee43"
+}

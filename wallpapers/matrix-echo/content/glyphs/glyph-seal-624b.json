@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-624b",
+  "script": "seal",
+  "character": "手",
+  "reading": "shǒu",
+  "description": "shǒu：(1)人使用工具的上肢前端～心。棘～（形容事情难办，像荆棘刺手）。着（zhuó）～（开始做，动手）。～不释卷。\n(2)拿着人～一册。\n(3)亲自动手～稿。～迹。～令。～书（a.笔迹；b.亲笔书信）。\n(4)技能、本领～法（技巧，方法）。～段。留一～。\n(5)做某种事情或擅长某种技能的人国～。扒～。生产能～。\n(6)小巧易拿的～枪。～册。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-手"
+}

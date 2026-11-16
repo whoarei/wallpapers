@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6108",
+  "script": "kai",
+  "character": "愈",
+  "reading": "yù",
+  "description": "yù：(1)更，越～甚。～加。～发。～益。～演～烈。\n(2)较好，胜过孰～（哪个好）？彼～于此。\n(3)病好了痊～。病～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-愈"
+}

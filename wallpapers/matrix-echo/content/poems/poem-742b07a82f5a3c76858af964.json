@@ -1,0 +1,18 @@
+{
+  "id": "poem-742b07a82f5a3c76858af964",
+  "title": "奉和李右相赏会昌林亭",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "贤相初陪跸，灵山本降神。",
+    "作京雄近县，开阁宠平津。",
+    "地胜林亭好，时清宴赏频。",
+    "百泉萦草木，万井布郊畛。",
+    "德与春和盛，功将造化邻。",
+    "还嗤渭滨叟，岁晚独垂纶。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d6c82554-53e1-411c-9211-20bdc5147204"
+}

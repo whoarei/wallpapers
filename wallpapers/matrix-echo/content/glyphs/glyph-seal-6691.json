@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6691",
+  "script": "seal",
+  "character": "暑",
+  "reading": "shǔ",
+  "description": "shǔ：(1)热～天。～热。～假。酷～。\n(2)中医学六淫”之一。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-暑"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-dfc9432149b15c34e29fa0ca",
+  "title": "和韩子文五首  其二",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "雪痕尚使石泉润，山色不堪烟雨昏。",
+    "见说树头春意动，从头花柳看村村。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-daae49dd-4249-4fd2-9bb5-aa61d436bb8d"
+}

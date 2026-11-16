@@ -1,0 +1,15 @@
+{
+  "id": "poem-fa0e221605f4435d4381eb47",
+  "title": "苦雪四首 一",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "二月犹北风，天阴雪冥冥。",
+    "寥落一室中，怅然慙百龄。",
+    "苦愁正如此，门柳复青青。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-3e598395-2064-42df-ae7a-16bf591c0695"
+}

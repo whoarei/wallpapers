@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e7d",
+  "script": "seal",
+  "character": "幽",
+  "reading": "yōu",
+  "description": "yōu：(1)隐藏，不公开的～会。～居（ａ．隐居；ｂ．幽静的住处）。～愤。～咽。\n(2)形容地方很僻静又光线暗～谷。～静。～暗。\n(3)沉静而安闲～闲。～趣（幽雅的趣味）。～婉。\n(4)把人关起来，不让跟外人接触～禁。～闭。～囚。\n(5)迷信的人指阴间～灵。～魂。\n(6)古地名，大致相当于今中国河北省、辽宁省南部一带～州。～燕（yān）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-幽"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-563f",
+  "script": "kai",
+  "character": "嘿",
+  "reading": "hēi；mò",
+  "description": "hēi：叹词（ａ．表示惊异或赞叹，如～，真不错！”ｂ．表示招呼或提醒，如～，注意点儿！”）。\n〔～～〕象声词，形容笑声。\nmò：同默”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嘿"
+}

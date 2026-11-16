@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6574",
+  "script": "seal",
+  "character": "整",
+  "reading": "zhěng",
+  "description": "zhěng：(1)有秩序，不乱～齐。～洁。～然有序。\n(2)治理～治。～改。～编。～饬（ａ．使有条理，整顿；ｂ．整齐，有条理）。～装待发。\n(3)修理，修饰～形。～旧如新。\n(4)完全无缺，没有零头～体。完～。\n(5)使人吃苦头～人。\n(6)搞，弄咋～的？",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-整"
+}

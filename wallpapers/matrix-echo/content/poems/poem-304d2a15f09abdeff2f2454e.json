@@ -1,0 +1,14 @@
+{
+  "id": "poem-304d2a15f09abdeff2f2454e",
+  "title": "题城南书院三十四咏  其三○",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "睡觉西山月正平，荷香不断晓凉生。",
+    "园中只鹤知人意，已作金风警露声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-71d3a196-44b0-4f5a-b9c9-eea38e0626dd"
+}

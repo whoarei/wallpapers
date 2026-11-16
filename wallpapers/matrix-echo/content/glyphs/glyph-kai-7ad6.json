@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7ad6",
+  "script": "kai",
+  "character": "竖",
+  "reading": "shù",
+  "description": "纵。与横”相反\n短小\n童仆\n⒈立，直立～立。～栅列营。将竹竿～起来。\n⒉上下或前后的方向，跟\"横\"相对～排。～着砌道墙。\n⒊直『字笔形之一，从上往下写\"干\"字是二横一～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-竖"
+}

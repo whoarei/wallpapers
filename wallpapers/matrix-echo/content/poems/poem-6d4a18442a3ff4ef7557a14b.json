@@ -1,0 +1,14 @@
+{
+  "id": "poem-6d4a18442a3ff4ef7557a14b",
+  "title": "浣溪沙·钿匣菱花锦带垂",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "钿匣菱花锦带垂，静临栏槛卸头时，约鬟低珥算归期。",
+    "茂苑草青湘渚阔，梦余空有漏依依，二年终日损芳菲。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-27"
+}

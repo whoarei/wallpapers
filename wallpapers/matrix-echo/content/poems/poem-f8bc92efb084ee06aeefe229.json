@@ -1,0 +1,14 @@
+{
+  "id": "poem-f8bc92efb084ee06aeefe229",
+  "title": "松石  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "笔端陶冶不无神，纸面流沙秋后云。",
+    "点破沙痕便成水，一溪松石浪沄沄。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-dfdd70c3-51aa-4ebc-8b63-30a047f0e38e"
+}

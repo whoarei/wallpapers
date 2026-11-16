@@ -1,0 +1,17 @@
+{
+  "id": "poem-7b4f14d39b19496ec6185039",
+  "title": "浣溪沙·举案家风未肯低",
+  "author": "仲并",
+  "dynasty": "宋",
+  "verses": [
+    "举案家风未肯低。",
+    "清心端自秀深闺。",
+    "芝兰玉树宁馨儿。",
+    "早岁安禅灵照女，静中经卷手常携。",
+    "声名要与断机齐。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-180",
+  "tags": []
+}

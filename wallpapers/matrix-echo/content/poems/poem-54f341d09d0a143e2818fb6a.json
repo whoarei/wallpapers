@@ -1,0 +1,14 @@
+{
+  "id": "poem-54f341d09d0a143e2818fb6a",
+  "title": "资圣院",
+  "author": "孙谔",
+  "dynasty": "宋",
+  "verses": [
+    "四山藏一寺，方丈压诸峰。",
+    "回首坐禅处，白云深几重。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-8dc3dc42-fd01-45be-973e-2859e3d3c387"
+}

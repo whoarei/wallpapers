@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-70d9",
+  "script": "kai",
+  "character": "烙",
+  "reading": "lào；luò",
+  "description": "lào：(1)用器物烫熨～衣服。～印。～花（亦称烫花”）。\n(2)把面食放在烧热的铛或锅上加热使熟～饼。～锅贴。\nluò：〔炮（páo）～〕见炮1”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-烙"
+}

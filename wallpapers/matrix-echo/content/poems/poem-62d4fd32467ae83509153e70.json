@@ -1,0 +1,14 @@
+{
+  "id": "poem-62d4fd32467ae83509153e70",
+  "title": "挽敖仪仲  其三",
+  "author": "刘翼",
+  "dynasty": "宋",
+  "verses": [
+    "昼倚篮舆饯一杯，殷勤别语到帘帏。",
+    "那知此夜成长往，书屋无人月掩扉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-9ce2e3c1-c3ed-4664-9eb1-ee5e9b69690d"
+}

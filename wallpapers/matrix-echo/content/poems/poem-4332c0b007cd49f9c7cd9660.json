@@ -1,0 +1,14 @@
+{
+  "id": "poem-4332c0b007cd49f9c7cd9660",
+  "title": "赠童尼",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "旧时艳质如明玉，今日空心是冷灰。",
+    "料得襄王惆怅极，更无云雨到阳台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e6dc08a7-68bb-4817-a92f-48c2bc8657a6"
+}

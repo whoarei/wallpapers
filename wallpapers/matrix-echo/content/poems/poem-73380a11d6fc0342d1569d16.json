@@ -1,0 +1,16 @@
+{
+  "id": "poem-73380a11d6fc0342d1569d16",
+  "title": "喜晴",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "诗翁高兴动新晴，未踏湖山句已清。",
+    "领略风光初入眼，指麾泉石欲盱衡。",
+    "屡传黼扆方图旧，应有锋车便趣行。",
+    "莫向苕溪恋行乐，葵心元向太阳倾。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-d0425c07-0459-42d7-9866-393ede4088aa"
+}

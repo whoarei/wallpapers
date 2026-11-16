@@ -1,0 +1,16 @@
+{
+  "id": "poem-c602ee72c4e006c8bceeea9e",
+  "title": "重忆山居六首 罗浮山",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "龙伯钓鼇时，蓬莱一峰坼。",
+    "飞来碧海畔，遂与三山隔。",
+    "其下多长溪，潺湲淙乱石。",
+    "知君分如此，赠逾荆山璧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b6ccc575-b4f1-4027-b442-811fc39a451d"
+}

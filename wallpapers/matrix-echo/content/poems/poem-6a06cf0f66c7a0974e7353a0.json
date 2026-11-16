@@ -1,0 +1,16 @@
+{
+  "id": "poem-6a06cf0f66c7a0974e7353a0",
+  "title": "资圣寺送甘二",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "浮生信如寄，薄宦夫何有。",
+    "来往本无归，别离方此受。",
+    "柳色蔼春余，槐阴清夏首。",
+    "不觉御沟上，衔悲执桮酒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-035eeb3b-429d-4d3c-a8e4-ab063632cfa3"
+}

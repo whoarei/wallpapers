@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b20",
+  "script": "seal",
+  "character": "欠",
+  "reading": "qiàn",
+  "description": "qiàn：(1)人在疲倦时张口出气打哈～。\n(2)身体稍稍向上移动～身。\n(3)短少，不够～缺。～安。\n(4)借别人的财物没有还或应当给人的事物还没有给拖～。～账。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-欠"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f0e86d0f89caa52d39f2bf7e",
+  "title": "早春题湖上顾氏新居二首 一",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "近得水云看，门长侵早开。",
+    "到时微有雪，行处又无苔。",
+    "劝酒客初醉，留茶僧未来。",
+    "每逢晴暖日，唯见乞花栽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-43ee6f2a-01cc-44e1-a732-3a68788368bd"
+}

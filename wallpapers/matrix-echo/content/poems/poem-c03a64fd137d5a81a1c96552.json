@@ -1,0 +1,16 @@
+{
+  "id": "poem-c03a64fd137d5a81a1c96552",
+  "title": "薛廷范从事自宣城至因赠",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "少年从事霍嫖姚，来自枫林度柳桥。",
+    "金管别筵楼灼灼，玉溪回首马萧萧。",
+    "清风气调真君辈，知己风流满圣朝。",
+    "独有故人愁欲死，晚簷疎雨动空瓢。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-cc0602d8-7606-4e6f-a993-739027884900"
+}

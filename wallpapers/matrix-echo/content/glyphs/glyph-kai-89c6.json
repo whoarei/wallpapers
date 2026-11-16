@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-89c6",
+  "script": "kai",
+  "character": "视",
+  "reading": "shì",
+  "description": "⒈看～力。～若无睹。\n⒉看待，看作轻～。～如寇仇。～少如长。\n⒊观察，察看～察。巡～。\n⒋活，生存长生久～。\n①眼睛与所看目标之间的假想直线。\n②眼睛所能看到的。〈喻〉注意的方向或目标她的话是在转移大家的～线。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-视"
+}

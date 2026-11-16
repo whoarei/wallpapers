@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9ca2",
+  "script": "seal",
+  "character": "鲢",
+  "reading": "lián",
+  "description": "鲢鱼\n鲢lián鱼名。也叫\"白鲢\"。体侧扁，银白色，头小，鳞细。它是我国常见的淡水食用鱼之一。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲢"
+}

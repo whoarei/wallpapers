@@ -1,0 +1,16 @@
+{
+  "id": "poem-d17dbe1dc83da40d320f0fc3",
+  "title": "句",
+  "author": "李揆",
+  "dynasty": "唐",
+  "verses": [
+    "免相践蓬阁，卧疴淮海滨。",
+    "偶逢潘川守，宛是洛阳亲。",
+    "（「洛阳」，《四部丛刊》影明本、中华上编本《唐诗纪事》皆作「潘阳」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-db2932d1-8a3f-4693-b68a-99f4dae77969"
+}

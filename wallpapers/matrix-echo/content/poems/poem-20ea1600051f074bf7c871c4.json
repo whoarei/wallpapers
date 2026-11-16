@@ -1,0 +1,16 @@
+{
+  "id": "poem-20ea1600051f074bf7c871c4",
+  "title": "胡笳十八拍 第一拍",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "四海十年不解兵，朝降夕叛幽蓟城。",
+    "杀气南行动天轴，犬戎也复临咸京。",
+    "铁马长鸣不知数，虏骑凭陵杂风雨。",
+    "自是君王未备知，一生长恨奈何许。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-3f07da6b-2e85-4745-ae53-7785bcf140bc"
+}

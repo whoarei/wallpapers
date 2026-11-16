@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-96c0",
+  "script": "seal",
+  "character": "雀",
+  "reading": "què；qiāo；qiǎo",
+  "description": "què：鸟类的一科，吃粮食镣昆虫。特指麻雀”，泛指小鸟～跃（高兴得像雀儿那样跳跃）。～盲（即夜盲症”）。～斑。～噪（名声宣扬，含贬义）。\nqiāo：〔～子〕即雀斑”。\nqiǎo：义同（一），用于一些口语词～盲眼（即雀（què）盲”）。家～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-雀"
+}

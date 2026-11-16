@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5de6",
+  "script": "seal",
+  "character": "左",
+  "reading": "zuǒ",
+  "description": "zuǒ：(1)面向南时，东的一边，与右”相对～手。～方。～右。～膀右臂。\n(2)地理上指东方山～。江～。\n(3)指政治思想上进步或超过现实条件许可的过头思想和行动～派。～翼。～倾。\n(4)斜，偏，差错～脾气。～嗓子。\n(5)降低官职～迁。\n(6)古同佐”，佐证。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-左"
+}

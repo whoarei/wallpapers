@@ -1,0 +1,16 @@
+{
+  "id": "poem-f0f93df136db373064eac943",
+  "title": "闻大愿和尚顺世三首 一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "王室今如毁，仍闻丧我师。",
+    "古容图得否，内院去无疑。",
+    "岳鬼月中哭，松龛雪次隳。",
+    "直须文五色，始可立高碑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f25f808d-b3dc-46a3-94f1-27d63e18543a"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-8839857f4c6aeaa350c845fe",
+  "title": "麻婆子",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(丑上)画烛画烛光摇映，宾相两边排。",
+    "闻知姑娘嫁穷胎，好酒吃大碗，好肉吃大块，吃得桃花上脸来。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8836",
+  "tags": []
+}

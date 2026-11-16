@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8411",
+  "script": "seal",
+  "character": "萑",
+  "reading": "huán",
+  "description": "huán：古代指芦苇一类的植物。\n〔～苻〕中国春秋时郑国沼泽名，据记载，那里密生芦苇，盗贼出没◇因以代指贼之巢穴或盗贼本身。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-萑"
+}

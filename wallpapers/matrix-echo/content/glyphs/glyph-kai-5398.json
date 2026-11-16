@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5398",
+  "script": "kai",
+  "character": "厘",
+  "reading": "lí",
+  "description": "lí：(1)小数名，百分之一～米。\n(2)单位名（ａ．长度单位，中国一市尺的千分之一；ｂ．重量单位，中国一市两的千分之一；ｃ．地积单位，中国一市亩的百分之一；ｄ．利率单位，年利一厘按百分之一计，月利一厘按千分之一计）。\n(3)治理，整理～正（订正）。～革（调整改革）。\n(4)古同嫠”，寡妇。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-厘"
+}

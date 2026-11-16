@@ -1,0 +1,14 @@
+{
+  "id": "poem-452a0a2d368af3afaa6d64c2",
+  "title": "洋州三十景 涵虚亭",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "危栏试睡听，空翠如何把。",
+    "悄悄忧世心，临风一倾泻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8eaeef5b-789b-4ef3-91c5-5534cea8fc74"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-15090eb112d86319f234c138",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "不丰岁，荒歉年，生离死别真可怜。",
+    "纵有八口人家，饥饿应难免。",
+    "子忍饥，妻忍寒。",
+    "痛哭声，恁哀怨。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5050",
+  "tags": []
+}

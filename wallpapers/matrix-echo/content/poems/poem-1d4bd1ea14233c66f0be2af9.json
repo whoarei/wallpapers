@@ -1,0 +1,16 @@
+{
+  "id": "poem-1d4bd1ea14233c66f0be2af9",
+  "title": "与卢象集朱家",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "主人能爱客，终日有逢迎。",
+    "贳得新丰酒，复闻秦女筝。",
+    "柳条疎客舍，槐叶下秋城。",
+    "语笑且为乐，吾将达此生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7a527e41-ccaf-442c-98ea-99ab9b11a3bf"
+}

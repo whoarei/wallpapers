@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7838",
+  "script": "kai",
+  "character": "砸",
+  "reading": "zá；zai",
+  "description": "zá：(1)打，捣～碎。～地基。～明火（方言，抢劫）。～饭碗（喻失业）。～锅（喻办事失败）。\n(2)打坏，打破碗～了。\n(3)失败戏演～了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-砸"
+}

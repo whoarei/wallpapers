@@ -1,0 +1,18 @@
+{
+  "id": "poem-04724661380ab1a39d4b8539",
+  "title": "拟赋江南寄梅花诗",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "蔚宗居垅首，陆凯在江南。",
+    "手折梅花寄，人逢驿使堪。",
+    "吴都寻半吐，楚岸摘新含。",
+    "雪里开才一，楼头弄未三。",
+    "情深殊折柳，意重胜题柑。",
+    "溪上千株玉，归欤待自探。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-38df726b-2c6b-45ce-81d1-4c76e9d22480"
+}

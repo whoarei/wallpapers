@@ -1,0 +1,14 @@
+{
+  "id": "poem-890c67e42e6f884780276931",
+  "title": "咏史诗 会稽山",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "越王兵败已山栖，岂望全生出会稽。",
+    "何事夫差无远虑，更开罗网放鲸鲵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-06a87924-9f8e-4275-b941-00840794999e"
+}

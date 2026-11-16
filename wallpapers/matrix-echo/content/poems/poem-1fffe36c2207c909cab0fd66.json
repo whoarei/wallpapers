@@ -1,0 +1,16 @@
+{
+  "id": "poem-1fffe36c2207c909cab0fd66",
+  "title": "谒李尊师",
+  "author": "奚贾",
+  "dynasty": "唐",
+  "verses": [
+    "万物返常性，惟道贵自然。",
+    "先生容其微，隐几为列仙。",
+    "炼魄闭琼户，养毛飞洞天。",
+    "将知逍遥久，得道无岁年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-ac8e5604-8985-4de3-bc4a-2904364dcfe9"
+}

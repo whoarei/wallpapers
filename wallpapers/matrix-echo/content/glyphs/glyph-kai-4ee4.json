@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ee4",
+  "script": "kai",
+  "character": "令",
+  "reading": "lìng；líng；lǐng",
+  "description": "líng：〔～狐〕ａ．古地名，在今山西省临猗县一带；ｂ．复姓。\nlǐng：量词，印刷用的原张平版纸五百张为一令。\nlìng：(1)上级对下级的指示命～。法～。朝（zhāo）～夕改。\n(2)古代官名县～。～尹。尚书～。\n(3)使，使得～人兴奋。\n(4)时节时～。节～。\n(5)美好，善～名。～辰。～闻（好名声）。\n(6)敬辞，用于对方的亲属或有关系的人～尊。～堂。～岳。～郎。～爱。\n(7)短的词调（diào），散曲中不成套的曲（多用于词调、曲调名）小～。如梦～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-令"
+}

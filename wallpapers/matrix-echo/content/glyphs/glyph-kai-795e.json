@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-795e",
+  "script": "kai",
+  "character": "神",
+  "reading": "shén",
+  "description": "shén：(1)迷信的人称天地万物的创造者和所崇拜的人死后的精灵～仙。～怪。～主。～社。～农。～甫。～权。鬼使～差。\n(2)不可思议的，特别希奇的～秘。～奇。～异。～话。～机妙算。\n(3)不平凡的，特别高超的～勇。～医。～通。～圣。～速。\n(4)心思，心力，注意力劳～。凝～。～魂颠倒。\n(5)表情～色。～采。～姿。～志。\n(6)精神～清气爽。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-神"
+}

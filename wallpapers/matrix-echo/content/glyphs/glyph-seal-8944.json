@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8944",
+  "script": "seal",
+  "character": "襄",
+  "reading": "xiāng",
+  "description": "xiāng：(1)帮助，辅佐～办。～理。～助。～赞（赞助）。\n(2)完成，相助而成葬定公，雨，不克～事”。\n(3)冲上～陵。\n(4)上举，昂起臣闻交龙～首奋翼”。\n(5)高～岸夷涂。”\n(6)古同攘”，扫除。\n(7)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-襄"
+}

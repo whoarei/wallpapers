@@ -1,0 +1,15 @@
+{
+  "id": "poem-5e46fd56644d067a64bd4ecc",
+  "title": "桑中",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "爰采唐矣？沬之乡矣。云谁之思？美孟姜矣。期我乎桑中，要我乎上宫，送我乎淇之上矣。",
+    "爰采麦矣？沬之北矣。云谁之思？美孟弋矣。期我乎桑中，要我乎上宫，送我乎淇之上矣。",
+    "爰采葑矣？沬之东矣。云谁之思？美孟庸矣。期我乎桑中，要我乎上宫，送我乎淇之上矣。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-47"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6400",
+  "script": "seal",
+  "character": "搀",
+  "reading": "chān",
+  "description": "混杂;搀和\n①搀扶让我～你一把。\n②把一种东西混入另一种东西里～沙子、～假。\n【掺兑】把成分不同的东西混合在一起把白面和玉米面～在一起蒸丝糕。\n⒈挽，牵扶～扶。手～手。～着老大娘走人行道。\n⒉混合～杂。～点糖。不能～沙子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-搀"
+}

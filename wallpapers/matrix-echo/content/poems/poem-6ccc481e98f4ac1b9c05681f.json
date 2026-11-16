@@ -1,0 +1,20 @@
+{
+  "id": "poem-6ccc481e98f4ac1b9c05681f",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "江陵在眼前。",
+    "(合)五鸡山至。",
+    "(净)如投着地脉。",
+    "(合)不辞迢递。",
+    "(生)快行时我赏你。",
+    "(合)领台旨。",
+    "(净)回马不用鞭。",
+    "(合)不觉过一里又一里。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2676",
+  "tags": []
+}

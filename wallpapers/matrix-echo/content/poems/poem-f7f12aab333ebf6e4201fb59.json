@@ -1,0 +1,14 @@
+{
+  "id": "poem-f7f12aab333ebf6e4201fb59",
+  "title": "山鹧鸪词",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "南越岭头山鹧鸪，传是当时守贞女。",
+    "化为飞鸟怨何人，犹有啼声带蛮语。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-9ff3b293-afd6-4eef-ad94-aecea2746558"
+}

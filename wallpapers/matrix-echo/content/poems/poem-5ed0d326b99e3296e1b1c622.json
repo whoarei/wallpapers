@@ -1,0 +1,14 @@
+{
+  "id": "poem-5ed0d326b99e3296e1b1c622",
+  "title": "留别阎士和",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "不惯人间别，多应忘别时。",
+    "逢山又逢水，只畏却来迟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-a2c15180-6f0d-4087-934d-79fd364e25b9"
+}

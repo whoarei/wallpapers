@@ -1,0 +1,16 @@
+{
+  "id": "poem-061cfa4ec386a4221ec56cb6",
+  "title": "十诗谢廖计使  其七",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "古今国士遇，揆我不尽无。",
+    "顽钟未容器，巧匠徒为模。",
+    "即今鹗书上，逮此鹤发余。",
+    "但恐良夜梦，翩翾只江湖。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-1ae7211c-0836-4d64-8a39-9497290ef4b0"
+}

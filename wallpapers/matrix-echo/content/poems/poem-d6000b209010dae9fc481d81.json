@@ -1,0 +1,16 @@
+{
+  "id": "poem-d6000b209010dae9fc481d81",
+  "title": "三年冬大礼五首 二",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "海日西飞度禁林，太清宫殿月沉沉。",
+    "不闻北斗倾尧酒，空觉南风入舜琴。",
+    "歌压钧天闲梦尽，诏归秋水道情深。",
+    "雪风更起古杉叶，时送步虚清磬音。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-efc07ef1-651f-4c45-9125-010ad5982816"
+}

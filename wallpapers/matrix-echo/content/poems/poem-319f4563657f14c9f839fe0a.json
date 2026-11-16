@@ -1,0 +1,16 @@
+{
+  "id": "poem-319f4563657f14c9f839fe0a",
+  "title": "桐江闲居作十二首 十二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "囊非扑满器，门更绝人过。",
+    "土井连冈冷，风帘迸叶多。",
+    "村童顽似铁，山菜硬如莎。",
+    "唯有前山色，窗中无奈何。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-cf25b759-79db-45d1-9b69-610f5d730ff4"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ea65ebce5896378775a3ea11",
+  "title": "送郑侍御谪闽中",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "谪去君无恨，闽中我旧过。",
+    "大都秋雁少，只是夜猿多。",
+    "东路云山合，南天瘴疠和。",
+    "自当逢雨露，行矣顺风波。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-送鄭侍御謫閩中"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6577",
+  "script": "kai",
+  "character": "敷",
+  "reading": "fū",
+  "description": "fū：(1)布置，铺开，摆开～设。～陈（铺陈，详细叙述）。～衍（ａ．叙述并发挥，亦作敷演”；ｂ．做事不够负责或待人不恳切，只做表面上的应付；ｃ．勉强维持）。\n(2)涂上，搽上～药。～粉。\n(3)足够入不～出。\n(4)古同肤”，表面的。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-敷"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6dc5",
+  "script": "seal",
+  "character": "淅",
+  "reading": "xī",
+  "description": "xī：淘米百姓开门而待之～，～米而储之，唯恐其不来也”。\n〔～～〕象声词，形容轻微的风雨声，如秋风～～吹我衣”。\n〔～沥〕象声词，形容雨雪声，落叶声，风声，如霰～～而先集，雪纷糅而遂多”。叠用作淅淅沥沥”，如～～～～下起雨来”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淅"
+}

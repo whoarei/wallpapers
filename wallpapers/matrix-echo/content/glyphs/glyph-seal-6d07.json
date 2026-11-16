@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6d07",
+  "script": "seal",
+  "character": "洇",
+  "reading": "yīn",
+  "description": "yīn：墨水着纸向周围散开这种纸写字不～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-洇"
+}

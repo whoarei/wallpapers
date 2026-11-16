@@ -1,0 +1,15 @@
+{
+  "id": "poem-b106e5b648e5f2545ecb926a",
+  "title": "葛覃",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "葛之覃兮，施于中谷，维叶萋萋。黄鸟于飞，集于灌木，其鸣喈喈。",
+    "葛之覃兮，施于中谷，维叶莫莫。是刈是濩，为𫄨为绤，服之无斁。",
+    "言告师氏，言告言归。薄污我私，薄浣我衣。害浣害否，归宁父母。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-1"
+}

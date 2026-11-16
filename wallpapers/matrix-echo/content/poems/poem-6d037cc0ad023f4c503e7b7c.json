@@ -1,0 +1,17 @@
+{
+  "id": "poem-6d037cc0ad023f4c503e7b7c",
+  "title": "别离曲",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "行人结束出门去，几时更踏门前路。",
+    "忆昔君初纳采时，不言身属辽阳戍。",
+    "早知今日当别离，成君家计良为谁。",
+    "男儿生身自有役，那得误我少年时。",
+    "不如逐君征战死，谁能独老空闺里。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-e746df5e-8161-458b-8bbf-4ca3f3c90b91"
+}

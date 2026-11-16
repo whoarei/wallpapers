@@ -1,0 +1,16 @@
+{
+  "id": "poem-32364b4af359f610cf228ddc",
+  "title": "故燕国相公挽歌二首 二",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "共美持衡日，皆言折槛时。",
+    "蜀侯供庙略，汉主缺台司。",
+    "车马行仍止，笳箫咽又悲。",
+    "今年杜陵陌，殄瘁百花迟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-5a5dcd73-11dd-46df-9eb3-e345148ad909"
+}

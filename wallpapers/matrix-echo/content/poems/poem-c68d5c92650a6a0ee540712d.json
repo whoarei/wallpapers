@@ -1,0 +1,14 @@
+{
+  "id": "poem-c68d5c92650a6a0ee540712d",
+  "title": "酬王哦松八景  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "横玉临江展碧纨，冯夷庭院水晶寒。",
+    "天教两赋酬风雅，不谓人闲作画看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-9c0d5054-73de-4582-a4be-9e4a9177dc6c"
+}

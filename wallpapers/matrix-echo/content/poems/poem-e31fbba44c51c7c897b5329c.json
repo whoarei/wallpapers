@@ -1,0 +1,14 @@
+{
+  "id": "poem-e31fbba44c51c7c897b5329c",
+  "title": "和段成式 一",
+  "author": "周繇",
+  "dynasty": "唐",
+  "verses": [
+    "回簪转黛喜猜防，粉署裁诗助酒狂。",
+    "若遇仙丹偕羽化，便随萧史亦何伤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-765d2cc2-4974-4991-91b4-ba2d5e8a173c"
+}

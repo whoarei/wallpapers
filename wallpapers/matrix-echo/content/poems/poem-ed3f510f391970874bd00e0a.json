@@ -1,0 +1,14 @@
+{
+  "id": "poem-ed3f510f391970874bd00e0a",
+  "title": "胡捣练",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦上)兄嫂没前程，罚我挨磨到天明。",
+    "把我孩儿撇在水，火公救不见回音。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8961",
+  "tags": []
+}

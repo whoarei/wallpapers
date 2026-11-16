@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e3d",
+  "script": "seal",
+  "character": "鸽",
+  "reading": "gē",
+  "description": "鸽派\n他们是国会中鸽派代表,常常反对鹰派的冷战主张\n鸽哨\n空中划过一串清脆的鸽哨声\n鸽子",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鸽"
+}

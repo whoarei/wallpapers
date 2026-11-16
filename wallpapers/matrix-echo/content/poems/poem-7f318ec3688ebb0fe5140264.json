@@ -1,0 +1,19 @@
+{
+  "id": "poem-7f318ec3688ebb0fe5140264",
+  "title": "渡汉江",
+  "author": "李频",
+  "dynasty": "唐",
+  "verses": [
+    "岭外音书绝，经年复历春。",
+    "近乡情更怯，不敢问来人。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "五言绝句",
+    "思乡",
+    "唐诗三百首",
+    "渡江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a6144ae0-3bcf-4503-b58d-9abf24d6608c"
+}

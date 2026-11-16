@@ -1,0 +1,22 @@
+{
+  "id": "poem-2606ace1bca4f818fd0dbd7d",
+  "title": "唐多令·何处合成愁",
+  "author": "吴文英",
+  "dynasty": "宋",
+  "verses": [
+    "何处合成愁。",
+    "离人心上秋。",
+    "纵芭蕉、不雨也飕飕。",
+    "都道晚凉天气好，有明月、怕登楼。",
+    "年事梦中休。",
+    "花空烟水流。",
+    "燕辞归、客尚淹留。",
+    "垂柳不萦裙带住，漫长是、系行舟。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-86"
+}

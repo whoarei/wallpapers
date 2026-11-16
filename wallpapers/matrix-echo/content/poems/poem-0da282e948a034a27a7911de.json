@@ -1,0 +1,18 @@
+{
+  "id": "poem-0da282e948a034a27a7911de",
+  "title": "如梦令·罗袜半钩新月",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "罗袜半钩新月。",
+    "更把凤鞋珠结。",
+    "步步著金莲，行得轻轻瞥瞥。",
+    "难说。",
+    "难说。",
+    "真是世间奇绝。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-170",
+  "tags": []
+}

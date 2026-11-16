@@ -1,0 +1,16 @@
+{
+  "id": "poem-1319ac098329ad579fdbc6df",
+  "title": "依韵奉和司徒侍中龙兴灯夕",
+  "author": "史卫卿",
+  "dynasty": "宋",
+  "verses": [
+    "宝炬燃红映百坊，佛灯相照有余光。",
+    "樽前尽被公孙礼，席上惟无处士狂。",
+    "午夜笙歌欢是伯，几家帘幕醉成乡。",
+    "都人犹怕春宵短，共乐何妨舞袖长。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-6a776a92-7ab3-4ce0-a812-e07ad6dcb95c"
+}

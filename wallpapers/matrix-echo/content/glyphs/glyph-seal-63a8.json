@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-63a8",
+  "script": "seal",
+  "character": "推",
+  "reading": "tuī",
+  "description": "tuī：(1)手抵物体向外或向前用力使物移动～车。～搡。～拿。～倒。～敲。顺水～舟。\n(2)使用工具向前移动进行工作～头。～土。\n(3)使事情开展～广。～行（xíng）。～动。～销。\n(4)进一步想，由已知之点想到其它～及。～究。～导。～论。～测。～事。\n(5)往后挪动（时间上）～延。～移。\n(6)辞让，脱卸～让。～却。～委。～辞。\n(7)举荐，指出某人优点～许。～重（zhòng）。～举。～崇。\n(8)让出，献出～恩。～心置腹。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-推"
+}

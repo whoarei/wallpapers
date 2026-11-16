@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5a18",
+  "script": "kai",
+  "character": "娘",
+  "reading": "niáng",
+  "description": "niáng：(1)母亲～亲。～家。爹～。\n(2)对年轻女子的称呼～子。姑～。娇～。新～。\n(3)称长一辈或年长的已婚妇女大～。婶～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-娘"
+}

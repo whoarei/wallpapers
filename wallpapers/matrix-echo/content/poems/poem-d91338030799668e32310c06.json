@@ -1,0 +1,18 @@
+{
+  "id": "poem-d91338030799668e32310c06",
+  "title": "问遥山禅老",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "天与松子寿，独饮日月精。",
+    "复令颜子贤，胡为夭其生。",
+    "吾将寻河源，上天问天何不平。",
+    "我将诘仙老，大道无私谁强名。",
+    "仙老难逢天不近，世人何人解应尽。",
+    "明朝欲向翅头山，问取禅公此义还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-9f0efffd-61e5-412c-9804-789f66959bbc"
+}

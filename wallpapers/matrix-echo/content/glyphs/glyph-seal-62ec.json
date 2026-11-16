@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62ec",
+  "script": "seal",
+  "character": "括",
+  "reading": "kuò；guā",
+  "description": "kuò：(1)扎，束～发（束起头发）。～约肌。\n(2)包容包～。概～。总～。囊～。\nguā：榨取，搜求搜～（亦作搜刮”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-括"
+}

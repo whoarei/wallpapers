@@ -1,0 +1,16 @@
+{
+  "id": "poem-594e5c48f004bb11ca1990e1",
+  "title": "多景楼",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "畴昔南徐地，登临北固楼。",
+    "平原迷故国，沧海接江流。",
+    "木落烟莎晚，城孤鼓角秋。",
+    "寄言鸥鹭侣，吾已具扁舟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-4ce3dd34-fd42-4444-a26b-84e4f4859707"
+}

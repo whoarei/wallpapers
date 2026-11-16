@@ -1,0 +1,16 @@
+{
+  "id": "poem-c94526baa90430cc34f1ccac",
+  "title": "和主司王起",
+  "author": "孟守",
+  "dynasty": "唐",
+  "verses": [
+    "科文又主守初时，光显门生济会期。",
+    "美擅东堂登甲乙，荣同内署侍恩私。",
+    "群莺共喜新迁木，双凤皆当即入池。",
+    "别有倍深知感士，曾经两度得芳枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-922c39a1-9e9c-4353-b82c-ce2cf1dd11ec"
+}

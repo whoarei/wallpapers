@@ -1,0 +1,16 @@
+{
+  "id": "poem-41024aa9a2ad272893523891",
+  "title": "武陵桃源送人",
+  "author": "包融",
+  "dynasty": "唐",
+  "verses": [
+    "武陵川径入幽遐，中有鸡犬秦人家。",
+    "先时见者为谁耶，源水今流桃复花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "送别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a01291fb-dbf6-478b-a177-2e8bbb9c5584"
+}

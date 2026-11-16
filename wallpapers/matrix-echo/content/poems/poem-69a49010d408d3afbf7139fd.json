@@ -1,0 +1,17 @@
+{
+  "id": "poem-69a49010d408d3afbf7139fd",
+  "title": "朝中措·雕车南陌碾香尘",
+  "author": "曾觌",
+  "dynasty": "宋",
+  "verses": [
+    "雕车南陌碾香尘。",
+    "一梦尚如新。",
+    "回首旧游何在，柳烟花雾迷春。",
+    "如今霜鬓，愁停短棹，懒傍清尊。",
+    "二十四桥风月，寻思只有消魂。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-403",
+  "tags": []
+}

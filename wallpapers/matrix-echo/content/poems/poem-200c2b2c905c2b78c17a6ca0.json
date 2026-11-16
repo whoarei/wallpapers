@@ -1,0 +1,14 @@
+{
+  "id": "poem-200c2b2c905c2b78c17a6ca0",
+  "title": "送韦向睦州谒独孤使君汜",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "才子南看多远情，闲舟荡漾任春行。",
+    "新安江色长如此，何似新安太守清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-76f65785-3e98-4acc-a7f8-5c6cc6388ec9"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-952d",
+  "script": "seal",
+  "character": "锭",
+  "reading": "dìng",
+  "description": "膏灯\n金属大铸块\n块状物\n纺车或纺纱机上绕纱的尖头圆杆\n做成块状的药物\n计量金、银、墨等物的单位\n锭剂\n①锭子。纺车或纺纱机上绕纱的机件。\n③量词。用于成锭的东西一～墨。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锭"
+}

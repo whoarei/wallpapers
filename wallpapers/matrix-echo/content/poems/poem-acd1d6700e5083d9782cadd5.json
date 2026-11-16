@@ -1,0 +1,20 @@
+{
+  "id": "poem-acd1d6700e5083d9782cadd5",
+  "title": "踏莎行·情似游丝",
+  "author": "周紫芝",
+  "dynasty": "宋",
+  "verses": [
+    "情似游丝，人如飞絮。",
+    "泪珠阁定空相觑。",
+    "一溪烟柳万丝垂，无因系得兰舟住。",
+    "雁过斜阳，草迷烟渚。",
+    "如今已是愁无数。",
+    "明朝且做莫思量，如何过得今宵去。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-273"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-d3d39a19455076e751b1b692",
+  "title": "赠山人二首  其一",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "水秀山明几百年，一朝城市化荒烟。",
+    "朱门富贵已如此，犹有人争旧墓田。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-eba7db73-4cb3-4f78-ba95-953d258f51ed"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-e2d789ff572ec253c6dff596",
+  "title": "逸人歌赠李山人",
+  "author": "张楚金",
+  "dynasty": "唐",
+  "verses": [
+    "上有尧兮下有田，眠松阳兮漱颍流。",
+    "其貌古，其心幽，浩歌一曲兮林壑秋。",
+    "道险可惊兮人莫用，乐天知命兮守岩洞。",
+    "时击磬兮嗟鸣凤，吾欲知往古之不可追，自悠悠于凡梦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ab3e9d77-64ad-41b0-866f-3b51e0f9387b"
+}

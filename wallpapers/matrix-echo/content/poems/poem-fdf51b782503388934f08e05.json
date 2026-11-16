@@ -1,0 +1,14 @@
+{
+  "id": "poem-fdf51b782503388934f08e05",
+  "title": "春怨",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "花满帘栊欲度春，此时夫壻在咸秦。",
+    "绿窗孤寝难成寐，紫燕双飞似弄人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-655946f1-eda9-469c-bc5b-da8dc465e9cf"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-efa00d64cadb4a43a7a309ce",
+  "title": "和主司王起",
+  "author": "张道符",
+  "dynasty": "唐",
+  "verses": [
+    "三开文镜继芳声，暗暗云霄接去程。",
+    "会压洪波先得路，早升清禁共垂名。",
+    "莲峰对处朱轮贵，金榜传时玉韵成。",
+    "更许下才听白雪，一枝今过郄诜荣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4922f871-64de-47b8-b45c-dee50d277f28"
+}

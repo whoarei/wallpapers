@@ -1,0 +1,19 @@
+{
+  "id": "poem-bb379622be93105067e02b73",
+  "title": "安上座所作墨梅",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "道人色心浄，了见造物根。",
+    "笔端开此花，胸中有丘园。",
+    "清香凝暗夜，疏枝卧黄昏。",
+    "撞钟西湖寺，见月罗浮村。",
+    "老眼隔烟雾，一笑作篱藩。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-88bd9e91-ce3f-43b0-abfa-e66d18682cee"
+}

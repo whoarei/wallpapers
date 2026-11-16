@@ -1,0 +1,14 @@
+{
+  "id": "poem-f45e24081c7e760d94bb85a7",
+  "title": "长门怨",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "争得一人闻此怨，长门深夜有妍姝。",
+    "早知雨露翻相悮，只插荆钗嫁匹夫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-8d95be93-4b1d-477d-9e26-773a89fb8588"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-d236bfa5e3c26a323b52a0e5",
+  "title": "古意四首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "薰莸不同器，枭鸾不接翼。",
+    "君看冰炭姿，燥湿更相息。",
+    "消长本天行，否泰非人力。",
+    "须知坦荡荡，自胜长戚戚。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-9c0884ae-0b3c-4bad-b31f-f91ad96dd9ea"
+}

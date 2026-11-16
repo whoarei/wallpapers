@@ -1,0 +1,18 @@
+{
+  "id": "poem-6f0a5db63e2b026776107a71",
+  "title": "山中冬思二首 二",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "雪壮冰亦坚，冻涧如平地。",
+    "幽人毛褐煖，笑就糟床醉。",
+    "唤人空谷应，开火寒猨至。",
+    "拾薪煮秋栗，看鼎书古字。",
+    "忽忆南涧游，衣巾多云气。",
+    "露脚寻逸僧，咨量意中事。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-fd3ccca7-b611-4b71-9ab8-6f8ce1ec6889"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-e49126f7e223d96921b24bf0",
+  "title": "春宿左省",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "花隐掖垣暮，啾啾栖鸟过。",
+    "星临万户动，月傍九霄多。",
+    "不寝听金钥，因风想玉珂。",
+    "明朝有封事，数问夜如何。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "爱国",
+    "写景",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-2769113d-0cac-4e67-83cb-0c10685f8381"
+}

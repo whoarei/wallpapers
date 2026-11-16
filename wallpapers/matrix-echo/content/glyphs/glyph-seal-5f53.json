@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f53",
+  "script": "seal",
+  "character": "当",
+  "reading": "dāng；dàng",
+  "description": "dàng：(1)合宜恰～。适～。妥～。\n(2)抵得上，等于一个人～俩人用。\n(3)姑且作为～做。长歌～哭。安步～车。\n(4)认为我～你已经回家了。\n(5)在同一时间～日。～年。～世。\n(6)吃亏，受骗上～。\n(7)抵押抵～。押～。典～（用实物作抵押向当铺借钱）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-当"
+}

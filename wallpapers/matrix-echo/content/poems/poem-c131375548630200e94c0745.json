@@ -1,0 +1,20 @@
+{
+  "id": "poem-c131375548630200e94c0745",
+  "title": "小重山·翡翠林梢青黛山",
+  "author": "向",
+  "dynasty": "宋",
+  "verses": [
+    "翡翠林梢青黛山。",
+    "小楼新罨画，卷珠帘。",
+    "碧纱窗外水挪蓝。",
+    "凭栏处，相对玉纤纤。",
+    "人散酒阑珊。",
+    "夜长都睡皱，唾花衫。",
+    "一弯残月下风檐。",
+    "凌波去，罗袜步蹁跹。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-185",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-8adf66a950ace96f176ae6a1",
+  "title": "南乡子·云带雨",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "云带雨，浪迎风，钓翁回棹碧湾中。",
+    "春酒香熟鲈鱼美，谁同醉？",
+    "缆却扁舟篷底睡。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-30"
+}

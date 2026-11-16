@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7eea",
+  "script": "kai",
+  "character": "绪",
+  "reading": "xù",
+  "description": "头绪,开端\n情绪,心情\n⒈丝头。〈喻〉开端头～。论端究～。\n⒉世系，事业先～。续未竟之～。\n⒊心情、思想等心～。情～。思～。意～。\n⒋残余的～余。～风。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绪"
+}

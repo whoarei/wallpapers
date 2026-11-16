@@ -1,0 +1,14 @@
+{
+  "id": "poem-b7119a41b1203bce6fe00d51",
+  "title": "咏史诗 夷陵",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "夷陵城阙倚朝云，战败秦师纵火焚。",
+    "何事三千珠履客，不能西御武安君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-1f797a4d-cb71-443e-80c7-ab7b7e894872"
+}

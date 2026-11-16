@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-79ba",
+  "script": "seal",
+  "character": "禺",
+  "reading": "yú；yù；ǒu",
+  "description": "yú：古代区域十～（十华里的地方）。\n〔～谷〕古代传说中日落处。亦作虞谷”、隅谷”。\n〔～强〕古代传说中的神。\n〔～～〕古代传说中的一种鱼。\nyù：古代传说中的一种猴。\nǒu：古同偶”，偶像。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-禺"
+}

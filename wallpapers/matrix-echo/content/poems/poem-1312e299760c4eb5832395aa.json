@@ -1,0 +1,16 @@
+{
+  "id": "poem-1312e299760c4eb5832395aa",
+  "title": "宿定陵寺",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "古塔荒台出禁墙，磬声初尽漏声长。",
+    "云生紫殿幡花湿，月照青山松栢香。",
+    "禅室夜闻风过竹，奠筵朝启露沾裳。",
+    "谁悟威灵同寂灭，更堪砧杵发昭阳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-37d82fab-d24d-41ee-9547-b828eec2e945"
+}

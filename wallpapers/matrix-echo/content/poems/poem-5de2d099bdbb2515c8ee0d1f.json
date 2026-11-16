@@ -1,0 +1,14 @@
+{
+  "id": "poem-5de2d099bdbb2515c8ee0d1f",
+  "title": "题张于潜画轴五首  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "昭阳燕子一双飞，涎涎随风懒哺儿。",
+    "可是刘郎无酝藉，不教嫔御读周诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-e7760ee3-0526-4546-881a-6cf83cee797d"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-20ad9c552843637a494e209e",
+  "title": "秋夜次四姪韵五首  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "凉飔起天末，倏已扫庭户。",
+    "光鲜向时柳，惨淡非其故。",
+    "铅华不足恃，美人抱幽素。",
+    "穷吾分当尔，不为读书误。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-2318ec71-3331-435f-b130-89faa6cb1a8e"
+}

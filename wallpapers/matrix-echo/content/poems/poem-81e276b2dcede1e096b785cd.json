@@ -1,0 +1,19 @@
+{
+  "id": "poem-81e276b2dcede1e096b785cd",
+  "title": "巢乌行",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "乌生几子林萧条，雄乌求食雌守巢。",
+    "夜愁风雨巢倾覆，常见一乌巢下宿。",
+    "日长雏饥雄未回，雌鸟下巢去哀哀。",
+    "野田春尽少遗谷，寻食不得饥飞来。",
+    "黄雀亦引数青雀，雀飞未远乌惊落。",
+    "既分青雀噉尔雏，尔雏虽长心何如。",
+    "将飞不飞犹未忍，古瑟写哀哀不尽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4dfd87b6-3a34-4abd-bfea-b32c46479f15"
+}

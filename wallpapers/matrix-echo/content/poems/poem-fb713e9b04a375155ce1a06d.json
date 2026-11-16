@@ -1,0 +1,16 @@
+{
+  "id": "poem-fb713e9b04a375155ce1a06d",
+  "title": "乌夜啼·昨夜风兼雨",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "昨夜风兼雨，帘帏飒飒秋声。",
+    "烛残漏断频攲枕，起坐不能平。",
+    "世事漫随流水，算来一梦浮生。",
+    "醉乡路稳宜频到，此外不堪行。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-5"
+}

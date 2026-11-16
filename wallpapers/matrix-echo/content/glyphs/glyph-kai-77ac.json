@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-77ac",
+  "script": "kai",
+  "character": "瞬",
+  "reading": "shùn",
+  "description": "shùn：(1)眨眼，眼球一动尔先学不～，而后可言射矣”。一～即逝。\n(2)极短的时间转～。～间。～时。～即。～华（指短暂的时光）。～息。～时速度。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瞬"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-3e4701c59c9001dc11305404",
+  "title": "横吹曲辞 折杨柳 一",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "杨柳多短枝，短枝多别离。",
+    "赠远累攀折，柔条安得垂。",
+    "青春有定节，离别无定时。",
+    "但恐人别促，不怨来迟迟。",
+    "莫言短枝条，中有长相思。",
+    "朱颜与绿杨，幷在别离期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-c8e50d0a-dd19-4fa2-b07e-95882090e9d7"
+}

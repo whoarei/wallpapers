@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9aa8",
+  "script": "seal",
+  "character": "骨",
+  "reading": "gǔ；gū",
+  "description": "gǔ：(1)人和脊惟动物身体里面支持身体保护内脏的坚硬组织～头。～胳（全身骨头的总称）。～节。～肉（ａ．指最亲近的有血统关系的人，亦称骨血”；ｂ．喻紧密相连，不可分割的关系）。～干（gàn）。\n(2)像骨的东西（指支撑物体的骨架）伞～。扇～。\n(3)指文学作品的理论和笔力～力（ａ．雄健的笔力；ｂ．刚强不屈的气概）。风～（古典文艺理论术语，指文章的艺术风格，亦指作品的风神骨髓）。\n(4)指人的品质、气概侠～。～气。\ngū：〔～朵儿（duor）〕尚未开放的花朵。\n〔～碌〕滚动（碌”读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骨"
+}

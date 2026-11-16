@@ -1,0 +1,15 @@
+{
+  "id": "poem-5d80fbabd00289028711e955",
+  "title": "羔羊",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "羔羊之皮，素丝五紽。退食自公，委蛇委蛇。",
+    "羔羊之革，素丝五緎。委蛇委蛇，自公退食。",
+    "羔羊之缝，素丝五总。委蛇委蛇，退食自公。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-17"
+}

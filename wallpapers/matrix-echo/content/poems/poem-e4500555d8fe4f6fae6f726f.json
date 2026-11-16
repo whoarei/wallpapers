@@ -1,0 +1,16 @@
+{
+  "id": "poem-e4500555d8fe4f6fae6f726f",
+  "title": "追和柳恽",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "汀洲白苹草，柳恽乘马归。",
+    "江头樝树香，岸上蝴蝶飞。",
+    "酒杯箬叶露，玉轸蜀桐虚。",
+    "朱楼通水陌，沙暖一双鱼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-285d8546-7dc9-41ef-97ce-fbe35e8bb9c0"
+}

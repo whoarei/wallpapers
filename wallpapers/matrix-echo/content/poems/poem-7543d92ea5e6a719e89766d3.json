@@ -1,0 +1,16 @@
+{
+  "id": "poem-7543d92ea5e6a719e89766d3",
+  "title": "酬姜贫乐",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "我欲渊明伯仲间，为谁干没静中闲。",
+    "直将目送孤鸿度，横截湖飞短艇还。",
+    "稍闲便同搜万象，更忙亦可看孤山。",
+    "是闲真隠多余地，玄豹何尝肯露斑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-52ea5e88-546a-46e0-afee-74399cd54c27"
+}

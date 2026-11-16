@@ -1,0 +1,19 @@
+{
+  "id": "poem-0c1416fbf2c7d6a2743b90ec",
+  "title": "渡汉江",
+  "author": "宋之问",
+  "dynasty": "唐",
+  "verses": [
+    "岭外音书断，经冬复历春。",
+    "近乡情更怯，不敢问来人。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言绝句",
+    "思乡",
+    "渡江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-eb9530d2-e4c7-4c34-9214-06c28ca586bf"
+}

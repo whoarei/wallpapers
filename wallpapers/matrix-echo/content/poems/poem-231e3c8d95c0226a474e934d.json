@@ -1,0 +1,14 @@
+{
+  "id": "poem-231e3c8d95c0226a474e934d",
+  "title": "观郡守题名",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "春秋美恶不嫌同，老子韩非一传中。",
+    "壁上题名二百辈，卓然名世两三公。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-e91bf9c8-48bc-4c92-b3ac-f00a34920828"
+}

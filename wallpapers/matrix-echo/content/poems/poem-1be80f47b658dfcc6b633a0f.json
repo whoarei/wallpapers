@@ -1,0 +1,14 @@
+{
+  "id": "poem-1be80f47b658dfcc6b633a0f",
+  "title": "和三乡诗",
+  "author": "王涤",
+  "dynasty": "唐",
+  "verses": [
+    "浣纱游女出关东，旧迹新词一梦中。",
+    "槐陌柳亭何限事，年年回首向春风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-829abc29-6788-44e0-86b8-31e772fe877e"
+}

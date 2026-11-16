@@ -1,0 +1,18 @@
+{
+  "id": "poem-a4111e50023f4711dd445452",
+  "title": "秋过钱塘江",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "巨浸东隅极，山吞大野平。",
+    "因知吴相恨，不尽海涛声。",
+    "黑气腾蛟窟，秋云入战城。",
+    "游人千万里，过此白髭生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "钱塘江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-fae002b8-9045-43d3-be91-69102ee2f677"
+}

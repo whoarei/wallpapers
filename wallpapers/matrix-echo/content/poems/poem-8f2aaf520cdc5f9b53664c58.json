@@ -1,0 +1,22 @@
+{
+  "id": "poem-8f2aaf520cdc5f9b53664c58",
+  "title": "东郡怀古二首 王京兆",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "河水昔将决，冲波溢川浔。",
+    "峥嵘金堤下，喷薄风雷音。",
+    "投马灾未弭，为鱼叹方深。",
+    "惟公执珪璧，誓与身俱沈。",
+    "诚信不虚发，神明宜尔临。",
+    "湍流自此回，咫尺焉能侵。",
+    "逮我守东郡，凄然怀所钦。",
+    "虽非识君面，自谓知君心。",
+    "意气苟相合，神明无古今。",
+    "登城见遗庙，日夕空悲吟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-00eca35e-b0b6-432a-a14e-2d28ca08e3ca"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-68704c23daf702b4f63493e2",
+  "title": "思远人",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "妾思常悬悬，君行复绵绵。",
+    "征途向何处，碧海与青天。",
+    "岁久自有念，谁令长在边。",
+    "少年若不归，兰室如黄泉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-fed7bba3-9372-4ffb-bce2-5733cb757be5"
+}

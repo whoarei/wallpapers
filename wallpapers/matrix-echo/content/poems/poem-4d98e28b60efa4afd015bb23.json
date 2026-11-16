@@ -1,0 +1,16 @@
+{
+  "id": "poem-4d98e28b60efa4afd015bb23",
+  "title": "闻逝者自惊",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "亦知死是人间事，年老闻之心自疑。",
+    "黄卷清琴总为累，落花流水共添悲。",
+    "愿将从药看真诀，又欲休官就本师。",
+    "儿女眼前难喜舍，弥怜双鬓渐如丝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-25e0e52b-b822-44f8-9cc5-4ffa1a63948e"
+}

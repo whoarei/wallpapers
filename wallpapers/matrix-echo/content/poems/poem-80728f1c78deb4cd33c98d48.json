@@ -1,0 +1,14 @@
+{
+  "id": "poem-80728f1c78deb4cd33c98d48",
+  "title": "题涧饮寺",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "百年如梦竟何成，白发重来此地行。",
+    "还似萧郎许玄度，再看庭石悟前生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-33a209ae-7252-42fe-b235-01d6086e64f6"
+}

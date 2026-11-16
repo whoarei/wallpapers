@@ -1,0 +1,14 @@
+{
+  "id": "poem-666e426d366a997a45cb499b",
+  "title": "有赠",
+  "author": "赵崇鉘",
+  "dynasty": "宋",
+  "verses": [
+    "别意参差绕碧栏，外头斜月逼人寒。",
+    "钩帘恐碍双栖鹊，乍可桃花隔雾看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-08aaa023-cb75-4f3a-ad48-ee3bdcfc41d5"
+}

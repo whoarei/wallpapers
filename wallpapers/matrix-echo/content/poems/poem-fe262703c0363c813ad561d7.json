@@ -1,0 +1,16 @@
+{
+  "id": "poem-fe262703c0363c813ad561d7",
+  "title": "郊庙歌辞 夕月乐章 肃和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "测妙为神，通微曰圣。",
+    "坎祀贻则，郊禋展敬。",
+    "璧荐登光，金歌动映。",
+    "以载嘉德，以流曾庆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-289d4243-4767-4538-acff-d018f3e7dd95"
+}

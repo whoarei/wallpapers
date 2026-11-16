@@ -1,0 +1,16 @@
+{
+  "id": "poem-09616a5f304629f0008157af",
+  "title": "终风",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "终风且暴，顾我则笑，谑浪笑敖，中心是悼。",
+    "终风且霾，惠然肯来，莫往莫来，悠悠我思。",
+    "终风且曀，不日有曀，寤言不寐，愿言则嚏。",
+    "曀曀其阴，虺虺其雷，寤言不寐，愿言则怀。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-29"
+}

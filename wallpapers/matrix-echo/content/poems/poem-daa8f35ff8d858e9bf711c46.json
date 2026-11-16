@@ -1,0 +1,16 @@
+{
+  "id": "poem-daa8f35ff8d858e9bf711c46",
+  "title": "度关山",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "雁塞日初晴，狐关雪复平。",
+    "危楼缘广漠，古窦傍长城。",
+    "拂剑金星出，弯弧玉羽鸣。",
+    "谁知系虏者，贾谊是书生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-a83f524c-ef82-4bb8-a14b-f3360e7b5d2a"
+}

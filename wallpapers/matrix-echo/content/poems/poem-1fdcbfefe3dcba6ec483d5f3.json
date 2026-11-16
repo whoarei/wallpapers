@@ -1,0 +1,14 @@
+{
+  "id": "poem-1fdcbfefe3dcba6ec483d5f3",
+  "title": "真玉堂作",
+  "author": "洪咨夔",
+  "dynasty": "宋",
+  "verses": [
+    "禁门深锁寂无哗，浓墨淋漓两相麻。",
+    "唱彻五更天未晓，一墀月浸紫薇花。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-真玉堂作"
+}

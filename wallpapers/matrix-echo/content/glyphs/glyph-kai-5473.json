@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5473",
+  "script": "kai",
+  "character": "味",
+  "reading": "wèi",
+  "description": "wèi：(1)舌头尝东西所得到的感觉～觉。～道（亦指兴趣）。滋～。\n(2)鼻子闻东西所得到的感觉气～。香～儿。\n(3)情趣趣～。兴～。意～。津津有～。\n(4)体会，研究体～。耐人寻～。\n(5)量词，指中草药的一种五～药。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-味"
+}

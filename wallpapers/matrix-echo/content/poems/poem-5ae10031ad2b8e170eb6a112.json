@@ -1,0 +1,14 @@
+{
+  "id": "poem-5ae10031ad2b8e170eb6a112",
+  "title": "乱后入洪州西山",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "寂寂阴溪水漱苔，尘中将得苦吟来。",
+    "东峰道士如相问，县令而今不姓梅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-440c408d-c86d-4e0c-8526-99eb7c6429d0"
+}

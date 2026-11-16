@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8109",
+  "script": "kai",
+  "character": "脉",
+  "reading": "mài",
+  "description": "mài：(1)分布在人和动物周身内的血管～络。～理。\n(2)动脉的跳动～搏。切～（中医指诊脉）。～口（中医切脉的部位）。～息。～象（指脉搏的形象与动态）。～门（手腕部可以看到的桡动脉跳动的部分）。诊～。\n(3)像血管那样连贯而自成系统的东西山～。叶～。矿～。～～相承。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-脉"
+}

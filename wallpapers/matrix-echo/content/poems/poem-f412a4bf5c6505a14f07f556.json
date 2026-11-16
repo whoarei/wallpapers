@@ -1,0 +1,16 @@
+{
+  "id": "poem-f412a4bf5c6505a14f07f556",
+  "title": "题耿处士林亭",
+  "author": "喻坦之",
+  "dynasty": "唐",
+  "verses": [
+    "身向闲中老，生涯本豁然。",
+    "草堂山水下，渔艇鸟花边。",
+    "窥井猨兼鹿，啼林鸟杂蝉。",
+    "何时人事了，依此亦高眠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-0a93b883-a286-4cff-b440-0d0a38749ef6"
+}

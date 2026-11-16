@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-706f",
+  "script": "kai",
+  "character": "灯",
+  "reading": "dēng",
+  "description": "彩灯。特指元宵节挂的彩灯\n灯 dēng照明或做其他用途的发光器具电～、探照～、无影～。\n【灯蛾扑火】比喻自寻死路，自取灭亡。又作飞蛾扑火、飞蛾赴火、飞蛾投火。\n【灯红酒绿】形容寻欢作乐、奢侈腐化的生活。又作酒绿灯红。\n【灯心绒】比一般布厚实的棉织品，布面上有像灯心草一样的绒条。'心'又作'芯'。又称条绒。\n【灯芯绒】参见【灯心绒】。\n【灯语】通讯方法之一，在夜间用灯光明灭间歇的长短显示出不同的信号。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-灯"
+}

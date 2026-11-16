@@ -1,0 +1,14 @@
+{
+  "id": "poem-ae25dc2ddd30ac88b84f13fb",
+  "title": "浣溪沙·落絮残莺半日天",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "落絮残莺半日天，玉柔花醉只思眠，惹窗映竹满炉烟。",
+    "独掩画屏愁不语，斜掩瑶枕髻鬟偏，此时心在阿谁边。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-44"
+}

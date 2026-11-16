@@ -1,0 +1,16 @@
+{
+  "id": "poem-9d8f77f34541d95217fe54ea",
+  "title": "郊庙歌辞 五郊乐章 黄帝宫音 肃和",
+  "author": "魏征",
+  "dynasty": "唐",
+  "verses": [
+    "眇眇方舆，苍苍圜盖。",
+    "至哉枢纽，宅中图大。",
+    "气调四序，风和万籁。",
+    "祚我明德，时雍道泰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e9e9c629-6367-4dc1-a5fc-e2a45d02e122"
+}

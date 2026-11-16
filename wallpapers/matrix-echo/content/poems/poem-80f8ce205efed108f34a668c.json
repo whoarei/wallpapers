@@ -1,0 +1,21 @@
+{
+  "id": "poem-80f8ce205efed108f34a668c",
+  "title": "送别",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "下马饮君酒，问君何所之。",
+    "君言不得意，归卧南山陲。",
+    "但去莫复问，白云无尽时。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "抒情",
+    "写景",
+    "友情",
+    "送别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-31cc87f3-da0f-421d-8674-8753530077e2"
+}

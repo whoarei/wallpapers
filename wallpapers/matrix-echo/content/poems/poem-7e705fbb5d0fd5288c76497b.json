@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e705fbb5d0fd5288c76497b",
+  "title": "石桥",
+  "author": "陶谷",
+  "dynasty": "唐",
+  "verses": [
+    "重重翠嶂耸云端，玉殿金楼缥缈间。",
+    "圣境不容凡俗到，故将飞瀑隔尘寰。",
+    "（见《天台续集》卷中。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-0c615de4-40a9-469a-bbf4-4f341bdb6d57"
+}

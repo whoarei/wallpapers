@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-70eb",
+  "script": "kai",
+  "character": "烫",
+  "reading": "tàng",
+  "description": "以热水温物\n被火或高温灼痛或灼伤\n用熨斗使衣服变得平整\n烫发\n⒈皮肤接触温度高的东西感到疼痛或损伤水太～。～伤。\n⒉用温度高的东西使另外的东西起变化～酒。～衣服。～头发。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-烫"
+}

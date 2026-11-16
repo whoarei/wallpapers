@@ -1,0 +1,16 @@
+{
+  "id": "poem-031b5a0b0bba9d9d47be19a7",
+  "title": "芹斋诗",
+  "author": "林光朝",
+  "dynasty": "宋",
+  "verses": [
+    "春风芹下足迟留，白鸟平田忆旧游。",
+    "说尽轩裳还过眼，读残书卷复从头。",
+    "偶逢隐几何须问，不到投簪便拟休。",
+    "平世声名如皦日，欲将何地置巢由。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-03611d03-cebf-4b4f-a6df-1ddd14ba4e57"
+}

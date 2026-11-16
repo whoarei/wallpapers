@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9afb",
+  "script": "seal",
+  "character": "髻",
+  "reading": "jì",
+  "description": "jì：盘在头顶或脑后的发结～丫。～鬟。发～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-髻"
+}

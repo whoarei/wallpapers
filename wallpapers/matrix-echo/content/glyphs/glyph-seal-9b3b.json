@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9b3b",
+  "script": "seal",
+  "character": "鬻",
+  "reading": "yù",
+  "description": "yù：(1)卖～歌。～画。～文为生。卖儿～女。\n(2)古同育”，养育。\n〔淫～〕水流溪谷之间。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鬻"
+}

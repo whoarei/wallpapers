@@ -1,0 +1,16 @@
+{
+  "id": "poem-ac0c553d849fddea2a6304b9",
+  "title": "送汀州源使君",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "曾成赵北归朝计，因拜王门最好官。",
+    "为郡暂辞双凤阙，全家远过九龙滩。",
+    "山乡祗有输蕉户，水镇应多养鸭栏。",
+    "地僻寻常来客少，刺桐花发共谁看。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-109f899b-84f0-4e71-959a-969db7f67755"
+}

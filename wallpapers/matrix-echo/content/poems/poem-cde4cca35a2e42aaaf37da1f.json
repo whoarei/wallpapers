@@ -1,0 +1,15 @@
+{
+  "id": "poem-cde4cca35a2e42aaaf37da1f",
+  "title": "四睡赞  其二",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "无固无必，挨肩促膝。",
+    "人梦不祥，虎梦大吉。",
+    "世上有谁知，天台云羃羃。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-84fa2316-d73d-42ae-b5bc-edfd030bfdd3"
+}

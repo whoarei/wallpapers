@@ -1,0 +1,16 @@
+{
+  "id": "poem-7c2c494aefd9bbf95a63c549",
+  "title": "侍宴",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "皇家贵主好神仙，别业初开云汉边。",
+    "山出尽如鸣凤岭，池成不让饮龙川。",
+    "妆楼翠幌教春住，舞阁金铺借日悬。",
+    "敬从乘舆来此地，称觞献寿乐钧天。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-侍宴"
+}

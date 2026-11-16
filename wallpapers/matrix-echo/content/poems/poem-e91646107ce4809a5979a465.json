@@ -1,0 +1,16 @@
+{
+  "id": "poem-e91646107ce4809a5979a465",
+  "title": "菩萨蛮·花冠频鼓墙头翼",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "花冠频鼓墙头翼，东方淡白连窗色。",
+    "门外早莺声，背楼残月明。",
+    "薄寒笼醉态，依旧铅华在。",
+    "握手送人归，半拖金缕衣。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-1"
+}

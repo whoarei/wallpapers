@@ -1,0 +1,16 @@
+{
+  "id": "poem-bac6f74eb22ee85afff924c4",
+  "title": "游仙窟诗 别文成",
+  "author": "崔十娘",
+  "dynasty": "唐",
+  "verses": [
+    "别时终是别，春心不值春。",
+    "羞见孤鸾影，悲看一骑尘。",
+    "翠柳开眉色，红桃乱脸新。",
+    "此时君不在，娇莺弄杀人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-0f76e61f-912a-4308-b2dc-d419a3f51b38"
+}

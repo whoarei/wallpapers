@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5a9a",
+  "script": "seal",
+  "character": "媚",
+  "reading": "mèi",
+  "description": "mèi：(1)谄，逢迎～外。～世（迎合世俗）。～眼。～惑。～态。谄～。献～。奴颜～骨。\n(2)美好，可爱～景。明～。秀～。妩～。娇～。\n(3)喜爱我既～君姿，君亦悦我颜。”",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-媚"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b4c459d315113106ac24806c",
+  "title": "主人故池",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "高池高阁上连起，荷叶团团盖秋水。",
+    "主人已远凉风生，旧客不来芙蓉死。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-9e4bef3c-d99d-41e4-899c-c0110ff6e378"
+}

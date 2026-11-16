@@ -1,0 +1,16 @@
+{
+  "id": "poem-1ee0427dad3118c3aa54c391",
+  "title": "送朴山人归新罗",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "浩渺行无极，扬帆但信风。",
+    "云山过海半，乡树入舟中。",
+    "波定遥天出，沙平远岸穷。",
+    "离心寄何处，目断曙霞东。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-2ecf0c47-b59c-46ea-8360-1402ac4719c8"
+}

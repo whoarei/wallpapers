@@ -1,0 +1,16 @@
+{
+  "id": "poem-c6dc59e7d904c0d8b0918103",
+  "title": "赵府录官满  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "平反固尽情，此话久弥新。",
+    "动以中为的，居嫌恕寡隣。",
+    "暗萤方自照，屈蠖倩谁伸。",
+    "好在庭前树，长怀雪后春。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-fc51e1e3-2d56-4302-a278-b512861fc8f5"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-e302a7c7c88b5eac54372815",
+  "title": "薤露行",
+  "author": "曹操",
+  "dynasty": "汉",
+  "verses": [
+    "惟汉廿二世，所任诚不良。",
+    "沐猴而冠带，知小而谋疆。",
+    "犹豫不敢断，因狩执君王。",
+    "白虹为贯日，己亦先受殃。",
+    "贼臣持国柄，杀主灭宇京。",
+    "荡覆帝基业，宗庙以燔丧。",
+    "播越西迁移，号泣而且行。",
+    "瞻彼洛城郭，微子为哀伤。"
+  ],
+  "enabled": true,
+  "collection": "曹操诗集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/曹操诗集/caocao.json#record-14"
+}

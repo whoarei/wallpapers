@@ -1,0 +1,17 @@
+{
+  "id": "poem-d5116a9528032bf115eede70",
+  "title": "句",
+  "author": "傅温",
+  "dynasty": "唐",
+  "verses": [
+    "霜坠中天衣觉冷，月临虚牗纸偏明。",
+    "春风暗翦庭前树，夜雨偷穿石上苔。",
+    "曲水两行排鴈齿，斜桥一道蹈龙鳞。",
+    "山深野客如禅客，夜久松声似雨声。",
+    "花疑汉女啼妆泪，水似吴娃笑弄筝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-618d535c-598c-409a-a42d-55c3f23f3b50"
+}

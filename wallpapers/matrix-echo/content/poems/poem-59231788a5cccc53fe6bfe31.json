@@ -1,0 +1,21 @@
+{
+  "id": "poem-59231788a5cccc53fe6bfe31",
+  "title": "行香子·草色芊绵",
+  "author": "赵鼎",
+  "dynasty": "宋",
+  "verses": [
+    "草色芊绵。",
+    "雨点阑斑。",
+    "糁飞花、还是春残。",
+    "天涯万里，海上三年。",
+    "试倚危楼，将远恨，卷帘看。",
+    "举头见日，不见长安。",
+    "谩凝眸、老泪凄然。",
+    "山禽飞去，榕叶生寒。",
+    "到黄昏也，独自个，尚凭阑。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-979",
+  "tags": []
+}

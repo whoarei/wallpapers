@@ -1,0 +1,16 @@
+{
+  "id": "poem-34f92d84165a4f767f403ac7",
+  "title": "赋得石梁泉送崔逵",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "架石通霞壁，悬崖散碧沙。",
+    "天晴虹影渡，风细练文斜。",
+    "举陟幽期阻，沿洄客意赊。",
+    "河梁非此路，别恨亦无涯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-745f741a-151f-48c7-94c9-bb8a314c197e"
+}

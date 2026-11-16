@@ -1,0 +1,14 @@
+{
+  "id": "poem-8f9d3f0e9b0e93341abda5f2",
+  "title": "杨柳枝·御柳如丝映九重",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "御柳如丝映九重，凤凰窗映绣芙蓉。",
+    "景阳楼畔千条路，一面新妆等晓风。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-35",
+  "tags": []
+}

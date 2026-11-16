@@ -1,0 +1,16 @@
+{
+  "id": "poem-aee109ababfea6bb1a0d1da3",
+  "title": "入直西苑",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "望里蓬瀛近，行来阆苑齐。",
+    "晴霞开碧沼，落月隐金堤。",
+    "叶密莺先觉，花繁径不迷。",
+    "笙歌回辇处，长在凤城西。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-243"
+}

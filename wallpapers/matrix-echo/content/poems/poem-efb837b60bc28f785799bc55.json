@@ -1,0 +1,16 @@
+{
+  "id": "poem-efb837b60bc28f785799bc55",
+  "title": "泛永嘉江日暮回舟",
+  "author": "张子容",
+  "dynasty": "唐",
+  "verses": [
+    "无云天欲暮，轻鹢大江清。",
+    "归路烟中远，回舟月上行。",
+    "傍潭窥竹暗，出屿见沙明。",
+    "更值微风起，乘流丝管声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-e2ed4537-3fcb-40ef-8c0f-29c1c46366b3"
+}

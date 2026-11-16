@@ -1,0 +1,24 @@
+{
+  "id": "poem-aa27746dd58baac489185b23",
+  "title": "惜分飞·泪湿阑干花著露",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "泪湿阑干花著露。",
+    "愁到眉峰碧聚。",
+    "此恨平分取。",
+    "更无言语。",
+    "空相觑。",
+    "短雨残云无意绪。",
+    "寂寞朝朝暮暮。",
+    "今夜山深处。",
+    "断魂分付。",
+    "潮回去。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-247"
+}

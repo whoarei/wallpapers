@@ -1,0 +1,14 @@
+{
+  "id": "poem-2eb011aa4522abeb9780d6ea",
+  "title": "浣溪沙·入夏偏宜淡薄妆",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "入夏偏宜淡薄妆，越罗衣褪郁金黄，翠钿檀注助容光。",
+    "相见无言还有恨，几回拚却又思量，月窗香径梦悠飏。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-13"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6f78be7fa60b46a53782bec2",
+  "title": "漫书五首 三",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "海上昔闻麋爱鹤，山中今日鹿憎龟。",
+    "爱憎止竟须关分，莫把微才望所知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ab3be046-ac42-425a-8e9f-def1a53542b3"
+}

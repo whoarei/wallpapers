@@ -1,0 +1,15 @@
+{
+  "id": "poem-f75223f0887dae6b43e42bc6",
+  "title": "采桑子·谁翻乐府凄凉曲",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "谁翻乐府凄凉曲。",
+    "风也萧萧，雨也萧萧，瘦尽灯花又一宵。",
+    "不知何事萦怀抱，醒也无聊，醉也无聊，梦也何曾到谢桥。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-10"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-fa3a9fe7641c0f38cef0db05",
+  "title": "句",
+  "author": "刘赞",
+  "dynasty": "唐",
+  "verses": [
+    "絮花飞起雪漫漫，长得宫娥带笑看。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2dacb6eb-7a73-482c-9d02-aedecfd386f0"
+}

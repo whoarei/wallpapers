@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-906e",
+  "script": "seal",
+  "character": "遮",
+  "reading": "zhē",
+  "description": "zhē：(1)挡～蔽。～挡。～拦。～阳。～没（mò）。～阴。\n(2)掩盖，掩蔽～丑。～盖。～瞒。～掩。～人耳目。\n(3)古同庶”，众多。\n(4)古同者”，这。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-遮"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5742845a614058679df71706",
+  "title": "送永阳崔明府",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "古国群舒地，前当桐柏关。",
+    "连绵江上雨，稠叠楚南山。",
+    "沙馆行帆息，枫洲候吏还。",
+    "乘篮若有暇，精舍在林间。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-07c96e92-8589-4e1b-9c90-44feedbaca48"
+}

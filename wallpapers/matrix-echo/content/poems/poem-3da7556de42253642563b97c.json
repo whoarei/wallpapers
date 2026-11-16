@@ -1,0 +1,16 @@
+{
+  "id": "poem-3da7556de42253642563b97c",
+  "title": "摊破浣溪沙·菡萏香销翠叶残",
+  "author": "李璟",
+  "dynasty": "五代",
+  "verses": [
+    "菡萏香销翠叶残，西风愁起绿波间。",
+    "还与韶光共憔悴，不堪看！",
+    "细雨梦回鸡塞远，小楼吹彻玉笙寒。",
+    "多少泪珠无限恨，倚栏杆。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-3"
+}

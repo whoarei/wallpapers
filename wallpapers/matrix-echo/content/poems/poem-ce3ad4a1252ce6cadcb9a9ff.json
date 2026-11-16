@@ -1,0 +1,17 @@
+{
+  "id": "poem-ce3ad4a1252ce6cadcb9a9ff",
+  "title": "浣溪沙·密约深期卒未成",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "密约深期卒未成。",
+    "藏钩春酒坐频倾。",
+    "向人娇艳夜亭亭。",
+    "相顾无言情易觉，归来单枕梦犹惊。",
+    "眼梢怨泪几时晴。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-520",
+  "tags": []
+}

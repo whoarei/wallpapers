@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-622a",
+  "script": "kai",
+  "character": "截",
+  "reading": "jié",
+  "description": "jié：(1)割断，弄断～断。～开。～取。～面。\n(2)量词，段一～儿木头。\n(3)阻拦～住他。～留。～击。～获。\n(4)到一定期限停止～止。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-截"
+}

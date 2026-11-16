@@ -1,0 +1,14 @@
+{
+  "id": "poem-53c64746d77cb687c87c21d8",
+  "title": "南望楼",
+  "author": "卢僎",
+  "dynasty": "唐",
+  "verses": [
+    "去国三巴远，登楼万里春。",
+    "伤心江上客，不是故乡人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-4cdad806-1bfb-41de-8adf-a7f5cef159b2"
+}

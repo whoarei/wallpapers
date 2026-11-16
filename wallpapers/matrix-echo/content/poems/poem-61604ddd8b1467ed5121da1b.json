@@ -1,0 +1,17 @@
+{
+  "id": "poem-61604ddd8b1467ed5121da1b",
+  "title": "春江曲",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "春江无云潮水平，蒲心出水凫雏鸣。",
+    "长干夫壻爱远行，自染春衣缝已成。",
+    "妾身生长金陵侧，去年随夫住江北。",
+    "春来未到父母家，舟小风多渡不得。",
+    "欲辞舅姑先问人，私向江头祭水神。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-6d276f70-5659-4c8b-ae55-32fad946ad9e"
+}

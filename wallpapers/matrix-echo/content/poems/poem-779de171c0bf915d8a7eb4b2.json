@@ -1,0 +1,21 @@
+{
+  "id": "poem-779de171c0bf915d8a7eb4b2",
+  "title": "诉衷情·小园过午",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "小园过午，便觉凉生翠柏。",
+    "戎葵闲出墙红，萱草静依径绿。",
+    "还是去年，浮瓜沈李，追凉故绕池边竹。",
+    "小筵促。",
+    "忽忆杨梅正熟。",
+    "下山南畔，画舸笙歌逐。",
+    "愁凝目。",
+    "使君彩笔，佳人锦字，断弦怎续。",
+    "尽日栏干曲。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-143",
+  "tags": []
+}

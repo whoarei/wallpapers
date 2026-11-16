@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80c1",
+  "script": "seal",
+  "character": "胁",
+  "reading": "xié",
+  "description": "⒈胸部的两侧，从腋下到肋骨尽处的部分两～。\n⒉恐吓，强迫威～。～迫。～制。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胁"
+}

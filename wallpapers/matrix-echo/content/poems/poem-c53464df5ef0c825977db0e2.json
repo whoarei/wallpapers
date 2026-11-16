@@ -1,0 +1,16 @@
+{
+  "id": "poem-c53464df5ef0c825977db0e2",
+  "title": "送归中丞使新罗",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "南幰衔恩去，东夷泛海行。",
+    "天遥辞上国，水尽到孤城。",
+    "已变炎凉气，仍愁浩淼程。",
+    "云涛不可极，来往见双旌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-32c87342-3c08-4cff-952c-67eda7fb9d46"
+}

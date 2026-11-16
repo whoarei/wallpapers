@@ -1,0 +1,16 @@
+{
+  "id": "poem-b6cc698a08ad1720744719ab",
+  "title": "自叹",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "又作淮南客，边尘压鬓毛。",
+    "夜长蛩聒聒，家远雁忉忉。",
+    "把酒天徒问，推篷月正高。",
+    "英雄四方志，休恋故人袍。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-beb3abd1-3e7e-4651-93ef-01e283a6d7fb"
+}

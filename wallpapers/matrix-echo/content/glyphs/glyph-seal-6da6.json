@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6da6",
+  "script": "seal",
+  "character": "润",
+  "reading": "rùn",
+  "description": "修饰,使有光彩\n⒈潮湿，不干枯湿～。滋～。雨～万物。\n⒉加油或水，使不干燥～肤膏。～嗓子。\n⒊细腻，光滑丰～。光～。\n⒋修饰，使有光彩～饰。～色。\n⒌利益利～。分～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-润"
+}

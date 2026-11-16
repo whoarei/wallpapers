@@ -1,0 +1,14 @@
+{
+  "id": "poem-12089396396abc772f8a30e5",
+  "title": "洛阳咏古",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "石勒童年有战机，洛阳长啸倚门时。",
+    "晋朝不是王夷甫，大智何由得预知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-989b140b-b6be-4437-abc8-427d0cfae843"
+}

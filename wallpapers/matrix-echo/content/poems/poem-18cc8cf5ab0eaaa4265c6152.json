@@ -1,0 +1,18 @@
+{
+  "id": "poem-18cc8cf5ab0eaaa4265c6152",
+  "title": "采莲",
+  "author": "孙光宪",
+  "dynasty": "宋",
+  "verses": [
+    "菡萏香连十顷陂，小姑贪戏采莲迟。",
+    "晚来弄水船头湿，更脱红裙裹鸭儿。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "宋词三百首",
+    "女子",
+    "卷一·唐五代词"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-1b70a53d-87b4-463e-9542-b990b721e07d"
+}

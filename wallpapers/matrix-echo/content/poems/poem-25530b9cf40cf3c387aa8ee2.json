@@ -1,0 +1,20 @@
+{
+  "id": "poem-25530b9cf40cf3c387aa8ee2",
+  "title": "减字木兰花·斜红翠叠",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "斜红翠叠。",
+    "何许花神来献瑞。",
+    "粲粲裳衣。",
+    "割得天孙锦一机。",
+    "真香妙质。",
+    "不耐世间风与日。",
+    "着意遮围。",
+    "莫放春光造次归。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-113",
+  "tags": []
+}

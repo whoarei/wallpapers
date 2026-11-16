@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ecd",
+  "script": "seal",
+  "character": "仍",
+  "reading": "réng",
+  "description": "réng：(1)依然，还，照旧～须努力。～然。～旧。\n(2)因袭，沿袭一～其旧。\n(3)频繁，重复频～。～世（一代又一代，累世）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-仍"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-d6cf2ba76bd7700cf9b8c146",
+  "title": "挽潜斋王枢相  其二",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "治命深衣歛，亲题石像镌。",
+    "精神传巨扁，风月掩遗编。",
+    "流落人间境，陶镕物外天。",
+    "建安名教在，它日配先贤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b45fede6-af76-49f6-b0c7-428411c3f123"
+}

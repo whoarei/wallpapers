@@ -1,0 +1,14 @@
+{
+  "id": "poem-55933e15052652c853690f76",
+  "title": "浣溪沙·惆怅经年别谢娘",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "惆怅经年别谢娘，月窗花院好风光，此时相望最情伤。",
+    "青鸟不来传锦字，瑶姬何处琐兰房，忍教魂梦两茫茫。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-3"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1c83172e977360633687aee3",
+  "title": "昭君怨·深禁好春谁惜",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "深禁好春谁惜，薄暮瑶阶伫立。",
+    "别院管弦声，不分明。",
+    "又是梨花欲谢，绣被春寒今夜。",
+    "寂寞锁朱门，梦承恩。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-170"
+}

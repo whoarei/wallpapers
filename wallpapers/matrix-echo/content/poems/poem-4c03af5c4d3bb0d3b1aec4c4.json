@@ -1,0 +1,18 @@
+{
+  "id": "poem-4c03af5c4d3bb0d3b1aec4c4",
+  "title": "同前",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "哀告君听：奴在房儿卫欲睡寝？怎知叔叔来此，巧言花语，扯奴衣襟。",
+    "(末白)孙二须不是这般样人。",
+    "(旦连唱)因奴家不肯便生嗔，将刀欲害伊家命。",
+    "(末白)哥哥休听它家说，孙二不敢。",
+    "(旦连唱)只得叫邻人，将奴赶得没投奔。",
+    "(生)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8625",
+  "tags": []
+}

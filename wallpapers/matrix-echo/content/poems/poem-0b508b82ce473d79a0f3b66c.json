@@ -1,0 +1,20 @@
+{
+  "id": "poem-0b508b82ce473d79a0f3b66c",
+  "title": "木兰花・玉楼春·城上风光莺语乱",
+  "author": "钱惟演",
+  "dynasty": "宋",
+  "verses": [
+    "城上风光莺语乱。",
+    "城下烟波春拍岸。",
+    "绿杨芳草几时休，泪眼愁肠先已断。",
+    "情怀渐变成衰晚。",
+    "鸾鉴朱颜惊暗换。",
+    "昔年多病厌芳尊，今日芳尊惟恐浅。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-138"
+}

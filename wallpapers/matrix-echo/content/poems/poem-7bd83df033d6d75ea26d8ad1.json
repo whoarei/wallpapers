@@ -1,0 +1,16 @@
+{
+  "id": "poem-7bd83df033d6d75ea26d8ad1",
+  "title": "同萧炼师宿太乙庙",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "微月空山曙，春祠谒少君。",
+    "落花坛上拂，流水洞中闻。",
+    "酒引芝童奠，香余桂子焚。",
+    "鹤飞将羽节，遥向赤城分。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-bd1f5183-318f-40d2-ac1c-fe5b12415a25"
+}

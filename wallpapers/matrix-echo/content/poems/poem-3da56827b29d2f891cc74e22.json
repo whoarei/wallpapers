@@ -1,0 +1,14 @@
+{
+  "id": "poem-3da56827b29d2f891cc74e22",
+  "title": "喜迁莺·街鼓动",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "街鼓动，禁城开，天上探人回，凤衔金榜出云来，平地一声雷。",
+    "莺已迁，龙已化，一夜满城车马。家家楼上簇神仙，争看鹤冲天。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-13"
+}

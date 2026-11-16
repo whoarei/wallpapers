@@ -1,0 +1,16 @@
+{
+  "id": "poem-f925353e14deec83fb39e4b6",
+  "title": "冬日骆家亭子",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "亭台腊月时，松竹见贞姿。",
+    "林积烟藏日，风吹水合池。",
+    "恨无人此住，静有鹤相窥。",
+    "是景吟诗徧，真于野客宜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-701ddaac-fd35-42ee-88e2-1da8d56e9a62"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-cf805d7057671d7ee15e1698",
+  "title": "歌者十二首 四",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "不似新声唱亦新，旋调玉管旋生春。",
+    "愁肠隔断珠帘外，只为今宵共听人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-9ba6ab81-6c19-470d-8947-d0494dc77810"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-af6757cf7a99cfcb4fe3a671",
+  "title": "和子骏新荷",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "懒不窥园久，元非效仲舒。",
+    "新荷满沼密，蓝舁出门疏。",
+    "借问含烟晚，能胜裛露初。",
+    "愧无鱼戏句，弄翰白纷如。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-1a463b78-47d3-4bb2-bd6c-e1da993ce574"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-fa057801784f3a9b2411bc49",
+  "title": "元日云安道",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "元日度巴云，时逢朐䏰人。",
+    "野梅空自落，山鸟暗知春。",
+    "不醉新年酒，徒悲异域身。",
+    "无穷倦行意，亭柳漫风尘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-c462065d-296d-433d-b152-dee62f307307"
+}

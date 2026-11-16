@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5594",
+  "script": "seal",
+  "character": "喔",
+  "reading": "wō；ō",
+  "description": "ō：叹词，表示理解、省悟～，真有这回事！\n〔～唷〕叹词，表示惊讶、痛苦，如～～，摔得好痛！”\nwō：象声词，形容雄鸡叫声雄鸡～～啼。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-喔"
+}

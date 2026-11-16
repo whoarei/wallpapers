@@ -1,0 +1,15 @@
+{
+  "id": "poem-5e53bbf55f24f97c52eafd57",
+  "title": "羔裘",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "羔裘如濡，洵直且侯。彼其之子，舍命不渝。",
+    "羔裘豹饰，孔武有力。彼其之子，邦之司直。",
+    "羔裘晏兮，三英粲兮。彼其之子，邦之彦兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-79"
+}

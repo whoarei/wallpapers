@@ -1,0 +1,16 @@
+{
+  "id": "poem-ad72c2d2793cd57b869f4b6e",
+  "title": "女冠子·碧桃红杏",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "碧桃红杏，迟日媚笼光影，彩霞深。",
+    "香暖熏莺语，风清引鹤音。",
+    "翠鬟冠玉叶，霓袖捧瑶琴。",
+    "应共吹箫侣，暗相寻。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-44"
+}

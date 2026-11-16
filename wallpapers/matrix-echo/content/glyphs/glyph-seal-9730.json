@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9730",
+  "script": "seal",
+  "character": "霰",
+  "reading": "xiàn",
+  "description": "xiàn：在高空中的水蒸气遇到冷空气凝结成的小冰粒，多在下雪前或下雪时出现。\n〔～弹（dàn）〕炮弹的一种，内装黑色炸药和小铅球、钢球，弹头装有定时的引信，能在预定目标上空及附近爆炸。亦称榴霰弹”、子母弹”、群子弹”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-霰"
+}

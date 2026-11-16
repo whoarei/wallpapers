@@ -1,0 +1,14 @@
+{
+  "id": "poem-7021ab88c465a5bf095d545d",
+  "title": "霜天晓角",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "悄然魂似飞，料应不久矣。",
+    "纵然抬头强起，(介)形衰倦，怎支持？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5102",
+  "tags": []
+}

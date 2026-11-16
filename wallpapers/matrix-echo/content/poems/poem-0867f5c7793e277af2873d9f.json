@@ -1,0 +1,16 @@
+{
+  "id": "poem-0867f5c7793e277af2873d9f",
+  "title": "寄严文炳  其五",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "严子老於菟，彪炳踞贤关。",
+    "可怜五车学，仅博九品官。",
+    "客程望至喜，江阔山丛攒。",
+    "缅怀造物心，念子讵能安。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-11fee861-9aff-40fb-b786-e820776f22db"
+}

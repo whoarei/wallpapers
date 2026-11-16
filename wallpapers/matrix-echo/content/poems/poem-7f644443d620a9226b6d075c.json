@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f644443d620a9226b6d075c",
+  "title": "台州兜率寺淳熙三年孟春作  其四",
+  "author": "林宪",
+  "dynasty": "宋",
+  "verses": [
+    "月色半古寺，虫声杂疏钟。",
+    "江城缭山色，星斗摇空蒙。",
+    "徐行不自觉，徙倚树影中。",
+    "忽然变烟雨，江上东南风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-490f6b45-44d3-4dae-b66e-0000a7a298d7"
+}

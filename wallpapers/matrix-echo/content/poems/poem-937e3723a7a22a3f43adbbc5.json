@@ -1,0 +1,16 @@
+{
+  "id": "poem-937e3723a7a22a3f43adbbc5",
+  "title": "寄西岳白石僧",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "挂锡中峰上，经行踏石梯。",
+    "云房出定后，岳月在池西。",
+    "峭壁残霞照，欹松积雪齐。",
+    "年年著山屐，曾得到招提。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-7455f507-16a8-41a1-bce9-03b1082ccda0"
+}

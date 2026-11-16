@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9611",
+  "script": "seal",
+  "character": "阑",
+  "reading": "lán",
+  "description": "环状物\n印刷页纸上的分行线条\n⒈晚，深岁～。夜～人静。\n⒉［阑干］\n①纵横交错的样子玉容寂寞泪～干。\n②也作\"栏杆\"，用竹、木、铁、石等制成的遮挡物石～干。铁～干。桥～杆。\n⒊残尽酒～。［阑珊］将尽，衰落的样子诗情酒兴渐～珊。\n⒋混进，擅自出入～入。～出。\n⒌同\"拦\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阑"
+}

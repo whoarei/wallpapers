@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5bdf",
+  "script": "kai",
+  "character": "察",
+  "reading": "chá",
+  "description": "chá：仔细看，调查研究～看。～核。观～。考～（a.实地观察调查，如科学～～”；b.细致深刻地观察，如科学研究要勤于～～和思考”）。～觉。～访。～勘。～探。明～秋毫（秋毫”指秋天鸟兽身上新长的细毛，喻为人精明，任何小问题都看得清楚）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-察"
+}

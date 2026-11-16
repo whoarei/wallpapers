@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f5e",
+  "script": "seal",
+  "character": "佞",
+  "reading": "nìng",
+  "description": "nìng：(1)有才智，旧时谦称不～。\n(2)善辩，巧言谄媚～人（有口才而不正派的人）。～幸（以谄媚而得宠幸）。～史（为讨好当权者而歪曲篡改事实的历史）。～臣。奸～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-佞"
+}

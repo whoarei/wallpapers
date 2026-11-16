@@ -1,0 +1,14 @@
+{
+  "id": "poem-a2b420f529aadb5f04ebd42c",
+  "title": "与月船周君话别  其二",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "鸭炉烟冷夜窗寒，著尽冬衣尚怯单。",
+    "忽忆故人千里别，雁赍芳恨度扶栏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b94666cf-e793-4762-84e8-514d57f9f014"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-28ba188e7a8ceab221b209a6",
+  "title": "唐植甫左司挽词二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "践历髙华久，巍然誉望崇。",
+    "典章谙故熟，翰墨老弥工。",
+    "骾亮传家法，清忠迈古风。",
+    "温温江玉砚，同閟九原中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-01bb4984-07ae-479f-822d-7b34b66af0ab"
+}

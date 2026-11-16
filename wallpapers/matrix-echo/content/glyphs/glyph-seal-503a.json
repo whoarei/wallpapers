@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-503a",
+  "script": "seal",
+  "character": "债",
+  "reading": "zhai",
+  "description": "喻指应兑现的事情或所造成的损失\n借贷\n债zhài欠着的钱财～务。借～。公～。还～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-债"
+}

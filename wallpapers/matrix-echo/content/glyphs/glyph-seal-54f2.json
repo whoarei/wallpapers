@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-54f2",
+  "script": "seal",
+  "character": "哲",
+  "reading": "zhé",
+  "description": "zhé：(1)有智慧～人。～嗣（称别人子孙的敬辞）。～理（关于宇宙和人生的原理）。～学（关于自然知识和社会知识的概括）。\n(2)聪明智慧的人先～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哲"
+}

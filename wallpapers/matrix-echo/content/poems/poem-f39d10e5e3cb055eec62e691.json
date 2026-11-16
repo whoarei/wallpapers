@@ -1,0 +1,16 @@
+{
+  "id": "poem-f39d10e5e3cb055eec62e691",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "满纸云烟，说尽离愁千万千。",
+    "想那层楼十二，有个人人，倚着危阑。",
+    "他望归期，数飞雁，阻关山，见书如见经年面。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5136",
+  "tags": []
+}

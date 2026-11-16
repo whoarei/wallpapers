@@ -1,0 +1,20 @@
+{
+  "id": "poem-a1c1e032847fb0b2f1eb6009",
+  "title": "凉思",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "客去波平槛，蝉休露满枝。",
+    "永怀当此节，倚立自移时。",
+    "北斗兼春远，南陵寓使迟。",
+    "天涯占梦数，疑误有新知。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "愁思",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-15c6cbc9-753a-4f09-86bf-4fe2d8bb1fee"
+}

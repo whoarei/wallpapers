@@ -1,0 +1,15 @@
+{
+  "id": "poem-0ace2c9678a814afc8872d60",
+  "title": "宋中十首 十",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "阏伯去已久，高丘临道傍。",
+    "人皆有兄弟，尔独为参商。",
+    "终古犹如此，而今安可量。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d3d18a80-f7b2-42d8-a910-ab4e51270e3a"
+}

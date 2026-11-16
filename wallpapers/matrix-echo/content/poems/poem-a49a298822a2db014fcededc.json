@@ -1,0 +1,15 @@
+{
+  "id": "poem-a49a298822a2db014fcededc",
+  "title": "大车",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "大车槛槛，毳衣如菼。岂不尔思？畏子不敢。",
+    "大车啍啍，毳衣如𫞩，岂不尔思？畏子不奔。",
+    "谷则异室，死则同穴。谓予不信，有如皎日。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-72"
+}

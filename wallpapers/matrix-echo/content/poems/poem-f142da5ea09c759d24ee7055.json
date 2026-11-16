@@ -1,0 +1,15 @@
+{
+  "id": "poem-f142da5ea09c759d24ee7055",
+  "title": "南池杂咏五首 虚舟",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "虚舟动又静，忽似去逢时。",
+    "触物知无迕，为梁幸见遗。",
+    "因风到此岸，非有济川期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3099b9b0-2454-4e75-8d51-947f01a3485f"
+}

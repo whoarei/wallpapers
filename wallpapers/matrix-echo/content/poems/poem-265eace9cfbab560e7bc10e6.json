@@ -1,0 +1,19 @@
+{
+  "id": "poem-265eace9cfbab560e7bc10e6",
+  "title": "杂曲歌辞 金缕衣",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "劝君莫惜金缕衣，劝君惜取少年时。",
+    "花开堪折直须折，莫待无花空折枝。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "惜时",
+    "励志",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a8617715-ad59-4da8-8071-e9aeb1760e6a"
+}

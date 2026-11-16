@@ -1,0 +1,16 @@
+{
+  "id": "poem-a56d472e460dc193ce727557",
+  "title": "减字木兰花·新月",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "晚妆欲罢，更把纤眉临镜画。",
+    "准待分明，和雨和烟两不胜。",
+    "莫教星替，守取团圆终必遂。",
+    "此夜红楼，天上人间一样愁。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-82"
+}

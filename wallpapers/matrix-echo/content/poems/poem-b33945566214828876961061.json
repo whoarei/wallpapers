@@ -1,0 +1,18 @@
+{
+  "id": "poem-b33945566214828876961061",
+  "title": "临江仙·离别寻常今白首",
+  "author": "陈师道",
+  "dynasty": "宋",
+  "verses": [
+    "离别寻常今白首，更须竹雨萧萧。",
+    "不应都占世间豪。",
+    "清风居士手，杨柳洛城腰。",
+    "文字功名真自误，从今好月良宵。",
+    "只消怜取董娇饶。",
+    "修门君自到，不用我词招。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-317",
+  "tags": []
+}

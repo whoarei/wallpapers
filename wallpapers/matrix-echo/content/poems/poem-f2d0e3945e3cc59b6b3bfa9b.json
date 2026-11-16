@@ -1,0 +1,15 @@
+{
+  "id": "poem-f2d0e3945e3cc59b6b3bfa9b",
+  "title": "夜行黄花川",
+  "author": "胡皓",
+  "dynasty": "唐",
+  "verses": [
+    "的的（旳旳）夜绵绵，斜斗历高天。",
+    "露浩空山月，风秋洞壑泉。",
+    "饥鼯啼远树，暗鸟宿长川。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-2b2ca32e-7c6d-45e6-8e2d-708a615f5a61"
+}

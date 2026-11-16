@@ -1,0 +1,16 @@
+{
+  "id": "poem-44302b3b3f9027a2ffb219ca",
+  "title": "掩关铭",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "蛇毒毒有形，药毒毒有名。",
+    "人毒毒在心，对面如弟兄。",
+    "美言不可听，深于千丈坑。",
+    "不如掩关坐，幽鸟时一声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-1d1553c3-e3fc-4073-9512-1e6b16f06046"
+}

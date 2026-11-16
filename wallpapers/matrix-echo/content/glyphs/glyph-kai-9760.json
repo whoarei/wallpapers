@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9760",
+  "script": "kai",
+  "character": "靠",
+  "reading": "kào",
+  "description": "kào：(1)倚着，挨近倚～。～垫。～背。船～岸。\n(2)依赖依～。～托。～头。\n(3)信托可～。～得住。牢～。\n(4)传统戏剧中武将所穿的铠甲扎～。～旗。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-靠"
+}

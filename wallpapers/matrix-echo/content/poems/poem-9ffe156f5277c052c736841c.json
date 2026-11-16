@@ -1,0 +1,22 @@
+{
+  "id": "poem-9ffe156f5277c052c736841c",
+  "title": "渔家傲·名利场中空扰扰",
+  "author": "高登",
+  "dynasty": "宋",
+  "verses": [
+    "名利场中空扰扰。",
+    "十年南北东西道。",
+    "依旧缘山尘扑帽。",
+    "空懊恼。",
+    "羡他陶令归来早。",
+    "归去来兮秋已杪。",
+    "菊花又绕东篱好。",
+    "有酒一尊开口笑。",
+    "虽然老。",
+    "玉山犹解花前倒。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-233",
+  "tags": []
+}

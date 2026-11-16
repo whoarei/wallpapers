@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7269",
+  "script": "kai",
+  "character": "物",
+  "reading": "wù",
+  "description": "wù：(1)人以外的具体的东西事～。生～。～体。货～。礼～。文～。～价。～质。地大～博。～极必反。\n(2)内容，实质言之有～。\n(3)指自己以外的人或跟自己相对的环境～议（群众的批评）。待人接～。～望所归（众望所归）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-物"
+}

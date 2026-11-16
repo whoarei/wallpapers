@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8305",
+  "script": "seal",
+  "character": "茅",
+  "reading": "máo",
+  "description": "máo：多年生草本植物，春季先开花，后生叶，花穗上密生白毛。根茎可食，亦可入药。叶可编蓑衣（亦称白茅”）～草。～庐。～舍。名列前～（喻名次列在前面）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茅"
+}

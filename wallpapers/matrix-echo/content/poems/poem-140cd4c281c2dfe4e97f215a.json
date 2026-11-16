@@ -1,0 +1,14 @@
+{
+  "id": "poem-140cd4c281c2dfe4e97f215a",
+  "title": "春日杂兴  其五",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "清明过了柳花飞，帘外萋萋草正肥。",
+    "唤起惜春情绪处，空山残月杜鹃啼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-5bd07185-b03a-47a2-97aa-4917d1e9e8e1"
+}

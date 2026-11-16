@@ -1,0 +1,16 @@
+{
+  "id": "poem-b32d1152c6c382b67e5c4212",
+  "title": "赠王侍御",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "心同野鹤与尘远，诗似冰壶见底清。",
+    "府县同趋昨日事，升沈不改故人情。",
+    "上阳春晚萧萧雨，洛水寒来夜夜声。",
+    "自叹独为折腰吏，可怜騘马路傍行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-daa86f6d-98fb-4231-84c3-f0cace4efbf6"
+}

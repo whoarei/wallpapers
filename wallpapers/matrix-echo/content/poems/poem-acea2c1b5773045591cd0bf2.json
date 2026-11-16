@@ -1,0 +1,20 @@
+{
+  "id": "poem-acea2c1b5773045591cd0bf2",
+  "title": "奉和秘书元丞杪秋忆终南旧居",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "高门有才子，能履古人踪。",
+    "白社陶元亮，青云阮仲容。",
+    "田园忽归去，车马杳难逢。",
+    "废巷临秋水，支颐向暮峰。",
+    "行鱼避杨柳，惊鸭触芙蓉。",
+    "石窦红泉细，山桥紫菜重。",
+    "凤雏终食竹，鹤侣暂巢松。",
+    "愿接烟霞赏，羁离计不从。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-03b478b1-bef3-4398-ab4d-02f480749554"
+}

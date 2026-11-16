@@ -1,0 +1,16 @@
+{
+  "id": "poem-54d85a760e7f508e048a62a8",
+  "title": "师亲写版牌云 一",
+  "author": "义存",
+  "dynasty": "唐",
+  "verses": [
+    "妄身临镜照影，影与妄身不殊。",
+    "若欲去影留身，不知身影常虚。",
+    "身影从来不异，不得一有一无。",
+    "若拟憎凡爱圣，生死海里常浮。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-aba26bd0-0c7a-4cf0-a77f-4fc940c7900b"
+}

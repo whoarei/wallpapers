@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-60d1",
+  "script": "kai",
+  "character": "惑",
+  "reading": "huò",
+  "description": "huò：(1)心疑不定，不明白对还是不对疑～。困～。惶～。智者不～。\n(2)使迷乱迷～。～乱。～人耳目。蛊～人心。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-惑"
+}

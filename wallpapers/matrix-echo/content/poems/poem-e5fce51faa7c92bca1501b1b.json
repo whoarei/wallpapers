@@ -1,0 +1,16 @@
+{
+  "id": "poem-e5fce51faa7c92bca1501b1b",
+  "title": "祝英台",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "草芊芊，花苒苒，轻暖艳阳天。",
+    "才子艳质，簇拥名园，嬉戏笑蹙秋千。",
+    "排筵，好向花柳亭前，寻芳消遣。",
+    "(合)我和你双双游赏欢宴。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1737",
+  "tags": []
+}

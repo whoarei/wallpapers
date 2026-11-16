@@ -1,0 +1,20 @@
+{
+  "id": "poem-981205a1c3d8917bc10cb996",
+  "title": "减字木兰花·襄王梦里",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "襄王梦里。",
+    "草绿烟深何处是。",
+    "宋玉台头。",
+    "暮雨朝云几许愁。",
+    "飞花漫漫。",
+    "不管羁人肠欲断。",
+    "春水茫茫。",
+    "欲度南陵更断肠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-677",
+  "tags": []
+}

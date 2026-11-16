@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-773c",
+  "script": "seal",
+  "character": "眼",
+  "reading": "yǎn",
+  "description": "yǎn：(1)人和动物的视觉器官～睛。～底。～力。～色。～神。～帘。～目。～疾手快。\n(2)见识，对事物的看法～光远大。～界开阔。\n(3)孔洞，窟窿炮～。针～儿。泉～。\n(4)关节，要点节骨～儿。字～儿。\n(5)戏曲中的节拍一板三～。\n(6)当前～前利益。～下。\n(7)量词一～井。\n(8)围棋术语，一方子中所留的空儿，在这个空儿中对方不能下成活棋。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-眼"
+}

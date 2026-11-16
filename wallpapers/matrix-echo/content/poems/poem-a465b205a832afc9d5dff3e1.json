@@ -1,0 +1,16 @@
+{
+  "id": "poem-a465b205a832afc9d5dff3e1",
+  "title": "前腔",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(末)东人富室豪门，论结交须谨慎。",
+    "他人怎比得亲骨肉？久久见假和真。",
+    "寻思及早回头省，莫把亲人如陌路人。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1695",
+  "tags": []
+}

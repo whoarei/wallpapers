@@ -1,0 +1,16 @@
+{
+  "id": "poem-6f0c15c2d99669197ba7e80c",
+  "title": "遣兴五首 一",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "天用莫如龙，有时系扶桑。",
+    "顿辔海徒涌，神人身更长。",
+    "性命苟不存，英雄徒自强。",
+    "吞声勿复道，真宰意茫茫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7beb1d4a-e1c9-4fc5-9ba1-82f46a724480"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-095137e41c49e43813bac041",
+  "title": "牧童词",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "朝牧牛，牧牛下江曲。",
+    "夜牧牛，牧牛度村谷。",
+    "荷蓑出林春雨细，芦管卧吹莎草绿。",
+    "乱插蓬蒿箭满腰，不怕猛虎欺黄犊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "儿童",
+    "讽刺"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-6ff463a1-0105-4abb-a798-d6583a427af0"
+}

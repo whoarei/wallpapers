@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f8c",
+  "script": "seal",
+  "character": "羌",
+  "reading": "qiāng",
+  "description": "qiāng：(1)中国古代西部的民族～笛。\n(2)中国少数民族，主要分布于四川省～族。\n(3)文言助词，用在句首，无义～内恕己以量人兮，各兴心而嫉妒”。\n(4)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-羌"
+}

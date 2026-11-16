@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6500",
+  "script": "kai",
+  "character": "攀",
+  "reading": "pān",
+  "description": "pān：(1)抓住东西向上爬～登。～高。～越。～桂（古代指科举考试登第）。～折（zhé）。～附。～援。\n(2)拉扯，拉拢，结交～交。～扯。～谈。～亲。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-攀"
+}

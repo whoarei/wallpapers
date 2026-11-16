@@ -1,0 +1,20 @@
+{
+  "id": "poem-40b98128636311cc9a3ad5c0",
+  "title": "玉楼春·东风又作无情计",
+  "author": "晏几道",
+  "dynasty": "宋",
+  "verses": [
+    "东风又作无情计。",
+    "艳粉娇红吹满地。",
+    "碧楼帘影不遮愁，还似去年今日意。",
+    "谁知错管春残事。",
+    "到处登临曾费泪。",
+    "此时金盏直须深，看尽落花能几醉。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-28"
+}

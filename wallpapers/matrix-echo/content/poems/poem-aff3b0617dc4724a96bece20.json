@@ -1,0 +1,14 @@
+{
+  "id": "poem-aff3b0617dc4724a96bece20",
+  "title": "雨后",
+  "author": "孙介",
+  "dynasty": "宋",
+  "verses": [
+    "呼童卷帘收架书，簷溜忽断云萧疎。",
+    "山光水影净如拭，一川秋意生芙蕖。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-6547bf3b-55e0-49e0-9788-1acc15c3ce2c"
+}

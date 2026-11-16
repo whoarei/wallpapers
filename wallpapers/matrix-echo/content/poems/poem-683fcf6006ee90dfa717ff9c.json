@@ -1,0 +1,21 @@
+{
+  "id": "poem-683fcf6006ee90dfa717ff9c",
+  "title": "倦寻芳慢・倦寻芳·露晞向晚",
+  "author": "王",
+  "dynasty": "宋",
+  "verses": [
+    "露晞向晚，帘幕风轻，小院闲昼。",
+    "翠迳莺来，惊下乱红铺绣。",
+    "倚危墙，登高榭，海棠经雨胭脂透。",
+    "算韶华，又因循过了，清明时候。",
+    "倦游燕、风光满目，好景良辰，谁共携手。",
+    "恨被榆钱，买断两眉长斗。",
+    "忆高阳，人散后。",
+    "落花流水仍依旧。",
+    "这情怀，对东风、尽成消瘦。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-642",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-57cb",
+  "script": "kai",
+  "character": "埋",
+  "reading": "mái；mán",
+  "description": "mái：(1)葬～葬。\n(2)把东西放在坑里用土、雪、落叶盖上掩～。～地雷。\n(3)隐藏～没（mò）。～伏。～头。隐姓～名。\nmán：〔～怨〕因为事情不如意而对人或事物表示不满、责怪（怨”读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-埋"
+}

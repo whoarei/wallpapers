@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e9b",
+  "script": "kai",
+  "character": "些",
+  "reading": "xiē；suò",
+  "description": "xiē：(1)表示不定的数量一～。某～。～微。～许。\n(2)用在形容词后表示比较的程度病轻～了。\nsuò：《楚词》中的句末助词。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-些"
+}

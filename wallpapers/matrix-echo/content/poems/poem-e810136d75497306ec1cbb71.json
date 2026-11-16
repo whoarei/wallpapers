@@ -1,0 +1,14 @@
+{
+  "id": "poem-e810136d75497306ec1cbb71",
+  "title": "寄西峰僧",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "松暗水涓涓，夜凉人未眠。",
+    "西峰月犹在，遥忆草堂前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-4c937660-3aa1-4f1a-b39d-c41c717162ef"
+}

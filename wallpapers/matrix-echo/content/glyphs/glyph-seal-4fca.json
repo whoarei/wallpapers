@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fca",
+  "script": "seal",
+  "character": "俊",
+  "reading": "jùn",
+  "description": "jùn：(1)才智出众的人～杰。～伟。～彦（才智杰出的人）。～爽。～造（学识造诣很深的人）。\n(2)容貌美丽～俏。～美。～秀。～逸（俊美洒脱，不同凡俗）。英～。\n(3)古同峻”，大。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-俊"
+}

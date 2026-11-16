@@ -1,0 +1,17 @@
+{
+  "id": "poem-719abda63a4b547093973d46",
+  "title": "黄钟乐·池塘烟暖草萋萋",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "池塘烟暖草萋萋。",
+    "惆怅闲宵，含恨愁坐，思堪迷。",
+    "遥想玉人情事远，音容浑似隔桃溪。",
+    "偏记同欢秋月低，帘外论心，花畔和醉，暗相携。",
+    "何事春来君不见，梦魂长在锦江西。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-11"
+}

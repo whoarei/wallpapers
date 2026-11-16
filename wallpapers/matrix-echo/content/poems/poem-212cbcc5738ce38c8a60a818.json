@@ -1,0 +1,16 @@
+{
+  "id": "poem-212cbcc5738ce38c8a60a818",
+  "title": "守岁应制",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "南渡轻冰解渭桥，东方树色起招摇。",
+    "天子迎春取今夜，王公献寿用明朝。",
+    "殿上灯人争烈火，宫中侲子乱驱妖。",
+    "宜将岁酒调神药，圣祚千春万国朝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a3253a45-9c78-4b9f-b9ad-a07644697800"
+}

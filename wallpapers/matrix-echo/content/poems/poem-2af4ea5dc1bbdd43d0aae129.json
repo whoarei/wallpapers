@@ -1,0 +1,16 @@
+{
+  "id": "poem-2af4ea5dc1bbdd43d0aae129",
+  "title": "前出塞九首 四",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "送徒既有长，远戍亦有身。",
+    "生死向前去，不劳吏怒嗔。",
+    "路逢相识人，附书与六亲。",
+    "哀哉两决绝，不复同苦辛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-253b667d-e9bb-44ec-8ea9-03e1d552d9a7"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-a20c961d8d37979d421afbe3",
+  "title": "早春雪夜寄卢纶兼呈秘书元丞",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "闻君随谢朓，春夜宿前川。",
+    "看竹云垂地，寻僧月满田。",
+    "熊寒方入树，鱼乐稍离船。",
+    "独夜羇愁客，惟知惜故年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-f99c8509-6d10-44bc-aa49-90dc515dd4ce"
+}

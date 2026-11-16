@@ -1,0 +1,16 @@
+{
+  "id": "poem-03f2e27827671e5997f40a58",
+  "title": "道林寺",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "独立凭危阑，高低落照间。",
+    "寺分一派水，僧锁半房山。",
+    "对面浮世隔，垂帘到老闲。",
+    "烟云与尘土，寸步不相关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-237f07cc-729b-4af7-af21-cae00a44bf52"
+}

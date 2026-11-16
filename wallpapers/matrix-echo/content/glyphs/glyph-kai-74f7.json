@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-74f7",
+  "script": "kai",
+  "character": "瓷",
+  "reading": "cí",
+  "description": "cí：用高岭土烧成的一种质料，所做器物比陶器细致而坚硬陶～。～瓶。～壶。～碗。～器。～砖。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瓷"
+}

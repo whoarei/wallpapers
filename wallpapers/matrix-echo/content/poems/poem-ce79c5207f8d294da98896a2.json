@@ -1,0 +1,16 @@
+{
+  "id": "poem-ce79c5207f8d294da98896a2",
+  "title": "集宿姚殿中宅期僧无可不至",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "殿中日相命，开尊话旧时。",
+    "余钟催鸟绝，积雪阻僧期。",
+    "林静寒光远，天阴曙色迟。",
+    "今夕复何夕，人谒去难追。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-a62f2092-d6e9-4a7e-97a4-0baa12311aea"
+}

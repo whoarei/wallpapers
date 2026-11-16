@@ -1,0 +1,16 @@
+{
+  "id": "poem-ceec74387a4d1caa8bac4a91",
+  "title": "暮秋寄仙洲舍弟",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "去年泛菊醉重阳，今日谁知各异乡。",
+    "落叶石阑霜信早，败荷池屋雨声凉。",
+    "人情好恶花甘苦，世事荣枯草短长。",
+    "别有骏雕双翮健，刚风摩透入苍茫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-e2bb58fe-737a-4c79-9899-ace1eba62c48"
+}

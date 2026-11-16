@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-85af",
+  "script": "kai",
+  "character": "薯",
+  "reading": "shǔ",
+  "description": "shǔ：〔～莨〕a.多年生草本植物，地上有缠绕茎，地下块茎，可用来染棉、麻织品；b.这种植物的果实。\n〔～蓣〕多年生草本植物，茎蔓生，块根为圆柱形，可食。通称山药”。\n〔甘～〕a.一年生或多年生草本植物，蔓匍匐地面。块根可食，亦可制糖和酒精；b.这种植物的块根。均通称红薯”、白薯”；亦称番薯”、山芋”、地瓜”、红苕”。\n〔马铃～〕a.多年生草本植物，地下块茎可食；ｂ．这种植物的块茎。均亦称土豆儿”、山药蛋”、洋芋”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-薯"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-9dc5b843d0f435a45c603798",
+  "title": "东平路作三首 二",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "明时好画策，动欲干王公。",
+    "今日无成事，依依亲老农。",
+    "扁舟向何处？吾爱汶阳中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-a01fffef-b801-4397-958b-8435953a1802"
+}

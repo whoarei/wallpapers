@@ -1,0 +1,14 @@
+{
+  "id": "poem-d043b2e156f40f75e7f0c171",
+  "title": "浣溪沙·晚出闲庭看海棠",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "晚出闲庭看海棠，风流学得内家妆，小钗横戴一枝芳。",
+    "镂玉梳斜云鬓腻，缕金衣透雪肌香，暗思何事立残阳。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-14"
+}

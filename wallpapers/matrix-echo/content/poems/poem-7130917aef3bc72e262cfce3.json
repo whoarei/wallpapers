@@ -1,0 +1,14 @@
+{
+  "id": "poem-7130917aef3bc72e262cfce3",
+  "title": "伤进士谢庭皓",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "献书犹未达明君，何事先游岱岳云。",
+    "惟有春风护冤魄，与生青草盖孤坟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-dfb61907-f39f-4797-8ee8-4086c79317a9"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-62b959fc04c3f65cc386e82b",
+  "title": "偈颂（幷序○序为南岳齐己撰） 五十一",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "成佛人稀念佛多，念来岁久却成魔。",
+    "君今欲得易（《传灯录》作「自」）成佛，无念之心（《传灯录》作「人」）不较多。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-944e4d92-7594-4579-9e10-a7e5cbf28bc4"
+}

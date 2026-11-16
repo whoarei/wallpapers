@@ -1,0 +1,14 @@
+{
+  "id": "poem-c721dd5e293ce65ed2d76f04",
+  "title": "吊灵均",
+  "author": "王鲁复",
+  "dynasty": "唐",
+  "verses": [
+    "万古汨罗深，骚人道不沈。",
+    "明明唐日月，应见楚臣心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-bd157d95-20f8-4e64-b2df-bda96308e128"
+}

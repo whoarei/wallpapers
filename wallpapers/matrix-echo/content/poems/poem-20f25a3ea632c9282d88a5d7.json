@@ -1,0 +1,14 @@
+{
+  "id": "poem-20f25a3ea632c9282d88a5d7",
+  "title": "舞曲歌辞 凯乐歌辞 君臣同庆乐",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "主圣开昌历，臣忠奉大猷。",
+    "君看偃革后，便是太平秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-5fe98de1-5cd1-4a24-892c-56e058583719"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80ab",
+  "script": "seal",
+  "character": "肫",
+  "reading": "zhūn；chún",
+  "description": "zhūn：(1)禽类的胃（亦称胗”）鸡～。\n(2)诚恳、真挚～～。～笃。\nchún：(1)古代祭祀所用牲畜后体的一部分。\n(2)古同纯”，整体，全。\n(3)精细致密缪缪～～，其事不可循”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肫"
+}

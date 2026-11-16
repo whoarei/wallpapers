@@ -1,0 +1,16 @@
+{
+  "id": "poem-c84c04a5c2b455d0d89919a5",
+  "title": "偈颂（幷序○序为南岳齐己撰） 十六",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "人若无心称道情，觑见（《祖堂集》卷八作「识得」）无明道已明。",
+    "人能弘道道能显，道在人中人自宁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-228fef27-ae89-4cc6-9ef9-bef76a4b1948"
+}

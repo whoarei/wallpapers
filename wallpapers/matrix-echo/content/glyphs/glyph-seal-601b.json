@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-601b",
+  "script": "seal",
+  "character": "怛",
+  "reading": "dá",
+  "description": "dá：(1)忧伤，悲苦～～（忧伤不安）。～伤。～忧。惨～。\n(2)惊惧。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怛"
+}

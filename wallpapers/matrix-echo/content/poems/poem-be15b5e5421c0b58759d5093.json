@@ -1,0 +1,16 @@
+{
+  "id": "poem-be15b5e5421c0b58759d5093",
+  "title": "寻刘处士",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "几年人不见，林下掩柴关。",
+    "留客当清夜，逢君话旧山。",
+    "隔城寒杵急，带月早鸿还。",
+    "南陌虽相近，其如隐者闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-803b76e6-7aed-4569-88a8-7cd6c5b74c6a"
+}

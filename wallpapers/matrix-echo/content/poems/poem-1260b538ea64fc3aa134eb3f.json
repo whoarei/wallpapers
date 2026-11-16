@@ -1,0 +1,19 @@
+{
+  "id": "poem-1260b538ea64fc3aa134eb3f",
+  "title": "伏虎岭残雪",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "晴得一霜晴更稳，饱饭不怕伏虎岭。",
+    "山高积雪冻犹在，昨日空惊雪画本。",
+    "日烘高树玉槎牙，时有冰花堕无影。",
+    "纷纷垂丝白海棠，得冷时能略苏醒。",
+    "可怪此君大曲折，向人雅拜欲求拯。",
+    "拥袍公子亦吟雪，岂识山中有此景。",
+    "笪桥烛下写诗成，一尊独酌谁能省。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-a6c3a1b3-a56c-4ae3-b1d4-07b805bc5d40"
+}

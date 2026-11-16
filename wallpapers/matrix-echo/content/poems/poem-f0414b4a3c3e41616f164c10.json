@@ -1,0 +1,14 @@
+{
+  "id": "poem-f0414b4a3c3e41616f164c10",
+  "title": "唐昌观看花",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "新红旧紫不相宜，看觉从前两月迟。",
+    "更向同来诗客道，明年到此莫过时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-833f4a39-0f62-420f-8033-870d5e243d7e"
+}

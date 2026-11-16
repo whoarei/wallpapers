@@ -1,0 +1,21 @@
+{
+  "id": "poem-17d6b3eaf1ca2c7483916422",
+  "title": "寄左省杜拾遗",
+  "author": "岑参",
+  "dynasty": "唐",
+  "verses": [
+    "联步趋丹陛，分曹限紫微。",
+    "晓随天仗入，暮惹御香归。",
+    "白发悲花落，青云羡鸟飞。",
+    "圣朝无阙事，自觉谏书稀。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "仕途",
+    "五言律诗",
+    "感慨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-2779f710-4ab4-46cb-a2b6-1889752f26c2"
+}

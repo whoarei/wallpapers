@@ -1,0 +1,18 @@
+{
+  "id": "poem-4abd166a4db231a8f1c33cf8",
+  "title": "送边上从事",
+  "author": "周繇",
+  "dynasty": "唐",
+  "verses": [
+    "戎装佩镆鎁，走马逐轻车。",
+    "衰草城边路，残阳垄上笳。",
+    "黄河穿汉界，青冢出胡沙。",
+    "提笔男儿事，功名立可夸。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6b74a409-0c54-4a99-a245-972e4189538a"
+}

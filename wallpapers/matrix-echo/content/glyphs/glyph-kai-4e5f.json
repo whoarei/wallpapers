@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e5f",
+  "script": "kai",
+  "character": "也",
+  "reading": "yě",
+  "description": "yě：(1)副词，表示同样、并行的意思你去，我～去。\n(2)在否定句里表示语气的加强一点儿～不错。\n(3)在复句中表转折意虽然你不说，我～能猜个八九不离十。\n(4)文言语气助词（a.表判断；b.表疑问；c.表停顿；d.形容词尾）。\n(5)表示容忍或承认某种情况～罢。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-也"
+}

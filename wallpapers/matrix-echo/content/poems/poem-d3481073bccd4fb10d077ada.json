@@ -1,0 +1,14 @@
+{
+  "id": "poem-d3481073bccd4fb10d077ada",
+  "title": "诗上尧夫先生兼寄伯淳正叔  其一",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "先生高卧洛城中，洛邑簪缨幸所同。",
+    "顾我成年清渭上，并游无侣又春风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-1a0df2fe-cf00-4aec-b6cd-89e5b0911b32"
+}

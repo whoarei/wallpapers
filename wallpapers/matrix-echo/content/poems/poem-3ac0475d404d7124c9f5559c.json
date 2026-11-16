@@ -1,0 +1,16 @@
+{
+  "id": "poem-3ac0475d404d7124c9f5559c",
+  "title": "秘省伴直",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "乔枝聚暝禽，叠阁锁遥岑。",
+    "待月当秋直，看书废夜吟。",
+    "残薪留火细，古井下瓶深。",
+    "纵欲抄前史，贫难遂此心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-852b7cfa-6c72-433b-b69a-8ce908dc2ed6"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5fc5",
+  "script": "seal",
+  "character": "必",
+  "reading": "bì",
+  "description": "bì：(1)一定～定。～然。～须（一定要）。～需（不可少的）。势～。未～。事～躬亲。\n(2)决定，肯定深念远虑兮，胜乃可～”。\n(3)固执毋意，毋～”。\n(4)果真，假使王～无人，臣愿奉璧往使”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-必"
+}

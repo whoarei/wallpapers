@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d39",
+  "script": "kai",
+  "character": "费",
+  "reading": "fèi",
+  "description": "耗损\n⒈消耗，花掉～尽心机。花～太大。～劲。～时间。莫浪～。\n⒉费用，为某种需要所使用的款项军～。学～。旅～。电～。\n【费解】不好懂他说的这句话太～解。\n费fú 1.违背，不顺利。\n费bì 1.古地名。春秋鲁邑，在今山东省费县西北。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-费"
+}

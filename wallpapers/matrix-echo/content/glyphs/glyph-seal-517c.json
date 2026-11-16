@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-517c",
+  "script": "seal",
+  "character": "兼",
+  "reading": "jiān",
+  "description": "jiān：(1)加倍，把两份并在一起～旬（两个十天）。～程。～并。\n(2)同时涉及或所具有的不只一方面～而有之。～收并蓄。～顾。～职。～任。～课。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-兼"
+}

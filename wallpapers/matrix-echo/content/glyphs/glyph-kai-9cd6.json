@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9cd6",
+  "script": "kai",
+  "character": "鳖",
+  "reading": "biē",
+  "description": "北各地,多栖于池沼、河沟、稻田中,肉味鲜美,一般认为是补品\n鳖 biē爬行纲，鳖科。生活在水中，背甲长可达24厘米，一般为橄榄色，腹面乳白色。肉可食用，鳖甲可入药。又称甲鱼或团鱼。有的地区叫鼋。俗称王八。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鳖"
+}

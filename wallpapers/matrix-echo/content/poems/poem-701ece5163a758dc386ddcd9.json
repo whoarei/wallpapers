@@ -1,0 +1,14 @@
+{
+  "id": "poem-701ece5163a758dc386ddcd9",
+  "title": "霜天晓角",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生，杂从上)黄堂佐政齐黎庶，肯将清似月扬辉，如渊彻底，愿效汉循良吏。",
+    "勤簿书，门馆无私，日以刑名为事。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8299",
+  "tags": []
+}

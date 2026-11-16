@@ -1,0 +1,18 @@
+{
+  "id": "poem-2ce6b60b4a02fe7384871ca4",
+  "title": "送姜贫乐赴陈华亭约  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "僦屋傍西湖，湖光浸屋除。",
+    "秋荷纫雨后，邻米饷斋余。",
+    "句熟如圜转，谋生似我疎。",
+    "拙吟方巧宦，骚雅费甾畬。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-19d13ed2-5cb4-4497-ae17-4ba80e744a03"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b0a6a103b59886e7f1973972",
+  "title": "游鱼",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "弄萍隈荇思夷犹，掉尾扬鬐逐慢流。",
+    "应怕碧岩岩下水，浮藤如线月如钩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-5926bdfb-7c59-4ecf-9ec8-c6b6050227f1"
+}

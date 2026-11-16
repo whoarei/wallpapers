@@ -1,0 +1,18 @@
+{
+  "id": "poem-890e8369e4469616e8946b7d",
+  "title": "木兰花・玉楼春·黄金万缕风牵细",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "黄金万缕风牵细。",
+    "寒食初头春有味。",
+    "𣨼烟尤雨索春饶，一日三眠夸得意。",
+    "章街隋岸欢游地。",
+    "高拂楼台低映水。",
+    "楚王空待学风流，饿损宫腰终不似。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-245",
+  "tags": []
+}

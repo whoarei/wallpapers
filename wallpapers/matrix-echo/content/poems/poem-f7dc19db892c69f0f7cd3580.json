@@ -1,0 +1,16 @@
+{
+  "id": "poem-f7dc19db892c69f0f7cd3580",
+  "title": "玄都观",
+  "author": "蜀太后徐氏",
+  "dynasty": "唐",
+  "verses": [
+    "千寻绿嶂夹流溪，登眺因知海岳低。",
+    "瀑布迸舂青石碎，轮茵横翦翠峰齐。",
+    "步黏苔藓龙桥滑，日闭烟罗鸟径迷。",
+    "莫道穹天无路到，此山便是碧云梯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-b07e39b5-eafc-4493-a320-454e7a81149a"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-13b7fe20bc17af4a1fb7b88a",
+  "title": "红窗月·燕归花谢",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "燕归花谢，早因循、又过清明。",
+    "是一般风景，两样心情。",
+    "犹记碧桃影里、誓三生。",
+    "乌丝阑纸娇红篆，历历春星。",
+    "道休孤密约，鉴取深盟。",
+    "语罢一丝香露、湿银屏。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-143"
+}

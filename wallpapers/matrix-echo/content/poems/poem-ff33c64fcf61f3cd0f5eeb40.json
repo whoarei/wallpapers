@@ -1,0 +1,14 @@
+{
+  "id": "poem-ff33c64fcf61f3cd0f5eeb40",
+  "title": "题北村六首  其六",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "渭南泾北已三迁，水旱纵横数顷田。",
+    "四十二年居陕右，老年生计似初年。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-d79c450a-f485-426d-b379-e455a1375e64"
+}

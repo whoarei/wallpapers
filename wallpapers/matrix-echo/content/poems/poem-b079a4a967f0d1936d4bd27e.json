@@ -1,0 +1,16 @@
+{
+  "id": "poem-b079a4a967f0d1936d4bd27e",
+  "title": "家兄有和再用韵  其三",
+  "author": "艾可翁",
+  "dynasty": "宋",
+  "verses": [
+    "乱离生世晚，衰白在人前。",
+    "云水飞饥鹤，山林付乱蝉。",
+    "日今行黑道，人有隔黄泉。",
+    "晷渐秋来短，愁长亦敌年。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-222ed8d0-26f5-4148-b107-e9b4b5424ad2"
+}

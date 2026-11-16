@@ -1,0 +1,14 @@
+{
+  "id": "poem-12147db0592b1951df81ec14",
+  "title": "小游仙诗九十八首 三十一",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "鹤不西飞龙不行，露干云破洞箫清。",
+    "少年僊子说闲事，遥隔彩云闻笑声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-f39ea99f-85ac-4066-bd9a-381d8ebf5f4a"
+}

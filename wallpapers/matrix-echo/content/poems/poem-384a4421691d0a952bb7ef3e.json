@@ -1,0 +1,17 @@
+{
+  "id": "poem-384a4421691d0a952bb7ef3e",
+  "title": "浣溪沙·百花丛里试新妆",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "百花丛里试新妆。",
+    "不许巫山枉断肠。",
+    "牡丹风扬曲声长。",
+    "寒食清明闲节序，绮窗朱户少年场。",
+    "燕泥香润落空梁。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-486",
+  "tags": []
+}

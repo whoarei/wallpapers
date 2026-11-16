@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-75e2",
+  "script": "kai",
+  "character": "痢",
+  "reading": "lì",
+  "description": "lì：(1)中医学病名，古称滞下”。又因病情不同而有赤～”、白～”、赤白～”、噤口～”等名。\n(2)见瘌”字瘌痢”。\n〔～疾〕传染病。症状有大便频繁，腹痛，发热，粪便带脓、血和黏液等。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-痢"
+}

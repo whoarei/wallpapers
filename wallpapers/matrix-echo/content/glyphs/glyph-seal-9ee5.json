@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9ee5",
+  "script": "seal",
+  "character": "黥",
+  "reading": "qíng",
+  "description": "qíng：(1)古代在人脸上刺字并涂墨之刑，后亦施于士兵以防逃跑～首。\n(2)在人体上刺文字或图案并涂上颜色。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-黥"
+}

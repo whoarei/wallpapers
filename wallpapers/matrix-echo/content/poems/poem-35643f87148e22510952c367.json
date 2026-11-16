@@ -1,0 +1,19 @@
+{
+  "id": "poem-35643f87148e22510952c367",
+  "title": "画堂春·小槽春酿香红",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "小槽春酿香红。",
+    "良辰飞盖相从。",
+    "主人着意在金钟。",
+    "茗碗作先容。",
+    "欲到醉乡深处，应须仗、两腋香风。",
+    "献酬高兴渺无穷。",
+    "归骑莫匆匆。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-174",
+  "tags": []
+}

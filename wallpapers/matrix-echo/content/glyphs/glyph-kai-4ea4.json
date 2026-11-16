@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ea4",
+  "script": "kai",
+  "character": "交",
+  "reading": "jiāo",
+  "description": "jiāo：(1)付托，付给～活儿。～卷。～差。\n(2)相错，接合～点。～界。～错。～相。～辉。～响乐。\n(3)互相来往联系～流。～易。～涉。\n(4)与人相友好～朋友。～契。\n(5)一齐，同时～并。～作。风雨～加。\n(6)两性和合性～。杂～。\n(7)同跤”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-交"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d8a",
+  "script": "seal",
+  "character": "越",
+  "reading": "yuè",
+  "description": "yuè：(1)度过，超出～过。～冬。～级。～轨。～权。～境。～位。～狱。～俎代庖。\n(2)声音、情感扬起，昂扬激～。声音清～。\n(3)表示程度加深～发（更加）。～加。～快～好。\n(4)消散精神劳则～”。\n(5)失坠，坠落陨～。射其左。～于车下”。\n(6)中国古民族名百～（亦作百粤”）。\n(7)中国周代诸侯国名◇用作浙江省东部的别称～剧。～凫楚乙（乙”，燕子。喻对于同一事物，由于自身条件的局限而作出不同的判断）。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-越"
+}

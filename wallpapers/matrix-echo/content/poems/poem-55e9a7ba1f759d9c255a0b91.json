@@ -1,0 +1,14 @@
+{
+  "id": "poem-55e9a7ba1f759d9c255a0b91",
+  "title": "西津渡",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "掀天雪浪镇三边，亿万王师未必然。",
+    "可惜大江如旧日，苦无人著祖生鞭。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-7c6e0f70-80ed-47a2-85ae-0bc012502144"
+}

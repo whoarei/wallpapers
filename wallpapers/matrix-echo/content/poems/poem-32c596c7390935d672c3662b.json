@@ -1,0 +1,20 @@
+{
+  "id": "poem-32c596c7390935d672c3662b",
+  "title": "郊庙歌辞 汉宗庙乐舞辞 灵长舞",
+  "author": "张昭",
+  "dynasty": "唐",
+  "verses": [
+    "天降祥，汉祚昌。",
+    "火炎上，水灵长。",
+    "建庙社，洁蒸尝。",
+    "罗钟石，俨珩璜。",
+    "陈玉豆，酌金觞。",
+    "气昭感，德馨香。",
+    "祗洛汭，瞻晋阳。",
+    "降吾祖，福穰穰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-07232e95-0109-4302-ad90-957ca3c2cd2f"
+}

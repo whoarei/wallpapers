@@ -1,0 +1,14 @@
+{
+  "id": "poem-e59f58cab3481bb98caf7cd9",
+  "title": "柳叶儿",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "我又想当年时分，哭啼啼送你到江滨。",
+    "今日个蒲帆百尺西风顺，休辞困，暂劳神，天那，谁承望血修书弄假成真？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-7966",
+  "tags": []
+}

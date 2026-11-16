@@ -1,0 +1,16 @@
+{
+  "id": "poem-4f8928fcbf7d80301dd7827b",
+  "title": "衞明府寄枇杷叶以诗荅",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "倾筐呈绿叶，重叠色何鲜。",
+    "讵是秋风里，犹如晓露前。",
+    "仙方当见重，消疾本应便。",
+    "全胜甘蕉赠，空投谢氏篇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-04e6eb11-0b8c-4b26-ae73-2c7dc13845dc"
+}

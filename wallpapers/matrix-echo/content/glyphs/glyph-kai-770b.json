@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-770b",
+  "script": "kai",
+  "character": "看",
+  "reading": "kàn；kān",
+  "description": "kàn：(1)使视线接触人或物～见。～书。～齐。\n(2)观察，判断～病。观～。～好（根据市场情况，估计某种商品好销）。～透（透彻深刻地了解或认识。亦称看破”、看穿”）。～风使舵。\n(3)访问，拜望～望。～朋友。\n(4)照应，对待～重（zhòng）。～轻。～待。\n(5)想，以为～法。\n(6)先试试以观察它的结果做做～。\n(7)提防，小心别跑，～摔着。\n(8)安排～茶。～酒。～座。\n瞅；顾；观；瞥；瞧；视；望；\nkān：守护，监视～护。～押。～门。～青（看守正在结实还未成熟的庄稼）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-看"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6cdb",
+  "script": "kai",
+  "character": "泛",
+  "reading": "fàn",
+  "description": "fàn：(1)漂浮～舟。\n(2)透出脸上～出了红晕。\n(3)浮浅，不切实浮～。空～。～～之交（友谊不深）。～～而谈。\n(4)一般地～论。～指。～称。广～。～览。～读。\n(5)水向四处漫流～溢。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-泛"
+}

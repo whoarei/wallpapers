@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-738b",
+  "script": "seal",
+  "character": "王",
+  "reading": "wáng；wàng",
+  "description": "wáng：(1)古代一国君主的称号，现代有些国家仍用这种称号～国。～法。公子～孙。～朝（cháo）。\n(2)中国古代皇帝以下的最高爵位～公。～侯。\n(3)一族或一类中的首领山大～。蜂～。～牌（桥牌中最大的牌；喻最有力的人物或手段）。\n(4)大～父（祖父）。～母（祖母）。\n(5)姓。\nwàng：古代指统治者谓以仁义取得天下～天下。～此大邦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-王"
+}

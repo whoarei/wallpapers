@@ -1,0 +1,16 @@
+{
+  "id": "poem-cca37c5004267f08e3b7c26f",
+  "title": "更漏子 其一",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "柳丝长，春雨细，花外漏声迢递。",
+    "惊塞雁，起城乌，画屏金鹧鸪。",
+    "香雾薄，透帘幕，惆怅谢家池阁。",
+    "红烛背，绣帘垂，梦长君不知。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-14",
+  "tags": []
+}

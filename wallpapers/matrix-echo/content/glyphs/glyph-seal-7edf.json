@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7edf",
+  "script": "seal",
+  "character": "统",
+  "reading": "tǒng",
+  "description": "世代相继的系统\n纲纪,准则\n鞋袜等的筒状部分\n⒈丝的头绪抽其～。\n⒉事物的连续或彼此相连的关系系～。传～。血～。\n⒊纲要，纲领不知其～。\n⒋总括，综合，全面地～计。～筹。～理。\n⒍主管，率领～管。～辖。～兵百万。\n①部分结合成整体，分歧趋于一致全国～一。意见～一。\n②一致的，单一的～一认识。～一领导。\n①凭借政权来控制、治理国家或地区。\n②占绝对优势，支配控制别的事物。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-统"
+}

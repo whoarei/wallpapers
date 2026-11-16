@@ -1,0 +1,20 @@
+{
+  "id": "poem-66ec60ca219e0c68d7b2a357",
+  "title": "谒金门·香乍起",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "香乍起。",
+    "满院垂垂岩桂。",
+    "未卷珠帘香已至。",
+    "酒杯言笑里。",
+    "叶下茸金繁蕊。",
+    "别是清妍风致。",
+    "更远随人闻细细。",
+    "月华天似水。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-159",
+  "tags": []
+}

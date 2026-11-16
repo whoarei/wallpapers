@@ -1,0 +1,14 @@
+{
+  "id": "poem-b4d01cf17c82ecd4aedccf88",
+  "title": "寄路温州",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "欲问采灵药，如何学无生。",
+    "爱鹤颇似君，且非求仙情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-eaeabc88-36d3-4e27-a3ac-9f63a4120216"
+}

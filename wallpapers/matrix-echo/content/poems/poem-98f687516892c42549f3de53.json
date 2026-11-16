@@ -1,0 +1,16 @@
+{
+  "id": "poem-98f687516892c42549f3de53",
+  "title": "好事近·对竹擘吟笺",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "对竹擘吟笺，正是赏梅时节。",
+    "便把这些清致，作东湖三绝。",
+    "帝家金鼎待调羹，何似且休折。",
+    "却爱玉楼清弄，褪霏霏香雪。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-150",
+  "tags": []
+}

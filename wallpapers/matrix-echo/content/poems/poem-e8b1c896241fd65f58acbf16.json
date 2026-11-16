@@ -1,0 +1,16 @@
+{
+  "id": "poem-e8b1c896241fd65f58acbf16",
+  "title": "定西番·年少登瀛词客",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "年少登瀛词客，飘逸气，拂晴霓。",
+    "尽带江南春色、过长淮。",
+    "一曲艳歌留别，翠蝉摇宝钗。",
+    "此后吴姬难见、且徘徊。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-347",
+  "tags": []
+}

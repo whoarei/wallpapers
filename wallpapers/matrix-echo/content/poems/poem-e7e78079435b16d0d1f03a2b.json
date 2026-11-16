@@ -1,0 +1,16 @@
+{
+  "id": "poem-e7e78079435b16d0d1f03a2b",
+  "title": "边上送友人归宁",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "乡路穿京过，宁心去少同。",
+    "日斜寻阔碛，春尽逐归鸿。",
+    "独树河声外，凝笳塞色中。",
+    "怜君到此处，却背老莱风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-33de29ff-0129-4ff6-a175-529713d046c0"
+}

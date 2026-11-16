@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f80",
+  "script": "seal",
+  "character": "往",
+  "reading": "wǎng",
+  "description": "wǎng：(1)去，到～返。～复。～还（huán）。～来。交～。向～。勇～直前。\n(2)过去～昔。～日。～事。～古。～常。以～。一如既～。\n(3)同望”⑤。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-往"
+}

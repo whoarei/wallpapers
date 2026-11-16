@@ -1,0 +1,14 @@
+{
+  "id": "poem-85446b3c49e137bd9906ccc2",
+  "title": "雨后山水入潮江方岩索赋",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "湍雪投江只得浑，观澜未了复消魂。",
+    "不知从此随流去，清白何时得反元。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-64e3e3bb-8eb1-4af0-9d45-20bfa21a07b5"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-607a",
+  "script": "seal",
+  "character": "恺",
+  "reading": "kǎi",
+  "description": "假借为凯”。军队胜利后所奏之乐\n⒈欢乐，和乐大～。\n⒊〈古〉通\"凯\"奏～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-恺"
+}

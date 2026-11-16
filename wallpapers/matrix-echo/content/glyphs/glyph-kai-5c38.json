@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c38",
+  "script": "kai",
+  "character": "尸",
+  "reading": "shī",
+  "description": "shī：(1)死人的身体～体。～骸。僵～。借～还魂。\n(2)古代祭祀时，代表死者受祭的人。\n〔～位〕空占着职位而不做事，如～～素餐，～～误国”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-尸"
+}

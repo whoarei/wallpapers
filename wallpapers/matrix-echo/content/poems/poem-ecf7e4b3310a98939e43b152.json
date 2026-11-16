@@ -1,0 +1,17 @@
+{
+  "id": "poem-ecf7e4b3310a98939e43b152",
+  "title": "渔夫舞·济涉还渠渔父子",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "济涉还渠渔父子。",
+    "生涯只在烟波里。",
+    "练静忽然风又起。",
+    "赢得底。",
+    "吹来别浦看桃李。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-40",
+  "tags": []
+}

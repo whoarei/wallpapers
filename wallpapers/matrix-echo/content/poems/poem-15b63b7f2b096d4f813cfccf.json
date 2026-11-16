@@ -1,0 +1,16 @@
+{
+  "id": "poem-15b63b7f2b096d4f813cfccf",
+  "title": "河渎神·汾水碧依依",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "汾水碧依依，黄云落叶初飞。",
+    "翠华一去不言归，庙门空掩斜晖。",
+    "四壁阴森排古画，依旧琼轮羽驾。",
+    "小殿沉沉清夜，银灯飘落香灺。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-5"
+}

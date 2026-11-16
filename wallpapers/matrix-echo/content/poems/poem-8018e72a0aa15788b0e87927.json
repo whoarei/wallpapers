@@ -1,0 +1,22 @@
+{
+  "id": "poem-8018e72a0aa15788b0e87927",
+  "title": "长安书事寄卢纶",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "弱冠家庐岳，从师岁月深。",
+    "翻同老夫见，殊寡少年心。",
+    "及此时方晏，因之名亦沈。",
+    "趋途非要路，避事乐空林。",
+    "素业在山下，青泉当树阴。",
+    "交游有凋丧，离别代追寻。",
+    "向秀初闻笛，钟期久罢琴。",
+    "残愁犹满貌，余泪可沾襟。",
+    "勿以朱颜好，而忘白发侵。",
+    "终期入灵洞，相与炼黄金。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-017cc40c-e1e0-492e-9e35-f19cb643ad13"
+}

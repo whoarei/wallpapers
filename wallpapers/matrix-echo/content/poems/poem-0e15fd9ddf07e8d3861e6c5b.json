@@ -1,0 +1,13 @@
+{
+  "id": "poem-0e15fd9ddf07e8d3861e6c5b",
+  "title": "送鴈",
+  "author": "虚中",
+  "dynasty": "唐",
+  "verses": [
+    "云梦[千]（午）（从《诗学指南》本改）行去，潇湘一夜空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-9d01c9b5-603e-47c1-8abf-e03fff5b6732"
+}

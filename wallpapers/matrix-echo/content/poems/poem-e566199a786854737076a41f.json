@@ -1,0 +1,16 @@
+{
+  "id": "poem-e566199a786854737076a41f",
+  "title": "回中夜访独孤从事",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "满庭霜月魄，风静绝纤闻。",
+    "边境时无事，州城夜访君。",
+    "拥裘听塞角，酌醴话湘云。",
+    "赞佐元戎美，恩齐十万军。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3d828921-91fb-4ada-8631-dfae14941a9b"
+}

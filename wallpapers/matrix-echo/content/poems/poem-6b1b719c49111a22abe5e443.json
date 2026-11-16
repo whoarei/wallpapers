@@ -1,0 +1,14 @@
+{
+  "id": "poem-6b1b719c49111a22abe5e443",
+  "title": "寄远",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "禁钟声尽见栖禽，关塞迢迢故国心。",
+    "无限春愁莫相问，落花流水洞房深。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-a06be1d4-e9d9-4e50-9447-adc4118c8b68"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-9ef526cd18729c427733cb63",
+  "title": "临江仙·尚忆去年称寿日",
+  "author": "魏了翁",
+  "dynasty": "宋",
+  "verses": [
+    "尚忆去年称寿日，彩衣犹带天香。",
+    "今年还见雁成行。",
+    "两头娘子拜，笑领伯仁觞。",
+    "知是几年培植底，如今满院芬芳。",
+    "只凭方寸答苍苍。",
+    "春风来不断，点缀艳阳妆。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-434",
+  "tags": []
+}

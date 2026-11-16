@@ -1,0 +1,16 @@
+{
+  "id": "poem-ad23b99c783c630fdb4fb09a",
+  "title": "秦州杂诗",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "凤林戈未息，鱼海路常难。",
+    "候火云峰峻，悬军幕井干。",
+    "风连西极动，月过北庭寒。",
+    "故老思飞将，何时议筑坛。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-秦州雜詩"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-7545c63f7e54e610a4f8768e",
+  "title": "读史",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "鬼书报秦亡，天地亦云闭。",
+    "赤龙吟大野，老[母]哭白帝。",
+    "苍苍无白日，项氏徒先济。",
+    "六合已姓刘，鸿门事难制。",
+    "坑降嬴政在，衣锦人望替。",
+    "宿昔见汉兵，龙蛇满旌棨。",
+    "始矜山可拔，终叹骓不逝。",
+    "区区亚父心，未究天人际。",
+    "萧张马无汗，盛业垂千世。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-0da128ae-3425-4b49-9dd3-1c1cd99e9030"
+}

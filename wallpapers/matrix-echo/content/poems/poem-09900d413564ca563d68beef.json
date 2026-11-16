@@ -1,0 +1,16 @@
+{
+  "id": "poem-09900d413564ca563d68beef",
+  "title": "游麻姑山二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "鲁公辞翰勒山巅，骾峭风姿亦喜僊。",
+    "假道来游非偶尔，追寻遗迹更茫然。",
+    "野花幽草堪成梦，老鹤乔松不记年。",
+    "谁谓瑶台无路到，月明风露正涓涓。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-c3521efb-2a2c-4932-b256-53978b2b5aaf"
+}

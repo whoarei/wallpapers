@@ -1,0 +1,17 @@
+{
+  "id": "poem-f1e1eb6d3e1150c46ac06f4c",
+  "title": "浣溪沙·绿叶红花媚晓烟",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "绿叶红花媚晓烟。",
+    "黄蜂金蕊欲披莲。",
+    "水风深处懒回船。",
+    "可惜异香珠箔外，不辞清唱玉尊前。",
+    "使星归觐九重天。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-440",
+  "tags": []
+}

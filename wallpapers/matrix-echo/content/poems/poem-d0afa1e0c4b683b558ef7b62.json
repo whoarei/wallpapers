@@ -1,0 +1,16 @@
+{
+  "id": "poem-d0afa1e0c4b683b558ef7b62",
+  "title": "秋夕",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "春恨复秋悲，秋悲难到时。",
+    "每逢明月夜，长起故山思。",
+    "巷僻行吟远，蛩多独卧迟。",
+    "溪僧与樵客，动别十年期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3e22fdfe-3e2f-4130-a417-bb748a736edd"
+}

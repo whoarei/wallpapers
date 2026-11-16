@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-66f4",
+  "script": "seal",
+  "character": "更",
+  "reading": "gèng；gēng",
+  "description": "gēng：(1)改变，改换～正。～生（重新获得生命，喻复兴）。～衣（ａ．换衣服；ｂ．婉辞，上厕所）。～定（改订）。～迭（轮流更换）。～递。～番。～新（旧的除去，新的建起）。～张（调节琴弦，喻变更或改革）。\n(2)经历少（shào）不～事（年龄小，没有经历过多少事情）。\n(3)旧时夜间计时单位，一夜分为五更～时。～阑。～夫。～鼓。～漏（原指计时用的漏壶，后泛指时辰）。\ngèng：愈加，再～加。～好。～上一层楼。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-更"
+}

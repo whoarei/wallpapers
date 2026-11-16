@@ -1,0 +1,16 @@
+{
+  "id": "poem-0b1a63f665d5a9ee0508a648",
+  "title": "题空山人石室",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "早晚悟无生，头陀不到城。",
+    "云山知夏腊，猨鸟见修行。",
+    "地僻无溪路，人寻逐水声。",
+    "年年深谷里，谁识远公名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-8da62a2e-2782-4b7a-80c7-45042284ffc2"
+}

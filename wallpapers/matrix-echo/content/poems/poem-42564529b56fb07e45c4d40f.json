@@ -1,0 +1,16 @@
+{
+  "id": "poem-42564529b56fb07e45c4d40f",
+  "title": "郊庙歌辞 享章怀太子庙乐章 迎神",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "副君昭象，道应黄离。",
+    "铜楼备德，玉裕成规。",
+    "仙气霭霭，灵从师师。",
+    "前驱戾止，控鹤来仪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f03e0bf6-9cfd-4209-9617-f25c4499343a"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-52a8ea5712068c577b2b8e54",
+  "title": "咏史诗 南阳",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "世乱英雄百战余，孔明方此乐耕锄。",
+    "蜀王不自垂三顾，争得先生出旧庐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-bfda82d8-3c7d-4443-b1be-3959502a3c96"
+}

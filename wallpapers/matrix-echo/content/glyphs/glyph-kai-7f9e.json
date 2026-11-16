@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7f9e",
+  "script": "kai",
+  "character": "羞",
+  "reading": "xiū",
+  "description": "xiū：(1)感到耻辱～耻。～辱。～恶。\n(2)难为情，害臊害～。～惭。～臊（sào）。～愧‖～。～赧（因害臊而红了脸的样子）。～怯。～涩。\n(3)使难为情～人。你别～我。\n(4)进献～玉芝以疗饥”。\n(5)同馐”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-羞"
+}

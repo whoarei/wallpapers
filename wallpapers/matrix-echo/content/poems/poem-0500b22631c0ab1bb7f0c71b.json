@@ -1,0 +1,16 @@
+{
+  "id": "poem-0500b22631c0ab1bb7f0c71b",
+  "title": "相见欢·林花谢了春红",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "林花谢了春红，太匆匆！",
+    "无奈朝来寒雨晚来风。",
+    "胭脂泪，留人醉，几时重？",
+    "自是人生长恨水长东！"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-16"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ca444b41b688f9506c89158e",
+  "title": "偈颂（幷序○序为南岳齐己撰） 四十一",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "一室一床居物外，一瓶一钵寄生涯。",
+    "门前纵有通村路，是我何曾识一家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-d2a30d72-90cf-4436-9c2d-f53d11494bfe"
+}

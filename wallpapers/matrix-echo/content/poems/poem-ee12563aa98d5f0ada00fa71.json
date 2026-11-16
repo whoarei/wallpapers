@@ -1,0 +1,13 @@
+{
+  "id": "poem-ee12563aa98d5f0ada00fa71",
+  "title": "句",
+  "author": "林杰",
+  "dynasty": "唐",
+  "verses": [
+    "金盘摘下挂朱颗，红壳开时饮玉浆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-903bd047-49ab-401d-a07f-4c62095f3dca"
+}

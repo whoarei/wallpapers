@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-68d5",
+  "script": "seal",
+  "character": "棕",
+  "reading": "zōng",
+  "description": "zōng：〔～榈〕常绿乔木，茎直立不分枝，叶大，木材可制器具，通称棕树”。\n〔～毛〕棕榈叶鞘的纤维，简称棕”，如～绳”，～绷”，～帚”，～编”。\n〔～熊〕哺乳动物，体大，毛棕褐色。掌和肉可食，皮可制皮褥，胆可入药。亦称马熊”、罴”；通称人熊”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-棕"
+}

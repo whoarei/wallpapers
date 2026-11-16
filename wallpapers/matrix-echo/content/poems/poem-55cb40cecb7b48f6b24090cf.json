@@ -1,0 +1,18 @@
+{
+  "id": "poem-55cb40cecb7b48f6b24090cf",
+  "title": "古意九首 七",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "常思谢康乐，文章有神力。",
+    "是何清风清，凛然似相识。",
+    "一种为顽嚚，得作翻经石。",
+    "一种为枯槁，得作登山屐。",
+    "永嘉为郡后，山水添鲜碧。",
+    "何当学羽翰，一去观遗迹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4e260c15-8a1d-43a3-ba62-4827397397e3"
+}

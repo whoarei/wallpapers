@@ -1,0 +1,16 @@
+{
+  "id": "poem-45307dcab41b495baf17cd67",
+  "title": "长信宫",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "簟凉秋气初，长信恨何如。",
+    "拂黛月生指，解鬟云满梳。",
+    "一从悲画扇，几度泣前鱼。",
+    "坐听南宫乐，清风摇翠裾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-50397bb4-b68f-43a0-bc2c-b7cfa36f50da"
+}

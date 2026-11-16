@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e3b",
+  "script": "kai",
+  "character": "主",
+  "reading": "zhǔ",
+  "description": "zhǔ：(1)权力或财物的所有者，家庭的首脑～人。物～。失～（失掉财物的人）。当家作～。\n(2)旧时臣子称君王，下级称上级，仆人称家主君～。～上。\n(3)对事物的意见或认为应当如何处理，决定～张。～见。～意。～义。\n(4)对事物有决定权力民～。自～。～持。～宰。～权（一个国家的独立自主的权力）。\n(5)最重要的，最基本的～次。～要。～力。～将（jiàng）。\n(6)预示早霞～雨。\n(7)旧时为死人立的牌位木～。神～。\n(8)基督教、伊斯兰教对所信仰的神或本教创始人的称呼。\n(9)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-主"
+}

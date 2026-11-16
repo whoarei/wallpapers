@@ -1,0 +1,16 @@
+{
+  "id": "poem-af439f1c9445bf8a650dbc20",
+  "title": "寄白子元",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "一番书满两番求，千里重来我更羞。",
+    "薄世告人难启口，小官何事不担忧。",
+    "知心唯有长天月，把酒还思故国秋。",
+    "只待菊花开遍了，半蓑寒雨上轻舟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-3a2a600d-d47a-44ce-b129-f000efbf598b"
+}

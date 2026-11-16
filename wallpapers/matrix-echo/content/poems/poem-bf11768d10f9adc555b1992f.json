@@ -1,0 +1,18 @@
+{
+  "id": "poem-bf11768d10f9adc555b1992f",
+  "title": "采桑子·红英一树春来早",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "红英一树春来早，独占芳时。",
+    "我有心期。",
+    "把酒攀条惜绛蕤。",
+    "无端一夜狂风雨，暗落繁枝。",
+    "蝶怨莺悲。",
+    "满眼春愁说向谁。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-463",
+  "tags": []
+}

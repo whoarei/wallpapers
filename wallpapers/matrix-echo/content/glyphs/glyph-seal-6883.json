@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6883",
+  "script": "seal",
+  "character": "梃",
+  "reading": "tǐng；tìng",
+  "description": "tǐng：棍棒。\ntìng：(1)杀猪后，在猪腿上划一个口子，用铁棍贴着腿皮往里捅，然后往里吹气，使猪皮绷紧，以便去毛～猪。\n(2)梃猪时用的铁棍。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梃"
+}

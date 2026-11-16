@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b47",
+  "script": "seal",
+  "character": "歇",
+  "reading": "xiē",
+  "description": "xiē：(1)休息～憩。～脚。～晌。安～。～凉。～心。\n(2)停止～止。～业。～工。停～。间～。～班。～后语。\n(3)很短的一段时间过了一～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-歇"
+}

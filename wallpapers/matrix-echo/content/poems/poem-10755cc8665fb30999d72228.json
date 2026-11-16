@@ -1,0 +1,14 @@
+{
+  "id": "poem-10755cc8665fb30999d72228",
+  "title": "君子于役",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "君子于役，不知其期。曷至哉？鸡栖于埘。日之夕矣，羊牛下来。君子于役，如之何勿思！",
+    "君子于役，不日不月。曷其有佸？鸡栖于桀。日之夕矣，羊牛下括。君子于役，苟无饥渴？"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-65"
+}

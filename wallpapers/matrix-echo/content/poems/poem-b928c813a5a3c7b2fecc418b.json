@@ -1,0 +1,14 @@
+{
+  "id": "poem-b928c813a5a3c7b2fecc418b",
+  "title": "颂古十九首  其二",
+  "author": "释法全",
+  "dynasty": "宋",
+  "verses": [
+    "布鼓当轩为击来，卧龙惊起出岩隈。",
+    "千峰秀色凭谁写，一带澄江古镜开。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-20ce74b3-136b-4618-9249-c9a499f0bf2e"
+}

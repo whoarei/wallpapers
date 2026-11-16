@@ -1,0 +1,14 @@
+{
+  "id": "poem-6af9038ebee20a9f76393fbe",
+  "title": "二月望日",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "长短一年相似夜，中秋未必胜中春。",
+    "不寒不暖看明月，况是从来少睡人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1edd4936-c8a8-4a6c-893e-49d9d43db7bf"
+}

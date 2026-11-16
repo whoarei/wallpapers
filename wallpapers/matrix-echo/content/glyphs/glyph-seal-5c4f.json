@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c4f",
+  "script": "seal",
+  "character": "屏",
+  "reading": "píng；bǐng",
+  "description": "píng：(1)遮挡～风。～障。～蔽。～藩（屏风”和藩篱”，喻卫国的重臣）。～翰（喻卫国的重臣）。\n(2)字画的条幅，通常以四幅或八幅为一组画～。四扇～。\nbǐng：(1)除去，排除～除。～弃。～斥。～退。\n(2)抑止（呼吸）～气。～息。～声。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-屏"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2e38d59a87005203375df203",
+  "title": "送况上人还荆州因寄衞侍御象",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "惠持游蜀久，策杖欲西还。",
+    "共别此宵月，独归何处山。",
+    "对鸥沙草畔，洗足野云间。",
+    "知有玄晖会，斋心受八关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-e7ace9a5-8100-4da9-b819-4f45d0f80d0b"
+}

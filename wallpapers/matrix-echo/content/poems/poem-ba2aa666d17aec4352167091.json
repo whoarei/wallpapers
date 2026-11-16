@@ -1,0 +1,16 @@
+{
+  "id": "poem-ba2aa666d17aec4352167091",
+  "title": "写真",
+  "author": "澹交",
+  "dynasty": "唐",
+  "verses": [
+    "图形期自见，自见却伤神。",
+    "已是梦中梦，更逢身外身。",
+    "水花凝幻质，墨彩染空尘。",
+    "堪笑予兼尔，俱为未了人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4c16c60c-2206-4dcc-af22-a82767c13be2"
+}

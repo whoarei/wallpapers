@@ -1,0 +1,20 @@
+{
+  "id": "poem-4eac38a47142598a5908406d",
+  "title": "自淇涉黄河途中作十三首 七",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "乱流自兹远，倚檝时一望。",
+    "遥见楚汉城，崔嵬高山上。",
+    "天道昔未测，人心无所向。",
+    "屠钓称侯王，龙蛇争霸王。",
+    "缅怀多杀戮，顾此生惨怆。",
+    "圣代休甲兵，吾其得闲放。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-b0e51eac-3f11-473d-b3de-f2e9bdc1e74f"
+}

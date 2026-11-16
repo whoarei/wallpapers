@@ -1,0 +1,16 @@
+{
+  "id": "poem-cc598c4fc27f184f13a5a210",
+  "title": "春游曲",
+  "author": "文德皇后",
+  "dynasty": "唐",
+  "verses": [
+    "上苑桃花朝日明，兰闺艳妾动春情。",
+    "井上新桃偷面色，檐边嫩柳学身轻。",
+    "花中来去看舞蝶，树上长短听啼莺。",
+    "林下何须远借问，出众风流旧有名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-a25186df-0de3-49e6-81f2-2cc5c0853b43"
+}

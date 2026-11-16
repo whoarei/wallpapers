@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-680f",
+  "script": "kai",
+  "character": "栏",
+  "reading": "lán",
+  "description": "饲养家畜的圈\n报纸或刊物中有固定标题或特写的部分\n一面墙壁或特制的告示牌,用以张贴通知、证\n⒈遮挡的东西竹～。铁～。花编～。\n⒉家畜的圈猪～。\n栏liàn 1.木名。即楝。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-栏"
+}

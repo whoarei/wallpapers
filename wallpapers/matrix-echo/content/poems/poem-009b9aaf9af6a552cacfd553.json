@@ -1,0 +1,20 @@
+{
+  "id": "poem-009b9aaf9af6a552cacfd553",
+  "title": "宿业师山房期丁大不至",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "夕阳度西岭，群壑倏已暝。",
+    "松月生夜凉，风泉满清听。",
+    "樵人归欲尽，烟鸟栖初定。",
+    "之子期宿来，孤琴候萝迳。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言古诗",
+    "写景"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-3e504df9-b22d-480e-9e7c-9f8ab8591b91"
+}

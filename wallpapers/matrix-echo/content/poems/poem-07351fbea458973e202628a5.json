@@ -1,0 +1,17 @@
+{
+  "id": "poem-07351fbea458973e202628a5",
+  "title": "山中怀刘修",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "松老秋意孤，夜凉吟风水。",
+    "山人在远道，相忆中夜起。",
+    "春光如不至，幽兰含香死。",
+    "响象离鹤情，念来一相似。",
+    "月斜掩扉卧，又在梦魂里。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ecf449e2-0bb7-44b4-ad5e-42b6dd058af8"
+}

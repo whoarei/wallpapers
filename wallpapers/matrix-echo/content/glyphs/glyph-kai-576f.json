@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-576f",
+  "script": "kai",
+  "character": "坯",
+  "reading": "pī",
+  "description": "pī：(1)没有烧过的砖瓦、陶器等土～。砖～。打～。脱～。\n(2)泛指半成品钢～。～布。毛～。\n(3)用以指未成年的人好～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-坯"
+}

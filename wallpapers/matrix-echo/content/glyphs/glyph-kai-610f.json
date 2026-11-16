@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-610f",
+  "script": "kai",
+  "character": "意",
+  "reading": "yì",
+  "description": "yì：(1)心思～思。～见。～义。～味。～念。～志（为了达到既定目的而自觉努力的心理状态）。注～。同～。～在笔先。～在言外。\n(2)心愿，愿望～愿。愿～。～向。～图。～皆∶～。醉翁之～不在酒”。\n(3)人或事物流露的情态春～。诗～。惬～。情～。～境。\n(4)料想，猜想～料。～想。～外。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-意"
+}

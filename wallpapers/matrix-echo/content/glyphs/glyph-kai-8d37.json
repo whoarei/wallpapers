@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d37",
+  "script": "kai",
+  "character": "贷",
+  "reading": "dài",
+  "description": "借出钱财\n借入\n①借入或借出～款。\n②所贷的款农～。\n③推卸责无旁～。\n④宽恕严惩不～。\n【贷学金制度】高等院校给家庭经济困难的学生发放无息贷款，以保障他们正常的学习和生活的制度。\n贷tè 1.通\"忒\"。差错。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-贷"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-c8a6626c5b17c5bacc7277bd",
+  "title": "蜉蝣",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "蜉蝣之羽，衣裳楚楚。心之忧矣，于我归处。",
+    "蜉蝣之翼，采采衣服。心之忧矣，于我归息。",
+    "蜉蝣掘阅，麻衣如雪。心之忧矣，于我归说。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-149"
+}

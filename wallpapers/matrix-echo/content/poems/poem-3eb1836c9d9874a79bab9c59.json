@@ -1,0 +1,24 @@
+{
+  "id": "poem-3eb1836c9d9874a79bab9c59",
+  "title": "蜀相",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "丞相祠堂何处寻，锦官城外柏森森。",
+    "映堦碧草自春色，隔叶黄鹂空好音。",
+    "三顾频烦天下计，两朝开济老臣心。",
+    "出师未捷身先死，长使英雄泪满襟。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "七言律诗",
+    "忧国忧民",
+    "写人",
+    "咏史怀古",
+    "赞颂"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a353dcb1-12cc-4ca8-af1e-55d1d62445f8"
+}

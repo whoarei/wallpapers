@@ -1,0 +1,16 @@
+{
+  "id": "poem-72c8202b0ed07c3df3759eac",
+  "title": "奉和元日赐群臣栢叶应制",
+  "author": "赵彦昭",
+  "dynasty": "唐",
+  "verses": [
+    "器乏雕梁器，材非构厦材。",
+    "但将千岁叶，常奉万年杯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "春节"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-fd70c013-9c45-4ea0-b326-15217c4a82d7"
+}

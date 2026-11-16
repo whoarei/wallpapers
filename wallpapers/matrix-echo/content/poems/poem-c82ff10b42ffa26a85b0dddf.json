@@ -1,0 +1,16 @@
+{
+  "id": "poem-c82ff10b42ffa26a85b0dddf",
+  "title": "送越客归",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "霜薄东南地，江枫落未齐。",
+    "众山离楚上，孤棹宿吴西。",
+    "渚客留僧语，笼猨失子啼。",
+    "到家冬即是，荷尽若耶溪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-def9ba93-b443-4807-8332-97c615a371c2"
+}

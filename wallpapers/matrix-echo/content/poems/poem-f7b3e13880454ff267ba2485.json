@@ -1,0 +1,16 @@
+{
+  "id": "poem-f7b3e13880454ff267ba2485",
+  "title": "览史",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "黄绮皆皓发，秦时隐商山。",
+    "嘉谋匡帝道，高步游天关。",
+    "不爱珪组绁，却思林壑还。",
+    "放歌长松下，日与孤云闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-0f885a40-7601-4ae1-b885-afa5562f07c5"
+}

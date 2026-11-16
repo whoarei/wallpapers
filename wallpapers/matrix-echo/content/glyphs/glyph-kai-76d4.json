@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-76d4",
+  "script": "kai",
+  "character": "盔",
+  "reading": "kuī",
+  "description": "kuī：(1)用来保护头的帽子，多用金属制成头～。钢～。～甲。\n(2)形状像盔或半个球形的帽～儿。～头（头”读轻声）。\n(3)盆子一类的器皿瓦～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-盔"
+}

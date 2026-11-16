@@ -1,0 +1,14 @@
+{
+  "id": "poem-f33b36c1b1bbb5ff30e0fdca",
+  "title": "献花铺唐相李德裕谪海南道此有山女献花因以名之次壁间韵",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "我亦乘桴向海涯，无人复献雨中花。",
+    "却愁春梦归吴越，茗饮浓斟薄荷芽。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-1daedec9-69e3-461c-a29f-d8abaf33f848"
+}

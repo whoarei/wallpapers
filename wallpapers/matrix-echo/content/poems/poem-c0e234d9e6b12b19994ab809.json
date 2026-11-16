@@ -1,0 +1,16 @@
+{
+  "id": "poem-c0e234d9e6b12b19994ab809",
+  "title": "赋得残菊",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "阶兰凝曙霜，岸菊照晨光。",
+    "露浓晞晚笑，风劲浅残香。",
+    "细叶凋轻翠，圆花飞碎黄。",
+    "还持今岁色，复结后年芳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-4e85cb66-dc1d-42b5-9f64-c5a19b4e9fed"
+}

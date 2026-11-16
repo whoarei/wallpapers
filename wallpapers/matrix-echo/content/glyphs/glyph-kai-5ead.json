@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5ead",
+  "script": "kai",
+  "character": "庭",
+  "reading": "tíng",
+  "description": "tíng：(1)堂阶前的院子～院。～园。～除（除”，台阶）。\n(2)厅堂～宇。～闱（父母所属内室，借指父母）。～训（父亲的教诲，亦指家教）。家～。\n(3)审判案件的处所或机构法～。\n(4)古同廷”，朝廷。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-庭"
+}

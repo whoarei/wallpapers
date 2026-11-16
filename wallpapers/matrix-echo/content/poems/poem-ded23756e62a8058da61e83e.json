@@ -1,0 +1,14 @@
+{
+  "id": "poem-ded23756e62a8058da61e83e",
+  "title": "睡起",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "小窗午热倦如柳，睡起雨来江浪声。",
+    "快意百年浑似此，不须浮海觅长生。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-aa1cc385-2e51-48c3-84c2-91dd75b6cfbd"
+}

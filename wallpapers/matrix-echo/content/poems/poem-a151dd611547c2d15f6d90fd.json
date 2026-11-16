@@ -1,0 +1,16 @@
+{
+  "id": "poem-a151dd611547c2d15f6d90fd",
+  "title": "题山中故静禅师",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "寂灭身何在，门人隔此生。",
+    "影悬尘已厚，塔种柏初成。",
+    "溪院秋先雪，山堂古有精。",
+    "当时挂锡处，树老几枝倾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e90dab5d-7bd8-4253-97ae-c324cc38a5a1"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9505",
+  "script": "kai",
+  "character": "锅",
+  "reading": "guō",
+  "description": "形状像锅的东西\n车鈍。即车轴外面的铁圈\n⒈煮炒食物等的器具炒菜～。电饭～。电煮～。\n⒉像锅的烟袋～儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锅"
+}

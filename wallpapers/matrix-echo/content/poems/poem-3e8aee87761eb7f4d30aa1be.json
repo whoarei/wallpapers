@@ -1,0 +1,14 @@
+{
+  "id": "poem-3e8aee87761eb7f4d30aa1be",
+  "title": "酬藤杖",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "病里出门行步迟，喜君相赠古藤枝。",
+    "倚来自觉身生力，每向傍人说得时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ecd41f12-a61f-4c5e-8cce-5289695e52d3"
+}

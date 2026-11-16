@@ -1,0 +1,16 @@
+{
+  "id": "poem-9445ecf8dfb1e9495879a79c",
+  "title": "杂诗二首 二",
+  "author": "卢象",
+  "dynasty": "唐",
+  "verses": [
+    "君家御沟上，垂柳夹朱门。",
+    "列鼎会中贵，鸣珂朝至尊。",
+    "死生在片议，穷达由一言。",
+    "须识苦寒士，莫矜狐白温。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-efaef8c1-a7b0-424d-87bd-44283b6c4fb8"
+}

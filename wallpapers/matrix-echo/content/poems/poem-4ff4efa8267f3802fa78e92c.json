@@ -1,0 +1,14 @@
+{
+  "id": "poem-4ff4efa8267f3802fa78e92c",
+  "title": "颂三首  其三",
+  "author": "念禅师",
+  "dynasty": "宋",
+  "verses": [
+    "元正三，上来稽首各和南。",
+    "若问香山山里事，灵源一派碧如蓝。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-62f77fa0-6a3d-4905-aa92-79d33919afdd"
+}

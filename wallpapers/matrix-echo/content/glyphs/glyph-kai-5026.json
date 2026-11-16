@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5026",
+  "script": "kai",
+  "character": "倦",
+  "reading": "juàn",
+  "description": "juàn：(1)疲乏疲～。～怠。～意。～容。～色。\n(2)对某种活动失去兴趣厌～。～飞（喻厌倦仕宦而归隐）。～游（厌倦游宦生涯）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-倦"
+}

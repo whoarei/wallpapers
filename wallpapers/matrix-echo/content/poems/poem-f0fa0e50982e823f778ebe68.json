@@ -1,0 +1,14 @@
+{
+  "id": "poem-f0fa0e50982e823f778ebe68",
+  "title": "盛山十二诗 隐月岫",
+  "author": "韦处厚",
+  "dynasty": "唐",
+  "verses": [
+    "初映钩如线，终衔镜似钩。",
+    "远澄秋水色，高倚晓河流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-d212cafa-6d47-405f-8e4d-00124c278927"
+}

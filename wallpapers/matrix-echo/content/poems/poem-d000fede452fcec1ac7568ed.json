@@ -1,0 +1,14 @@
+{
+  "id": "poem-d000fede452fcec1ac7568ed",
+  "title": "天仙子·蟾彩霜华夜不分",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "蟾彩霜华夜不分，天外鸿声枕上闻，绣衾香冷懒重熏。",
+    "人寂寂，叶纷纷，才睡依前梦见君。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-9"
+}

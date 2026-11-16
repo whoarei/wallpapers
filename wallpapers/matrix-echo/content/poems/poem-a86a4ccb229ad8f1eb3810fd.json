@@ -1,0 +1,16 @@
+{
+  "id": "poem-a86a4ccb229ad8f1eb3810fd",
+  "title": "雨后净望河西连山怆然成咏",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "宿雨初收晚吹繁，秋光极目自销魂。",
+    "烟山北下归辽海，鸿鴈南飞出蓟门。",
+    "只恨无功书史籍，岂悲临老事戎轩。",
+    "唯怀药饵蠲衰病，为惜余年报主恩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-6e8e68b8-2bc4-4ec7-aa42-bb030326e72a"
+}

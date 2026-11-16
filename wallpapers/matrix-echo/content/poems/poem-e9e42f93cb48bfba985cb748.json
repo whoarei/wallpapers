@@ -1,0 +1,24 @@
+{
+  "id": "poem-e9e42f93cb48bfba985cb748",
+  "title": "长洲苑",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "吴王初鼎峙，羽猎骋雄才。",
+    "辇道阊门出，军容茂苑来。",
+    "山从列嶂转，江自绕林回。",
+    "劒骑缘汀入，旌门隔屿开。",
+    "合离纷若电，驰逐溢成雷。",
+    "胜地虞人守，归舟汉女陪。",
+    "可怜夷漫处，犹在洞庭隈。",
+    "山静吟猿父，城空应雉媒。",
+    "戎行委乔木，马迹尽黄埃。",
+    "揽涕问遗老，繁华安在哉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6c7fd6e3-4956-4dad-9c0d-d336cb609602"
+}

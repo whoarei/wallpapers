@@ -1,0 +1,14 @@
+{
+  "id": "poem-d9c41f5f6282eb60036d1f75",
+  "title": "小游仙诗九十八首 八十九",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "东溟两度作尘飞，一万年来会面稀。",
+    "千树棃花百壶酒，共君论饮莫论诗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-47674538-d3e4-4ba4-8476-0de4c576dcee"
+}

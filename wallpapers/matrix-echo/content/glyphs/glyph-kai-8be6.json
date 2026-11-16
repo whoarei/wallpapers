@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8be6",
+  "script": "kai",
+  "character": "详",
+  "reading": "xiáng",
+  "description": "详细说明\n清楚地知道\n⒈细密，完备～细。～尽。～情。～实。～议法令。\n⒉清楚，知道内容～知。\n⒊说明，细说～谈。内～。～告之。\n⒋广泛，周遍～找。\n⒍〈古〉通\"佯\"。假装。\n详yáng 1.诈，假装。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-详"
+}

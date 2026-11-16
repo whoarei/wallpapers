@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4eea",
+  "script": "seal",
+  "character": "仪",
+  "reading": "yí",
+  "description": "法度;礼法\n置此以为法,立此以为仪,将以量度天下之王公大人、卿\n⒈容貌，举止～容。～态。～表。\n⒉按程序进行的礼节～式。司～。\n⒊礼物贺～。谢～。\n⒋准则，法度～则。\n⒌指仪器，供测绘、实验等用的有一定准则的用具经纬～。浑天～。地震～。教学～器。\n⒍〈古〉通\"宜\"。应该。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-仪"
+}

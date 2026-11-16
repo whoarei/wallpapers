@@ -1,0 +1,14 @@
+{
+  "id": "poem-26eaeee888f9cfd71f6f562e",
+  "title": "追和贾浪仙古镜",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "谁开黄帝桥山冢，明月飞光出九泉。",
+    "狼藉藓痕磨不尽，黑云残点污秋天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-f91daa04-61f6-460c-9d58-2c986981ce9d"
+}

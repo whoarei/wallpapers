@@ -1,0 +1,14 @@
+{
+  "id": "poem-415dc48e5079a299c4452c2e",
+  "title": "四望亭",
+  "author": "朱景玄",
+  "dynasty": "唐",
+  "verses": [
+    "高亭群峰首，四面俯晴川。",
+    "每见晨光晓，阶前万井烟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-efd5b98e-0945-4545-8249-c0e0e10a89e4"
+}

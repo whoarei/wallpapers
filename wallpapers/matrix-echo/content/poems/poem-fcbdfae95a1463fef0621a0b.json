@@ -1,0 +1,16 @@
+{
+  "id": "poem-fcbdfae95a1463fef0621a0b",
+  "title": "送陆处士",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "樽前放浩歌，便起泛烟波。",
+    "舟楫故人少，江湖明月多。",
+    "孤峰经宿上，僻寺共云过。",
+    "若向仙岩住，还应著薜萝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-9b653a15-b561-4f8f-903d-33bc4b33234f"
+}

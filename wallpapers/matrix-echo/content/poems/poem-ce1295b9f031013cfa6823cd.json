@@ -1,0 +1,15 @@
+{
+  "id": "poem-ce1295b9f031013cfa6823cd",
+  "title": "□明",
+  "author": "韩偓",
+  "dynasty": "唐",
+  "verses": [
+    "迢迢恩义吹区分。",
+    "（《断肠诗集前集》卷五《秋日杂书二首》郑元佐注引。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-a7dc1990-b61e-4fdc-b558-1ba4f2263c4c"
+}

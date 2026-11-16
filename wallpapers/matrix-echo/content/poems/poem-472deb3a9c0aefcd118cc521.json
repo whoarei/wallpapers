@@ -1,0 +1,16 @@
+{
+  "id": "poem-472deb3a9c0aefcd118cc521",
+  "title": "寄僧野和尚",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "鸟外更谁亲，诸峰即四邻。",
+    "白头寒枕石，青衲烂无尘。",
+    "橡栗堆行径，猨猴遶定身。",
+    "傥然重结社，愿作扫坛人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-fd191111-d21a-4629-b8ea-746b065847e0"
+}

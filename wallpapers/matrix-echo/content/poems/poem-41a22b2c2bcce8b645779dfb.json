@@ -1,0 +1,15 @@
+{
+  "id": "poem-41a22b2c2bcce8b645779dfb",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生、旦)区区，山行路宿，粥食无觅处。",
+    "有盘缠肯相推阻？(众)穷酸饿儒，模样须寻俗。",
+    "随行所有，疾忙分付。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2957",
+  "tags": []
+}

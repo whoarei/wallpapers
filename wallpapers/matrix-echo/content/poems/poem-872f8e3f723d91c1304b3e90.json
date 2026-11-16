@@ -1,0 +1,16 @@
+{
+  "id": "poem-872f8e3f723d91c1304b3e90",
+  "title": "前出塞九首 五",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "迢迢万余里，领我赴三军。",
+    "军中异苦乐，主将宁尽闻。",
+    "隔河见胡骑，倏忽数百群。",
+    "我始为奴仆，几时树功勋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-9434b028-3ff5-4d33-866b-e0e2b2d6dc70"
+}

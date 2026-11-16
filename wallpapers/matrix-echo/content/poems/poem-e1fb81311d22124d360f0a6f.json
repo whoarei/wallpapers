@@ -1,0 +1,14 @@
+{
+  "id": "poem-e1fb81311d22124d360f0a6f",
+  "title": "感石浮图",
+  "author": "王英",
+  "dynasty": "唐",
+  "verses": [
+    "树福金岩顶，粧岩琢石成。",
+    "真容绘美素，图镂万年荣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d7cdcdef-7ad2-41c3-9ff3-be8e1b6bd497"
+}

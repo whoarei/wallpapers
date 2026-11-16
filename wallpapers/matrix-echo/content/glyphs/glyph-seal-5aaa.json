@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5aaa",
+  "script": "seal",
+  "character": "媪",
+  "reading": "ǎo；yùn；wò",
+  "description": "ǎo：古代对妇女的通称。\nyùn：古女子人名用字。\nwò：〔～妠〕小肥。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-媪"
+}

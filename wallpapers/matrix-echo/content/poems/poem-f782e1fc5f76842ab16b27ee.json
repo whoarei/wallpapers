@@ -1,0 +1,14 @@
+{
+  "id": "poem-f782e1fc5f76842ab16b27ee",
+  "title": "古意二首 一",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "玉笼薰绣裳，著罢眠洞房。",
+    "不能春风里，吹却兰麝香。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-fd485fea-3025-4224-b8fb-769d56b6cf9a"
+}

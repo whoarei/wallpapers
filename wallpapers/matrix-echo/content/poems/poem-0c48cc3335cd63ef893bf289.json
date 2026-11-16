@@ -1,0 +1,16 @@
+{
+  "id": "poem-0c48cc3335cd63ef893bf289",
+  "title": "答师静",
+  "author": "小静",
+  "dynasty": "唐",
+  "verses": [
+    "幻人兴幻幻轮围，幻业能招幻所治。",
+    "不了幻生诸幻苦，觉知如幻幻无为。",
+    "（同前。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-8072158c-1327-4ca8-ab6b-9c4228307885"
+}

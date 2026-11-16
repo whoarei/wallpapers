@@ -1,0 +1,16 @@
+{
+  "id": "poem-f4294d4dcf64ef1456997db3",
+  "title": "寄归",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "三年踏尽化衣尘，只见长安不见春。",
+    "马过雪街天未曙，客迷关路泪空频。",
+    "桃花坞接啼猿寺，野竹庭通画鹢津。",
+    "早晚相酬身事了，水边归去一闲人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-d4f8653d-f4d9-4668-9df6-b164483cc8ea"
+}

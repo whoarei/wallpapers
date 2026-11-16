@@ -1,0 +1,16 @@
+{
+  "id": "poem-5ecc2e0fa63485f815e897d9",
+  "title": "寓郁林著易传有感  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "羲文作易仲尼传，究极阴阳本自然。",
+    "妙理欲求须得象，至言已契可忘筌。",
+    "绝编何啻须三过，知命从今加数年。",
+    "叹息时无邵康节，数该今古与谁研。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-4e4fb1c0-35ef-420a-acc9-8734e059eff4"
+}

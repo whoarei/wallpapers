@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e5e",
+  "script": "kai",
+  "character": "乞",
+  "reading": "qǐ",
+  "description": "qǐ：(1)向人讨、要、求～求。～丐。～灵（向神佛求助）。～怜。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-乞"
+}

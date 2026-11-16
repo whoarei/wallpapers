@@ -1,0 +1,14 @@
+{
+  "id": "poem-153f10a6ec5ebad6a11378ac",
+  "title": "再游玄都观",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "verses": [
+    "百亩庭中半是苔，桃花净尽菜花开。",
+    "种桃道士归何处，前度刘郎今又来。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-再遊玄都觀"
+}

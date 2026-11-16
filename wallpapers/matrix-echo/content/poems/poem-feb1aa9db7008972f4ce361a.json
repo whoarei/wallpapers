@@ -1,0 +1,14 @@
+{
+  "id": "poem-feb1aa9db7008972f4ce361a",
+  "title": "再和",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "想得经行与客俱，身强宁复要人扶。",
+    "晚来山色应难尽，十里青苍看有无。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-fb516a9d-25ed-4674-b78c-069493701640"
+}

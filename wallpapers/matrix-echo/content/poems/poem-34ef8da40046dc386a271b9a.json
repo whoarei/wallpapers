@@ -1,0 +1,21 @@
+{
+  "id": "poem-34ef8da40046dc386a271b9a",
+  "title": "青玉案·一年春事都来几",
+  "author": "无名氏",
+  "dynasty": "宋",
+  "verses": [
+    "一年春事都来几。",
+    "早过了、三之二。",
+    "绿暗红嫣浑可事。",
+    "绿杨庭院，暖风帘幕，有个人憔悴。",
+    "买花载酒长安市。",
+    "又争似家山见桃李。",
+    "不枉东风吹客泪，相思难表，梦魂无据，惟有归来是。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-77"
+}

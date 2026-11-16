@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9036",
+  "script": "seal",
+  "character": "逶",
+  "reading": "wēi",
+  "description": "wēi：〔～迤〕形容道路、山脉、河流等弯弯曲曲，延续不绝的样子。亦作逶侈”、逶蛇”、委迤”、委移”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-逶"
+}

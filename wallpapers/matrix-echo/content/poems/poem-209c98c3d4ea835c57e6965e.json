@@ -1,0 +1,16 @@
+{
+  "id": "poem-209c98c3d4ea835c57e6965e",
+  "title": "题甘露寺",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "香门接巨垒，画角间清钟。",
+    "北固一何峭，西僧多此逢。",
+    "天垂无际海，云白久晴峰。",
+    "旦暮然灯外，涛头振蛰龙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-bf35e867-fc2c-4bee-9587-c0e55c19a102"
+}

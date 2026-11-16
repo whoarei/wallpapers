@@ -1,0 +1,14 @@
+{
+  "id": "poem-5ca6867c1e01ef61ee3580c5",
+  "title": "菊",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "短篱偎曲径，风雨困秋曦。",
+    "竞惜芙蓉冷，何知更有伊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-be8cf80d-9408-4ec8-aeae-76a37ec1b620"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-fa259b8251cececec766dde8",
+  "title": "祈父",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "祈父，予王之爪牙。胡转予于恤，靡所止居？",
+    "祈父，予王之爪士。胡转予于恤，靡所厎止？",
+    "祈父，亶不聪。胡转予于恤？有母之尸饔。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-184"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-aa8c6e0d89c1f479d804cc68",
+  "title": "点绛唇·莫问重阳",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "莫问重阳，黄花满地须游宴。",
+    "休论夷甸。",
+    "且作江山观。",
+    "百岁光阴，屈指今过半。",
+    "霜天晚。",
+    "眼昏花乱。",
+    "不见书空雁。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-161",
+  "tags": []
+}

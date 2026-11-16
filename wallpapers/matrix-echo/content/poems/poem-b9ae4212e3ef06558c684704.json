@@ -1,0 +1,16 @@
+{
+  "id": "poem-b9ae4212e3ef06558c684704",
+  "title": "再和",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "朱门罗绮竞珊珊，未必儒官偏少欢。",
+    "随分管弦娱性尚，等闲唱咏过暄寒。",
+    "幽人栖遁心非适，夸者经营席靡安。",
+    "一絓利名均是徇，能遗斯事更为难。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8dd866ea-40eb-48fa-b393-926e8c66287d"
+}

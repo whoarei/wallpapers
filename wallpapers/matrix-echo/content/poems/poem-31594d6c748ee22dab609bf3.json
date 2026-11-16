@@ -1,0 +1,18 @@
+{
+  "id": "poem-31594d6c748ee22dab609bf3",
+  "title": "诉衷情令·阿房废址汉荒丘",
+  "author": "康与之",
+  "dynasty": "宋",
+  "verses": [
+    "阿房废址汉荒丘。",
+    "狐兔又群游。",
+    "豪华尽成春梦，留下古今愁。",
+    "君莫上，古原头。",
+    "泪难收。",
+    "夕阳西下，塞雁南飞，渭水东流。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-300",
+  "tags": []
+}

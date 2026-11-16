@@ -1,0 +1,14 @@
+{
+  "id": "poem-27705afb44432b0034e109cc",
+  "title": "劝人 十三",
+  "author": "义存",
+  "dynasty": "唐",
+  "verses": [
+    "世中（《祖堂集》卷七作「间」）有一事，奉劝学者取。",
+    "虽无半钱活，流传历劫富。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-5841f3ab-791c-4be4-a2b9-bc6a52561558"
+}

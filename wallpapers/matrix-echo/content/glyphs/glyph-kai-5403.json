@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5403",
+  "script": "kai",
+  "character": "吃",
+  "reading": "chī",
+  "description": "chī：(1)把东西送进口中咽下，或依靠某种事物生活～饭。～药。～斋。\n(2)消灭（多用于军事、棋奕）～掉敌人一个连。\n(3)吸～烟。\n(4)感受～惊。～紧。～一堑，长（zhǎng）一智。\n(5)挨～官司。\n(6)承受，支持～不消。\n(7)船身入水的深度～水深浅。\n(8)被～那厮砍了一刀。\n(9)说话结巴口～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吃"
+}

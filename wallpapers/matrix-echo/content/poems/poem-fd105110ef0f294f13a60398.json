@@ -1,0 +1,16 @@
+{
+  "id": "poem-fd105110ef0f294f13a60398",
+  "title": "山中",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "一簇烟霞荣辱外，秋山留得傍簷楹。",
+    "朝钟暮鼓不到耳，明月孤云长挂情。",
+    "世上路岐何缭绕，水边蓑笠称平生。",
+    "寻思阮籍当时意，岂是途穷泣利名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-cc190344-6143-4e56-ada7-38a2fa786587"
+}

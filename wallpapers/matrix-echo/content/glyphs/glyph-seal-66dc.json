@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-66dc",
+  "script": "seal",
+  "character": "曜",
+  "reading": "yào",
+  "description": "yào：(1)照耀；明亮日出有～”。\n(2)日、月、星均称曜”，日、月、火、水、木、金、土七个星合称七曜”，旧时分别用来称一个星期的七天，如日曜日”是星期日，月曜日”是星期一，其余依次类推。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-曜"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-88c5",
+  "script": "kai",
+  "character": "装",
+  "reading": "zhuāng",
+  "description": "服装\n亦泛指物品\n⒈行李行～。整～待发。\n⒉打扮，又指演员的打扮～扮。乔～。化～。卸～。\n⒊安置，盛放～置。～箱。～载。～船。～货。安～。～电话。\n⒋修配或组合成整体～修。～配。组～。\n⒌衣服服～。中山～。春秋～。\n⒍修饰，裱衬～饰。～点。～裱。～潢。\n⒎订制成册、籍～订。精～。平～本。\n⒏假作，故意做作假～。～模作样。～聋作哑。～腔作势。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-装"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6753",
+  "script": "seal",
+  "character": "杓",
+  "reading": "sháo；biāo",
+  "description": "sháo：同勺”①。\nbiāo：(1)古代指北斗第五、六、七颗星。亦称斗柄”。\n(2)拉开。\n(3)击。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杓"
+}

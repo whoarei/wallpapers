@@ -1,0 +1,14 @@
+{
+  "id": "poem-ef50f2ca5db0421144eba60d",
+  "title": "咏方圆动静",
+  "author": "李泌",
+  "dynasty": "唐",
+  "verses": [
+    "方如行义，圆如用智。",
+    "动如逞才，静如遂意。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-126eccee-4aa4-47d4-b207-0d3c36a7ec51"
+}

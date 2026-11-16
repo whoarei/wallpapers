@@ -1,0 +1,14 @@
+{
+  "id": "poem-3501f603d72ec7a65885226d",
+  "title": "下雪潭雪浪亭",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "潭面摇光媚日华，水文倒影射簷牙。",
+    "倚阑如在云霄上，俯看萦风万雪花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-7ce1bd39-d617-4464-99bf-2d4d766cedc4"
+}

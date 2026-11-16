@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9ccf",
+  "script": "seal",
+  "character": "鳏",
+  "reading": "guān",
+  "description": "鱼名,即鲩鲲。又名鳡鱼\n死了妻子又未再结婚的男人\n鳏夫\n鳏guān老而无妻或丧妻的男人～夫。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鳏"
+}

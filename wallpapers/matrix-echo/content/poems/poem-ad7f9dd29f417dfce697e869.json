@@ -1,0 +1,15 @@
+{
+  "id": "poem-ad7f9dd29f417dfce697e869",
+  "title": "答张文成",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "（案以下各诗，《游仙窟》虽谓崔十娘所作，要皆张文成戏墨耳。",
+    "）面非他舍面，心是自家心。",
+    "何处关天事，辛苦漫追寻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c92dba26-eb50-46d1-9a8c-df167168ba33"
+}

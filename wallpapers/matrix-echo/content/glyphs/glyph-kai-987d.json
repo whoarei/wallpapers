@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-987d",
+  "script": "kai",
+  "character": "顽",
+  "reading": "wán",
+  "description": "愚顽之人;顽固派\n凶恶的人\n引申为浑圆\n顽固,不驯服\n⒈愚蠢无知愚～。痴～。笨～。\n⒉固执，守旧～固。～梗。\n⒊淘气～皮。～童。\n⒋〈古〉凶暴，贪婪～贪。\n⒌通\"玩\"。游戏，耍弄。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-顽"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-8589fc2d2a7738daf0d6a0f6",
+  "title": "绍圣二年八月十八日观潮于浙江亭书",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "怒势豪声迸海门，州人传是子胥魂。",
+    "天排云阵千雷震，地卷银山万马奔。",
+    "高与月轮参朔望，信如壶漏报朝昏。",
+    "吴争越战成何事，一曲渔歌过远村。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "钱塘江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-51bb7de5-61c1-47d1-886c-532fd97f7273"
+}

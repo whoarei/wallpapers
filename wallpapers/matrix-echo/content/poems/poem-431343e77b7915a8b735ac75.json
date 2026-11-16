@@ -1,0 +1,16 @@
+{
+  "id": "poem-431343e77b7915a8b735ac75",
+  "title": "游襄阳山寺",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "秋色江边路，烟霞若有期。",
+    "寺贫无利施，僧老足慈悲。",
+    "薜荔侵禅窟，虾蟆占浴池。",
+    "闲游殊未徧，即是下山时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0a74a799-c767-440f-82d1-182b33e3ddb1"
+}

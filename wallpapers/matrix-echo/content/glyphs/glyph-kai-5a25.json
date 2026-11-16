@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5a25",
+  "script": "kai",
+  "character": "娥",
+  "reading": "é",
+  "description": "é：(1)女子姿容美好～眉。～～（美好的样子）。\n(2)美女娇～。宫～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-娥"
+}

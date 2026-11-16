@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7a98",
+  "script": "seal",
+  "character": "窘",
+  "reading": "jiǒng",
+  "description": "jiǒng：(1)穷困～厄。～乏。～苦。～困。～迫。～促。～急。\n(2)难住，使为难～况。～态。～相。～境。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-窘"
+}

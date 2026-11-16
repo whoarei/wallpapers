@@ -1,0 +1,14 @@
+{
+  "id": "poem-bf1f2a934c7bac4e43cc60b2",
+  "title": "乞宽禅师瘿山罍呈宣供奉",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "石色凝秋藓，峰形若夏云。",
+    "谁留秦苑地，好赠杏溪君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-60d8de49-e393-4470-bae6-6a7ce35c5d29"
+}

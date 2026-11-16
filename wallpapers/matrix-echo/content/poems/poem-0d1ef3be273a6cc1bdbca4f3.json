@@ -1,0 +1,16 @@
+{
+  "id": "poem-0d1ef3be273a6cc1bdbca4f3",
+  "title": "赠卫南长官赴任",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "吏曹难茂宰，主意念疲人。",
+    "更事文犀节，还过白马津。",
+    "云间辞北阙，树里出西秦。",
+    "为报陶明府，裁书莫厌贫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-3fb130fc-fd7a-4f7a-9128-120886ff520b"
+}

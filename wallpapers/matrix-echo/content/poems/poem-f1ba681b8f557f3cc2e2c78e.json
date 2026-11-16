@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1ba681b8f557f3cc2e2c78e",
+  "title": "行都饯岁",
+  "author": "孙嵩",
+  "dynasty": "宋",
+  "verses": [
+    "插架余残历，挑灯忆故乡。",
+    "年光蛇赴壑，羁旅雁随阳。",
+    "禁阙迎傩鼓，邻街祭灶香。",
+    "英雄须自力，容易鬓毛苍。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-a0935761-3d71-41b5-a057-4029c6224c9a"
+}

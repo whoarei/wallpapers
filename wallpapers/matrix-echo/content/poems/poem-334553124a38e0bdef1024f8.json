@@ -1,0 +1,16 @@
+{
+  "id": "poem-334553124a38e0bdef1024f8",
+  "title": "临江仙·莺报帘前暖日红",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "莺报帘前暖日红，玉炉残麝犹浓。",
+    "起来闺思尚疏慵，别愁春梦，谁解此情悰。",
+    "强整娇姿临宝镜，小池一朵芙蓉。",
+    "旧欢无处再寻踪，更堪回顾，屏画九疑峰。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-24"
+}

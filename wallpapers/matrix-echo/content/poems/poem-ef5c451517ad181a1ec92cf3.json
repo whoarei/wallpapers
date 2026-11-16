@@ -1,0 +1,17 @@
+{
+  "id": "poem-ef5c451517ad181a1ec92cf3",
+  "title": "浣溪沙·康乐亭前种此君",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "康乐亭前种此君。",
+    "重来风月苦留人。",
+    "儿童竹马笑谈新。",
+    "今代孟士仍好客，政成归去眷方新。",
+    "十眉环坐晚妆匀。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-360",
+  "tags": []
+}

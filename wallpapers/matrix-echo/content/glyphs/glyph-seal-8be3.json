@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8be3",
+  "script": "seal",
+  "character": "诣",
+  "reading": "yì",
+  "description": "晋谒;造访。古代到朝廷或上级、尊长处去之称\n⒈往，到～京。特指到尊长处专～请教。\n⒉［造诣］学问、技术等所达到的境地她对生物学造～很深。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诣"
+}

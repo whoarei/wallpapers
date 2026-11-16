@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5764",
+  "script": "kai",
+  "character": "坤",
+  "reading": "kūn",
+  "description": "kūn：(1)八卦之一乾（qián）～。～舆。\n(2)称女性的～造。～宅（旧时婚礼称女家）。～表。～车。～鞋。～角儿（juér）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-坤"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e6c08df9baefc8280d0463b2",
+  "title": "题友人诗集",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "学诗玄妙似参禅，又似凡人去学仙。",
+    "吟得悟时皮骨换，一天风露响灵蝉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-1fff3ca9-4a6f-475f-961f-9f47ef54ec7a"
+}

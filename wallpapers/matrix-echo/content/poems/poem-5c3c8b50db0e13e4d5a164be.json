@@ -1,0 +1,22 @@
+{
+  "id": "poem-5c3c8b50db0e13e4d5a164be",
+  "title": "邵伯阻风小泊赠送行诸公",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "长征每爱日，小泊未遻意。",
+    "阴风自南北，客子听轩轾。",
+    "召棠望吾乡，不作秦越异。",
+    "船阁鴈鹜洲，人穿鱼虾市。",
+    "相逢各吴语，知识十三四。",
+    "水实不自买，海错有佳馈。",
+    "饯行余十客，超俗见友义。",
+    "笑谭寒谷春，为我洗羁思。",
+    "相与卧玉瓶，跋烛得微醉。",
+    "老怀易作恶，别语毋动喙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-78d3cc10-56c2-467f-a63c-a23ccd8285c1"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-89780ef2a6b331fd1c630afd",
+  "title": "望江南・忆江南·江南草",
+  "author": "王琪",
+  "dynasty": "宋",
+  "verses": [
+    "江南草，如种复如描。",
+    "深映落花莺舌乱，绿迷南浦客魂消。",
+    "日日斗青袍。",
+    "风欲转，柔态不胜娇。",
+    "远翠天涯经夜雨，冷痕沙上带昏潮。",
+    "谁梦与兰苕。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-846",
+  "tags": []
+}

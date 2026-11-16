@@ -1,0 +1,14 @@
+{
+  "id": "poem-bb149aaf325bc649b53e46bc",
+  "title": "送裴参军还下邳旧居",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "北望烟铺骠骑营，虏烽无火楚天晴。",
+    "此时千里西归客，泗上春风得及耕。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-ecd7e63d-8c05-4af2-9018-05064797df28"
+}

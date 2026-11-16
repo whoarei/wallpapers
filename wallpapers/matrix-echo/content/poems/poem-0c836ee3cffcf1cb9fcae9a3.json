@@ -1,0 +1,16 @@
+{
+  "id": "poem-0c836ee3cffcf1cb9fcae9a3",
+  "title": "女冠子·修蛾慢脸",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "修蛾慢脸，不语檀心一点，小山妆。",
+    "蝉鬓低含绿，罗衣淡拂黄。",
+    "闷来深院里，闲步落花傍。",
+    "纤手轻轻整，玉炉香。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-45"
+}

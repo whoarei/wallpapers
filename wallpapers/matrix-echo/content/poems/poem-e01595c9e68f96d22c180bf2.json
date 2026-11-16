@@ -1,0 +1,14 @@
+{
+  "id": "poem-e01595c9e68f96d22c180bf2",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)溺水自心酸，我婆婆苦万千，堂前继母心不善。",
+    "儿夫去远，家尊老年，何日得见王佥判？(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8221",
+  "tags": []
+}

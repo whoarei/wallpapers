@@ -1,0 +1,16 @@
+{
+  "id": "poem-dd8e201bb43645eb573493cc",
+  "title": "登龙泉山",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "越山东来万烟鬟，余姚为邑山四环。",
+    "客车细穿市井间，邑屋更绕龙泉山。",
+    "佛阁翚飞最高处，远近岚霏随指顾。",
+    "小留开船有新句，君知可是囚山赋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-ce23b4ea-bfdd-49c5-af9c-d8b7c00a12b1"
+}

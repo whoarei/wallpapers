@@ -1,0 +1,16 @@
+{
+  "id": "poem-33c1b97c4c92075a29ec48f4",
+  "title": "苏州有感",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "秋意满姑苏，扁舟忆五湖。",
+    "铃声边报急，帆影客心孤。",
+    "野港青如染，遥山澹欲无。",
+    "英雄应念我，时事满银须。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-cdf79a17-9100-41d8-9d84-ef38cb52d9b8"
+}

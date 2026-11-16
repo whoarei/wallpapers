@@ -1,0 +1,18 @@
+{
+  "id": "poem-8ea4b98ae0f5b7ea0bcc0016",
+  "title": "武陵春·春在前村梅雪里",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "春在前村梅雪里，一夜到千门。",
+    "玉佩琼琚下冷云。",
+    "银界见东君。",
+    "桃花髻暖双飞燕，金字巧宜春。",
+    "寂寞溪桥柳弄晴。",
+    "老也探花人。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-848",
+  "tags": []
+}

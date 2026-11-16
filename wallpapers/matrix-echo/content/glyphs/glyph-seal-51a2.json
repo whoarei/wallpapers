@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-51a2",
+  "script": "seal",
+  "character": "冢",
+  "reading": "zhǒng",
+  "description": "zhǒng：(1)坟墓古～。荒～。衣冠～。青～。丛～。\n(2)长（zhǎng）～子（长子）。～嗣（嫡长子）。～妇（嫡长子的妻子）。～息（长子）。\n(3)大～君（大君，对列国君主的敬称）。～祀（帝王在宗庙举行的大祭礼）。\n(4)山顶。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-冢"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-827a",
+  "script": "kai",
+  "character": "艺",
+  "reading": "yì",
+  "description": "技能;才能\n⒈才能，技能，本领手～。技～。～人。文～。～能。\n⒉同蓺。\n⒊度，准则贪欲无～。用人无～。\n②才能或方法领导～术。管理～术。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-艺"
+}

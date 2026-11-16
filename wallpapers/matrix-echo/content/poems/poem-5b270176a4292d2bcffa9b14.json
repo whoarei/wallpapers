@@ -1,0 +1,20 @@
+{
+  "id": "poem-5b270176a4292d2bcffa9b14",
+  "title": "浪淘沙·啼魄一天涯",
+  "author": "高观国",
+  "dynasty": "宋",
+  "verses": [
+    "啼魄一天涯。",
+    "怨入芳华。",
+    "可怜零血染烟霞。",
+    "记得西风秋露冷，曾浼司花。",
+    "明月满窗纱。",
+    "倦客思家。",
+    "故宫春事与愁赊。",
+    "冉冉断魂招不得，翠冷红斜。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-415",
+  "tags": []
+}

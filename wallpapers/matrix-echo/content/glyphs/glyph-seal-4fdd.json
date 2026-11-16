@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fdd",
+  "script": "seal",
+  "character": "保",
+  "reading": "bǎo",
+  "description": "bǎo：(1)看守住，护着不让受损害或丧失～卫。～管。～健。～障。～密。明哲～身。朝不～夕（早晨保不住晚上会发生什么情况。形容形势危急）。\n(2)维持原状，使不消失或减弱～持。～洁。～质。～墒。\n(3)负责～证。～荐。～修。～险。确～。担～。\n(4)旧时户口的一种编制，若干甲为一保。\n(5)旧称佣工酒～（酒店服务人员）。佣～。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-保"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-e6aa26f6ec03c6c64e552071",
+  "title": "浣溪沙·共饮昏昏到暮鸦",
+  "author": "吕本中",
+  "dynasty": "宋",
+  "verses": [
+    "共饮昏昏到暮鸦。",
+    "不须春日念京华。",
+    "迩来沈醉是生涯。",
+    "不是对君犹惜醉，只嫌春病却怜他。",
+    "愿为蜂采落残花。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-736",
+  "tags": []
+}

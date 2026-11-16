@@ -1,0 +1,16 @@
+{
+  "id": "poem-ca8921526978c5d45ff46f78",
+  "title": "生查子·散帙坐凝尘",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "散帙坐凝尘，吹气幽兰并。",
+    "茶名龙凤团，香字鸳鸯饼。",
+    "玉局类弹棋，颠倒双栖影。",
+    "花月不曾闲，莫放相思醒。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-25"
+}

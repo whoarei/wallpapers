@@ -1,0 +1,16 @@
+{
+  "id": "poem-6c7b866a84ae767043370f6a",
+  "title": "小重山·一闭昭阳春又春",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "一闭昭阳春又春，夜寒宫漏永，梦君恩。",
+    "昏思陈事暗消魂，罗衣湿，红袂有啼痕。",
+    "歌吹隔重阍，绕庭芳草绿，倚长门。",
+    "万般惆怅向谁论？凝情立，宫殿欲黄昏。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-25"
+}

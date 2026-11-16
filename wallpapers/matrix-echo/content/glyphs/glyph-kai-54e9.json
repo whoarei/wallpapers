@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-54e9",
+  "script": "kai",
+  "character": "哩",
+  "reading": "lǐ；lī",
+  "description": "li：(1)助词，义同呢”。\n(2)助词，义同啦”。\nlǐ：英美制长度单位，一哩等于5280英尺，合1609米（中国大陆地区已停用此字，写作英里”）。\nlī：〔～～啦啦〕零零散散或断断续续的样子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哩"
+}

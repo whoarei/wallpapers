@@ -1,0 +1,16 @@
+{
+  "id": "poem-8e316d1c580a204ab35d9e50",
+  "title": "苏东坡挽诗五首  其三",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "小冠白㲲步东园，原是青城欲度仙。",
+    "六合著名犹似窄，八周御魅讫能旋。",
+    "道如韩子频离世，文比欧公复并年。",
+    "我不衔恩畏清议，束刍难致泪潸然。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-1e64a2d2-95d4-4ffa-9d17-e3a283507364"
+}

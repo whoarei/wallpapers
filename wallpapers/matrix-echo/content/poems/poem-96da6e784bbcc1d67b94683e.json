@@ -1,0 +1,14 @@
+{
+  "id": "poem-96da6e784bbcc1d67b94683e",
+  "title": "寻徐道士",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "寻师远到晖天观，竹院森森闭药房。",
+    "闻入静来经七日，仙童簷下独焚香。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-cfc14bee-9fa0-4706-b0fc-380d3562d90b"
+}

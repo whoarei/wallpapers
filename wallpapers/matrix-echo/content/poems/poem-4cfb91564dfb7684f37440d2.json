@@ -1,0 +1,15 @@
+{
+  "id": "poem-4cfb91564dfb7684f37440d2",
+  "title": "沔水",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "沔彼流水，朝宗于海。𫛣彼飞隼，载飞载止。嗟我兄弟，邦人诸友。莫肯念乱，谁无父母？",
+    "沔彼流水，其流汤汤。𫛣彼飞隼，载飞载扬。念彼不迹，载起载行。心之忧矣，不可弭忘。",
+    "𫛣彼飞隼，率彼中陵。民之讹言，宁莫之惩？我友敬矣，谗言其兴。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-182"
+}

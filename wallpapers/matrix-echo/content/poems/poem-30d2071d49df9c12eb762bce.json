@@ -1,0 +1,16 @@
+{
+  "id": "poem-30d2071d49df9c12eb762bce",
+  "title": "贾客",
+  "author": "苏拯",
+  "dynasty": "唐",
+  "verses": [
+    "长帆挂短舟，所愿疾如箭。",
+    "得丧一惊飘，生死无良贱。",
+    "不谓天不祐，自是人苟患。",
+    "尝言海利深，利深不如浅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c1ee0ff4-7f70-4dab-a4f7-a20f32cadd13"
+}

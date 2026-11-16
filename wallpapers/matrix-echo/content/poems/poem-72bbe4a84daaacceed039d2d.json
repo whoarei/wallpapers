@@ -1,0 +1,16 @@
+{
+  "id": "poem-72bbe4a84daaacceed039d2d",
+  "title": "渔歌子·九疑山",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "九疑山，三湘水，芦花时节秋风起。",
+    "水云间，山月里，棹月穿云游戏。",
+    "鼓清琴，倾绿蚁，扁舟自得逍遥志。",
+    "任东西，无定止，不议人间醒醉。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-20"
+}

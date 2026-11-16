@@ -1,0 +1,14 @@
+{
+  "id": "poem-6ce4ec8cc7cd5353cff10aca",
+  "title": "西江月·若将花卉论行藏",
+  "author": "李结",
+  "dynasty": "宋",
+  "verses": [
+    "若将花卉论行藏。",
+    "盍在凌烟阁上。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-179",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-71ac",
+  "script": "seal",
+  "character": "熬",
+  "reading": "áo；āo",
+  "description": "āo：烹调方法，把蔬菜等放在水里煮～白菜。\náo：(1)久煮～粥。～药。\n(2)忍受，耐苦支持煎～。～夜。～炼。\n(3)古同嗷”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-熬"
+}

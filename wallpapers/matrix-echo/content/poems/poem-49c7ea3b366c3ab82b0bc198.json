@@ -1,0 +1,18 @@
+{
+  "id": "poem-49c7ea3b366c3ab82b0bc198",
+  "title": "谢赐珍珠",
+  "author": "江妃",
+  "dynasty": "唐",
+  "verses": [
+    "桂叶双眉久不描，残妆和泪汚红绡。",
+    "长门尽日无梳洗，何必珍珠慰寂寥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "思念",
+    "女子",
+    "宫怨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-06c84041-b4d9-4317-8d51-863fe37b087b"
+}

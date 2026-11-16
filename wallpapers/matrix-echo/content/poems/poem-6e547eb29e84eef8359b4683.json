@@ -1,0 +1,18 @@
+{
+  "id": "poem-6e547eb29e84eef8359b4683",
+  "title": "罢都统守镇滑州作",
+  "author": "王铎",
+  "dynasty": "唐",
+  "verses": [
+    "用军何事敢迁延，恩重才轻分使然。",
+    "黜诏已闻来阙下，檄书犹未遍军前。",
+    "腰间尽解苏秦印，波上虚迎范蠡船。",
+    "正会星辰扶北极，却驱戈甲镇南燕。",
+    "三尘上相逢明主，九合诸侯媿昔贤。",
+    "看却中兴扶大业，杀身无路好归田。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b96c0fe1-5315-4eae-9b61-3465e28ac073"
+}

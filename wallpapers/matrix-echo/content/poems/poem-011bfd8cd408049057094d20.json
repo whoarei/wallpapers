@@ -1,0 +1,14 @@
+{
+  "id": "poem-011bfd8cd408049057094d20",
+  "title": "客中行",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "兰陵美酒郁金香，玉碗盛来琥珀光。",
+    "但使主人能醉客，不知何处是他乡。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-客中行"
+}

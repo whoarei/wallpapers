@@ -1,0 +1,14 @@
+{
+  "id": "poem-05ee8168e01c837a7691df37",
+  "title": "因僧问话有颂（二首） 一",
+  "author": "延沼",
+  "dynasty": "唐",
+  "verses": [
+    "万法虚无实际深，凝然妄肯绝踈亲。",
+    "断常妙理修途者，镜像宜扶觉照频。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-6d732852-e1e4-4585-b494-13596a9f6b8e"
+}

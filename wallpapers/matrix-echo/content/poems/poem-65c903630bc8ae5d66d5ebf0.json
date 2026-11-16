@@ -1,0 +1,14 @@
+{
+  "id": "poem-65c903630bc8ae5d66d5ebf0",
+  "title": "王昭君",
+  "author": "胡令能",
+  "dynasty": "唐",
+  "verses": [
+    "胡风似劒锼人骨，汉月如钩钓胃肠。",
+    "魂梦不知身在路，夜来犹自到昭阳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-cea26d6c-4b88-4982-a31b-f01aead537e6"
+}

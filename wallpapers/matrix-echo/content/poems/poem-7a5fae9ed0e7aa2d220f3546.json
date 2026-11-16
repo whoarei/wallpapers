@@ -1,0 +1,20 @@
+{
+  "id": "poem-7a5fae9ed0e7aa2d220f3546",
+  "title": "蝶恋花·未就丹砂须九转",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "未就丹砂须九转。",
+    "谁把新词，歌绕梁尘遍。",
+    "拍拍韶华春意满。",
+    "揆予初度文何健。",
+    "恰是山花汀草远。",
+    "独乐园林，不梦笙歌殿。",
+    "灵气仙才非小见。",
+    "霞杯漫道蟠桃献。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-500",
+  "tags": []
+}

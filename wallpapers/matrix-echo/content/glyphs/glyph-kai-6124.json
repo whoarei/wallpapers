@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6124",
+  "script": "kai",
+  "character": "愤",
+  "reading": "fèn",
+  "description": "充盈,旺盛\n愤怒;怨恨。同忿”\n所以昭炯戒,激众愤\n⒈因不满意而激动发怒～怒。气～得很。激起公～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-愤"
+}

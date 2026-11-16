@@ -1,0 +1,19 @@
+{
+  "id": "poem-d1d78ba8bc453ffbe8daa5b4",
+  "title": "玉阶怨",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "玉阶生白露，夜久侵罗袜。",
+    "却下水晶帘，玲珑望秋月。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "孤独",
+    "宫怨",
+    "唐诗三百首",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a65e5646-14b1-4f75-924b-bbf262b242d7"
+}

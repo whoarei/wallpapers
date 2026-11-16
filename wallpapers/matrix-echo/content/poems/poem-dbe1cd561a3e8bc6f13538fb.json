@@ -1,0 +1,14 @@
+{
+  "id": "poem-dbe1cd561a3e8bc6f13538fb",
+  "title": "宫词  其三",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "秘阁新开别殿西，玉蟾蜍对玉狻猊。",
+    "奏书未惬君王意，内省夫人看御批。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-5ca4a8c6-3c06-4c7f-a83b-3da0c9e11605"
+}

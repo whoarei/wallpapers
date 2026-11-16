@@ -1,0 +1,20 @@
+{
+  "id": "poem-c97e66d0a295da8a1e092d9f",
+  "title": "阮郎归·碧溪风动满文漪",
+  "author": "米友仁",
+  "dynasty": "宋",
+  "verses": [
+    "碧溪风动满文漪。",
+    "雨馀山更奇。",
+    "淡烟横处柳行低。",
+    "鸳鸯来去飞。",
+    "人似玉，醉如泥。",
+    "一枝随鬓猗。",
+    "夷犹双桨月平西。",
+    "幽寻归路迷。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-59",
+  "tags": []
+}

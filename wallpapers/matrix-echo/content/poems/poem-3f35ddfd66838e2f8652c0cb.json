@@ -1,0 +1,14 @@
+{
+  "id": "poem-3f35ddfd66838e2f8652c0cb",
+  "title": "春寒",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "乱雪从教舞，回风任听吹。",
+    "春寒能作底，已被柳条欺。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-f2b846b5-590c-4b5f-b207-b047060fe574"
+}

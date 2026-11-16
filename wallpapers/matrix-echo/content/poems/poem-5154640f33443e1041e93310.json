@@ -1,0 +1,14 @@
+{
+  "id": "poem-5154640f33443e1041e93310",
+  "title": "岁晚烹试小春建茶",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "阳月藏春妙莫窥，灵芽粟粒露全机。",
+    "煮泉独啜寒窗夜，已觉东风天际归。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-e4779b88-6c84-4f41-87d7-5dd0edfe76a7"
+}

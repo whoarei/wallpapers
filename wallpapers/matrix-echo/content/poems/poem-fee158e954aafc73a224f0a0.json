@@ -1,0 +1,16 @@
+{
+  "id": "poem-fee158e954aafc73a224f0a0",
+  "title": "题张氏园亭二首  其二",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "岸荠随渔屦，林桃映舞衫。",
+    "定非铜雀榭，似是雨花岩。",
+    "僮有家千指，书多日百函。",
+    "斯人太高语，吾意秖尘凡。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-dbf7ff4b-99ee-47c8-9f52-63f4f612c58a"
+}

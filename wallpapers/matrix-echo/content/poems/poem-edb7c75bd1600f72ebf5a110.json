@@ -1,0 +1,14 @@
+{
+  "id": "poem-edb7c75bd1600f72ebf5a110",
+  "title": "柳枝辞十二首  其八",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "柳岸烟昏醉里归，不知深处有芳菲。",
+    "重来已见花飘尽，唯有黄鶑啭树飞。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-45092445-09ad-44be-95cf-70073d45a49c"
+}

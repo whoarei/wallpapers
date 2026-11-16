@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-978d",
+  "script": "seal",
+  "character": "鞍",
+  "reading": "ān",
+  "description": "ān：套在骡马背上便于骑坐的东西马～。～鞒。～韂（chàn）（马鞍和垫在马鞍下面的东西。亦称鞍鞯”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鞍"
+}

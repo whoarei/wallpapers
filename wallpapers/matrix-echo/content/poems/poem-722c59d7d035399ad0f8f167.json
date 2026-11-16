@@ -1,0 +1,16 @@
+{
+  "id": "poem-722c59d7d035399ad0f8f167",
+  "title": "雨中",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "终日翻盆雨，池亭晚更凉。",
+    "对琴思古意，酾酒惜韶光。",
+    "绿涨便鸥懒，残花笑蝶忙。",
+    "高田皆可插，好与报君王。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-d9d8012a-6316-46cd-b332-eba277922858"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e3cccac05bbc55e1fe9df09",
+  "title": "拜宣武军节度使",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "油幢竝入虎旗开，锦橐从天凤诏来。",
+    "星应魏师新鼓角，地嫌梁苑旧池台。",
+    "日晖红斾分如电，人拥青门动若雷。",
+    "伊洛镜清回首处，是非纷杂任尘埃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-c19415dc-5337-4280-897b-67965cc47d1b"
+}

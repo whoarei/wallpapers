@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6d94",
+  "script": "seal",
+  "character": "涔",
+  "reading": "cén",
+  "description": "cén：(1)连续下雨，积水成涝。\n(2)泪落很多的样子～泪。\n〔～～〕ａ．形容汗、泪、水等不断地流下；ｂ．形容天色阴晦；ｃ．形容头脑胀痛。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-涔"
+}

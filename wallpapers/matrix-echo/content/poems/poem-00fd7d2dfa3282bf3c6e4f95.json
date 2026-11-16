@@ -1,0 +1,15 @@
+{
+  "id": "poem-00fd7d2dfa3282bf3c6e4f95",
+  "title": "摽有梅",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "摽有梅，其实七兮。求我庶士，迨其吉兮。",
+    "摽有梅，其实三兮。求我庶士，迨其今兮。",
+    "摽有梅，顷筐塈之。求我庶士，迨其谓之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-19"
+}

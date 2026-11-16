@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-94b1",
+  "script": "kai",
+  "character": "钱",
+  "reading": "qián",
+  "description": "金属货币。特指铜钱\n⒈货币～币。铜～。金～。三块～。\n⒉费用，款项米～。菜～。一笔～。\n⒊财物无～难办。有～有势。\n⒋重量单位十分为一～。十～为一两。\n钱jiǎn 1.古农具名。臿属，似今之铁铲。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钱"
+}

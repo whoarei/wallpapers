@@ -1,0 +1,14 @@
+{
+  "id": "poem-abb1186ac0afe38365312f31",
+  "title": "仙源即事  其二",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "避世移家入乱山，松风杉雨打窗寒。",
+    "床头一卷麻衣易，自点松明尽夜看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-46af5910-76bb-4eda-a469-7d1b3cb83db1"
+}

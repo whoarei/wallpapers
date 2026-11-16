@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bef",
+  "script": "seal",
+  "character": "误",
+  "reading": "wù",
+  "description": "谬误;错误\n耽误\n妨害\n⒈错，荒谬～差。～会。错～。谬～。\n⒉耽搁～事。～点。耽～。\n⒊使受害～人子弟。～国～民。\n⒋不是故意的但有害于人～伤。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-误"
+}

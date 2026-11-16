@@ -1,0 +1,18 @@
+{
+  "id": "poem-9cf449004fb957e3c6acf2a7",
+  "title": "奉和圣制南郊礼毕诗",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "磬管歌大吕，冕裘旅天神。",
+    "烧萧辟阊阖，祈谷为蒸人。",
+    "羽旗洒轻雪，麦陇含阳春。",
+    "昌运岁今会，王猷从此新。",
+    "三臣皆就日，万国望如云。",
+    "仁寿信非远，群生方在钧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e7484e6e-8708-4236-824f-717093e5f953"
+}

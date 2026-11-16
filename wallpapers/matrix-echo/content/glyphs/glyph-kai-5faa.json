@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5faa",
+  "script": "kai",
+  "character": "循",
+  "reading": "xún",
+  "description": "xún：(1)遵守，依照沿袭遵～。因～。～环。～规蹈矩。\n(2)古同巡”，巡行。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-循"
+}

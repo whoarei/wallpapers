@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-707e",
+  "script": "seal",
+  "character": "灾",
+  "reading": "zāi",
+  "description": "zāi：(1)水、火、荒旱等所造成的祸害水～。火～。～难（nàn）。～害。～患。\n(2)个人的不幸遭遇招～惹祸。幸～乐祸。破财消～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-灾"
+}

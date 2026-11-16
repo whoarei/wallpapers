@@ -1,0 +1,17 @@
+{
+  "id": "poem-7236a07101c3a19c84c49793",
+  "title": "华严六相义颂",
+  "author": "文益",
+  "dynasty": "唐",
+  "verses": [
+    "华严六相义，同中还有异。",
+    "异若异于同，全非诸佛意。",
+    "诸佛意总别，何曾有同异。",
+    "男子身中入定时，女子身中不留意。",
+    "不留意，绝名字，万象明明无理事。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-6b24e1e2-9f7e-4321-acde-138b824d8038"
+}

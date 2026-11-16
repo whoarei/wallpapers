@@ -1,0 +1,16 @@
+{
+  "id": "poem-607931cc4da67a58006e4a86",
+  "title": "庄陵挽歌词三首 三",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "晓日龙车动，秋风阊阖开。",
+    "行帷六宫出，执绋万方来。",
+    "惨惨郊原暮，迟迟挽唱哀。",
+    "空山烟雨夕，新陌遶陵台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-739d2637-932f-4ef4-9ce8-63506681e838"
+}

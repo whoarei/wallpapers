@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f21",
+  "script": "seal",
+  "character": "缡",
+  "reading": "lí",
+  "description": "用丝装饰鞋头\n古时妇女系在身前的大佩巾\n带子",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缡"
+}

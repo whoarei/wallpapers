@@ -1,0 +1,14 @@
+{
+  "id": "poem-2484dcfd56125addf66c648b",
+  "title": "岁暮题杨录事江亭",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "垂丝蜀客涕濡衣，岁尽长沙未得归。",
+    "肠断锦帆风日好，可怜桐鸟出花飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-52e9e9f5-c0cb-4da9-9274-f407121aa5b3"
+}

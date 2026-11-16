@@ -1,0 +1,16 @@
+{
+  "id": "poem-1cab2d7bcf1ca57c42a2e3e6",
+  "title": "巫山一段云·有客经巫峡",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "有客经巫峡，停桡向水湄。",
+    "楚王曾此梦瑶姬，一梦杳无期。",
+    "尘暗珠帘卷，香消翠帷垂。",
+    "西风回首不胜悲，暮雨洒空祠。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-21"
+}

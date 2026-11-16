@@ -1,0 +1,16 @@
+{
+  "id": "poem-98cc4d8dcbda9dc38a0e0f17",
+  "title": "刘展下判官相招以诗答之",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "国有非常宠，家承异姓勋。",
+    "背恩慙皎日，不义若浮云。",
+    "但使忠贞在，甘从玉石焚。",
+    "窜身如有地，梦寐见明君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-3abc38e4-f4ce-4a03-8cff-368a950c86e6"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7bdaf6ef2815216789f79d29",
+  "title": "游月陂",
+  "author": "程颢",
+  "dynasty": "宋",
+  "verses": [
+    "月坡堤上四徘徊，北有中天百尺台。",
+    "万物已随秋气改，一樽聊为晚凉开。",
+    "水心云影闲相照，林下泉声静自来。",
+    "世事无端何足计，但逢佳节约重陪。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-遊月陂"
+}

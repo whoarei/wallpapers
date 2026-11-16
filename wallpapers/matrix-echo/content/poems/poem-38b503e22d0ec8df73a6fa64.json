@@ -1,0 +1,16 @@
+{
+  "id": "poem-38b503e22d0ec8df73a6fa64",
+  "title": "九江和人赠陈生",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "天畏斯文坠，凭君助素风。",
+    "意深皆可补，句逸不因功。",
+    "暮替云愁远，秋惊月占空。",
+    "寄家当瀑布，时得笑言同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-acfaa4fa-3c35-4f86-80a6-5108a2436530"
+}

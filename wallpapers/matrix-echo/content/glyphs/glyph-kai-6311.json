@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6311",
+  "script": "kai",
+  "character": "挑",
+  "reading": "tiāo；tiǎo",
+  "description": "tiāo：(1)扁担等两头挂着东西，用肩担着～土。～夫（旧时以给人挑货物行李为业的人）。\n(2)挑的东西～担。\n(3)挖取～荠菜。\n(4)量词，用于成挑儿的东西一～儿白菜。\n(5)选，拣～选。～拣。～剔。～肥拣瘦。\n(6)古同佻”，佻达。\ntiǎo：(1)用竿子棍棒等的一头举起或支起～起帘子。\n(2)用条状物或有尖的东西拨开或弄出来～打。\n(3)拨弄，引动～拨。～动。～头。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-挑"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c387d81ab8e9a6bcd7eb9a7a",
+  "title": "神弦别曲",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "巫山小女隔云别，春风松花山上发。",
+    "绿盖独穿香径归，白马花竿前孑孑。",
+    "蜀江风澹水如罗，堕兰谁泛相经过。",
+    "南山桂树为君死，云衫浅汚红脂花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0d28db5a-f66d-45e8-abbc-babe8dde823c"
+}

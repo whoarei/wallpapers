@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-90e8",
+  "script": "seal",
+  "character": "部",
+  "reading": "bù",
+  "description": "bù：(1)全体中的一份～分（分”读轻声）。外～。腹～。局～。全～。～件。～位（位置）。\n(2)机关企业按业务范围分设的单位外交～。编辑～。～队（军队）。\n(3)具有统属关系所～五十人。～下。～将。～属。～首。～落（luò）。\n(4)安置安排～署。\n(5)量词一～小说。三～汽车。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-部"
+}

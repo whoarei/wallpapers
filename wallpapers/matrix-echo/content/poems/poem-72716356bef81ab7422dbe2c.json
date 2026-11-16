@@ -1,0 +1,22 @@
+{
+  "id": "poem-72716356bef81ab7422dbe2c",
+  "title": "自蓟北归",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "驱马蓟门北，北风边马哀。",
+    "苍茫远山口，豁达胡天开。",
+    "五将已深入，前军止半廻。",
+    "谁怜不得意，长劒独归来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "写景",
+    "抒情",
+    "边塞",
+    "愤懑",
+    "壮志未酬"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-3e1b6607-1440-4c27-a25a-233c079b8011"
+}

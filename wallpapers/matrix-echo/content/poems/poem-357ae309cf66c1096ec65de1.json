@@ -1,0 +1,13 @@
+{
+  "id": "poem-357ae309cf66c1096ec65de1",
+  "title": "天作",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "天作高山，大王荒之。彼作矣，文王康之。彼徂矣，岐有夷之行。子孙保之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-269"
+}

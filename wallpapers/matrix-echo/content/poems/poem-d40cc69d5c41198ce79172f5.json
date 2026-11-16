@@ -1,0 +1,14 @@
+{
+  "id": "poem-d40cc69d5c41198ce79172f5",
+  "title": "题水墨萱草水仙  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "草欲忘忧蔓更滋，望云长在蜀天西。",
+    "萧萧风木添新恨，誊录精神答噬脐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-b168f891-ee5d-463b-b71d-96121be30f77"
+}

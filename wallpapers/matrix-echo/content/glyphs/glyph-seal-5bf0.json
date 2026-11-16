@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5bf0",
+  "script": "seal",
+  "character": "寰",
+  "reading": "huán",
+  "description": "huán：(1)广大的地域人～。瀛～（五洲四海）。～海。～球。～宇（亦作环宇”）。\n(2)古指距京都千里以内的地区，京畿～内诸侯，非有天子之命，不得出会诸侯”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-寰"
+}

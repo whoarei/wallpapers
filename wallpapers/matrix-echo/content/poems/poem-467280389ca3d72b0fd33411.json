@@ -1,0 +1,14 @@
+{
+  "id": "poem-467280389ca3d72b0fd33411",
+  "title": "南池",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "照影池边多少愁，往来重见此塘秋。",
+    "芙蓉苑外新经雨，红叶相随何处流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-a7f13f76-a9a2-4d24-9260-0a30faab44ff"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-bca3c402c7bd282880ccd5f4",
+  "title": "扬州",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "金山一拳石，出髻如溟涨。",
+    "天外辨两潮，江南分列嶂。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-22724889-a6c5-49e0-a1e3-2167e98a8ba3"
+}

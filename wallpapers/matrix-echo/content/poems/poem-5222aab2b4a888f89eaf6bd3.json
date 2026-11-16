@@ -1,0 +1,16 @@
+{
+  "id": "poem-5222aab2b4a888f89eaf6bd3",
+  "title": "菩萨蛮·隔帘微雨双飞燕",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "隔帘微雨双飞燕，砌花零落红深浅。",
+    "捻得宝筝凋，心随征棹遥。",
+    "楚天云外路，动便经年去。",
+    "香断画屏深，旧欢何处寻。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-45"
+}

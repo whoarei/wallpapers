@@ -1,0 +1,20 @@
+{
+  "id": "poem-8c90b758fac28bab8c609771",
+  "title": "减字木兰花·杏花零乱",
+  "author": "葛胜仲",
+  "dynasty": "宋",
+  "verses": [
+    "杏花零乱。",
+    "拟把百觚来判断。",
+    "病卧漳滨。",
+    "不见枝头闹小春。",
+    "吾衰老矣。",
+    "一醉花前犹不遂。",
+    "情绪厌厌。",
+    "虚度韶光又一年。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-22",
+  "tags": []
+}

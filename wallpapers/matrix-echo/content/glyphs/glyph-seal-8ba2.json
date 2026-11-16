@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8ba2",
+  "script": "seal",
+  "character": "订",
+  "reading": "dìng",
+  "description": "改正,修正\n达成协议订立;使生效\n预先约定\n把零散的纸张、书页加工成本\n②约定～报。\n③修改；改正～正、校～。\n④用线、铁丝等把书页等连在一起装～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-订"
+}

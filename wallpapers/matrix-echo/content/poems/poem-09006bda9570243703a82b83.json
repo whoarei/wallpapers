@@ -1,0 +1,14 @@
+{
+  "id": "poem-09006bda9570243703a82b83",
+  "title": "凤时春",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "张叶诗书遍历，困故乡功名未遂。",
+    "欲占春闱登科举，暂别爹娘，独自离乡里。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2450",
+  "tags": []
+}

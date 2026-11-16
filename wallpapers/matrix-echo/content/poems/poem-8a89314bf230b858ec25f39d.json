@@ -1,0 +1,16 @@
+{
+  "id": "poem-8a89314bf230b858ec25f39d",
+  "title": "奉寄中书王舍人",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "腰金载笔谒承明，至道安禅得此生。",
+    "西掖几年纶綍贵，东山遥夜薜萝情。",
+    "风传刻漏星河曙，月上梧桐雨露清。",
+    "圣主好文谁为荐，闭门空赋子虚成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-b27b13fb-d8e2-4231-a109-65068e60437d"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f76199df48444401765b07a5",
+  "title": "挽王学正  其二",
+  "author": "叶大年",
+  "dynasty": "宋",
+  "verses": [
+    "遗文脍炙在吾乡，赋罢谁能少荐扬。",
+    "声迹有妻先蝶梦，行藏无子付洴方。",
+    "云萝烟蔓新泉宅，秋月春花旧野堂。",
+    "交倡丝牋真翰墨，几人知为宝巾箱。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-1c928ce6-749f-44f6-8f2f-e064ec15b0f5"
+}

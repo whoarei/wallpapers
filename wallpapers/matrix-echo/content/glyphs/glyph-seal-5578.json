@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5578",
+  "script": "seal",
+  "character": "啸",
+  "reading": "xiào",
+  "description": "呼召,号召\n⒈打口哨，撮口发音仰天长～。\n⒉动物长声吼叫虎～猿啼。\n⒊自然界产生的或子弹、飞机等飞过时所发出的声音海～。子弹～ ～擦耳掠过。飞机尖～着飞过屋顶。\n啸chì 1.大声呼喝。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-啸"
+}

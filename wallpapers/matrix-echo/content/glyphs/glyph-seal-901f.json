@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-901f",
+  "script": "seal",
+  "character": "速",
+  "reading": "sù",
+  "description": "sù：(1)快～记。～效。～印。～写。～成。飞～。神～。\n(2)速度慢～。超～。加～。风～。\n(3)邀请，招致不～之客。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-速"
+}

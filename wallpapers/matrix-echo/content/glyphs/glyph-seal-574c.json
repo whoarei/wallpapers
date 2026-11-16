@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-574c",
+  "script": "seal",
+  "character": "坌",
+  "reading": "bèn",
+  "description": "bèn：(1)尘埃。\n(2)聚积。\n(3)粗劣。\n(4)古同笨”，蠢笨。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-坌"
+}

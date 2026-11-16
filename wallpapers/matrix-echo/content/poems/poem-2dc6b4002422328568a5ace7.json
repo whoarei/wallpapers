@@ -1,0 +1,16 @@
+{
+  "id": "poem-2dc6b4002422328568a5ace7",
+  "title": "禁林春直",
+  "author": "李昉",
+  "dynasty": "宋",
+  "verses": [
+    "疏帘摇曳日辉辉，直阁深严半掩扉。",
+    "一院有花春昼永，八方无事诏书稀。",
+    "树头百啭鶑鶑语，梁上新来燕燕飞。",
+    "岂合此身居此地，妨贤尸禄自知非。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-230ffda4-8a59-4f4c-8332-032def25e5ef"
+}

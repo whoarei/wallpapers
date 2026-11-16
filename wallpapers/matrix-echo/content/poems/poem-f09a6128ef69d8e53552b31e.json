@@ -1,0 +1,16 @@
+{
+  "id": "poem-f09a6128ef69d8e53552b31e",
+  "title": "后庭花·莺啼燕语芳菲节",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "莺啼燕语芳菲节，瑞庭花发。",
+    "昔时欢宴歌声揭，管弦清越。",
+    "自从陵谷追游歇，画梁尘黦。",
+    "伤心一片如圭月，闲锁宫阙。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-5"
+}

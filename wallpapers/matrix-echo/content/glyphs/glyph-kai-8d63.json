@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d63",
+  "script": "kai",
+  "character": "赣",
+  "reading": "gàn",
+  "description": "赣江,在江西省\n江西省的别称\n⒈江西省的简称。\n⒉赣江，在江西省。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赣"
+}

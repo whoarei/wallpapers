@@ -1,0 +1,14 @@
+{
+  "id": "poem-d5841393adbb8b1331774ef1",
+  "title": "行军九日思长安故园",
+  "author": "岑参",
+  "dynasty": "唐",
+  "verses": [
+    "强欲登高去，无人送酒来。",
+    "遥怜故园菊，应傍战场开。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-行軍九日思長安故園"
+}

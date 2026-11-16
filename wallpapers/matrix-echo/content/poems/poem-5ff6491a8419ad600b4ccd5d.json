@@ -1,0 +1,17 @@
+{
+  "id": "poem-5ff6491a8419ad600b4ccd5d",
+  "title": "怀古呈通守郑定斋  其四",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "北方有大井，深潜几万寻。",
+    "煎为东阿胶，莹彻如球琳。",
+    "持此一寸微，可救千丈浑。",
+    "世道一以浊，贪风方襄陵。",
+    "谁能汲此水，净涤四海心。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-f02316c5-7a5c-4f71-9166-464b397d73a2"
+}

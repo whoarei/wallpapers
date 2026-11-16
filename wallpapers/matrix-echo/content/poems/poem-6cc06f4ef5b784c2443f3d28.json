@@ -1,0 +1,16 @@
+{
+  "id": "poem-6cc06f4ef5b784c2443f3d28",
+  "title": "将入匡山别芳昼二公二首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "红豆树间滴红雨，恋师不得依师住。",
+    "世情世界愁杀人，锦绣谷中归舍去。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-39b52015-5f01-4243-ba21-b1e7289c9326"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-c428477414213adc20c06ef6",
+  "title": "和吕知柔终南山诗（题拟）",
+  "author": "王思同",
+  "dynasty": "唐",
+  "verses": [
+    "料伊直拟冲霄汉，赖有青天压着头。",
+    "（见《册府元龟》卷九三九、卷九五四、《旧五代史》卷六五。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "终南山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-4248a124-50d8-43bd-8f77-64f8cca093a8"
+}

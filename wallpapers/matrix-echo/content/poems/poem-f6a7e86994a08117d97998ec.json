@@ -1,0 +1,16 @@
+{
+  "id": "poem-f6a7e86994a08117d97998ec",
+  "title": "菩萨蛮·乌丝画作回纹纸",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "乌丝画作回纹纸，香煤暗蚀藏头字。",
+    "筝雁十三双，输他作一行。",
+    "相看仍似客，但道休相忆。",
+    "索性不还家，落残红杏花。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-187"
+}

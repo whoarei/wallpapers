@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-57fa",
+  "script": "kai",
+  "character": "基",
+  "reading": "jī",
+  "description": "jī：(1)建筑物的根脚～石。～础。奠～。\n(2)根本的，起始的～本。～业。～层。～点。～准。\n(3)根据～于。\n(4)化学上化合物的分子中所含的一部分子原子被看作是一个单位时，称作基”～团。～态。氨～。羧～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-基"
+}

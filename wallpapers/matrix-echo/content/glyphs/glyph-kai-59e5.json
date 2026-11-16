@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-59e5",
+  "script": "kai",
+  "character": "姥",
+  "reading": "lǎo；mǔ",
+  "description": "mǔ：年老的妇女。\nlǎo：〔～～〕a.称外祖母，亦为对老妇人的敬称；b.旧时称接生的妇女。均亦作老老”（后一个姥”、老”均读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-姥"
+}

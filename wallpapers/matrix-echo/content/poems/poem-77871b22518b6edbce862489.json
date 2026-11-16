@@ -1,0 +1,14 @@
+{
+  "id": "poem-77871b22518b6edbce862489",
+  "title": "春秋战国门 叔向",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "重禄存家不敢言，小臣忧祸亦如然。",
+    "明开谏诤能无罪，秪此宜为理国先。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8446179b-cbd6-475d-baa2-1303e06ec5b5"
+}

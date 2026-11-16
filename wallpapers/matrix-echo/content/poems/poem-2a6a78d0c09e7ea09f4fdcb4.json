@@ -1,0 +1,14 @@
+{
+  "id": "poem-2a6a78d0c09e7ea09f4fdcb4",
+  "title": "庙山道中",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "萧萧疏雨点孤蓬，舟子招呼语顺风。",
+    "小麦青青春恰半，一犂江上看田翁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-f8431ec2-c85e-4235-91ec-782bc116df67"
+}

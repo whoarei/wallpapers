@@ -1,0 +1,14 @@
+{
+  "id": "poem-75b6e378047fae1c92aeee36",
+  "title": "诗一首",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "元来不相识，判自继知闻。",
+    "天公强多事，今遣若为分。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-9b1e453c-b38c-48d1-8b6e-08e5c0fb0f23"
+}

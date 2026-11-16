@@ -1,0 +1,14 @@
+{
+  "id": "poem-17091767ca8cf5543e4543c3",
+  "title": "秦门 胡亥",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "鹿马何难辨是非，宁劳卜筮问安危。",
+    "权臣为乱多如此，亡国时君不自知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ff5f4b8e-0bf8-4406-822f-aa4290b1865d"
+}

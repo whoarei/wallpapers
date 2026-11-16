@@ -1,0 +1,14 @@
+{
+  "id": "poem-c4de37d7587820f70193f283",
+  "title": "宫词  其九四",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "雪罢严寒殆不禁，紫宸朝退禁门深。",
+    "君恩委曲人知否，数盏香醪抵百金。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-925d7973-04a4-46f1-a589-32a2ca2ef745"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5fe0",
+  "script": "seal",
+  "character": "忠",
+  "reading": "zhōng",
+  "description": "zhōng：诚心尽力～心。～诚。～实。～告。～于。～魂。～义。～贞。效～。赤胆～心。～言逆耳。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-忠"
+}

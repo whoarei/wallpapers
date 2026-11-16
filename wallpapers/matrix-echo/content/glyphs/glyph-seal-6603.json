@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6603",
+  "script": "seal",
+  "character": "昃",
+  "reading": "zè",
+  "description": "zè：太阳偏西～食宵衣（旧时称颂帝王勤于政事的套话，太阳偏西时才吃饭，天未亮就穿衣）。旰～（天晚，喻勤于政事）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昃"
+}

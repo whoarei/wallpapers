@@ -1,0 +1,18 @@
+{
+  "id": "poem-9344ad12588ae51a13bf52c0",
+  "title": "郊庙歌辞 太清宫乐章 紫极舞",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "至道生元气，重圆法混成。",
+    "无为观大象，冲用体常名。",
+    "仙乐临丹阙，云车出玉京。",
+    "灵符百代应，瑞节九贞迎。",
+    "宝运开皇极，天临映太清。",
+    "长垂一德庆，永庇万方宁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fd921ba1-15e1-4b4c-96e5-a127f6678ea7"
+}

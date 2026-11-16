@@ -1,0 +1,22 @@
+{
+  "id": "poem-ce8293452bb1617ab0b16b0b",
+  "title": "渔家傲·四月芳林何悄悄",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "四月芳林何悄悄。",
+    "绿阴满地青梅小。",
+    "南陌采桑何窈窕。",
+    "争语笑。",
+    "乱丝满腹吴蚕老。",
+    "宿酒半醒新睡觉。",
+    "雏莺相语匆匆晓。",
+    "惹得此情萦寸抱。",
+    "休临眺。",
+    "楼头一望皆芳草。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-710",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6dc505d3294c944ce8b14ea1",
+  "title": "秋原野望",
+  "author": "杨凌",
+  "dynasty": "唐",
+  "verses": [
+    "客鴈秋来次第逢，家书频寄两三封。",
+    "夕阳天外云归尽，乱见青山无数峰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-32f64e23-40d7-4bd1-a43b-5a94c6d57438"
+}

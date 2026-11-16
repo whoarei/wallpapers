@@ -1,0 +1,14 @@
+{
+  "id": "poem-043af48f263773819be3cdf1",
+  "title": "芄兰",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "芄兰之支，童子佩觿。虽则佩觿，能不我知。容兮遂兮，垂带悸兮。",
+    "芄兰之叶，童子佩韘。虽则佩韘，能不我甲。容兮遂兮，垂带悸兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-59"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c04",
+  "script": "seal",
+  "character": "射",
+  "reading": "shè；yè；yì",
+  "description": "shè：(1)放箭～箭◇羿～日。\n(2)用推力或弹力送出子弹等～击。扫～。发～。～程。～手。\n(3)气体或液体等受到压力迅速流出喷～。注～。\n(4)放出光、热、电波等～电。辐～。～线。照～。反～。\n(5)有所指暗～。影～。\nyè：〔～干〕古书上的一种草，根可入药。\n〔仆～〕中国秦至宋代的官名，宋代以后废。\nyì：〔无～〕a.中国古代音乐十二律之一；b.中国春秋时景王所铸钟名。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-射"
+}

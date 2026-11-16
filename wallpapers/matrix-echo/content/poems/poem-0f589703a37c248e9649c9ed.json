@@ -1,0 +1,14 @@
+{
+  "id": "poem-0f589703a37c248e9649c9ed",
+  "title": "咏史诗 绵山",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "亲在要君召不来，乱山重叠使空回。",
+    "如何坚执尤人意，甘向岩前作死灰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-2915ab6c-a9d3-42a9-85c8-066bffae9c3a"
+}

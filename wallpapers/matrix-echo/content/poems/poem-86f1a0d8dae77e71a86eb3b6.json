@@ -1,0 +1,16 @@
+{
+  "id": "poem-86f1a0d8dae77e71a86eb3b6",
+  "title": "郊庙歌辞 周宗庙乐舞辞 咸顺",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "万舞咸列，三阶克清。",
+    "贯珠一倡，击石九成。",
+    "盈觞虽酌，灵坐无形。",
+    "永怀我祖，达其孝诚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ed40a913-e197-4ac1-85bd-d82dd147bede"
+}

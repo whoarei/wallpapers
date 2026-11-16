@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-73c2",
+  "script": "seal",
+  "character": "珂",
+  "reading": "kē",
+  "description": "kē：(1)玉名鸣～。～雪（形容洁白如雪）。\n(2)马笼头的装饰玉～。～月。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-珂"
+}

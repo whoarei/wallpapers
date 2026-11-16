@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5507",
+  "script": "kai",
+  "character": "唇",
+  "reading": "chún",
+  "description": "chún：嘴的边缘红色部分嘴～。～齿（喻互相接近而且有共同利害的两方面）。～膏。～裂。～舌（嘴唇”和舌头”，喻言辞）。～吻（嘴唇，喻口才、言辞）。～亡齿寒（关系密切，利害相关）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-唇"
+}

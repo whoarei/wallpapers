@@ -1,0 +1,14 @@
+{
+  "id": "poem-886b22e6f4ce1f2ad02ebead",
+  "title": "云封庵",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "登岩背山河，立石秋风里。",
+    "隐见浙江涛，一尺东沟水。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-94b5fa09-9eef-4b3c-acc3-99cd9be66a57"
+}

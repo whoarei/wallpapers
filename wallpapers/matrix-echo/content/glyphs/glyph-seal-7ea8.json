@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ea8",
+  "script": "seal",
+  "character": "纨",
+  "reading": "wán",
+  "description": "细致洁白的薄绸\n纨扇,细绢扇\n幼小的\n⒈细绢，细致的丝织品～扇。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-纨"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ee3",
+  "script": "kai",
+  "character": "代",
+  "reading": "dài",
+  "description": "dài：(1)替～替。～办。～销。～序。～表。\n(2)历史上划分的时期时～。世～。古～。近～。现～。当（dāng）～。年～。\n(3)世系的辈分下一～。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-代"
+}

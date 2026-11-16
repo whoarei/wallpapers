@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-554a",
+  "script": "kai",
+  "character": "啊",
+  "reading": "ā；á；ǎ；à",
+  "description": "ā：叹词，表示赞叹或惊异～，这花真美呀！～哈。～呀。\ná：叹词，表示疑问或反问～，你说什么？\nǎ：叹词，表示疑惑～，这是怎么回事？\nà：(1)叹词，表示应诺（音较短）～，好吧！\n(2)叹词，表示醒悟（音较长）～，我这才明白过来！\n(3)表示赞叹（音较长）～，亲爱的祖国！\n助词，在句末，表示惊叹的语气（常因前面字音不同而发生变音，可用不同的字来表示）你好～（哇）！真新鲜～（哪）！",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-啊"
+}

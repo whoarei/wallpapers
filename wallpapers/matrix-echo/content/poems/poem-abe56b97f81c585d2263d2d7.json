@@ -1,0 +1,16 @@
+{
+  "id": "poem-abe56b97f81c585d2263d2d7",
+  "title": "闻李频员外卒",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "苍苍难可问，问荅亦难闻。",
+    "落叶平津岸，愁人李使君。",
+    "文章应力竭，茅土始天分。",
+    "又逐东风去，迢迢隔岭云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-20ddb6ca-d910-4a35-8f78-f7206e28b12d"
+}

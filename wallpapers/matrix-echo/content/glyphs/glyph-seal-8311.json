@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8311",
+  "script": "seal",
+  "character": "茑",
+  "reading": "niǎo",
+  "description": "寄生木\n⒈古书上所说的一种小灌木，茎能攀缘别的树木。\n①一年生蔓草。\n②茑和女萝。〈喻〉亲戚关系。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茑"
+}

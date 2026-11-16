@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f4f",
+  "script": "kai",
+  "character": "住",
+  "reading": "zhù",
+  "description": "zhù：(1)长期居留或短暂歇息居～。～宿。～房。～户。\n(2)停，止，歇下～手。雨～了。\n(3)动词的补语（ａ．表示稳当或牢固，如站～”；ｂ．表示停顿或静止，如他愣～了”。ｃ．与得”或不”连用，表示力量够得上，如支持不～了”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-住"
+}

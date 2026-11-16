@@ -1,0 +1,16 @@
+{
+  "id": "poem-2a74b2308f1e9d34957ce948",
+  "title": "偈 二",
+  "author": "缘观",
+  "dynasty": "唐",
+  "verses": [
+    "红焰藏吾身，何须塔庙新。",
+    "有人相肯重，灰里邈全真。",
+    "（《景德传灯录》卷二四、《五灯会元》卷十四。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-f6203ae0-f071-47e8-9790-3a50a2c605f6"
+}

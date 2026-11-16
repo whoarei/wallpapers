@@ -1,0 +1,16 @@
+{
+  "id": "poem-3d9cd61aec4c1f0c53c28350",
+  "title": "夜游曲",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "汉室欢娱盛，魏国文雅遒。",
+    "许史多暮宿，应陈从夜游。",
+    "西园䜩公子，北里召王侯。",
+    "讵似将军猎，空嗟亭尉留。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-79031f67-be20-4ef3-b01a-60eb5f5ea925"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-68c0",
+  "script": "kai",
+  "character": "检",
+  "reading": "jiǎn",
+  "description": "法式,法度\n品行;节操\n约束,限制\n⒈查，查看，查验～字。～修。～收。\n⒉收敛，约束～点。言行失～。\n⒊法度，法则，方式定～。节奏同～。\n①仔细地查看。\n②查考。\n③检讨。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-检"
+}

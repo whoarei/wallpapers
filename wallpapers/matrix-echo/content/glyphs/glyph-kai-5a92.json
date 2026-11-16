@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5a92",
+  "script": "kai",
+  "character": "媒",
+  "reading": "méi",
+  "description": "méi：(1)撮合男女婚事的人～人。～妁（旧指婚姻介绍人）。～婆。\n(2)使双方发生关系的人或事物～介。～体。触～。传～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-媒"
+}

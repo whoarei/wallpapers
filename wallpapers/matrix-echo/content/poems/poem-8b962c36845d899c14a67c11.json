@@ -1,0 +1,16 @@
+{
+  "id": "poem-8b962c36845d899c14a67c11",
+  "title": "题金华宫",
+  "author": "蜀太后徐氏",
+  "dynasty": "唐",
+  "verses": [
+    "再到金华顶，玄都访道回。",
+    "云披分景象，黛锁显楼台。",
+    "雨涤前山净，风吹去路开。",
+    "翠屏夹流水，何必羡蓬莱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-15bac88f-aae3-4249-861e-7d42a2120302"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-04e01981432247cd0af50387",
+  "title": "寓西马塍",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "十亩荒林屋数间，门通小艇水湾湾。",
+    "人行远路多嫌僻，我得安居却称闲。",
+    "樽酒相忘霜后菊，一诗难尽雨中山。",
+    "何时漾下浮名事，只与田翁剩往还。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-43304ffa-0126-44bb-8c8a-f261235c550d"
+}

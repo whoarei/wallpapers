@@ -1,0 +1,16 @@
+{
+  "id": "poem-c1e3a9e4b561d3678fa8e3dd",
+  "title": "独不见",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "玉关一自有氛埃，年少从军竟未回。",
+    "门外尘凝张乐榭，水边香灭按歌台。",
+    "窗残夜月人何处，帘卷春风燕复来。",
+    "万里寂寥音信绝，寸心争忍不成灰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-35e79af8-d41e-4ad4-949c-83f851a13447"
+}

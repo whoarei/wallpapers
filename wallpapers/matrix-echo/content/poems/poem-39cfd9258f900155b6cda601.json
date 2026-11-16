@@ -1,0 +1,20 @@
+{
+  "id": "poem-39cfd9258f900155b6cda601",
+  "title": "菩萨蛮·髻钗初上朝云卷",
+  "author": "陈师道",
+  "dynasty": "宋",
+  "verses": [
+    "髻钗初上朝云卷。",
+    "眼波翻动眉山远。",
+    "一曲杜韦娘。",
+    "当年枉断肠。",
+    "佳期如好月。",
+    "拟满还须缺。",
+    "别易见应难。",
+    "长须仔细看。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-305",
+  "tags": []
+}

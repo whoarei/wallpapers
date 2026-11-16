@@ -1,0 +1,14 @@
+{
+  "id": "poem-631552fc7ba4049eb9911849",
+  "title": "赏春",
+  "author": "路半千",
+  "dynasty": "唐",
+  "verses": [
+    "暖日当头催展菜，和风次第遣开花。",
+    "呼童远取溪心水，待客来煎柳眼茶。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-53dc188c-b67b-4e38-a59d-667eca3b351a"
+}

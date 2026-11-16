@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-96f9",
+  "script": "kai",
+  "character": "雹",
+  "reading": "báo",
+  "description": "báo：空中水蒸气遇冷结成的冰粒或冰块，常在夏季随暴雨下降冰～。～子。～灾。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-雹"
+}

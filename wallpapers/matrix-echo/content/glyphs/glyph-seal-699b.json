@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-699b",
+  "script": "seal",
+  "character": "榛",
+  "reading": "zhēn",
+  "description": "zhēn：(1)落叶灌木或小乔木，结球形坚果，称榛子”，果仁可食。木材可做器物。\n(2)丛杂的草木～芜。莽～。～薄（草木丛生的地方，引申为指幽僻的地方）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-榛"
+}

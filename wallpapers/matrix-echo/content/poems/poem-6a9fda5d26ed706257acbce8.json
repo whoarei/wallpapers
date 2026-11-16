@@ -1,0 +1,16 @@
+{
+  "id": "poem-6a9fda5d26ed706257acbce8",
+  "title": "再和  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "闭门谢客少过从，独倚修篁傲碧空。",
+    "忽喜千条发琼蕊，纷如万鹤出樊笼。",
+    "与君前日徘徊久，得句悬知惨淡中。",
+    "胸次本无愁可著，何为苦要酒兵攻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-42251b17-b0a9-4a89-a53b-3ee30be56785"
+}

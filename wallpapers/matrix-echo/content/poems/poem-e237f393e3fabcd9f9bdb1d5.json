@@ -1,0 +1,23 @@
+{
+  "id": "poem-e237f393e3fabcd9f9bdb1d5",
+  "title": "祝英台令·宝钗分",
+  "author": "辛弃疾",
+  "dynasty": "宋",
+  "verses": [
+    "宝钗分，桃叶渡。",
+    "烟柳暗南浦。",
+    "怕上层楼，十日九风雨。",
+    "断肠片片飞红，都无人管，倩谁唤、流莺声住。",
+    "鬓边觑。",
+    "试把花卜心期，才簪又重数。",
+    "罗帐灯昏，呜咽梦中语。",
+    "是他春带愁来，春归何处。",
+    "却不解、将愁归去。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-213"
+}

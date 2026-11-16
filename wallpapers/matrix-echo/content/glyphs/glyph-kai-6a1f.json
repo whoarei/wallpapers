@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6a1f",
+  "script": "kai",
+  "character": "樟",
+  "reading": "zhāng",
+  "description": "zhāng：常绿乔木，木质坚硬细致，有香气，做成箱柜可防蠹虫香～（樟树）。～脑（由樟树的根、茎、枝、叶蒸馏而制成的白色结晶体，可入药。亦是工业原料。亦称潮脑”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-樟"
+}

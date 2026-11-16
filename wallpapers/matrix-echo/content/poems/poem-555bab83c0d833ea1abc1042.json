@@ -1,0 +1,16 @@
+{
+  "id": "poem-555bab83c0d833ea1abc1042",
+  "title": "韦寿博书斋",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "玄晏先生已白头，不随鹓鹭狎群鸥。",
+    "元卿谢免开三迳，平仲朝归卧一裘。",
+    "醉后独知殷甲子，病来犹作晋春秋。",
+    "尘缨未濯今如此，野水无情处处流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-80277dbc-3144-475e-a8ec-e73c55eb0620"
+}

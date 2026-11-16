@@ -1,0 +1,18 @@
+{
+  "id": "poem-b06f1e814e3fd5fb00c5543d",
+  "title": "后出塞五首 四",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "献凯日继踵，两蕃静无虞。",
+    "渔阳豪侠地，击鼓吹笙竽。",
+    "云帆转辽海，稉稻来东吴。",
+    "越罗与楚练，照耀舆台躯。",
+    "主将位益崇，气骄凌上都。",
+    "边人不敢议，议者死路衢。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-74e31da9-682f-45e2-8c18-c5a5689c3ba9"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8114",
+  "script": "seal",
+  "character": "脔",
+  "reading": "luán",
+  "description": "量词。用于块状的鱼肉\n切肉成块\n⒈切成小块的肉吃一～。\n⒉分割，切碎～割。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-脔"
+}

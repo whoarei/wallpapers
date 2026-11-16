@@ -1,0 +1,14 @@
+{
+  "id": "poem-73760a2a2cf0d2d471446f2f",
+  "title": "山居四景 松风",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "岁晚苍官鬓髪青，回风披拂自悲鸣。",
+    "不容逐客多归梦，故作江湖波浪声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-3d5fee81-8c55-44aa-b90f-eaeff7139f27"
+}

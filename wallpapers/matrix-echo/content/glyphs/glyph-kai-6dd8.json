@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6dd8",
+  "script": "kai",
+  "character": "淘",
+  "reading": "táo",
+  "description": "táo：(1)用水洗去杂质～米。～金。～汰。\n(2)挖浚，从深处舀出泥沙、污物～井。～缸。\n(3)耗费～神。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淘"
+}

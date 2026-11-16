@@ -1,0 +1,15 @@
+{
+  "id": "poem-98abf6bf8a70cb560b281c32",
+  "title": "宿西山凌云观",
+  "author": "李翔",
+  "dynasty": "唐",
+  "verses": [
+    "掩映真居不易求，自惊何路到蓬丘。",
+    "庭心月近石坛古，海面风微山殿秋。",
+    "控鹤岭高星半隔，伏龙岗转水分流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-4781fa5e-6ec8-48cc-a4c2-157bb3e7dfb6"
+}

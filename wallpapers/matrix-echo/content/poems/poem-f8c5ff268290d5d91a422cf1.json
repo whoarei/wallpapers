@@ -1,0 +1,16 @@
+{
+  "id": "poem-f8c5ff268290d5d91a422cf1",
+  "title": "寄王荆公忆江阴",
+  "author": "朱明之",
+  "dynasty": "宋",
+  "verses": [
+    "城上城隍古镜中，城边山色翠屏风。",
+    "鱼虾接海随时足，稻米连湖逐岁丰。",
+    "太伯人民堪教育，春申沟港可疏通。",
+    "朱轮天使从君欲，异日能忘笑语同。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-71cfd4a2-5179-4927-858f-45b4587fdf5d"
+}

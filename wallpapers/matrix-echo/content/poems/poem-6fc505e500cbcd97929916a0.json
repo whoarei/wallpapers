@@ -1,0 +1,16 @@
+{
+  "id": "poem-6fc505e500cbcd97929916a0",
+  "title": "西湖戏书二首  其一",
+  "author": "梅窗",
+  "dynasty": "宋",
+  "verses": [
+    "蜿蜿翠麓秋烟涨，滟滟金波夜月澄。",
+    "樽酒具时随兴遣，景多逢处曲栏凭。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-f5fdfae4-eae6-4644-a969-36d54ab43e28"
+}

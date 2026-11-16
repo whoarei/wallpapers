@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62c2",
+  "script": "kai",
+  "character": "拂",
+  "reading": "fú；bì",
+  "description": "fú：(1)拭，掸去～拭。～尘。\n(2)轻轻擦过～晓。春风～面。微风～煦。\n(3)甩动，抖动～袖而去。\n(4)违背，不顺忠言～耳。～逆。\nbì：古同弼”，辅助。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拂"
+}

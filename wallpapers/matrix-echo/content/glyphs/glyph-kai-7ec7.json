@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7ec7",
+  "script": "kai",
+  "character": "织",
+  "reading": "zhī",
+  "description": "织zhì 1.用染丝织成的丝织品。 2.通\"帜\"。旗帜;标志。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-织"
+}

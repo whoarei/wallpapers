@@ -1,0 +1,16 @@
+{
+  "id": "poem-8f4fff5df7cef30b730a5908",
+  "title": "次孙君汝弼晚步韵",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "寂寥谁过仲宣楼，邂逅斯人肯小留。",
+    "多病儿童便食粥，忘机鸥鸟共临流。",
+    "赋成拟学张平子，志大空惭马少游。",
+    "载酒从今相煖热，著书应不号穷愁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-39ab82c2-0aba-4fa1-a67c-2ba6c7d38e95"
+}

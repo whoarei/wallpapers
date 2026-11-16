@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-64e6",
+  "script": "kai",
+  "character": "擦",
+  "reading": "cā",
+  "description": "cā：(1)揩拭～脸。～洗。～桌子。\n(2)搽，涂敷～粉。～油。\n(3)摩，搓摩拳～掌。～澡。\n(4)贴近～黑（傍晚）。～边。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-擦"
+}

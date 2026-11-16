@@ -1,0 +1,16 @@
+{
+  "id": "poem-698c9e59fbdccddfe459c1de",
+  "title": "养竹诗",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "莫笑青青一两茎，春来次第满林生。",
+    "露凝节目犹含粉，风过枝梢已有声。",
+    "拂拭且看霜雪干，剪裁当见凤凰鸣。",
+    "繁枝去尽生微迳，几为清阴特地行。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-b34fbe77-9ab4-45ee-a35e-759bd726a9f5"
+}

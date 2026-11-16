@@ -1,0 +1,14 @@
+{
+  "id": "poem-05ccdda6797ef75ab4ba87fe",
+  "title": "小游仙诗九十八首 二",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "上元元日豁明堂，五帝望空拜玉皇。",
+    "万树琪花千圃药，心知不敢辄形相。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-9baeafdd-69f2-46c2-933a-8ce96b2502cc"
+}

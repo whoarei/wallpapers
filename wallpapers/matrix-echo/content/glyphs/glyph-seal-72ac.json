@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-72ac",
+  "script": "seal",
+  "character": "犬",
+  "reading": "quǎn",
+  "description": "quǎn：狗猎～。警～。～马之劳。～牙交错。～子（谦辞，对人称自己的儿子）。桀～吠尧（喻走狗一心为主子效劳）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-犬"
+}

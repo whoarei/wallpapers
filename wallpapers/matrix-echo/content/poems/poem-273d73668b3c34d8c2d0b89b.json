@@ -1,0 +1,14 @@
+{
+  "id": "poem-273d73668b3c34d8c2d0b89b",
+  "title": "赠施肩吾",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "世间渐觉无多事，虽有空名未著身。",
+    "合取药成相待吃，不须先作上天人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-4ede77c0-4b3e-46d1-b196-bf7894fb10b9"
+}

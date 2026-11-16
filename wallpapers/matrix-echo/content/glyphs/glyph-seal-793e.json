@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-793e",
+  "script": "seal",
+  "character": "社",
+  "reading": "shè",
+  "description": "shè：(1)古代指土地神和祭祀土地神的地方、日子以及祭礼春～。秋～。～日。～稷（社”是土神，稷”是谷神，古代君主都祭社稷，后用以借指国家）。\n(2)团体或机构报～。结～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-社"
+}

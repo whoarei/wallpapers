@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-51c9",
+  "script": "seal",
+  "character": "凉",
+  "reading": "liáng；liàng",
+  "description": "liáng：(1)温度低～快。～爽。～意。～气。阴～。～丝丝。～亭。荒～。\n(2)喻灰心，失望听到这消息，我～了半截。\n(3)中国西晋末年至北魏，各族统治者在西北地区建立的割据政权五～（前、后、南、北、西）。\n冷；\n热；\nliàng：放一会儿，使温度降低把开水～一～再喝。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-凉"
+}

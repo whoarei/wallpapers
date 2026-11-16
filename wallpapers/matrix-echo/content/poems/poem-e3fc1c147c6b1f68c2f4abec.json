@@ -1,0 +1,16 @@
+{
+  "id": "poem-e3fc1c147c6b1f68c2f4abec",
+  "title": "山中秋夜",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "寂寂山景静，幽人归去迟。",
+    "横琴当月下，压酒及花时。",
+    "冷露湿茆屋，暗泉冲竹篱。",
+    "西峰采药伴，此夕恨无期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-037532de-b69a-4032-ae4b-63d8b28c101a"
+}

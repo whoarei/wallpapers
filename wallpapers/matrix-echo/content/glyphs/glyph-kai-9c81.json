@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9c81",
+  "script": "kai",
+  "character": "鲁",
+  "reading": "lǔ",
+  "description": "迟钝,愚钝\n莽撞,粗野\n中国春秋时国名\n⒈笨，愚钝～钝。\n⒊周代诸侯国名，在今山东省南部一带。\n⒋山东省的简称。\n鲁lǚ 1.陈述。 2.旅行。参见\"鲁飔\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲁"
+}

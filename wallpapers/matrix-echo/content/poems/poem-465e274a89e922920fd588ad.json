@@ -1,0 +1,16 @@
+{
+  "id": "poem-465e274a89e922920fd588ad",
+  "title": "九月二日",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "灯火一樽酒，笑语亦固然。",
+    "如何棘围夜，忆归不成眠。",
+    "衰怀动多感，妻儿须眼前。",
+    "人生四方志，谁遣霜覆颠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-4869ad66-b6c9-451b-90c4-35ca76e1b8d2"
+}

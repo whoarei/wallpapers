@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-59d8",
+  "script": "seal",
+  "character": "姘",
+  "reading": "pīn",
+  "description": "pīn：非夫妻而同居的不正当的男女关系～居。～头（头”读轻声）。～夫。～妇。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-姘"
+}

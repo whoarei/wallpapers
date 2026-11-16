@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-78b0",
+  "script": "kai",
+  "character": "碰",
+  "reading": "pèng",
+  "description": "pèng：(1)撞击～击。～撞。～壁（喻事情办不成）。～～车。～钉子。\n(2)相遇～见。～头。～巧。\n(3)试探～运气。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-碰"
+}

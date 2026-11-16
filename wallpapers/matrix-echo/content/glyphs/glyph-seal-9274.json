@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9274",
+  "script": "seal",
+  "character": "鉴",
+  "reading": "jiàn",
+  "description": "中国古代用青铜制成的镜子\n⒈〈古〉用来盛水或冰的大盆。\n⒉照影水清可～。\n⒊镜子以铜为～，可以正衣冠。〈引〉可以引为儆戒或教训的事引为～戒。殷～不远。\n⒋观察，审察，区别～赏。～定优劣。～别真假。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鉴"
+}

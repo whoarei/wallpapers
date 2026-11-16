@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9ce2",
+  "script": "seal",
+  "character": "鳢",
+  "reading": "lǐ",
+  "description": "鳢鱼\n一种淡水鱼,体圆长,口大,牙尖,色黑,有斑点,性凶猛,捕食其他鱼类。肉肥美,供食用。又名黑鱼、乌鳢、铜鱼,俗称乌鱼”\n鳢lǐ鱼名。乌鳢又叫\"乌鱼\"、\"黑鱼\"。头扁，体圆筒形，背鳍和臀鳍很长，生活在淡水中，捕食小鱼、蛙等。可养殖，供食用。但性凶猛，桅其它鱼类。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鳢"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-4f5e928d121dfbf0919d45d0",
+  "title": "送独孤秀才下第归太白山",
+  "author": "陆畅",
+  "dynasty": "唐",
+  "verses": [
+    "逸翮暂时成落羽，将归太白赏灵踪。",
+    "须寻最近碧霄处，拟倩和云买一峰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-8850b9b6-4019-4c0b-b5a1-a887c3078a87"
+}

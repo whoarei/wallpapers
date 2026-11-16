@@ -1,0 +1,16 @@
+{
+  "id": "poem-6ea1c9af2b701212f6df8a7e",
+  "title": "偈",
+  "author": "启柔",
+  "dynasty": "唐",
+  "verses": [
+    "妙哉三下板，诸德（《五灯会元》作「知识」）尽来参。",
+    "既善分时节，吾今不再三。",
+    "（《景德传灯录》卷二二、《五灯会元》卷十五。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-08e4df9e-d4ca-4e2d-b959-5ddbff95c2f1"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-655d",
+  "script": "seal",
+  "character": "敝",
+  "reading": "bì",
+  "description": "bì：(1)破旧，坏～旧。～俗。～衣。～屣。～帚自珍。\n(2)谦辞，用于与自己有关的事物～人（我）。～姓。～处。～校。～国。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-敝"
+}

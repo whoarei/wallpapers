@@ -1,0 +1,20 @@
+{
+  "id": "poem-7436d27e84dfc4a90b20e2d6",
+  "title": "已凉",
+  "author": "韩偓",
+  "dynasty": "唐",
+  "verses": [
+    "碧阑干外绣帘垂，猩血屏风画折枝。",
+    "八尺龙须方锦褥，已凉天气未寒时。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "爱情",
+    "写景",
+    "婉约"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-1deac6d5-6da0-4d9f-a182-2f0697cbb932"
+}

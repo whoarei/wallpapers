@@ -1,0 +1,14 @@
+{
+  "id": "poem-9f7672d1cd1a0f87e5825920",
+  "title": "九月十日雨中过张伯佳期柳镇未至以诗招之",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "柳吴兴近无消息，张长公贫苦寂寥。",
+    "唯有角巾沾雨至，手持残菊向西招。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-9f32abfa-6459-4020-b79d-5f96a026c945"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-3cfe04595039904222c64e31",
+  "title": "风雨看舟前落花戏为新句",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "江上人家桃树枝，春寒细雨出疎篱。",
+    "影遭碧水潜勾引，风妒红花却倒吹。",
+    "吹花困癫傍舟檝，水光风力俱相怯。",
+    "赤憎轻薄遮入怀，珍重分明不来接。",
+    "湿久飞迟半日高，萦沙惹草细于毛。",
+    "蜜蜂蝴蝶生情性，偷眼蜻蜓避百劳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-32c6a206-1a90-452e-a032-19a7665bceba"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-97cdc06326cc46ab6ccbe374",
+  "title": "咏屏风",
+  "author": "袁恕己",
+  "dynasty": "唐",
+  "verses": [
+    "绮阁云霞满，芳林草树新。",
+    "鸟惊疑欲曙，花笑不关春。",
+    "山对弹琴客，谿留垂钓人。",
+    "请看车马客，行处有风尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-e31997de-b936-45db-9463-20c0e1a44693"
+}

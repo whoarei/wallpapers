@@ -1,0 +1,16 @@
+{
+  "id": "poem-879010c96d14bcef8de4ec99",
+  "title": "过上天竺寺",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "上竺诸天近，中林万木低。",
+    "迥超尘世外，恍入雪山西。",
+    "忽漫参龙象，行将混鹿麋。",
+    "何年释簪绂，于此独幽栖。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-ddf9ab0b-5ada-45ad-a031-73d60a9064e4"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8200",
+  "script": "kai",
+  "character": "舀",
+  "reading": "yǎo",
+  "description": "yǎo：用瓢、勺等取东西（多指流体）～水。～汤。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舀"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-960a",
+  "script": "seal",
+  "character": "阊",
+  "reading": "chāng",
+  "description": "阊阖\n阊门\n①神话传说中的天门。\n②皇宫的正门。\n阊tāng 1.鼓声。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阊"
+}

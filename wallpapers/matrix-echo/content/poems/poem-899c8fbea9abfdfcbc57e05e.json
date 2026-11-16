@@ -1,0 +1,16 @@
+{
+  "id": "poem-899c8fbea9abfdfcbc57e05e",
+  "title": "酬郑毗踯躅咏",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "不似人手致，岂关地势偏。",
+    "孤光褭余翠，独影舞多妍。",
+    "迸火烧闲地，红星堕青天。",
+    "忽惊物表物，嘉客为留连。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-8e56dba0-eb4e-4785-9f20-7d5a290cc1c1"
+}

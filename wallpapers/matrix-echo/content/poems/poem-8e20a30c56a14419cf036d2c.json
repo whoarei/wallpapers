@@ -1,0 +1,14 @@
+{
+  "id": "poem-8e20a30c56a14419cf036d2c",
+  "title": "偈颂七十一首  其二四",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "诸佛诸祖，邪入肺腑。",
+    "无药可医，无术可取。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-8c4e8e2d-5832-4b87-8139-25ccb8ea8fbb"
+}

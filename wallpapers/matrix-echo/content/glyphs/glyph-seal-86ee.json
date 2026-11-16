@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-86ee",
+  "script": "seal",
+  "character": "蛮",
+  "reading": "mán",
+  "description": "⒈粗野，强横野～。～横。～缠。～不讲理。\n⒉愣，强悍～劲。～干。\n⒊〈方〉很，挺～好。～大。\n⒋〈古〉我国称南方的民族南～。〈引〉南，南方思彼～方。泛指少数民族北～。\n⒌边远地区～荒。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蛮"
+}

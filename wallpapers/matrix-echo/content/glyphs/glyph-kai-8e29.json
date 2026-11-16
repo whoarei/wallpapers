@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8e29",
+  "script": "kai",
+  "character": "踩",
+  "reading": "cǎi",
+  "description": "cǎi：(1)用脚登在上面，踏～了一脚泥。～高跷。～水（一种直立水中的泳姿）。～踏。～墒（在播种的地方踩实土壤以保墒）。\n(2)指追踪盗匪或追查案件～访。～捕。～案。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-踩"
+}

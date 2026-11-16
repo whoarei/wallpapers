@@ -1,0 +1,14 @@
+{
+  "id": "poem-6d3bf6dac788752c16a21aaa",
+  "title": "唐大飨拜洛乐章 归和",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "调云阕兮神座兴，骖云驾兮俨将升。",
+    "腾绛霄兮垂景祜，翘丹恳兮荷休征。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ab15b93a-75c9-4665-89a5-7c64bf2dc484"
+}

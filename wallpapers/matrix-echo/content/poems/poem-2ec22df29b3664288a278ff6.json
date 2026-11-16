@@ -1,0 +1,15 @@
+{
+  "id": "poem-2ec22df29b3664288a278ff6",
+  "title": "鸳鸯",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "鸳鸯于飞，毕之罗之。君子万年，福禄宜之。",
+    "鸳鸯在梁，戢其左翼。君子万年，宜其遐福。乘马在厩，摧之秣之。君子万年，福禄艾之。",
+    "乘马在厩，秣之摧之。君子万年，福禄绥之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-215"
+}

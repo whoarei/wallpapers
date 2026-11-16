@@ -1,0 +1,18 @@
+{
+  "id": "poem-49235e14c99e9ce0627ae817",
+  "title": "木兰花令·有个人人真攀羡",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "有个人人真攀羡。",
+    "问著洋洋回却面。",
+    "你若无意向他人，为甚梦中频相见。",
+    "不如闻早还却愿。",
+    "免使牵人虚魂乱。",
+    "风流肠肚不坚牢，祗恐被伊牵引断。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-214",
+  "tags": []
+}

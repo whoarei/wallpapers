@@ -1,0 +1,18 @@
+{
+  "id": "poem-cb28452461869ec937f94793",
+  "title": "题江湖伟观",
+  "author": "范晞文",
+  "dynasty": "宋",
+  "verses": [
+    "西湖何处可消愁，快上人间百尺楼。",
+    "千里山川浮王气，百年形势壮皇州。",
+    "逋仙宅近梅应古，坡老祠空竹自秋。",
+    "立徧阑干无限意，六桥歌舞懒回头。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-d612d43c-e224-469a-9b9f-ca1c818caef8"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-e2ad4af3e72aa40e0effeeeb",
+  "title": "诗品二十四则 疎野",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "惟性所宅，真取弗羁。",
+    "拾物自富，与率为期。",
+    "筑屋松下，脱帽看诗。",
+    "但知旦暮，不辨何时。",
+    "倘然适意，岂必有为。",
+    "若其天放，如是得之。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6bf0d96c-74c2-4f65-b53d-c50571102a1d"
+}

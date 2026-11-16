@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6055",
+  "script": "seal",
+  "character": "恕",
+  "reading": "shù",
+  "description": "shù：(1)原谅，宽容～宥。～谅。～罪。宽～。饶～。～我直言。\n(2)以自己的心推想别人的心～道。忠～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-恕"
+}

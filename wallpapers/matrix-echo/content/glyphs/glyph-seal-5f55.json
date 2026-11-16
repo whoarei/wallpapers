@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f55",
+  "script": "seal",
+  "character": "录",
+  "reading": "lù",
+  "description": "记载言行事物的册籍\n次第,次序\n总领\n余之手录。\n⒈记载，登记～音。～功。\n⒉抄写抄～。摘～。\n⒊记载言行或事物的书刊、文本语～。回忆～。备忘～。\n⒋任用，采取～用。～取。收～。\n⒌审查并记载犯人的罪状～供。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-录"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5bcc",
+  "script": "seal",
+  "character": "富",
+  "reading": "fù",
+  "description": "fù：(1)财产、财物多～有。～足。～饶。～庶。～裕。～强。～豪。财～。～国强兵。\n(2)充裕，充足～余。～态。～丽堂皇。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-富"
+}

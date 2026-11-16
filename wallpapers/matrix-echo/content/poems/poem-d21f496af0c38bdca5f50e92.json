@@ -1,0 +1,14 @@
+{
+  "id": "poem-d21f496af0c38bdca5f50e92",
+  "title": "墨梅  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "描邈檀栾黪素元，万红千紫失根源。",
+    "大玄自古人嫌白，白尽何妨反太玄。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-1727b384-d7f0-4b2f-b40b-c0a9203d5462"
+}

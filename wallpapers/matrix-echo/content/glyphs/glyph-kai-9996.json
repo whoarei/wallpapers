@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9996",
+  "script": "kai",
+  "character": "首",
+  "reading": "shǒu",
+  "description": "shǒu：(1)头，脑袋～饰。～级。～肯（点头表示同意）。\n(2)领导的人，带头的～领。元～。～脑。～相（xiàng）。\n(3)第一，最高～都（dū）。～府。\n(4)最先，最早～次。～届。～创。～日封。～义（首先起义）。\n(5)出头告发自～。出～。\n(6)量词，指诗和歌一～诗。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-首"
+}

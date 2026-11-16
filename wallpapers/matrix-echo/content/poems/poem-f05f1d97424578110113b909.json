@@ -1,0 +1,16 @@
+{
+  "id": "poem-f05f1d97424578110113b909",
+  "title": "七夕",
+  "author": "卢殷",
+  "dynasty": "唐",
+  "verses": [
+    "河耿月凉时，牵牛织女期。",
+    "欢娱方在此，漏刻竟由谁。",
+    "定不嫌秋驶，唯当乞夜迟。",
+    "全胜客子媍，十载泣生离。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-3f4e80c2-593c-4273-aff7-4fe977f6dcf4"
+}

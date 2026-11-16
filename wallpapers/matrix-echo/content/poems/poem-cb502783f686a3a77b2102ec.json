@@ -1,0 +1,17 @@
+{
+  "id": "poem-cb502783f686a3a77b2102ec",
+  "title": "偈十六首  其四",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "东林百不会，瞎驴随大队。",
+    "鞭打不进前，步步只倒退。",
+    "一日复一日，灵台转昏昧。",
+    "死去入地狱，永劫终不悔。",
+    "开口见心肝，实语当忏悔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-fe5000cc-34c1-4651-980a-a6ad3bc70a0c"
+}

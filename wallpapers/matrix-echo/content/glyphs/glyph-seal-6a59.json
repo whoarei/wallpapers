@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6a59",
+  "script": "seal",
+  "character": "橙",
+  "reading": "chéng",
+  "description": "chéng：(1)常绿乔木或灌木，果实称橙子”，多汁，品种很多，可食。皮可入药～皮。～汁。甜～。\n(2)红和黄合成的颜色～黄。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-橙"
+}

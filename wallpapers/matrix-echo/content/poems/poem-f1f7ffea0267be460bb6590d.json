@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1f7ffea0267be460bb6590d",
+  "title": "览春牓喜孙鄠成名",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "门外报春牓，喜君天子知。",
+    "旧愁浑似雪，见日总消时。",
+    "塔下牡丹气，江头杨柳丝。",
+    "风光若有分，无处不相宜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3e188e47-e2bf-484a-b003-b09270b4e6ff"
+}

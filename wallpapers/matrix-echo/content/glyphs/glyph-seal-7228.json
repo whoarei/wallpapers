@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7228",
+  "script": "seal",
+  "character": "爨",
+  "reading": "cuàn",
+  "description": "cuàn：(1)烧火做饭分居各～。\n(2)灶客传萧寒～不烟。”\n(3)中国宋杂剧、金院本中某些简短表演的名称《讲百花～》。《文房四宝～》。\n(4)演戏夫优伶～演，实始有唐《目连救母》之起。”\n(5)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-爨"
+}

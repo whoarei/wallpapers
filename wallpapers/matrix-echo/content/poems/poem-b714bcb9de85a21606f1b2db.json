@@ -1,0 +1,16 @@
+{
+  "id": "poem-b714bcb9de85a21606f1b2db",
+  "title": "鹊桥仙·朱楼彩舫",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "朱楼彩舫，浮瓜沈李，报答风光有处。",
+    "一年尊酒暂时同，别泪作、人间晓雨。",
+    "鸳鸯机综，能令侬巧，也待乘槎仙去。",
+    "若逢海上白头翁，共一访、痴牛呆女。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-669",
+  "tags": []
+}

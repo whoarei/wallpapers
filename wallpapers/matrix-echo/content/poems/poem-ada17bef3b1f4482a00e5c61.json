@@ -1,0 +1,19 @@
+{
+  "id": "poem-ada17bef3b1f4482a00e5c61",
+  "title": "点绛唇·绣岭横秋",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "绣岭横秋，玉螭吹暑迎凉气。",
+    "碧崖流水。",
+    "流入春葱指。",
+    "半倚朱弦，微亸连环珥。",
+    "通深意。",
+    "月明风细。",
+    "分付知音耳。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-855",
+  "tags": []
+}

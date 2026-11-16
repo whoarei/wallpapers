@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e0f",
+  "script": "seal",
+  "character": "帏",
+  "reading": "wéi",
+  "description": "帐子;幔幕\n裙正面的一幅\n⒈帐子，幔幕。\n⒉〈古〉佩带的香囊。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-帏"
+}

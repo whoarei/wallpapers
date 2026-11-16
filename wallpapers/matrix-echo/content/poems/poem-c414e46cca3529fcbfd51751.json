@@ -1,0 +1,17 @@
+{
+  "id": "poem-c414e46cca3529fcbfd51751",
+  "title": "浣溪沙·脂粉塘空遍绿苔",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "脂粉塘空遍绿苔。",
+    "掠泥营垒燕相催。",
+    "妒他飞去却飞回。",
+    "一骑近从梅里过，片帆遥自藕溪来。",
+    "博山香烬未全灰。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-20"
+}

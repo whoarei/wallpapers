@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-90bb",
+  "script": "seal",
+  "character": "邻",
+  "reading": "lín",
+  "description": "周朝地方基层组织的户口单位\n相连接的家户。邻居;邻国\n⒈接近的，住处靠近的人家～近。～国。～居。四～。比～。\n⒉〈古〉一种居民组织。五家为～，五～为里。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-邻"
+}

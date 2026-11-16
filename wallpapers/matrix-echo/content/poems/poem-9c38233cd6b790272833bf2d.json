@@ -1,0 +1,16 @@
+{
+  "id": "poem-9c38233cd6b790272833bf2d",
+  "title": "谢尹绿坡见访",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "棕鞋闲踏软红尘，道眼青山认得真。",
+    "不是江湖相识者，谁来泉石访幽人。",
+    "夜寒草屋三更雨，心事梨花一片春。",
+    "莫笑家风太枯淡，地垆温酒话逃秦。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-0c36188e-35d9-419d-8cf5-d28bc3978907"
+}

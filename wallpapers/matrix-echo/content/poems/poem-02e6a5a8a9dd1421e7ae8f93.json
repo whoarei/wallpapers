@@ -1,0 +1,16 @@
+{
+  "id": "poem-02e6a5a8a9dd1421e7ae8f93",
+  "title": "画山水图荅大愚",
+  "author": "荆浩",
+  "dynasty": "唐",
+  "verses": [
+    "恣意纵横埽，峰峦次第成。",
+    "笔尖寒树瘦，墨澹野云轻。",
+    "岩石喷泉窄，山根到水平。",
+    "禅房时一展，兼称苦空情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-cc0bdb14-572d-41d2-993e-925e8fb7d36e"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-d1fae646afb4048bafb3bcac",
+  "title": "冬夜与修睦上人宿远公亭寄南岳玄泰禅师",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "丈室掩孤灯，更深霰雹增。",
+    "相看云梦客，共忆祝融僧。",
+    "语合茶忘味，吟欹卷有棱。",
+    "楚南山水秀，行止岂无凭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3158fdcf-4e90-438b-b999-37b423d08756"
+}

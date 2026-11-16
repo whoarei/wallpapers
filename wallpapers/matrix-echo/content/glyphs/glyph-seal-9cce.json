@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9cce",
+  "script": "seal",
+  "character": "鳎",
+  "reading": "tǎ",
+  "description": "鳎鱼\n鳎tǎ鳎目鱼，体侧扁似舌头。头小，两眼都在身体右侧。常侧卧在海底泥沙中。有卵～、条～等多种。可供食用。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鳎"
+}

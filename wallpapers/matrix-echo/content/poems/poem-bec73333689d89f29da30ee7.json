@@ -1,0 +1,14 @@
+{
+  "id": "poem-bec73333689d89f29da30ee7",
+  "title": "题米芾山水",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "远山浓淡几无影，远树高低略带行。",
+    "不是糢糊并纸败，无人知是米元章。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-d9875849-1625-49ff-85c4-003ad8c47535"
+}

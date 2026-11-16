@@ -1,0 +1,14 @@
+{
+  "id": "poem-21806de751bb5f64ec76ebf3",
+  "title": "里社",
+  "author": "柴元彪",
+  "dynasty": "宋",
+  "verses": [
+    "涤灶炮牲献腯肥，一巵滴酹纸钱飞。",
+    "提壶挈馌分肴酒，村北村南祭社归。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-858ff7c2-1d85-4a10-97bd-173dba341861"
+}

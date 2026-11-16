@@ -1,0 +1,14 @@
+{
+  "id": "poem-a8b25e0ab572af419fc48371",
+  "title": "歌者十二首 一",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "追逐翻嫌傍管弦，金钗击节自当筵。",
+    "风霜一夜燕鸿断，唱作江南袚禊天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a9a565c5-f80e-4d54-8526-85791275c919"
+}

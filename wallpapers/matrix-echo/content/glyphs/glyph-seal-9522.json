@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9522",
+  "script": "seal",
+  "character": "锢",
+  "reading": "gù",
+  "description": "禁闭;禁锢\n⒈将金属熔化，浇灌阻塞空隙～漏锅。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锢"
+}

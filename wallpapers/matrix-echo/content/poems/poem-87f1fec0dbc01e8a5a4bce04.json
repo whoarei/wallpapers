@@ -1,0 +1,19 @@
+{
+  "id": "poem-87f1fec0dbc01e8a5a4bce04",
+  "title": "宣州开元寺赠惟直上人",
+  "author": "许浑",
+  "dynasty": "唐",
+  "verses": [
+    "曾与径山为小师，十年僧行众人知。",
+    "夜深月色当禅处，斋后钟声到讲时。",
+    "经雨绿苔侵古画，过秋红叶落新诗。",
+    "劝君莫厌江城客，虽在风尘别有期。",
+    "（见丹徒陈庆年刊《横山草堂丛书》本《许浑诗真迹录》。",
+    "）（《全唐诗》卷五二六误作杜牧诗。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c7674015-09cf-4d61-9143-16d4442637c2"
+}

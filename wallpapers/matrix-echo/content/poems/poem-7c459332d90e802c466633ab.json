@@ -1,0 +1,20 @@
+{
+  "id": "poem-7c459332d90e802c466633ab",
+  "title": "菩萨蛮·丝丝柳色清愁织",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "丝丝柳色清愁织。",
+    "山城望断花溪碧。",
+    "回首仲宣楼。",
+    "登临无计愁。",
+    "雨声吹海立。",
+    "流转韶光急。",
+    "九万有鹏程。",
+    "沈香天上亭。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-451",
+  "tags": []
+}

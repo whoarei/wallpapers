@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-68cd",
+  "script": "kai",
+  "character": "棍",
+  "reading": "gùn；hùn",
+  "description": "gùn：(1)棒～子。～术。～棒。木～。铁～。\n(2)称坏人恶～。赌～。\nhùn：(1)捆扎～申椒与菌桂兮，赴江湖而沤之”。\n(2)古同混”，混成。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-棍"
+}

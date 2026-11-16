@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9cdc",
+  "script": "seal",
+  "character": "鳜",
+  "reading": "guì",
+  "description": "即鳜鱼\n背隆起,口大,下颌突出,背鳍一个,鳞细小、圆形,性凶猛,捕食水中鱼虾\n鳜鯾\n鳜guì鳜鱼，也作\"桂鱼\"。体侧扁，青黄色，有黑色斑点。背隆起。口大鳞细，喜食鱼、虾。它是我国名贵淡水鱼之一。\n鳜jué 1.见\"鳜鯾\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鳜"
+}

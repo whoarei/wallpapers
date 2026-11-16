@@ -1,0 +1,14 @@
+{
+  "id": "poem-57dcbd690ff358d189b2641f",
+  "title": "初食荔枝  其二",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "照水依山祇自奇，晞风沐雨借光辉。",
+    "冰肌不受红尘涴，赪颊从教酒晕肥。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-c51614b4-8fde-40cc-adbc-04a926549f0e"
+}

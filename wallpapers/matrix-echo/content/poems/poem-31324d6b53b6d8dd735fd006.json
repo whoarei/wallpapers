@@ -1,0 +1,16 @@
+{
+  "id": "poem-31324d6b53b6d8dd735fd006",
+  "title": "山中期张芬不至",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "石堤春草碧，双燕向西飞。",
+    "怅望云天暮，佳人何处归。",
+    "药栏虫网遍，苔井水痕稀。",
+    "谁道嵇康嬾，山中自掩扉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-9991691b-23a6-463b-9eef-0f36027d8a9b"
+}

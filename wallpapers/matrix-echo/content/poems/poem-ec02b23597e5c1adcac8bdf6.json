@@ -1,0 +1,16 @@
+{
+  "id": "poem-ec02b23597e5c1adcac8bdf6",
+  "title": "生查子·相见稀",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "相见稀，喜相见，相见还相远。",
+    "檀画荔枝红，金蔓晴蜓软。",
+    "鱼雁疏，芳信断，花落庭阴晚。",
+    "可怜玉肌肤，消瘦成慵懒。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-43"
+}

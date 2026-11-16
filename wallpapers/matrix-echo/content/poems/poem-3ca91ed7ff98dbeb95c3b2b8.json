@@ -1,0 +1,14 @@
+{
+  "id": "poem-3ca91ed7ff98dbeb95c3b2b8",
+  "title": "哭亦周  其二",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "堂上华颠泣欲枯，哭声那解到黄垆。",
+    "千般欲解郄公意，难得嘉宾一箧书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-6f8d056f-4587-4300-8308-6ef94530cc0d"
+}

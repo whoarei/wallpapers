@@ -1,0 +1,14 @@
+{
+  "id": "poem-ad4777196dc6897acdc6c3da",
+  "title": "悲李拾遗二首 一",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "故友从来匪石心，谏多难得主恩深。",
+    "行朝半夜烟尘起，晓殿吁嗟一镜沈。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-a3ba3aaa-56fb-4349-8f6c-993e59c02f11"
+}

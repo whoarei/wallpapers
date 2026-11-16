@@ -1,0 +1,16 @@
+{
+  "id": "poem-7ea77dbf2c72b7f0b03cbe67",
+  "title": "永明山居诗（六十九首） 七",
+  "author": "延寿",
+  "dynasty": "唐",
+  "verses": [
+    "事多兴废莫持论，唯有禅宗理可尊。",
+    "似讷始平分别路，如愚方塞是非门。",
+    "刳肠祇为生灵智，剖舌多因强语言。",
+    "争似息机高卧客，年来年去道长存。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-7c591022-b55d-41eb-af3a-adee927a9fab"
+}

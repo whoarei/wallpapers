@@ -1,0 +1,14 @@
+{
+  "id": "poem-f7c0d9559b2338fa021d91e0",
+  "title": "颂古三十一首  其三",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "死款都来一口供，情穷理极卒难容。",
+    "若将皮髓论高下，争见花开五叶红。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-64bc7087-faf6-4881-84b5-ce1022f43efd"
+}

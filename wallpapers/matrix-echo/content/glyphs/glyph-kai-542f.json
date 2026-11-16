@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-542f",
+  "script": "kai",
+  "character": "启",
+  "reading": "qǐ",
+  "description": "经传皆作啟”\n⒈开，打开，开发，开拓～开。～封。～地三千里。\n⒉开导～蒙。～示。～发。\n⒊开始～程。～用。\n⒋陈述，说明～事。～告。敬～者。\n⒌书信书～。小～。\n①开口难于～齿。\n②笑。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-启"
+}

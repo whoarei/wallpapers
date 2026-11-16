@@ -1,0 +1,18 @@
+{
+  "id": "poem-d1f08abfa2c53253c02c3e7c",
+  "title": "天南怀故人",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "独行千里尘，轧轧转征轮。",
+    "一别已多日，总看成老人。",
+    "洞庭雪不下，故国草应春。",
+    "三月烟波暖，南风生绿苹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-7b666abe-efd8-453c-81f2-b0f5ddddd494"
+}

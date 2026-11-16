@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d4c",
+  "script": "kai",
+  "character": "赌",
+  "reading": "dǔ",
+  "description": "泛指比胜负;争输赢\n①赌博。一种用财物作注争输赢的恶习。\n②泛指争输赢打～。\n【赌咒】发誓。\n【赌注】赌博时所押的钱财。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赌"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8966",
+  "script": "seal",
+  "character": "襦",
+  "reading": "rú",
+  "description": "rú：(1)短衣，短袄珠～。绣腰～。\n(2)幼儿的围嘴儿。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-襦"
+}

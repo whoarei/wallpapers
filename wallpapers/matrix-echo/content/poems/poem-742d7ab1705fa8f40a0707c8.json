@@ -1,0 +1,16 @@
+{
+  "id": "poem-742d7ab1705fa8f40a0707c8",
+  "title": "鼓吹曲辞 朱鹭",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "翩翩兮朱鹭，来泛春塘栖绿树。",
+    "羽毛如翦色如染，远飞欲下双翅敛。",
+    "避人引子入深壍，动处水纹开滟滟。",
+    "谁知豪家网尔躯，不如饮啄江海隅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-39c8eb21-2fd1-42bb-9540-3ff56ea983c3"
+}

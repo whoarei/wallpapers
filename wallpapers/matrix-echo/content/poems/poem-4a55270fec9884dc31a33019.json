@@ -1,0 +1,14 @@
+{
+  "id": "poem-4a55270fec9884dc31a33019",
+  "title": "赋得早雁出云鸣",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "初秋玉露清，早雁出空鸣。",
+    "隔云时乱影，因风乍含声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-c353940d-4bbc-4420-83bf-07cb4606d35f"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-75af",
+  "script": "kai",
+  "character": "疯",
+  "reading": "fēng",
+  "description": "瘫痪\n神经错乱,精神失常\n形容任性放荡,不受管束或无节制地嬉笑哄闹\n指农作物生长旺盛但不结果实\n⒉〈喻〉农作物生长旺盛，但不结果实油菜苗长～了。\n⒊〈喻〉狂妄，猖狂说～话。消灭～狂的敌人。\n⒋瘫痪～瘫。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疯"
+}

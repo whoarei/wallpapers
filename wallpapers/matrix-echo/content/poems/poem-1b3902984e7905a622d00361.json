@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b3902984e7905a622d00361",
+  "title": "太白江油尉厅诗",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "岚光深院里，傍砌水泠泠。",
+    "野燕巢官舍，溪云入古厅。",
+    "日斜孤吏过，帘卷乱峰青。",
+    "五色神仙尉，焚香读道经。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-949f7f31-b6f4-48f1-9f34-cfe3dde8b262"
+}

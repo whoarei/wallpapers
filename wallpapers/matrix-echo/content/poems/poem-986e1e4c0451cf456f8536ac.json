@@ -1,0 +1,16 @@
+{
+  "id": "poem-986e1e4c0451cf456f8536ac",
+  "title": "顾著作宅赋诗",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "几年江海烟霞，乘醉一到京华。",
+    "已觉不嫌羊酪，谁能长守兔罝。",
+    "脱巾偏招相国，逢竹便认吾家。",
+    "各在芸台阁里，烦君日日登车。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7da2608c-26ec-44e8-a87b-2ba1aa566724"
+}

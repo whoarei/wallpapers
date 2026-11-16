@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-76f1",
+  "script": "seal",
+  "character": "盱",
+  "reading": "xū",
+  "description": "xū：张目～～（张目直视）。～衡（举眉扬目。多用于对政治局势的观察，如～～大局”、～～中外”）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-盱"
+}

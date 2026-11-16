@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f51",
+  "script": "seal",
+  "character": "网",
+  "reading": "wǎng",
+  "description": "泛指多孔而状如网的东西\n喻指法律,\n⒈用绳线结成的渔猎工具撒～。设～。鱼～。\n⒉形状像网的～兜。蛛～。钢丝～。\n⒊用网捕捉～鸟。～着了大鱼。\n⒋像网那样的组织或系统通讯～。铁路～。\n①渔猎用的网。\n②搜求，设法招致～罗英才。有时含贬义～罗党羽。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-网"
+}

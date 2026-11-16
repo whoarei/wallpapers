@@ -1,0 +1,16 @@
+{
+  "id": "poem-b65e295334ab4774b84f8340",
+  "title": "奉酬崔员外副使携琴宿使院见示",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "忽闻此夜携琴宿，遂叹常时尘吏喧。",
+    "庭木已衰空月亮，城砧自急对霜繁。",
+    "犹持副节留军府，未荐高词直掖垣。",
+    "谁问南飞长绕树，官微同在谢公门。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-13bfd558-12d2-49c1-8968-a94c7246c83a"
+}

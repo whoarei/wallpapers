@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6f88",
+  "script": "kai",
+  "character": "澈",
+  "reading": "chè",
+  "description": "chè：(1)水清清～。澄～。～底。\n(2)同彻”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-澈"
+}

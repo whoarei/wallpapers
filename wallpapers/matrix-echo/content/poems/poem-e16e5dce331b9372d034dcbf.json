@@ -1,0 +1,16 @@
+{
+  "id": "poem-e16e5dce331b9372d034dcbf",
+  "title": "恋情深·滴滴铜壶塞漏咽",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "滴滴铜壶塞漏咽，醉红楼月。",
+    "宴余香殿会鸳衾，荡春心。",
+    "真珠帘下晓光侵，莺语隔琼林。",
+    "宝帐欲开慵起，恋情深。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-26"
+}

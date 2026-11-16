@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c99",
+  "script": "seal",
+  "character": "沙",
+  "reading": "shā；shà",
+  "description": "shā：(1)非常细碎的石粒～子。～石。风～。～尘。～砾（沙和碎石块）。～漠。～丘。～滩。～洲（江河里由泥沙淤积成的陆地）。～暴。～浴。～疗。～鸥（文学上指栖息岸边沙地的鸥一类的水鸟）。\n(2)像沙的东西～糖。豆～。～瓤。\n(3)声音不清脆不响亮～哑。\n(4)姓。\nshà：经过摇动把某东西里的杂物集中，以便清除。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沙"
+}

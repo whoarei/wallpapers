@@ -1,0 +1,18 @@
+{
+  "id": "poem-c2ecdd33a94a1a141db2cbfd",
+  "title": "春初送吕补阙往西岳勒碑得云字",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "刻石记天文，朝推谷子云。",
+    "箧中缄圣札，岩下揖神君。",
+    "语别梅初艳，为期草欲薰。",
+    "往来春不尽，离思莫氛氲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "华山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-4fa85826-eacc-420c-971e-9ce5f3d353ed"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e7fefe3e9581c33e1a943245",
+  "title": "听曹刚弹琵琶",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "禁曲新翻下玉都，四弦掁触五音殊。",
+    "不知天上弹多少，金凤衔花尾半无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-c283ce18-2602-4c05-817f-cab9beb010fc"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c1bd1b5f25cf1bfa390ae027",
+  "title": "晚春即事",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "云气不分明，天阴忽又晴。",
+    "喜凉溪鹊浴，知雨沼蛙鸣。",
+    "仙药黄精饭，斋蔬白蕈羹。",
+    "惜春吟未就，闲踏落花行。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-8f5c3d21-df66-4404-9ac8-dbfb8b94f2a5"
+}

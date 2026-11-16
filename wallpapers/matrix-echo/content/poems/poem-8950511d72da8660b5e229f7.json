@@ -1,0 +1,14 @@
+{
+  "id": "poem-8950511d72da8660b5e229f7",
+  "title": "和诸庵花光十梅颂  其四",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "不问东风来未，冷冰冰中得意。",
+    "谁于笔外相知，更有无味之味。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-5b4e080f-372d-46c9-9855-705b58f2032b"
+}

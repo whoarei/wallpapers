@@ -1,0 +1,20 @@
+{
+  "id": "poem-b1ddd60d44e46ba3991dd7fc",
+  "title": "蝶恋花·相见江南情不少",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "相见江南情不少。",
+    "尔许多时，怪得无消耗。",
+    "淡日暖云句引到。",
+    "阑干寂寞怜春小。",
+    "宫面可忺匀画了。",
+    "粉瘦酥寒，一段天真好。",
+    "唤起玉儿娇睡觉。",
+    "半山残月南枝晓。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-813",
+  "tags": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-93e4d33eedbc9a91ee81d603",
+  "title": "琴歌",
+  "author": "李颀",
+  "dynasty": "唐",
+  "verses": [
+    "主人有酒欢今夕，请奏鸣琴广陵客。",
+    "月照城头乌半飞，霜凄万树风入衣。",
+    "铜𬬻华烛烛增辉，初弹渌水后楚妃。",
+    "一声已动物皆静，四座无言星欲稀。",
+    "清淮奉使千余里，敢告云山从此始。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "音乐",
+    "宴会",
+    "七言古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7d906794-b4d1-4922-9c59-eee5b19602ad"
+}

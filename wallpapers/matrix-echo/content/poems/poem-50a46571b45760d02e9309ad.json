@@ -1,0 +1,16 @@
+{
+  "id": "poem-50a46571b45760d02e9309ad",
+  "title": "郊庙歌辞 仪坤庙乐章 金奏",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "阴灵曜祉，轩曜降精。",
+    "祥符淑气，庆集柔明。",
+    "瑶俎既列，雕桐发声。",
+    "徽猷永远，比德皇英。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fe67914f-1ea9-4c19-96cd-fd01efec5274"
+}

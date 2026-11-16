@@ -1,0 +1,15 @@
+{
+  "id": "poem-7a56336a4a1d4ab0685388fb",
+  "title": "送客东归",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "昨夜东风吹尽雪，两京路上梅花发。",
+    "行人相见便东西，日暮溪头饮马别。",
+    "把君衫袖望垂杨，两行泪下思故乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-12cdd629-7c39-4d78-bfcc-246cffbb7127"
+}

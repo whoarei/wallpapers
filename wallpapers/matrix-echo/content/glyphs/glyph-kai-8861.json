@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8861",
+  "script": "kai",
+  "character": "衡",
+  "reading": "héng",
+  "description": "héng：(1)秤杆，泛指秤～器。～镜（借指辨别是非善恶的标准）。～鉴（衡镜）。\n(2)称量～钧（借指执掌国政之权）。\n(3)反复思索做出决定，比较评定权～。～情度理。\n(4)平，对等平～。均～。\n(5)指北斗星～汉（北斗星和银河）。\n(6)古同横”，纵横。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-衡"
+}

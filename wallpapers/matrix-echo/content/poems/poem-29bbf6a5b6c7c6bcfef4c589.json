@@ -1,0 +1,16 @@
+{
+  "id": "poem-29bbf6a5b6c7c6bcfef4c589",
+  "title": "李才翁懒窝  其四",
+  "author": "林宪",
+  "dynasty": "宋",
+  "verses": [
+    "山林日月长，城市炎凉急。",
+    "方看夏太清，已觉秋淅瑟。",
+    "因之念故山，鹤归松露滴。",
+    "收足否愿余，此舟徒役役。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-ea3cf54a-5093-4f99-a1c1-2e751c408880"
+}

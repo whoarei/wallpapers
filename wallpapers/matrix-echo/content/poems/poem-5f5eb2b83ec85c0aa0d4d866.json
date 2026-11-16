@@ -1,0 +1,18 @@
+{
+  "id": "poem-5f5eb2b83ec85c0aa0d4d866",
+  "title": "醉花阴·池面芙蕖红散绮",
+  "author": "李弥逊",
+  "dynasty": "宋",
+  "verses": [
+    "池面芙蕖红散绮。",
+    "鹊噪朱门喜。",
+    "环佩响天风，香霭杯盘，更约麻姑侍。",
+    "尘寰不隔蓬莱水。",
+    "束带岩廊戏。",
+    "瘦鹤与长松，且伴臞仙，久住人间世。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-43",
+  "tags": []
+}

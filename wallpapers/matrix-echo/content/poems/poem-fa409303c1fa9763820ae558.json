@@ -1,0 +1,19 @@
+{
+  "id": "poem-fa409303c1fa9763820ae558",
+  "title": "燕归梁·绰约彤霞降紫霄",
+  "author": "赵鼎",
+  "dynasty": "宋",
+  "verses": [
+    "绰约彤霞降紫霄。",
+    "是仙子风标。",
+    "湘裙明佩响琼瑶。",
+    "散馥郁、暗香飘。",
+    "小春十月寒犹浅，妆粉弄梅梢。",
+    "秦楼风月待吹箫。",
+    "舞双鹤、醉蟠桃。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-945",
+  "tags": []
+}

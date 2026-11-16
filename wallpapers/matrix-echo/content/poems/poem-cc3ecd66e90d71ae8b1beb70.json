@@ -1,0 +1,14 @@
+{
+  "id": "poem-cc3ecd66e90d71ae8b1beb70",
+  "title": "句 二",
+  "author": "廖凝",
+  "dynasty": "唐",
+  "verses": [
+    "千山景象通。",
+    "（《江湖小集》卷四绍嵩《江浙纪行集句诗》引）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-8470bc42-a153-48e5-9290-e1b64f3c6602"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-c71e383ed841fcec9f02df60",
+  "title": "邠宁春日",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "桃李年年上国新，风沙日日塞垣人。",
+    "伤心更见庭前柳，忽有千条欲占春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-3a692edc-d3bd-4be8-8142-42e9d058030c"
+}

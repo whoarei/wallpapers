@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5ff5",
+  "script": "seal",
+  "character": "念",
+  "reading": "niàn",
+  "description": "niàn：(1)惦记，常常想惦～。怀～。～头（思想、想法）。悼～。～旧。～物。\n(2)心中的打算，想法，看法意～。杂～。信～。\n(3)说，读，诵读～白（戏剧道白）。～叨。～经。～书。\n(4)廿”的大写。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-念"
+}

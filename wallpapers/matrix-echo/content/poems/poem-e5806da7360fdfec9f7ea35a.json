@@ -1,0 +1,16 @@
+{
+  "id": "poem-e5806da7360fdfec9f7ea35a",
+  "title": "郊庙歌辞 后唐宗庙乐舞辞 昭德舞",
+  "author": "崔居俭、卢文纪",
+  "dynasty": "唐",
+  "verses": [
+    "懿彼明德，赫赫煌煌。",
+    "名高阃域，功著旗常。",
+    "道符休泰，运叶祺祥。",
+    "庆传万祀，以播耿光。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-3efeffba-63c5-4de4-90d4-203e176ea4b6"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-f7b38e87daafd9bb1d987ccd",
+  "title": "腊月二日携家城东观梅夜归  其二",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "元自阳春无间断，何人能识化工心。",
+    "梅边把酒日近午，鸟语风微花气深。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-de48243d-f81b-4c36-81ec-5fda9d7ffbaf"
+}

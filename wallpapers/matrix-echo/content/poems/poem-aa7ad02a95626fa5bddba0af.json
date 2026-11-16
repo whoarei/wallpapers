@@ -1,0 +1,14 @@
+{
+  "id": "poem-aa7ad02a95626fa5bddba0af",
+  "title": "谢朱常侍寄贶蜀茶剡纸二首 一",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "瑟瑟香尘瑟瑟泉，惊风骤雨起炉烟。",
+    "一瓯解却山中醉，便觉身轻欲上天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-df58e4c6-146a-4a87-8d30-73b746131439"
+}

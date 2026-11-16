@@ -1,0 +1,14 @@
+{
+  "id": "poem-8f5f927506fe92936a4a68da",
+  "title": "萚兮",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "萚兮萚兮，风其吹女。叔兮伯兮，倡予和女。",
+    "萚兮萚兮，风其漂女。叔兮伯兮，倡予要女。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-84"
+}

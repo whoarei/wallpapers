@@ -1,0 +1,16 @@
+{
+  "id": "poem-d6c049287250bdc8264ea6ac",
+  "title": "清平乐·莺啼残月",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "莺啼残月，绣阁香灯灭。",
+    "门外马嘶郎欲别，正是落花时节。",
+    "妆成不画蛾眉，含愁独倚金扉。",
+    "云路香尘莫扫，扫即郎去归迟。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-48"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-d1899f332bcfa3a32653c527",
+  "title": "郊庙歌辞 祀圜丘乐章 舒和",
+  "author": "褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "叠璧凝影皇坛路，编珠流彩帝郊前。",
+    "已奏黄钟歌大吕，还符宝历祚昌年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6760691a-685c-4e01-9f8b-3e7384ed92fd"
+}

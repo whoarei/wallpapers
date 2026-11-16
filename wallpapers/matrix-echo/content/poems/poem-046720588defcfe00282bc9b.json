@@ -1,0 +1,14 @@
+{
+  "id": "poem-046720588defcfe00282bc9b",
+  "title": "咏史诗 秦庭",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "楚国君臣草莽间，吴王戈甲未东还。",
+    "包胥不动咸阳哭，争得秦兵出武关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-86e49eba-77e5-42c9-a1c2-90a2a2351936"
+}

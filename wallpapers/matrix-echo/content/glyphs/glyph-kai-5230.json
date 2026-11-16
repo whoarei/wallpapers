@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5230",
+  "script": "kai",
+  "character": "到",
+  "reading": "dào",
+  "description": "dào：(1)从别处来～达。～站。～来。～场。～任。～职。～案。签～。恰～好处。\n(2)往～群众中去。\n(3)周全，全顾得着周～。面面俱～。\n(4)成功得～。办～。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-到"
+}

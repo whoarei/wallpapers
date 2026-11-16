@@ -1,0 +1,16 @@
+{
+  "id": "poem-f96f9d484cc741aed55dc2ca",
+  "title": "扈从登封途中作",
+  "author": "宋之问",
+  "dynasty": "唐",
+  "verses": [
+    "帐殿郁崔嵬，仙游实壮哉！",
+    "晓云连幕卷，夜火杂星回。",
+    "谷暗千旗出，山鸣万乘来。",
+    "扈从良可赋，终乏掞天才。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-扈從登封途中作"
+}

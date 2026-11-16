@@ -1,0 +1,14 @@
+{
+  "id": "poem-2d1d47b791be8a5309d9dccc",
+  "title": "咏史诗 召陵",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "小白匡周入楚郊，楚王雄霸亦咆哮。",
+    "不思管仲为谋主，争取言征缩酒茅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c1084295-a1b0-4098-b207-4cab2e1df049"
+}

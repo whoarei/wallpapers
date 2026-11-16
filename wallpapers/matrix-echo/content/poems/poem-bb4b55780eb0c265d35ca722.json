@@ -1,0 +1,19 @@
+{
+  "id": "poem-bb4b55780eb0c265d35ca722",
+  "title": "苏大侍御访江浦赋八韵记异",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "庞公不浪出，苏氏今有之。",
+    "再闻诵新作，突过黄初诗。",
+    "乾坤几反复，扬马宣同时。",
+    "今晨清镜中，胜食斋房芝。",
+    "余发喜却变，白间生黑丝。",
+    "昨夜舟火灭，湘娥帘外悲。",
+    "百灵未敢散，风破寒江迟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-e263d29c-c7b0-4cd9-a1ef-d7426a8846c8"
+}

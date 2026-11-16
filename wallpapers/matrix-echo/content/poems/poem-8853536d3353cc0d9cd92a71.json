@@ -1,0 +1,16 @@
+{
+  "id": "poem-8853536d3353cc0d9cd92a71",
+  "title": "三层阁上置音声",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "绮筵移暮景，紫阁引宵烟。",
+    "隔栋歌尘合，分阶舞影连。",
+    "声流三处管，响乱一重弦。",
+    "不似秦楼上，吹箫空学仙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e022fa7a-ae8e-49c2-9369-f9d286b972e2"
+}

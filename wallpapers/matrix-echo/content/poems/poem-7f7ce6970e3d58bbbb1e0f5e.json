@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f7ce6970e3d58bbbb1e0f5e",
+  "title": "哭林艾轩",
+  "author": "陈俊卿",
+  "dynasty": "宋",
+  "verses": [
+    "出为岭峤澄清使，归作甘泉侍从臣。",
+    "百担有书行李重，千金无产橐中贫。",
+    "经旬把臂言犹在，昨日题诗墨尚新。",
+    "清晓访君呼不起，寝门一恸泪沾巾。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-bbf6e19d-8332-4c53-81c1-41e08dd9d919"
+}

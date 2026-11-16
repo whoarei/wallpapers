@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-592a",
+  "script": "kai",
+  "character": "太",
+  "reading": "tài",
+  "description": "tài：(1)过于～长。\n(2)极端，最～甚。～平。\n(3)高，大～空。～学。\n(4)很不～好。\n(5)身分最高或辈分更高的～老伯。～夫人（旧时尊称别人的母亲）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-太"
+}

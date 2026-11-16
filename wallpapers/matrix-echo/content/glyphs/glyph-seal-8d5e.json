@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d5e",
+  "script": "seal",
+  "character": "赞",
+  "reading": "zàn",
+  "description": "导引\n辅佐,佐助\n赞帷幄之谋\n⒈辅佐，帮助～助。\n⒉称颂，夸奖～美。～扬。～许。称～。\n①同意。\n②支持，助人成功。\n①婚、丧、庆典、祭祀等仪式进行时，在旁宣诵行礼项目。\n②赞礼的人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赞"
+}

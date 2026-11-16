@@ -1,0 +1,14 @@
+{
+  "id": "poem-8a3e1d498451889a8af5fea0",
+  "title": "胡捣练",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "辞别去，到荒丘，只愁出路煞生受。",
+    "画取真容聊借手，逢人将此免哀求。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5158",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e26b66eff72866ef6132fc45",
+  "title": "城东早春",
+  "author": "杨巨源",
+  "dynasty": "唐",
+  "verses": [
+    "诗家清景在新春，绿柳才黄半未匀。",
+    "若待上林花似锦，出门俱是看花人。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-城東早春"
+}

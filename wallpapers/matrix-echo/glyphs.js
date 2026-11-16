@@ -6,7 +6,7 @@
     { id: 'yi', name: '彝文', family: 'MatrixYi', lang: 'ii', sample: 'ꀀ' },
     { id: 'tibetan', name: '藏文', family: 'MatrixTibetan', lang: 'bo', sample: 'ཀ' }
   ]);
-  const limits = Object.freeze({ entries: 500, bytes: 2 * 1024 * 1024 });
+  const limits = Object.freeze({ entries: 20000, bytes: 32 * 1024 * 1024 });
   const han = [[0x3400, 0x4dbf], [0x4e00, 0x9fff], [0xf900, 0xfaff], [0x20000, 0x323af]];
   function identity(script, character) { return `glyph-${script}-${character.codePointAt(0).toString(16)}`; }
   function normalize(value, coverage = root.MATRIX_GLYPH_COVERAGE) {
@@ -15,7 +15,7 @@
     if (!script || typeof character !== 'string' || Array.from(character).length !== 1) throw new Error('请选择字形类型，并填写一个完整汉字、彝文音节或藏文字母。');
     const cp = character.codePointAt(0);
     const valid = ['seal', 'kai'].includes(script.id) ? han.some(([a, b]) => a <= cp && cp <= b) :
-      script.id === 'yi' ? cp >= 0xa000 && cp <= 0xa48c : cp >= 0xf40 && cp <= 0xf6c;
+      script.id === 'yi' ? cp >= 0xa000 && cp <= 0xa48c && cp !== 0xa015 : cp >= 0xf40 && cp <= 0xf6c;
     if (!valid) throw new Error(`「${character}」不属于所选${script.name}的完整字符。`);
     if (!coverage?.[script.id]?.some(([a, b]) => a <= cp && cp <= b)) throw new Error(`当前${script.name}字体不包含「${character}」，请选择已有字形或更换文字类型。`);
     const id = value.id === undefined ? identity(script.id, character) : value.id;
@@ -25,17 +25,32 @@
     const description = typeof value.description === 'string' ? value.description.replace(/\r\n/g, '\n').trim() : '';
     if (!description || Array.from(description).length > 600 || /[\u0000-\u0009\u000b-\u001f\u007f-\u009f]/u.test(description)) throw new Error('注释须包含 1–600 字，可分段填写。');
     if (value.enabled !== undefined && typeof value.enabled !== 'boolean') throw new Error('enabled 须为 true 或 false。');
-    return { id, script: script.id, character, reading: reading.trim(), description, enabled: value.enabled !== false };
+    const P = root.MatrixPoetry || (typeof require === 'function' ? require('./poetry.js') : null);
+    return { id, script: script.id, character, reading: reading.trim(), description, enabled: value.enabled !== false, ...P.metadata(value) };
   }
   function collection(value, coverage) {
     const values = Array.isArray(value) ? value : [value];
-    if (!values.length || values.length > limits.entries) throw new Error('悬浮文字库须包含 1–500 条记录。');
+    if (!values.length || values.length > limits.entries) throw new Error('悬浮文字库须包含 1–20000 条记录。');
     const ids = new Set(), pairs = new Set();
     return values.map(value => {
       const entry = normalize(value, coverage), pair = entry.script + ':' + entry.character;
       if (ids.has(entry.id) || pairs.has(pair)) throw new Error('存在重复 id，或同一字形类型中有重复字符。');
       ids.add(entry.id); pairs.add(pair); return entry;
     });
+  }
+  function merge(builtins, overrides) {
+    const entries = new Map(builtins.map(e => [e.id, e]));
+    const pairs = new Map(builtins.map(e => [e.script + ':' + e.character, e.id]));
+    for (const entry of overrides) {
+      const old = entries.get(entry.id);
+      if (old) pairs.delete(old.script + ':' + old.character);
+      const pair = entry.script + ':' + entry.character, collision = pairs.get(pair);
+      // Personal IDs predate some newly bundled characters. Preserve that
+      // content rather than reject an otherwise valid saved configuration.
+      if (collision && collision !== entry.id) entries.delete(collision);
+      pairs.set(pair, entry.id); entries.set(entry.id, entry);
+    }
+    return [...entries.values()];
   }
   function describe(entry) {
     const script = scripts.find(s => s.id === entry.script);
@@ -44,7 +59,7 @@
     return { title: `${script.name} · ${entry.character}`,
       reading: entry.reading ? label + ' · ' + entry.reading : ['seal', 'kai'].includes(entry.script) ? label : '', description: entry.description };
   }
-  const api = Object.freeze({ scripts, limits, normalize, collection, identity, describe });
+  const api = Object.freeze({ scripts, limits, normalize, collection, identity, describe, merge });
   root.MatrixGlyphs = api;
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
 })(typeof globalThis !== 'undefined' ? globalThis : this);

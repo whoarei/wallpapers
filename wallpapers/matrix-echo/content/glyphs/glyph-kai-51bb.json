@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51bb",
+  "script": "kai",
+  "character": "冻",
+  "reading": "dòng",
+  "description": "受冻;感到寒冷\n厚冰\n汁液或其他含\n②汤汁类凝结成半固体肉～。\n③感到寒冷或受到寒冷脚～了。\n【冻土】指温度在0℃以下，因冻结而含冰的各种土石层。按保持时间可分为暂时性冻土、多年冻土和季节性冻土。多年冻土在地球上的分布约占陆地面积的1/4，主要分布在苏\n联和加拿大。\n冻dōng 1.见\"冻雨\"﹑\"冻冻\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-冻"
+}

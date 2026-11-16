@@ -1,0 +1,16 @@
+{
+  "id": "poem-bad56a5c8eb75c331af21341",
+  "title": "寿阳罢郡日有诗十首与追怀不殊今编于后兼纪瑞物",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "垂阴敢慕甘棠叶，附干将呈瑞木符。",
+    "十步兰茶同秀彩，万年枝叶表皇图。",
+    "芟夷不及知无患，雨露曾沾自不枯。",
+    "好住孤根托桃李，莫令从此混樵苏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-55f2083d-f3ec-4f8d-8372-dabfc656e9cf"
+}

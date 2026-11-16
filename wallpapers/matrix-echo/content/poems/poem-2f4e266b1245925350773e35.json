@@ -1,0 +1,16 @@
+{
+  "id": "poem-2f4e266b1245925350773e35",
+  "title": "赠姚合少府",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "病来辞赤县，案上有丹经。",
+    "为客烧茶灶，教儿埽竹亭。",
+    "诗成添旧卷，酒尽卧空缾。",
+    "阙下今遗逸，谁瞻隐士星。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-4f315ed4-b73a-4a9e-8799-98871c553726"
+}

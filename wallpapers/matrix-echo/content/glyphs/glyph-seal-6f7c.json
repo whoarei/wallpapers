@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6f7c",
+  "script": "seal",
+  "character": "潼",
+  "reading": "tóng",
+  "description": "tóng：〔～关〕ａ．关名，在中国陕西省东部；ｂ．地名，在中国陕西省东部。\n〔～～〕高的样子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-潼"
+}

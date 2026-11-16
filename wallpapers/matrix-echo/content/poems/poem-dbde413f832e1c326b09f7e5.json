@@ -1,0 +1,20 @@
+{
+  "id": "poem-dbde413f832e1c326b09f7e5",
+  "title": "自淇涉黄河途中作十三首 十一",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "我行倦风湍，辍棹将问津。",
+    "空传歌瓠子，感慨独愁人。",
+    "孟夏桑叶肥，秾阴夹长津。",
+    "蚕农有时节，田野无闲人。",
+    "临水狎渔樵，望山怀隐沦。",
+    "谁能去京洛，顦顇对风尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c501f17a-230a-49b5-833c-5889a4e9bc85"
+}

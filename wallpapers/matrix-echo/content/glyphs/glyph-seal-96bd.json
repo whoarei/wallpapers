@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-96bd",
+  "script": "seal",
+  "character": "隽",
+  "reading": "jùn；juàn",
+  "description": "jùn：同俊”①。\njuàn：鸟肉肥美，味道好，引申为意味深长～永（指言语、诗文）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-隽"
+}

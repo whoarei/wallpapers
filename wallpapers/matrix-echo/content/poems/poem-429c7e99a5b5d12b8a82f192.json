@@ -1,0 +1,16 @@
+{
+  "id": "poem-429c7e99a5b5d12b8a82f192",
+  "title": "啸云",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "胡笳未奏边云悄，长啸一声山月小。",
+    "狂虏归思悲夜老，身未到家心已到。",
+    "山云不似塞云腥，云中倚阑时一声。",
+    "悠然清闻四十里，何独重围空万骑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-d4451da6-d08c-4d0c-9117-306300d11395"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-633d",
+  "script": "kai",
+  "character": "挽",
+  "reading": "wǎn",
+  "description": "wǎn：(1)拉，牵引～弓。～留。\n(2)设法使局势好转或恢复原状～救。力～狂澜。\n(3)追悼死人～词。～联。～幛。\n(4)古同晚”，后来的。\n(5)同绾”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-挽"
+}

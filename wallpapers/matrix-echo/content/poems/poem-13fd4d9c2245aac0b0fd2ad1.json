@@ -1,0 +1,16 @@
+{
+  "id": "poem-13fd4d9c2245aac0b0fd2ad1",
+  "title": "恩赐丽正殿书院赐宴应制得林字",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "东壁图书府，西园翰墨林。",
+    "诵诗闻国政，讲易见天心。",
+    "位窃和羹重，恩叨醉酒深。",
+    "载歌春兴曲，情竭为知音。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-恩賜麗正殿書院賜宴應制得林字"
+}

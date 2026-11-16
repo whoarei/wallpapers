@@ -1,0 +1,16 @@
+{
+  "id": "poem-36e969dd12534c342c8ce00d",
+  "title": "进宣宗收复河湟诗",
+  "author": "崔铉",
+  "dynasty": "唐",
+  "verses": [
+    "边陲万里注恩波，宇宙群芳洽凯歌。",
+    "右地名王争解辫，远方戎垒尽投戈。",
+    "烟尘永息三秋戍，瑞气遥清九折河。",
+    "共遇圣明千载运，更观俗阜与时和。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-0f0946e8-326e-4554-8826-8ecbc07bcc86"
+}

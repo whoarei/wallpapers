@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-788e",
+  "script": "seal",
+  "character": "碎",
+  "reading": "suì",
+  "description": "suì：(1)完整的东西破坏成零片或零块～裂。粉～。粉身～骨。\n(2)零星，不完整～屑。琐～。～琼。支离破～。\n(3)说话唠叨嘴～。闲言～语。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-碎"
+}

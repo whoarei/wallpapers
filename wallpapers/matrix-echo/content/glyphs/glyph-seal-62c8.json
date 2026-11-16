@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62c8",
+  "script": "seal",
+  "character": "拈",
+  "reading": "niān",
+  "description": "niān：用手指搓捏或拿东西～须。～轻怕重。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拈"
+}

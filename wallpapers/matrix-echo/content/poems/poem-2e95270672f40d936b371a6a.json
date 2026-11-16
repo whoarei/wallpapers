@@ -1,0 +1,14 @@
+{
+  "id": "poem-2e95270672f40d936b371a6a",
+  "title": "长门怨三首 一",
+  "author": "刘皂",
+  "dynasty": "唐",
+  "verses": [
+    "雨滴长门秋夜长，愁心和雨到昭阳。",
+    "泪痕不学君恩断，拭却千行更万行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-20696ee7-637c-42bc-8dce-ef4a1dd67b37"
+}

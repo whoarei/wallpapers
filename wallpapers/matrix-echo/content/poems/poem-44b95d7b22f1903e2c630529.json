@@ -1,0 +1,16 @@
+{
+  "id": "poem-44b95d7b22f1903e2c630529",
+  "title": "送马向入蜀",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "游子出咸京，巴山万里程。",
+    "白云连鸟道，青壁遰猨声。",
+    "雨雪经泥坂，烟花望锦城。",
+    "工文人共许，应纪蜀中行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-79e46a04-dba5-4ecb-952f-416ed2cd527c"
+}

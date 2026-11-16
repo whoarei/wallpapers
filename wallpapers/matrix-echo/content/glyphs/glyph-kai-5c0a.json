@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c0a",
+  "script": "kai",
+  "character": "尊",
+  "reading": "zūn",
+  "description": "zūn：(1)地位或辈分高～长（zhǎng）。～卑。～贵。～严。\n(2)敬重～敬。自～。～重。\n(3)敬辞，称与对方有关的人或事物～府。令～。～姓。～驾。\n(4)量词一～佛像。\n(5)古同撙”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-尊"
+}

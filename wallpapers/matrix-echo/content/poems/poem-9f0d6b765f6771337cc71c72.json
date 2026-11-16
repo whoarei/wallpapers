@@ -1,0 +1,15 @@
+{
+  "id": "poem-9f0d6b765f6771337cc71c72",
+  "title": "甫田",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "无田甫田，维莠骄骄。无思远人，劳心忉忉。",
+    "无田甫田，维莠桀桀。无思远人，劳心怛怛。",
+    "婉兮娈兮。总角丱兮。未几见兮，突而弁兮！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-101"
+}

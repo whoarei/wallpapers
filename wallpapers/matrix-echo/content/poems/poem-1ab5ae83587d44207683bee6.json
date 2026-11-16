@@ -1,0 +1,16 @@
+{
+  "id": "poem-1ab5ae83587d44207683bee6",
+  "title": "郊庙歌辞 祭方丘乐章 雍和",
+  "author": "褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "柔而能方，直而能敬。",
+    "载厚以德，大亨以正。",
+    "有涤斯牷，有馨斯盛。",
+    "介兹景福，祚我休庆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e817249e-2008-482a-b5b9-b1afeb1fead6"
+}

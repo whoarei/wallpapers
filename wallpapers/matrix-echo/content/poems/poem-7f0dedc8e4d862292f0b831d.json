@@ -1,0 +1,14 @@
+{
+  "id": "poem-7f0dedc8e4d862292f0b831d",
+  "title": "春情",
+  "author": "杨凭",
+  "dynasty": "唐",
+  "verses": [
+    "暮雨朝云几日归，如丝如雾湿人衣。",
+    "三湘二月春光早，莫逐狂风缭乱飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-16b22371-368d-4d3c-90ee-dff0c3d16670"
+}

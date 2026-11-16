@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6da4",
+  "script": "kai",
+  "character": "涤",
+  "reading": "dí",
+  "description": "除,清除\n打扫\n涤宫,古代宫中饲养祭祀牲畜的房子\n涤 dí洗～除、洗～。\n【涤荡】同'荡涤'。洗涤；清除。\n【涤纶】一种合成纤维。用乙二醇、对苯二甲酸二甲酯等原料合成。\n【涤罪所】见【炼狱】。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-涤"
+}

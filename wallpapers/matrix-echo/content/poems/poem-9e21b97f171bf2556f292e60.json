@@ -1,0 +1,14 @@
+{
+  "id": "poem-9e21b97f171bf2556f292e60",
+  "title": "东溪夜泊",
+  "author": "赵崇鉘",
+  "dynasty": "宋",
+  "verses": [
+    "雪满汀洲风满林，霁光空澈夜深深。",
+    "推篷恰受梅花月，自喷横箫调楚吟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-e98423f6-0aa4-44db-b633-315c7f5967ee"
+}

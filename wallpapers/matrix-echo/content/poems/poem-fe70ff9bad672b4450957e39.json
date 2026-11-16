@@ -1,0 +1,14 @@
+{
+  "id": "poem-fe70ff9bad672b4450957e39",
+  "title": "杨柳枝寿杯词十八首 八",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "稻畦分影向江邨，憔悴经霜只半存。",
+    "昨日流莺今不见，乱萤飞出照黄昏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-df98b09e-516c-44f6-893b-91f28ed1b5ae"
+}

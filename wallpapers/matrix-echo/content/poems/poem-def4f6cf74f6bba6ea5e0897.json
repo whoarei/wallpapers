@@ -1,0 +1,16 @@
+{
+  "id": "poem-def4f6cf74f6bba6ea5e0897",
+  "title": "听演师琴",
+  "author": "史卫卿",
+  "dynasty": "宋",
+  "verses": [
+    "禅悟却参琴，山高水复深。",
+    "七弦手共语，万籁耳无音。",
+    "激烈鬼神泪，发挥天地心。",
+    "秋风时一曲，怀古更伤今。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-e62b39e6-2910-41e1-a8fb-e87b74fe18a3"
+}

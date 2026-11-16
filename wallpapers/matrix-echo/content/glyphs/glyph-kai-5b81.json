@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5b81",
+  "script": "kai",
+  "character": "宁",
+  "reading": "níng",
+  "description": "⒈安定，平安～静。康～。既安且～。\n⒉南京市的简称。\n⒈情愿～可。～愿。～缺毋滥。～死不屈。\n⒊文言副词。岂，难道王侯将相～有种乎？\n宁zhù 1.古代宫室门屏之间。 2.同\"贮\"。贮藏;积聚。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宁"
+}

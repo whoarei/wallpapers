@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9654",
+  "script": "seal",
+  "character": "陔",
+  "reading": "gāi",
+  "description": "gāi：(1)台阶，层次具泰一祠坛……三～”。\n(2)田间的土岗子。\n(3)指陔夏”（古乐章名）宾出，奏～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陔"
+}

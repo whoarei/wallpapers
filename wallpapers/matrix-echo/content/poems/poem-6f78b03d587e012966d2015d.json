@@ -1,0 +1,14 @@
+{
+  "id": "poem-6f78b03d587e012966d2015d",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "一旦分离掌上珠，我这老景凭谁？忍将父母饥寒死，博换得孩儿名利归。",
+    "你纵然衣锦归故里，补不得你名行亏。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4941",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ffd25de1e81a5e3df7aa1905",
+  "title": "采桑子·辘轳金井梧桐晚",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "辘轳金井梧桐晚，几树惊秋。",
+    "昼雨如愁，百尺虾须在玉钩。",
+    "琼窗梦断双蛾皱，回首边头。",
+    "欲寄鳞游，九曲寒波不溯流。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-26"
+}

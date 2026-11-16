@@ -1,0 +1,14 @@
+{
+  "id": "poem-1b1658623ef85bdd3aa7f087",
+  "title": "送僧二首 二",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "龛中破衲自持行，树下禅床坐一生。",
+    "来往白云知岁久，满山猨鸟会经声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3c9a8218-f54a-4008-938c-002aaad1b9fd"
+}

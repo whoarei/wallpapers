@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e4b33471745022ad2f1c323",
+  "title": "郊庙歌辞 享太庙乐章 雍和二章 二",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "俎豆有馥，粢盛絜丰。",
+    "亦有和羹，既戒既平。",
+    "鼓钟管磬，肃唱和鸣。",
+    "皇皇后祖，来我思成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-7196811a-78b3-4b37-b38d-4f312579860c"
+}

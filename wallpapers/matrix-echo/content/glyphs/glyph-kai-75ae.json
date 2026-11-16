@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-75ae",
+  "script": "kai",
+  "character": "疮",
+  "reading": "chuāng",
+  "description": "痈、瘫、疽、疖等的总称\n伤口;外伤。也作创”\n喻指伤痛;痛苦\n疮 chuāng通常指皮肤上或粘膜上发生溃烂的疾病。\n【疮痍满目】见【满目疮痍】。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疮"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f1c1c7cc72f25f98c965823",
+  "title": "枉系二首 一",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "吾怜曾家子，昔有投杼疑。",
+    "吾怜姬公旦，非无鸱鸮诗。",
+    "臣子竭忠孝，君亲惑谗欺。",
+    "萋斐离骨肉，含愁兴此辞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-dfda4102-2446-4daa-a7bb-1539ec77c5d3"
+}

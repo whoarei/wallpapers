@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9a6c",
+  "script": "kai",
+  "character": "马",
+  "reading": "mǎ",
+  "description": "单蹄食草大型哺乳动物\n⒈家畜。耳小直立，面长，颈上缘有鬃，尾巴有长毛，四肢强健，善跑，供人骑或拉东西等。皮可制革。\n⒉通\"码\"筹～。\n⒑［马到成功］战马一到就胜利了。形容迅速地取得胜利。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-马"
+}

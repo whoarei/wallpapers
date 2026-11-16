@@ -1,0 +1,16 @@
+{
+  "id": "poem-dcb958b27d3d9a217cbbebc3",
+  "title": "将入关行次湘阴",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "背顾秦城在何处，图书作伴过湘东。",
+    "神鵶乱噪黄陵近，候鴈斜沈梦泽空。",
+    "打桨天连晴水白，烧田云隔夜山红。",
+    "也知渐老岩栖稳，争奈文闱有至公。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-73de3c4b-708f-4016-a4d9-e1b5423f8f20"
+}

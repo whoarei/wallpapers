@@ -1,0 +1,14 @@
+{
+  "id": "poem-f73aa00415da9841fc37366a",
+  "title": "和韦开州盛山十二首 梅溪",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "自爱新梅好，行寻一径斜。",
+    "不教人扫石，恐损落来花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-5dc1daca-91ed-4733-a4b4-b20c3243d375"
+}

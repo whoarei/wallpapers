@@ -1,0 +1,14 @@
+{
+  "id": "poem-e4600dedbb866cdbff91c1b6",
+  "title": "送从翁中丞奉使黠戛斯六首 一",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "扬雄词赋举天闻，万里油幢照塞云。",
+    "仆射峰西几千骑，一时迎著汉将军。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-120086c5-198f-4ce9-9c10-15f2892f1f63"
+}

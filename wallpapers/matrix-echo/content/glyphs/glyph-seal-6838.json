@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6838",
+  "script": "seal",
+  "character": "核",
+  "reading": "hé；hú",
+  "description": "hé：(1)果实中坚硬并包含果仁的部分桃～。杏～。\n(2)像核的东西～细胞。～酸。～心（中心）。结～。原子～。～子。～反应。～武器。\n(3)仔细地对照、考察～定。～计。～实。～算。～查。\n(4)翔实正确其文直，其事～。\nhú：义同（一）①②，用于某些口语词，如杏核儿”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-核"
+}

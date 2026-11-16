@@ -1,0 +1,16 @@
+{
+  "id": "poem-58ceaaffe5a1f10bd7cf8a35",
+  "title": "送萧颖士赴东府得还字",
+  "author": "房白",
+  "dynasty": "唐",
+  "verses": [
+    "夫子高世迹，时人不可攀。",
+    "今予亦云幸，谬得承温颜。",
+    "良策资入幕，遂行从近关。",
+    "青春灞亭别，此去何时还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-70847d6a-a1e9-4b6f-a904-25924ca4c875"
+}

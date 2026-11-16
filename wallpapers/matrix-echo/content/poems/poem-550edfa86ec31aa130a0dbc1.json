@@ -1,0 +1,16 @@
+{
+  "id": "poem-550edfa86ec31aa130a0dbc1",
+  "title": "戏简郑广文虔兼呈苏司业源明",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "广文到官舍，系马堂阶下。",
+    "醉则骑马归，颇遭官长骂。",
+    "才名四十年，坐客寒无氊。",
+    "赖有苏司业，时时与酒钱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-6ecd1880-117b-4442-86e0-b79993ea4ca6"
+}

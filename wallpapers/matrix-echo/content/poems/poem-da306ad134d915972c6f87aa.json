@@ -1,0 +1,16 @@
+{
+  "id": "poem-da306ad134d915972c6f87aa",
+  "title": "题独孤处士村居",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "江上园卢荆作扉，男驱耕犊妇鸣机。",
+    "林峦当户茑萝暗，桑柘绕村姜芋肥。",
+    "几亩稻田还谓业，两间茆舍亦言归。",
+    "何如一被风尘染，到老云云相是非。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4655da21-244c-4436-8345-7373bba1c0f1"
+}

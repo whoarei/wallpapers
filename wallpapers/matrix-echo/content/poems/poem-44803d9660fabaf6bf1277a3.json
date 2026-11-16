@@ -1,0 +1,16 @@
+{
+  "id": "poem-44803d9660fabaf6bf1277a3",
+  "title": "杂诗四首  其二",
+  "author": "李涛",
+  "dynasty": "宋",
+  "verses": [
+    "燕雀贺厦屋，虫蚁慕腥膻。",
+    "野花引飞蝶，古木来新蝉。",
+    "秋天百虫吟，春天百鸟喧。",
+    "翟公真暗事，喜愠见色言。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-95b636a2-edce-41a2-a3e7-ef599ad64ba1"
+}

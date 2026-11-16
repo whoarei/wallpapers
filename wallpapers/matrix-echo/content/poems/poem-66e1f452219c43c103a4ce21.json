@@ -1,0 +1,17 @@
+{
+  "id": "poem-66e1f452219c43c103a4ce21",
+  "title": "姑苏行",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "古台不见秋草衰，却忆吴王全盛时。",
+    "千年月照秋草上，吴王在时几回望。",
+    "至今月出君不还，世人空对姑苏山。",
+    "山中精灵安可覩，辙迹人踪麋鹿聚。",
+    "婵娟西子倾国容，化作寒陵一堆土。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-db95391f-b0af-4027-addd-6e970841188e"
+}

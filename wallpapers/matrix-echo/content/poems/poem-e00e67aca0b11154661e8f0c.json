@@ -1,0 +1,14 @@
+{
+  "id": "poem-e00e67aca0b11154661e8f0c",
+  "title": "山麻客",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)你去渡关津，怕有人盘问，又没个官司文凭路引。",
+    "此行何处能安顿？蓦忽地怕有便人，寄取一封平安书信。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2891",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9aa5",
+  "script": "seal",
+  "character": "骥",
+  "reading": "jì",
+  "description": "比喻杰出的人才\n骥骜",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骥"
+}

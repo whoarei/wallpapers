@@ -1,0 +1,14 @@
+{
+  "id": "poem-a166de1dd2de8e29372adc4f",
+  "title": "效赵学士体成口号十章献开府太师  其七",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "东田小籍选新声，歌吹胡琴色色精。",
+    "客少有时全不用，天然水竹湛余清。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-a8042dbd-72fd-4286-934a-09a94a67e7b3"
+}

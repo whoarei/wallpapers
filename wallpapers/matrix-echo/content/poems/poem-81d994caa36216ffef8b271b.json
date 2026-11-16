@@ -1,0 +1,14 @@
+{
+  "id": "poem-81d994caa36216ffef8b271b",
+  "title": "过钱塘",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "初日驱阴积翳销，鹳鵞嘈杂橹初摇。",
+    "白鸥踏浪平如地，不似吴儿学弄潮。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-2ae5dab6-1a31-4996-99dd-6680cfa2b528"
+}

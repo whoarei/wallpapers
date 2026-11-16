@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7fd8",
+  "script": "seal",
+  "character": "翘",
+  "reading": "qiào",
+  "description": "鸟尾\n泛指动物的尾部\n抬起\n⒈鸟尾巴上的长毛。\n⒉举起，抬起，向上～望。～足。～首。\n⒊板状物因由湿变干而引起弯曲不平柜子晒～了。门板～棱了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-翘"
+}

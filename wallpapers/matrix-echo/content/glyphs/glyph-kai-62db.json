@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62db",
+  "script": "kai",
+  "character": "招",
+  "reading": "zhāo",
+  "description": "zhāo：(1)打手势叫人来～唤。～呼。～手上车。\n(2)用公开的方式使人来～集。～收。～纳。～贤。～聘。～兵买马。\n(3)应接～待宾客。\n(4)引来～惹。～引。～揽。～致。\n(5)承认自己的罪行～供。～认。不打自～。\n(6)同着3”①②。\n(7)摇动～摇（故意张大声势，引人注意）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-招"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-624b0ddee45967184806fbc9",
+  "title": "宿龟山次韵",
+  "author": "陈子高",
+  "dynasty": "宋",
+  "verses": [
+    "潮回浪溅细沙倾，岸柳平波映眼明。",
+    "桥接短亭连野迥，艇横长笛带风清。",
+    "迢迢翠草寒烟暝，隠隠疏林暮霭晴。",
+    "遥见叠峰清浅黛，客心伤处碧云轻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-c36f5179-3c81-4afe-8cbc-62c2bd62f169"
+}

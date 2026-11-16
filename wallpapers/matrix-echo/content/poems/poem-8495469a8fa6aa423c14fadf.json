@@ -1,0 +1,16 @@
+{
+  "id": "poem-8495469a8fa6aa423c14fadf",
+  "title": "次韵友人",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "相逢小坐芷花秋，绝胜扬鞭并与幽。",
+    "世上十年尘转海，人生万事博悬投。",
+    "当时对酒曾辞酒，今日言愁始欲愁。",
+    "何不倒囊来一醉，旧题重访酒边楼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-8cecb1ab-fbbe-4f3a-a51e-1cfbbf24331e"
+}

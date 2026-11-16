@@ -1,0 +1,16 @@
+{
+  "id": "poem-16c5fb131748c1b86917cf90",
+  "title": "乾元中寓居同谷县作歌七首 二",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "长镵长镵白木柄，我生托子以为命。",
+    "黄精无苗山雪盛，短衣数挽不掩胫。",
+    "此时与子空归来，男呻女吟四壁静。",
+    "鸣呼二歌兮歌始放，邻里为我色惆怅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c4b14b05-2686-43b7-9006-ceda18052b2a"
+}

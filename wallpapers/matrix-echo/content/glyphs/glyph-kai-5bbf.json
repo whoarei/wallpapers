@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5bbf",
+  "script": "kai",
+  "character": "宿",
+  "reading": "xiǔ；sù；xiù",
+  "description": "sù：(1)住，过夜，夜里睡觉住～。留～。露～。～舍（shè）。～营。\n(2)年老的，长久从事某种工作的～将（经验丰富的老将）。～儒。名～。\n(3)平素，素有的～愿。～志。～疾。～敌。～心。\n(4)隔夜的，隔年的～雨（昨夜的雨）。～根。～草。\n(5)姓。\nxiǔ：夜一～。两～。\nxiù：星座星～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宿"
+}

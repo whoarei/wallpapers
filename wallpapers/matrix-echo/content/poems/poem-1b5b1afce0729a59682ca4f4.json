@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b5b1afce0729a59682ca4f4",
+  "title": "酬卫八雪中见寄",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "季冬忆淇上，落日归山樊。",
+    "旧宅带流水，平田临古村。",
+    "雪中望来信，醉里开衡门。",
+    "果得希代宝，缄之那可论。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c7166837-c70d-4cfd-bf45-baf6930473bf"
+}

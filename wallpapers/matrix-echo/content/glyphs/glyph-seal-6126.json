@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6126",
+  "script": "seal",
+  "character": "愦",
+  "reading": "kuì",
+  "description": "闷,烦乱\n昏乱,神志不清\n愦kuì糊涂，昏乱昏～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-愦"
+}

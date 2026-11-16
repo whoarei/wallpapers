@@ -1,0 +1,15 @@
+{
+  "id": "poem-ef2a7aa0707064fb00b1d1c5",
+  "title": "薄媚令",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "愁多怨极，历尽万千滋味。",
+    "幸几日身安免虑。",
+    "(旦上接)听得旁来，无事使奴暗喜。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2527",
+  "tags": []
+}

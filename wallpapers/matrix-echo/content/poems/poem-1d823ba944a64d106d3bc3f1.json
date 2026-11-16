@@ -1,0 +1,16 @@
+{
+  "id": "poem-1d823ba944a64d106d3bc3f1",
+  "title": "故陈州刺史赠兵部尚书韦公挽词",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "奕叶金章贵，连枝鼎位尊。",
+    "台庭为凤穴，相府是鸰原。",
+    "世阅空悲命，泉幽不返魂。",
+    "惟余汉臣史，继术赞韦门。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-c408c2f1-63a3-41f0-8685-70aee6c960b0"
+}

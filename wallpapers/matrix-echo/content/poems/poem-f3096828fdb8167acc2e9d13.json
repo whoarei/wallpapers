@@ -1,0 +1,14 @@
+{
+  "id": "poem-f3096828fdb8167acc2e9d13",
+  "title": "崔驸马养鹤",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "身闲无事称高情，已有人间章句名。",
+    "求得鹤来教翦翅，望仙台下亦将行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-d60258ad-0f56-472e-b6f1-eae37b98766d"
+}

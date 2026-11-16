@@ -1,0 +1,22 @@
+{
+  "id": "poem-5db8c233bd1a197b920e475f",
+  "title": "蝶恋花·卷絮风头寒欲尽",
+  "author": "晏几道",
+  "dynasty": "宋",
+  "verses": [
+    "卷絮风头寒欲尽。",
+    "坠粉飘红，日日香成阵。",
+    "新酒又添残酒困。",
+    "今春不减前春恨。",
+    "蝶去莺飞无处问。",
+    "隔水高楼，望断双鱼信。",
+    "恼乱层波横一寸。",
+    "斜阳只与黄昏近。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-20"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5146",
+  "script": "seal",
+  "character": "兆",
+  "reading": "zhào",
+  "description": "zhào：(1)古代占验吉凶时灼龟甲所成的裂纹卜～。\n(2)事物发生前的征候或迹象，预示预～。佳～。瑞雪～丰年。\n(3)数名，等于百万（古代指万亿）～周（电磁波频率单位，每秒一百万周的频率为一兆周）。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-兆"
+}

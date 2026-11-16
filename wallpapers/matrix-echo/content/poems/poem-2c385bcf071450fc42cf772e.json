@@ -1,0 +1,16 @@
+{
+  "id": "poem-2c385bcf071450fc42cf772e",
+  "title": "鹿鸣宴",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "从昔山川夸八桂，只今文物盛南州。",
+    "秋风万里携书剑，春日端门拜冕旒。",
+    "圣世取才先实用，儒生报国岂身谋。",
+    "且看廷策三千字，为写平时畎亩忧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-71221f87-615f-443c-8960-8d57d5fbfe4e"
+}

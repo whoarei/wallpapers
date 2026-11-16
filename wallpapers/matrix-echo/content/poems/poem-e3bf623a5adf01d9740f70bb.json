@@ -1,0 +1,14 @@
+{
+  "id": "poem-e3bf623a5adf01d9740f70bb",
+  "title": "读汉纪",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "布衣空手取中原，劲卒雄师不足论。",
+    "楚国八千秦百万，豁开胸臆一时吞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8846f4b5-7891-4fd0-9d83-1a1252e4ca18"
+}

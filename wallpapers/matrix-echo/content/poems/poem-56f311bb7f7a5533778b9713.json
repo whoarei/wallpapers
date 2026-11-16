@@ -1,0 +1,24 @@
+{
+  "id": "poem-56f311bb7f7a5533778b9713",
+  "title": "晨诣超师院读禅经",
+  "author": "柳宗元",
+  "dynasty": "唐",
+  "verses": [
+    "汲井漱寒齿，清心拂尘服。",
+    "闲持贝叶书，步出东斋读。",
+    "真源了无取，妄迹世所逐。",
+    "遗言冀可冥，缮性何由熟。",
+    "道人庭宇静，苔色连深竹。",
+    "日出雾露余，青松如膏沐。",
+    "澹然离言说，悟悦心自足。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言古诗",
+    "抒情",
+    "贬谪"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-2954ddd2-f1c7-41b1-8c9e-42058398cde0"
+}

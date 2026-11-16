@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5434",
+  "script": "kai",
+  "character": "吴",
+  "reading": "wú",
+  "description": "wú：(1)中国周代诸侯国名，在今江苏省南部和浙江省北部，后扩展至淮河下游一带～钩（古代吴地出产的一种弯刀，后泛指锋利的刀剑）。～越同舟（喻过去的仇人由于当前利害一致而成为朋友）。\n(2)中国东汉末年三国之一～下阿蒙（喻原先学识粗浅的人）。\n(3)泛指中国江苏省南部和浙江省北部一带～语。～牛喘月（喻见到类似事物就胆怯害怕起来）。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吴"
+}

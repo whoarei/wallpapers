@@ -1,0 +1,16 @@
+{
+  "id": "poem-2eb78e73977cf89871a38f75",
+  "title": "酬郑进士九江新居见寄",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "蹑屐扣柴关，因成尽日闲。",
+    "独听黄鸟语，深似白云间。",
+    "萍沼宽于井，莎城绿当山。",
+    "前期招我作，此景得吟还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-36b816e2-7ec1-4d06-a3bb-fc8f1e1750a7"
+}

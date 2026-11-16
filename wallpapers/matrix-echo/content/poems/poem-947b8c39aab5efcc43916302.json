@@ -1,0 +1,16 @@
+{
+  "id": "poem-947b8c39aab5efcc43916302",
+  "title": "游仙窟诗 手中扇赠文成",
+  "author": "崔十娘",
+  "dynasty": "唐",
+  "verses": [
+    "合欢游璧水，同心侍华阙。",
+    "飒飒似朝风，团团如夜月。",
+    "鸾姿侵雾起，鹤影排空发。",
+    "希君掌中握，勿使恩情歇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-ceb5d266-e41d-4d9b-b49d-fe831ba96d8c"
+}

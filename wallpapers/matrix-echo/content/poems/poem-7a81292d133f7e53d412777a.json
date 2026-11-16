@@ -1,0 +1,16 @@
+{
+  "id": "poem-7a81292d133f7e53d412777a",
+  "title": "遥伤茅山县孙尊师三首 一",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "蝉蜕遗虚白，蜺飞入上清。",
+    "同人悲劒解，旧友觉衣轻。",
+    "黄鹄遥将举，斑麟俨未行。",
+    "惟应鲍靓室，中夜识琴声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-7fd2e15e-24c5-47bd-83a4-4e3fe7384ddd"
+}

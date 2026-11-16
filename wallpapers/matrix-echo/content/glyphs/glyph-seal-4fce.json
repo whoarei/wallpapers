@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fce",
+  "script": "seal",
+  "character": "俎",
+  "reading": "zǔ",
+  "description": "zǔ：(1)古代祭祀时放祭品的器物～豆（a.俎”和豆”，都是古代祭祀用的器具；b.祭祀，崇奉）。\n(2)切肉或切菜时垫在下面的砧板刀～（刀和砧板）。\n(3)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-俎"
+}

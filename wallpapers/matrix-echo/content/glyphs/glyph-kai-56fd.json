@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-56fd",
+  "script": "kai",
+  "character": "国",
+  "reading": "guó",
+  "description": "周代,天子统治的是天下”,略等于现在说的全国”\n⒈国家爱～。～营。建设祖～。\n①它是一个或一些阶级压迫另外的阶级的工具，是暴力的机器。主要由军队、警察、法庭、监狱等组成。\n②一个国家独有的占领区域。\n⒉属于本国的～旗。～徽。～产品。\n⒊地区北～风光。\n⒋京城，首都～门。～都。\n⒌〈古〉我国诸侯或王侯的封地楚～。齐～。秦～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-国"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-18f07859073070bd3463be91",
+  "title": "京兆府试目极千里",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "献赋多年客，低眉恨不前。",
+    "此心常郁矣，纵目忽超然。",
+    "送骥登长路，有鸿入远天。",
+    "古墟烟幂幂，穷野草绵绵。",
+    "树与金城接，山疑桂水连。",
+    "何当开霁日，无物翳平川。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3162fc3c-6966-4a74-a8dc-d7ff9f823bd5"
+}

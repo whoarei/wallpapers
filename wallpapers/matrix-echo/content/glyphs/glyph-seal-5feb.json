@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5feb",
+  "script": "seal",
+  "character": "快",
+  "reading": "kuài",
+  "description": "kuài：(1)速度大，与慢”相对～车。～件。～步。～速。～捷。～马加鞭。\n(2)赶紧，从速赶～。\n(3)将，就要；接近天～亮了。\n(4)灵敏他脑子真～。眼明手～。\n(5)锐利，锋利，与钝”相对王麻子刀剪真～。\n(6)爽利，直截了当爽～。心直口～。～人～语。\n(7)高兴舒服～乐。～意。痛～。愉～。～感。～事。～慰。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-快"
+}

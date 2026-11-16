@@ -1,0 +1,16 @@
+{
+  "id": "poem-b67fac08780d8cfecf297ba3",
+  "title": "曜日颂",
+  "author": "慧救",
+  "dynasty": "唐",
+  "verses": [
+    "见物明明绝见尘，闻声浩浩亦非因。",
+    "宗师真示无闻见，未晓徒劳见月新。",
+    "（《祖堂集》卷十一。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-66f848e0-016f-42b2-8f1c-5969864d287c"
+}

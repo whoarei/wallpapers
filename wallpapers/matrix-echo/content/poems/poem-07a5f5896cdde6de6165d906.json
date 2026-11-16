@@ -1,0 +1,14 @@
+{
+  "id": "poem-07a5f5896cdde6de6165d906",
+  "title": "过三闾庙",
+  "author": "戴叔伦",
+  "dynasty": "唐",
+  "verses": [
+    "沅湘流不尽，屈子怨何深！",
+    "日暮秋风起，萧萧枫树林。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-過三閭廟"
+}

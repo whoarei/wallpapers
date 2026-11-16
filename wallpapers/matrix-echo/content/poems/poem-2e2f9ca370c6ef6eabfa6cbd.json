@@ -1,0 +1,16 @@
+{
+  "id": "poem-2e2f9ca370c6ef6eabfa6cbd",
+  "title": "还家",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "为客忆归舍，归来还寂寥。",
+    "壮时看欲过，白首固非遥。",
+    "独酌几回醉，此愁终不销。",
+    "犹残鸡与犬，驱去住山椒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c167e959-59e2-47cd-bfa5-b7f9eed944b1"
+}

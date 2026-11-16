@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-83b9",
+  "script": "seal",
+  "character": "莹",
+  "reading": "yíng",
+  "description": "似玉的宝石\n光洁透明\n使明洁。使生光泽\n夫良玉未剖,与百石相类;名\n⒈像玉的石头如玉如～。\n⒉光洁，明亮，玉石的光彩晶～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-莹"
+}

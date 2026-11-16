@@ -1,0 +1,18 @@
+{
+  "id": "poem-e274d5bf119605f0647651f0",
+  "title": "行路难二首 二",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "君不见富家翁，旧时贫贱谁比数。",
+    "一朝金多结豪贵，万事胜人健如虎。",
+    "子孙成行满眼前，妻能管弦妾能舞。",
+    "自矜一身忽如此，却笑傍人独愁苦。",
+    "东邻少年安所如，席门穷巷出无车。",
+    "有才不肯学干谒，何用年年空读书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7b8079ae-910c-4680-883a-6f747712ce0d"
+}

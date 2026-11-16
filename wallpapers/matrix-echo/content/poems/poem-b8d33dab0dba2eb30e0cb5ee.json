@@ -1,0 +1,16 @@
+{
+  "id": "poem-b8d33dab0dba2eb30e0cb5ee",
+  "title": "李才翁懒窝  其七",
+  "author": "林宪",
+  "dynasty": "宋",
+  "verses": [
+    "月华浴沆瀣，天容注琉璃。",
+    "皎如大圆镜，照彻清境晖。",
+    "繁星歛芒曜，群动生霏微。",
+    "尘世宁有此，玉虚楼观低。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-fa218170-348c-4979-ae75-b15a0261b0cf"
+}

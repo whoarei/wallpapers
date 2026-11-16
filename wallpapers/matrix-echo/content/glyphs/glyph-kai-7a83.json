@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7a83",
+  "script": "kai",
+  "character": "窃",
+  "reading": "qiè",
+  "description": "篡夺。指非其有而取之;不当受而受之\n⒈偷，用不合法、不正当的手段取得偷～。盗～犯。～据。～国大盗。\n⒉暗中，偷偷地～听。～取。～探。\n⒊私自，私下，旧时谦称自己～谓。～以为不妥。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-窃"
+}

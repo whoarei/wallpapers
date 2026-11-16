@@ -1,0 +1,16 @@
+{
+  "id": "poem-dc74f4b8dc6d0062896fad22",
+  "title": "子云故居",
+  "author": "刘望之",
+  "dynasty": "宋",
+  "verses": [
+    "杀却王章爱孔光，举朝谁复说兴亡。",
+    "未能免俗歌新美，岂不怀归念楚狂。",
+    "斗酒只今犹寂寞，小池无旧已荒凉。",
+    "秋风细雨催人去，似恐徘徊费感伤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-fed94140-f78e-428e-8462-dc5c1f1e86a9"
+}

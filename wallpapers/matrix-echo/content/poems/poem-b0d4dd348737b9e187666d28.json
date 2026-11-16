@@ -1,0 +1,14 @@
+{
+  "id": "poem-b0d4dd348737b9e187666d28",
+  "title": "访袁拾遗不遇",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "洛阳访才子，江岭作流人。",
+    "闻说梅花早，何如此地春。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-訪袁拾遺不遇"
+}

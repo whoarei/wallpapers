@@ -1,0 +1,20 @@
+{
+  "id": "poem-45329788c847d9c5d61ae6b8",
+  "title": "宫词",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "十二楼中尽晓妆，望仙楼上望君王。",
+    "锁衔金兽连环冷，水滴铜龙昼漏长。",
+    "云髻罢梳还对镜，罗衣欲换更添香。",
+    "遥窥正殿帘开处，袍袴宫人扫御床。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "宫怨",
+    "七言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-f8d102c4-b25b-412f-afce-35db35c339d9"
+}

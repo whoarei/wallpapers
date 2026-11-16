@@ -1,0 +1,18 @@
+{
+  "id": "poem-43c2f67bbe86d0b3bf78caa0",
+  "title": "三字令·春欲尽",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "春欲尽，日迟迟，牡丹时。",
+    "罗幌卷，翠帘垂。",
+    "彩笺书，红粉泪，两心知。",
+    "人不在，燕空归，负佳期。",
+    "香烬落，枕函欹。",
+    "月分明，花淡薄，惹相思。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-47"
+}

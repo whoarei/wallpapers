@@ -1,0 +1,18 @@
+{
+  "id": "poem-0e782ec16cccdc09a2df50e1",
+  "title": "送赵西里官满归永嘉",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "宣城归到西湖寺，朋旧如沙散不收。",
+    "盟鹭又随西里远，惊猿空伴北山愁。",
+    "同途好友须题品，可意佳篇便献酬。",
+    "摘得甘花烦见寄，趁它大火未西流。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-d6d1868a-6dac-484d-9054-73d060cf385a"
+}

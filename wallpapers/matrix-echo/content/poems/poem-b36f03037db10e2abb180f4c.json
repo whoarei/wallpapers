@@ -1,0 +1,20 @@
+{
+  "id": "poem-b36f03037db10e2abb180f4c",
+  "title": "自商行谒复州卢使君虔",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "一身遶千山，远作行路人。",
+    "未遂东吴归，暂出西京尘。",
+    "仲宣荆州客，今余竟陵宾。",
+    "往迹虽不同，托意皆有因。",
+    "商岭莓苔滑，石坂上下频。",
+    "江汉沙泥洁，永日光景新。",
+    "独泪起残夜，孤吟望初晨。",
+    "驱驰竟何事，章句依深仁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-15007e5d-15e8-4ebb-9dc3-e35af867b9a3"
+}

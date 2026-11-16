@@ -1,0 +1,14 @@
+{
+  "id": "poem-ed9f699cda0d010f51865214",
+  "title": "正朝上左相张燕公",
+  "author": "杨重玄",
+  "dynasty": "唐",
+  "verses": [
+    "岁去愁终在，春还命不来。",
+    "长吁问丞相，东阁几时开。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-603c3920-60eb-470b-820b-b6488c18441e"
+}

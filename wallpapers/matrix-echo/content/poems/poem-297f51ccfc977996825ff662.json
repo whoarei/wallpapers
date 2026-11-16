@@ -1,0 +1,14 @@
+{
+  "id": "poem-297f51ccfc977996825ff662",
+  "title": "寄白司马",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "三条九陌花时节，万户千车看牡丹。",
+    "争遣江州白司马，五年风景忆长安。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e0405336-8492-4a9b-a4b0-81ea656a22a8"
+}

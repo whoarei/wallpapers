@@ -1,0 +1,20 @@
+{
+  "id": "poem-a752e3625d5017694c13045d",
+  "title": "胡无人行",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "男儿徇大义，立节不沽名。",
+    "腰间悬陆离，大歌胡无行。",
+    "不读战国书，不览黄石经。",
+    "醉卧咸阳楼，梦入受降城。",
+    "更愿生羽翼，飞身入青冥。",
+    "请携天子劒，斫下旄头星。",
+    "自然胡无人，虽有无战争。",
+    "悠哉典属国，驱羊老一生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-4a3e9cc5-e2a2-412d-a884-4c17d072c5a2"
+}

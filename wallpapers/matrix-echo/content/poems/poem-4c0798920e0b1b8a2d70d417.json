@@ -1,0 +1,13 @@
+{
+  "id": "poem-4c0798920e0b1b8a2d70d417",
+  "title": "失调名·教我甚情怀",
+  "author": "李清照",
+  "dynasty": "宋",
+  "verses": [
+    "教我甚情怀。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-719",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-679a",
+  "script": "seal",
+  "character": "枚",
+  "reading": "méi",
+  "description": "méi：(1)树干伐其条～。\n(2)古代行军时防止士卒喧哗的用具，状如箸，衔在口中又如赴敌之兵，衔～疾走，不闻号令，但闻人马之行声”。\n(3)马鞭以～数（shǔ）阖（用马鞭指点着数门扇）。\n(4)量词，相当于个”，多用于形体小的东西一～别针。不胜～举（一个一个地举不完）。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-枚"
+}

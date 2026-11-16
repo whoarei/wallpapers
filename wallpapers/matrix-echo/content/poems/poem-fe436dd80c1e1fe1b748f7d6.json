@@ -1,0 +1,16 @@
+{
+  "id": "poem-fe436dd80c1e1fe1b748f7d6",
+  "title": "秋日奉陪王丰甫许子大康平仲游贤沙宿凤池登升山偶成二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "飞来耸翠一峰孤，凤沼幽深若画图。",
+    "钓艇谢亡难复契，弹琴颖在且相娱。",
+    "心闲自与亲泉石，车穏何妨载酒壶。",
+    "万壑千岩争竞处，不须惆怅忆东吴。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-dadf40a6-0030-45eb-ac6c-5c91234ca369"
+}

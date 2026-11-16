@@ -1,0 +1,20 @@
+{
+  "id": "poem-59f99c42dab7727809fca1ac",
+  "title": "更漏子·鹊桥边",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "鹊桥边，牛渚上。",
+    "翠节红旌相向。",
+    "承玉露，御金风。",
+    "年年岁岁同。",
+    "懒飞梭，停弄杼。",
+    "遥想彩云深处。",
+    "人咫尺，事关山。",
+    "无聊独倚栏。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-762",
+  "tags": []
+}

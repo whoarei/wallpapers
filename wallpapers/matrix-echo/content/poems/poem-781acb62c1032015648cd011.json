@@ -1,0 +1,16 @@
+{
+  "id": "poem-781acb62c1032015648cd011",
+  "title": "苏氏别业",
+  "author": "祖咏",
+  "dynasty": "唐",
+  "verses": [
+    "别业居幽处，到来生隐心。",
+    "南山当户牖，澧水映园林。",
+    "竹覆经冬雪，庭昏未夕阴。",
+    "寥寥人境外，闲坐听春禽。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-蘇氏別業"
+}

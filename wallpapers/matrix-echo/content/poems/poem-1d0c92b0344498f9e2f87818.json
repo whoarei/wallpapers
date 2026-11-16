@@ -1,0 +1,15 @@
+{
+  "id": "poem-1d0c92b0344498f9e2f87818",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［丑］呆蠢丫头，出语污人耳。",
+    "恁推三阻四，话不投机。",
+    "豪家求汝效于飞，他有甚相亏？出言抵撞，你好没尊卑。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8087",
+  "tags": []
+}

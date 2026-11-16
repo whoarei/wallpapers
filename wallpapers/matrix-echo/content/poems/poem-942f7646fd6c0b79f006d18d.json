@@ -1,0 +1,16 @@
+{
+  "id": "poem-942f7646fd6c0b79f006d18d",
+  "title": "经费拾遗旧隐",
+  "author": "胡骈",
+  "dynasty": "唐",
+  "verses": [
+    "林下茅斋已半倾，九华幽迳少人行。",
+    "不将冠劒为荣事，只向烟萝寄此生。",
+    "松竹渐荒池上色，琴书徒立世间名。",
+    "白杨风起秋山暮，时复哀猨啼一声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-f5d28ce3-202c-4072-a26c-7d7100cae796"
+}

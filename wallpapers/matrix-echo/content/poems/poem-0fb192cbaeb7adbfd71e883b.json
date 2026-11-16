@@ -1,0 +1,16 @@
+{
+  "id": "poem-0fb192cbaeb7adbfd71e883b",
+  "title": "和左司元郎中秋居十首 二",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "有地唯栽竹，无池亦养鹅。",
+    "学书求墨迹，酿酒爱朝和。",
+    "古镜铭文浅，神方谜语多。",
+    "居贫闲自乐，豪客莫相过。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-551395d4-51fe-4705-b567-6374534816d2"
+}

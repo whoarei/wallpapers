@@ -1,0 +1,16 @@
+{
+  "id": "poem-00b481fafcbd05f7283fcf44",
+  "title": "送人归新罗",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "昨夜西风起，送君归故乡。",
+    "积愁穷地角，见日上扶桑。",
+    "蜃气生初霁，潮痕匝乱荒。",
+    "从兹头各白，魂梦一相望。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f8dc1637-e7f7-4982-9936-b45d4e44e459"
+}

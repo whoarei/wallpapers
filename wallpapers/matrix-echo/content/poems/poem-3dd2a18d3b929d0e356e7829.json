@@ -1,0 +1,16 @@
+{
+  "id": "poem-3dd2a18d3b929d0e356e7829",
+  "title": "万桂堂",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "佛国新开选佛场，蟾宫分桂十千章。",
+    "邦人种德家家熟，仙籍题名叶叶香。",
+    "地占清光一轮满，门传盛事五枝芳。",
+    "东堂万万高攀手，莫负君恩与义方。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-d92d31e2-9cf9-41c3-bcd2-3b26797084fd"
+}

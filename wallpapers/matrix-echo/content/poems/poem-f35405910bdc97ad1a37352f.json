@@ -1,0 +1,14 @@
+{
+  "id": "poem-f35405910bdc97ad1a37352f",
+  "title": "寄徐晦",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "鄠陂鱼美酒偏浓，不出琴斋见雪峰。",
+    "应胜昨来趋府日，簿书床上乱重重。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c4ff8d39-cbac-431a-aaac-f12a80f1f99c"
+}

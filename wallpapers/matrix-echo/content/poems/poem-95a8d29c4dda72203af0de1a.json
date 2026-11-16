@@ -1,0 +1,18 @@
+{
+  "id": "poem-95a8d29c4dda72203af0de1a",
+  "title": "吊元鲁山 一",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "[搏]鸷有余饱，鲁山长饥空。",
+    "豪人饫鲜肥，鲁山饭蒿蓬。",
+    "食名皆霸官，食力乃尧农。",
+    "君子耻新态，鲁山与古终。",
+    "天璞本平一，人巧生异同。",
+    "鲁山不自剖，全璞竟没躬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-cff79683-5f8c-4939-97cd-5f98fdcd8fb6"
+}

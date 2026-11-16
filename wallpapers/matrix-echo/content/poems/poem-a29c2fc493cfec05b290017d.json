@@ -1,0 +1,14 @@
+{
+  "id": "poem-a29c2fc493cfec05b290017d",
+  "title": "小游仙诗九十八首 七十",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "东皇长女没多年，从洗金芝到水边。",
+    "无事伴他棋一局，等闲输却卖花钱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-238ab7ce-a409-4223-8dc4-171cdf1caa9d"
+}

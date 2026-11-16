@@ -1,0 +1,14 @@
+{
+  "id": "poem-bf31f4b5538ae44402725c55",
+  "title": "晚过吴伯承留饮",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "推门野路竹毵毵，落日天寒相对谈。",
+    "可是主人风韵别，自斟白酒擘黄柑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-750276ac-b649-447b-b70a-286d30e7be02"
+}

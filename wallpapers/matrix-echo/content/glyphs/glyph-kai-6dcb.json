@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6dcb",
+  "script": "kai",
+  "character": "淋",
+  "reading": "lín；lìn",
+  "description": "lín：浇～浴。～湿。日晒雨～。\n〔～漓〕ａ．沾湿或流滴，如大汗～～”；ｂ．畅快，如～～尽致。”\nlìn：(1)过滤过～。\n(2)一种性病，病原体是淋病球菌。病人尿道红肿溃烂，尿有浓血。通称淋病”；亦称白浊”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淋"
+}

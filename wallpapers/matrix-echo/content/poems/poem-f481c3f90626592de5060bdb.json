@@ -1,0 +1,16 @@
+{
+  "id": "poem-f481c3f90626592de5060bdb",
+  "title": "春早选寓长安二首 一",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "疎拙自沈昏，长安岂是村。",
+    "春非闲客事，花在五侯门。",
+    "道僻惟忧祸，诗深不敢论。",
+    "扬雄若有荐，君圣合承恩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-88877dbb-3e4d-40a8-8626-3a13951718c0"
+}

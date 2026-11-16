@@ -1,0 +1,16 @@
+{
+  "id": "poem-d44653a7d9ea6ae427f4ec00",
+  "title": "朱砂石",
+  "author": "缪岛云",
+  "dynasty": "唐",
+  "verses": [
+    "寒岩万丈陟崔嵬，只恐朱砂势便颓。",
+    "采蘩客闻雷擘去，卧云僧见鸟衔来。",
+    "丹霞迥烁嵌空片，红日斜分突兀堆。",
+    "傥得神僊惠纤粟，便能轻举向瑶台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-f66e71ab-1ac5-4b7a-bd8b-6aead6cc415e"
+}

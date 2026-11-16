@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-50cf",
+  "script": "seal",
+  "character": "像",
+  "reading": "xiàng",
+  "description": "xiàng：(1)相似好～。相（xiāng）～。～生（ａ．仿天然产物制成的工艺品；ｂ．中国宋、元两代以说唱为业的女艺人）。\n(2)比照人物做成的图形画～。塑～。雕～。绣～。肖～。\n(3)比如，比方～这样的事是值得注意的。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-像"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7816",
+  "script": "kai",
+  "character": "砖",
+  "reading": "zhuān",
+  "description": "像砖的东西\n⒈用土坯烧制的一种建筑材料瓷～。不用～块建房。\n⒉形状像砖的茶～。金～。冰～。\n砖tuán 1.揉捏，堆聚。\n砖chuán 1.陶制的纺锤。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-砖"
+}

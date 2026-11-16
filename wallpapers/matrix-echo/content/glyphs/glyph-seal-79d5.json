@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-79d5",
+  "script": "seal",
+  "character": "秕",
+  "reading": "bǐ",
+  "description": "bǐ：(1)子实不饱满～子（不饱满的子实）。～糠（秕子和糠，喻没有价值的东西）。\n(2)坏，不良～政（不良的政治措施）。\n(3)古同纰”，纰谬。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-秕"
+}

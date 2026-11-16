@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62fc",
+  "script": "kai",
+  "character": "拼",
+  "reading": "pīn",
+  "description": "pīn：(1)连合，凑合～凑。～音。～接。～写。七～八凑。\n(2)不顾一切地奋斗，豁出去～力。～刺。～搏。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拼"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5cfb",
+  "script": "kai",
+  "character": "峻",
+  "reading": "jùn",
+  "description": "jùn：(1)山高而陡高～。险～。～峭。～拔。\n(2)高大～德。～节。\n(3)严厉苛刻～刻。～厉。严～。严刑～法。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-峻"
+}

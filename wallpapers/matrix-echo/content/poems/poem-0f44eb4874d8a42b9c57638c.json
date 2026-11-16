@@ -1,0 +1,14 @@
+{
+  "id": "poem-0f44eb4874d8a42b9c57638c",
+  "title": "江城子·晚日金陵岸草平",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "晚日金陵岸草平，落霞明，水无情，六代繁华，暗逐逝波声。",
+    "空有姑苏台上月，如西子镜照江城。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-11"
+}

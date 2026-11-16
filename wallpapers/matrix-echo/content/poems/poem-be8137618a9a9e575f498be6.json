@@ -1,0 +1,18 @@
+{
+  "id": "poem-be8137618a9a9e575f498be6",
+  "title": "过贾浪仙旧地",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "鹤外唐来有谪星，长江东注冷沧溟。",
+    "境搜松雪仙人岛，吟歇林泉主簿厅。",
+    "片月已能临榜黑，遥天何益抱坟青。",
+    "年年谁不登高第，未胜骑驴入画屏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-196eb93d-e3f5-4537-8efd-da5f8f6b03a1"
+}

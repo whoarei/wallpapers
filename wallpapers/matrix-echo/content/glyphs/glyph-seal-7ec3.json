@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ec3",
+  "script": "seal",
+  "character": "练",
+  "reading": "liàn",
+  "description": "练习;操演\n漂洗;洗涤\n⒈白色的熟绢江平如～。\n⒉把丝麻或织品煮得柔软而洁白。\n⒋反复学习，再三操作～习。～基本功。～技术。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-练"
+}

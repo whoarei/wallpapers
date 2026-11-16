@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5429",
+  "script": "kai",
+  "character": "吩",
+  "reading": "fēn",
+  "description": "fēn：〔～咐〕ａ．嘱咐；ｂ．口头指派或命令。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吩"
+}

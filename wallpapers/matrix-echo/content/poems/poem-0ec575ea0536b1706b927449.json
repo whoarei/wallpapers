@@ -1,0 +1,14 @@
+{
+  "id": "poem-0ec575ea0536b1706b927449",
+  "title": "雨中远望",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "山匝浓云水匝天，秋容黯淡荻花边。",
+    "潇湘八景谁收去，留下波心小钓船。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-4712cb7a-fecd-4b4a-a1a7-cb8e6376c1f8"
+}

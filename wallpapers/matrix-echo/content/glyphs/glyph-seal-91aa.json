@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-91aa",
+  "script": "seal",
+  "character": "醪",
+  "reading": "láo",
+  "description": "láo：(1)浊酒。\n(2)醇酒。\n〔～糟儿（zāor）〕江米酒。\n〔～醴〕中药剂型之一，即药酒。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-醪"
+}

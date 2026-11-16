@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6773",
+  "script": "seal",
+  "character": "杳",
+  "reading": "yǎo",
+  "description": "yǎo：(1)无影无声～无音信。～然无声。～如黄鹤（喻人或物全无踪影）。\n(2)幽暗，深广～渺。～冥。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杳"
+}

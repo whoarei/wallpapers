@@ -1,0 +1,15 @@
+{
+  "id": "poem-38b0c1ec43bcc12cf7c0a275",
+  "title": "扶南曲歌词五首 三",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "香气传空满，妆华影箔通。",
+    "歌闻天仗外，舞出御楼中。",
+    "日暮归何处，花间长乐宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-628b0aeb-ace3-4f3b-b9af-419d426f3e3f"
+}

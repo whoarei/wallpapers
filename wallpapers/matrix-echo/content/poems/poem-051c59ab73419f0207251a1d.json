@@ -1,0 +1,22 @@
+{
+  "id": "poem-051c59ab73419f0207251a1d",
+  "title": "猛虎行",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "长戈莫舂，长弩莫抨。",
+    "乳孙哺子，教得生狞。",
+    "举头为城，掉尾为旌。",
+    "东海黄公，愁见夜行。",
+    "道逢驺虞，牛哀不平。",
+    "何用尺刀，壁上雷鸣。",
+    "泰山之下，妇人哭声。",
+    "官家有程，吏不敢听。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "泰山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0422e408-0484-40d0-b826-da8e2c947490"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-eae20573fdef4854d4a59115",
+  "title": "闻叶蒙及第",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "忆昨送君诗，平人不用疑。",
+    "吾徒若不得，天道即应私。",
+    "尘土茫茫晓，麟龙草草骑。",
+    "相思不可见，又是落花时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-a5400d94-a37f-4b08-9198-37ba84d6bb2c"
+}

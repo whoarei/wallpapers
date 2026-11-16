@@ -1,0 +1,17 @@
+{
+  "id": "poem-1822583acfdc1b0e8e5b8c13",
+  "title": "浣溪沙·新妇滩头眉黛愁",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "新妇滩头眉黛愁。",
+    "女儿浦口眼波秋。",
+    "惊鱼错认月沈钩。",
+    "青箬笠前无限事，绿蓑衣底一时休。",
+    "斜风吹雨转船头。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-730",
+  "tags": []
+}

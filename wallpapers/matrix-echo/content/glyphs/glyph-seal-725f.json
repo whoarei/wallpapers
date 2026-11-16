@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-725f",
+  "script": "seal",
+  "character": "牟",
+  "reading": "móu；mù",
+  "description": "móu：(1)取，谋求～利。\n(2)牛叫声～然而鸣”。\n(3)古同眸”，瞳人。\n(4)古同侔”，等同。\n(5)姓。\nmù：〔～平〕地名，在中国山东省。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-牟"
+}

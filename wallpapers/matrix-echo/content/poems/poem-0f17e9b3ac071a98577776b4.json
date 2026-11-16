@@ -1,0 +1,16 @@
+{
+  "id": "poem-0f17e9b3ac071a98577776b4",
+  "title": "昔昔盐二十首 那能惜马蹄",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "云中路杳杳，江畔草凄凄。",
+    "妾久垂珠泪，君何惜马蹄。",
+    "边风悲晓角，营月怨春鼙。",
+    "未道休征战，愁眉又复低。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e2bbe4d4-f485-4424-be34-83249854b040"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6f53e30372d7d171399ad58e",
+  "title": "跋王介甫游钟山图",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "林影溪光静自如，萧疎短鬓独骑馿。",
+    "可能胸次都无事，拟向山中更著书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-32a792ef-452b-4ad9-b969-b8d9d72f3e5f"
+}

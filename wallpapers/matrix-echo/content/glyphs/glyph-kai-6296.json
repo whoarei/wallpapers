@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6296",
+  "script": "kai",
+  "character": "抖",
+  "reading": "dǒu",
+  "description": "dǒu：(1)振动，甩动～去身上的土。\n(2)哆嗦，战栗发～。颤～。\n(3)称人突然发迹而有钱有势（多含讥讽意）这两年～起来了。\n〔～擞〕振作，振奋，如～～精神”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抖"
+}

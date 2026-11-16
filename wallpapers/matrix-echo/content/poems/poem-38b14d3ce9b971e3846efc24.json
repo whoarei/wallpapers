@@ -1,0 +1,14 @@
+{
+  "id": "poem-38b14d3ce9b971e3846efc24",
+  "title": "偈颂 五",
+  "author": "文偃",
+  "dynasty": "唐",
+  "verses": [
+    "太阳溢目极玄微，谁人说道我渠非。",
+    "句中有路人皆响，觌面难遭第一机。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-e41b953d-8de2-4a55-9c96-e37181c9a53b"
+}

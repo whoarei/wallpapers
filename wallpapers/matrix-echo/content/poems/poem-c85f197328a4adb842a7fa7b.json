@@ -1,0 +1,19 @@
+{
+  "id": "poem-c85f197328a4adb842a7fa7b",
+  "title": "点绛唇·露下风高",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "露下风高，井梧宫簟生秋意。",
+    "画堂筵启。",
+    "一曲呈珠缀。",
+    "天外行云，欲去凝香袂。",
+    "炉烟起。",
+    "断肠声里。",
+    "敛尽双蛾翠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-451",
+  "tags": []
+}

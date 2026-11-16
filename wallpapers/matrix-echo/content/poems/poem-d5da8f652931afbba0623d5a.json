@@ -1,0 +1,17 @@
+{
+  "id": "poem-d5da8f652931afbba0623d5a",
+  "title": "偶作五首 四",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "君子食即食，何必在珍华。",
+    "小人食不食，纵食如泥沙。",
+    "清歌且莫唱，妙舞亦休夸。",
+    "尔非凤灸麒麟肉，焉能一挂于齿牙。",
+    "去来去来归去来，红泉正洒芙蓉霞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-cf83f240-214a-4762-8364-fc752ecd5798"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-7bcc57f1a37ecb7d125bf43c",
+  "title": "晚秋",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "世变无穷客恨长，栏干遍倚怕斜阳。",
+    "满篱黄菊无心看，付与游蜂自在忙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-5e4eb46f-54c3-4932-9d4b-f5b072e3a030"
+}

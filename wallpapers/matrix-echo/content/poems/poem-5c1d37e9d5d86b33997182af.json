@@ -1,0 +1,14 @@
+{
+  "id": "poem-5c1d37e9d5d86b33997182af",
+  "title": "题山桥十首  其一",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "轧轧飞车入翠微，人于妙处未深知。",
+    "自从标榜新拈掇，碎却山桥一段奇。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-bb697a9f-6d97-45bd-835e-3387ee0f0a1a"
+}

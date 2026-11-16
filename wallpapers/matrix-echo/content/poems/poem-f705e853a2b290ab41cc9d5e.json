@@ -1,0 +1,14 @@
+{
+  "id": "poem-f705e853a2b290ab41cc9d5e",
+  "title": "颂 二",
+  "author": "绍修",
+  "dynasty": "唐",
+  "verses": [
+    "欲识解脱道，诸法不相到。",
+    "眼耳绝见闻，声色闹浩浩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-80aada41-9d65-4e3f-83fb-a20da48489e1"
+}

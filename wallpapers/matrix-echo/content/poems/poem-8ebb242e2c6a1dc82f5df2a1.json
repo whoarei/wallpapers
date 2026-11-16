@@ -1,0 +1,16 @@
+{
+  "id": "poem-8ebb242e2c6a1dc82f5df2a1",
+  "title": "偈颂（幷序○序为南岳齐己撰） 八十三",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "唯念深秋扇，临冬转就闲。",
+    "银装将物裹，篾作插簷间。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-0f20c6c0-aa7c-4c6c-ad56-192840db3306"
+}

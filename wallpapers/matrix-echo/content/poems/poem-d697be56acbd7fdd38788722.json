@@ -1,0 +1,16 @@
+{
+  "id": "poem-d697be56acbd7fdd38788722",
+  "title": "前腔",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(末)听说事因，贤达院君常劝戒官人不听。",
+    "(小生)守清贫，且安分。",
+    "去谒高门求口食，路上哀告人。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1796",
+  "tags": []
+}

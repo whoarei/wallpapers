@@ -1,0 +1,16 @@
+{
+  "id": "poem-ffcaadf8ac5434c5dd9a520b",
+  "title": "和主司王起",
+  "author": "李潜",
+  "dynasty": "唐",
+  "verses": [
+    "文学宗师心秤平，无私三用佐贞明。",
+    "恩波旧是仙舟客，德宇新添月桂名。",
+    "兰署崇资金色重，莲峰高唱玉音清。",
+    "羽毛方荷生成力，难继鸾皇上汉声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-765c2296-3b94-4f60-ac6d-b6d55064e36a"
+}

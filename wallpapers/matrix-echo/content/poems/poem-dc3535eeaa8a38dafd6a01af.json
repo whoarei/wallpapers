@@ -1,0 +1,14 @@
+{
+  "id": "poem-dc3535eeaa8a38dafd6a01af",
+  "title": "咏史诗 渑池",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "日照荒城芳草新，相如曾此挫强秦。",
+    "能令百二山河主，便作樽前击缶人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-b7c039e6-77cd-4db3-b27f-4e32c830b822"
+}

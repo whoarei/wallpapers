@@ -1,0 +1,14 @@
+{
+  "id": "poem-121c6746dd642b0c27349eff",
+  "title": "颂古七十六首  其六一",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "二乘菩萨何言尽，诸佛凡夫早晚休。",
+    "世事但将公道断，人心难似水长流。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-65021256-ae3d-4c92-8799-f194f72f8d5e"
+}

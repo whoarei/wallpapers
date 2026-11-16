@@ -1,0 +1,16 @@
+{
+  "id": "poem-525c624754c3796f52cc51c8",
+  "title": "南吕/一枝花",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "大宛国天产才，渥洼水龙媒种。",
+    "带轻云一块雪，走落日四蹄风。",
+    "长尾银鬃，驮双将无嫌重，出群驽立大功。",
+    "胜普贤白象身高，赛师利青狮性勇！。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-10114",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ee4cc14d5aeb68033e1f042e",
+  "title": "文献太子挽歌辞五首  其一",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "国有承祧重，人知秉哲尊。",
+    "清风来望苑，遗烈在东藩。",
+    "此日升缑岭，何因到寝门。",
+    "天高不可问，烟霭共昏昏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-fce875ba-50c2-4b80-b04a-3d77c0b1e411"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7b61036a658b77c7df8e6845",
+  "title": "哭张文翁同舍  其一",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "岂意渴相如，俄为化子舆。",
+    "平生一杯酒，活计百篇书。",
+    "同舍遂欲尽，吾生不愿余。",
+    "如今念夫子，痛饮未全疏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-356db575-8301-441d-a22d-fe4dc4c62e3b"
+}

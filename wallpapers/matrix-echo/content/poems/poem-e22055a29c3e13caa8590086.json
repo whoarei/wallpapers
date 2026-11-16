@@ -1,0 +1,20 @@
+{
+  "id": "poem-e22055a29c3e13caa8590086",
+  "title": "虞美人·军书未息梅仍破",
+  "author": "苏庠",
+  "dynasty": "宋",
+  "verses": [
+    "军书未息梅仍破。",
+    "穿市溪流过。",
+    "病来无处不关情。",
+    "一夜鸣榔急雨、杂滩声。",
+    "飘零无复还山梦。",
+    "云屋春寒重。",
+    "山连积水水连空。",
+    "溪上青蒲短短、柳重重。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-677",
+  "tags": []
+}

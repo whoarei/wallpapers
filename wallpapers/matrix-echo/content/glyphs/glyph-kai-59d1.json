@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-59d1",
+  "script": "kai",
+  "character": "姑",
+  "reading": "gū",
+  "description": "gū：(1)称父亲的姐妹～～。～父。～表（一家的父亲和另一家的母亲是兄妹或姐弟的亲戚关系，如～～兄弟”）。\n(2)丈夫的姊妹小～子。～嫂。\n(3)旧时妻称夫的母亲翁～。舅～。\n(4)少女，亦作妇女的通称～娘（a.未婚少女，娘”读轻声；b.姑母）。道～。尼～。\n(5)暂且，苟且～且。～息。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-姑"
+}

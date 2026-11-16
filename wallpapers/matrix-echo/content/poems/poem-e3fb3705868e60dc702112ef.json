@@ -1,0 +1,14 @@
+{
+  "id": "poem-e3fb3705868e60dc702112ef",
+  "title": "马诗二十三首 二十",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "重围如燕尾，宝剑似鱼肠。",
+    "欲求千里脚，先采眼中光。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-d7062712-dbd0-414b-a528-36496930d3e1"
+}

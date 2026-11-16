@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8ddd",
+  "script": "seal",
+  "character": "距",
+  "reading": "jù；jv",
+  "description": "jù：(1)相隔的空间和时间相～数里。～离。行（háng）～。株～。差（chā）～。\n(2)雄鸡爪子后面突出像脚趾的部分。\n(3)古同拒”，抵抗。\n(4)古同巨”，大。\n(5)古同讵”，岂。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-距"
+}

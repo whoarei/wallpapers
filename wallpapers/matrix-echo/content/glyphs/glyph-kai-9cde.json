@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9cde",
+  "script": "kai",
+  "character": "鳞",
+  "reading": "lín",
+  "description": "鳞片状物\n动物学名词。为被覆在动物体表的硬质小形薄片,是一种多样性的\n⒈鱼类、爬行动物和少数哺乳动物等体表上的角质或骨质的小薄片鱼～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鳞"
+}

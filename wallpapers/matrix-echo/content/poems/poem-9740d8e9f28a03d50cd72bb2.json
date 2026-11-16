@@ -1,0 +1,14 @@
+{
+  "id": "poem-9740d8e9f28a03d50cd72bb2",
+  "title": "明堂观礼杂咏十三首 和宁门观驾",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "星斗中天夜向晨，寸云不点月华明。",
+    "六飞过尽灯如昼，宫漏迟迟报五更。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-32c2caa6-5c43-4ba1-8d16-1b092b26a1c6"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-a21effa05c1566e3880a7a71",
+  "title": "和同年徐清溪韵",
+  "author": "柴元彪",
+  "dynasty": "宋",
+  "verses": [
+    "深隠柯云第几峰，一庭春草绿丛丛。",
+    "西风白发催人老，少日青袍与子同。",
+    "买犊只因耕荦确，拂龟何必问穷通。",
+    "蔗浆一洗相如渴，頼有新诗送远鸿。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-c7dcad05-4a36-4fbc-93f0-541a256f3039"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8297",
+  "script": "seal",
+  "character": "芗",
+  "reading": "xiāng",
+  "description": "谷香\n用以调味的香草\n⒈气味好闻，味道鲜美，跟\"臭\"相对～气。～花。稻谷～。饭菜～。\n⒉指有香味的东西～水。檀～。洗发～波。\n⒊舒适，受欢迎睡得可～。这批货上市～得很。\n⒋〈古〉指一种香草，可用于调味。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芗"
+}

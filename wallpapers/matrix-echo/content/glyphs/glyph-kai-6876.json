@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6876",
+  "script": "kai",
+  "character": "桶",
+  "reading": "tǒng",
+  "description": "tǒng：(1)盛水或其他东西的器具，深度较大，用金属、木材或塑料等制成水～。饭～。马～。塑料～。\n(2)形状像桶的皮～（做皮衣用的成件的毛皮）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-桶"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-56ca986a6ef78a58a625ad5b",
+  "title": "南乡子·兰棹举",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "兰棹举，水纹开，竞携藤笼采莲来。",
+    "回塘深处遥相见，邀同宴，绿酒一卮红上面。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-26"
+}

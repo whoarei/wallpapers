@@ -1,0 +1,16 @@
+{
+  "id": "poem-6ffde0953963f723b9a75d67",
+  "title": "坐黄冈广福禅房",
+  "author": "郭昂",
+  "dynasty": "宋",
+  "verses": [
+    "爱此禅栖静，清凉境自偏。",
+    "诧人拳怪树，留客笑幽莲。",
+    "草暖蛙喧夏，林昏鸟梦烟。",
+    "风尘吾未免，兀坐愧安禅。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-838829a5-a0b3-4191-9f81-64f9f79cebd1"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-1894676ff41432e6929ccba8",
+  "title": "长庆春",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "山头水色薄笼烟，久客新愁长庆年。",
+    "身上五劳仍病酒，夭桃窗下背花眠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-37e22d3d-2784-4bc4-bcc9-6984dc6f668b"
+}

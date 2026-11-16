@@ -1,0 +1,16 @@
+{
+  "id": "poem-bf398e9d0b7808a91027e9e9",
+  "title": "少年游·去年同醉",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "去年同醉，酴醿花下，健笔赋新词。",
+    "今年君去，酴醿欲破，谁与醉为期。",
+    "旧曲重歌倾别酒，风露泣花枝。",
+    "章水能长湘水远，流不尽、两相思。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-116",
+  "tags": []
+}

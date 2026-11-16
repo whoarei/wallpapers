@@ -1,0 +1,14 @@
+{
+  "id": "poem-992ea83195c2bc55285910e4",
+  "title": "白纻辞二首 一",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "洛阳梨花落如霰，河阳桃叶生复齐。",
+    "坐惜玉楼春欲尽，红绵粉絮裛妆啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-78a84f2a-d55a-4449-8d62-65f0affd23ec"
+}

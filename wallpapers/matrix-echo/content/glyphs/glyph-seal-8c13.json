@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c13",
+  "script": "seal",
+  "character": "谓",
+  "reading": "wèi",
+  "description": "谓唐雎曰。\n不可谓仁。\n不可谓忠。\n不可谓知类。\n评论\n⒈说，告诉可～。愚公～智叟曰。\n⒉叫做，称为，因为～之。称～∥～？\n⒋意义无～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谓"
+}

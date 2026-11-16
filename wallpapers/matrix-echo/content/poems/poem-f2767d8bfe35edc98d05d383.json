@@ -1,0 +1,16 @@
+{
+  "id": "poem-f2767d8bfe35edc98d05d383",
+  "title": "下山虎",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "有一个醉汉倒在街坊，大雪纷纷下，看着惨伤。",
+    "我好意教你开门早商量，笼些火焰，教他吃口滚汤。",
+    "救人一命活，胜造七级浮屠福寿昌。",
+    "你若不开门，后倘或死亡，带累邻家遭祸殃。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1764",
+  "tags": []
+}

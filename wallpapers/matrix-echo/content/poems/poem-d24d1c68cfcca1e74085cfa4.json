@@ -1,0 +1,22 @@
+{
+  "id": "poem-d24d1c68cfcca1e74085cfa4",
+  "title": "梦李白二首 一",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "死别已吞声，生别常恻恻。",
+    "江南瘴疠地，逐客无消息。",
+    "故人入我梦，明我长相忆。",
+    "恐非平生魂，路远不可测。",
+    "魂来枫叶青，魂返关塞黑。",
+    "君今在罗网，何以有羽翼。",
+    "落月满屋梁，犹疑照颜色。",
+    "水深波浪阔，无使蛟龙得。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c9362aba-fb50-481b-a4cd-08ddd65cdd2a"
+}

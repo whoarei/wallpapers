@@ -1,0 +1,14 @@
+{
+  "id": "poem-19bf0886dcd29f28570deb4c",
+  "title": "后苦寒行二首 一",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "南纪巫庐瘴不绝，太古以来无尺雪。",
+    "蛮夷长老怨苦寒，昆仑天关冻应折。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-edfab8d8-0b21-4198-b103-275f0433a339"
+}

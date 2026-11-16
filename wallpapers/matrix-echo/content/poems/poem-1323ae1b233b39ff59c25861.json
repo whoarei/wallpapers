@@ -1,0 +1,16 @@
+{
+  "id": "poem-1323ae1b233b39ff59c25861",
+  "title": "望远行·春日迟迟思寂寥",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "春日迟迟思寂寥，行客关山路遥。",
+    "琼窗时听语莺娇，柳丝牵恨一条条。",
+    "休晕绣，罢吹萧，貌逐残花暗凋。",
+    "同心犹结旧裙腰，忍辜风月度良宵。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-41"
+}

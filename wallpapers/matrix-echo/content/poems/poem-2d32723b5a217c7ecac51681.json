@@ -1,0 +1,16 @@
+{
+  "id": "poem-2d32723b5a217c7ecac51681",
+  "title": "送客往湘江",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "识君年已老，孤棹向潇湘。",
+    "素发临高镜，清晨入远乡。",
+    "三山分夏口，五两映涔阳。",
+    "更逐巴东客，南行泪几行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-c04af040-9b5f-4954-8080-fc0e5a7feb80"
+}

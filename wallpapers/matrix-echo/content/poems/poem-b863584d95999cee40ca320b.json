@@ -1,0 +1,16 @@
+{
+  "id": "poem-b863584d95999cee40ca320b",
+  "title": "宿云际寺赠深上人",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "暂别青蓝寺，今来发欲斑。",
+    "独眠孤烛下，风雨在前山。",
+    "坏宅终须去，空门不易还。",
+    "支公有方便，一愿启玄关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-c90872e4-378a-48f6-b5dd-3ddf44f4af01"
+}

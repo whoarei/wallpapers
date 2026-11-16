@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-507f",
+  "script": "seal",
+  "character": "偿",
+  "reading": "cháng",
+  "description": "报答;酬报\n补偿,抵偿\n满足,实现\n酬报\n①归还；低偿血债要用血来～。\n②满足如愿以～。\n【偿命】用生命偿还杀人～。\n⒈归还，赔给～还。～债。赔～。\n⒉抵当，抵补抵～。补～。得不～失。\n⒊回报，回答不可～也。\n⒋满足，实现如愿以～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-偿"
+}

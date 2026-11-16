@@ -1,0 +1,15 @@
+{
+  "id": "poem-2afaf8c03a9ff3a5d4380fcf",
+  "title": "望江南·多少泪",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "多少泪，断脸复横颐。",
+    "心事莫将和泪说，凤笙休向泪时吹。",
+    "肠断更无疑。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-9"
+}

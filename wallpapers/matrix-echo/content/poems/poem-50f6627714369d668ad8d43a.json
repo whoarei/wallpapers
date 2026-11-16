@@ -1,0 +1,14 @@
+{
+  "id": "poem-50f6627714369d668ad8d43a",
+  "title": "山有扶苏",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "山有扶苏，隰有荷华。不见子都，乃见狂且。",
+    "山有乔松，隰有游龙，不见子充，乃见狡童。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-83"
+}

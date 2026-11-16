@@ -1,0 +1,16 @@
+{
+  "id": "poem-774722d85cfa5528c7c58f13",
+  "title": "郊庙歌辞 享太庙乐章 严和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "肃肃清庙，赫赫玄猷。",
+    "功高万古，化奄十洲。",
+    "中兴丕业，上荷天休。",
+    "祗奉先构，礼备怀柔。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-7da09dfe-a023-474e-a933-14a6cf6ed39c"
+}

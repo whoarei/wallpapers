@@ -1,0 +1,18 @@
+{
+  "id": "poem-3098ba7bda45e4539e1ae904",
+  "title": "送杨郎中唐员外奉使湖南",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "江边微雨柳条新，握节含香二使臣。",
+    "两绶对悬云梦日，方舟齐泛洞庭春。",
+    "今朝草木逢新律，昨日山川满战尘。",
+    "同是多情怀古客，不妨为赋吊灵均。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-9e056811-da44-4da5-b91e-510979a88da3"
+}

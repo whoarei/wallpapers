@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-78a3",
+  "script": "seal",
+  "character": "碣",
+  "reading": "jié；yà",
+  "description": "jié：圆顶的石碑残碑断～。墓～。\nyà：〔～磍（xiá）〕猛兽盛怒的样子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-碣"
+}

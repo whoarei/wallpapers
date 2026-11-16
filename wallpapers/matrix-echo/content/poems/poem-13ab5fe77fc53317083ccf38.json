@@ -1,0 +1,16 @@
+{
+  "id": "poem-13ab5fe77fc53317083ccf38",
+  "title": "怀王龟龄",
+  "author": "姜大吕",
+  "dynasty": "宋",
+  "verses": [
+    "左原消息杳无闻，令我愁怀似乱云。",
+    "多病废诗兼废酒，青春孤我亦孤君。",
+    "要同学问文章乐，无奈东西南北分。",
+    "况是一簷残雨后，落花飞絮两纷纷。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-3d911d44-d459-4199-b395-6ffffb52fccf"
+}

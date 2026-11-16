@@ -1,0 +1,13 @@
+{
+  "id": "poem-61ce4de9c1338573198676b2",
+  "title": "思文",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "思文后稷，克配彼天。立我烝民，莫菲尔极。贻我来牟，帝命率育，无此疆尔界。陈常于时夏。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-274"
+}

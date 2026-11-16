@@ -1,0 +1,14 @@
+{
+  "id": "poem-4d42a0710afd48c615244a1c",
+  "title": "赵飞燕姊妹",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "甲帐初停燕子飞，小雏相趁共差池。",
+    "春风吹水粼粼长，又有披香博士知。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-2ffd037f-71c9-42d5-8403-f52915fffe6d"
+}

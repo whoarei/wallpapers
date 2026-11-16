@@ -1,0 +1,16 @@
+{
+  "id": "poem-e459b8ca6e77c43515deba68",
+  "title": "容南道中二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "路入容南境，风烟自一方。",
+    "山空云苒苒，春动水茫茫。",
+    "紫府丹砂秘，幽村碧树芳。",
+    "肃然有佳致，作个是炎荒。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-9ea5d033-cb8d-45c5-ac0f-e2354538604e"
+}

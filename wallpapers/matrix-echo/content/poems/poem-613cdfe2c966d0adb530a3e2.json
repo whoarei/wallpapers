@@ -1,0 +1,16 @@
+{
+  "id": "poem-613cdfe2c966d0adb530a3e2",
+  "title": "玉树曲",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "翠袖薄，霞裾飘，盈盈不动金步摇。",
+    "步摇金扶翠翘玉，只知今夕欢难足，不知明日欢难续。",
+    "瑶姬自是能吟女，璧合知还旧躔度。",
+    "古菱花试小龙文，双鸾舞处亭亭分。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-1c1687b8-8e59-41a2-bc53-b87f36c2b192"
+}

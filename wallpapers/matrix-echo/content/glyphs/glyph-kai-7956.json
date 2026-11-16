@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7956",
+  "script": "kai",
+  "character": "祖",
+  "reading": "zǔ",
+  "description": "zǔ：(1)父亲的上一辈～父。～考。～母。～妣。\n(2)称与祖父同辈的人外～父。外～母。\n(3)先代～宗。～业。～制。～祭。～国。\n(4)初，开始鼻～。\n(5)某种事业或派别的创始人～师。\n(6)出行时祭路神，引申为送行五月金陵西，～余白下亭”。～饯。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-祖"
+}

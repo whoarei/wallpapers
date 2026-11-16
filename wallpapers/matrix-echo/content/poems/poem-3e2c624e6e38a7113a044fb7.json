@@ -1,0 +1,16 @@
+{
+  "id": "poem-3e2c624e6e38a7113a044fb7",
+  "title": "唐大飨拜洛乐章 昭和",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "九玄眷命，三圣基隆。",
+    "奉成先旨，明台毕功。",
+    "宗祀展敬，冀表深衷。",
+    "永昌帝业，式播淳风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-b838cc4b-fb09-4800-8a2b-e2de4ed1441a"
+}

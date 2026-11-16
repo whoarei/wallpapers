@@ -1,0 +1,15 @@
+{
+  "id": "poem-93ba44159fb65992fbe1c275",
+  "title": "缕缕金",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "时不利，命何乖！双亲在途路上，怕他灾。",
+    "(末丑唱)此是弥陀寺，略停车盖。",
+    "(合)办虔心恳祷拜莲台，特来赴佛会。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5199",
+  "tags": []
+}

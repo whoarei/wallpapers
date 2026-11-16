@@ -1,0 +1,14 @@
+{
+  "id": "poem-323b47dc177434653798ce18",
+  "title": "赠心上人",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "一抹新霜雁背寒，满庭疎雨客衣单。",
+    "苦心莫负韦编绝，岁晚归来语夜阑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-145360f2-dd28-41e7-b1fa-e87851b6160f"
+}

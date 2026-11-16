@@ -1,0 +1,14 @@
+{
+  "id": "poem-72c302e7b3ebb96c6fcc04c9",
+  "title": "松花",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "都将坠粉扫残枝，聊伴伊蒲簪蕨薇。",
+    "合赋老饕矜厚享，秋池更有芰荷衣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-ccbd0a58-af38-4d8e-a51e-785e321bd0e3"
+}

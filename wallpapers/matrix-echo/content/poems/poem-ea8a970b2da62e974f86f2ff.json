@@ -1,0 +1,17 @@
+{
+  "id": "poem-ea8a970b2da62e974f86f2ff",
+  "title": "田家二首 一",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "父耕原上田，子㔉山下荒。",
+    "六月禾未秀，官家已修仓。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "忧国忧民",
+    "讽刺"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-91276d5a-1844-40ec-a102-a41eaab21c12"
+}

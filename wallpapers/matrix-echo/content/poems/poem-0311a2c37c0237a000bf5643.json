@@ -1,0 +1,14 @@
+{
+  "id": "poem-0311a2c37c0237a000bf5643",
+  "title": "上行杯·芳草灞陵春岸",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "芳草灞陵春岸，柳烟深，满楼弦管，一曲离声肠寸断。",
+    "今日送君千万，红楼玉盘金镂盏，须劝珍重意，莫辞满。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-18"
+}

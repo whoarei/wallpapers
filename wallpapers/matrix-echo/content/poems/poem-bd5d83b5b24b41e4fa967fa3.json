@@ -1,0 +1,14 @@
+{
+  "id": "poem-bd5d83b5b24b41e4fa967fa3",
+  "title": "颂古六首  其三",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "劈面三拳，连腮七掌。",
+    "尽大地人，不知痛痒。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-6c9c4617-8b05-4999-976a-49e96e54ced7"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-80f0",
+  "script": "kai",
+  "character": "胰",
+  "reading": "yí",
+  "description": "yí：人或高等动物体内的腺体之一，在胃的后下方（亦称胰腺”）～液。～脂酶。～蛋白酶。～淀粉酶。～子（ａ．猪羊等的胰；ｂ．肥皂）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胰"
+}

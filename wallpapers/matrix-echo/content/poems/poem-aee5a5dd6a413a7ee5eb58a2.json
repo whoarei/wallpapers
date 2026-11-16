@@ -1,0 +1,16 @@
+{
+  "id": "poem-aee5a5dd6a413a7ee5eb58a2",
+  "title": "郊庙歌辞 隐太子庙乐章 送神",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "皇情悼往，祀议增设。",
+    "钟鼓铿锵，羽旄昭晰。",
+    "掌礼云备，司筵告彻。",
+    "乐以送神，灵其鉴阕。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-867ad8d9-f1b1-43a5-94d7-7dac74332b1f"
+}

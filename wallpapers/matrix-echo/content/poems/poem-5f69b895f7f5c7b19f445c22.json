@@ -1,0 +1,16 @@
+{
+  "id": "poem-5f69b895f7f5c7b19f445c22",
+  "title": "送房明府罢长宁令湖州客舍",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "君为万里宰，恩及五湖人。",
+    "未满先求退，归闲不厌贫。",
+    "远峰晴更近，残柳雨还新。",
+    "要自趋丹陛，明年鸡树亲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d4964360-04be-4cde-a26a-df00ee1f498c"
+}

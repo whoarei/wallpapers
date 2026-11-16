@@ -1,0 +1,18 @@
+{
+  "id": "poem-7ad19551b7a6256235da7c09",
+  "title": "南楼令·塞外重九",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "古木向人秋，惊蓬掠鬓稠。",
+    "是重阳、何处堪愁。",
+    "记得当年惆怅事，正风雨，下南楼。",
+    "断梦几能留，香魂一哭休。",
+    "怪凉蝉、空满衾裯。",
+    "霜落乌啼浑不睡，偏想出，旧风流。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-133"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e2c6fbb0d965f9e24c4c783f",
+  "title": "新城精舍",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "朱甍碧瓦粉墙围，花舫回光洞户辉。",
+    "自是故家开第宅，乔林景物两芳菲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-36101ff8-7977-4124-8101-8208818b2a0b"
+}

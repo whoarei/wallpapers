@@ -1,0 +1,20 @@
+{
+  "id": "poem-3e5236c1cf55cc84b68705bd",
+  "title": "阮郎归·豪家大厦敞千楹",
+  "author": "张抡",
+  "dynasty": "宋",
+  "verses": [
+    "豪家大厦敞千楹。",
+    "风摇玉柄轻。",
+    "金盆弄水复敲冰。",
+    "热从何处生。",
+    "低草舍，小茅亭。",
+    "如何安此身。",
+    "元来一念静无尘。",
+    "萧然心自清。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-907",
+  "tags": []
+}

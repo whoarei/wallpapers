@@ -1,0 +1,15 @@
+{
+  "id": "poem-18e45b1e9c45f75912eb77ee",
+  "title": "鸨羽",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "肃肃鸨羽，集于苞栩。王事靡盬，不能蓺稷黍。父母何怙？悠悠苍天，曷其有所？",
+    "肃肃鸨翼，集于苞棘。王事靡盬，不能蓺黍稷。父母何食？悠悠苍天，曷其有极？",
+    "肃肃鸨行，集于苞桑，王事靡盬，不能蓺稻梁。父母何尝？悠悠苍天，曷其有常？"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-120"
+}

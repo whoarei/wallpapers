@@ -1,0 +1,18 @@
+{
+  "id": "poem-a100966bbf4874a8065edafe",
+  "title": "北曲折桂令",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "几回价守定香闺，转无眠情绪如痴。",
+    "直哭得绛蜡烟消，银蟾影坠，宝篆香微。",
+    "才听得促织儿声沉四壁，又听得叫残早报晓邻鸡。",
+    "只影孤凄，心下伤悲。",
+    "一弄儿凄凉，总促在愁眉。",
+    "(又唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8615",
+  "tags": []
+}

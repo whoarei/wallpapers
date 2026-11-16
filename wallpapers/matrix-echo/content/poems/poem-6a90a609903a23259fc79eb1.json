@@ -1,0 +1,16 @@
+{
+  "id": "poem-6a90a609903a23259fc79eb1",
+  "title": "菩萨蛮·洛阳城里春光好",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "洛阳城里春光好，洛阳才子他乡老。",
+    "柳暗魏王堤，此时心转迷。",
+    "桃花春水绿，水上鸳鸯浴。",
+    "凝恨对残晖，忆君君不知。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-37"
+}

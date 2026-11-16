@@ -1,0 +1,16 @@
+{
+  "id": "poem-a09207d3b1e31f43dbfc39a3",
+  "title": "和修睦上人听猿",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "禅客闻犹苦，是声应是啼。",
+    "自然无稳梦，何必到巴溪。",
+    "疎雨洒不歇，回风吹暂低。",
+    "此宵秋欲半，山在二林西。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-99d23371-41cb-4840-b6b2-4ee068cb1a4d"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-79ad3b9116c372c4a9d29deb",
+  "title": "寒夜",
+  "author": "杜小山",
+  "dynasty": "宋",
+  "verses": [
+    "寒夜客来茶当酒，竹炉汤沸火初红。",
+    "寻常一样窗前月，才有梅花便不同。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-寒夜"
+}

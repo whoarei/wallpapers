@@ -1,0 +1,15 @@
+{
+  "id": "poem-f77b2d75beaebc3443ec8ee4",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［老旦］黄河尚有澄清日，岂可人无得运时？［旦］皇都得意，那时好个风流婿。",
+    "［生］我寒儒显赫门楣，太岳翁传扬名誉。",
+    "［合前］。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8123",
+  "tags": []
+}

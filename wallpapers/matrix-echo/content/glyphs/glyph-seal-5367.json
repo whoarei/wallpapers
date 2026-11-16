@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5367",
+  "script": "seal",
+  "character": "卧",
+  "reading": "wò",
+  "description": "wò：(1)睡倒，躺或趴～倒。～铺。～室。～底（埋伏下来做内应，如～～传中”）。～槽。～龙（喻隐居或尚未露头角的杰出人才）。～薪尝胆（形容刻苦自励，志图恢复）。藏龙～虎（喻潜藏着人才）。\n(2)把去壳的鸡蛋放到开水里煮～个鸡子儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卧"
+}

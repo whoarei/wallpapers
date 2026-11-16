@@ -1,0 +1,16 @@
+{
+  "id": "poem-7c585b5af87f7d5ee0f2a819",
+  "title": "夏日奉陪陆使君长源公堂集",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "府中自清远，六月高梧间。",
+    "寥亮泛雅瑟，逍遥扣玄关。",
+    "岭云与人静，庭鹤随公闲。",
+    "动息谅兼遂，兹情即东山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-eced748b-2e7b-4991-82e4-5898eb8e8e77"
+}

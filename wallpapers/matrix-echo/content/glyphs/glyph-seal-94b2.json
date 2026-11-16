@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94b2",
+  "script": "seal",
+  "character": "钲",
+  "reading": "zhēng",
+  "description": "古代乐器名。形如钤,有柄可执,行军时用\n钟身正面的上部\n⒈〈古〉行军时用的一种铜制打击乐器。\n⒉钲zhèng化学元素\"镄\"的旧称。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钲"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-69b4",
+  "script": "kai",
+  "character": "榴",
+  "reading": "liú",
+  "description": "liú：〔石～〕落叶灌木或小乔木，一般开红花，果实球状，内有很多种子，种子上的肉可食，根和皮可入药（榴”读轻声）。\n〔～莲〕常绿乔木，叶子长椭圆形。果实球形，有硬刺，可食。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-榴"
+}

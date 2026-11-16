@@ -1,0 +1,16 @@
+{
+  "id": "poem-28967f9592145b131668d26f",
+  "title": "望远行·露滴幽庭落叶时",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "露滴幽庭落叶时，愁聚萧娘柳眉。",
+    "玉郎一去负佳期，水云迢递雁书迟。",
+    "屏半掩，枕斜欹，蜡泪无言对垂。",
+    "吟蛩断续漏频移，入窗明月鉴空帷。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-42"
+}

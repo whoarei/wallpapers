@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6ee4",
+  "script": "kai",
+  "character": "滤",
+  "reading": "lǜ",
+  "description": "滤（瀡）lǜ使液体、气体通过布、纸、沙等，除去其中的杂质、毒气等过～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-滤"
+}

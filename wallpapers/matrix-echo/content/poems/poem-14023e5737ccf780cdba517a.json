@@ -1,0 +1,16 @@
+{
+  "id": "poem-14023e5737ccf780cdba517a",
+  "title": "菩萨蛮·蓬莱院闭天台女",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "蓬莱院闭天台女，画堂昼寝人无语。",
+    "抛枕翠云光，绣衣闻异香。",
+    "潜来珠琐动，惊觉银屏梦。",
+    "脸慢笑盈盈，相看无限情。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-22"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-ee05ce741249d5bd63845ba0",
+  "title": "楚妃叹",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "湘云初起江沉沉，君王遥在云梦林。",
+    "江南雨多旌旗暗，台下朝朝春水深。",
+    "章华殿前朝万国，君心独自无终极。",
+    "楚兵满地能逐禽，谁用一身骋筋力。",
+    "西江若飜云梦中，麋鹿死尽应还宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-e884efcb-d9c0-48b5-95b3-e644dba54b9b"
+}

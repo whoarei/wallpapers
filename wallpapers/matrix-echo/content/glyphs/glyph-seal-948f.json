@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-948f",
+  "script": "seal",
+  "character": "钏",
+  "reading": "chuàn",
+  "description": "臂镯的古称。俗称镯,镯子。用珠子或玉石等穿起来做成的镯子\n钏子\n钏 chuàn镯子金～、玉～。\n钏chuàn用珠子或玉石等穿制成的镯子玉～。金～子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钏"
+}

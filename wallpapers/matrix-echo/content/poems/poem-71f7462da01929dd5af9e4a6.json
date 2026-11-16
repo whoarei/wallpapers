@@ -1,0 +1,22 @@
+{
+  "id": "poem-71f7462da01929dd5af9e4a6",
+  "title": "渔家傲·三月清明天婉娩",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "三月清明天婉娩。",
+    "晴川祓禊归来晚。",
+    "况是踏青来处远。",
+    "犹不倦。",
+    "秋千别闭深庭院。",
+    "更值牡丹开欲遍。",
+    "酴醿压架清香散。",
+    "花底一尊谁解劝。",
+    "增眷恋。",
+    "东风回晚无情绊。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-697",
+  "tags": []
+}

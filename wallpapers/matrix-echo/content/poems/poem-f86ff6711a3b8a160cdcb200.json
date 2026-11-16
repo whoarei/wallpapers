@@ -1,0 +1,14 @@
+{
+  "id": "poem-f86ff6711a3b8a160cdcb200",
+  "title": "有瞽",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "有瞽有瞽，在周之庭。设业设虡，崇牙树羽。应田县鼓，鞉磬柷圉。既备。",
+    "乃奏，箫管备举。喤喤厥声，肃雍和鸣，先祖是听。我客戾止，永观厥成。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-279"
+}

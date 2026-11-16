@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9635",
+  "script": "kai",
+  "character": "阵",
+  "reading": "zhèn",
+  "description": "军队作战时布置的局势～线。～势。严～以待。\n战场～地。～亡。冲锋陷～。\n量词，指事情或动作经过的段落～发。～痛。下了一～雨。\n⒉量词。〈表〉事情或动作经过的段落一～掌声。一～风雷雨。又指时间这～子太忙。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阵"
+}

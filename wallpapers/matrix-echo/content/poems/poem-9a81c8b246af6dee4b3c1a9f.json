@@ -1,0 +1,16 @@
+{
+  "id": "poem-9a81c8b246af6dee4b3c1a9f",
+  "title": "励学吟",
+  "author": "智闲",
+  "dynasty": "唐",
+  "verses": [
+    "满口语，无处说，明明向道人（一作「人道」）不决。",
+    "急著力，勤咬囓，无常到来救不彻。",
+    "口里话（一作「语」），暗嗟（一作「瑳」）切，快磨古锥净挑揭。",
+    "理尽觉，自护持，此生事，吾（一作「终」）不说，玄旨（一作「学」）求他古老吟，禅学须穷心影绝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-0ea48d03-1043-4468-9569-9b6e9fe1443a"
+}

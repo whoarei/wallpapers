@@ -1,0 +1,16 @@
+{
+  "id": "poem-24a3b7d3cb3efe0ea9c51049",
+  "title": "江皋晚望",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "柳外舣舟晚，醉余双眼醒。",
+    "水光涵一气，星彩动圆灵。",
+    "炯炯月初上，翛翛风更泠。",
+    "远山横秀碧，淡墨说吾经。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-73513dc4-8c7f-4071-9440-1d85de0a9309"
+}

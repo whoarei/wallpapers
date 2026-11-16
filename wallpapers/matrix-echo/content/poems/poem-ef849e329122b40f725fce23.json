@@ -1,0 +1,16 @@
+{
+  "id": "poem-ef849e329122b40f725fce23",
+  "title": "白云溪",
+  "author": "吴巩",
+  "dynasty": "唐",
+  "verses": [
+    "山径入修篁，深林蔽日光。",
+    "夏云生嶂远，瀑水引溪长。",
+    "秀迹逢皆胜，清芬坐转凉。",
+    "回看玉樽夕，归路赏前忘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-f2e748c2-1c0f-4325-81dd-46e71e875e3f"
+}

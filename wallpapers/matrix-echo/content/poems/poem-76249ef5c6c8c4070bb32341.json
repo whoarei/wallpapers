@@ -1,0 +1,14 @@
+{
+  "id": "poem-76249ef5c6c8c4070bb32341",
+  "title": "戏赠侯常侍",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "葛洪卷与江淹赋，名动天边傲石居。",
+    "两蜀词人多载后，同君讳却马相如。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2266386d-8617-44b2-8cd4-49beb4d97e32"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-949a5e1ae6767a51f7d338a8",
+  "title": "□□",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "恨到荒城一闭关，乡园阻隔万重山。",
+    "咫尺音书犹不达，梦魂何处得归还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-9f0687c4-7fce-4931-9246-4f3855dbd527"
+}

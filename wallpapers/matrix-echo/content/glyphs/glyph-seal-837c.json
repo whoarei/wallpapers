@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-837c",
+  "script": "seal",
+  "character": "荼",
+  "reading": "tú；shu",
+  "description": "tú：(1)古书上说的一种苦菜～毒（荼”是苦菜，毒”指毒虫毒蛇之类，喻毒害，如～～生灵”）。\n(2)古书上指茅草的白花如火如～。\n(3)古同涂”，涂炭。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-荼"
+}

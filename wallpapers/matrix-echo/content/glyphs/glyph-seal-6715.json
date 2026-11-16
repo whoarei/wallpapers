@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6715",
+  "script": "seal",
+  "character": "朕",
+  "reading": "zhèn",
+  "description": "zhèn：(1)我，我的。中国秦始皇时起专用作皇帝自称～为始皇帝”。\n(2)征兆，迹象～兆。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-朕"
+}

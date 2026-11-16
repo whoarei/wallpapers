@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-753a",
+  "script": "seal",
+  "character": "町",
+  "reading": "dīng；tǐng",
+  "description": "tǐng：田界田间小路～畦（田埂，喻界限、规矩、约束）。～疃（田舍旁的空地）。\n〔～～〕平坦的样子。\ndīng：〔畹～〕见畹”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-町"
+}

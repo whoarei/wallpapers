@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-97e9",
+  "script": "kai",
+  "character": "韩",
+  "reading": "hán",
+  "description": "井上的木栏\n古国名\n中国周朝时的一个诸侯国,在今山西省韩城县\n战国七雄之一◇为秦所灭。今山西省东部和河南省西北部\n1897╠1910年朝鲜的国名",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-韩"
+}

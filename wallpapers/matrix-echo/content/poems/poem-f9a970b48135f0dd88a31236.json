@@ -1,0 +1,17 @@
+{
+  "id": "poem-f9a970b48135f0dd88a31236",
+  "title": "浣溪沙·湿翠湖山收晚烟",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "湿翠湖山收晚烟。",
+    "月华如练水如天。",
+    "兴来催上钓鱼船。",
+    "青箬一尊汀草畔，霜筠数曲渚花边。",
+    "更于何处觅神仙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-157",
+  "tags": []
+}

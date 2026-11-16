@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8033",
+  "script": "kai",
+  "character": "耳",
+  "reading": "ěr",
+  "description": "ěr：(1)听觉和平衡感觉的器官（通称耳朵”）～背（bèi）。～垂。～鬓厮磨（mó）。～穴。～聪目明。～濡目染。\n(2)像耳朵的东西木～。银～。\n(3)像耳朵一样分列两旁的东西～房。鼎～。\n(4)听说～闻。～软。～顺（指年至六十，听到别人的话，就能知道他的微妙的意思，后指人六十岁）。\n(5)文言助词，而已，罢了想当然～。\n(6)文言语气词（大致同矣”）且壮士不死则已，死即举大名～”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-耳"
+}

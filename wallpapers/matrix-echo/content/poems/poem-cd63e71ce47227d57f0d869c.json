@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd63e71ce47227d57f0d869c",
+  "title": "紫花序",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "西天西如来亲送，中国中和尚才行，南海南菩萨来将。",
+    "虽然一番受苦，也能勾百世流芳。",
+    "斟量，方信道人香千里香，端的是道尊德无上。",
+    "今日个送路在山门，抵多少携手上河梁。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3398",
+  "tags": []
+}

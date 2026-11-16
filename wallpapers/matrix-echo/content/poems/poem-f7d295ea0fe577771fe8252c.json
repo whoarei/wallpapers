@@ -1,0 +1,16 @@
+{
+  "id": "poem-f7d295ea0fe577771fe8252c",
+  "title": "后庭花·轻盈舞妓含芳艳",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "轻盈舞妓含芳艳，竞妆新脸。",
+    "步摇珠翠修蛾敛，腻鬟云染。",
+    "歌声慢发开檀点，绣衫斜掩。",
+    "时将纤手匀红脸，笑招金靥。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-6"
+}

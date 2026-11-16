@@ -1,0 +1,14 @@
+{
+  "id": "poem-6ff32aed97530b9200055351",
+  "title": "净巾石",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "炯炯豁开明镜台，是中无处著尘埃。",
+    "平生心地常如此，何暇频频拂拭来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-b8d3dbea-2c97-4309-ab34-e7b282c0c40c"
+}

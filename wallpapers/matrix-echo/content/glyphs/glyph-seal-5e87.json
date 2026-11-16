@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e87",
+  "script": "seal",
+  "character": "庇",
+  "reading": "bì",
+  "description": "bì：遮蔽，掩护～护。～短。包～。～荫（ａ．遮住阳光；ｂ．喻包庇袒护）。～佑（保佑）。～护权。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-庇"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6c5abc78e247b8791a0be8f0",
+  "title": "鹊桥仙",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "披香随宴，上林游赏，醉后人扶马上。",
+    "金莲花炬照回廊，正院宇梅梢月上。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5217",
+  "tags": []
+}

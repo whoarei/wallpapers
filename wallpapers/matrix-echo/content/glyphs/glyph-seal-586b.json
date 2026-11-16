@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-586b",
+  "script": "seal",
+  "character": "填",
+  "reading": "tián；zhèn",
+  "description": "tián：(1)把空缺的地方塞满或补满～塞。～补。～充。～空（kòng）。义愤～膺。\n(2)在空白表格上按项目写～表。～词。\n(3)形容声音巨大～然。\n挖；\nzhèn：古同镇”，使安定。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-填"
+}

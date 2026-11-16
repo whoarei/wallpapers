@@ -1,0 +1,14 @@
+{
+  "id": "poem-8d25be3a255e759f771a426f",
+  "title": "五祖栽松六祖担柴赞  其一",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "恨杀老头陀，山移恨不磨。",
+    "吾今担头重，为汝种松多。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-4e67dd49-818a-48aa-b5b3-7fe47f323886"
+}

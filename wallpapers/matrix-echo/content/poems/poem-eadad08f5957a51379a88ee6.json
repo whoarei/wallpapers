@@ -1,0 +1,19 @@
+{
+  "id": "poem-eadad08f5957a51379a88ee6",
+  "title": "浣溪沙·一曲新词酒一杯",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "一曲新词酒一杯。",
+    "去年天气旧亭台。",
+    "夕阳西下几时回。",
+    "无可奈何花落去，似曾相识燕归来。",
+    "小园香径独徘徊。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-159"
+}

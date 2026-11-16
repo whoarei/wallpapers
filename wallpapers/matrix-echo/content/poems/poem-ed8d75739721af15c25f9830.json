@@ -1,0 +1,16 @@
+{
+  "id": "poem-ed8d75739721af15c25f9830",
+  "title": "送李侍御入茅山采药",
+  "author": "张南史",
+  "dynasty": "唐",
+  "verses": [
+    "苦县家风在，茅山道录传。",
+    "聊听骢马使，却就紫阳仙。",
+    "江海生岐路，云霞入洞天。",
+    "莫令千岁鹤，飞到草堂前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-a5311d52-89f9-4ab0-a879-234456f23778"
+}

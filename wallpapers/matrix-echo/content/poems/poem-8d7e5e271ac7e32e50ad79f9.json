@@ -1,0 +1,14 @@
+{
+  "id": "poem-8d7e5e271ac7e32e50ad79f9",
+  "title": "马诗二十三首 十五",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "不从桓公猎，何能伏虎威。",
+    "一朝沟陇出，看取拂云飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-321a9b5e-291a-47ae-bce9-c8d80d8018fa"
+}

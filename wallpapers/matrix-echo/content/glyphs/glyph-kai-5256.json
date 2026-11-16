@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5256",
+  "script": "kai",
+  "character": "剖",
+  "reading": "pōu",
+  "description": "pōu：(1)破开～开。解～。～面。～腹。\n(2)分析，分辩～白。～解。～析。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-剖"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-8de05589a1bfa7f7de0e39f2",
+  "title": "南歌子·懒拂鸳鸯枕",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "懒拂鸳鸯枕，休缝翡翠裙。",
+    "罗帐罢炉熏，近来心更切，为思君。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-43",
+  "tags": []
+}

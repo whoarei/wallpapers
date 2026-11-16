@@ -1,0 +1,16 @@
+{
+  "id": "poem-0a3db373c0a293b88648faab",
+  "title": "赠邵尧夫",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "家虽在城阙，萧瑟似荒郊。",
+    "远去名利窟，自称安乐巢。",
+    "云归白石洞，鹤立碧松梢。",
+    "得丧非吾事，何须更解嘲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-44da813b-b229-4495-8f30-57a5b56d70cb"
+}

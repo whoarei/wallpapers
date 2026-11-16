@@ -1,0 +1,14 @@
+{
+  "id": "poem-b8d8c4cb418b5738275e9d89",
+  "title": "大圣乐",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "婚姻事难论高低，论高低何如休嫁与。",
+    "假如亲贱孩儿贵，终不然便抛弃？(外)他的孩儿撇不得，你怕甚么？(贴)奴是他亲生儿子亲媳妇，难道他是何人我是谁？(外)你怎地只管把言语来冲撞我？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5178",
+  "tags": []
+}

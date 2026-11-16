@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9c90",
+  "script": "seal",
+  "character": "鲐",
+  "reading": "tái",
+  "description": "鲐鱼,也称鲭、油筒鱼、青花鱼\n代称老年人\n鲐tái鱼名。鲐鱼俗称\"鲐巴鱼\"、\"油筒鱼\"。鲐鱼，体呈纺锤形，背部青兰色，腹部淡黄色。生活在海里，可供食用。\n鲐yí 1.河豚。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲐"
+}

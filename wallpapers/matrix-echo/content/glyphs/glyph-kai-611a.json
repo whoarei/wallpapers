@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-611a",
+  "script": "kai",
+  "character": "愚",
+  "reading": "yú",
+  "description": "yú：(1)傻，笨～人。～笨。～蠢。～鲁。～氓（愚蠢的人）。～昧（缺乏知识，文化落后）。～顽。～妄。～不可及。大智若～（有大智慧的人，不卖弄聪明，表面上好像很愚笨，亦作大智如愚”）。\n(2)欺骗，耍～弄人。为人所～。\n(3)谦辞，用于自称～兄。～见。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-愚"
+}

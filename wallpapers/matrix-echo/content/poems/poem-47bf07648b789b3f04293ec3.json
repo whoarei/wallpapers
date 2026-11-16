@@ -1,0 +1,16 @@
+{
+  "id": "poem-47bf07648b789b3f04293ec3",
+  "title": "孺子祠堂",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "钩党开端惨弗舒，悬知隠逸未全疎。",
+    "奸谀孔炽吾何与，名节虽高弊不除。",
+    "盟鹭相忘寻水宿，冥鸿那复死巢居。",
+    "澜翻平地浑漂汩，柰此悠然一叶虚。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-9da5f6e0-81a1-483d-945c-c2789c8af73a"
+}

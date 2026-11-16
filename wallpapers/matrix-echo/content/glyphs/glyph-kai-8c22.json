@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8c22",
+  "script": "kai",
+  "character": "谢",
+  "reading": "xiè",
+  "description": "用言辞委婉地推辞拒绝\n⒈感激～ ～你。感～。\n⒉道歉，认错～过。～罪。\n⒊〈古〉告诉多～后世人。\n⒋推辞，辞别～绝。～客。\n⒌衰亡，凋落新陈代～。花～花落。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谢"
+}

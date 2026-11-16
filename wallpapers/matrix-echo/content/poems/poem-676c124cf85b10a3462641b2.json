@@ -1,0 +1,21 @@
+{
+  "id": "poem-676c124cf85b10a3462641b2",
+  "title": "满江红·一舸归来",
+  "author": "游次公",
+  "dynasty": "宋",
+  "verses": [
+    "一舸归来，何太晚、鬓丝如织。",
+    "谩叹息、凄凉往事，尽成陈迹。",
+    "山迫暮烟浮紫翠，溪摇寒浪翻金碧。",
+    "看长虹、渴饮下青冥，危栏湿。",
+    "谁可住，烟萝侧。",
+    "俗士驾，当回勒。",
+    "伴岩扃，须是碧云仙客。",
+    "风月已供无尽藏，溪山更衍清凉国。",
+    "恨谪仙、苏二不曾来，无人说。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-269",
+  "tags": []
+}

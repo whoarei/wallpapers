@@ -1,0 +1,14 @@
+{
+  "id": "poem-56673e9d31c7dc104db06d78",
+  "title": "延福可老真赞",
+  "author": "林之奇",
+  "dynasty": "宋",
+  "verses": [
+    "浑沌凿开无限事，逍遥游后更何疑。",
+    "饶伊齐得鹏并鷃，不似当年作蝶时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-72d3fd3e-70dc-4f29-97a8-064f298d4495"
+}

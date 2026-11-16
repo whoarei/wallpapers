@@ -1,0 +1,22 @@
+{
+  "id": "poem-acc75db85b9062d4425f659e",
+  "title": "子夜吴歌 春歌",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "秦地罗敷女，采桑绿水边。",
+    "素手青条上，红妆白日鲜。",
+    "蚕饥妾欲去，五马莫留连。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-4e92a96d-aa74-4153-8314-b6df22d1e18a",
+  "tags": [
+    "唐诗三百首",
+    "清商曲辞",
+    "春天",
+    "女子",
+    "乐府",
+    "赞美"
+  ]
+}

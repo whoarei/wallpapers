@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f29",
+  "script": "seal",
+  "character": "弩",
+  "reading": "nǔ",
+  "description": "nǔ：一种用机械力量射箭的弓，泛指弓～弓。～机。～手（弓手）。～箭。～炮（发射石块的弩机）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-弩"
+}

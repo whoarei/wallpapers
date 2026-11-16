@@ -1,0 +1,16 @@
+{
+  "id": "poem-d8d2f61e1a6e578292e56dd4",
+  "title": "横吹曲辞 折杨柳",
+  "author": "欧阳瑾",
+  "dynasty": "唐",
+  "verses": [
+    "垂柳拂妆台，葳蕤叶半开。",
+    "年华枝上见，边思曲中来。",
+    "嫩色宜新雨，轻花伴落梅。",
+    "朝朝倦攀折，征戍几时回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ba115d1b-606c-4751-af66-e617b670babd"
+}

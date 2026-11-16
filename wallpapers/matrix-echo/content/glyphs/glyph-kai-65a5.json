@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-65a5",
+  "script": "kai",
+  "character": "斥",
+  "reading": "chì",
+  "description": "chì：(1)责备～责。怒～。驳～。训～。\n(2)指，指出～谬（指出错误）。\n(3)使退去，使离开～退。\n(4)开拓开地～境。\n(5)多，广充～。\n(6)侦察，伺望～候（旧时侦察敌情的士兵）。\n(7)盐碱地～卤。\n(8)古同尺”，尺蠖。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-斥"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-02edbceae729bb8d4056f33e",
+  "title": "铁骑儿",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(末上)离门儿，离门儿心惊胆碎，步疾去如飞。",
+    "到城南破窑，了事便回归。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1911",
+  "tags": []
+}

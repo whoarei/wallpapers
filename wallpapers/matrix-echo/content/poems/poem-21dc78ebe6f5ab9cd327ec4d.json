@@ -1,0 +1,16 @@
+{
+  "id": "poem-21dc78ebe6f5ab9cd327ec4d",
+  "title": "庭竹",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "嫩绿与老碧，森然庭砌中。",
+    "坐销三伏景，吟起数竿风。",
+    "叶影重还密，梢声远或通。",
+    "更期春共看，桃映小花红。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ff4b8352-b778-47a2-908f-4213ad72151e"
+}

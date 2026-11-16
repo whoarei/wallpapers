@@ -1,0 +1,14 @@
+{
+  "id": "poem-8b215505b47fb18a732c0c26",
+  "title": "西湖",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "verses": [
+    "毕竟西湖六月中，风光不与四时同。",
+    "接天莲叶无穷碧，映日荷花别样红。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-西湖"
+}

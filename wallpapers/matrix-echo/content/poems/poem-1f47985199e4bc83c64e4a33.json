@@ -1,0 +1,14 @@
+{
+  "id": "poem-1f47985199e4bc83c64e4a33",
+  "title": "八拍蛮·孔雀尾拖金线长",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "孔雀尾拖金线长，怕人飞起入丁香。",
+    "越女沙头争拾翠，相呼归去背斜阳。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-32"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f5f9a2138d60efce8102534",
+  "title": "昭君怨",
+  "author": "顾朝阳",
+  "dynasty": "唐",
+  "verses": [
+    "莫将铅粉匣，不用镜花光。",
+    "一去边城路，何情更画妆。",
+    "影销胡地月，衣尽汉宫香。",
+    "妾死非关命，都缘怨断肠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-732e42d4-1fdf-4485-8c32-4cede895edc9"
+}

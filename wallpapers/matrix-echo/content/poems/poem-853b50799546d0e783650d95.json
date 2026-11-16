@@ -1,0 +1,16 @@
+{
+  "id": "poem-853b50799546d0e783650d95",
+  "title": "喜逢妻弟郑损因送入京",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "乱后自江城，相逢喜复惊。",
+    "为经多载别，欲问小时名。",
+    "对酒悲前事，论文畏后生。",
+    "遥知盈卷轴，纸贵在江城。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-580aa9a1-188d-4ba7-abae-7cdf6e2ac289"
+}

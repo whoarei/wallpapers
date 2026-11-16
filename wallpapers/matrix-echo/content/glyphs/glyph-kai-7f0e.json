@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7f0e",
+  "script": "kai",
+  "character": "缎",
+  "reading": "duàn",
+  "description": "一种质地厚密而有光泽的丝织物\n缎 质地厚密、一面光滑的丝织品锦～。\n缎duàn 1.同\"?\"。贴于鞋跟的革片﹑丝绦之属。 2.一种质地厚密而有光泽的丝织物。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缎"
+}

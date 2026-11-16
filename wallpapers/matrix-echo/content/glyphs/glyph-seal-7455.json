@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7455",
+  "script": "seal",
+  "character": "瑕",
+  "reading": "xiá",
+  "description": "xiá：(1)玉上面的斑点，喻缺点或过失～玷。～垢。～疵。\n(2)空隙～隙。～衅（漏洞，可乘之隙；亦喻过错）。\n(3)古同霞”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瑕"
+}

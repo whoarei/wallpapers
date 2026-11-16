@@ -1,0 +1,16 @@
+{
+  "id": "poem-7db12d6e06ad89960d8a419b",
+  "title": "喜友人再面",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "一别几寒暄，迢迢隔塞垣。",
+    "相思长有事，及见却无言。",
+    "静坐将茶试，闲书把叶翻。",
+    "依依又留宿，圆月上东轩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-db5620d2-67d1-4e8a-b39b-bb9e0ccf9b84"
+}

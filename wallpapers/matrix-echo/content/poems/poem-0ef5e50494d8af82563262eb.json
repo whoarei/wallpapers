@@ -1,0 +1,14 @@
+{
+  "id": "poem-0ef5e50494d8af82563262eb",
+  "title": "上冯使君五首 五",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "仁政无不及，乳獭将子行。",
+    "谁家苦竹林，中有读书声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-2ba0bdf9-9c3b-4f2e-be4c-cb31824c1385"
+}

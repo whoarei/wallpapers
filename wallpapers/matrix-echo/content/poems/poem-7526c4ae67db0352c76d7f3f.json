@@ -1,0 +1,14 @@
+{
+  "id": "poem-7526c4ae67db0352c76d7f3f",
+  "title": "和景仁七十一偶成",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "心地长闲为己物，年华不住是天时。",
+    "当时海上乘槎客，维楫都无任所之。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-d9bb486e-55b3-4195-9513-21604fdaac19"
+}

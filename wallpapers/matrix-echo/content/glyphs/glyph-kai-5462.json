@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5462",
+  "script": "kai",
+  "character": "呢",
+  "reading": "ne；ní",
+  "description": "ní：一种毛织物～子。～绒。毛～。\nne：助词，用在句末（a.表示疑问，如你干什么～？”b.表示确定的语气，如他没来～”。c.表示动作正在进行，如我正吃饭～”。d.使句子略停顿一下，如今年～，比去年收成好”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-呢"
+}

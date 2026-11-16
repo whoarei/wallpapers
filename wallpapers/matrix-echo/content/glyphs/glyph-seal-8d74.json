@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d74",
+  "script": "seal",
+  "character": "赴",
+  "reading": "fù",
+  "description": "fù：(1)往，去～京。～会。～任。～约。～宴。\n(2)投入（某种境地），参加（某种行列）～战。～敌（加入对敌作战）。～难（nàn）。～义。\n(3)古同讣”，讣告。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赴"
+}

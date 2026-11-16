@@ -1,0 +1,18 @@
+{
+  "id": "poem-fe8784eb1893c55e2c6091b2",
+  "title": "题谢处士山斋",
+  "author": "宋之问",
+  "dynasty": "唐",
+  "verses": [
+    "那有唐年客，青山独闭门。",
+    "云泉一少事，琴史皆忘喧。",
+    "在濬人犹絷，迁乔友未言。",
+    "不知幽谷草，何意老王孙？",
+    "（此诗见《永乐大典》卷二五三九「七皆」「斋」字「山斋」条。",
+    "〖三函三十册〗）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-6f0b5f47-9d4a-459c-8b03-ba673e8abe2d"
+}

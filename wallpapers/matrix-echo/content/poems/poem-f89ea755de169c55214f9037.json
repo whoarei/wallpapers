@@ -1,0 +1,14 @@
+{
+  "id": "poem-f89ea755de169c55214f9037",
+  "title": "题花光梅十首 高下随宜",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "亚水凌空任短长，枝枝风度要平章。",
+    "一樽月下吞花影，剔在须头点点香。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-f70137d3-d1f3-4470-bf13-0a0e218e8b2b"
+}

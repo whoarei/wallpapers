@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5974",
+  "script": "seal",
+  "character": "奴",
+  "reading": "nú",
+  "description": "nú：(1)阶级社会中受压迫、剥削、役使的没有人身自由的人农～。～隶。～婢（男女奴仆）。～颜婢膝。～性。\n(2)像对待奴隶那样地～役。～使。\n(3)使人甘受奴役地～化。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-奴"
+}

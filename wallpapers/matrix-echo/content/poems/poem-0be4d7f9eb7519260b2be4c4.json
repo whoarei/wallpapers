@@ -1,0 +1,14 @@
+{
+  "id": "poem-0be4d7f9eb7519260b2be4c4",
+  "title": "兵要望江南 占梦第二十五（京本列第十三○九首） 四",
+  "author": "易静",
+  "dynasty": "唐",
+  "verses": [
+    "将军梦，打（辛本、川本、京本作「大」）鼓大声鸣。",
+    "小鼓小声（京本作「鸣」）军小胜，不鸣固守莫先（京本作「前」）征，胜负取其声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-7a428e38-c7a5-472b-8568-8901400fffbf"
+}

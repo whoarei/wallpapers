@@ -1,0 +1,16 @@
+{
+  "id": "poem-54ff6f8a3a7330b6220c3d14",
+  "title": "行路难",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "莫言行路难，夷狄如中国。",
+    "谓言骨肉亲，中门如异域。",
+    "出处全在人，路亦无通塞。",
+    "门前两条辙，何处去不得。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-1d8e2ba7-ba52-44c7-83d4-06dfaa2339d1"
+}

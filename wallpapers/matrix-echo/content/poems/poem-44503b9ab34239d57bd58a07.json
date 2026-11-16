@@ -1,0 +1,27 @@
+{
+  "id": "poem-44503b9ab34239d57bd58a07",
+  "title": "黄鹤楼送孟浩然之广陵",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "故人西辞黄鹤楼，烟花三月下扬州。",
+    "孤帆远影碧山尽，唯见长江天际流。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "长江",
+    "黄鹤楼",
+    "离别",
+    "带有地名",
+    "小学古诗",
+    "地名",
+    "描写水",
+    "友情",
+    "写景",
+    "送别",
+    "七言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-d43a4767-2240-44b7-8d5b-c2acdc689839"
+}

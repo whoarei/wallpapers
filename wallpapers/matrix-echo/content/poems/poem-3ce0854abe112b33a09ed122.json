@@ -1,0 +1,16 @@
+{
+  "id": "poem-3ce0854abe112b33a09ed122",
+  "title": "敦煌廿咏（并序） 十二、安城祅咏[二六]",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "版筑安城日，神祠与此兴。",
+    "一州祈景祚，万类仰休征。",
+    "苹藻来（釆）无乏，精灵若有凭。",
+    "更看云祭处，朝夕酒如绳（渑）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-1b069a77-e2b1-4faa-877c-3815300144d8"
+}

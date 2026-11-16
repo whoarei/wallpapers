@@ -1,0 +1,16 @@
+{
+  "id": "poem-a6da06c331f21dfbec66a535",
+  "title": "寿阳罢郡日有诗十首与追怀不殊今编于后兼纪瑞物 肥河维舟阻冻袛待勅命 二",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "淮阳效理空多病，疎受辞荣岂恋班。",
+    "陈力不任趋北阙，有家无处寄东山。",
+    "疲骖岂念前程税，倦鸟安能待暮还。",
+    "珍重八公山下叟，不劳重泪更追攀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-a8daf794-d044-4e48-9e93-d3f2199fb848"
+}

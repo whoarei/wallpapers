@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd825c9a31ce5b94511cbdb2",
+  "title": "送荻柴与秀才朱观",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "羡子清吟处，茅斋面碧流。",
+    "解憎莲艳俗，唯欠荻花幽。",
+    "鹭立低枝晚，风惊折叶秋。",
+    "赠君须种取，不必树忘忧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-38ff457a-0171-442d-9893-f33b8a245125"
+}

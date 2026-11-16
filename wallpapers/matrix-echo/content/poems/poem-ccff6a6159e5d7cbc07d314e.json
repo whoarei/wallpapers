@@ -1,0 +1,18 @@
+{
+  "id": "poem-ccff6a6159e5d7cbc07d314e",
+  "title": "子庆诗",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "王家事已奇，孟氏庆无涯。",
+    "献子还生子，羲之又有之。",
+    "凤兮且莫叹，鲤也会闻诗。",
+    "小小豫章甲，纤纤玉树姿。",
+    "人来唯仰乳，母抱未知慈。",
+    "我欲拣其养，放麛者是谁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a6062777-a23a-4e6f-8362-843f251c4a0e"
+}

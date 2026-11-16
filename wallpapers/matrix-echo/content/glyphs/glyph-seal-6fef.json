@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6fef",
+  "script": "seal",
+  "character": "濯",
+  "reading": "zhuó；zhào",
+  "description": "zhuó：(1)洗～足。\n(2)祓除罪恶。\n〔～～〕形容山无草木，光秃秃的，如～～童山”。\nzhào：古通棹”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-濯"
+}

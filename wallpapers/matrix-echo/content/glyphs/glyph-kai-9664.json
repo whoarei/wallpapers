@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9664",
+  "script": "kai",
+  "character": "除",
+  "reading": "chú",
+  "description": "chú：(1)去掉～害。～名。～根。铲～。废～。排～。～暴安良。\n(2)改变，变换岁～（农历一年的最后一天）。～夕。\n(3)不计算在内～非。～外。\n(4)算术中用一个数去分另一个数，是乘”的反运算～法。\n(5)台阶阶～。庭～。\n(6)任命官职～拜（授官）。～授。～书（授官的诏令）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-除"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f257b8aca94eaae30136f840",
+  "title": "喜雪六首  其四",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "淮春之楼高突兀，凭栏小耐寒如割。",
+    "平湖穹山两西子，爱此鲜粧巧涂抹。",
+    "回首斜阳照屋梁，玉际坤舆尚摧压。",
+    "今宵更呼甓社龙，高挂明珠照空阔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-a8b3521f-3f0a-40c4-9b6b-5eba4e1a2940"
+}

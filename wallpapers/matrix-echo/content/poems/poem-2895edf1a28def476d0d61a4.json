@@ -1,0 +1,20 @@
+{
+  "id": "poem-2895edf1a28def476d0d61a4",
+  "title": "中秋",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "尘里兼尘外，咸期此夕明。",
+    "一年惟一度，长恐有云生。",
+    "露洗微埃尽，光濡是物清。",
+    "朗吟看正好，惆怅又西倾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "抒情",
+    "节日",
+    "中秋"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-64f7ffee-d8d2-40c2-96b1-f65bb510bf2b"
+}

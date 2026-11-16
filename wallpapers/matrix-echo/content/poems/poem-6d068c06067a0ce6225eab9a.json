@@ -1,0 +1,16 @@
+{
+  "id": "poem-6d068c06067a0ce6225eab9a",
+  "title": "菩萨蛮 其十二",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "夜来皓月才当午，重帘悄悄无人语。",
+    "深处麝烟长，卧时留薄妆。",
+    "当年还自惜，往事那堪忆。",
+    "花落月明残，锦衾知晓寒。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-11",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7a6191eb7938ddf235967b83",
+  "title": "同前换头",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "你却说得是，教人泪暗滴。",
+    "我当初娶它归，将谓好行止。",
+    "谁知甚的？事到头来，全无区处。",
+    "受尽凌迟，如今悔之无及。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8661",
+  "tags": []
+}

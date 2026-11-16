@@ -1,0 +1,16 @@
+{
+  "id": "poem-71f92f53e3e87ec9e957ae12",
+  "title": "秋闺",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "征客向轮台，幽闺寂不开。",
+    "音书秋鴈断，机杼夜蛩催。",
+    "虚幌风吹叶，闲阶露湿苔。",
+    "自怜愁思影，常共月裴回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-b84e25ca-6a35-40f4-8ddb-65f9a52d332c"
+}

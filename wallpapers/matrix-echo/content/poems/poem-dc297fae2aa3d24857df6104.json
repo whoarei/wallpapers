@@ -1,0 +1,22 @@
+{
+  "id": "poem-dc297fae2aa3d24857df6104",
+  "title": "渔家傲·十月小春梅蕊绽",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "十月小春梅蕊绽。",
+    "红炉画阁新妆遍。",
+    "锦帐美人贪睡暖。",
+    "羞起晚。",
+    "玉壶一夜冰澌满。",
+    "楼上四垂帘不卷。",
+    "天寒山色偏宜远。",
+    "风急雁行吹字断。",
+    "红日短。",
+    "江天雪意云撩乱。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-647",
+  "tags": []
+}

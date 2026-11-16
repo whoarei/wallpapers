@@ -1,0 +1,16 @@
+{
+  "id": "poem-a8f8647813174636203df09c",
+  "title": "避寇入银山",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "草草穿银峡，崎岖路未谙。",
+    "傍山为店戍，永日绕溪潭。",
+    "烧地生芚蕨，人家煮伪蚕。",
+    "翻如归旧隐，步步入烟岚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-9ba76ba7-23d1-4762-a9f7-2050c3a228da"
+}

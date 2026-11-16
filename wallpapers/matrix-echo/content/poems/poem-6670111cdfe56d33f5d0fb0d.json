@@ -1,0 +1,16 @@
+{
+  "id": "poem-6670111cdfe56d33f5d0fb0d",
+  "title": "玉楼春·春入横塘摇浅浪",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "春入横塘摇浅浪，花落小园空惆怅。",
+    "此情谁信为狂夫，恨翠愁红流枕上。",
+    "小玉窗前嗔燕语，红泪滴窗金线缕。",
+    "雁归不见报郎归，织成锦字封过与。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-23"
+}

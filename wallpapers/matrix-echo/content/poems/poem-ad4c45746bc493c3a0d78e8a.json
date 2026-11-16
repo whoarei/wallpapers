@@ -1,0 +1,18 @@
+{
+  "id": "poem-ad4c45746bc493c3a0d78e8a",
+  "title": "如梦令·厮守许多时价",
+  "author": "向",
+  "dynasty": "宋",
+  "verses": [
+    "厮守许多时价。",
+    "谁信一筹不画。",
+    "相送到矾园，赢得泪珠如泻。",
+    "挥洒。",
+    "挥洒。",
+    "将底江州司马。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-216",
+  "tags": []
+}

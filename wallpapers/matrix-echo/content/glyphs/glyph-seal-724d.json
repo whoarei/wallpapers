@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-724d",
+  "script": "seal",
+  "character": "牍",
+  "reading": "dú",
+  "description": "引申为公文\n无丝竹之乱耳,无案牍之\n①古代书写用的木片。\n②文件；书信文～、尺～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-牍"
+}

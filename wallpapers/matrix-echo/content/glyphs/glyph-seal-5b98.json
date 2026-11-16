@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b98",
+  "script": "seal",
+  "character": "官",
+  "reading": "guān",
+  "description": "guān：(1)在政府担任职务的人～吏。～僚。～邸。～腔。～署。～厅。～爵。\n(2)属于国家的或公家的～办。～费。～方。～府。\n(3)生物体上有特定机能的部分感～。器～。五～。～能。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-官"
+}

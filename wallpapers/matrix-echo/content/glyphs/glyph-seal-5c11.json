@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c11",
+  "script": "seal",
+  "character": "少",
+  "reading": "shǎo；shào",
+  "description": "shǎo：(1)数量小的，与多”相对多～。～量。～许。\n(2)缺，不够缺～。减～。\n(3)不经常～有。～见。\n(4)短时间～等。～候。～顷。\n(5)丢，遗失屋里～了东西。\n(6)轻视且夫我尝闻～仲尼之闻而轻伯夷之义者，如吾弗信，今我睹子之难穷也”。\n长；老；多；\nshào：(1)年纪轻或年轻人～年。～女。～壮（年轻力壮）。\n(2)古代辅佐长官的副职～傅。～保。\n(3)次级的～校。～将（jiàng）。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-少"
+}

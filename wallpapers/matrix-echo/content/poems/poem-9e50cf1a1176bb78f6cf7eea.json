@@ -1,0 +1,18 @@
+{
+  "id": "poem-9e50cf1a1176bb78f6cf7eea",
+  "title": "南徐好·南徐好",
+  "author": "仲殊",
+  "dynasty": "宋",
+  "verses": [
+    "南徐好，多景在楼前。",
+    "京口万家寒食日，淮南千里夕阳天。",
+    "天际几重山。",
+    "莺啼处，人倚画阑干。",
+    "西寨烟深晴后色，东风春减夜来寒。",
+    "花满过江船。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-894",
+  "tags": []
+}

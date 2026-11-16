@@ -1,0 +1,16 @@
+{
+  "id": "poem-10986d4d25eb9d7bf779189e",
+  "title": "送防秋将",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "白首征西将，犹能射戟支。",
+    "元戎选部曲，军吏换旌旗。",
+    "逐虏招降远，开边旧垒移。",
+    "重收陇外地，应似汉家时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-b0173008-7777-4799-afe3-7e1b4bd1ce89"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-91aa85c29aa8ddd68e07e718",
+  "title": "新水令",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(老旦)凄凉逆旅人千早，(旦)这萦牵怎生成寐？(小旦)万苦横心里。",
+    "(合)睡不着，是愁都做枕边泪。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3024",
+  "tags": []
+}

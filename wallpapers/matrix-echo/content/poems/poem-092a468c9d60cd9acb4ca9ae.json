@@ -1,0 +1,16 @@
+{
+  "id": "poem-092a468c9d60cd9acb4ca9ae",
+  "title": "女冠子·露花烟草",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "露花烟草，寂寞五云三岛，春正深。",
+    "貌减潜消玉，香残尚惹襟。",
+    "竹疏虚槛静，松密醮坛阴。",
+    "何事刘郎去，信沉沉。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-38"
+}

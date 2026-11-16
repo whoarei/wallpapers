@@ -1,0 +1,17 @@
+{
+  "id": "poem-1354a1bb2ef00dc03afed5f8",
+  "title": "感庭秋・撼庭秋·红笺封了还重拆",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "红笺封了还重拆。",
+    "这添追忆。",
+    "且教伊见我，别来翠减香销端的。",
+    "渌波平远，暮山重叠，算难凭鳞翼。",
+    "倚危楼极目，无情细草长天色。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-803",
+  "tags": []
+}

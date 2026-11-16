@@ -1,0 +1,16 @@
+{
+  "id": "poem-7653fafd43fe8470f499d71a",
+  "title": "追赋画江潭苑四首 二",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "宝袜菊衣单，蕉花密露寒。",
+    "水光兰泽叶，带重剪刀钱。",
+    "角暖盘弓易，靴长上马难。",
+    "泪痕沾寝帐，匀粉照金鞍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-b2df42a4-a3a4-4405-844c-de1bf5f05cb3"
+}

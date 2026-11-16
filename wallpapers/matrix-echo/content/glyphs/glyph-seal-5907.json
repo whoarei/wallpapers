@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5907",
+  "script": "seal",
+  "character": "备",
+  "reading": "bèi",
+  "description": "完备;齐备\n①具有德才兼～。\n②准备～课。#防备～战。\n④完全关怀～至。\n【备忘录】\n①外交文书。声明自己方面对某问题的立场，或把某些事项的概况通知对方。\n②随时记载，帮助记忆的笔记本。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-备"
+}

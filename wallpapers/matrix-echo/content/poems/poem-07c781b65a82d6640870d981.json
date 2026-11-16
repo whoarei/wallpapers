@@ -1,0 +1,18 @@
+{
+  "id": "poem-07c781b65a82d6640870d981",
+  "title": "山出云",
+  "author": "陆畅",
+  "dynasty": "唐",
+  "verses": [
+    "灵山蓄云彩，纷郁出清晨。",
+    "望树繁花白，看峰小雪新。",
+    "映松张盖影，依涧布鱼鳞。",
+    "高似从龙处，低如触石频。",
+    "浓光藏半岫，浅色类飘尘。",
+    "玉叶开天际，遥怜占早春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-71b52a42-55e2-4a93-87ab-c86f12b2b55f"
+}

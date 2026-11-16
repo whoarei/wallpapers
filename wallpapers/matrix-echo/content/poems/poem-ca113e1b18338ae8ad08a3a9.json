@@ -1,0 +1,19 @@
+{
+  "id": "poem-ca113e1b18338ae8ad08a3a9",
+  "title": "寻隐者不遇",
+  "author": "贾岛",
+  "dynasty": "唐",
+  "verses": [
+    "松下问童子，言师采药去。",
+    "只在此山中，云深不知处。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "五言绝句",
+    "写人",
+    "寻访",
+    "唐诗三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-4f6575cc-12cc-4986-8bfc-5cedac7bb68f"
+}

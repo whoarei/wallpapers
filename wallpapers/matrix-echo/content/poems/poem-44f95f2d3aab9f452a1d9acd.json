@@ -1,0 +1,16 @@
+{
+  "id": "poem-44f95f2d3aab9f452a1d9acd",
+  "title": "偈颂（幷序○序为南岳齐己撰） 四十三",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "木食草衣心似月，一生无念复无涯。",
+    "时人若问居何处，渌水青山是我家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-b72b0da6-c480-4edd-9acc-0e3bca21cc8e"
+}

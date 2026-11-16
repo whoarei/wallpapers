@@ -1,0 +1,16 @@
+{
+  "id": "poem-c117118316b948ba23952e77",
+  "title": "寄友人",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "忆在江南日，同游三月时。",
+    "采茶寻远涧，鬬鸭向春池。",
+    "送客沙头宿，招僧竹里碁。",
+    "如今各千里，无计得相随。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a9c7c5b0-202f-42be-876d-62737b4daab0"
+}

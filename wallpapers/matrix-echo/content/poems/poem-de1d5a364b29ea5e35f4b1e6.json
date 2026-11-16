@@ -1,0 +1,14 @@
+{
+  "id": "poem-de1d5a364b29ea5e35f4b1e6",
+  "title": "新主簿沈机惠棋局",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "纵横世路久无猜，布劫争先岂系怀。",
+    "与我一枰撩万绪，操戈信是逐生来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-2ea8cda8-65ab-4817-98fa-43178860ef49"
+}

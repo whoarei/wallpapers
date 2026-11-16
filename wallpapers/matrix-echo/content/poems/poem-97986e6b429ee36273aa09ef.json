@@ -1,0 +1,14 @@
+{
+  "id": "poem-97986e6b429ee36273aa09ef",
+  "title": "我将",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "我将我享，维羊维牛，维天其右之。仪式刑文王之典，日靖四方。",
+    "伊嘏文王，既右飨之。我其夙夜，畏天之威，于时保之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-271"
+}

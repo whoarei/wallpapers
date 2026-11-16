@@ -1,0 +1,14 @@
+{
+  "id": "poem-c5ed29b08560d1d5cfd0f871",
+  "title": "赠小苏",
+  "author": "关景仁",
+  "dynasty": "宋",
+  "verses": [
+    "昔日闻苏小，今朝见小苏。",
+    "未知苏小貌，得似小苏无。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-fec62c94-0981-4f5e-932a-f228532ae98d"
+}

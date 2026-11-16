@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-987e",
+  "script": "seal",
+  "character": "顾",
+  "reading": "gù",
+  "description": "⒈回头看瞻前～后。〈引〉看左～右盼。环～四周。\n⒉注意，照管，关心～全大局。照～。关～。奋不～身。\n⒊探望，拜访三～茅庐。\n⒋商店称来买货物的善待～客。优惠老～主。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-顾"
+}

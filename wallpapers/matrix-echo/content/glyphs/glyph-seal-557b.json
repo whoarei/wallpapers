@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-557b",
+  "script": "seal",
+  "character": "啻",
+  "reading": "chì",
+  "description": "chì：但，只何～。奚～。\n〔不～〕a.不止，不只，如～～如此”；b.不异于，如～～兄弟”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-啻"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-be531e01857f6d937e1fcdd9",
+  "title": "登兖州城楼",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "东郡趋庭日，南楼纵目初。",
+    "浮云连海岱，平野入青徐。",
+    "孤嶂秦碑在，荒城鲁殿余。",
+    "从来多古意，临眺独踌躇。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-登兗州城樓"
+}

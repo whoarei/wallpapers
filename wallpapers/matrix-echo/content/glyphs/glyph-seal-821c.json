@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-821c",
+  "script": "seal",
+  "character": "舜",
+  "reading": "shùn",
+  "description": "shùn：(1)传说中的上古帝王尧～（传说均是上古的贤明君主，后泛指圣人）。尧天～日（喻太平盛世）。\n(2)木槿”的别称颜如～华（喻女子容貌美丽）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舜"
+}

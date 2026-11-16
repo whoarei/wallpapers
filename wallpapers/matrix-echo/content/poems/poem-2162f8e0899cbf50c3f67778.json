@@ -1,0 +1,14 @@
+{
+  "id": "poem-2162f8e0899cbf50c3f67778",
+  "title": "春夜",
+  "author": "王安石",
+  "dynasty": "宋",
+  "verses": [
+    "金炉香烬漏声残，剪剪轻风阵阵寒。",
+    "春色恼人眠不得，月移花影上栏杆。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-春夜"
+}

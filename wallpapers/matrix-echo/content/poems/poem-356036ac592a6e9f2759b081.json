@@ -1,0 +1,16 @@
+{
+  "id": "poem-356036ac592a6e9f2759b081",
+  "title": "与诸同僚偶会赋八题 府庠小沼",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "面向秦淮流，背枕清溪水。",
+    "当轩观未足，凿沼近可拟。",
+    "月明练光寒，风动漪涟起。",
+    "不用植菰蒲，惟将鉴容止。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-0612b620-cbf1-45c5-9927-bba8a9e60be9"
+}

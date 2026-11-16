@@ -1,0 +1,17 @@
+{
+  "id": "poem-c717793af7c82ce939989f93",
+  "title": "三七",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "见恶须藏掩，知贤中华赞阳。",
+    "（「唯」，伯三五五八作「为」。",
+    "「阳」，项楚校作「扬」。",
+    "）但（一本作「若」。",
+    "）能依此语，秘密立身方。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-7e3bc977-d2b8-4bc9-b264-e2d63f9e3e47"
+}

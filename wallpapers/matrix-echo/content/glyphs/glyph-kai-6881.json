@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6881",
+  "script": "kai",
+  "character": "梁",
+  "reading": "liáng",
+  "description": "liáng：(1)架在墙上或柱子上支撑房顶的横木，泛指水平方向的长条形承重构件房～。栋～。～上君子（指窃贼）。\n(2)桥桥～。津～（渡口和桥梁，借指学习的门径）。\n(3)器物、身体或其他物体上中间高起的部分鼻～。山～。车～。\n(4)中国战国时期国名，魏国于公元前361年迁都大梁（今河南省开封市）后，改称梁”。\n(5)中国朝代名（ａ．南朝之一；ｂ．五代之一）。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梁"
+}

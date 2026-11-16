@@ -1,0 +1,17 @@
+{
+  "id": "poem-b983458e94efe1ba30932535",
+  "title": "拟古",
+  "author": "龚霖",
+  "dynasty": "唐",
+  "verses": [
+    "凉风摇翠袂，倚槛恨难平。",
+    "远路人无信，西楼月又生。",
+    "菱花消旧态，瑶瑟续新声。",
+    "暗觉新声苦，夫谁知此情？",
+    "（同前第六册第三八九七页）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-954cae91-578d-4641-9c2b-064d019836c9"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f27dc64af931e341803a7156",
+  "title": "偈颂（幷序○序为南岳齐己撰） 八十四",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "祇为因无用，方能伴住山。",
+    "不因无用后，伴我住应难。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-c58149cd-4d62-41d4-9302-b9c397c28949"
+}

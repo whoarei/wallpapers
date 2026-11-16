@@ -1,0 +1,15 @@
+{
+  "id": "poem-48c4ab4c853af3b75108b0fe",
+  "title": "水红花",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)忆昔歌舞宴楼台，会金钗。",
+    "欢娱难再。",
+    "(生)思之诗酒看书斋，命多乖，风光难再。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2954",
+  "tags": []
+}

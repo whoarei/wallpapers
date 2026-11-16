@@ -1,0 +1,17 @@
+{
+  "id": "poem-e99b80dc37db5c40973997b1",
+  "title": "浣溪沙·飞鹊台前晕翠蛾",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "飞鹊台前晕翠蛾。",
+    "千金新买帝青螺。",
+    "最难如意为情多。",
+    "几处泪痕留醉袖，一春愁思近横波。",
+    "远山低尽不成歌。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-820",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-88a5f30e94bb17df169c6ad5",
+  "title": "正月偶示颂",
+  "author": "文益",
+  "dynasty": "唐",
+  "verses": [
+    "正月春，顺时节。",
+    "情有无，皆含悦。",
+    "君要知，得谁力。",
+    "更问谁，教谁决。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-588a71e3-173a-4f5a-96d2-a5240cd23fc0"
+}

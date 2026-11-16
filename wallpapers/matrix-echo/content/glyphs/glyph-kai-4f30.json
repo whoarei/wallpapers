@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f30",
+  "script": "kai",
+  "character": "估",
+  "reading": "gū；gù",
+  "description": "gū：(1)揣测，大致地推算～计。～价。～一～。\n(2)古同贾”，商人。\ngù：〔～衣〕出售的旧衣服或原料较次、加工较粗的新衣服。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-估"
+}

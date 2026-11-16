@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-964c",
+  "script": "kai",
+  "character": "陌",
+  "reading": "mò",
+  "description": "mò：(1)田间东西方向的道路，泛指田间小路阡～。～上。～头（路边）。～路（ａ．田间道路；ｂ．指路上相见而不认识的人，如视同～～”）。\n(2)生疏，不熟悉～生。\n(3)市中街道街～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陌"
+}

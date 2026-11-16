@@ -1,0 +1,20 @@
+{
+  "id": "poem-a1e6c54e434114909836a03d",
+  "title": "蝶恋花·贴鬓香云双绾绿",
+  "author": "李冠",
+  "dynasty": "宋",
+  "verses": [
+    "贴鬓香云双绾绿。",
+    "柳弱花娇，一点春心足。",
+    "不肯玉箫闲度曲。",
+    "恼人特把青蛾蹙。",
+    "静夜溪桥霜薄屋。",
+    "独影行歌，惊起双鸾宿。",
+    "愁破酒阑闺梦熟。",
+    "月斜窗外风敲竹。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-577",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-242f0d1bd98a8dcf20a9dc8a",
+  "title": "采桑子·明月多情应笑我",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "明月多情应笑我，笑我如今。",
+    "辜负春心，独自闲行独自吟。",
+    "近来怕说当时事，结遍兰襟。",
+    "月浅灯深，梦里云归何处寻。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-210"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5f1c5ce4efb994acbbc54efc",
+  "title": "唐享昊天乐 第九",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "荷恩承顾托，执契恭临抚。",
+    "庙略静边荒，天兵曜神武。",
+    "有截资先化，无为遵旧矩。",
+    "祯符降昊穹，大业光寰宇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-20970cd3-7041-486e-b7b5-3ec719f181b3"
+}

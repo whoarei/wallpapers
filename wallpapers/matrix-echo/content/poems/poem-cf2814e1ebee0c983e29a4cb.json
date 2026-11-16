@@ -1,0 +1,16 @@
+{
+  "id": "poem-cf2814e1ebee0c983e29a4cb",
+  "title": "舜城怀古",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "禅禹逊尧聪，巍巍盛此中。",
+    "四隅咸启圣，万古赖成功。",
+    "道德去弥远，山河势不穷。",
+    "停车一再拜，帝业即今同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4f2af79e-69f3-4aa9-8857-9f25d75d8517"
+}

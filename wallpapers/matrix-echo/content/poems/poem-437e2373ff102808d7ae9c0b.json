@@ -1,0 +1,16 @@
+{
+  "id": "poem-437e2373ff102808d7ae9c0b",
+  "title": "次曹少蓬梅花韵",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "涧边寻得压残枝，远寄蓬仙换得诗。",
+    "闯水花多凝雪重，漱冰香透出山迟。",
+    "笑从秘府朱颜索，洁与缁云素幌宜。",
+    "簷隙一痕华月堕，伴蟾蜍玉惜贞姿。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-2a75699e-314b-45da-9838-17d7f30dc09a"
+}

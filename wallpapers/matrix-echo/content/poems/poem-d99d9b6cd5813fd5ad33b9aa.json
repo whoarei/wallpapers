@@ -1,0 +1,14 @@
+{
+  "id": "poem-d99d9b6cd5813fd5ad33b9aa",
+  "title": "龙安院",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "蔓草丛生伴棘薪，古藤直上绕松身。",
+    "寺前寺后清幽处，山鸟飞来不避人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-db3d4a29-aee8-4f97-9b36-9c897c79cbf3"
+}

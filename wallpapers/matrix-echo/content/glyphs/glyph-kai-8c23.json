@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8c23",
+  "script": "kai",
+  "character": "谣",
+  "reading": "yáo",
+  "description": "流言\n行歌,乐曲\n⒈不用伴奏的韵语、歌词童～。民～。歌～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谣"
+}

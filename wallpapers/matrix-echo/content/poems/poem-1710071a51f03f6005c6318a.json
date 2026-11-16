@@ -1,0 +1,14 @@
+{
+  "id": "poem-1710071a51f03f6005c6318a",
+  "title": "醉起",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "醉起西窗日欲斜，新烟初试雨前茶。",
+    "川原春意无聊頼，开尽桐花到柿花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b11330ce-b119-4906-879d-b97463ac98fd"
+}

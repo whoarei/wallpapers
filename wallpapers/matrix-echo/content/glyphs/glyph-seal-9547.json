@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9547",
+  "script": "seal",
+  "character": "镇",
+  "reading": "zhèn",
+  "description": "安定～静。～定。\n军事上重要的地方边防重～。\n中国县以下的行政区划单位。\n较大的集市城～。村～。\n把饮料等同冰或冷水放在一起使凉冰～。\n时常十年～相随。\n中国明、清两代军队的编制单位。\n姓。\n⒈压，压制，慑住～尺。～纸。～压。～慑。～住。\n⒉安定～定。～静。～国家，抚百姓。\n⒊守住，用兵驻守～守。坐～。\n⒋较大的集市村～。乡～。市～。\n⒌将饮料等与冰或冷水放在一起使凉冰～汽水。\n⒍通\"整\"。整段时间，时常～日。～相随。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镇"
+}

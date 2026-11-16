@@ -1,0 +1,21 @@
+{
+  "id": "poem-8e2e3aea032d3331d8edd81f",
+  "title": "谢李辀再到",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "等闲拜日晚，夫妻独相疮。",
+    "况是贤人冤，何必哭飞杨。",
+    "昨夜梦得劒，为君藏中肠。",
+    "会将当风烹，血染布衣裳。",
+    "劳君又扣门，词句失寻常。",
+    "我不忍出厅，血字湿土墙。",
+    "血字耿不灭，我心惧惶惶。",
+    "会有铿锵夫，见之目生光。",
+    "生光非等闲，君其且安祥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-17678211-6bd8-4c2c-9ed9-cec4de707be0"
+}

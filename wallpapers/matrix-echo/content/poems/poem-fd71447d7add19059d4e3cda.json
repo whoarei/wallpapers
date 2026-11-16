@@ -1,0 +1,16 @@
+{
+  "id": "poem-fd71447d7add19059d4e3cda",
+  "title": "寄终南真空禅师",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "闲想白云外，了然清净僧。",
+    "松门山半寺，夜雨佛前灯。",
+    "此境可长住，浮生自不能。",
+    "一从林下别，瀑布几成冰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3a4f111b-6ab4-4457-9021-8c216f44ddf7"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-887e",
+  "script": "seal",
+  "character": "衾",
+  "reading": "qīn",
+  "description": "qīn：(1)被子～枕。\n(2)尸体入殓时盖尸的东西。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-衾"
+}

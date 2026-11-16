@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9cd0",
+  "script": "seal",
+  "character": "鳐",
+  "reading": "yáo",
+  "description": "鳐鱼\n鳐yáo鳐鱼，体扁平，略呈圆形或菱形，尾细长。种类很多。某些类鳐鱼有一对能发电的器官。生活在海中。肉可食，肝可制鱼肝油。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鳐"
+}

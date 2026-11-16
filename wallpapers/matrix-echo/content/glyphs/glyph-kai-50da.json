@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-50da",
+  "script": "kai",
+  "character": "僚",
+  "reading": "liáo",
+  "description": "liáo：(1)官官～。\n(2)旧指同在一起做官的～属（下属的官吏）。～友。～佐。幕～。\n(3)古代对一种奴隶或差役的称谓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-僚"
+}

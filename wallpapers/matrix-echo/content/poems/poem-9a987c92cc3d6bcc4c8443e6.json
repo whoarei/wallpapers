@@ -1,0 +1,14 @@
+{
+  "id": "poem-9a987c92cc3d6bcc4c8443e6",
+  "title": "范真传侍御累有寄因奉酬十首 九",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "萋萋巫峡云，楚客莫留恩。",
+    "岁久晋阳道，谁能向太原。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-a1a249ad-546d-4e0f-92aa-ad45b5843466"
+}

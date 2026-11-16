@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7735",
+  "script": "seal",
+  "character": "眵",
+  "reading": "chī",
+  "description": "chī：眼睛分泌出来的液体凝结成的淡黄色的东西。俗称眼屎”，亦称眵目糊（hū）”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-眵"
+}

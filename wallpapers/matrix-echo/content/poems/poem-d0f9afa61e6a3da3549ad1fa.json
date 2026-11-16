@@ -1,0 +1,16 @@
+{
+  "id": "poem-d0f9afa61e6a3da3549ad1fa",
+  "title": "霜天晓角·重来丁酒",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "重来丁酒，折尽风前柳。",
+    "若问看花情绪，似当日，怎能够。",
+    "休为西风瘦，痛饮频搔首。",
+    "自古青蝇白璧，天已早安排就。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-206"
+}

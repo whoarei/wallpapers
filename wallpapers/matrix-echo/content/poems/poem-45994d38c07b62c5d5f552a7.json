@@ -1,0 +1,17 @@
+{
+  "id": "poem-45994d38c07b62c5d5f552a7",
+  "title": "摊声浣溪沙・浣溪沙·日照门前千万峰",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "日照门前千万峰。",
+    "晴飙先扫冻云空。",
+    "谁作素涛翻玉手，小团龙。",
+    "定国精明过少壮，次公烦碎本雍容。",
+    "听讼阴中苔自绿，舞衣红。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-754",
+  "tags": []
+}

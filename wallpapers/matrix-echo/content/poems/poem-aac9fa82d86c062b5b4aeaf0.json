@@ -1,0 +1,17 @@
+{
+  "id": "poem-aac9fa82d86c062b5b4aeaf0",
+  "title": "朝中措·酴醿芳架引繁英",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "酴醿芳架引繁英。",
+    "香远透帘清。",
+    "更与洛阳花市，一齐移在宫庭。",
+    "琉璃万朵，娇红嫩紫，总是嘉名。",
+    "殿阁真仙同赏，天颜喜入欢声。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-157",
+  "tags": []
+}

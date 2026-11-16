@@ -1,0 +1,16 @@
+{
+  "id": "poem-3f883707e6326da88d4b6c67",
+  "title": "感藂草初生",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "覊客绝知闻，急难阻投杖。",
+    "泪与泉俱流，愁将草齐长。",
+    "缧绁淹岁年，归期唯梦想。",
+    "春色纵芳菲，片心终郁怏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-cc2e8a04-c10f-4b19-a7ae-80620d30dd35"
+}

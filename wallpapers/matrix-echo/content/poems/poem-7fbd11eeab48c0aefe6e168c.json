@@ -1,0 +1,20 @@
+{
+  "id": "poem-7fbd11eeab48c0aefe6e168c",
+  "title": "励学",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "买地不肥实，其繁系耕凿。",
+    "良田少锄理，兰焦香亦薄。",
+    "勿以听者迷，故使宫征错。",
+    "谁言三岁童，还能分善恶。",
+    "孜孜日求益，犹恐业未博。",
+    "况我性顽蒙，复不勤修学。",
+    "有如朝暮食，暂亏忧陨获。",
+    "若使无六经，贤愚何所托。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-ab7653e1-0fe1-4051-bc3e-e6b08d29ae19"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-9089becaa2d23c5666dfd435",
+  "title": "贫交行",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "飜手作云覆手雨，纷纷轻薄何须数。",
+    "不见管鲍贫时交，此道今人弃如土。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "友情",
+    "怀古",
+    "愤懑"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7014a7a3-6b60-46bc-9631-63c6a724574d"
+}

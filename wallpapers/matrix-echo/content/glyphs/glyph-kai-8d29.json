@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d29",
+  "script": "kai",
+  "character": "贩",
+  "reading": "fàn",
+  "description": "古国名\n买货出售\n也单指买进货物\n比喻叛卖\n⒈指买货或买后再出卖～了一批货回来。～卖。\n⒉做买卖的行商或小商人小商～。摆摊～。鱼～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-贩"
+}

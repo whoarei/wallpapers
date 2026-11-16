@@ -1,0 +1,14 @@
+{
+  "id": "poem-7849fc354dc449f02995c9bb",
+  "title": "春秋战国门 再吟",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "不得商于又失齐，楚怀方寸一何迷。",
+    "明知秦是虎狼国，更忍车轮独向西。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-25e584a2-98bd-413c-b3c8-6b661b942867"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f4fcfbbb6a978d030a5fd1ba",
+  "title": "偈颂（幷序○序为南岳齐己撰） 三十三",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "毫厘有差千里隔，刹那一悟祖师齐。",
+    "玄微须向玄中体，道用还教道者知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-318b2b48-17df-4d7f-84e5-28f64ff66fa9"
+}

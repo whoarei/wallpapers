@@ -1,0 +1,19 @@
+{
+  "id": "poem-7bdf32a9326bbaa9ee75d5ce",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(丑)小梅香，待回言，恐触突了使长。",
+    "不回言，这无情棒打难当，怎知道祸从天降。",
+    "他本是守荆钗寒门孟光。",
+    "(外)潜奔之女，什么孟光！(丑)休错认做出墙花淮甸双双。",
+    "我说起这行藏。",
+    "(外)说什么来？(丑)他说道：烧香的王太守，好似亡夫模样。",
+    "寻思痛感伤，因此上和妾在此闲讲，又个曾想像赴高唐。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8340",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5411",
+  "script": "seal",
+  "character": "向",
+  "reading": "xiàng",
+  "description": "泛指窗户\n方向;方位\n⒈朝着，对着～着。朝～。面～朝阳。\n⒉方位，目标，意志所趋方～。走～。奔～〗～。趋～。志～。\n⒊从前，往昔，从来～日。～来。～无先例。\n⒋接近，将近～明。～夕。\n⒌假如，假使～不出其技。\n⒍偏袒偏～。婆婆疼～小孙女。\n向xiǎng 1.通\"享\"。享有，享受。 2.通\"飨\"。犒赏，赐赏。 3.通\"飨\"。祭献。 4.通\"响\"。回声;声音。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-向"
+}

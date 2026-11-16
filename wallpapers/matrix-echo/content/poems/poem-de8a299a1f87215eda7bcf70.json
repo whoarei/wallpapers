@@ -1,0 +1,18 @@
+{
+  "id": "poem-de8a299a1f87215eda7bcf70",
+  "title": "省题诗二十一首 寒雨滴空阶",
+  "author": "王棨",
+  "dynasty": "唐",
+  "verses": [
+    "霏霏飘永夜，滴滴落空阶。",
+    "自有路歧恨，那堪离别怀。",
+    "簷前声乍碎，枕畔梦全乖。",
+    "远与岩泉杂，微将漏水谐。",
+    "天涯思旧友，法上忆闲斋。",
+    "坐到空庭晓，残云带石崖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-9b924327-8d39-4fe3-a3d2-ed0ec225571c"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-29f2f0eb6619be077d8856f0",
+  "title": "送郎使君赴郢州",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "使君持节去，云水满前程。",
+    "楚寺多连竹，江樯远暎城。",
+    "登楼向月望，赛庙傍山行。",
+    "若动思乡咏，应贻谢步兵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-f66d3849-b32b-41d8-8bc0-8845cb0eb7ed"
+}

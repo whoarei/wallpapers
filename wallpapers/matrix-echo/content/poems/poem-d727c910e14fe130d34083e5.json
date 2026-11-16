@@ -1,0 +1,16 @@
+{
+  "id": "poem-d727c910e14fe130d34083e5",
+  "title": "送郄先辈归觐华阴",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "桂枝博得凤栖枝，欢觐家僮舞翠微。",
+    "僧向瀑泉声里贺，鸟穿仙掌指间飞。",
+    "休停砚笔吟荒庙，永别灯笼赴锁闱。",
+    "骚雅近来颓丧甚，送君傍觉有光辉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e6ae71b0-28e1-4c6e-9c94-f5eec4b3e3c2"
+}

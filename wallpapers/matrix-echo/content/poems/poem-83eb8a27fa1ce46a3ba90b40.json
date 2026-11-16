@@ -1,0 +1,16 @@
+{
+  "id": "poem-83eb8a27fa1ce46a3ba90b40",
+  "title": "女冠子·星高月午",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "星高月午，丹桂青松深处。",
+    "醮坛开，金磬敲清露，珠幢立翠苔。",
+    "步虚声缥缈，想象思徘徊。",
+    "晓天归去路，指蓬莱。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-35"
+}

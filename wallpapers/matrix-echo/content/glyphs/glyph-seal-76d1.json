@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-76d1",
+  "script": "seal",
+  "character": "监",
+  "reading": "jiān",
+  "description": "以监其上下之所好。”\n王怒,\n⒈察看，督察，从上看下～督。～察。～观四方。\n⒉牢，狱～牢。～狱。坐～房。\n监kàn 1.地名用字。参见\"监乡\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-监"
+}

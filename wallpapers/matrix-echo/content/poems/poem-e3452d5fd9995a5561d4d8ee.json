@@ -1,0 +1,16 @@
+{
+  "id": "poem-e3452d5fd9995a5561d4d8ee",
+  "title": "题王氏志嘉堂二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "秀岭云屏拥，湍流玉佩锵。",
+    "竹光深锁翠，兰气暗腾芳。",
+    "岂谓兵戈日，来登君子堂。",
+    "美才方世用，嘉遯自难忘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-842b8a9f-cbfb-4f5d-ad1f-c11b140f96bf"
+}

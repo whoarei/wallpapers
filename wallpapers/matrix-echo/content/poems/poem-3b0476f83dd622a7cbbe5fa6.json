@@ -1,0 +1,14 @@
+{
+  "id": "poem-3b0476f83dd622a7cbbe5fa6",
+  "title": "听琴",
+  "author": "苏替",
+  "dynasty": "唐",
+  "verses": [
+    "弦中恨起湘山远，指下情多楚峡流。",
+    "危槛曲终云影曙，高楼风定烛光秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-1ba636ab-c4b0-4a0f-83ed-dd7a5b4c37cc"
+}

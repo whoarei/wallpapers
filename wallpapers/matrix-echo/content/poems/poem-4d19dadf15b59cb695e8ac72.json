@@ -1,0 +1,16 @@
+{
+  "id": "poem-4d19dadf15b59cb695e8ac72",
+  "title": "病马五首呈郑校书章三吴十五先辈 四",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "空被秋风吹病毛，无因濯浪刷洪涛。",
+    "卧来总怪龙蹄跙，瘦尽谁惊虎口高。",
+    "追电有心犹欵段，逢人相骨强嘶号。",
+    "欲将鬐鬣重裁剪，乞借新成利铰刀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-d40daf0a-349c-428f-a8d5-d292ca483ef2"
+}

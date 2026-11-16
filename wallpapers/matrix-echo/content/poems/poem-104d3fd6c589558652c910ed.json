@@ -1,0 +1,16 @@
+{
+  "id": "poem-104d3fd6c589558652c910ed",
+  "title": "奉和御制旋师喜捷",
+  "author": "裴漼",
+  "dynasty": "唐",
+  "verses": [
+    "殊类骄无长，王师示有征。",
+    "中军才受律，妖寇已亡精。",
+    "斩虏还遮塞，绥降更筑城。",
+    "从来攻必克，天策振奇兵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-8999600e-5b3f-44a0-9c15-a8b309a2f3c0"
+}

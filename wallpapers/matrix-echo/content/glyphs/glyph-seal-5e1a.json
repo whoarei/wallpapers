@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e1a",
+  "script": "seal",
+  "character": "帚",
+  "reading": "zhǒu",
+  "description": "zhǒu：扫除尘土、垃圾的用具扫～。笤～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-帚"
+}

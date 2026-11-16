@@ -1,0 +1,14 @@
+{
+  "id": "poem-bcac90583ac65b491b420c70",
+  "title": "广惠寺",
+  "author": "蔡清臣",
+  "dynasty": "宋",
+  "verses": [
+    "云中老树冷萧萧，溪上僧归倚画桡。",
+    "谁为秋风乘兴去，松窗先听富阳潮。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-ab0dfd11-6435-40f8-b234-c2c97508ab28"
+}

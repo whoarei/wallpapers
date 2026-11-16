@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-90e1",
+  "script": "seal",
+  "character": "郡",
+  "reading": "jùn",
+  "description": "jùn：古代行政区域，中国秦代以前比县小，从秦代起比县大～县。秦分天下为三十六～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-郡"
+}

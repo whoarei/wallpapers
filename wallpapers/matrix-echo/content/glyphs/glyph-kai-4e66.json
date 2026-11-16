@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e66",
+  "script": "kai",
+  "character": "书",
+  "reading": "shū",
+  "description": "乃丹书帛曰陈胜王”,置人所罾鱼\n⒈写，记载～写。奋笔疾～。大～特～。\n⒉文字读其～。读～破万卷。\n⒊信家～。来～已收。\n⒋文件证～。决心～。倡议～。\n⒌装订成册的著作～籍。著～立说。\n⒍字体楷～。行～。草～。\n⒏称某些曲艺说～。鼓～。\n①汉字的书写法则。\n②汉字的书写艺术，也省称\"书\"～画展览。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-书"
+}

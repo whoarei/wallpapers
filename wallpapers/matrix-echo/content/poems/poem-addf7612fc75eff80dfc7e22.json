@@ -1,0 +1,14 @@
+{
+  "id": "poem-addf7612fc75eff80dfc7e22",
+  "title": "双泉",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "槛泉涌出不多深，兑泽相资互有心。",
+    "水净苦嫌尘土污，底须吾欲濯吾襟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-fb921263-8e63-477a-99c0-9f5ceecf558d"
+}

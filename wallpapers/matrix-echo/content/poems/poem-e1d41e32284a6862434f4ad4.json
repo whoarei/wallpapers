@@ -1,0 +1,18 @@
+{
+  "id": "poem-e1d41e32284a6862434f4ad4",
+  "title": "辟阳城",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "荒城在高岸，凌眺俯清淇。",
+    "传道汉天子，而封审食其。",
+    "奸淫且不戮，茅土孰云宜。",
+    "何得英雄主，返令儿女欺。",
+    "母仪良已失，臣节岂如斯。",
+    "太息一朝事，乃令人所嗤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7d8d9dcc-9ef1-4fa9-9138-39a17fce08b4"
+}

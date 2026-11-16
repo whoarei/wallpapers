@@ -1,0 +1,15 @@
+{
+  "id": "poem-fd69431d277cf2c303d742a5",
+  "title": "宋中十首 二",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "朝临孟诸上，忽见芒砀间。",
+    "赤帝终已矣，白云长不还。",
+    "时清更何有，禾黍徧空山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-1082dfa9-28dd-4dfe-9e5e-e8baa0bea8ad"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-333df364d2556654dd9da056",
+  "title": "题钟隐画鹖子鸟",
+  "author": "金昌宗",
+  "dynasty": "唐",
+  "verses": [
+    "多厌翻翔下苇丛，戢翰侧脑思何穷？",
+    "侍童莫便褰帘过，只恐惊飞入碧空。",
+    "（见宋刘道醇《五代名画补遗》。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-fad9da7f-53db-4866-8ff0-38fa42f6255c"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b40fb3774416604fd890b621",
+  "title": "春夜月",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "幽人春望本多情，况是花繁月正明。",
+    "竟夕无言亦无寐，绕阶芳草影随行。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-5d330dc4-b9dd-458a-b465-6430de8f8433"
+}

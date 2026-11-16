@@ -1,0 +1,16 @@
+{
+  "id": "poem-51cb3c1f88fa2e23aaf17b0f",
+  "title": "题令狐处士谿居",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "白发已过半，无心离此溪。",
+    "病尝山药徧，贫起草堂低。",
+    "为月窗从破，因诗壁重泥。",
+    "近来常夜坐，寂莫与僧齐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3945113d-2603-4c26-8739-050a676f2868"
+}

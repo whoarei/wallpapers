@@ -1,0 +1,14 @@
+{
+  "id": "poem-e4d9e53ba41498ec81fcd31f",
+  "title": "春秋战国门 孙膑",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "曾嫌胜己害贤人，钻火明知速自焚。",
+    "断足尔能行不足，逢君谁肯不酬君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-82587e00-c82e-4a89-9dbf-d439034df2d3"
+}

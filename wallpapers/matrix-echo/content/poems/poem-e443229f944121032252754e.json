@@ -1,0 +1,14 @@
+{
+  "id": "poem-e443229f944121032252754e",
+  "title": "春秋战国门 陈轸",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "丹青徒有逞諠哗，有足由来不是蛇。",
+    "杀将破军为柱国，君今官极更何加。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9e4d539b-1165-4d15-8fbd-510ef8bc5e85"
+}

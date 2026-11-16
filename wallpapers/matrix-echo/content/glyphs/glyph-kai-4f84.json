@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f84",
+  "script": "kai",
+  "character": "侄",
+  "reading": "zhí",
+  "description": "zhí：弟兄的儿子，同辈男性亲友的儿子～儿。～女。叔～。子～辈。～孙。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-侄"
+}

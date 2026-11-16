@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-795f",
+  "script": "seal",
+  "character": "祟",
+  "reading": "suì",
+  "description": "suì：迷信说法指鬼神给人带来的灾祸，借指不正当的行动作～。鬼鬼～～。邪～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-祟"
+}

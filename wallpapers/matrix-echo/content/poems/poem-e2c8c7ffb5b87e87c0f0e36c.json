@@ -1,0 +1,16 @@
+{
+  "id": "poem-e2c8c7ffb5b87e87c0f0e36c",
+  "title": "寄窦禅山薛秀才",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "窦岭吟招隐，新诗满集贤。",
+    "白衫春絮暖，红纸夏云鲜。",
+    "琴缠江丝细，棋分海石圆。",
+    "因知醉公子，虚写世人传。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-7a805bb5-b15f-4ea5-aa59-b2b16557c22d"
+}

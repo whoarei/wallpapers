@@ -1,0 +1,16 @@
+{
+  "id": "poem-98a90fa93c403cf997fb9351",
+  "title": "赠道人",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "住山因以福为庭，便向山中隐姓名。",
+    "阆苑驾将雕羽去，洞天赢得绿毛生。",
+    "日边肠胃餐霞火，月里肌肤饮露英。",
+    "顾我从来断浮浊，拟驱鸡犬上三清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c1bed828-6a98-40cf-8348-3bab4960fdaf"
+}

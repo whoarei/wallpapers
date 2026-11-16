@@ -1,0 +1,16 @@
+{
+  "id": "poem-29b0216710ef491e6155aeca",
+  "title": "岁暮还家",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "东西流不驻，白日与车轮。",
+    "残雪半成水，微风应欲春。",
+    "几经他国岁，已减故乡人。",
+    "回首长安道，十年空苦辛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-bf891f5f-857e-404c-8297-42cfbd109ff2"
+}

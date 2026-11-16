@@ -1,0 +1,16 @@
+{
+  "id": "poem-bedc8d9534e9efc7bbc6f145",
+  "title": "有感",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "岁月飘零事转乖，未能凭酒放眉开。",
+    "萧萧棠棣悲离黍，寂寞芝兰閟野莱。",
+    "生计半随豪气坏，放心犹傍圣经回。",
+    "秋来旱势滔滔远，谁念苍生正可哀。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-6220cf34-503b-4942-bc59-83daa201dc61"
+}

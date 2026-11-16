@@ -1,0 +1,16 @@
+{
+  "id": "poem-036fde436b1b55d6b31cef77",
+  "title": "冬日闲居遣兴十首  其五",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "宿雨乍晴天，初寒气暂暄。",
+    "梳头风满栉，曝背日临轩。",
+    "小酌无新酿，闲眠只旧毡。",
+    "忘心亦忘法，作个是安禅。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-f2d57015-0c18-44fe-a2f6-b6f58229f800"
+}

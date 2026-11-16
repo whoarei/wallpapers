@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-611f",
+  "script": "seal",
+  "character": "感",
+  "reading": "gǎn",
+  "description": "gǎn：(1)觉出～触。～觉。～性。～知（客观事物通过感觉器官在人脑中的直接反映）。～官。\n(2)使在意识、情绪上起反应；因受刺激而引起的心理上的变化～动。～想。反～∶～。情～。敏～。～染。～召。～慨。～喟。～叹。自豪～。～人肺腑。百～交集。\n(3)对人家的好意表示谢意～谢。～恩。～激。～愧。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-感"
+}

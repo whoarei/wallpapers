@@ -1,0 +1,18 @@
+{
+  "id": "poem-caf7e9ce0d2db0531375a24d",
+  "title": "思匡山贾匡",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "山兄诗癖甚，寒夜更何为。",
+    "觅句唯顽坐，严霜打不知。",
+    "石膏黏木屐，崖蜜落冰池。",
+    "近见禅僧说，生涯胜往时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-49c329a1-eceb-4993-a1d2-9d6497af346f"
+}

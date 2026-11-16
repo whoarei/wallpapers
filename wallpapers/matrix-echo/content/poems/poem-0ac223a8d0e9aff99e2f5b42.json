@@ -1,0 +1,14 @@
+{
+  "id": "poem-0ac223a8d0e9aff99e2f5b42",
+  "title": "次韵提舶见招",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "江梅初破一阳天，诗句清新欲鬭妍。",
+    "呼我同来饮文字，定扶衰病到尊前。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-db29076f-6deb-42a6-bc7c-08897263d672"
+}

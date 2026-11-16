@@ -1,0 +1,16 @@
+{
+  "id": "poem-cb47d75bdd3a45d47d02af30",
+  "title": "和杨直讲寒食感怀",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "永日轻风起暝阴，伤春情绪苦难禁。",
+    "流连节物游人意，怅惜时光志士心。",
+    "桃李新芳添远思，龙蛇遗事感悲吟。",
+    "知君退直饶欢趣，每向尊前赏奏音。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8ce405a4-969b-4306-b071-db5ec61e0820"
+}

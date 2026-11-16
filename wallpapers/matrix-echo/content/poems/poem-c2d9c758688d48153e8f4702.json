@@ -1,0 +1,22 @@
+{
+  "id": "poem-c2d9c758688d48153e8f4702",
+  "title": "子夜吴歌 冬歌",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "明朝驿使发，一夜絮征袍。",
+    "素手抽针冷，那堪把剪刀。",
+    "裁缝寄远道，几日到临洮。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-35319d7e-9cf6-43b0-bfa3-991cf82a49f9",
+  "tags": [
+    "思念",
+    "清商曲辞",
+    "妇女",
+    "冬天",
+    "唐诗三百首",
+    "乐府"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-8bc2395305a83780ab8f968a",
+  "title": "问寇校书双谿",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "君家少室西，为复少室东。",
+    "别来几日今春风，新买双谿定何似。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7ce06de3-1f97-464c-aac1-8dd5653e84f6"
+}

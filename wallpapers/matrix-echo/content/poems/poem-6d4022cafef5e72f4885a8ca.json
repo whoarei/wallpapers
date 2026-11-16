@@ -1,0 +1,14 @@
+{
+  "id": "poem-6d4022cafef5e72f4885a8ca",
+  "title": "劝僧还乡",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "世事无过尔尔，禅心只好休休。",
+    "江上数峰如削，西风不碍归舟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b3099359-109d-4ad1-b5d6-b4857c625231"
+}

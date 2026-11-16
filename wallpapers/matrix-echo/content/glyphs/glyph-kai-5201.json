@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5201",
+  "script": "kai",
+  "character": "刁",
+  "reading": "diāo",
+  "description": "diāo：(1)狡猾，无赖～棍。～滑。\n(2)姓。\n〔～斗（dǒu）〕古代军中用具，白天用来烧饭，夜间击以巡更。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-刁"
+}

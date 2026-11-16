@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5364",
+  "script": "kai",
+  "character": "卤",
+  "reading": "lǔ",
+  "description": "天然生成的盐称为卤”。泛指食盐\n卤素\n⒈制盐时剩下的汁液盐～，味苦有毒，可供制豆腐用。\n⒉用酱油、香料、盐水等腌或煮～鸡。～鸭。\n⒊浓汁茶～。鱼～。\n⒋通\"鲁\"。笨，愚钝。\n⒌通\"橹\"。大盾牌。\n⒍通\"掳\"。掠夺。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卤"
+}

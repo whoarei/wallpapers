@@ -1,0 +1,14 @@
+{
+  "id": "poem-6859a6d3da5b2a1d217a6bb8",
+  "title": "观雨",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "萧萧疏雨逐斜风，三两归鸦暮霭中。",
+    "看到菊花无可看，一年秋事又成空。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-d25adb22-dd86-4ee8-97fd-a33fac3f761b"
+}

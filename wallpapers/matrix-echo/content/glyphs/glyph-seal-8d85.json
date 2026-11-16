@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d85",
+  "script": "seal",
+  "character": "超",
+  "reading": "chāo",
+  "description": "chāo：(1)越过，高出～越。高～。～出。～额。～龄。～等。～载。～重。～支。\n(2)跳上，跨过挟泰山以～北海”。\n(3)在一定范围以外～自然。～音速。～导现象。\n(4)遥远～遥。～忽。\n(5)怅惘的样子武侯～然不对”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-超"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-ed96477ed95d8dd695002c98",
+  "title": "念佛子",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生、旦)穷秀才，夫和妇，为士马逃难登途。",
+    "望相怜，壮士略放一路。",
+    "［众］捉住。",
+    "枉自说闲言语。",
+    "买路钱留下金珠，稍迟延，便教你身丧须臾。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2956",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-7ad86bee9a6852eb3aad9554",
+  "title": "小游仙诗九十八首 六十二",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "闻君新领八霞司，此别相逢是几时。",
+    "妾有一觥云母酒，请君终宴莫推辞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-b22b2fbd-3001-46b0-bec3-d140ba97bc5c"
+}

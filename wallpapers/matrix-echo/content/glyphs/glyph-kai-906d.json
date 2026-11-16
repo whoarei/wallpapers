@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-906d",
+  "script": "kai",
+  "character": "遭",
+  "reading": "zāo",
+  "description": "zāo：(1)遇见，碰到（多指不幸或不利的事）。～遇。～难（nàn）。～受。～殃。～灾。～扰（婉辞，指受招待）。\n(2)周，圈周～。转了一～。\n(3)次一～生，两～熟。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-遭"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-fd9825172577efa27cb339ec",
+  "title": "减字木兰花·荷花风细",
+  "author": "谢逸",
+  "dynasty": "宋",
+  "verses": [
+    "荷花风细。",
+    "乞巧楼中凉似水。",
+    "天幕低垂。",
+    "新月弯环浅晕眉。",
+    "桥横乌鹊。",
+    "不负年年云外约。",
+    "残漏疏钟。",
+    "肠断朝霞一缕红。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-622",
+  "tags": []
+}

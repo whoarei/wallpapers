@@ -1,0 +1,16 @@
+{
+  "id": "poem-2d1d42b5804ceb2171d2225e",
+  "title": "油葫芦",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "说他几载其间离了大唐，来到俺地方，安排香案快疾忙。",
+    "今日取经直过俺金阶上，抵多少醉鞭误入平康巷。",
+    "我是一个聪明女，他是一个少年郎。",
+    "谁着他不明白抢入我花罗网，准备着金殿锁鸳鸯。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2328",
+  "tags": []
+}

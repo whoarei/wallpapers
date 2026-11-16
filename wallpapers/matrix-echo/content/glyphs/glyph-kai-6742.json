@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6742",
+  "script": "kai",
+  "character": "杂",
+  "reading": "zá",
+  "description": "混合;搀杂\n聚会;聚集\n驳杂不纯\n⒈不单纯的，各种各样的～事。～色。～粮。～技。人多太～。\n⒉渗入，混合搀～。混～。\n⒊交错长短相～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杂"
+}

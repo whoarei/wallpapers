@@ -1,0 +1,16 @@
+{
+  "id": "poem-825190210c4b9922623b524c",
+  "title": "送朱大游塞",
+  "author": "张南史",
+  "dynasty": "唐",
+  "verses": [
+    "岁暮一为别，江湖聊自宽。",
+    "且无人事处，谁谓客行难。",
+    "郢曲怜公子，吴州忆伯鸾。",
+    "苍苍远山际，松柏独宜寒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d5f86b06-3568-4bf7-95ac-7ca3e383b074"
+}

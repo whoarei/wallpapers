@@ -1,0 +1,18 @@
+{
+  "id": "poem-693f5f797501ead4321f21cc",
+  "title": "临江仙·干吕青云垂宝露",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "干吕青云垂宝露，结邻恰挂初弦。",
+    "瑞光腾踊杂非烟。",
+    "骑箕瞻鼻祖，孕昴控胎仙。",
+    "勋业子卿全汉节，壮怀久寄林泉。",
+    "举觞低唱脸舒莲。",
+    "寿高人七十，果熟岁三千。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-702",
+  "tags": []
+}

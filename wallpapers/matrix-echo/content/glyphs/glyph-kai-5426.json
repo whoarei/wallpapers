@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5426",
+  "script": "kai",
+  "character": "否",
+  "reading": "fǒu；pǐ",
+  "description": "fǒu：(1)表示不同意，不认可～定。\n(2)不，用在表示疑问的词句里可～？。\n(3)不如此，不是这样，不然～则。学则正，～则邪。\n可；\npǐ：不好，坏，恶～极泰来（否”和泰”，前者是坏卦，后者是好卦。指事情坏到了极点，就会向好的方向转化）。未知善～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-否"
+}

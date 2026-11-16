@@ -1,0 +1,17 @@
+{
+  "id": "poem-6627f082080d3251a07c5b41",
+  "title": "书琵琶背",
+  "author": "后主煜",
+  "dynasty": "唐",
+  "verses": [
+    "侁自肩如削，难胜数缕绦。",
+    "天香留凤尾，余煖在檀槽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "怀人",
+    "悼亡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-bbf02817-86a8-42de-b8bf-9d13c764fdb3"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-fd935c1cf235727e1733c3ac",
+  "title": "景灵旧钟",
+  "author": "李知退",
+  "dynasty": "宋",
+  "verses": [
+    "思昔祥符日，先皇建景灵。",
+    "六飞亲奠币，万国尽来庭。",
+    "睹物知全盛，闻声识典刑。",
+    "孤臣肠九折，不忍视斯铭。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-af5d663c-ec12-4cfd-83d2-993f79b993db"
+}

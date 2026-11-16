@@ -1,0 +1,16 @@
+{
+  "id": "poem-42fa3fce550e589dd24c88ed",
+  "title": "好事近·春色遍天涯",
+  "author": "赵鼎",
+  "dynasty": "宋",
+  "verses": [
+    "春色遍天涯，寒谷未知消息。",
+    "且共一尊芳酒，看东风飞雪。",
+    "太平遗老洞霄翁，相对两华发。",
+    "一任醉魂飞去，访琼瑶宫阙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-968",
+  "tags": []
+}

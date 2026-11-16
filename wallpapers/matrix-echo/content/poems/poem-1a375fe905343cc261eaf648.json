@@ -1,0 +1,16 @@
+{
+  "id": "poem-1a375fe905343cc261eaf648",
+  "title": "菩萨蛮·柳花飞处莺声急",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "柳花飞处莺声急，暗街春色香车立。",
+    "金凤小帘开，脸波和恨来。",
+    "今宵求梦想，难到青楼上。",
+    "赢得一场愁，鸳衾谁并头。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-15"
+}

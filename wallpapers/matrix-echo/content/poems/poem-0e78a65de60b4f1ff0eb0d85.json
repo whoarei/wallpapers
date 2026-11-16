@@ -1,0 +1,16 @@
+{
+  "id": "poem-0e78a65de60b4f1ff0eb0d85",
+  "title": "悼诗",
+  "author": "后主煜",
+  "dynasty": "唐",
+  "verses": [
+    "永念难消释，孤怀痛自嗟。",
+    "雨深秋寂莫，愁引病增加。",
+    "咽绝风前思，昏蒙眼上花。",
+    "空王应念我，穷子正迷家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-932de3da-b56d-4987-b9cc-3b2d5956a4ff"
+}

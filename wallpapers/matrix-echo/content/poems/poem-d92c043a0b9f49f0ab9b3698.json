@@ -1,0 +1,16 @@
+{
+  "id": "poem-d92c043a0b9f49f0ab9b3698",
+  "title": "咏萤",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "映水光难定，凌虚体自轻。",
+    "夜风吹不灭，秋露洗还明。",
+    "向烛仍分焰，投书更有情。",
+    "犹将流乱影，来此傍簷楹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-5c23312e-3048-4c55-9912-4d83d982cf18"
+}

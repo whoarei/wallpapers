@@ -1,0 +1,14 @@
+{
+  "id": "poem-9daa49de30c8d9cf556b5814",
+  "title": "送僧清演归山",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "毛褐斜肩背负经，晓思吟入窦山青。",
+    "峰前野水横官道，踏着秋天三四星。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-841b15a6-0553-49ee-8de6-37ec9419c3b3"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-997fbb7f66e2c34c731f9d0c",
+  "title": "夏日即事",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "结伴居山寺，超然见白云。",
+    "境闲堪问道，客雅好论文。",
+    "坐石惟看奕，行田或课耘。",
+    "夜来尘俗语，不向梦中闻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-0e1e85ad-7f3c-4559-8a73-f2db17287670"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-726140cb84ba5fec6151907b",
+  "title": "壮节亭二松",
+  "author": "赵崇鉘",
+  "dynasty": "宋",
+  "verses": [
+    "壮节亭前野碧滋，髯龙飞去忽经时。",
+    "祇应黄犊苍藤路，尚有清泉白石知。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-c5e5d635-a3ff-45da-97f3-02fae19680d4"
+}

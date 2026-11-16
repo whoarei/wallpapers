@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-73cd",
+  "script": "seal",
+  "character": "珍",
+  "reading": "zhēn",
+  "description": "zhēn：(1)珠玉等宝物～宝。～珠。奇～异宝。席～待聘（席珍”，坐席上的宝石，喻怀才待用）。\n(2)宝贵的，贵重的～贵。～奇。～稀。～闻。～玩（贵重的供赏玩的东西）。\n(3)重视，爱惜～视。～爱。～重（zhòng）。～存。～藏（cáng）。\n(4)精美的食物～羞（亦作珍馐”）。八～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-珍"
+}

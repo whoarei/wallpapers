@@ -1,0 +1,14 @@
+{
+  "id": "poem-8faa871e540d0e5825a8d345",
+  "title": "咏宣律和尚袈裟",
+  "author": "张希复",
+  "dynasty": "唐",
+  "verses": [
+    "共覆三衣中夜寒，披时不镇尼师坛。",
+    "无因盖得龙宫地，畦里尘飞叶相残。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-05e59e1f-fd53-47a0-a83c-1fce7862686a"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-8de1ee80007fb649d9a401c7",
+  "title": "西湖夜归观打鱼怀赵京兆",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "德人天游乐者全，亦以此乐均鱼鸢。",
+    "陶然亦复忘所乐，西湖澄澈如心渊。",
+    "管领西湖人不少，前后无如赵京兆。",
+    "至今画手画西湖，不著绿蓑人独钓。",
+    "胡为今夜月满湖，大船小船皆得鱼。",
+    "鱼登罔罟叫不得，那知老子今归欤。",
+    "滔滔京兆万人海，平地翻涛渺无盖。",
+    "活鱼之外尤活人，人在甘棠颂遗爱。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-f5e66d90-8f34-4ade-9987-20ec6e7a1060"
+}

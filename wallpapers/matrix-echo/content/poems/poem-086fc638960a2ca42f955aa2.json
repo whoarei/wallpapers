@@ -1,0 +1,18 @@
+{
+  "id": "poem-086fc638960a2ca42f955aa2",
+  "title": "生查子·关山魂梦长",
+  "author": "王观",
+  "dynasty": "宋",
+  "verses": [
+    "关山魂梦长，塞雁音书少。",
+    "两鬓可怜青，一夜相思老。",
+    "归傍碧纱窗，说与人人道。",
+    "真个别离难，不似相逢好。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-36"
+}

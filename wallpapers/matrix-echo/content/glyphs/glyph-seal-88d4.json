@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-88d4",
+  "script": "seal",
+  "character": "裔",
+  "reading": "yì",
+  "description": "yì：(1)衣服的边缘。\n(2)边，边远的地方海～。四～。\n(3)后代子孙后～。华～。\n(4)姓。\n〔～～〕ａ．四散流布的样子，如淫淫～～，缘陵流泽”；ｂ．形容舞姿或步履袅娜；如纡长袖而屡舞，翩跹跹以～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-裔"
+}

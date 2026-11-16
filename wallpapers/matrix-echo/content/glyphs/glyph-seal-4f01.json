@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f01",
+  "script": "seal",
+  "character": "企",
+  "reading": "qǐ",
+  "description": "qǐ：(1)踮着脚看，今用为盼望的意思～盼。～足而待。～及（盼望达到，希望赶上）。～图（图谋）。\n(2)开启。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-企"
+}

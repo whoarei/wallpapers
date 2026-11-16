@@ -1,0 +1,14 @@
+{
+  "id": "poem-cd2094553e6e81fbf148cf89",
+  "title": "酬舒公见寄",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "无客不言云外见，为文长遣世间知。",
+    "一声松径寒吟后，正是前山雪下时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9bfee45f-5958-4cfa-a8fb-42536c22acaa"
+}

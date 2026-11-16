@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e0e",
+  "script": "kai",
+  "character": "与",
+  "reading": "yǔ",
+  "description": "则与斗卮酒。\n⒈跟，同，和～众不同。～虎谋皮。我～你们一道走。\n⒉给，授予交～。送～。赠～。\n⒋赞许，帮助朝过夕改，君子～之。君不～胜者，而～不胜者。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-与"
+}

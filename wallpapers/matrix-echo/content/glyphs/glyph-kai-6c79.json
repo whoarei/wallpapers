@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c79",
+  "script": "kai",
+  "character": "汹",
+  "reading": "xiōng",
+  "description": "xiōng：〔～～〕ａ．波涛声，如波声～～”。ｂ．形容喧扰，如天下～～”，议论～～”；ｃ．形容声势很大（含贬义），如气势～～”，来势～～”。\n〔～涌〕水势很大，向上涌，如波涛～～”、～～澎湃”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-汹"
+}

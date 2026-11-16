@@ -1,0 +1,14 @@
+{
+  "id": "poem-4a1791e1b56d3985abf5918e",
+  "title": "小游仙诗九十八首 四十一",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "酒尽香残夜欲分，青童拜问紫阳君。",
+    "月光悄悄笙歌远，马影龙声归五云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3d9aaf41-bddd-4040-907b-73b56b50c5c5"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-d68982e96e94c6f61b8b594d",
+  "title": "观书有感（其一）",
+  "author": "朱熹",
+  "dynasty": "宋",
+  "verses": [
+    "半亩方塘一鉴开，天光云影共徘徊。",
+    "问渠那得清如许，为有源头活水来。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-觀書有感（其一）"
+}

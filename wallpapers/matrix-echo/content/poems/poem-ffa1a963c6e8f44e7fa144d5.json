@@ -1,0 +1,16 @@
+{
+  "id": "poem-ffa1a963c6e8f44e7fa144d5",
+  "title": "涟漪瑞墨堂书",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "陟𪩘不自期，孤云挂松顶。",
+    "一揖不相期，飞云无留影。",
+    "云已去，泉更长。",
+    "云泉毕世友，相得每相忘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-8859e936-95da-498b-9874-997033963da0"
+}

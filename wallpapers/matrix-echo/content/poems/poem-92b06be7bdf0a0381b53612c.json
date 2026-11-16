@@ -1,0 +1,22 @@
+{
+  "id": "poem-92b06be7bdf0a0381b53612c",
+  "title": "金陵图",
+  "author": "韦庄",
+  "dynasty": "唐",
+  "verses": [
+    "谁谓伤心画不成，画人心逐世人情。",
+    "君看六幅南朝事，老木寒云满故城。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "隋・唐・五代",
+    "唐诗三百首",
+    "题画",
+    "七言绝句",
+    "咏史怀古",
+    "带有地名",
+    "地名"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-4c5b328d-2ab8-4f4d-a0c2-627b6cb0c92b"
+}

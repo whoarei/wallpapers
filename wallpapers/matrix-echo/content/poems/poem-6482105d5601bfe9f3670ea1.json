@@ -1,0 +1,16 @@
+{
+  "id": "poem-6482105d5601bfe9f3670ea1",
+  "title": "哭李频员外",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "出麾临建水，下世在公堂。",
+    "苦集休开箧，清资罢转郎。",
+    "瘴中无子奠，岭外一妻孀。",
+    "定是浮香骨，东归就故乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-d1b2e5e4-d3ba-4f01-a69f-ccda3d6d3b89"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-753c6119e47b3792c0a9296a",
+  "title": "渔阳",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "渔阳突骑犹精锐，赫赫雍王都节制。",
+    "猛将飘然恐后时，本朝不入非高计。",
+    "禄山北筑雄武城，旧防败走归其营。",
+    "系书请问燕耆旧，今日何须十万兵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d00e139f-4480-4c4a-afbf-5cdc94ad8714"
+}

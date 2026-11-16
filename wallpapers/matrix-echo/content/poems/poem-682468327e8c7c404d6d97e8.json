@@ -1,0 +1,16 @@
+{
+  "id": "poem-682468327e8c7c404d6d97e8",
+  "title": "赤谷西崦人家",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "跻险不自喧，出郊已清目。",
+    "溪回日气暖，径转山田熟。",
+    "鸟雀依茅茨，藩篱带松菊。",
+    "如行武陵暮，欲问桃花宿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-2b104baa-0304-4ae1-944c-c766ace60ec1"
+}

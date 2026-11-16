@@ -1,0 +1,18 @@
+{
+  "id": "poem-c660ae5f6a76ae26e43f17a0",
+  "title": "惜春令·春梦无凭犹懒起",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "春梦无凭犹懒起。",
+    "银烛尽、画帘低垂。",
+    "小庭杨柳黄金翠，桃脸两三枝。",
+    "妆阁慵梳洗。",
+    "闷无绪、玉箫抛掷。",
+    "絮飘纷纷人疏远，空对日迟迟。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-873",
+  "tags": []
+}

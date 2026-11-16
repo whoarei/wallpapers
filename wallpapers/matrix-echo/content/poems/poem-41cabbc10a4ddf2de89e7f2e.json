@@ -1,0 +1,18 @@
+{
+  "id": "poem-41cabbc10a4ddf2de89e7f2e",
+  "title": "为有",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "为有云屏无限娇，凤城寒尽怕春宵。",
+    "无端嫁得金龟壻，辜负香衾事早朝。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "怨情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-974914ee-1fc0-4952-a863-820bad2e4065"
+}

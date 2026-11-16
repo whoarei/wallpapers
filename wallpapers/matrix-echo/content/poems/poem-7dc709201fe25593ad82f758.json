@@ -1,0 +1,16 @@
+{
+  "id": "poem-7dc709201fe25593ad82f758",
+  "title": "送韦评事归华阴",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "三峰西面住，出见世人稀。",
+    "老大谁相识，恓惶又独归。",
+    "埽窗秋菌落，开箧夜蛾飞。",
+    "若向云中伴，还应着褐衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-91a0cff0-9b7f-4241-8980-5f0d6ef4b35b"
+}

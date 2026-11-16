@@ -1,0 +1,25 @@
+{
+  "id": "poem-58172412a9a6f5765e23af7d",
+  "title": "定风波·莫听穿林打叶声",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "verses": [
+    "莫听穿林打叶声。",
+    "何妨吟啸且徐行。",
+    "竹杖芒鞋轻胜马。",
+    "谁怕。",
+    "一蓑烟雨任平生。",
+    "料峭春风吹酒醒。",
+    "微冷。",
+    "山头斜照却相迎。",
+    "回首向来萧瑟处。",
+    "归去。",
+    "也无风雨也无晴。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-40"
+}

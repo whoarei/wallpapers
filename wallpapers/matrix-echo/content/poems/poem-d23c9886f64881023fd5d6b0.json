@@ -1,0 +1,14 @@
+{
+  "id": "poem-d23c9886f64881023fd5d6b0",
+  "title": "送王六觐巢县叔父二首 一",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "巢岸南分战鸟山，水云程尽到东关。",
+    "弦歌自是君家事，莫怪今来一邑闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-9de495a6-9a74-4dc7-b14e-8577611ba318"
+}

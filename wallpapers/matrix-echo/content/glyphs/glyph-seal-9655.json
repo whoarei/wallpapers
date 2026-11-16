@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9655",
+  "script": "seal",
+  "character": "陕",
+  "reading": "shǎn",
+  "description": "古地名。战国陕邑,在今河南省陕县\n中国陕西省的简称\n狭窄",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陕"
+}

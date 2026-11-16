@@ -1,0 +1,14 @@
+{
+  "id": "poem-818462bf5a9761ca97429250",
+  "title": "颂古七十六首  其七四",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "杨歧老人锁口诀，万里长城一条铁。",
+    "斫牌禅客知到来，不动金锤脑门裂。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-5dab0133-4551-490e-b8d7-4842accf09a0"
+}

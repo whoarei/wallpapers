@@ -1,0 +1,20 @@
+{
+  "id": "poem-19bac83dad62c38dabd6d7e9",
+  "title": "南游有怀",
+  "author": "龚霖",
+  "dynasty": "唐",
+  "verses": [
+    "怀才非独步，驱马出荆州。",
+    "亲老未归去，路长何处游？",
+    "鸟啼云梦晓，叶落洞庭秋。",
+    "襟抱谁相问？西风吹客愁。",
+    "（同前书第二六九页。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-c2b9d035-3faf-422d-9b74-7341002eae5f"
+}

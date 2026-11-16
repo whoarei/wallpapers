@@ -1,0 +1,18 @@
+{
+  "id": "poem-b2b1116e5c0210813213101d",
+  "title": "踏莎行·秋入云山",
+  "author": "张抡",
+  "dynasty": "宋",
+  "verses": [
+    "秋入云山，物情潇洒。",
+    "百般景物堪图画。",
+    "丹枫万叶碧云边，黄花千点幽岩下。",
+    "已喜佳辰，更怜清夜。",
+    "一轮明月林梢挂。",
+    "松醪常与野人期，忘形共说清闲话。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-939",
+  "tags": []
+}

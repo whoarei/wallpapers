@@ -1,0 +1,15 @@
+{
+  "id": "poem-39080717eba27f4d4e61ab68",
+  "title": "车邻",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "有车邻邻，有马白颠。未见君子，寺人之令。",
+    "阪有漆，隰有栗。既见君子，并坐鼓瑟。今者不乐，逝者其耋。",
+    "阪有桑，隰有杨。既见君子，并坐鼓簧。今者不乐，逝者其亡。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-125"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-3c70db3a760d2e7a76b748b1",
+  "title": "老人星",
+  "author": "赵蕃",
+  "dynasty": "唐",
+  "verses": [
+    "大史占南极，秋分见寿星。",
+    "增辉延宝历，发曜起祥经。",
+    "灼烁依狼地，昭彰近帝庭。",
+    "高悬方杳杳，孤白乍荧荧。",
+    "应见光新吐，休征德自形。",
+    "既能符圣柞，从此表遐龄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-820e1560-e3c9-4601-a27e-eaa404a6f878"
+}

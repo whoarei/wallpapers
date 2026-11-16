@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7baa",
+  "script": "seal",
+  "character": "箪",
+  "reading": "dān",
+  "description": "盛物件的小筐\n箪食\n箪 dān古代盛饭用的圆形竹器。\n【箪食壶浆】原指百姓用酒饭欢迎军队。现多形容正义之师受人民欢迎的情状。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-箪"
+}

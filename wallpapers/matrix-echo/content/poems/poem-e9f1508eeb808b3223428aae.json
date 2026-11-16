@@ -1,0 +1,16 @@
+{
+  "id": "poem-e9f1508eeb808b3223428aae",
+  "title": "水殿采菱歌",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "宫鸦叫赤光，潮声入宫宫影凉。",
+    "火华啼露卷横塘，金堤四合宛柔扬。",
+    "美人荷裙芙蓉妆，柔荑萦雾櫂龙航。",
+    "采莲一声歌态长，青丝结眼捕鸳鸯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-6591c871-c724-42c1-8038-205060c93540"
+}

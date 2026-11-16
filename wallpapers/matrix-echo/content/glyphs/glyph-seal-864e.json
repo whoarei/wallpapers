@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-864e",
+  "script": "seal",
+  "character": "虎",
+  "reading": "hǔ",
+  "description": "hǔ：(1)哺乳动物，毛黄褐色，有黑色条纹，性凶猛，力大。骨和血及内脏均可入药（通称老虎”）～口（a.喻危险境地；b.手上拇指和食指相交的地方）。～穴（喻危险境地）。～符（古代调兵的凭证，用铜铸成虎形，分两半）。～狼（喻凶残的人）。～头蛇尾。～踞龙盘。龙腾～跃。\n(2)勇猛、威武～将。～势。～劲。～威。～～。～气。\n(3)古同唬”，威吓。\n(4)古同琥”，琥珀。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-虎"
+}

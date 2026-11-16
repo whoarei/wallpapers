@@ -1,0 +1,14 @@
+{
+  "id": "poem-5b664c2f84cd705fda0e3b70",
+  "title": "上巳",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "帝京元巳足繁华，细管清弦七贵家。",
+    "此日风光谁不共，纷纷皆是掖垣花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-82b82749-a034-4ad1-97d2-ed361b75885c"
+}

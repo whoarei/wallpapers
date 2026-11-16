@@ -1,0 +1,20 @@
+{
+  "id": "poem-92bd4be2079f98dde9a9927d",
+  "title": "酬郭给事",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "洞门高阁霭余辉，桃李阴阴柳絮飞。",
+    "禁里疎钟官舍晚，省中啼鸟吏人稀。",
+    "晨摇玉佩趋金殿，夕奉天书拜琐闱。",
+    "强欲从君无那老，将因卧病解朝衣。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "酬和",
+    "七言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7950a49f-f51d-4926-9d1e-e5f76b153829"
+}

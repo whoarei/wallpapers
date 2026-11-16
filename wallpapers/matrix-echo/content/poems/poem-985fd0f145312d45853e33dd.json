@@ -1,0 +1,18 @@
+{
+  "id": "poem-985fd0f145312d45853e33dd",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(丑、末)宣限紧，休作等闲。",
+    "报国家，忠心似丹。",
+    "(旦)稍迟延半晌，稍迟延半晌。",
+    "寻思只得些时，面觑尊颜。",
+    "子父隔绝，雾阻云拦。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2911",
+  "tags": []
+}

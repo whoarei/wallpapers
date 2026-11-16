@@ -1,0 +1,15 @@
+{
+  "id": "poem-78b676cd62a4d170d9a5ded2",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［丑上］富家郎央我为媒，要娶我侄女为妻。",
+    "说开说合，非同容易，也全凭虚心冷气。",
+    "匹配，端的是老娘为最。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8071",
+  "tags": []
+}

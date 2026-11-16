@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9888",
+  "script": "seal",
+  "character": "颈",
+  "reading": "jǐng",
+  "description": "器物像颈或部位相当于颈的部分\n脖子的前面部分\n⒈俗称\"脖子\"，头与躯干相连的部分引～高歌。\n⒉物体像颈的部分瓶～。\n颈gěng 1.见\"脖颈\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-颈"
+}

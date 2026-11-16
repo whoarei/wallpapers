@@ -1,0 +1,21 @@
+{
+  "id": "poem-8e7e3dd16c998f4e5ea3c0c7",
+  "title": "行经华阴",
+  "author": "崔颢",
+  "dynasty": "唐",
+  "verses": [
+    "岧嶤太华俯咸京，天外三峰削不成。",
+    "武帝祠前云欲散，仙人掌上雨初晴。",
+    "河山北枕秦关险，驿树西连汉畤平。",
+    "借问路傍名利客，无如此处学长生。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言律诗",
+    "怀古",
+    "山水"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-39b2954c-04df-4561-ad6e-f4ddbae0db1e"
+}

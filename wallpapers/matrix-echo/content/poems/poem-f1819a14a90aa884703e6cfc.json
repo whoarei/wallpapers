@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1819a14a90aa884703e6cfc",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)上告妻妻听，怕你执不定。",
+    "你哥嫂忒毒狠，只恐你口说无凭准。",
+    "我独自守孤另，恐耽阁两下成病。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8882",
+  "tags": []
+}

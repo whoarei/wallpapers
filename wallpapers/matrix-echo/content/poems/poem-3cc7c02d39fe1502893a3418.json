@@ -1,0 +1,16 @@
+{
+  "id": "poem-3cc7c02d39fe1502893a3418",
+  "title": "奉和幸白鹿观应制",
+  "author": "赵彦昭",
+  "dynasty": "唐",
+  "verses": [
+    "云骖驱半景，星跸坐中天。",
+    "国诞玄宗圣，家寻碧落仙。",
+    "玉杯鸾荐寿，宝算鹤知年。",
+    "一覩光华旦，欣承道德篇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d178343f-1985-47e9-b36b-4887a7659429"
+}

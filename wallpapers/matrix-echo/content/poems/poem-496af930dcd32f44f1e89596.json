@@ -1,0 +1,16 @@
+{
+  "id": "poem-496af930dcd32f44f1e89596",
+  "title": "道庐陵游青原山谒保宁宗老一首",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "老病维摩卧七闽，欲邀瓶锡伴闲身。",
+    "愧无拂石眠云分，来作轻裘缓带人。",
+    "小队入山风袅袅，飞泉出寺石磷磷。",
+    "烦师更举西来意，一点阳和万物春。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-f6a2ac89-8157-4fcb-a23d-eea6f01f385a"
+}

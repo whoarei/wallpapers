@@ -1,0 +1,16 @@
+{
+  "id": "poem-1753b90f014b9b5b21753453",
+  "title": "林中独醒",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "晚来林沼静，独坐间瓢尊。",
+    "向己非前迹，齐心欲不言。",
+    "微凉生乱筿，轻馥起孤萱。",
+    "未得浑无事，瓜田草正繁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-35d39e8c-a34a-4a4b-b569-6f9a87b44b05"
+}

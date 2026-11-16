@@ -1,0 +1,16 @@
+{
+  "id": "poem-ccb98002d0e5c387bc793a3e",
+  "title": "不食姑",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "几年山里住，已作绿毛身。",
+    "护气常稀语，存思自见神。",
+    "养龟同不食，留药任生尘。",
+    "要问西王母，仙中第几人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-4ecad10d-5ac7-423f-b2bd-bb86f0e21b39"
+}

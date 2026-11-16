@@ -1,0 +1,14 @@
+{
+  "id": "poem-ef54ca5ef311c5ec8299cc03",
+  "title": "偈颂 三",
+  "author": "文偃",
+  "dynasty": "唐",
+  "verses": [
+    "康氏圆形滞不明，魔深虚丧击寒冰。",
+    "凤羽展时超碧汉，晋锋八博拟何凭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-32d1dc8a-3042-4489-910e-9864a3d59bfc"
+}

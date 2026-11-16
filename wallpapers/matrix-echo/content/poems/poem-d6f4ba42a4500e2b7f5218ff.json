@@ -1,0 +1,14 @@
+{
+  "id": "poem-d6f4ba42a4500e2b7f5218ff",
+  "title": "忆多娇",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(外)你休怨忆，莫叹息，将他做小儿一般见识，巧语花言都勾讫。",
+    "凛凛雄威，凛凛雄威，管取前程显赫。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8833",
+  "tags": []
+}

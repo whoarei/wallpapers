@@ -1,0 +1,18 @@
+{
+  "id": "poem-a0555dc1bb591b47b00718ee",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(末、丑)兄寻妹，涕泪涟。",
+    "忽听得悠悠声应远，只道是妹见哥哥，却原来错认陶潜。",
+    "那女子呵，他娘儿拆散中途畔，叫声应声随呼唤。",
+    "(外)那女子怎么应他？(末、丑)那女子叫名瑞兰，与瑞莲声音厮类。",
+    "名韵相同事偶然。",
+    "(外)那女子失散了母亲，在途路上单身不便了。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3098",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7bc64d3c86ce4bf52ded0234",
+  "title": "临江仙·孤雁",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "霜冷离鸿惊失伴，有人同病相怜。",
+    "拟凭尺素寄愁边，愁多书屡易，双泪落灯前。",
+    "莫对月明思往事，也知消减年年。",
+    "无端嘹唳一声传，西风吹只影，刚是早秋天。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-102"
+}

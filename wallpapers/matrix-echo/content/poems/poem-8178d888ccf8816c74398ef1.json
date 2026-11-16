@@ -1,0 +1,16 @@
+{
+  "id": "poem-8178d888ccf8816c74398ef1",
+  "title": "和彭进士秋日游靖居山寺",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "秋山入望已无尘，况得闲游谢事频。",
+    "问著尽能言祖祖，见时应不是真真。",
+    "添瓶野水遮还急，伴塔幽花落又新。",
+    "自笑未曾同逸步，终非宗炳社中人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-e6587eda-dc75-4044-b031-3126116ac0f6"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-85920d7e28617465a92c5d6d",
+  "title": "晚景",
+  "author": "子兰",
+  "dynasty": "唐",
+  "verses": [
+    "池荷衰飒菊芬芳，策杖吟诗上草堂。",
+    "满目暮云风卷尽，郡楼寒角数声长。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-1a86d2a6-234b-465a-b109-c96b6c837e5a"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ef557be9d8f162feb30927e8",
+  "title": "好事近·归日指清明",
+  "author": "葛立方",
+  "dynasty": "宋",
+  "verses": [
+    "归日指清明，肯把话言轻食。",
+    "已是飞花时候，赖东风无力。",
+    "青帘沽酒送春归，莫惜万金掷。",
+    "屈指明年春事，有红梅消息。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-542",
+  "tags": []
+}

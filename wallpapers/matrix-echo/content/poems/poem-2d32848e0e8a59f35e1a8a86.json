@@ -1,0 +1,20 @@
+{
+  "id": "poem-2d32848e0e8a59f35e1a8a86",
+  "title": "寄广州杨参军",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "南方春景好，念子缓归心。",
+    "身方脱野服，冠未系朝簪。",
+    "足恣平生赏，无虞外役侵。",
+    "汀洲观鸟戏，向月和猨吟。",
+    "税驾楚山广，扬帆湘水深。",
+    "采奇搜石穴，怀胜即枫林。",
+    "怅望极霞际，流情堕海阴。",
+    "前朝杳难问，叹息洒鸣琴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-6179b631-87ba-4a6b-8f1f-a5f5b9b66253"
+}

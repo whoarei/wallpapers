@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-548b",
+  "script": "kai",
+  "character": "咋",
+  "reading": "zǎ；zhà；zhā",
+  "description": "zhà：咬住～舌（a.把自己的舌头咬住，或忍住不言，形容极度悔恨或畏缩；b.惊讶，害怕，说不出话来）。\nzǎ：怎，怎么～样。～好。～办。～个。\nzhā：〔～呼〕a.吆喝；b.炫耀。均亦作咋唬”（呼”、唬”均读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咋"
+}

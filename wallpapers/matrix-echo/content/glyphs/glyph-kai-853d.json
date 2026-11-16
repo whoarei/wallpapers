@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-853d",
+  "script": "kai",
+  "character": "蔽",
+  "reading": "bì",
+  "description": "bì：(1)遮，挡～野。遮～。掩～。\n(2)隐藏～匿。隐～。\n(3)欺骗，隐瞒蒙～。～美扬恶。\n(4)概括一言以～之。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蔽"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-989c",
+  "script": "seal",
+  "character": "颜",
+  "reading": "yán",
+  "description": "印堂,两眉之间\n额头\n面容,脸色\n体面,容誉\n⒈额～赤。〈引〉面容，容貌～面⊥～悦色。笑逐～开。无～见人。\n⒉色彩～色。～料。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-颜"
+}

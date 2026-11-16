@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c5a",
+  "script": "seal",
+  "character": "豚",
+  "reading": "tún",
+  "description": "tún：小猪，亦泛指猪～肩。～蹄。～儿（谦称自己的儿子）。\n〔～鼠〕哺乳动物，亦称荷兰猪”、天竺鼠”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-豚"
+}

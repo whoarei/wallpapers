@@ -1,0 +1,23 @@
+{
+  "id": "poem-1f23eb6279cafeb427fbf499",
+  "title": "和晋陵陆丞早春游望",
+  "author": "杜审言",
+  "dynasty": "唐",
+  "verses": [
+    "独有宦游人，偏惊物候新。",
+    "云霞出海曙，梅柳渡江春。",
+    "淑气催黄鸟，晴光转绿苹。",
+    "忽闻歌古调，归思欲沾巾。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "春天",
+    "唐诗三百首",
+    "伤怀",
+    "和诗",
+    "思乡",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b881b056-6d92-45e8-9620-4710a375776f"
+}

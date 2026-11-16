@@ -1,0 +1,16 @@
+{
+  "id": "poem-b75accf9bfdaa4a82c5a4a92",
+  "title": "忆金门旧游奉寄江西沈大夫",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "东望沧溟路几重，无因白首更相逢。",
+    "已悲泉下双琪树，又惜天边一卧龙。",
+    "人事升沉才十载，宦游漂泊过千峰。",
+    "思君远寄西山药，岁暮相期向赤松。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4cd93e8a-ad8d-43d9-8d71-72e69c5ba79f"
+}

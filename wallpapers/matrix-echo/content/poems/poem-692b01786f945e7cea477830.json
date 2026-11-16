@@ -1,0 +1,14 @@
+{
+  "id": "poem-692b01786f945e7cea477830",
+  "title": "苕溪新上人石窗",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "太白岩空夜弗扃，好风不约满疏櫺。",
+    "旧题寂寞无人管，散作苕溪水上云。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-96ae233c-8cac-44e2-a025-1f3cc45f7f72"
+}

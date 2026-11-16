@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f7b",
+  "script": "seal",
+  "character": "佻",
+  "reading": "tiāo",
+  "description": "tiāo：(1)轻薄，不庄重轻～。～薄。～巧（ａ．轻佻巧诈；ｂ．文辞细巧而不严肃）。\n(2)窃取，偷～天之功以为己力”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-佻"
+}

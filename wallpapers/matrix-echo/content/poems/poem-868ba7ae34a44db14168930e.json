@@ -1,0 +1,16 @@
+{
+  "id": "poem-868ba7ae34a44db14168930e",
+  "title": "王叔武示忠州张使君德远近诗次韵三首  其一",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "垂绅立朝著，智略胜吾丘。",
+    "列戟分名郡，儿童说细侯。",
+    "卷舒谁罣碍，中外且嬉游。",
+    "闻说淮南守，天边又拜州。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-008a6c4b-36aa-4ab5-a605-0da9ac877090"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-50f215e1bf07d3fffe0caabf",
+  "title": "送王端赴朝",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "君承明主意，日日上丹墀。",
+    "东阁论兵后，南宫草奏期。",
+    "人稀傍河处，槐暗入关时。",
+    "独遣吴州客，平陵结梦思。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d93b38b6-87b1-4440-9a3e-ef787ece0177"
+}

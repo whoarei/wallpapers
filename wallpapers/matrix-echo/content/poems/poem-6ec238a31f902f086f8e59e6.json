@@ -1,0 +1,14 @@
+{
+  "id": "poem-6ec238a31f902f086f8e59e6",
+  "title": "同李九士曹观壁画云作",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "始知帝乡客，能画苍梧云。",
+    "秋天万里一片色，只疑飞尽犹氛氲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-101844bd-db52-4b7b-a097-c45162545c77"
+}

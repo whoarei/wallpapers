@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5321",
+  "script": "seal",
+  "character": "匡",
+  "reading": "kuāng",
+  "description": "kuāng：(1)纠正；～正。～谬。\n(2)救～救。～复。～时济世。\n(3)辅助，帮助～助。～扶。～我不逮（帮助我所做不到的）。\n(4)粗略计算，估计，预料～算。～计。\n(5)古同筐”。\n(6)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-匡"
+}

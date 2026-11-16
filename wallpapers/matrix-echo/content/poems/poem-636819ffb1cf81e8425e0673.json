@@ -1,0 +1,14 @@
+{
+  "id": "poem-636819ffb1cf81e8425e0673",
+  "title": "又戴云山吟",
+  "author": "智亮",
+  "dynasty": "唐",
+  "verses": [
+    "戴云山顶白云齐，登顶方知世界低。",
+    "异草奇花人不识，一池分作九条溪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-39fcc78f-7ebe-4de5-8e49-76928167f97a"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-8149057a7c75ea3ec4712c26",
+  "title": "松寺",
+  "author": "卢延让",
+  "dynasty": "唐",
+  "verses": [
+    "山寺取凉当夏夜，共僧蹲坐石堦前。",
+    "两三条电欲为雨，七八个星犹在天。",
+    "衣汗稍停床上扇，茶香时拨涧中泉。",
+    "通宵听论莲华义，不藉松窗一觉眠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c9c61b9a-b463-43e2-b6cd-b50deb767676"
+}

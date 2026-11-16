@@ -1,0 +1,22 @@
+{
+  "id": "poem-df54ab3477b7feab58a61d74",
+  "title": "渔家傲·郊外春和宜散步",
+  "author": "米友仁",
+  "dynasty": "宋",
+  "verses": [
+    "郊外春和宜散步。",
+    "百花枝上初凝露。",
+    "福地神仙多外府。",
+    "藏奇趣。",
+    "幽寻历遍溪边路。",
+    "薄宦浮家无定处。",
+    "萍飘梗泛前人语。",
+    "与子未须乡国去。",
+    "来同住。",
+    "且看群岫烟中雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-56",
+  "tags": []
+}

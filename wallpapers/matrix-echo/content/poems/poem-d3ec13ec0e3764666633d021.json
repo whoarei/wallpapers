@@ -1,0 +1,16 @@
+{
+  "id": "poem-d3ec13ec0e3764666633d021",
+  "title": "酒泉子·春雨打窗",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "春雨打窗，惊梦觉来天气晓。",
+    "画堂深，红焰小，背兰釭。",
+    "酒香喷鼻懒开缸，惆怅更无人共醉。",
+    "旧巢中，新燕子，语双双。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-41"
+}

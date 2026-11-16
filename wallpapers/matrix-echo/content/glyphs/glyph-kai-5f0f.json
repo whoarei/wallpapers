@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5f0f",
+  "script": "kai",
+  "character": "式",
+  "reading": "shì",
+  "description": "shì：(1)物体外形的样子～样。样～。\n(2)特定的规格格～。程～。\n(3)典礼，有特定内容的仪式开幕～。阅兵～。\n(4)自然科学中表明某些关系或规律的一组符号分子～。算～。公～。\n(5)一种语法范畴，表示说话者对所说事情的主观态度叙述～。命令～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-式"
+}

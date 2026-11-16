@@ -1,0 +1,16 @@
+{
+  "id": "poem-c868dfbe65d78836e06aced9",
+  "title": "扬州作",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "春风何索寞，带雪入扬州。",
+    "尚想遗钗雀，曾观上玉钩。",
+    "真同一梦觉，坐想十年游。",
+    "邂逅逢孙楚，酣歌慰滞留。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-5d42805a-9525-40fe-9e2b-c7ff8469e255"
+}

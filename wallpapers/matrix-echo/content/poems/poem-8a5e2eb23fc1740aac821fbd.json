@@ -1,0 +1,14 @@
+{
+  "id": "poem-8a5e2eb23fc1740aac821fbd",
+  "title": "过北流县八里游勾漏观留五绝句  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "百里仙山气象雄，参差峰岫翠成丛。",
+    "云骈鹤驭今何处，丹灶依然洞穴中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-888a9d6f-1aad-4119-9385-173e7a02ce77"
+}

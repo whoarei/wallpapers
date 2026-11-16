@@ -1,0 +1,19 @@
+{
+  "id": "poem-1b029fd42852a27f56044fdc",
+  "title": "少年游·长安古道马迟迟",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "长安古道马迟迟。",
+    "高柳乱蝉栖。",
+    "夕阳岛外，秋风原上，目断四天垂。",
+    "归云一去无踪迹，何处是前期。",
+    "狎兴生疏，酒徒萧索，不似去年时。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-147"
+}

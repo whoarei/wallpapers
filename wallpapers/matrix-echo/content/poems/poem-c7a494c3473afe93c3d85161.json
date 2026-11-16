@@ -1,0 +1,16 @@
+{
+  "id": "poem-c7a494c3473afe93c3d85161",
+  "title": "五次韵",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "涪陵妃子谩名园，岂似闽南绿一盘。",
+    "最喜色同青玉案，不妨功并紫金丹。",
+    "画看红紫品流俗，诗嚼氷霜牙颊寒。",
+    "吟罢闲观右军帖，来禽青李可同餐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-44c43007-6258-41b0-8fd6-1296be9fc240"
+}

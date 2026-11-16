@@ -1,0 +1,17 @@
+{
+  "id": "poem-8751fe4a7dc266862507ca80",
+  "title": "朝中措·功名虽未压英游",
+  "author": "曾觌",
+  "dynasty": "宋",
+  "verses": [
+    "功名虽未压英游。",
+    "一种旧风流。",
+    "人世百年须到，如今七十春秋。",
+    "当时帷幄，貂珰贵重，誉蔼朋俦。",
+    "赢得尊前沈醉，浮华付去悠悠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-404",
+  "tags": []
+}

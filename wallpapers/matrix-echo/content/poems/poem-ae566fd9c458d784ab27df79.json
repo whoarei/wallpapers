@@ -1,0 +1,16 @@
+{
+  "id": "poem-ae566fd9c458d784ab27df79",
+  "title": "中秋月",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "一岁几盈亏，当轩重此期。",
+    "幸无偏照处，刚有不明时。",
+    "色静云归早，光寒鹤睡迟。",
+    "相看吟未足，皎皎下疎篱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-71080d30-4dd4-4b3b-a73c-d4308bc0b956"
+}

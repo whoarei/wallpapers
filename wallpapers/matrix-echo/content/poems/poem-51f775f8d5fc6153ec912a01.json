@@ -1,0 +1,14 @@
+{
+  "id": "poem-51f775f8d5fc6153ec912a01",
+  "title": "又泛西溪诗十首  其五",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "天生桥畔水交流，夹岸花飞逐客舟。",
+    "时听山禽歌一曲，何须吹笛舞凉州。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-48f4e3ee-fb09-4c9b-ab9c-469d6713ab58"
+}

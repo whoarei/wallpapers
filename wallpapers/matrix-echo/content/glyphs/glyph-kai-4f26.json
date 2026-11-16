@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f26",
+  "script": "kai",
+  "character": "伦",
+  "reading": "lún",
+  "description": "条理,顺序\n人伦,人与人之间的道德关系\n⒈类，同类不～不类。超群绝～。\n⒉条理，顺序语无～次。\n⒊比，匹敌～比。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-伦"
+}

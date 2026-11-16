@@ -1,0 +1,19 @@
+{
+  "id": "poem-17cecddee4ab2f8dcd04cd7a",
+  "title": "画堂春·摩围小隐枕蛮江",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "摩围小隐枕蛮江。",
+    "蛛丝闲锁晴窗。",
+    "水风山影上修廊。",
+    "不到晚来凉。",
+    "相伴蝶穿花径，独飞鸥舞春光。",
+    "不因送客下绳床。",
+    "添火炷炉香。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-703",
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-f51c3acd571d5ffa840e9cb0",
+  "title": "望江南・忆江南·江南月",
+  "author": "王琪",
+  "dynasty": "宋",
+  "verses": [
+    "江南月，清夜满西楼。",
+    "云落开时冰吐鉴，浪花深处玉沈钩。",
+    "圆缺几时休。",
+    "星汉迥，风露入新秋。",
+    "丹桂不知摇落恨，素娥应信别离愁。",
+    "天上共悠悠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-850",
+  "tags": []
+}

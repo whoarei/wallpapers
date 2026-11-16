@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-527f",
+  "script": "kai",
+  "character": "剿",
+  "reading": "jiǎo；chāo",
+  "description": "jiǎo：(1)讨伐，消灭～除。～灭。征～。围～。\n(2)劳累～民（使百姓劳累）。\nchāo：以别人的语言文句作为自己的～说。～袭（亦作抄袭”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-剿"
+}

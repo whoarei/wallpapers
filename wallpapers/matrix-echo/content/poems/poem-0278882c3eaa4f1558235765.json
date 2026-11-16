@@ -1,0 +1,16 @@
+{
+  "id": "poem-0278882c3eaa4f1558235765",
+  "title": "箫",
+  "author": "李峤",
+  "dynasty": "唐",
+  "verses": [
+    "虞舜调清管，王褒赋雅音。",
+    "参差横凤翼，搜索动猿吟。",
+    "灵鹤时来到，仙人幸见寻。",
+    "为听杨柳曲，行役几伤心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-e8a1acb9-a691-4f29-bc84-cb6cb9abe539"
+}

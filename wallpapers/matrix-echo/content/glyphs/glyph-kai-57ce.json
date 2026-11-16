@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-57ce",
+  "script": "kai",
+  "character": "城",
+  "reading": "chéng",
+  "description": "chéng：(1)围绕都市的高墙～墙。～池。～圈。～郭（城”指内城墙，郭”指外城墙）。～楼。～堞（城上的矮墙，亦称女儿墙”）。～垛。\n(2)都市～市。～镇。～府（ａ．城市及官署；ｂ．喻待人处世的心机，如胸无～～”）。～邑。～乡。～建。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-城"
+}

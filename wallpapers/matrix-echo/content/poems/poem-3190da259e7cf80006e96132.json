@@ -1,0 +1,16 @@
+{
+  "id": "poem-3190da259e7cf80006e96132",
+  "title": "送曾秀才",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "淦水神仙宅，仙山夹县楼。",
+    "吾孙好诗句，归咏故乡秋。",
+    "紫竹遮书幌，红蕉拂钓舟。",
+    "东堂有平路，莫谒外诸侯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-6336e7f1-7244-49e2-8aec-a559e871c039"
+}

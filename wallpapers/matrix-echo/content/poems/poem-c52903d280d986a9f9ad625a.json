@@ -1,0 +1,17 @@
+{
+  "id": "poem-c52903d280d986a9f9ad625a",
+  "title": "少年游·如今田野谩抛春",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "如今田野谩抛春。",
+    "红雨掩衡门。",
+    "懒读诗书，欠伸扶杖，几案任生尘。",
+    "纵教便向东山老，谁知是个中人。",
+    "莫怪年来，倦寻城市，嫌我性情真。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-170",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-54fa9c5fe9665e48235f21af",
+  "title": "诗一首",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "忽然心里爱，不觉眼中怜。",
+    "未关双眼曲，直是寸心偏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-32ce7f3d-4314-4899-829e-044ebbed7bba"
+}

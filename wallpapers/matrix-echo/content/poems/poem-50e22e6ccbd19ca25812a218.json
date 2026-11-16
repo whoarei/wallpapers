@@ -1,0 +1,15 @@
+{
+  "id": "poem-50e22e6ccbd19ca25812a218",
+  "title": "葛藟",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "绵绵葛藟，在河之浒。终远兄弟，谓他人父。谓他人父，亦莫我顾！",
+    "绵绵葛爰，在河之藟。终远兄弟，谓他人母。谓他人母，亦莫我有！",
+    "绵绵葛藟，在河之漘。终远兄弟，谓他人昆。谓他人昆，亦莫我闻！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-70"
+}

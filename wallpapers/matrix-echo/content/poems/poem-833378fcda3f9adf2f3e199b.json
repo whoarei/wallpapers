@@ -1,0 +1,14 @@
+{
+  "id": "poem-833378fcda3f9adf2f3e199b",
+  "title": "偈颂 六",
+  "author": "文偃",
+  "dynasty": "唐",
+  "verses": [
+    "丱岁依山人事稀，松下相逢话道奇。",
+    "锋前一句超调御，拟问如何历劫违。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-e78ec9c3-dc47-4616-9091-19791ad15777"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-a914e6ff28b99a475bad90fe",
+  "title": "十二咏 磬塘",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "乔木森森借绿阴，曲塘波影漾疏林。",
+    "龟鱼不用愁清浅，藻荇菰蒲隐映深。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-5160e4bb-d1cb-4247-a6bc-7e3ade248b3e"
+}

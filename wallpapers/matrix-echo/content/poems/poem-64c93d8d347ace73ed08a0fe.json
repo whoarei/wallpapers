@@ -1,0 +1,16 @@
+{
+  "id": "poem-64c93d8d347ace73ed08a0fe",
+  "title": "清平乐·画屏无睡",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "画屏无睡，雨点惊风碎。",
+    "贪话零星兰焰坠，闲了半床红被。",
+    "生来柳絮飘零，便教咒也无灵。",
+    "待问归期还未，已看双睫盈盈。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-77"
+}

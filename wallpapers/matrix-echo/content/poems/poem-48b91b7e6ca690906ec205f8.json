@@ -1,0 +1,16 @@
+{
+  "id": "poem-48b91b7e6ca690906ec205f8",
+  "title": "饯中书侍郎来济",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "暧暧去尘昏灞岸，飞飞轻盖指河梁。",
+    "云峰衣结千重叶，雪岫花开几树妆。",
+    "深悲黄鹤孤舟远，独叹青山别路长。",
+    "聊将分袂沾巾泪，还用持添离席觞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-8c6e81ed-cfe2-4900-aa3b-9d44ef7f1bea"
+}

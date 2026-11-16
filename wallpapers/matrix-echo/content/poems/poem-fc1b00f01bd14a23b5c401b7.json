@@ -1,0 +1,17 @@
+{
+  "id": "poem-fc1b00f01bd14a23b5c401b7",
+  "title": "浣溪沙·分付心情作上元",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "分付心情作上元。",
+    "不知投老在林泉。",
+    "谁将村酒劝觥船。",
+    "月影静摇风柳外，霜华寒浸雪梅边。",
+    "醉敧乌帽忽醒然。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-475",
+  "tags": []
+}

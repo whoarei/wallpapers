@@ -1,0 +1,16 @@
+{
+  "id": "poem-122a9a4c4a32172d6abc66b2",
+  "title": "和贾舍人早朝",
+  "author": "岑参",
+  "dynasty": "唐",
+  "verses": [
+    "鸡鸣紫陌曙光寒，莺啭皇州春色阑。",
+    "金阙晓钟开万户，玉阶仙仗拥千官。",
+    "花迎剑佩星初落，柳拂旌旗露未干。",
+    "独有凤凰池上客，阳春一曲和皆难。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-和賈舍人早朝"
+}

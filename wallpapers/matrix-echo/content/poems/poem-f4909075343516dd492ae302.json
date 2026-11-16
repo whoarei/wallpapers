@@ -1,0 +1,14 @@
+{
+  "id": "poem-f4909075343516dd492ae302",
+  "title": "度破讷沙二首 一",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "眼见风来沙旋移，经年不省草生时。",
+    "莫言塞北无春到，总有春来何处知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6be79308-f67c-4d92-80eb-a4f206bc5b83"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2d72225dd29a9a9eca86cca6",
+  "title": "次韵徐秀才十首  其二",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "杜陵将诗坛，受歃凑多士。",
+    "黄陈大其传，券契密付委。",
+    "徐君万卷腹，诗作风雷起。",
+    "春秋富有余，著眼置余子。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-b6ea0d33-a3de-43ff-8c18-d8c3a35c3881"
+}

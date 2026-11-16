@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8fdd",
+  "script": "kai",
+  "character": "违",
+  "reading": "wéi",
+  "description": "避开\n⒈背，反，不遵守～背。～反。～犯。～法。不～农时。\n⒉离别，不见面久～了。\n⒊〈古〉避开以～其害。\n违huí 1.掉转。 2.返回。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-违"
+}

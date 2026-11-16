@@ -1,0 +1,14 @@
+{
+  "id": "poem-c7f39738e3c9175b00b0d778",
+  "title": "和定国湖上  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "溪光涵影碧萧萧，四合深林不见梢。",
+    "寒暑若言无避处，世间那有况云巢。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-fb4aafb2-087a-417c-a957-dd8416a6b2c9"
+}

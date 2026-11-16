@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-85d5",
+  "script": "kai",
+  "character": "藕",
+  "reading": "ǒu",
+  "description": "ǒu：莲的地下茎，肥大有节，中间有管状小孔，折断后有丝，可食～粉。～断丝连。～色。～荷（淡紫色）。～节。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-藕"
+}

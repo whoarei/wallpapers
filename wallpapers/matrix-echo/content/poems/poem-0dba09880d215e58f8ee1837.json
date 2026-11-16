@@ -1,0 +1,14 @@
+{
+  "id": "poem-0dba09880d215e58f8ee1837",
+  "title": "旅行",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "楚水结冰薄，楚云为雨微。",
+    "野梅参差发，旅榜逍遥归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-38745ddb-3c6b-429d-b0d4-d89824c3d6a4"
+}

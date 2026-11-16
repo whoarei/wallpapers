@@ -1,0 +1,14 @@
+{
+  "id": "poem-8fc9ae9f5b24ab3d750ed6c6",
+  "title": "酬王哦松八景  其七",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "雨后双螺对绾青，采毫曾此蘸中泠。",
+    "冩成九派分流势，不冩当年瘗鹤铭。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-3fabf970-4bbb-43d0-9e61-901124454f5e"
+}

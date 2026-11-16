@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-64bc",
+  "script": "kai",
+  "character": "撼",
+  "reading": "hàn",
+  "description": "hàn：(1)搬动～顿（搬动颠仆）。～天动地。蚍蜉～大树，可笑不自量”。\n(2)用言语打动人微言～之”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撼"
+}

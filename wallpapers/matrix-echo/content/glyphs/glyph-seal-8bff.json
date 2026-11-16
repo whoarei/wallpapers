@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bff",
+  "script": "seal",
+  "character": "诿",
+  "reading": "wěi",
+  "description": "推托;推委\n委托;连累\n诿过\n出了问题不诿过\n诿过于人\n诿卸\n诿wěi通\"委\"。推卸不要推～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诿"
+}

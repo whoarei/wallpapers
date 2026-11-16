@@ -1,0 +1,16 @@
+{
+  "id": "poem-b7474b981651c142ee6b333d",
+  "title": "横吹曲辞 入塞曲 二",
+  "author": "沈彬",
+  "dynasty": "唐",
+  "verses": [
+    "苦战沙间卧箭痕，戍楼闲上望星文。",
+    "生希国泽分偏将，死夺河源荅圣君。",
+    "鸢覰败兵眠白草，马惊边鬼哭阴云。",
+    "功多地远无人纪，汉阁笙歌日又曛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-888fd3d3-d777-401d-8b4a-e94d3ab3607f"
+}

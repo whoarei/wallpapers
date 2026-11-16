@@ -1,0 +1,16 @@
+{
+  "id": "poem-1cd9d81a6db77b1aefc6cd54",
+  "title": "寄左先辈",
+  "author": "谭用之",
+  "dynasty": "宋",
+  "verses": [
+    "狂歌白鹿上青天，可似兰塘钓紫烟。",
+    "万卷祖龙坑外物，一泓孙楚耳中泉。",
+    "翩翾蛮榼薰晴浦，毂辘鱼车响夜船。",
+    "学取青莲李居士，一生杯酒在神仙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-3a435387-3c07-4cd8-ba2d-5c883598604e"
+}

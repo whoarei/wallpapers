@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5179",
+  "script": "seal",
+  "character": "兹",
+  "reading": "zī；cí",
+  "description": "zī：(1)这，这个，此～日。～行（xíng）。\n(2)现在～聘请某先生为本校教员。\n(3)年今～。来～。\n(4)古同滋”，增益；多。\n(5)古代称草席。\ncí：〔龟（qiū）～〕见龟3”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-兹"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-83c0",
+  "script": "seal",
+  "character": "菀",
+  "reading": "wǎn；yùn",
+  "description": "wǎn：草木茂盛的样子。\n〔紫～〕多年生草本植物，茎高二米余，叶有锯齿。根和根茎可入药。\nyùn：古同蕴”，郁结，积滞。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-菀"
+}

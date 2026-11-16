@@ -1,0 +1,16 @@
+{
+  "id": "poem-af69ee6c62d9d382b925d9d5",
+  "title": "寄积麦山会如长老",
+  "author": "可止",
+  "dynasty": "唐",
+  "verses": [
+    "默然如大道，尘世不相关。",
+    "青桧行时静，白云禅处闲。",
+    "贫高一生行，病长十年颜。",
+    "夏满期游寺，寻山又下山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c822084a-85dc-480d-913e-bd07cb3d1fab"
+}

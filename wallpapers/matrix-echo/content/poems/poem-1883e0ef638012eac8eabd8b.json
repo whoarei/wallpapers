@@ -1,0 +1,18 @@
+{
+  "id": "poem-1883e0ef638012eac8eabd8b",
+  "title": "六叹 三",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "汉臣一没丁零塞，牧羊西过阴沙外。",
+    "朝凭南鴈信难回，夜望北辰心独在。",
+    "汉家茅土横九州，高门长戟封王侯。",
+    "但将钟鼓悦私爱，肯以犬羊为国羞。",
+    "夜宿寒云卧冰雪，严风触刃垂旌节。",
+    "丁年奉使白头归，泣尽李陵衣上血。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-09e35871-4478-4c35-ac32-81e401b05360"
+}

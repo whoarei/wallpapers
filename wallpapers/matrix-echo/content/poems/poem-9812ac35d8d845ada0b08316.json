@@ -1,0 +1,14 @@
+{
+  "id": "poem-9812ac35d8d845ada0b08316",
+  "title": "游仙词三十三首  其一二",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "珊瑚老树百花开，玉色灵泉滴翠崖。",
+    "弹罢瑶琴黄鹤至，紫泥湿透藕丝鞋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-497c5319-1a37-461c-b0b1-96027effecdd"
+}

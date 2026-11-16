@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5587",
+  "script": "kai",
+  "character": "喇",
+  "reading": "lǎ",
+  "description": "lǎ：〔～叭〕a.一种管乐器，铜制。b.喇叭筒状，有扩音作用的东西，如汽车～～”\n〔～嘛教〕佛教的一派，传播于中国藏族、蒙古族地区。\n〔～嘛〕中国藏语，喇嘛教的僧人，原意上人”、师傅”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-喇"
+}

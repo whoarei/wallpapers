@@ -1,0 +1,15 @@
+{
+  "id": "poem-19e384fdeb6ba4cb68b28b5e",
+  "title": "梅花引",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "伤心满目故人疏，看郊墟尽荒芜。",
+    "(旦贴上唱)惟有青山，添得个坟墓。",
+    "(合)恸哭无由长夜晓，问泉下有人还听得无？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5260",
+  "tags": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-93727213729c0c07aa5f7788",
+  "title": "陇西行四首 二",
+  "author": "陈陶",
+  "dynasty": "唐",
+  "verses": [
+    "誓扫匈奴不顾身，五千貂锦丧胡尘。",
+    "可怜无定河边骨，犹是春闺梦里人。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "战争",
+    "妇女",
+    "边塞",
+    "七言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-fde30eaa-9b2c-47ce-ba49-c1356353ac9a"
+}

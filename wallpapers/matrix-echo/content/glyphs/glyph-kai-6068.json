@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6068",
+  "script": "kai",
+  "character": "恨",
+  "reading": "hèn",
+  "description": "hèn：(1)怨，仇视怨～。愤～。仇～。痛～。\n(2)为做不到或做不好而内心不安～事。悔～。遗～。抱～终天。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-恨"
+}

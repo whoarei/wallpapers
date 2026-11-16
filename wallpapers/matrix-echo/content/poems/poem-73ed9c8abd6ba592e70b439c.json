@@ -1,0 +1,14 @@
+{
+  "id": "poem-73ed9c8abd6ba592e70b439c",
+  "title": "鹦鹉",
+  "author": "子兰",
+  "dynasty": "唐",
+  "verses": [
+    "翠毛丹觜乍教时，终日无寥似忆归。",
+    "近来偷解人言语，乱向金笼说是非。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4a11a829-508c-41c4-8486-820e78ea4b7a"
+}

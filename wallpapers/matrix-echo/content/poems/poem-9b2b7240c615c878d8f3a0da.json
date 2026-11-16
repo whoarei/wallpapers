@@ -1,0 +1,14 @@
+{
+  "id": "poem-9b2b7240c615c878d8f3a0da",
+  "title": "清歌儿",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(生作醉上)三杯酒万事和气，又何妨每日沉醉。",
+    "思量孙二太无知，伊来害我，我又如何饶你？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1725",
+  "tags": []
+}

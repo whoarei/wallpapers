@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8003",
+  "script": "seal",
+  "character": "考",
+  "reading": "kǎo",
+  "description": "kǎo：(1)试验，测验～试。～查。\n(2)检查，查核～察。～勤。稽～。～核。\n(3)推求，研究～古。～据。～订。～证。\n(4)老，年纪大寿～。\n(5)原指父亲，后多指已死的父亲先～。如丧～妣。\n(6)击，敲而陋者乃以斧斤～击而求之，自以为得其实”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-考"
+}

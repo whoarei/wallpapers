@@ -1,0 +1,14 @@
+{
+  "id": "poem-6aa1e9a15b5656ba71f43d2e",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "大凡事是姻缘，我孩儿莫忧煎。",
+    "侯门相府知有万千，读书人怕没为姻眷，料它每福缘浅。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2639",
+  "tags": []
+}

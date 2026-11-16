@@ -1,0 +1,16 @@
+{
+  "id": "poem-dcdd2529991fce96fed01d30",
+  "title": "奉陪张燕公登南楼",
+  "author": "尹懋",
+  "dynasty": "唐",
+  "verses": [
+    "君子每垂眷，江山共流眄。",
+    "水远林外明，岩近雾中见。",
+    "终日西北望，何处是京县。",
+    "屡登高春台，徒使泪如霰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7b07f0f8-43aa-46a2-9169-ead6a5715141"
+}

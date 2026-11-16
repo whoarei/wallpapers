@@ -1,0 +1,16 @@
+{
+  "id": "poem-f770414e54f454a2c158f90d",
+  "title": "千里思",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "凉州风月美，遥望居延路。",
+    "泛泛下天云，青青缘塞树。",
+    "燕山苏武上，海岛田横住。",
+    "更是草生时，行人出门去。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-de1797c7-0c10-4d76-aac3-68dbfbf82b77"
+}

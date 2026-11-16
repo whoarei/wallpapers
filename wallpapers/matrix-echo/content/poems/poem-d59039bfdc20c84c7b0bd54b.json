@@ -1,0 +1,20 @@
+{
+  "id": "poem-d59039bfdc20c84c7b0bd54b",
+  "title": "赋得北方有佳人",
+  "author": "徐贤妃",
+  "dynasty": "唐",
+  "verses": [
+    "由来称独立，本自号倾城。",
+    "柳叶眉间发，桃花脸上生。",
+    "腕摇金钏响，步转玉环鸣。",
+    "纤腰宜宝袜，红衫艳织成。",
+    "悬知一顾重，别觉舞腰轻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "写人",
+    "先秦两汉诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6d46b6ce-5c89-4a0b-b496-c1718293fa90"
+}

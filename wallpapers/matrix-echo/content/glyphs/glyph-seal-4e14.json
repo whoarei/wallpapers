@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e14",
+  "script": "seal",
+  "character": "且",
+  "reading": "qiě；jū",
+  "description": "qiě：(1)尚，还，表示进一层既高～大。尚～。况～。\n(2)表示暂时苟～偷安。姑～。\n(3)表示将要、将近城～拔矣。年～九十。\n(4)一面这样，一面那样～走～说。\n(5)表示经久这双鞋～穿呢！\n(6)文言发语词，用在句首，与夫”相似～说。\n(7)姓。\njū：(1)文言助词，用在句末，与啊”相似。\n(2)多的样子。\n(3)农历六月的别称。\n(4)敬慎的样子有萋有～”。\n(5)古同趄”，趑趄。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-且"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-82ecdd764f8be8c41b140139",
+  "title": "和择之赋霜月",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "月华明洁好霜天，遥指层城几暮烟。",
+    "妙意此时谁与寄，美人湘水隔娟娟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-a886929e-8d67-417d-977b-209e578492dc"
+}

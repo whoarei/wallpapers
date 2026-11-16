@@ -1,0 +1,16 @@
+{
+  "id": "poem-52db7ffaca9023367a628e19",
+  "title": "生查子·关山魂梦长",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "关山魂梦长，寒雁音书少。",
+    "两鬓可怜青，只为相思老。",
+    "归傍碧纱窗，说向人人道。",
+    "真个别离难，不似相逢好。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-917",
+  "tags": []
+}

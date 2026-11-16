@@ -1,0 +1,16 @@
+{
+  "id": "poem-eb71915117a17b84d65b3505",
+  "title": "生查子·荷花人面红",
+  "author": "李石",
+  "dynasty": "宋",
+  "verses": [
+    "荷花人面红，月影波心见。",
+    "扇子倒拈来，敲落红香片。",
+    "窗下翦灯花，今日眉深浅。",
+    "留得镜中看，蹙破春山远。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-250",
+  "tags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "poem-a71c68c726f8d7a8f9af54c7",
+  "title": "晚次鄂州",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "云开远见汉阳城，犹是孤帆一日程。",
+    "估客昼眠知浪静，舟人夜语觉潮生。",
+    "三湘衰鬓逢秋色，万里归心对月明。",
+    "旧业已随征战尽，更堪江上鼓鼙声。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "战争",
+    "写景",
+    "抒情",
+    "七言律诗",
+    "思乡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-fae577a5-da28-4672-83ff-94c97ae2a4a4"
+}

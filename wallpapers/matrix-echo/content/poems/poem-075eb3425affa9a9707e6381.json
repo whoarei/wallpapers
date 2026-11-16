@@ -1,0 +1,17 @@
+{
+  "id": "poem-075eb3425affa9a9707e6381",
+  "title": "浣溪沙·珠箔随檐一桁垂",
+  "author": "王采",
+  "dynasty": "宋",
+  "verses": [
+    "珠箔随檐一桁垂。",
+    "绣屏遮枕四边移。",
+    "春归人懒日迟迟。",
+    "旧事只将云入梦，新欢重借月为期。",
+    "晚来花动隔墙枝。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-932",
+  "tags": []
+}

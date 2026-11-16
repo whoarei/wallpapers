@@ -1,0 +1,20 @@
+{
+  "id": "poem-ddece148160bf9b061b3636d",
+  "title": "菩萨蛮·谁能画取沙边雨",
+  "author": "祖可",
+  "dynasty": "宋",
+  "verses": [
+    "谁能画取沙边雨。",
+    "和烟澹扫蒹葭渚。",
+    "别岸却斜晖。",
+    "采莲人未归。",
+    "鸳鸯如解语。",
+    "对浴红衣去。",
+    "去了更回头。",
+    "教侬特地愁。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-699",
+  "tags": []
+}

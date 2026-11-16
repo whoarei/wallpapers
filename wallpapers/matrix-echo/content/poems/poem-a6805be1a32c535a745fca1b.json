@@ -1,0 +1,14 @@
+{
+  "id": "poem-a6805be1a32c535a745fca1b",
+  "title": "浣溪沙·晚逐香车入凤城",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "晚逐香车入凤城，东风斜揭绣帘轻，慢回娇眼笑盈盈。",
+    "消息未通何计是，便须佯醉且随行，依稀闻道太狂生。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-35"
+}

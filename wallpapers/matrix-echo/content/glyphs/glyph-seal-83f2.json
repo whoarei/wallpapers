@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-83f2",
+  "script": "seal",
+  "character": "菲",
+  "reading": "fēi；fěi",
+  "description": "fēi：(1)花草茂盛，香气浓郁～～，芳～。\n(2)碳氢化合物的一类，无色有光泽的结晶，可制染料、炸药等。\nfěi：(1)微，薄～才。～仪。～酌。～薄。\n(2)古代指芜菁一类的植物，花紫红色，可作菜用。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-菲"
+}

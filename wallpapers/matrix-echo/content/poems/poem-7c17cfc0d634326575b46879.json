@@ -1,0 +1,20 @@
+{
+  "id": "poem-7c17cfc0d634326575b46879",
+  "title": "八声甘州·化工多事了",
+  "author": "黄裳",
+  "dynasty": "宋",
+  "verses": [
+    "化工多事了，却收天巧，都与西风。",
+    "数峰云如扫，闲垂六幕，初见秋容。",
+    "昨夜烦襟顿释，一雨洗遥空。",
+    "偏有银蟾好，千里人同。",
+    "引起游人多感，为静中景色，悲思无穷。",
+    "傍雕栏怀古，谁问紫元翁。",
+    "也难逢、金华时候，又岂知、幽会水精宫。",
+    "尘缘满，指烟霞去，多在江东。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-621",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d4f",
+  "script": "kai",
+  "character": "赏",
+  "reading": "shǎng",
+  "description": "玩赏;欣赏\n奇文共欣\n⒈赐，奖，给予～赐。奖～。～给。\n⒉奖赐的物品有～。受～。领～。\n⒊赞扬赞～。\n⒋喜爱，喜欢，领略趣味～花。～月。欣～。玩～。鉴～。观～。\n⒌敬词～光。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赏"
+}

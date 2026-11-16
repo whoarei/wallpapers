@@ -1,0 +1,16 @@
+{
+  "id": "poem-9a4e383e5dd08c252b6689ae",
+  "title": "赠王先生",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "太一真人隐翠霞，早年曾降蔡经家。",
+    "羽衣使者峭于鹤，鸟爪侍娘飘若花。",
+    "九鼎栏干归马齿，三山窕窈步云涯。",
+    "时因弟子偷灵药，散落人间驻物华。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-228f838e-18e4-4983-a185-57c93643867f"
+}

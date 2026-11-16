@@ -1,0 +1,16 @@
+{
+  "id": "poem-33d5af05c435c26d9c33b72f",
+  "title": "四边静",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)思之两个忘恩的，教人恨切齿。",
+    "错认定盘星，教缘我不是。",
+    "(合)把从前是非，再休提起。",
+    "从此水团圆，骨肉再和美。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1920",
+  "tags": []
+}

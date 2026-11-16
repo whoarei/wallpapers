@@ -1,0 +1,16 @@
+{
+  "id": "poem-1c86ba067d768a6163348876",
+  "title": "蓬莱三殿侍宴奉敕咏终南山",
+  "author": "杜审言",
+  "dynasty": "唐",
+  "verses": [
+    "北斗挂城边，南山倚殿前。",
+    "云标金阙回，树杪玉堂悬。",
+    "半岭通佳气，中峰绕瑞烟。",
+    "小臣持献寿，长此戴尧天。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-蓬萊三殿侍宴奉敕詠終南山"
+}

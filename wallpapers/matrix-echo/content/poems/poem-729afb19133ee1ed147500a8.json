@@ -1,0 +1,15 @@
+{
+  "id": "poem-729afb19133ee1ed147500a8",
+  "title": "句",
+  "author": "嗣主璟",
+  "dynasty": "唐",
+  "verses": [
+    "灵槎思浩荡，老鹤倚崆峒。",
+    "苍苔迷古道，红叶乱朝霞。",
+    "栖凤枝梢犹輭弱，化龙形状已依稀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-5c236f02-7a4d-41c6-ac4f-ae6f2cc9887f"
+}

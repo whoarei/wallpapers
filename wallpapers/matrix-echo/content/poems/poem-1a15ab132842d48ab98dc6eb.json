@@ -1,0 +1,16 @@
+{
+  "id": "poem-1a15ab132842d48ab98dc6eb",
+  "title": "吊建州李员外",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "铭旌归故里，猿鸟亦凄然。",
+    "已葬桐江月，空回建水船。",
+    "客传为郡日，僧说读书年。",
+    "恐有吟魂在，深山古木边。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-d8ed88d6-e73a-42e1-bc4b-f0c36870e5e7"
+}

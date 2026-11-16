@@ -1,0 +1,16 @@
+{
+  "id": "poem-e16e32975978be69f203a958",
+  "title": "雪",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "上帝无私意甚微，欲教霖雨更光辉。",
+    "也知出处花相似，可到贫家影便稀。",
+    "云汉风多银浪溅，昆山火后玉灰飞。",
+    "高楼四望吟魂敛，却忆明皇月殿归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-9b71846e-8e13-439b-b1aa-7580b8b9f9fa"
+}

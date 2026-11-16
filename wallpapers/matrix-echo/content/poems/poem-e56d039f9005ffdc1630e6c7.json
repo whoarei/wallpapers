@@ -1,0 +1,16 @@
+{
+  "id": "poem-e56d039f9005ffdc1630e6c7",
+  "title": "享太庙乐章",
+  "author": "刘晏",
+  "dynasty": "唐",
+  "verses": [
+    "汉祚惟永，神功中兴。",
+    "夙驱氛祲，天覆黎蒸。",
+    "三光再朗，庶绩其凝。",
+    "重熙累叶，景命是膺。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-102198f6-fc4f-4183-8e98-85df362362bb"
+}

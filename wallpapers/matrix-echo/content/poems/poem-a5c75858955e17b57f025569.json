@@ -1,0 +1,14 @@
+{
+  "id": "poem-a5c75858955e17b57f025569",
+  "title": "老人峰",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "佝偻形容古貌浑，旁连众岭似儿孙。",
+    "荒山太古万万古，眼见游人来几番。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-58a3ae5f-4142-437d-ac55-331e56c5a37b"
+}

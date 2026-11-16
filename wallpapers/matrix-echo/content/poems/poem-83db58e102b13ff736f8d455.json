@@ -1,0 +1,14 @@
+{
+  "id": "poem-83db58e102b13ff736f8d455",
+  "title": "深春  其一",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "夹泥花上燕巢边，翠箔桑空蚕又眠。",
+    "天气才晴风候别，坐看盆藕出双钱。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-46e4c445-b887-4f77-8686-773ba41f7adf"
+}

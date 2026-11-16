@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8457",
+  "script": "kai",
+  "character": "著",
+  "reading": "zhù",
+  "description": "zhù：(1)显明，显出～名。～称。显～。昭～。卓～。\n(2)写文章，写书～述。编～。～书立说。\n(3)写作出来的书或文章名～。巨～。遗～。译～。～作。\n(4)古同贮”，居积。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-著"
+}

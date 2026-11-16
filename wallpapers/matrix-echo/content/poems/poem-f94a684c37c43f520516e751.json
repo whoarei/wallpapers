@@ -1,0 +1,14 @@
+{
+  "id": "poem-f94a684c37c43f520516e751",
+  "title": "浣溪沙·红藕香寒翠渚平",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "红藕香寒翠渚平，月笼虚阁夜蛩清，塞鸿惊梦两牵情。",
+    "宝帐玉炉，残麝冷，罗衣金缕暗尘生，小窗孤烛泪纵横。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-1"
+}

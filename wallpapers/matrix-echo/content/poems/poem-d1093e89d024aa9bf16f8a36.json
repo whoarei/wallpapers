@@ -1,0 +1,16 @@
+{
+  "id": "poem-d1093e89d024aa9bf16f8a36",
+  "title": "葛无怀讣至  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "静胜知天定，虚明悟物齐。",
+    "略伸嗟屈蠖，欲吐丧晴霓。",
+    "夜雨灯侵幌，春风柳竝堤。",
+    "漫天吹絮尽，一点不沾泥。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-3ce0caca-191c-44cb-86ff-22befa8d9d9e"
+}

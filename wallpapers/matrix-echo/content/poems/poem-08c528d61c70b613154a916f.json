@@ -1,0 +1,16 @@
+{
+  "id": "poem-08c528d61c70b613154a916f",
+  "title": "帝京篇十首 四",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "鸣笳临乐馆，眺听欢芳节。",
+    "急管韵朱弦，清歌凝白雪。",
+    "彩凤肃来仪，玄鹤纷成列。",
+    "去兹郑卫声，雅音方可悦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fa374b2b-c196-4362-b4ad-8931fc9a8860"
+}

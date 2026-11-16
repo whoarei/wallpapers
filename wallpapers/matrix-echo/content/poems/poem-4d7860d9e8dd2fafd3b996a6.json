@@ -1,0 +1,16 @@
+{
+  "id": "poem-4d7860d9e8dd2fafd3b996a6",
+  "title": "菩萨蛮·舞裙香暖金泥凤",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "舞裙香暖金泥凤，画梁语燕惊残梦。",
+    "门外柳花飞，玉郎犹未归。",
+    "愁匀红粉泪，眉剪春山翠。",
+    "何处是辽阳，锦屏春昼长。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-14"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-6e11f4257bc22c5f9f4782ed",
+  "title": "送蔡十二之海上",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "黯然何所为，相对但悲酸。",
+    "季弟念离别，贤兄救急难。",
+    "河流冰处尽，海路雪中寒。",
+    "尚有南飞雁，知君不忍看。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-a98af493-3392-4ac3-b648-cb48118bff10"
+}

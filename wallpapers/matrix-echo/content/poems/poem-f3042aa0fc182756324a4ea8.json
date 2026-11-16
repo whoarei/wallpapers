@@ -1,0 +1,15 @@
+{
+  "id": "poem-f3042aa0fc182756324a4ea8",
+  "title": "瞻彼洛矣",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "瞻彼洛矣，维水泱泱。君子至止，福禄如茨。韎韐有奭，以作六师。",
+    "瞻彼洛矣，维水泱泱。君子至止，鞸琫有珌。君子万年，保其家室。",
+    "瞻彼洛矣，维水泱泱。君子至止，福禄既同。君子万年，保其家邦。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-212"
+}

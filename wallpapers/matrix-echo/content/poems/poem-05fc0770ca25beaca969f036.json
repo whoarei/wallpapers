@@ -1,0 +1,14 @@
+{
+  "id": "poem-05fc0770ca25beaca969f036",
+  "title": "郊庙歌辞 祭[太]社乐章 舒和",
+  "author": "褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "神道发生敷九稼，阴极乘仁畅八埏。",
+    "纬武经文隆景化，登祥荐祉启丰年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-3ea3afb2-2d7f-49c2-86d7-f7bc456a95b0"
+}

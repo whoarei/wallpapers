@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51dd",
+  "script": "kai",
+  "character": "凝",
+  "reading": "níng",
+  "description": "níng：(1)气体变为液体或液体变为固体～结。～固。～冻。～集。～脂。～滞。\n(2)聚集，集中～聚。～重（zhòng）。～神（聚精会神）。～思。～眸。～睇（注视）。～练。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-凝"
+}

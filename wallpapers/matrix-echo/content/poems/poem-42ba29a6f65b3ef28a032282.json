@@ -1,0 +1,16 @@
+{
+  "id": "poem-42ba29a6f65b3ef28a032282",
+  "title": "次章房陵韵四首  其二",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "诗法究源委，今古有正传。",
+    "寥寥风骚后，谁定执此权。",
+    "杜韩到黄陈，刃藏牛无全。",
+    "愧我蟁负山，良夜卓两肩。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-952aaca6-d384-4163-8934-12b6101f6532"
+}

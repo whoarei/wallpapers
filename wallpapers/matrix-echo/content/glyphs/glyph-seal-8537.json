@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8537",
+  "script": "seal",
+  "character": "蔷",
+  "reading": "qiáng",
+  "description": "这种植物的花。有单瓣、复瓣之别,色有红、粉红、白、黄等多种,很美丽,初夏开放\n蔷sè 1.水蓼。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蔷"
+}

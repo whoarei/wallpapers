@@ -1,0 +1,14 @@
+{
+  "id": "poem-db0207f3896ab4a3927444a1",
+  "title": "宫词  其四一",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "过腊愆阳陇麦低，御封香合奉精祈。",
+    "君王晓入凝华殿，远近楼台看雪飞。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-d2706557-fba3-4682-b765-3c2e077cd513"
+}

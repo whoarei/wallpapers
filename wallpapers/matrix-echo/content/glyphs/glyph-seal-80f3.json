@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80f3",
+  "script": "seal",
+  "character": "胳",
+  "reading": "gē；gé",
+  "description": "gē：〔～臂〕上肢，肩膀以下手腕以上的部分。亦称胳膊”（臂”、膊”均读轻声）。\n〔～肢窝〕同夹肢窝”。\ngé：同骼”。\n〔～肢〕在别人身上抓挠，使人由发痒而笑（肢”读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胳"
+}

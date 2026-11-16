@@ -1,0 +1,17 @@
+{
+  "id": "poem-ac4b28b94f2140fa373e4417",
+  "title": "浣溪沙·绝代佳人淑且真",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "绝代佳人淑且真。",
+    "雪为肌骨月为神。",
+    "烛前花底不胜春。",
+    "倚竹袖长寒卷翠，凌波袜小暗生尘。",
+    "十分京落旧家人。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-280",
+  "tags": []
+}

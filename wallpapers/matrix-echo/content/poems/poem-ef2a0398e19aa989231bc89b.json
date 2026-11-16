@@ -1,0 +1,16 @@
+{
+  "id": "poem-ef2a0398e19aa989231bc89b",
+  "title": "寄张阶州",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "仪甫秉忠信，神明自来舍。",
+    "绛灌虽不容，蛮貊皆从化。",
+    "荣名任纷纠，道性常闲暇。",
+    "传语当途人，无为劳叹咤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-6df50e89-c133-4aa9-9f6f-92e8c204298c"
+}

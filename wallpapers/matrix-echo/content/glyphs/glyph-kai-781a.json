@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-781a",
+  "script": "kai",
+  "character": "砚",
+  "reading": "yàn",
+  "description": "光滑的石头\n砚台\n制作砚\n⒈磨墨用的文具～台。\n⒉有同学关系的～兄。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-砚"
+}

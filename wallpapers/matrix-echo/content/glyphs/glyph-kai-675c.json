@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-675c",
+  "script": "kai",
+  "character": "杜",
+  "reading": "dù",
+  "description": "dù：(1)落叶乔木，果实圆而小，味涩可食，俗称杜梨”，亦称甘棠”、棠梨”。木材可做扁担或刻图章。\n(2)阻塞（sè），堵塞（sāi）～绝。～塞（sāi）。～门谢客，防微～渐。\n(3)姓～康（相传最早发明酿酒的人，文学作品中借指酒）。\n〔～撰〕凭自己的意思没有根据地编造。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杜"
+}

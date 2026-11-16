@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-72e0",
+  "script": "kai",
+  "character": "狠",
+  "reading": "hěn",
+  "description": "hěn：(1)凶恶，残忍心～。～戾。～毒。～心。凶～。\n(2)勉强地抑制住难过的心情～着心把泪止住。\n(3)严厉地～批他一顿。\n(4)全力以赴～劲。～抓学习。\n(5)同很”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-狠"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-2cfadc52322a6cef64180298",
+  "title": "浣溪沙·相见休言有泪珠",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "相见休言有泪珠，酒阑重得叙欢娱，凤屏鸳枕宿金铺。",
+    "兰麝细香闻喘息，绮罗纤缕见肌肤，此时还恨薄情无。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-46"
+}

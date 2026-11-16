@@ -1,0 +1,13 @@
+{
+  "id": "poem-d262cd5a4d35fef13ce0acf5",
+  "title": "晚秋 三",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "缧绁戎庭恨有余，蚕知君意复何如？一介耻无苏子节，数回羞寄李陵书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-70a42a5f-4e1b-4845-9c73-114ad9d94734"
+}

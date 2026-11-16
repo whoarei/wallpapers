@@ -1,0 +1,15 @@
+{
+  "id": "poem-3893228de6b0a477cd527d74",
+  "title": "借车",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "借车载家具，家具少于车。",
+    "借者莫弹指，贫穷何足嗟。",
+    "百年徒役走，万事尽随花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-638d5260-6bc2-4256-9d58-725fa76e2576"
+}

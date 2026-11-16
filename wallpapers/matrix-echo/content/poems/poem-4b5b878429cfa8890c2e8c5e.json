@@ -1,0 +1,15 @@
+{
+  "id": "poem-4b5b878429cfa8890c2e8c5e",
+  "title": "古乐府 燕歌行",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "小雅废兮，东山不作。",
+    "哀我人斯，皇心不乐。",
+    "烝哉斯人，胡然而天兮，王师于铄。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-5a0cfe2b-546b-4d62-959c-5481d4603d4a"
+}

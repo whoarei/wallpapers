@@ -1,0 +1,14 @@
+{
+  "id": "poem-2e1516dd85d07db1fe230ec2",
+  "title": "西池清晖亭",
+  "author": "许抗",
+  "dynasty": "宋",
+  "verses": [
+    "亭号清晖阚碧涟，半连村落半神仙。",
+    "青山剩得云间日，明月饶分水底天。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-62da06e8-39a2-42ed-9be1-c6acb8b51b74"
+}

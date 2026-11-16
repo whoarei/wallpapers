@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5352",
+  "script": "seal",
+  "character": "卒",
+  "reading": "zú；cù",
+  "description": "zú：(1)兵士～。小～。兵～。\n(2)旧称差役走～。\n(3)死亡病～。生～年月。\n(4)完毕，终了～岁（度过一年）。～业（毕业）。\n(5)终于～胜敌军。\n兵；殁；亡；\n生；\ncù：同猝”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卒"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b0f399520e4e98bb3e481e60",
+  "title": "梅",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "最爱横溪曲，横流一树梅。",
+    "藏根惟爱石，落瓣不沾埃。",
+    "腊里孤清节，春间创辟材。",
+    "调羹还有藉，青子百千枚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-a5f9605a-ec79-437d-81d9-9f842432800d"
+}

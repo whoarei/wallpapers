@@ -1,0 +1,16 @@
+{
+  "id": "poem-a2863853cd46bce4eb03fff3",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［丑］畜生反面目，太心毒。",
+    "忘恩负义难容恕，真堪恶！且放怀，休疑虑。",
+    "他既贪图荣贵重婚娶，咱这里别选收花主。",
+    "［合前］。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8190",
+  "tags": []
+}

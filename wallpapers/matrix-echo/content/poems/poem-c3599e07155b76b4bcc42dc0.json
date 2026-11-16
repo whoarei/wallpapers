@@ -1,0 +1,19 @@
+{
+  "id": "poem-c3599e07155b76b4bcc42dc0",
+  "title": "踏莎行·堪笑山中",
+  "author": "张抡",
+  "dynasty": "宋",
+  "verses": [
+    "堪笑山中，春来风景。",
+    "一声啼鸟烟林静。",
+    "山泉风暖奏笙簧。",
+    "山花雨过开云锦。",
+    "短棹桃溪，瘦藤兰径。",
+    "独来独往乘幽兴。",
+    "韶光回首即成空，及时乐取逍遥性。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-937",
+  "tags": []
+}

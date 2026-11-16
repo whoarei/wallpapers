@@ -1,0 +1,18 @@
+{
+  "id": "poem-61189443ea464d71643a51ce",
+  "title": "省题诗二十一首 风中琴",
+  "author": "王棨",
+  "dynasty": "唐",
+  "verses": [
+    "虚簷来晓吹，横榻有瑶琴。",
+    "暗报青苹叶，潜生绿绮音。",
+    "数声随籁去，余响人堂深。",
+    "徽假大王按，弦因少女吟。",
+    "如筝飘阁上，似瑟鼓江浔。",
+    "若与钟期会，还知天地心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-b5974bad-6e41-46b1-a46c-0be2ce8c71f3"
+}

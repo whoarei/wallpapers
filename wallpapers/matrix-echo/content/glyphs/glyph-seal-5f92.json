@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f92",
+  "script": "seal",
+  "character": "徒",
+  "reading": "tú",
+  "description": "tú：(1)步行～步。～涉。\n(2)空～手。\n(3)白白地～然。～劳无益。\n(4)只；仅仅家～四壁。\n(5)从事学习的人～弟。～工。学～。师～。\n(6)同一派系或信仰同一宗教的人信～。教～。党～。\n(7)人（多指坏人）匪～。暴～。赌～。叛～。\n(8)剥夺犯人自由的刑法～刑。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-徒"
+}

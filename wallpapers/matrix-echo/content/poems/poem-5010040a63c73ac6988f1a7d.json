@@ -1,0 +1,16 @@
+{
+  "id": "poem-5010040a63c73ac6988f1a7d",
+  "title": "通新代者书偶作",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "庭阴日日杜鹃啼，问我胡为未赋归。",
+    "官况苦如梅豆小，人情轻似柳绵飞。",
+    "三年独自知操纵，两耳从他说是非。",
+    "瓜戍喜催新代者，呆衫应许换征衣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-1ff1f717-065c-4087-ac40-888464a22eff"
+}

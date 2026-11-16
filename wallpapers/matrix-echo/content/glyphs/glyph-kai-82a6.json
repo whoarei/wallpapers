@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-82a6",
+  "script": "kai",
+  "character": "芦",
+  "reading": "lú",
+  "description": "lú：姓。\n〔～苇〕多年生草本植物，多生于水边，茎中空，茎可编席，亦可造纸。简称芦”，如～花”、～根”、～笛”、～席”、～荡”；亦简称苇”，如～丛”、～塘”、～箔”、～荡”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芦"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-03fb1454beabf79854ed0f63",
+  "title": "诉衷情·永夜抛人何处去",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "永夜抛人何处去，绝来音。",
+    "香阁掩，眉敛，月将沉。",
+    "怎忍不相寻？鸳孤衾。",
+    "换我心为你心，始知相忆深。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-20"
+}

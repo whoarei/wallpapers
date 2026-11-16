@@ -1,0 +1,16 @@
+{
+  "id": "poem-1d0ccf3b0441fb0488979709",
+  "title": "同庄秀才宿镇星观",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "的的星河落，沾苔复洒松。",
+    "湿光微泛草，石翠澹摇峰。",
+    "野观云和月，秋城漏间钟。",
+    "知君亲此境，九陌少相逢。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3d907ab0-fa98-4704-aa08-7eca8c296e99"
+}

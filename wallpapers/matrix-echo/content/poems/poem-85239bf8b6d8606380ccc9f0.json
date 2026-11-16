@@ -1,0 +1,16 @@
+{
+  "id": "poem-85239bf8b6d8606380ccc9f0",
+  "title": "偈三首  其一",
+  "author": "释祖瑃",
+  "dynasty": "宋",
+  "verses": [
+    "道无定乱，法离见知。",
+    "言句相投，都无定义。",
+    "自古龙门无宿客，至今鸟道绝行踪。",
+    "欲会个中端的意，火里蝍蟟吞大虫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-1b0203b0-75b1-4553-a713-3a3df3285236"
+}

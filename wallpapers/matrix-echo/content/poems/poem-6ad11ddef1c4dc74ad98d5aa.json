@@ -1,0 +1,14 @@
+{
+  "id": "poem-6ad11ddef1c4dc74ad98d5aa",
+  "title": "浣溪沙·握手河桥柳似金",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "握手河桥柳似金，蜂须轻惹百花心，蕙风兰思寄清琴。",
+    "意满便同春水满，情深还似酒杯深，楚烟湘月两沉沉。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-29"
+}

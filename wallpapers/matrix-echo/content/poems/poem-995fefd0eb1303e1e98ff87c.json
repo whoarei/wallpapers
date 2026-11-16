@@ -1,0 +1,19 @@
+{
+  "id": "poem-995fefd0eb1303e1e98ff87c",
+  "title": "颂古三十二首  其二三",
+  "author": "释明辩",
+  "dynasty": "唐",
+  "verses": [
+    "打起黄莺儿，莫教枝上啼。",
+    "几回惊妾梦，不得到辽西。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "怀人",
+    "五言绝句",
+    "闺怨",
+    "唐诗三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-228c87f2-092b-411b-9029-c5454cc2cb1c"
+}

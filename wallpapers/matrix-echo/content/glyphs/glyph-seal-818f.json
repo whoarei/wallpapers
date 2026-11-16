@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-818f",
+  "script": "seal",
+  "character": "膏",
+  "reading": "gāo；gào",
+  "description": "gāo：(1)肥，肥肉～粱（肥肉、细粮）。～腴。～沃。\n(2)脂油春雨如～。～泽（ａ．滋润作物的及时雨；ｂ．喻给予恩惠）。\n(3)中医指心尖脂肪，认为是药力达不到的部位病入～肓。\ngào：(1)把油抹在车轴或机械上～油。\n(2)把毛笔蘸上墨汁在砚台边上掭～笔。～墨。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-膏"
+}

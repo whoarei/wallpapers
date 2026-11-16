@@ -1,0 +1,14 @@
+{
+  "id": "poem-43cf143a7f6c466b09696c9c",
+  "title": "马诗二十三首 六",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "饥卧骨查牙，粗毛刺破花。",
+    "鬣焦朱色落，发断锯长麻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-9e8e4fea-14d1-41d0-a777-ddaf67da6146"
+}

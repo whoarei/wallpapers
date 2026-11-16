@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-77a7",
+  "script": "kai",
+  "character": "瞧",
+  "reading": "qiáo",
+  "description": "qiáo：看～见。～病。～热闹。～不起。～得起。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瞧"
+}

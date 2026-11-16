@@ -1,0 +1,16 @@
+{
+  "id": "poem-1853a0e3134dddfc865d5c36",
+  "title": "沈正卿示探梅诗次韵",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "数点微明已露奇，解颜相见却先知。",
+    "携壶拟醉无穷树，走马来看第一枝。",
+    "照水意闲真我辈，酿寒云重正花时。",
+    "自从亲识春风面，不信良工画有诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-53454636-5415-48ff-877f-75be30f2c92d"
+}

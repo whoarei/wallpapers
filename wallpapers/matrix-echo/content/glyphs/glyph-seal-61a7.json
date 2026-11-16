@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-61a7",
+  "script": "seal",
+  "character": "憧",
+  "reading": "chōng",
+  "description": "chōng：心意不定。\n〔～～〕往来不定，摇曳不定，如人影～～”。\n〔～憬〕向往，如～～未来”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-憧"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-8b29580e36ffe8cb06dd9c37",
+  "title": "寄峡州韦郎中",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "年过五十鬓如丝，不必前程更问师。",
+    "幸得休耕乐尧化，楚山深处最相宜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-470df489-6f73-41f6-97b9-f5e74d9a8c7d"
+}

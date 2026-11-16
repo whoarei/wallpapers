@@ -1,0 +1,16 @@
+{
+  "id": "poem-3211fb2528334df4f53adc83",
+  "title": "奉和柳相公中书言怀",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "运筹时所贵，前席礼偏深。",
+    "羸驾归贫宅，攲冠出禁林。",
+    "凤巢方得地，牛喘最关心。",
+    "雅望期三入，东山未可寻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-23ecc4c8-9ab8-4d67-a68c-1d2f0e57f0ff"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-d86029d6cea59b05bd983cab",
+  "title": "闻蛙",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "蛙黾何所恃，喧喧矜善鸣。",
+    "不知秽污质，群沸沼池清。",
+    "游子得无泪，羁人若为情。",
+    "华堂有丝竹，皆厌尔虚声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-863572d5-7f46-4322-8d73-7f2acc1c53bd"
+}

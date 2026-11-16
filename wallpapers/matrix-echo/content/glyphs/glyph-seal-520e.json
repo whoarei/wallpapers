@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-520e",
+  "script": "seal",
+  "character": "刎",
+  "reading": "wěn",
+  "description": "wěn：抹脖子自～。\n〔～颈之交〕旧称同生死共患难的朋友，如卒相与欢，为～～～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-刎"
+}

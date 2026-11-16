@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9967",
+  "script": "seal",
+  "character": "饧",
+  "reading": "táng",
+  "description": "用麦芽或谷芽熬成的饴糖\n糖块、面剂子等变软\n形容眼色朦胧\n⒈麦芽或谷芽等熬成的糖。\n⒉糖块或面剂子等变软糖～了。面团～了。\n⒊精神不振，眼光朦胧两眼发～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-饧"
+}

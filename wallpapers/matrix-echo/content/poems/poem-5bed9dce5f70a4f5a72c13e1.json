@@ -1,0 +1,16 @@
+{
+  "id": "poem-5bed9dce5f70a4f5a72c13e1",
+  "title": "横吹曲辞 折杨柳",
+  "author": "刘宪",
+  "dynasty": "唐",
+  "verses": [
+    "沙塞三河道，金闺二月春。",
+    "碧烟杨柳色，红粉绮罗人。",
+    "露叶怜啼脸，风花思舞巾。",
+    "攀持君不见，为听曲中新。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-35c4618c-3896-45f8-9b24-51764c90383f"
+}

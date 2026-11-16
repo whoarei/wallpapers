@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5510",
+  "script": "kai",
+  "character": "唐",
+  "reading": "táng",
+  "description": "táng：(1)夸大，虚夸荒～。～大无验。\n(2)空，徒然功不～捐（功夫不白费）。\n(3)传说中的中国朝代名，尧所建。\n(4)朝代名～代。～诗。～僧。～人。～三彩◇～。\n(5)古代朝堂前或宗庙门内的大路。\n(6)古同螗”，指蝉。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-唐"
+}

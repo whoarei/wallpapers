@@ -1,0 +1,14 @@
+{
+  "id": "poem-1a1dee483b705a21ee4a7481",
+  "title": "红绣鞋",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "明日办个筵席，筵席，把家私付与兄弟，兄弟。",
+    "(小生)谢哥哥转心意，结义的再休题。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1931",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-16cb050893aa50703fc2b0e2",
+  "title": "宋中十首 四",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "梁苑白日暮，梁山秋草时。",
+    "君王不可见，修竹令人悲。",
+    "九月桑叶尽，寒风鸣树枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-89a6c133-8b77-4365-960f-79e7c3991f49"
+}

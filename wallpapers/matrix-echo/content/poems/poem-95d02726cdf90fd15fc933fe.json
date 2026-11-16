@@ -1,0 +1,16 @@
+{
+  "id": "poem-95d02726cdf90fd15fc933fe",
+  "title": "横吹曲辞 陇头水",
+  "author": "卢照邻",
+  "dynasty": "唐",
+  "verses": [
+    "陇坂高无极，征人一望乡。",
+    "关河别去水，沙塞断归肠。",
+    "马系千年树，旌悬九月霜。",
+    "从来共呜咽，皆是为勤王。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f5b4927a-9a37-4e40-87ee-e75fff02d48a"
+}

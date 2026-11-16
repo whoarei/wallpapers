@@ -1,0 +1,16 @@
+{
+  "id": "poem-d76a25b87c48650287e0afb4",
+  "title": "送丘二十二之苏州",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "积水与寒烟，嘉禾路几千。",
+    "孤猨啼海岛，群雁起湖田。",
+    "曾见长洲苑，尝闻大雅篇。",
+    "却将封事去，知尔爱闲眠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-db8be32b-7191-4e61-a10f-1d3a20f533e9"
+}

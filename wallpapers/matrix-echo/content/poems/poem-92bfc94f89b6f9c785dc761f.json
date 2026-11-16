@@ -1,0 +1,16 @@
+{
+  "id": "poem-92bfc94f89b6f9c785dc761f",
+  "title": "横吹曲辞 折杨柳",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "红粉青楼曙，垂杨仲月春。",
+    "怀君重攀折，非妾妒腰身。",
+    "舞带萦丝断，娇娥向叶嚬。",
+    "横吹凡几曲，独自最愁人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-afb30a8c-345b-471d-bf80-9f1828f8e097"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-baf4ce24550dcce6425633eb",
+  "title": "峡哀 八",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "峡景滑易堕，峡花怪非春。",
+    "红光根潜涎，碧雨飞沃津。",
+    "巴谷蛟螭心，巴乡魍魉亲。",
+    "噉生不问贤，至死独养身。",
+    "腥语信者谁，拗歌欢非真。",
+    "仄田无异稼，毒水多狞鳞。",
+    "异类不可友，峡哀哀难伸。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-e8d89175-a6e3-493b-84f7-86eb548a0ce6"
+}

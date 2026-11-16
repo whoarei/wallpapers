@@ -1,0 +1,15 @@
+{
+  "id": "poem-28553f356d1f31966e35e853",
+  "title": "鱼丽",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "鱼丽于罶，鲿鲨。君子有酒，旨且多。",
+    "鱼丽于罶，鲂鳢。君子有酒，多且旨。",
+    "鱼丽于罶，鰋鲤。君子有酒，旨且有。物其多矣，维其嘉矣！物其旨矣，维其偕矣！物其有矣，维其时矣！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-169"
+}

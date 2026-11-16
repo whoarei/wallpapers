@@ -1,0 +1,18 @@
+{
+  "id": "poem-cd859d29ed7fb792b68bba2a",
+  "title": "和左司张员外自洛使入京中路先赴长安逢立春日赠韦侍御等诸公",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "拜郎登省闼，奉使驰车乘。",
+    "遥瞻使者星，便是郎官应。",
+    "台妙时相许，皇华德弥称。",
+    "二陕听风谣，三秦望形胜。",
+    "此中暌益友，是日多诗兴。",
+    "寒尽岁阴催，春归物华证。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-905d012f-ac6d-4ee2-996d-7bd8a9cda463"
+}

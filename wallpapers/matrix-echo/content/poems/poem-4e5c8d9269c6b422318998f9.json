@@ -1,0 +1,22 @@
+{
+  "id": "poem-4e5c8d9269c6b422318998f9",
+  "title": "咏怀古迹五首 二",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "摇落深知宋玉悲，风流儒雅亦吾师。",
+    "怅望千秋一洒泪，萧条异代不同时。",
+    "江山故宅空文藻，云雨荒台岂梦思。",
+    "最是楚宫俱泯灭，舟人指点到今疑。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "七言律诗",
+    "怀古",
+    "抒怀"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-acbe1729-cefd-4678-9719-09c5c9c27db0"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-833b736bf5e4d5119dbf431f",
+  "title": "酬李元叔察院见寄",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "书到山中手自披，炎凉不改似君稀。",
+    "术穷五技缘何事，巢穏一枝聊可依。",
+    "扫迹径须休去好，冥心深觉向来非。",
+    "缓赓清唱缄题罢，却对松窗静掩扉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-df710afd-08e7-4f77-aa0c-2071d303215a"
+}

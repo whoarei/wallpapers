@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9608",
+  "script": "seal",
+  "character": "阈",
+  "reading": "yù",
+  "description": "门槛\n泛指界限或范围\n门户;门口\n阈值\n阈yù门坎。〈引〉界限或范围～值。视～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阈"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7425",
+  "script": "seal",
+  "character": "琥",
+  "reading": "hǔ",
+  "description": "hǔ：雕刻成虎形的玉器。\n〔～珀〕黄褐色透明体，是古代松柏树脂落入地下所成的化石，可做香料及装饰品，亦可入药。亦作虎魄”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-琥"
+}

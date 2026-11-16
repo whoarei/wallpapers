@@ -1,0 +1,14 @@
+{
+  "id": "poem-c671908025ed47a908c33aaa",
+  "title": "颂古七十六首  其六三",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "风头稍硬难安立，暖气才通瞌睡来。",
+    "却笑明招闲费力，无端两处强差排。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-b5bf1a66-52f8-4929-ac26-8d226d5f46ce"
+}

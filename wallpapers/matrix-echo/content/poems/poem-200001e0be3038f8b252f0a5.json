@@ -1,0 +1,14 @@
+{
+  "id": "poem-200001e0be3038f8b252f0a5",
+  "title": "应制贺边军支春衣 一",
+  "author": "柳公权",
+  "dynasty": "唐",
+  "verses": [
+    "去岁虽无战，今年未得归。",
+    "皇恩何以报，春日得春衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-90926ca1-f8e1-4833-a322-9a81e43ab878"
+}

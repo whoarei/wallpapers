@@ -1,0 +1,21 @@
+{
+  "id": "poem-b74090f95911af5102a42f9b",
+  "title": "喜外弟卢纶见宿",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "静夜四无邻，荒居旧业贫。",
+    "雨中黄叶树，灯下白头人。",
+    "以我独沈久，愧君相见频。",
+    "平生自有分，况是蔡家亲。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "生活",
+    "五言律诗",
+    "年老"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-f0cd6afd-c89d-4fc3-b214-bcbf63042e8e"
+}

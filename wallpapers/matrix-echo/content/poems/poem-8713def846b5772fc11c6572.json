@@ -1,0 +1,19 @@
+{
+  "id": "poem-8713def846b5772fc11c6572",
+  "title": "凤楼春·凤髻绿云丛",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "凤髻绿云丛，深掩房栊。",
+    "锦书通，梦中相见觉来慵，匀面泪脸珠融。",
+    "因想玉郎何处去，对淑景谁同。",
+    "小楼中，春思无穷。",
+    "倚栏颙望，暗牵愁绪，柳花飞起东风。",
+    "斜日照帘，罗幌香冷粉屏空。",
+    "海棠零落，莺语残红。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-12"
+}

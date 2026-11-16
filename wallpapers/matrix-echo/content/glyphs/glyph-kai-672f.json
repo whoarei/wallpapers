@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-672f",
+  "script": "kai",
+  "character": "术",
+  "reading": "shù；shú；zhú",
+  "description": "shù：(1)技艺技～。艺～。武～。学～。不学无～。\n(2)方法战～。权～。心～。\n(3)古代城市中的道路。\nshú：古同秫”，黏高梁。\nzhú：〔白～〕多年生草本植物，根状茎可入药。\n〔苍～〕多年生草本植物，根状茎可入药。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-术"
+}

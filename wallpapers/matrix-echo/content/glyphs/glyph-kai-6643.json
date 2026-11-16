@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6643",
+  "script": "kai",
+  "character": "晃",
+  "reading": "huàng；huǎng",
+  "description": "huǎng：(1)明亮明～～。\n(2)照耀～眼。\n(3)形影很快地闪过一～十年。\n摆；摇；\nhuàng：摇动～荡。～动。～悠。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-晃"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ebe1ef5256f7826df61da91e",
+  "title": "送孙二",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "郊外谁相送，夫君道术亲。",
+    "书生邹鲁客，才子洛阳人。",
+    "祖席依寒草，行车起暮尘。",
+    "山川何寂寞，长望泪沾巾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-f5a33e9a-00ff-486e-b4e4-d52eba32f9f9"
+}

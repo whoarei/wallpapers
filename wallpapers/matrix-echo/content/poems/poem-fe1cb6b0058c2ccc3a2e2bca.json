@@ -1,0 +1,16 @@
+{
+  "id": "poem-fe1cb6b0058c2ccc3a2e2bca",
+  "title": "女冠子·淡花瘦玉",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "淡花瘦玉，依约神仙妆束。",
+    "佩琼文，瑞露通宵贮，幽香尽日焚。",
+    "碧纱笼绛节，黄藕冠浓云。",
+    "勿以吹箫伴，不同群。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-24"
+}

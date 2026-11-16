@@ -1,0 +1,14 @@
+{
+  "id": "poem-0a11791453cd716a9ba91edd",
+  "title": "洋州三十景 二乐榭",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "琴跻积翠外，𫄨结穹隆间。",
+    "轩槛最佳处，四顾惟江山。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-320c9ed0-59e5-47af-b287-f3626c67b1e9"
+}

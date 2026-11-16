@@ -1,0 +1,14 @@
+{
+  "id": "poem-a56a09ec7a840d8d3b41e7b3",
+  "title": "题靖节祠  其一",
+  "author": "孙勴",
+  "dynasty": "宋",
+  "verses": [
+    "先生拂衣归柴桑，视时富贵犹粃糠。",
+    "义心耻食易代粟，督邮于我何低昂。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-a16f724e-6197-4447-bffd-4197b89da74c"
+}

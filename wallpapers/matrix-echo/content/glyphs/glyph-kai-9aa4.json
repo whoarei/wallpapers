@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9aa4",
+  "script": "kai",
+  "character": "骤",
+  "reading": "zhòu",
+  "description": "使马奔驰\n泛指奔驰\n迅疾,猛快\n飘风不终朝,骤雨不终\n⒈马奔驰弛～。〈引〉急速，快速暴风～雨。\n⒉忽然，突然～然。狂风～起。天色～变。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骤"
+}

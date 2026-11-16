@@ -1,0 +1,16 @@
+{
+  "id": "poem-9961a75994a067fed99d3096",
+  "title": "郊庙歌辞 五郊乐章 白郊迎神",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "序移玉律，节应金商。",
+    "天严杀气，吹警秋方。",
+    "槱燎既积，稷奠并芳。",
+    "乐以迎奏，庶降神光。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-460e1cd1-cc6c-494e-a20f-5197be96f3d7"
+}

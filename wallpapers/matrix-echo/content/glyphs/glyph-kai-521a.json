@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-521a",
+  "script": "kai",
+  "character": "刚",
+  "reading": "gāng",
+  "description": "坚强\n子曰刚毅木讷,近仁。\n⒈坚硬，坚定，坚强跟\"柔\"相对～正。～毅。～强。以柔克～。\n⒉副词。才，方才～才。她～走。\n⒊副词。正好，恰好～好。～ ～合适。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-刚"
+}

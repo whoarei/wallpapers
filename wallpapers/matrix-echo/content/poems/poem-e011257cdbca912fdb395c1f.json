@@ -1,0 +1,16 @@
+{
+  "id": "poem-e011257cdbca912fdb395c1f",
+  "title": "偈颂（幷序○序为南岳齐己撰） 八十八",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "一念心清净，莲华处处开。",
+    "一华一净土，一土一如来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-d58a8163-6d40-4af3-9c1c-c149e5fb3fe0"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-e6050c17bdf8eee82b22e4cb",
+  "title": "和邢端公登台春望句句有春字之什",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "春日绣衣轻，春台别有情。",
+    "春烟间草色，春鸟隔花声。",
+    "春树乱无次，春山遥得名。",
+    "春风正飘荡，春瓮莫须倾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-588a3bdb-03ab-45c2-89df-2aef3ec414a6"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e26",
+  "script": "seal",
+  "character": "带",
+  "reading": "dài",
+  "description": "①带子或带状物鞋～、车～。\n②区域沿海一～。\n③携带～上一本书。\n④引导～路。\n⑤附带连说～笑。\n⑥含面～微笑。\n【带操】一种以带为器械的艺术体操项目。带子一般为绸缎，长度7米。基本动作有摆动、绕环、蛇形、螺形、抛接等。\n【带分数】〈数〉整数后面带着分数的数。\n【带余除法】〈数〉若a是任一整数，b是任一正整数，则必唯一存在整数q和r，使a=bq+r，其中0≤r≤b。这里，q叫做b除a的不完全商，简称商，r叫做余数。计算不完全商和\n余数的过程叫做带余除法。这个结论可推广到多项式上去。\n【带状纹样】见【二方连续纹样】。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-带"
+}

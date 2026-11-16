@@ -1,0 +1,16 @@
+{
+  "id": "poem-0b921aa01cea5ae216e74ddd",
+  "title": "山居诗  其二",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "古树交盘簇径深，阒无人到为难寻。",
+    "祇和算计千般事，谁解消停一点心。",
+    "冰锁瀑声中夜断，云吞岳影半天沈。",
+    "寒灯欲绝禅初起，透牖疏风触短襟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-ba99895f-ada2-43b1-bfd9-c79bd1d73e08"
+}

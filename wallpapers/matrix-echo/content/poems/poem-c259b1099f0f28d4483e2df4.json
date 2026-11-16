@@ -1,0 +1,14 @@
+{
+  "id": "poem-c259b1099f0f28d4483e2df4",
+  "title": "白莲雨后渐衰",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "晓池芳柄褭残馨，褪雨欹风鹭委翎。",
+    "碧展一奁秋练练，似怜玉色镜中零。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-a58a2fcd-82d7-4518-91d9-14f9be83cee1"
+}

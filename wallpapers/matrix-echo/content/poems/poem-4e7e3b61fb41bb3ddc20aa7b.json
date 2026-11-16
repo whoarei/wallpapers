@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e7e3b61fb41bb3ddc20aa7b",
+  "title": "谒金门",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "春梦断，临镜绿云撩乱。",
+    "闻道才郎游上苑，又添离别叹。",
+    "(生接唱)苦被爹行逼遣，脉咏此情何限。",
+    "骨肉一朝成拆散，可怜难舍拚。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4942",
+  "tags": []
+}

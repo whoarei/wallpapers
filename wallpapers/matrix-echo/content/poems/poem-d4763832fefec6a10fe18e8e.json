@@ -1,0 +1,22 @@
+{
+  "id": "poem-d4763832fefec6a10fe18e8e",
+  "title": "隋宫",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "紫泉宫殿锁烟霞，欲取芜城作帝家。",
+    "玉玺不缘归日角，锦帆应是到天涯。",
+    "于今腐草无萤火，终古垂杨有暮鸦。",
+    "地下若逢陈后主，岂宜重问后庭花。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "七言律诗",
+    "讽刺",
+    "咏史"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-670009c2-a701-4140-aa31-b4973f76d632"
+}

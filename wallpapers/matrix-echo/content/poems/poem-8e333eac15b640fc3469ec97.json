@@ -1,0 +1,16 @@
+{
+  "id": "poem-8e333eac15b640fc3469ec97",
+  "title": "初春和折子明岁前两诗  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "古今同活法，妙处在阿堵。",
+    "浮云不作祟，白黑可坐数。",
+    "穷冬掩关卧，岂为作诗苦。",
+    "挑灯读韦编，至味可深咀。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-156d3f57-9141-4312-b22f-6b7d32ba6b0a"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b1e70c94e9911da8807b0760",
+  "title": "金蕉叶",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "脱白挂绿，苦不肯共成眷属。",
+    "(后出接)蓦忽地思量，簌是奴没分福。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2622",
+  "tags": []
+}

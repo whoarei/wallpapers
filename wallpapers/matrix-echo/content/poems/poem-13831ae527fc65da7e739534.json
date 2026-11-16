@@ -1,0 +1,15 @@
+{
+  "id": "poem-13831ae527fc65da7e739534",
+  "title": "渔父·白芷汀寒立鹭鸶",
+  "author": "和凝",
+  "dynasty": "五代",
+  "verses": [
+    "白芷汀寒立鹭鸶，苹风轻剪浪花时。",
+    "烟幂幂，日迟迟。",
+    "香引芙蓉惹钓丝。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-32"
+}

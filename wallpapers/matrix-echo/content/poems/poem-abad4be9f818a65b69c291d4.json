@@ -1,0 +1,22 @@
+{
+  "id": "poem-abad4be9f818a65b69c291d4",
+  "title": "惜红衣·鹭老秋丝",
+  "author": "吴文英",
+  "dynasty": "宋",
+  "verses": [
+    "鹭老秋丝，苹愁暮雪，鬓那不白。",
+    "倒柳移栽，如今暗溪碧。",
+    "乌衣细语，伤绊惹、茸红曾约。",
+    "南陌。",
+    "前度刘郎，寻流花踪迹。",
+    "朱楼水侧。",
+    "雪面波光，汀莲沁颜色。",
+    "当时醉近绣箔，夜吟寂。",
+    "三十六矶重到，清梦冷云南北。",
+    "买钓舟溪上，应有烟蓑相识。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-501",
+  "tags": []
+}

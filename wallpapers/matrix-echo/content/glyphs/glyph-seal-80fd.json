@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80fd",
+  "script": "seal",
+  "character": "能",
+  "reading": "néng；nài",
+  "description": "néng：(1)才干，本事～力。～耐。才～。\n(2)有才干的～人。～手。贤～。～工巧匠。～者为师。\n(3)胜任，善于～够。～柔～刚。力所～及。欲罢不～。～动。\n(4)会（表示可能性）小弟弟～走路了。\n(5)应该你不～这样说他。\n(6)物理学名词，能量”的简称电～。热～。\n(7)和睦（萧）何素不与曹参相～”。\n(8)传说中的一种兽，似熊。\n(9)古代称一种三足鳖。\nnài：古同耐”，受得住。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-能"
+}

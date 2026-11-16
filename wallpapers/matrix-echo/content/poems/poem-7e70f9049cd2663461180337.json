@@ -1,0 +1,19 @@
+{
+  "id": "poem-7e70f9049cd2663461180337",
+  "title": "芦花",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "夹岸复连沙，枝枝摇浪花。",
+    "月明浑似雪，无处认渔家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "咏物诗",
+    "花",
+    "咏物",
+    "写花"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-6c1ba143-42bb-453d-9c93-cd2ae33423d2"
+}

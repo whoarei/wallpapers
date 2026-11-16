@@ -1,0 +1,14 @@
+{
+  "id": "poem-d90eb1e1f71f717915645273",
+  "title": "渭水西别李仑",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "陇右长亭堠，山阴古塞秋。",
+    "不知呜咽水，何事向西流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-75f247a1-875a-48dd-87c2-6e8cd5c13140"
+}

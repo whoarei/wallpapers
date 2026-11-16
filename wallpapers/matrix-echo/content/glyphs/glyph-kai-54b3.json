@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-54b3",
+  "script": "kai",
+  "character": "咳",
+  "reading": "ké；hāi",
+  "description": "ké：〔～嗽〕呼吸器官受刺激而引起一种反射作用。把吸入的气急急呼出，同时发声，能清除呼吸道中的异物或痰，亦是某些病的症状。\nhāi：(1)叹息～声叹气。\n(2)叹词，表示惋惜或后悔又表示招呼人，提醒人注意～！我昨天没去医院。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咳"
+}

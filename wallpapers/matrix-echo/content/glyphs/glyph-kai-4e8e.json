@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e8e",
+  "script": "kai",
+  "character": "于",
+  "reading": "yú",
+  "description": "yú：(1)介词（ａ．在，如生～北京”；ｂ．到，如荣誉归～老师”；ｃ．对，如勤～学习”；ｄ．向，如出～自愿”；ｅ．给，如问道～盲”；ｆ．自，从，如取之～民”；ｇ．表比较，如重～泰山”；ｈ．表被动，如限～水平”）。\n(2)后缀（ａ．在形容词后，如疏～防范”；ｂ．在动词后，如属～未来）。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-于"
+}

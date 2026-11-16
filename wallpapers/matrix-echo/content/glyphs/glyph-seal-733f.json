@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-733f",
+  "script": "seal",
+  "character": "猿",
+  "reading": "yuán",
+  "description": "yuán：哺乳动物，与猴相似，比猴大，颊下没有囊，没有尾巴，猩猩、大猩猩、长臂猿等都是～猴。～人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-猿"
+}

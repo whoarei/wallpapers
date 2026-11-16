@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-76ae",
+  "script": "seal",
+  "character": "皮",
+  "reading": "pí",
+  "description": "pí：(1)动植物体表的一层组织～毛。\n(2)兽皮或皮毛的制成品裘～。\n(3)包在外面的一层东西封～。书～。\n(4)表面地～。\n(5)薄片状的东西豆腐～。\n(6)韧性大，不松脆花生放～了。\n(7)不老实，淘气顽～。\n(8)指橡胶胶～。～球。\n(9)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-皮"
+}

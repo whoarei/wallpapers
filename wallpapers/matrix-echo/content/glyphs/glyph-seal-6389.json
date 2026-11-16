@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6389",
+  "script": "seal",
+  "character": "掉",
+  "reading": "diào",
+  "description": "diào：(1)落下～泪。\n(2)减损，消失～色。～价儿。\n(3)遗失，遗漏这一行～了两个字。\n(4)回转（zhuǎn）～头。～转。\n(5)亿，引申为卖弄，耍～文。～俏。～以轻心。～臂而去。\n(6)对换～包。～换。\n(7)落在后面～队。\n(8)用在动词后表示动作完成改～。戒～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-掉"
+}

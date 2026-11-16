@@ -1,0 +1,16 @@
+{
+  "id": "poem-929ce3fec728deae742ccb6a",
+  "title": "秦州薛都督挽词",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "十里绛山幽，千年汾水流。",
+    "碑传门客建，劒是故人留。",
+    "陇树烟含夕，山门月对秋。",
+    "古来钟鼎盛，共尽一蒿丘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-781d15eb-381b-4c8e-8484-b5e072c8ba20"
+}

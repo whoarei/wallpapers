@@ -1,0 +1,19 @@
+{
+  "id": "poem-efa16799d8daeea79f5d5fad",
+  "title": "陪窦侍御灵云南亭宴诗得雷字",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "人幽宜眺听，目极喜亭台。",
+    "风景知愁在，关山忆梦回。",
+    "秪言殊语默，何意忝游陪。",
+    "连唱波澜动，冥搜物象开。",
+    "新秋归远树，残雨拥轻雷。",
+    "簷外长天尽，尊前独鸟来。",
+    "常吟塞下曲，多谢幕中才。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-829d9dfd-b384-4d00-a13e-dd8bd1beb5e5"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-b6173476f61b339fa3b0be16",
+  "title": "早秋三首 一",
+  "author": "许浑",
+  "dynasty": "唐",
+  "verses": [
+    "遥夜泛清瑟，西风生翠萝。",
+    "残萤委玉露，早鴈拂银河。",
+    "高树晓还密，远山晴更多。",
+    "淮南一叶下，自觉老烟波。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "写景",
+    "秋天",
+    "唐诗三百首",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-fedb06cc-37da-4aaf-8f39-85ebcb08b947"
+}

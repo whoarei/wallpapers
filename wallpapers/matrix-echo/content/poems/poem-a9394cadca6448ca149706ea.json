@@ -1,0 +1,16 @@
+{
+  "id": "poem-a9394cadca6448ca149706ea",
+  "title": "贺明朝·忆昔花间初识面",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "忆昔花间初识面，红袖半遮妆脸。",
+    "轻转石榴裙带，故将纤纤玉指，愉捻双凤金线。",
+    "碧梧桐锁深深院，谁料得，两情何日教缱绻。",
+    "羡春来双燕，飞到玉楼，朝暮相见。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-9"
+}

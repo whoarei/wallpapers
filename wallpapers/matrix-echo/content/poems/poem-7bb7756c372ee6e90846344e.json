@@ -1,0 +1,14 @@
+{
+  "id": "poem-7bb7756c372ee6e90846344e",
+  "title": "美人宫棋",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "红烛台前出翠娥，海沙铺局巧相和。",
+    "趂行移手巡收尽，数数看谁得最多。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-12ee9d91-c4af-467a-90cd-ad6857e7f96f"
+}

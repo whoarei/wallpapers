@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-810a",
+  "script": "seal",
+  "character": "脊",
+  "reading": "jǐ",
+  "description": "jǐ：(1)人和动物背上中间的骨头～椎。～髓。～柱。～梁。～背。～椎动物。\n(2)中间高起的部分山～。屋～。书～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-脊"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-fb6ed266bc7d72f5646eec78",
+  "title": "逢江客问南中故人因以诗寄",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "南客何时去，相逢问故人。",
+    "望乡空泪落，嗜酒转家贫。",
+    "疎嬾辞微禄，东西任老身。",
+    "上楼多看月，临水共伤春。",
+    "五柳终期隐，双鸥自可亲。",
+    "应怜折腰吏，冉冉在风尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-58fe608e-8583-4be2-951a-4303ebac66f3"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-bdccc92f53f68500424f2936",
+  "title": "唐大飨拜洛乐章 显和",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "顾德有慙虚菲，明祇屡降祯符。",
+    "汜水初呈秘象，温洛荐表昌图。",
+    "玄泽流恩载洽，丹襟荷渥增愉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-396fd7fa-de45-48e7-b379-0937f6429019"
+}

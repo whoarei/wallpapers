@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9501",
+  "script": "seal",
+  "character": "锁",
+  "reading": "suǒ",
+  "description": "一种用铁环钩连而成的刑具\n链子\n⒈安在门、箱、柜等的开合处，使人不能随便打开的器具铁～。弹子～。\n⒉用锁锁住～门。～好箱子。\n⒊封闭封～。\n⒋链子～链。枷～。\n⒌紧皱眉头双眉深～。\n⒍一种缝纫法，针脚密，线斜交或钩连，多用于衣物边沿上～边。～扣眼。\n⒎像锁的东西石～。金～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锁"
+}

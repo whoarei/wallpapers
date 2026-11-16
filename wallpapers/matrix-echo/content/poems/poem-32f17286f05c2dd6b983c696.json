@@ -1,0 +1,16 @@
+{
+  "id": "poem-32f17286f05c2dd6b983c696",
+  "title": "诉衷情·莺语花舞春昼午",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "莺语花舞春昼午，雨霏微。",
+    "金带枕，宫锦，凤凰帷。",
+    "柳弱蝶交飞，依依。",
+    "辽阳音信稀，梦中归。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-4",
+  "tags": []
+}

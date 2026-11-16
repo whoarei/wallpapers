@@ -1,0 +1,18 @@
+{
+  "id": "poem-b932e490ffb36e88098cda19",
+  "title": "郊庙歌辞 武后崇先庙乐章",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "先德谦㧑冠昔，严规节素超今。",
+    "奉国忠诚每竭，承家至孝纯深。",
+    "追崇惧乖尊意，显号恐玷徽音。",
+    "既迫王公屡请，方乃俯遂群心。",
+    "有限无由展敬，奠醑每阙亲斟。",
+    "大礼虔申典册，苹藻敬荐翘襟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-0cb1c0b0-5d86-4916-8d89-6ff586e84308"
+}

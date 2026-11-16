@@ -6,8 +6,8 @@ import re
 import shutil
 import zipfile
 from pathlib import Path
-from matrix_poetry import collect as collect_matrix_poetry
-from matrix_glyphs import collect as collect_matrix_glyphs
+from matrix_poetry import package_files as package_matrix_poetry
+from matrix_glyphs import package_files as package_matrix_glyphs
 from matrix_settings import collect as collect_matrix_settings
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -97,29 +97,38 @@ def build(previous=None):
         files = sorted(p for p in folder.rglob("*") if p.is_file())
         names = set()
         total = 0
-        generated_poems = collect_matrix_poetry(folder) if folder.name == "matrix-echo" else None
+        generated_poems = package_matrix_poetry(folder) if folder.name == "matrix-echo" else None
         if generated_poems is not None and not (folder / "poems.generated.js").is_file():
             raise ValueError("Missing matrix-echo/poems.generated.js; run scripts/sync_matrix_poetry.py")
-        generated_glyphs = collect_matrix_glyphs(folder) if folder.name == "matrix-echo" and (folder / "glyphs.js").is_file() else None
+        generated_glyphs = package_matrix_glyphs(folder) if folder.name == "matrix-echo" and (folder / "glyphs.js").is_file() else None
         if generated_glyphs is not None and not (folder / "glyphs.generated.js").is_file():
             raise ValueError("Missing matrix-echo/glyphs.generated.js; run scripts/sync_matrix_glyphs.py")
         generated_settings = collect_matrix_settings(folder) if folder.name == "matrix-echo" and (folder / "settings.template.html").is_file() else None
+        generated = {**(generated_poems or {}), **(generated_glyphs or {})}
+        if generated_settings is not None:
+            generated["settings.html"] = generated_settings
+        sharded = any(name.startswith("data/") for name in generated)
+        sources = {}
+        for source in files:
+            relative = source.relative_to(folder).as_posix()
+            if source.is_symlink() or not safe_path(relative):
+                raise ValueError(f"Unsafe package file: {relative}")
+            # Source JSON stays in Git and repository exports. Runtime shards replace
+            # thousands of individual files in host-importable packages.
+            if sharded and (relative.startswith(("content/poems/", "content/glyphs/")) and source.suffix == ".json"
+                            or re.fullmatch(r"data/(poems|glyphs)-\d{4}\.js", relative)):
+                continue
+            sources[relative] = source
         with zipfile.ZipFile(archive_path, "w", compression=zipfile.ZIP_STORED) as archive:
-            for source in files:
-                relative = source.relative_to(folder).as_posix()
-                if source.is_symlink() or not safe_path(relative) or relative.casefold() in names:
+            for relative in sorted(sources.keys() | generated.keys()):
+                source = sources.get(relative)
+                if not safe_path(relative) or relative.casefold() in names:
                     raise ValueError(f"Unsafe or duplicate package file: {relative}")
                 names.add(relative.casefold())
-                data = source.read_bytes()
-                if generated_poems is not None and relative == "poems.generated.js":
-                    data = generated_poems
-                if generated_glyphs is not None and relative == "glyphs.generated.js":
-                    data = generated_glyphs
-                if generated_settings is not None and relative == "settings.html":
-                    data = generated_settings
+                data = generated[relative] if relative in generated else source.read_bytes()
                 # Match the repository's LF policy on Windows working trees too;
                 # identical source text must produce identical release ZIPs.
-                if source.suffix.lower() in {".html", ".css", ".js", ".mjs", ".cjs", ".json", ".svg", ".md", ".txt", ".glsl", ".wgsl", ".vert", ".frag"}:
+                if Path(relative).suffix.lower() in {".html", ".css", ".js", ".mjs", ".cjs", ".json", ".svg", ".md", ".txt", ".glsl", ".wgsl", ".vert", ".frag"}:
                     data = data.replace(b"\r\n", b"\n")
                 total += len(data)
                 if total > 512 * 1024 * 1024 or len(names) > 4096:

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8be0",
+  "script": "seal",
+  "character": "诠",
+  "reading": "quán",
+  "description": "通铨”。权衡;考虑;比较\n通铨”。选择\n⒈解释，阐明事理～释。～论。\n①阐述真理的语句。\n②真理衣褐向真～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诠"
+}

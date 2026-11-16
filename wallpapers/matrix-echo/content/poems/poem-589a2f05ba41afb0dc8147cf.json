@@ -1,0 +1,18 @@
+{
+  "id": "poem-589a2f05ba41afb0dc8147cf",
+  "title": "蚕妇",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "晓夕采桑多苦辛，好花时节不闲身。",
+    "若教解爱繁华事，冻杀黄金屋里人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "写人",
+    "讽喻",
+    "写人诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-491e12d6-4fb9-4c00-b315-9fdf952f3f6d"
+}

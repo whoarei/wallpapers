@@ -1,0 +1,19 @@
+{
+  "id": "poem-3f0ecd96bb634d09b9424f6a",
+  "title": "咏院中藂竹",
+  "author": "吕太一",
+  "dynasty": "唐",
+  "verses": [
+    "擢擢当轩竹，青青重岁寒。",
+    "心贞徒见赏，箨小未成竿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "咏物诗",
+    "竹子",
+    "咏物",
+    "赞美"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-b716e76f-6401-4990-b62b-637e59c7fb47"
+}

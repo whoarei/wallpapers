@@ -1,0 +1,16 @@
+{
+  "id": "poem-4f53b3e7e5d6ad4d8784af89",
+  "title": "春行",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "侍臣朝谒罢，戚里自相过。",
+    "落日青丝骑，春风白纻歌。",
+    "恩承三殿近，猎向五陵多。",
+    "归路南桥望，垂杨拂细波。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d7ac0c91-1a6a-497e-b9e0-888d5864ef98"
+}

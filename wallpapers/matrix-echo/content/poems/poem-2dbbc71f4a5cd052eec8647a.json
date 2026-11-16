@@ -1,0 +1,16 @@
+{
+  "id": "poem-2dbbc71f4a5cd052eec8647a",
+  "title": "郊庙歌辞 祀雨师乐章 奠币登歌",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "岁正朱明，礼布元制。",
+    "惟乐能感，与神合契。",
+    "阴雾离翍，灵驭摇裔。",
+    "膏泽之庆，期于稔岁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-c721f02a-3227-4c0e-8506-8f7aa683399d"
+}

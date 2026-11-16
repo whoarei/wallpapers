@@ -1,0 +1,23 @@
+{
+  "id": "poem-955ceda4444bed685c0ce3fb",
+  "title": "送人东游",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "荒戍落黄叶，浩然离故关。",
+    "高风汉阳渡，初日郢门山。",
+    "江上几人在，天涯孤櫂还。",
+    "何当重相见，尊酒慰离颜。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "友情",
+    "送别",
+    "五言律诗",
+    "惜别",
+    "秋天"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-315bc0e1-f76c-49d5-9940-b212e5f9c2ae"
+}

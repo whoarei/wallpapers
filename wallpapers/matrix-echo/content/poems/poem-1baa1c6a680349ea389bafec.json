@@ -1,0 +1,16 @@
+{
+  "id": "poem-1baa1c6a680349ea389bafec",
+  "title": "次韵李似宗见示小圃之作二首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "竹影桐阴夏日长，水花晚色浄林塘。",
+    "招邀风月成三友，邂逅宾朋共一觞。",
+    "闲把琴书聊自乐，静看蜂蝶为谁忙。",
+    "年来百念皆灰冷，愿学螺川云水乡。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-240ba879-b7a7-4a11-871c-b701034a67af"
+}

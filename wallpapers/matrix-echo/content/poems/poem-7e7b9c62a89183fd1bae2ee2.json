@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e7b9c62a89183fd1bae2ee2",
+  "title": "山居八咏 五",
+  "author": "常达",
+  "dynasty": "唐",
+  "verses": [
+    "真性寂无机，尘尘祖佛师。",
+    "日明庭砌暖，霜苦药苗衰。",
+    "汲水和烟酌，栽松带雪移。",
+    "好听玄旨处，猨啸岭南枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-1af19b68-1a4b-443d-bb19-b6a5bde4dd78"
+}

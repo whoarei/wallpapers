@@ -1,0 +1,16 @@
+{
+  "id": "poem-1889cf954bb4db810295bcd1",
+  "title": "牛头庵颂",
+  "author": "文益",
+  "dynasty": "唐",
+  "verses": [
+    "国城南，祖师庵。",
+    "庵旧址，依云岚。",
+    "兽驯淑，人相参。",
+    "忽有心，终不堪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-a3635183-630c-4fb3-a340-ba5fd4660965"
+}

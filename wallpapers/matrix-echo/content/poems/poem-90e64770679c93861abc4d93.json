@@ -1,0 +1,16 @@
+{
+  "id": "poem-90e64770679c93861abc4d93",
+  "title": "昔昔盐二十首 蘼芜叶复齐",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "提筐红叶下，度日采蘼芜。",
+    "掬翠香盈袖，看花忆故夫。",
+    "叶齐谁复见，风暖恨偏孤。",
+    "一被春光累，容颜与昔殊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-984a653c-4bf1-4110-8fda-66ddccb1d8f6"
+}

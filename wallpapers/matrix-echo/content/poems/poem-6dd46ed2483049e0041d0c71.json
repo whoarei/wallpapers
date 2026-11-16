@@ -1,0 +1,14 @@
+{
+  "id": "poem-6dd46ed2483049e0041d0c71",
+  "title": "落第",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "九陌初晴处处春，不能回避看花尘。",
+    "由来得丧非吾事，本是钓鱼船上人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-62dbebd9-bd38-42e0-9747-1c8ac17f9eb9"
+}

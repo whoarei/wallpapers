@@ -1,0 +1,17 @@
+{
+  "id": "poem-84b7e094cd1d278115c769f7",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)提着心肠惨凄，不由人忍不住泪珠流颗，但有死别生离，那烦恼似天来大。",
+    "(小生)缘何？莫非他弃旧怜新，从了别个？(生)不是。",
+    "(小生)多应是疾病亡，遭非祸。",
+    "(生)不是。",
+    "你道为甚么？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3045",
+  "tags": []
+}

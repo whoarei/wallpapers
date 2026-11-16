@@ -1,0 +1,14 @@
+{
+  "id": "poem-64e072f8ea02b2ed956f1f30",
+  "title": "韦润州后亭海榴",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "江上年年小雪迟，年光独报海榴知。",
+    "寂寂山城风日暖，谢公含笑向南枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7f6e313b-5dbb-49b5-b3f9-5df77fff1cbf"
+}

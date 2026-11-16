@@ -1,0 +1,16 @@
+{
+  "id": "poem-1d2ef30777f11bcbe9e7899e",
+  "title": "升平词五首 五",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "五帝三皇主，萧曹魏邴臣。",
+    "文章唯返朴，戈甲尽生尘。",
+    "谏纸应无用，朝纲自有伦。",
+    "升平不可记，所见是闲人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-75f8b040-292d-4630-ae51-86b5365e6b38"
+}

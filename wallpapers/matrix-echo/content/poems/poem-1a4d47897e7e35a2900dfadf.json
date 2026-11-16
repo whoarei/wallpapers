@@ -1,0 +1,14 @@
+{
+  "id": "poem-1a4d47897e7e35a2900dfadf",
+  "title": "灵岩寺",
+  "author": "薛令之",
+  "dynasty": "唐",
+  "verses": [
+    "草堂栖在灵山谷，勤苦诗书向灯烛。",
+    "柴门半掩寂无人，惟有白云相伴宿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-8c70f0e2-8df5-42da-975b-927f7093a3d0"
+}

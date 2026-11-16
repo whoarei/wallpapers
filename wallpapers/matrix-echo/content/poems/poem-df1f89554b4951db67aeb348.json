@@ -1,0 +1,16 @@
+{
+  "id": "poem-df1f89554b4951db67aeb348",
+  "title": "升平词十首 一",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "瑞气遶宫楼，皇居信上游。",
+    "远冈连圣祚，平地载神州。",
+    "会合皆重译，潺湲近八流。",
+    "中兴岂假问，据此自千秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-77d2f6f6-15d2-4d1a-a3d3-e3a61f4cf506"
+}

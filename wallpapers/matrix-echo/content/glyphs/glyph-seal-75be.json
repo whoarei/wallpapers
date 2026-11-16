@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75be",
+  "script": "seal",
+  "character": "疾",
+  "reading": "jí",
+  "description": "jí：(1)病，身体不舒适～病。目～。残～。讳～忌医。\n(2)一般的痛苦～苦。\n(3)疼痛～首蹙额。\n(4)恨～恶如仇。\n(5)古同嫉”，妒忌。\n(6)弊病，缺点寡人有～”。\n(7)快，迅速～步。～走。～进。～驰。～足先得。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疾"
+}

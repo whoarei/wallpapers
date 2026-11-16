@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-533e",
+  "script": "kai",
+  "character": "匾",
+  "reading": "biǎn",
+  "description": "biǎn：(1)题字的横牌，挂在门或墙的上部～额♂～。光荣～。\n(2)一种用竹篾编成的器具，圆形的下底，边框很浅，用来养蚕、盛粮食等。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-匾"
+}

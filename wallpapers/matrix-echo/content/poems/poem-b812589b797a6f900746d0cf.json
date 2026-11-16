@@ -1,0 +1,16 @@
+{
+  "id": "poem-b812589b797a6f900746d0cf",
+  "title": "诗酒六首  其三",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "辞宦各归千里外，满城不出数家中。",
+    "得诗夜共嘲骚客，次韵时来寄子翁。",
+    "已分鹭鸾垂翠葆，尚能鱼目鬭珠丛。",
+    "人生闲里还无此，白首光阴过莫空。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-1ac541b0-c1ad-4bc8-87cc-196d407796a5"
+}

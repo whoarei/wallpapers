@@ -1,0 +1,16 @@
+{
+  "id": "poem-d5d022bc095437977c950c2e",
+  "title": "答郡守赵师夔",
+  "author": "金梁之",
+  "dynasty": "宋",
+  "verses": [
+    "王侯门户懒开颜，斗酒千钱一笑间。",
+    "无雪可欺青桧老，有天难管白云闲。",
+    "丹霄作客曾骑鹤，紫府为家不买山。",
+    "京口相逢又相别，只琴孤剑几时还。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-2408a404-919b-4bb3-9c4d-ebfc33883bfa"
+}

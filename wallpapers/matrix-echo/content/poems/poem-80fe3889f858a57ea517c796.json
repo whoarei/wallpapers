@@ -1,0 +1,15 @@
+{
+  "id": "poem-80fe3889f858a57ea517c796",
+  "title": "望吾乡",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "家住西川，回首泪暗垂。",
+    "中途怎知人劫去，娶它贫女是不得已。",
+    "幸然脱此处，都城在，眼下里，尽总是繁华地。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2597",
+  "tags": []
+}

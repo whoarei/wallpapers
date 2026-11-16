@@ -1,0 +1,16 @@
+{
+  "id": "poem-7cb2b6d68591d5a4667ccef9",
+  "title": "难忘曲",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "夹道开洞门，弱杨低画戟。",
+    "帘影竹华起，箫声吹日色。",
+    "蜂语绕妆镜，拂蛾学春碧。",
+    "乱系丁香梢，满栏花向夕。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-55b00fa6-b2d9-48a4-8fdb-54306ce1f937"
+}

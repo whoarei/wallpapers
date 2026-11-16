@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8776",
+  "script": "seal",
+  "character": "蝶",
+  "reading": "dié",
+  "description": "dié：〔蝴～〕昆虫，翅膀阔大，颜色美丽，静止时四翅竖立在背部，吸花蜜，种类很多，亦作胡蝶”；简称蝶”，如彩～”，～骨”（人的头骨之一），～泳”（游泳的一种姿势，亦是游泳项目之一，形似蝶飞）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蝶"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-42e5cadf927f501d8580ed8f",
+  "title": "次韵欧阳良有高山仰止四首  其一",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "少年场屋心，富贵轻秋毫。",
+    "如何此偪仄，晚作空山逃。",
+    "世方驰逐好，我独儒书豪。",
+    "宁甘往教远，不肯十上劳。",
+    "尚持鹍鸡弦，自爱凤尾槽。",
+    "纷然凉州曲，谁赏鬰轮袍。",
+    "取之众弃中，君眼亦已高。",
+    "惜哉君更穷，相看两萧骚。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-e5905ffb-3b91-49de-bf82-526671489cf7"
+}

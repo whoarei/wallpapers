@@ -1,0 +1,15 @@
+{
+  "id": "poem-f230b3c5e0ed940047f2fa7c",
+  "title": "忆多娇",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(末)愁哽咽，情惨切，萱堂苦逼中道绝，暮忆朝思难诉说。",
+    "(合)丧溺江心，丧溺江心，永远传扬孝烈。",
+    "(老旦)我那媳妇的儿，我有半年粮食，也不见得到你家来。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8238",
+  "tags": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-0171b8eb1baefda25fbc5a42",
+  "title": "浪淘沙·深院绣帘垂",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "深院绣帘垂。",
+    "前日春归。",
+    "画桥杨柳弄烟霏。",
+    "池面东风先解冻，龟上涟漪。",
+    "酒潋玉东西。",
+    "香暖狻猊。",
+    "远山郁秀入双眉。",
+    "待看碧桃花烂漫，春日迟迟。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-863",
+  "tags": []
+}

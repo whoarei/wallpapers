@@ -1,0 +1,15 @@
+{
+  "id": "poem-98253c72427743750504676e",
+  "title": "梅花酒",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "都赖着佛旨，水府内为师，早地上当时，尘世上官司。",
+    "那海龙王报救命恩，小和尚说因缘事。",
+    "上八年离城市，离城市到龙祠，到龙祠住偌时，住偌时再回之。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-7973",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6a0a",
+  "script": "seal",
+  "character": "樊",
+  "reading": "fán",
+  "description": "fán：(1)笼子～笼（关鸟兽的笼子，喻不自由的境地）。\n(2)篱笆～篱（喻对事物的限制）。\n(3)纷杂的样子～然淆乱”。\n(4)姓",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-樊"
+}

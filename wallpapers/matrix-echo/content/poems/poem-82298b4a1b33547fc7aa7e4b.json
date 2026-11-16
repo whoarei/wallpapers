@@ -1,0 +1,14 @@
+{
+  "id": "poem-82298b4a1b33547fc7aa7e4b",
+  "title": "记征人语",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "边月无端照别离，故园何处寄相思。",
+    "西风不解征人语，一夕萧萧满大旗。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-235"
+}

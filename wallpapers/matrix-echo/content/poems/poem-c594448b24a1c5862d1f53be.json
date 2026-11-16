@@ -1,0 +1,22 @@
+{
+  "id": "poem-c594448b24a1c5862d1f53be",
+  "title": "春晓",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "春眠不觉晓，处处闻啼鸟。",
+    "夜来风雨声，花落知多少。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "春",
+    "写景",
+    "一年级下册",
+    "惜春",
+    "五言绝句",
+    "小学古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-cb168b3b-d104-4df7-9868-1e1225ddb941"
+}

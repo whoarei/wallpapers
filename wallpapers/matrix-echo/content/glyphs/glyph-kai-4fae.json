@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4fae",
+  "script": "kai",
+  "character": "侮",
+  "reading": "wǔ",
+  "description": "wǔ：(1)欺负，轻慢～辱（使对方人格或名誉受到损害，蒙受耻辱）。～蔑（轻视，轻蔑）。欺～。不可～。\n(2)古代奴婢的贱称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-侮"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-341d6d0b6da068b474855034",
+  "title": "同前",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "娘休虑，且宽心，何必自伤情。",
+    "(旦)虽然出去便回程，房儿里好凄清。",
+    "长叹两三声，它热如火我冷如冰。",
+    "(旦)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8636",
+  "tags": []
+}

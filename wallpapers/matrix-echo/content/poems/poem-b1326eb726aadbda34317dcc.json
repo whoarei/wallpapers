@@ -1,0 +1,14 @@
+{
+  "id": "poem-b1326eb726aadbda34317dcc",
+  "title": "景阳台怀古",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "后主亡家不悔，江南异代长春。",
+    "今日景阳台上，闲人何用伤神。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-c59df47f-d3ea-4feb-9583-921123d86f96"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-3cb07fe19eed8361d6221bad",
+  "title": "诣李侍郎",
+  "author": "王鲁复",
+  "dynasty": "唐",
+  "verses": [
+    "文字元无底，功夫转到难。",
+    "苦心三百首，暂请侍郎看。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4ff4f244-0714-4046-8b5f-069cf67d1b5a"
+}

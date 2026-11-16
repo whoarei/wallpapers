@@ -1,0 +1,14 @@
+{
+  "id": "poem-99aadb20514d3f54a5976621",
+  "title": "口号  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "孟仲争秋毒热新，自今三指算归旬。",
+    "已判明月隔千里，可对茱萸少一人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-81c33985-1573-4aa4-8746-c1bf714b6357"
+}

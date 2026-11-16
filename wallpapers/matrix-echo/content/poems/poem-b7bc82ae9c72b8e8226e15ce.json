@@ -1,0 +1,14 @@
+{
+  "id": "poem-b7bc82ae9c72b8e8226e15ce",
+  "title": "江行无题一百首 六十",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "景夕残霞落，秋寒细雨晴。",
+    "短缨何用濯，舟在月中行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-7293bec0-5595-4fa1-b706-3a76dfbb596a"
+}

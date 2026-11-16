@@ -1,0 +1,16 @@
+{
+  "id": "poem-c10c2c6771fb912f50c7df44",
+  "title": "石笋",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "小窗西下碧溪隅，片石干云一笋麤。",
+    "苍藓长时斑点露，老藤蟠处节痕纡。",
+    "不须凡木装佳色，自有灵花入画图。",
+    "为美又应胜竹箭，坚高元与众材殊。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-89127133-aab5-4efd-a95e-002f4791e1a0"
+}

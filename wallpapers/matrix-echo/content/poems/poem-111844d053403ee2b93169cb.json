@@ -1,0 +1,16 @@
+{
+  "id": "poem-111844d053403ee2b93169cb",
+  "title": "被蕃军中拘系之作",
+  "author": "马云奇",
+  "dynasty": "唐",
+  "verses": [
+    "何事逐漂蓬，悠悠过凿空！世穷途运荣（蹇），战苦不成功。",
+    "泪滴东流水，心遥北翥鸿。",
+    "可能忠孝节，长遣门阃（困）西戎。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-e9c2848d-4e07-48f6-b088-df255899a11b"
+}

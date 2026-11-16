@@ -1,0 +1,20 @@
+{
+  "id": "poem-63f2eaab514d08b1da2f1a82",
+  "title": "品令·败叶霜天晓",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "败叶霜天晓。",
+    "渐鼓吹、催行棹。",
+    "栽成桃李未开，便解银章归报。",
+    "去取麒麟图画，要及年少。",
+    "劝公醉倒。",
+    "别语怎向醒时道。",
+    "楚山千里暮云，正锁离人情抱。",
+    "记取江州司马，坐中最老。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-661",
+  "tags": []
+}

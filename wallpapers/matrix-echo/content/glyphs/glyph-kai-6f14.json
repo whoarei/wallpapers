@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6f14",
+  "script": "kai",
+  "character": "演",
+  "reading": "yǎn",
+  "description": "yǎn：(1)根据事理推广发挥推～。讲～（亦作演讲”）。～义（以史书及传说的材料为基础，增添一些细节，用章回体写成的小说）。～绎（一种推理方法，由一般原理推出关于特殊情况下的结论）。\n(2)依照程式练习～练。～示。～算。～武。～习。～兵场。\n(3)不断变化～变。～化。\n(4)把技艺当众表现出来表～。～出。～播。～奏。主～。义～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-演"
+}

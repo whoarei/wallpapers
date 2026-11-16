@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e7b",
+  "script": "kai",
+  "character": "幻",
+  "reading": "huàn",
+  "description": "huàn：(1)空虚的，不真实的～想。～影。～境。～灭（受到现实的打击而消灭）。亦真亦～。虚～。梦～。\n(2)变化～化（奇异的变化）。变～莫测。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-幻"
+}

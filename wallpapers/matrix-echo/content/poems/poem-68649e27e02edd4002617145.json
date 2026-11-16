@@ -1,0 +1,16 @@
+{
+  "id": "poem-68649e27e02edd4002617145",
+  "title": "次韵徐秀才十首  其六",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "霄霏上冥鸿，山雾卧文豹。",
+    "饿鸱吓腐鼠，啄啄诧飞趠。",
+    "吾徒为己学，欣戚置不校。",
+    "小草或远志，诡遇乃近效。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-53c2cd4d-e508-4c8a-864b-afcfff413b1c"
+}

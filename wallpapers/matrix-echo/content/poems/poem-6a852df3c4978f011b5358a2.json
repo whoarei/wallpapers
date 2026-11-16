@@ -1,0 +1,14 @@
+{
+  "id": "poem-6a852df3c4978f011b5358a2",
+  "title": "春秋战国门 秦武阳",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "丱岁徒闻有壮名，及令为副误荆卿。",
+    "是时环柱能相副，谁谓燕囚事不成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3f7bc94f-538a-43ad-aaca-22aac3e769be"
+}

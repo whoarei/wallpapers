@@ -1,0 +1,21 @@
+{
+  "id": "poem-adcece87b15367ccfac8f85a",
+  "title": "冬晚对雪忆胡居士家",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "寒更传晓箭，清镜览衰颜。",
+    "隔牖风惊竹，开门雪满山。",
+    "洒空深巷静，积素广庭闲。",
+    "借问袁安舍，翛然尚闭关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "思念",
+    "写雪",
+    "冬天",
+    "雪"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6e4d001d-ec19-4bef-886b-a49267ec88c8"
+}

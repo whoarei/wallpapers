@@ -1,0 +1,17 @@
+{
+  "id": "poem-2edeac83747cfdb7d9e94d9b",
+  "title": "上卢少卿觅千文",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "荆山有美玉，含华尚炳烂。",
+    "堪为圣君玺，堪为圣君案。",
+    "草木润不雕，烟霞覆不散。",
+    "野人到山下，仰视星辰畔。",
+    "倘或如栗黄，保之上霄汉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-66725f40-86fd-4d39-b906-5bb47a7b5336"
+}

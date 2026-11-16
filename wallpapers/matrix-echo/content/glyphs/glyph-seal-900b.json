@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-900b",
+  "script": "seal",
+  "character": "逋",
+  "reading": "bū",
+  "description": "bū：(1)逃亡～逃。～迁。～荡。\n(2)拖欠～负。～租。～债。\n(3)拖延～留（逗留）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-逋"
+}

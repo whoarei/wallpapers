@@ -1,0 +1,16 @@
+{
+  "id": "poem-db2325e932b8e82a728ded46",
+  "title": "送友人入蜀",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "见说蚕丛路，崎岖不易行。",
+    "山从人面起，云傍马头生。",
+    "芳树笼秦栈，春流绕蜀城。",
+    "升沈应已定，不必问君平。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-送友人入蜀"
+}

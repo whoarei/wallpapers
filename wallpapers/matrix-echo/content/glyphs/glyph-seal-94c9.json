@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94c9",
+  "script": "seal",
+  "character": "铉",
+  "reading": "xuàn",
+  "description": "比喻三公等重臣\n弓弦。通弦”\n琴弦,乐器上发声的线。通弦”\n铉xuàn横贯鼎耳用于扛鼎的器具。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铉"
+}

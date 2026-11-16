@@ -1,0 +1,14 @@
+{
+  "id": "poem-5692e30750e109727d94b1ad",
+  "title": "园林好",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "想那日身投大江，感安抚恩德怎忘？胜似嫡亲襁褓，如重遇父和娘。",
+    "奴家烧此夜香呵，愿他增福寿，永安康！想我母亲亡过之后，又亏继母呵，。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8279",
+  "tags": []
+}

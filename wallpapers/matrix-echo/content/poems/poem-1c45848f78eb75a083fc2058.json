@@ -1,0 +1,15 @@
+{
+  "id": "poem-1c45848f78eb75a083fc2058",
+  "title": "前腔换头",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "寻思：一怨你死了谁祭祀；二怨你有孩儿，不得他相看顾；三怨你三年，没一个饱暖的日子。",
+    "三载相看甘共苦，一朝分别难同死。",
+    "(外唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5106",
+  "tags": []
+}

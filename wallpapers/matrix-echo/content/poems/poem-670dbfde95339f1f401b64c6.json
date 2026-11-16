@@ -1,0 +1,16 @@
+{
+  "id": "poem-670dbfde95339f1f401b64c6",
+  "title": "梅花落",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "铁骑几时回，金闺怨早梅。",
+    "雪寒花已落，风暖叶应开。",
+    "夕逐新春管，香迎小岁杯。",
+    "盛时何足贵，书里报轮台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7fee8bf1-2306-4b76-96a2-6d014212f320"
+}

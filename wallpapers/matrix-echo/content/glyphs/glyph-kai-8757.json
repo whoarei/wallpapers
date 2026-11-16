@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8757",
+  "script": "kai",
+  "character": "蝗",
+  "reading": "huáng",
+  "description": "huáng：〔～虫〕昆虫，种类很多，躯体绿色或黄褐色。咀嚼式口器，后足适于弹跳，常常成群飞翔，是农业害虫，亦称蚂（mà）蚱”；简称蝗”，如～灾”，灭～”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蝗"
+}

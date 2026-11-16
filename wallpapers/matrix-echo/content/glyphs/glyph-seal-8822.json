@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8822",
+  "script": "seal",
+  "character": "蠢",
+  "reading": "chǔn",
+  "description": "chǔn：(1)愚笨，笨拙～人。～材。～话。～事。～然。～拙。～笨。\n(2)虫子蠕动～动。～～。～～欲动（指坏人伺机欲动或敌人准备进犯）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蠢"
+}

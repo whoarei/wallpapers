@@ -1,0 +1,16 @@
+{
+  "id": "poem-da6a640f05e8f8044a23ac68",
+  "title": "答绍彭书来论晋帖误字",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "何必识难字，辛苦笑扬雄。",
+    "自古写字人，用字或不通。",
+    "要之皆一戏，不当问拙工。",
+    "意足我自足，放笔一戏空。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-21f36497-bfe4-4214-bd15-f8d5277cb26b"
+}

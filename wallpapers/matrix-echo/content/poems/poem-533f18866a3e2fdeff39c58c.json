@@ -1,0 +1,18 @@
+{
+  "id": "poem-533f18866a3e2fdeff39c58c",
+  "title": "南歌子·萧寺疏锺断",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "萧寺疏锺断，虚堂夜气清。",
+    "凉蟾偏向小明窗。",
+    "露井碧梧寒叶、颤秋声。",
+    "幽恨人谁问，孤衾泪独横。",
+    "此时风月此时情。",
+    "拟倩蓝桥归梦、见云英。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-971",
+  "tags": []
+}

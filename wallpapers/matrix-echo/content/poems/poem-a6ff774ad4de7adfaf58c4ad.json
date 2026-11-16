@@ -1,0 +1,15 @@
+{
+  "id": "poem-a6ff774ad4de7adfaf58c4ad",
+  "title": "粉蝶儿",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［外上］一片襟期，清似五湖秋水，喜声名上达丹墀。",
+    "感皇恩，蒙圣宠，迁除福地。",
+    "秉忠心肃清奸弊。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8203",
+  "tags": []
+}

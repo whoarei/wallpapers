@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7ebf",
+  "script": "kai",
+  "character": "线",
+  "reading": "xiàn",
+  "description": "细长如线的东西\n线索\n⒈棉、麻、丝、毛、锦纶或金属等制成的细长东西棉～。丝～。毛～。电～。尼龙～。\n⒉像线的光～§外～〗～。铁道～。\n⒊细微，极少一～希望。\n⒋几何学上称只有长度而没有宽度和厚度的直～。曲～。\n⒌边缘交界处防～。火～。岸～。国境～。〈喻〉所接近的某种边际生命～。死亡～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-线"
+}

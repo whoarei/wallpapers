@@ -1,0 +1,16 @@
+{
+  "id": "poem-7b04db6ad8125df59a0aab90",
+  "title": "小重山·春到长门春草青",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "春到长门春草青，玉阶华露滴，月胧明。",
+    "东风吹断紫箫声，宫漏促，帘外晓啼莺。",
+    "愁极梦难成，红妆流宿泪，不胜情。",
+    "手挼裙带绕阶行，思君切，罗幌暗尘生。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-37"
+}

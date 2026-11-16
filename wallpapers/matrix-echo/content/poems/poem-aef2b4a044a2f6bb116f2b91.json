@@ -1,0 +1,20 @@
+{
+  "id": "poem-aef2b4a044a2f6bb116f2b91",
+  "title": "踏莎行·小径红稀",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "小径红稀，芳郊绿遍。",
+    "高台树色阴阴见。",
+    "春风不解禁杨花，乱扑行人面。",
+    "翠叶藏莺，朱帘隔燕。",
+    "炉香静逐游丝转。",
+    "一场愁梦酒醒时，斜阳却照深深院。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-166"
+}

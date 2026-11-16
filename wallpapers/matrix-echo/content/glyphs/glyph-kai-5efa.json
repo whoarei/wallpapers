@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5efa",
+  "script": "kai",
+  "character": "建",
+  "reading": "jiàn",
+  "description": "jiàn：(1)立，设置，成立～立（ａ．开始成立；ｂ．开始产生，开始形成）。～树（建立功业，或所建立的功业）。～国。～都（dū）。～党。～军。～交。～设。～功立业。\n(2)造，筑～造。～筑。修～。新～。兴（xīng）～。筹～。\n(3)提出，倡议～议。～策（出谋献策）。\n(4)指中国福建省～兰。\n(5)北斗的斗柄所指的方位。斗柄农历每月所指的方位不同，因此建”亦转指月份（亦称月建”、月尽”）大～（农历有三十天的月份，亦称大尽”）。小～（农历有二十九天的月份，亦称小尽”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-建"
+}

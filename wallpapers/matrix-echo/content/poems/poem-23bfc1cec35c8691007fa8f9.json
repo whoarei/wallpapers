@@ -1,0 +1,16 @@
+{
+  "id": "poem-23bfc1cec35c8691007fa8f9",
+  "title": "商山道中",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "春去计秋期，长安在梦思。",
+    "多逢山好处，少值客行时。",
+    "云起争峰势，花交隐涧枝。",
+    "停骖一惆怅，应秪岭猨知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-7d4f838a-a563-49da-822e-f3b7a7b446c1"
+}

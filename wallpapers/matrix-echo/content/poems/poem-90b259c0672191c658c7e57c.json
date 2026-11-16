@@ -1,0 +1,21 @@
+{
+  "id": "poem-90b259c0672191c658c7e57c",
+  "title": "送严员外",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "春风倚櫂阖闾城，水国春寒阴复晴。",
+    "细雨湿衣看不见，闲花落地听无声。",
+    "日斜江上孤帆影，草绿湖南万里情。",
+    "君去若逢相识问，青袍今已误儒生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "写雨",
+    "送别",
+    "怀才不遇",
+    "雨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-1a3d6317-14e6-4974-85bf-696d58458a5e"
+}

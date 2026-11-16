@@ -1,0 +1,16 @@
+{
+  "id": "poem-ce5145f268efda319910ae57",
+  "title": "从军行五首 二",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "韩斾拂丹霄，汉军新破辽。",
+    "红尘驱卤簿，白羽拥嫖姚。",
+    "战苦军犹乐，功高将不骄。",
+    "至今丁零塞，朔吹空萧萧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-9a5d1655-e201-4e9e-ac7a-ae583c563707"
+}

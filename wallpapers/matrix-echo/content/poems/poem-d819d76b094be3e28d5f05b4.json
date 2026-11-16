@@ -1,0 +1,17 @@
+{
+  "id": "poem-d819d76b094be3e28d5f05b4",
+  "title": "喜闻收复河陇",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "诏书频降尽论边，将择英雄相卜贤。",
+    "河陇已耕曾殁（陈九思同志疑当作「没」。",
+    "）地，犬羊谁辩却朝天。",
+    "高悬日月胡沙外，遥拜旌旗汉垒前。",
+    "共感垂衣匡济力，华夷同见太平年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-73d9da07-8db0-416e-a855-300d77d61ac6"
+}

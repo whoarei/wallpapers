@@ -1,0 +1,16 @@
+{
+  "id": "poem-f7433edb27707041ab5a7270",
+  "title": "上司空员外",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "禅心高卧似疎慵，诗客经过不厌重。",
+    "藤杖几携量碛雪，玉鞭曾把数嵩峰。",
+    "夜眠古巷当城月，秋直清曹入省钟。",
+    "禹凿故山归未得，河声暗老两三松。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9ed6b88f-5f36-488a-94e9-7bf067da6a56"
+}

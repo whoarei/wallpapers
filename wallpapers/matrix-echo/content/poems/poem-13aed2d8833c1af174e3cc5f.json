@@ -1,0 +1,14 @@
+{
+  "id": "poem-13aed2d8833c1af174e3cc5f",
+  "title": "颂古七十六首  其四三",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "雷火光中休草草，剑轮锋上莫忉忉。",
+    "等闲放却全身入，终不当头犯一毫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-7b898a6d-edc3-47a1-b9de-782526e3cb9b"
+}

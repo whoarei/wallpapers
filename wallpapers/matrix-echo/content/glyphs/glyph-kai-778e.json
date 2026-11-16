@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-778e",
+  "script": "kai",
+  "character": "瞎",
+  "reading": "xiā",
+  "description": "xiā：(1)眼睛看不见东西～子≮灯～火。\n(2)胡，乱，没来由～忙。～话。～吹。～聊。一堆～线团。\n(3)炮弹打出去不爆炸～炮。～火。\n(4)农作物子粒不饱满～穗。～高粱。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瞎"
+}

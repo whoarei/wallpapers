@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9896",
+  "script": "seal",
+  "character": "颖",
+  "reading": "yǐng",
+  "description": "锥芒\n⒈谷穗，禾的末端。稻、麦等禾本科植物小穗基部的苞片嘉禾重～。谷之～片。\n⒉东西末端的尖锐部分锥在袋中，～脱而出。\n⒊聪明幼便～悟。聪～过人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-颖"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c09ca63f9fabf48052da7899",
+  "title": "奉和九月九日登慈恩寺浮图应制",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "涌霄开宝塔，倒影驻仙舆。",
+    "鴈子乘堂处，龙王起藏初。",
+    "秋风圣主曲，佳气史官书。",
+    "愿献重阳寿，承欢万岁余。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d734f531-6626-4892-85b2-b1c9dd67ac85"
+}

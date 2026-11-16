@@ -1,0 +1,21 @@
+{
+  "id": "poem-865ba7fdfff1b7a686952022",
+  "title": "八六子·喜秋晴",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "喜秋晴。",
+    "淡云萦缕，天高群雁南征。",
+    "正露冷初减兰红，风紧潜雕柳翠，愁人漏长梦惊。",
+    "重阳景物凄清。",
+    "渐老何时无事，当歌好在多情。",
+    "暗自想、朱颜并游同醉，官名缰锁，世路蓬萍。",
+    "难相见，赖有黄花满把，从教渌酒深倾。",
+    "醉休醒。",
+    "醒来旧愁旋生。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-187",
+  "tags": []
+}

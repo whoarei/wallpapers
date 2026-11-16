@@ -1,0 +1,16 @@
+{
+  "id": "poem-0455a41abc759aa3b23ef94f",
+  "title": "送沈先辈尉昭应",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "余才不废诗，佐邑喜闲司。",
+    "丹陛终须去，青山未可期。",
+    "叶凋温谷晚，云出古宫迟。",
+    "若草东封疏，君王到有时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-590acf9b-de49-48bb-a074-102775ec44a0"
+}

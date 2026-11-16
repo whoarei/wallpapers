@@ -1,0 +1,17 @@
+{
+  "id": "poem-5655980d2db302d81b211de7",
+  "title": "浣溪沙·人意天公则甚知",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "人意天公则甚知。",
+    "故教小雨作深悲。",
+    "桃花浑似泪胭脂。",
+    "理棹又从今日去，断肠还似去年时。",
+    "经行处处是相思。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-796",
+  "tags": []
+}

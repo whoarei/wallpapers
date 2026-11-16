@@ -1,0 +1,16 @@
+{
+  "id": "poem-4727ddd34a8c87a2991688ab",
+  "title": "杭州天竺灵隐二寺顷岁亦布衣一游及赴镇会稽不敢以登临自适竟不复到寺寺多猨猱谓之孙团弥长其类因追思为诗二首 一",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "翠岩幽谷高低寺，十里松风碧嶂连。",
+    "开尽春花芳草涧，徧通秋水月明泉。",
+    "石文照日分霞壁，竹影侵云拂暮烟。",
+    "时有猨猱扰钟磬，老僧无复得安禅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-58542b87-49af-459c-b37d-aec1d72a7855"
+}

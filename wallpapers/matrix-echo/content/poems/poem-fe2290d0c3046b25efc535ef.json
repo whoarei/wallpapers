@@ -1,0 +1,16 @@
+{
+  "id": "poem-fe2290d0c3046b25efc535ef",
+  "title": "郊庙歌辞 祀九宫贵神乐章 肃和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "精意严恭，明祠丰洁。",
+    "献酬既备，俎豆斯撤。",
+    "日丽天仪，风和乐节。",
+    "事光祀典，福覃有截。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-80910f66-39da-4bc3-a42e-fabe2efd9c63"
+}

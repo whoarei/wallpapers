@@ -1,0 +1,19 @@
+{
+  "id": "poem-6f0cf5c14a36167a6178584c",
+  "title": "寄贾岛",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "海上不同来，关中俱久住。",
+    "寻思别山日，老尽经行树。",
+    "志业人未闻，时光鸟空度。",
+    "风悲汉苑秋，雨滴秦城暮。",
+    "佩玉与锵金，非亲亦非故。",
+    "朱颜枉自毁，明代空相遇。",
+    "岁晏各能归，心知旧歧路。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-2534da75-79ec-4db7-aac5-8d53c77b034c"
+}

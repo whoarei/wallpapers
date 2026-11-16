@@ -1,0 +1,16 @@
+{
+  "id": "poem-0b943b5f788abdd3a0fa11e6",
+  "title": "修竹百竿才欣种植佳篇五首旋辱咏歌若无还答之言是阙唱酬之礼恭依来韵以导鄙怀调下才卑岂逃嗤诮  其四",
+  "author": "李昉",
+  "dynasty": "宋",
+  "verses": [
+    "青青鬰鬰影疏疏，碧嶂移根到我居。",
+    "为爱绿阴时遣扫，恐伤新笋不教锄。",
+    "勾牵好鸟啼幽槛，摇摆清风上碧虚。",
+    "栽得此君知有幸，入他仙客咏吟余。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-e05dc266-8df5-408c-8a15-f1a6615a03ed"
+}

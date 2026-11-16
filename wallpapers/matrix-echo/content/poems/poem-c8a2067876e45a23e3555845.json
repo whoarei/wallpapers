@@ -1,0 +1,16 @@
+{
+  "id": "poem-c8a2067876e45a23e3555845",
+  "title": "桐柏观",
+  "author": "任翻",
+  "dynasty": "唐",
+  "verses": [
+    "飘飘云外者，𫏐宿聚仙堂。",
+    "半夜人无语，中宵月送凉。",
+    "鹤归高树静，萤过小池光。",
+    "不得多时住，门开是事忙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-78c6e097-b066-4e41-bec8-341110b60443"
+}

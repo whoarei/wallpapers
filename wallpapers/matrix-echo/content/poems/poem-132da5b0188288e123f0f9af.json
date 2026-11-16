@@ -1,0 +1,16 @@
+{
+  "id": "poem-132da5b0188288e123f0f9af",
+  "title": "送鄂州崔大夫赴镇",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "廉问帝难人，朝庭辍重臣。",
+    "入山初有雪，登路正无尘。",
+    "去国鸣驺缓，经云住斾频。",
+    "千峰与万木，清听雨情新。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-9c28c1bb-a4bd-47ef-9b8b-948384c0d164"
+}

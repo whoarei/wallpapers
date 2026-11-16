@@ -1,0 +1,16 @@
+{
+  "id": "poem-e90ce92c1100b8c82edf4680",
+  "title": "下第别令狐员外",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "论文期雨夜，饮酒及芳晨。",
+    "坐叹百花发，潜惊双鬓新。",
+    "旧交多得路，别业远仍贫。",
+    "便欲辞知己，归耕海上春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e73ec8cc-adc7-48de-8cd5-8780f364700c"
+}

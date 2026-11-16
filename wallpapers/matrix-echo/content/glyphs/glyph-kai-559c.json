@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-559c",
+  "script": "kai",
+  "character": "喜",
+  "reading": "xǐ",
+  "description": "xǐ：(1)高兴，快乐欢～。～悦。～讯。～剧。～气。～色。～幸。～乐（lè）。～洋洋。欢天～地。欣～若狂。\n(2)可庆贺的，特指关于结婚的～事。～酒。～糖。～蛋。～联。～幛。～雨。～报。～庆∝～。报～。\n(3)妇女怀孕害～。她有～了。\n(4)爱好～爱。～好（hào）。～欢∶（hào）大～功（热衷于做大事，立大功，现常用以形容浮夸的作风）。\n(5)适于～光植物。带～荤。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-喜"
+}

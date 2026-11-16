@@ -1,0 +1,14 @@
+{
+  "id": "poem-2c6ae989a6671fb4e3e81d17",
+  "title": "送远客",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "憔悴远归客，殷勤欲别杯。",
+    "九星坛下路，几日见重来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-49ce4f86-6999-48a4-8d85-59851b6f62fd"
+}

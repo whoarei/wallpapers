@@ -1,0 +1,18 @@
+{
+  "id": "poem-00ed18dce48a0e789cdc314b",
+  "title": "郊庙歌辞 封泰山乐章 豫和 四",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "高在上，道光明。",
+    "物资始，德难名。",
+    "承眷命，牧苍生。",
+    "寰宇谧，太阶平。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "泰山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fd353d00-a484-4bb1-a4d7-e595fac0ea52"
+}

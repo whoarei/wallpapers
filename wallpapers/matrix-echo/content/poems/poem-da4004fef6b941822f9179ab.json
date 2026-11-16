@@ -1,0 +1,16 @@
+{
+  "id": "poem-da4004fef6b941822f9179ab",
+  "title": "村市",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "山暗风屯雨，溪浑水浴沙。",
+    "小桥通古寺，疎柳纳残鸦。",
+    "苜蓿重沽酒，芝麻旋点茶。",
+    "愿人长似旧，岁岁插桃花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-308550eb-faac-4000-80e8-dabf7fb866fd"
+}

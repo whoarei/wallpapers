@@ -1,0 +1,14 @@
+{
+  "id": "poem-bf9fec4741b65d9df362e7f6",
+  "title": "玄都观桃花",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "verses": [
+    "紫陌红尘拂面来，无人不道看花回。",
+    "玄都观里桃千树，尽是刘郎去后栽。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-玄都觀桃花"
+}

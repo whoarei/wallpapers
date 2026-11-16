@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-83a8",
+  "script": "seal",
+  "character": "莨",
+  "reading": "làng；liáng",
+  "description": "làng：〔～菪〕多年生草本植物，根茎块状，叶互生，长椭圆形。种子和根茎、叶均可入药。\nliáng：〔薯～〕多年生草本植物，地下块茎。块茎含有胶质，可用来染棉、麻织品，如～～绸”（亦称香云纱”、拷纱”）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-莨"
+}

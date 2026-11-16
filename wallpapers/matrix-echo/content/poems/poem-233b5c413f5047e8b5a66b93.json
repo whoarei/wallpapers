@@ -1,0 +1,16 @@
+{
+  "id": "poem-233b5c413f5047e8b5a66b93",
+  "title": "惠泉",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "兹泉由太洁，终不畜纤鳞。",
+    "到底清何益，含虚势自贫。",
+    "明玑难秘彩，美玉讵潜珍。",
+    "未及黄陂量，滔滔岂有津。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-5bd4807e-f20d-46e4-ab5b-530de8760a99"
+}

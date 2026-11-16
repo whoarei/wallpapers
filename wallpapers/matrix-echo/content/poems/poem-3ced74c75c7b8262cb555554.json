@@ -1,0 +1,16 @@
+{
+  "id": "poem-3ced74c75c7b8262cb555554",
+  "title": "胡捣练",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "伤风化，乱纲常，萱亲逼嫁富家郎。",
+    "若把身名辱污了，不如一命丧长江。",
+    "［投江介。",
+    "丑上救旦下］。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8209",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6729fb9999b648492e0cb0b2",
+  "title": "示二子",
+  "author": "陈俊卿",
+  "dynasty": "宋",
+  "verses": [
+    "兴来文字三杯酒，老去生涯万卷书。",
+    "遗汝子孙清白在，不须厦屋太渠渠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-3a82d3b9-eef6-48cd-80f2-b8ceae38a439"
+}

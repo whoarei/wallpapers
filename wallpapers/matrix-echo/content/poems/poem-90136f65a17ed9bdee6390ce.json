@@ -1,0 +1,16 @@
+{
+  "id": "poem-90136f65a17ed9bdee6390ce",
+  "title": "汉南遇友人",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "此身西复东，何计此相逢。",
+    "梦尽吴越水，恨深襄汉钟。",
+    "积云开去路，曙雪叠前峰。",
+    "谁即知非旧，怜君忽见容。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-2efaf05d-7f64-478a-9f78-788ce38571be"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-e5ad9a5a3d89d0229098d74e",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(净丑上)雪落纷纷似银铺，万里江山如画图。",
+    "鹭鸶失队难寻觅，黑和尚变化白师姑。",
+    "刘健儿，怎么不买冻鱼酒来我每吃？(生)不曾支粮，支了粮请你每一醉。",
+    "(净丑)也罢。",
+    "刘健儿，今晚巡更，该你巡夜。",
+    "一更是我，二更是他。",
+    "三更四更五更都是你。",
+    "老爷有铜牌花号为准，交你更次提铃喝号。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8904",
+  "tags": []
+}

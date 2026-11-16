@@ -1,0 +1,16 @@
+{
+  "id": "poem-742b29814c18c0881ce2a9e1",
+  "title": "归国遥·春欲晚",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "春欲晚，戏蝶游蜂花烂漫。",
+    "日落谢家池馆，柳丝金缕断。",
+    "睡觉绿鬟风乱，画屏云雨散。",
+    "闲倚博山长叹，泪流沾皓腕。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-40"
+}

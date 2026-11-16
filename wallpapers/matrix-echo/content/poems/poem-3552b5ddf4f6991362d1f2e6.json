@@ -1,0 +1,16 @@
+{
+  "id": "poem-3552b5ddf4f6991362d1f2e6",
+  "title": "和陶渊明二十首  其二",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "壮岁锐著述，瞢欲藏名山。",
+    "中间忽自哂，聒聒厌多言。",
+    "弃置杯中乐，雕锼耗岁年。",
+    "不知百岁后，何益空名传。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-20890e8f-783b-4587-8fc4-0a00c54cbdb1"
+}

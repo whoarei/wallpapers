@@ -1,0 +1,16 @@
+{
+  "id": "poem-d99e0d5c5ed4180f94876903",
+  "title": "林下书怀寄建州李频员外",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "一从诸事嬾，海上迹宜沉。",
+    "吾道不当路，鄙人甘入林。",
+    "云垂方觅鹤，月湿始收琴。",
+    "水石南州好，谁陪刻骨吟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-6fbbbd13-6d29-4128-952c-96d45e353fc8"
+}

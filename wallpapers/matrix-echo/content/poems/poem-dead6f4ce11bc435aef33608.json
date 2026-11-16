@@ -1,0 +1,22 @@
+{
+  "id": "poem-dead6f4ce11bc435aef33608",
+  "title": "青玉案·年年社日停针线",
+  "author": "无名氏",
+  "dynasty": "宋",
+  "verses": [
+    "年年社日停针线。",
+    "怎忍见、双飞燕。",
+    "今日江城春已半。",
+    "一身犹在，乱山深处，寂寞溪桥畔。",
+    "春衫著破谁针线。",
+    "点点行行泪痕满。",
+    "落日解鞍芳草岸。",
+    "花无人戴，酒无人劝，醉也无人管。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-274"
+}

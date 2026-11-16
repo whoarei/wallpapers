@@ -1,0 +1,19 @@
+{
+  "id": "poem-a192db6179597ee632cf3fd6",
+  "title": "赠内人",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "禁门宫树月痕过，媚眼唯看宿燕窠。",
+    "斜拔玉钗灯影畔，剔开红焰救飞蛾。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "宫怨",
+    "女子"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-84bd91bd-11f7-4218-b9e2-b05b06ce8b99"
+}

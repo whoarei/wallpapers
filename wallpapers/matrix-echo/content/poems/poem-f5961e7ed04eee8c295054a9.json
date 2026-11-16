@@ -1,0 +1,18 @@
+{
+  "id": "poem-f5961e7ed04eee8c295054a9",
+  "title": "观《山海图》二首 其二",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "何人笔思狂，一壁尽沧浪。",
+    "日月明丹拱，烟云起画梁。",
+    "山岚开晓色，海气动秋光。",
+    "岛踞鳌睛大，沙行鳄齿长。",
+    "粉波明百越，黛点簇三湘。",
+    "讵作无图意，空迷造化乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-424f9a6e-8057-408b-91be-4942133d6609"
+}

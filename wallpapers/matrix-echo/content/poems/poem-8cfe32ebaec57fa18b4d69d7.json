@@ -1,0 +1,14 @@
+{
+  "id": "poem-8cfe32ebaec57fa18b4d69d7",
+  "title": "寄人二首 一",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "花上断续雨，江头来去风。",
+    "相思春欲尽，未遣酒尊空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8816e6ae-84ad-4db1-b132-c41ce05797f1"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-9e1d82963f13dbf14fea8c83",
+  "title": "南州行",
+  "author": "徐延寿",
+  "dynasty": "唐",
+  "verses": [
+    "摇艇至南国，国门连大江。",
+    "中洲西边岸，数步一垂杨。",
+    "金钏越溪女，罗衣胡粉香。",
+    "织缣春卷幔，采蕨暝提筐。",
+    "弄瑟娇垂幌，迎人笑下堂。",
+    "河头浣衣处，无数紫鸳鸯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-57f3cd85-28f7-47ba-accb-b9d2b7d10f1d"
+}

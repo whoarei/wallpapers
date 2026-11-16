@@ -1,0 +1,15 @@
+{
+  "id": "poem-1b7faf90b84da080dc8ada0a",
+  "title": "出山相赞",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "夜半见明星，山中添冷话。",
+    "脚未出山来，此话行天下。",
+    "我观一切众生成佛多时，只有你者老子犹欠悟在。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-afbefdc7-3825-4e49-928b-32c74406851e"
+}

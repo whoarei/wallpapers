@@ -1,0 +1,16 @@
+{
+  "id": "poem-9da354c1da71dcc57318cf5a",
+  "title": "更漏子·春夜阑",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "春夜阑，春恨切，花外子规啼月。",
+    "人不见，梦难见，红纱一点灯。",
+    "偏怨别，是芳节，庭中丁香千结。",
+    "宵雾散，晓霞晖，梁同双燕飞。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-10"
+}

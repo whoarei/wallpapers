@@ -1,0 +1,16 @@
+{
+  "id": "poem-c319eaa8a5190a2753eb45d0",
+  "title": "重入洛阳东门",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "商颜重命伊川叟，时事知非入洛人。",
+    "连野碧流通御苑，满阶秋草过天津。",
+    "每惭清秩容衰齿，犹有华簪寄病身。",
+    "驱马独归寻里巷，日斜行处旧红尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-6bea3434-7a5a-4321-bc84-d20b29627ff6"
+}

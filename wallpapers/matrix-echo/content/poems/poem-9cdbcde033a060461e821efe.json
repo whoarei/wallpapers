@@ -1,0 +1,14 @@
+{
+  "id": "poem-9cdbcde033a060461e821efe",
+  "title": "渔父·收却纶竿落照红",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "收却纶竿落照红，秋风宁为翦芙蓉。",
+    "人淡淡，水蒙蒙，吹入芦花短笛中。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-108"
+}

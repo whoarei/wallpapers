@@ -1,0 +1,14 @@
+{
+  "id": "poem-f97d6f000d8b1fe97da813f5",
+  "title": "柏舟",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "泛彼柏舟，在彼中河。髧彼两髦，实维我仪。之死矢靡它。母也天只，不谅人只！",
+    "泛彼柏舟，在彼河侧。髧彼两髦，实维我特。之死矢靡慝。母也天只，不谅人只！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-44"
+}

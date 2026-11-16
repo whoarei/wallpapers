@@ -1,0 +1,16 @@
+{
+  "id": "poem-a25b7a2a5049a2e86f6deb99",
+  "title": "送张中丞入台从事",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "驿骑朝天去，江城睠阙深。",
+    "夜珠先去握，芳桂乍辞阴。",
+    "泽国三千里，羁孤万感心。",
+    "自嗟文废久，此曲为卢谌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e6a6ad0f-3a83-4774-a906-ebb43f7ac5cf"
+}

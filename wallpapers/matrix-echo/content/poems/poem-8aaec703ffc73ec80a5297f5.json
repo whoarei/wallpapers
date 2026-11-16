@@ -1,0 +1,22 @@
+{
+  "id": "poem-8aaec703ffc73ec80a5297f5",
+  "title": "咏怀古迹五首 四",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "蜀主窥吴幸三峡，崩年亦在永安宫。",
+    "翠华想像空山里，玉殿虚无野寺中。",
+    "古庙杉松巢水鹤，岁时伏腊走村翁。",
+    "武侯祠屋常邻近，一体君臣祭祀同。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "七言律诗",
+    "怀古",
+    "抒怀"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-733afc7b-e370-4724-b755-e9342c574d22"
+}

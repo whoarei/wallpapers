@@ -1,0 +1,14 @@
+{
+  "id": "poem-d06908cc0799577bfe94d379",
+  "title": "荷叶鱼儿",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［外上］春雨新收，喜见山明水秀，万花深处有鸣鸠，软红泥踏青时候。",
+    "试蹑青鞋，慢拖斑竹，去寻良友。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8048",
+  "tags": []
+}

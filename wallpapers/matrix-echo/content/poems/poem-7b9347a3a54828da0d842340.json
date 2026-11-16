@@ -1,0 +1,17 @@
+{
+  "id": "poem-7b9347a3a54828da0d842340",
+  "title": "甘州歌",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "衷肠闷损，叹路途千里，日日思亲。",
+    "青梅如豆，难寄陇头音信。",
+    "高堂已添双鬓雪，俺客路空瞻一片云。",
+    "(合)途中味，客里身，争如流水蘸柴门？休回首，欲断魂，数声啼鸟不堪闻。",
+    "(末唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4971",
+  "tags": []
+}

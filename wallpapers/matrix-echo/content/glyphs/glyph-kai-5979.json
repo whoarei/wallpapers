@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5979",
+  "script": "kai",
+  "character": "她",
+  "reading": "tā；jiě",
+  "description": "tā：用于女性第三人称；亦用以代称国家，山河，旗帜等，表示敬爱。\njiě：同姐”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-她"
+}

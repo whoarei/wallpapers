@@ -1,0 +1,14 @@
+{
+  "id": "poem-ada996dda8fda57f679b473c",
+  "title": "南乡子·拢云髻",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "拢云髻，背犀梳，焦红衫映绿罗裙。",
+    "越王台下春风暖，药盈岸，游赏每邀邻女伴。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-33"
+}

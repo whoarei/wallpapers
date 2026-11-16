@@ -1,0 +1,17 @@
+{
+  "id": "poem-d62e86ed9b3c72fd9b402142",
+  "title": "送萧炼师入四明山",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "闲于独鹤心，大于高松年。",
+    "迥出万物表，高栖四明巅。",
+    "千寻直裂峰，百尺倒泻泉。",
+    "绛雪为我饭，白云为我田。",
+    "静言不语俗，灵踪时步天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-189a38ce-6ebf-44f1-a12f-f8cbb8e5d34e"
+}

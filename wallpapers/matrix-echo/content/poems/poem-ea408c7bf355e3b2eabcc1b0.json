@@ -1,0 +1,20 @@
+{
+  "id": "poem-ea408c7bf355e3b2eabcc1b0",
+  "title": "菩萨蛮·馀霞收尽寒烟绿",
+  "author": "李弥逊",
+  "dynasty": "宋",
+  "verses": [
+    "馀霞收尽寒烟绿。",
+    "江山一片团明玉。",
+    "敧枕画楼风。",
+    "愁生草际蛩。",
+    "金茎秋未老。",
+    "两鬓吴霜早。",
+    "忍负广寒期。",
+    "清尊对语谁。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-17",
+  "tags": []
+}

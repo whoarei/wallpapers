@@ -1,0 +1,14 @@
+{
+  "id": "poem-ef56686bd84f4b11f7bbdf45",
+  "title": "郊庙歌辞 周郊祀乐章 武舞乐",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "圭瓒方陈礼，干旄乃象功。",
+    "成文非羽籥，猛势若罴熊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ae1d49cc-efe9-4014-ad98-8417fedced83"
+}

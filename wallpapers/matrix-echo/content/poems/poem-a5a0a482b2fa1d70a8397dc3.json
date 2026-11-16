@@ -1,0 +1,16 @@
+{
+  "id": "poem-a5a0a482b2fa1d70a8397dc3",
+  "title": "客中览镜",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "何当开此镜，即见发如丝。",
+    "白日急于水，少年能几时。",
+    "每逢芳草处，长返故园迟。",
+    "所以多为客，蹉跎欲怨谁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-0fd9a554-119c-456a-8d4e-b52a5b460163"
+}

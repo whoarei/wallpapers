@@ -1,0 +1,17 @@
+{
+  "id": "poem-6e92118c60a430461f998cf0",
+  "title": "十六",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "耶娘绝年迈，不得离傍边。",
+    "晓夜专看待，（「看待」，伯三六五六卷作「看侍」。",
+    "）仍须省睡眠。",
+    "（「省睡眠」，斯三三九三卷作「更省眠」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-ee1014b0-3efa-464c-9bc6-c5ac01f395e3"
+}

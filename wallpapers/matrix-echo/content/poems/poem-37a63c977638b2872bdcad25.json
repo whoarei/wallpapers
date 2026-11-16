@@ -1,0 +1,16 @@
+{
+  "id": "poem-37a63c977638b2872bdcad25",
+  "title": "寄钟谟",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "看看潘鬓二毛生，昨日林梢又转鶑。",
+    "欲对春风忘世虑，敢言罇酒召时英。",
+    "假中西阁应无事，筵上南威幸有情。",
+    "不得车公终不乐，已教红袖出门迎。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-5e61c18c-0042-48ef-8751-32ab5a224143"
+}

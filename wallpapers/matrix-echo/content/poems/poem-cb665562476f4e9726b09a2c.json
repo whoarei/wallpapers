@@ -1,0 +1,17 @@
+{
+  "id": "poem-cb665562476f4e9726b09a2c",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "百年姻眷，须教情愿。",
+    "他那里抵死推辞，俺这里不索留恋。",
+    "想他每就里，有些儿牵绊。",
+    "怕恩多成怨。",
+    "满皇都少甚么公侯子，何须去嫁状元？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5017",
+  "tags": []
+}

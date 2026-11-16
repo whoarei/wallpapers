@@ -1,0 +1,15 @@
+{
+  "id": "poem-84aa993f31f679caadd52123",
+  "title": "考槃",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "考槃在涧，硕人之宽。独寐寤言，永矢弗谖。",
+    "考槃在阿，硕人之薖。独寐寤歌，永矢弗过。",
+    "考槃在六，硕人之轴。独寐寤宿，永矢弗告。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-55"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-318659b13271e56a185ab1dc",
+  "title": "秣陵怀古",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "山色江声共寂寥，十三陵树晚萧萧。",
+    "中原事业如江左，芳草何须怨六朝。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-141"
+}

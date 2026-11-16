@@ -1,0 +1,16 @@
+{
+  "id": "poem-170b9c44c6e31a63a61be8cb",
+  "title": "密雨",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "昨夜好风月，须明陟路岐。",
+    "阴云生陇上，密雨满天涯。",
+    "岂患泥涂恶，难堪仆马疲。",
+    "却愁期会失，心绪乱如丝。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-2f634bf6-cd20-427f-90e1-b38859a44e30"
+}

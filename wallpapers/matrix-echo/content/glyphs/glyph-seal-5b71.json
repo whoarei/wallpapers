@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b71",
+  "script": "seal",
+  "character": "孱",
+  "reading": "chán；càn",
+  "description": "chán：(1)软弱，弱小～王（软弱无能的君王）。～弱。～～。\n(2)卑微～琐（卑贱无能）。～微（地位低微）。\n(3)窘迫。\ncàn：义同（一）①，只用于孱头”（方言，软弱无能的人）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-孱"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-4826320135224b9cca982102",
+  "title": "郊庙歌辞 封泰山乐章 雍和",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "俎豆有馥，粢盛洁丰。",
+    "亦有和羹，既戒既平。",
+    "钟鼓管磬，肃唱和鸣。",
+    "皇皇后祖，来我思成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "泰山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6bd61d48-95a3-4505-a201-27a22d06f17a"
+}

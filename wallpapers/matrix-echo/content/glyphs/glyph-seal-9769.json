@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9769",
+  "script": "seal",
+  "character": "革",
+  "reading": "gé",
+  "description": "gé：(1)去了毛经过加工的兽皮皮～。～履（皮鞋）。～囊。\n(2)改变～新。～命（ａ．原意是改变命运；ｂ．现指改变社会制度、建立新社会的群众运动；ｃ．亦指改造旧技术、旧思想的运动）。改～。变～。\n(3)取消，除掉～除。～职。～故鼎新（去除旧的，建立新的）。\n(4)中国古代乐器八音之一，如鼓等。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-革"
+}

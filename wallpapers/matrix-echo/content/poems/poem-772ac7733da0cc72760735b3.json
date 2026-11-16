@@ -1,0 +1,16 @@
+{
+  "id": "poem-772ac7733da0cc72760735b3",
+  "title": "困中登山",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "戎庭闷且闲，谁复解愁颜。",
+    "步步或登岭，悠悠时往还。",
+    "野禽噪河曲，村犬吠林间。",
+    "西北望君处，踌踷日暝山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d193c4c5-ccde-4960-960e-45b3639e8c2e"
+}

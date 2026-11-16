@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8fe4",
+  "script": "seal",
+  "character": "迤",
+  "reading": "yǐ；yí",
+  "description": "yǐ：(1)地势斜着延长。\n(2)延伸，向天安门～东（向东一带）。\n〔～逦〕曲折连绵。\nyí：〔逶～〕见逶”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-迤"
+}

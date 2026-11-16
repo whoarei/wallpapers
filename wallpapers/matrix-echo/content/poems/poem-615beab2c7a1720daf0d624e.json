@@ -1,0 +1,14 @@
+{
+  "id": "poem-615beab2c7a1720daf0d624e",
+  "title": "直中书省",
+  "author": "白居易",
+  "dynasty": "唐",
+  "verses": [
+    "丝纶阁下文章静，钟鼓楼中刻漏长。",
+    "独坐黄昏谁是伴，紫薇花对紫薇郎。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-直中書省"
+}

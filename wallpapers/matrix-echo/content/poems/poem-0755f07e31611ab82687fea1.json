@@ -1,0 +1,16 @@
+{
+  "id": "poem-0755f07e31611ab82687fea1",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "眉儿和那眼儿，与我儿无二，身材袅娜腰肢细。",
+    "(外)我瞥见你门，心下便怜伊。",
+    "因甚脸憔翠？(后)不知怎底？怎底？鲜血污衣。",
+    "(合)缘何如是？(旦)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2701",
+  "tags": []
+}

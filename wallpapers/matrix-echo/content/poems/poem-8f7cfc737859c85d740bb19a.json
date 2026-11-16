@@ -1,0 +1,14 @@
+{
+  "id": "poem-8f7cfc737859c85d740bb19a",
+  "title": "和三乡诗",
+  "author": "韦冰",
+  "dynasty": "唐",
+  "verses": [
+    "来时欢笑去时哀，家国迢迢向越台。",
+    "待写百年幽思尽，故宫流水莫相催。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-83a8c92c-5c97-469b-a2aa-e1c411934cf0"
+}

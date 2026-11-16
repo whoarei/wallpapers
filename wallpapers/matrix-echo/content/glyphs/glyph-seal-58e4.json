@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-58e4",
+  "script": "seal",
+  "character": "壤",
+  "reading": "rǎng",
+  "description": "rǎng：(1)松软的土，可耕之地土～。沃～。～土。\n(2)地，与天”相对霄～。天～之别。\n(3)地区，区域～界。接～。穷乡僻～。\n(4)古同攘”，纷乱。\n(5)古同穰”，五谷丰收。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-壤"
+}

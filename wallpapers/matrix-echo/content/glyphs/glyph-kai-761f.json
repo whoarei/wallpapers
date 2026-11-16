@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-761f",
+  "script": "kai",
+  "character": "瘟",
+  "reading": "wēn",
+  "description": "wēn：(1)中医指流行性急性传染病～疫。～病。～疹。\n(2)指戏曲沉闷乏味这场戏唱～了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瘟"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e7cf00eff04801984b48ecfb",
+  "title": "题湘潭丞黄子辩哦松轩",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "黄子官居多暇日，吟哦薄暮一窗中。",
+    "虽无㶁㶁循除水，但觉飕飕满屋风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-4359c52f-2339-4ce1-a534-7d7adc3f39dc"
+}

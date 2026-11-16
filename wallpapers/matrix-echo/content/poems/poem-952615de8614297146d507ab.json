@@ -1,0 +1,16 @@
+{
+  "id": "poem-952615de8614297146d507ab",
+  "title": "时兴",
+  "author": "杨贲",
+  "dynasty": "唐",
+  "verses": [
+    "贵人昔未贵，咸愿顾寒微。",
+    "及自登枢要，何曾问布衣。",
+    "平明登紫阁，日晏下彤闱。",
+    "扰扰路傍子，无劳歌是非。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c05348b3-0526-4cf9-b443-eb0aecf607b5"
+}

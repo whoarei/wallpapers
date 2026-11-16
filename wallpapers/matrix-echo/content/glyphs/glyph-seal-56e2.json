@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-56e2",
+  "script": "seal",
+  "character": "团",
+  "reading": "tuán",
+  "description": "有点圆\n把东西揉弄成圆球形\n围绕\n聚集,集合\n⒈圆形～扇。\n⒉结成球形的东西。〈引〉堆饭～。面～儿。菜～子。毛线～。一～和气。\n⒊聚集，联合，集合～聚。～结。～圆。\n⒋有组织的集体剧～。儿童～。\n⒌中国共产主义青年团的简称她是～员。\n⒍军队的编制单位，它是师的下一级，营的上一级。\n⒎量词。用于成团的一～丝线。两～绳索。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-团"
+}

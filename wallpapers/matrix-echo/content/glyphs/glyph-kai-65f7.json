@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-65f7",
+  "script": "kai",
+  "character": "旷",
+  "reading": "kuàng",
+  "description": "心境开阔,开朗\n空旷;开阔\n率彼旷\n⒈广大，空阔～野荒郊。空～无人。土地平～。\n⒊空缺，荒废久～。～课。～工。～日持久。\n⒋历时久远～年。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-旷"
+}

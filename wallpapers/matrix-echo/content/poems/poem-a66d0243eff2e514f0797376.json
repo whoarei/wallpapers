@@ -1,0 +1,18 @@
+{
+  "id": "poem-a66d0243eff2e514f0797376",
+  "title": "鬓云松令·枕函香",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "枕函香，花径漏。",
+    "依约相逢，絮语黄昏后。",
+    "时节薄寒人病酒，刬地梨花，彻夜东风瘦。",
+    "掩银屏，垂翠袖。",
+    "何处吹箫，脉脉情微逗。",
+    "肠断月明红豆蔻，月似当时，人似当时否。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-149"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-1965b9a06a6f6132280aa2c7",
+  "title": "题不欺室张魏公为王龟龄书也何子应赋诗",
+  "author": "王秬",
+  "dynasty": "宋",
+  "verses": [
+    "君不见开元名相张九龄，岁寒松柏森苍鳞。",
+    "胡尘澒洞言始验，世间回首思忠臣。",
+    "堂堂魏公忠贯日，志欲平戎奖王室。",
+    "归来无地展经纶，余事文章挥健笔。",
+    "玉节朱轓两君子，不以交情变生死。",
+    "共将新句纪遗编，留与山林续诗史。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-0f36b0c7-7c58-4560-b805-fee122d6415a"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-04259e061df8e313e69d824a",
+  "title": "梦游仙四首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "三四仙女儿，身著瑟瑟衣。",
+    "手把明月珠，打落金色梨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-edee2b50-743e-4c16-9bbd-38a933a1f9ae"
+}

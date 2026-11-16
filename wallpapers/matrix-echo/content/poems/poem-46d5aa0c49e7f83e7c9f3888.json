@@ -1,0 +1,19 @@
+{
+  "id": "poem-46d5aa0c49e7f83e7c9f3888",
+  "title": "清平乐·断桥缺月",
+  "author": "李弥逊",
+  "dynasty": "宋",
+  "verses": [
+    "断桥缺月。",
+    "点点枝头雪。",
+    "画角吹残声未歇。",
+    "早是一年春别。",
+    "寿阳弄粉成妆。",
+    "柔肠结结丁香。",
+    "可怕真梅轻妒，游蜂说与何妨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-38",
+  "tags": []
+}

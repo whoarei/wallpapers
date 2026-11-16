@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-534a",
+  "script": "seal",
+  "character": "半",
+  "reading": "bàn",
+  "description": "bàn：(1)二分之一～圆。～百（五十，多指岁数）。\n(2)不完全的多～。～岛。～透明。～脱产。\n(3)在中间～空。～路上。～夜。\n(4)喻很少一星～点。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-半"
+}

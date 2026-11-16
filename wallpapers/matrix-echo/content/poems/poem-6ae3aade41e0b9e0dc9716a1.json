@@ -1,0 +1,18 @@
+{
+  "id": "poem-6ae3aade41e0b9e0dc9716a1",
+  "title": "省题诗二十一首 晓日禁林闻清漏",
+  "author": "王棨",
+  "dynasty": "唐",
+  "verses": [
+    "晓过宫垣侧，犹闻漏水频。",
+    "清音传五夜，山影值三春。",
+    "露碎金壶滴，风和玉佩振。",
+    "依稀连鳯沼，髣髴辨鸡人。",
+    "温树初凝雾，彤闱渐向晨。",
+    "若非鸳鹭伴，谁此继香尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-4d724b13-091d-4c81-baeb-caeac0182cca"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-75d66a188005acea7d3a9217",
+  "title": "献淮南李相公",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "傅岩高静见台星，庙畧当时讨不庭。",
+    "万里有云归碧落，百川无浪到沧溟。",
+    "军中老将传兵术，江上诸侯受政经。",
+    "闻道国人思再入，镕金新铸鹤仪形。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-f8c6d737-9301-4233-91d1-2f031b753f08"
+}

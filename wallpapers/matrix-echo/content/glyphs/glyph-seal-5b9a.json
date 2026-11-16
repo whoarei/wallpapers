@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b9a",
+  "script": "seal",
+  "character": "定",
+  "reading": "dìng",
+  "description": "dìng：(1)不动的，不变的～额。～价。～律。～论。～期。～型。～义。～都（dū）。～稿。～数（shù）（ａ．规定数额；ｂ．指天命；ｃ．规定的数额）。断～。规～。鉴～。\n(2)使不变动～案。～罪。决～。确～。\n(3)平安，平靖（多指局势）大局已～。\n(4)镇静，安稳（多指情绪）心神不～。\n(5)确凿，必然的必～。镇～。\n(6)预先约妥～计。～情。～货。～做。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-定"
+}

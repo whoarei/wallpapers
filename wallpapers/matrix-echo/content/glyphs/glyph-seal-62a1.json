@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62a1",
+  "script": "seal",
+  "character": "抡",
+  "reading": "lún",
+  "description": "挥动或挥舞\n任意浪费家财\n猛拉\n抡动\n抡动他的手臂\n抡眉竖目",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抡"
+}

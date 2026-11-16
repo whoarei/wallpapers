@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e75eb29c7b88ba0e26bdf75",
+  "title": "寒食书事",
+  "author": "赵鼎",
+  "dynasty": "宋",
+  "verses": [
+    "寂寂柴门村落里，也教插柳纪年华。",
+    "禁烟不到粤人国，上冢亦携庞老家。",
+    "汉寝唐陵无麦饭，山溪野径有梨花。",
+    "一樽竟藉青苔卧，莫管城头奏暮笳。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-寒食書事"
+}

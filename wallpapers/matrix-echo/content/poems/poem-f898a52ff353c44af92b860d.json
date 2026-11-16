@@ -1,0 +1,21 @@
+{
+  "id": "poem-f898a52ff353c44af92b860d",
+  "title": "挂冠  其一",
+  "author": "李瓘",
+  "dynasty": "宋",
+  "verses": [
+    "古云学古斯入官，我见学易而官难。",
+    "平生透破梦觉关，本来面目只儒酸。",
+    "吾亲不侍若为欢，不如归去卧林间。",
+    "殿前三策沥忠肝，多谢皇恩天地宽。",
+    "戏衫卸下白衣还，扁舟飞过子陵滩。",
+    "前修亦有逋与抟，圣世与之俱空闲。",
+    "何物种放太厚颜，山鬼移文伐其奸。",
+    "此行无复出闽山，休音息影谷之盘。",
+    "今朝酾酒酹雩坛，便向钱塘门挂冠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-beacfd01-7ec0-4b67-b3bb-bcc813204987"
+}

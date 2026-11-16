@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5fa1",
+  "script": "seal",
+  "character": "御",
+  "reading": "yù",
+  "description": "后亦泛指驾驭一切运行或飞行之物\n御轻舟而上溯,\n⒈驾驭车马～车。又指驾驭车马的人～手。\n⒊称与皇帝有关的～衣。～旨。～用。～河桥。\n⒋侍奉，敬献～于君。～欲王公。\n⒌抵挡，阻止～敌。抵～。～风寒。\n御yà 1.迎接。 2.向;面向。 3.逢迎;迎合。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-御"
+}

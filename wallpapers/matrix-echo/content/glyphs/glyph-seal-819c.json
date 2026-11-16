@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-819c",
+  "script": "seal",
+  "character": "膜",
+  "reading": "mó",
+  "description": "mó：(1)动植物体内像薄皮的组织肋～。耳～。黏～。苇～。\n(2)像膜的薄皮牛奶表面结了一层薄～。\n〔～拜〕跪在地上高举双手虔诚地行礼。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-膜"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-63b59e291b569fe4845f4a5e",
+  "title": "诗品二十四则 豪放",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "观花匪禁，吞吐大荒。",
+    "由道返气，处得以狂。",
+    "天风浪浪，海山苍苍。",
+    "真力弥满，万象在旁。",
+    "前招三辰，后引凤皇。",
+    "晓策六鼇，濯足扶桑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-1e802371-0491-47f3-8981-97898b118867"
+}

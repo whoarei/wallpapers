@@ -1,0 +1,18 @@
+{
+  "id": "poem-0a8928fa348028aec384b155",
+  "title": "赋尚书",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "崇文时驻步，东观还停辇。",
+    "辍膳玩三坟，晖灯披五典。",
+    "寒心覩肉林，飞魄看沈湎。",
+    "纵情昏主多，克己明君鲜。",
+    "灭身资累恶，成名由积善。",
+    "既承百王末，战兢随岁转。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-69f09ef2-88a4-4fd3-979d-8cfb6541eb93"
+}

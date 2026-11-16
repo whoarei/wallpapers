@@ -1,0 +1,14 @@
+{
+  "id": "poem-de73ce3aaff0716244baa330",
+  "title": "先寄左军语道",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "已喜仲容连骑去，更思小陆度山来。",
+    "赋槐白士愁颜甚，唤取溪傍一笑开。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-2754860e-e43a-43b0-a925-be94182b0b3f"
+}

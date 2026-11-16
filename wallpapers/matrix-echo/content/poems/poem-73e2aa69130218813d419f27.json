@@ -1,0 +1,21 @@
+{
+  "id": "poem-73e2aa69130218813d419f27",
+  "title": "游洞庭湖",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "楚云团翠八百里，澧兰吹香堕春水。",
+    "白头渔子摇苍烟，㶉𫛶眠沙晓惊起。",
+    "沙头龙叟夜叹忧，铁笛未响春风羞。",
+    "露寒紫藟结新愁，城角泣断关河秋。",
+    "谪仙欲识雷斧手，刬却古今愁共丑。",
+    "鲸游碧落杳无踪，作诗三叹君知否。",
+    "瀛洲一櫂何时还，满江宫锦看湖山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-38690232-17dc-4a98-99d6-07f8c59e37e3"
+}

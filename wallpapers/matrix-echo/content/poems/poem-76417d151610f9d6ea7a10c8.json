@@ -1,0 +1,14 @@
+{
+  "id": "poem-76417d151610f9d6ea7a10c8",
+  "title": "老仙平沙落鴈",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "楚天如纸字横斜，纸阔行疎对落霞。",
+    "传得夜来沙上影，不传书信伴梅花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-77618117-8319-41fb-bbd9-b68a809f8832"
+}

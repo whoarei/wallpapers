@@ -1,0 +1,15 @@
+{
+  "id": "poem-fb8c9e31a80436fac01e51b2",
+  "title": "猛士行",
+  "author": "李廓",
+  "dynasty": "唐",
+  "verses": [
+    "战鼓惊沙恶天色，猛士虬髯眼前黑。",
+    "单于衣锦日行兵，阵头走马生擒得。",
+    "幽幷少年不敢轻，虎狼窟里空手行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-8265398b-e695-416b-8449-4d3d1a862a10"
+}

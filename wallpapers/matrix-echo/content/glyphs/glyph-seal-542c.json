@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-542c",
+  "script": "seal",
+  "character": "听",
+  "reading": "tīng",
+  "description": "听于庭。\n⒈用耳朵接受声音～录音。兼～则明。偏～则暗。\n⒉顺从，接受～话。～从。～指挥。言～计从。\n⒊随，任凭～便。～凭。～之任之。\n⒍等候～回音。～候分派。\n听yǐn 1.笑貌。 2.见\"听听\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-听"
+}

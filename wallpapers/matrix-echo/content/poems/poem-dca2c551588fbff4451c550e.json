@@ -1,0 +1,18 @@
+{
+  "id": "poem-dca2c551588fbff4451c550e",
+  "title": "玉楼春·晴景融融春色浅",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "晴景融融春色浅。",
+    "落尽梅花千万片。",
+    "小池冰解水纹生，消息未闻梁上燕。",
+    "楼倚轻寒风力软。",
+    "目断孤云天自远。",
+    "又还依旧去年时，寂寞病容人怪见。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-891",
+  "tags": []
+}

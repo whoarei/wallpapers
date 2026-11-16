@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9ad3",
+  "script": "kai",
+  "character": "髓",
+  "reading": "suǐ",
+  "description": "suǐ：(1)骨头的空腔中像胶状的东西骨～。精～（喻精华）。\n(2)像骨髓的东西脊～。脑～。延～（后脑的一部分）。\n(3)植物茎的中心部分，由薄壁的细胞组成。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-髓"
+}

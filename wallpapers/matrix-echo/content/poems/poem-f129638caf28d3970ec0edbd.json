@@ -1,0 +1,14 @@
+{
+  "id": "poem-f129638caf28d3970ec0edbd",
+  "title": "照镜",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "衰鬓朝临镜，将看却自疑。",
+    "慙君明似月，照我白如丝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-66322ac8-46e8-4561-9858-ece254a0de59"
+}

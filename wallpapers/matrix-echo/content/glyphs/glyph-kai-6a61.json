@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6a61",
+  "script": "kai",
+  "character": "橡",
+  "reading": "xiàng",
+  "description": "xiàng：〔～树〕即栎（lì）树”。简称橡”，如～子”（橡树的果实）。\n〔～胶树〕常绿乔木，枝细长，三个椭圆形小叶构成复叶，开白花，结球形蒴果。简称橡”，如～皮”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-橡"
+}

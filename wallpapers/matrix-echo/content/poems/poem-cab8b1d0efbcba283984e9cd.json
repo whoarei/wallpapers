@@ -1,0 +1,16 @@
+{
+  "id": "poem-cab8b1d0efbcba283984e9cd",
+  "title": "多景楼",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "好山可是登临少，此地云胡应接多。",
+    "天自有初恢壮观，人非无故辄悲歌。",
+    "烟收三面平开镜，雨后双鬟对绾螺。",
+    "欲辩南徐古徐话，忍将名刻细摩挲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-21a96680-beab-4235-9a53-c529653f2711"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7c07",
+  "script": "kai",
+  "character": "簇",
+  "reading": "cù",
+  "description": "cù：(1)聚集，丛凑，或丛聚成的堆或团～拥。～聚。～生。～居。花团锦～。\n(2)量词，用于聚集成团的东西一～鲜花。\n〔～新〕极新，常用来形容衣服。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-簇"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b1c0dc3f9279ffe851cda098",
+  "title": "燕燕",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "燕燕于飞，差池其羽。之子于归，远送于野。瞻望弗及，泣涕如雨。",
+    "燕燕于飞，颉之颃之。之子于归，远于将之。瞻望弗及，伫立以泣。",
+    "燕燕于飞，下上其音。之子于归，远送于南。瞻望弗及，实劳我心。",
+    "仲氏任只，其心塞渊。终温且惠，淑慎其身。先君之思，以勖寡人。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-27"
+}

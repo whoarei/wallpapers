@@ -1,0 +1,14 @@
+{
+  "id": "poem-6c3ec141ecd50a53ba7fb5e2",
+  "title": "游仙二首 二",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "刘郎相约事难谐，雨散云飞自此乖。",
+    "月姊殷勤留不住，碧空遗下水精钗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-4e36541b-bb38-416a-8d20-8cf76dbad6e5"
+}

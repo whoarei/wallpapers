@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-722a",
+  "script": "kai",
+  "character": "爪",
+  "reading": "zhǎo；zhuǎ",
+  "description": "zhǎo：(1)指甲或趾甲趾端有～。\n(2)鸟兽的脚指鹰～。～牙（喻党羽，狗腿子）。一鳞半～。\n(3)抓。\nzhuǎ：(1)禽兽的脚（多指有尖甲的）鸡～子。狗～子。\n(2)像爪的东西，这个锅有三个～儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-爪"
+}

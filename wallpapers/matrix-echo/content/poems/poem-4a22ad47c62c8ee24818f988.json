@@ -1,0 +1,14 @@
+{
+  "id": "poem-4a22ad47c62c8ee24818f988",
+  "title": "鹦鹉",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "色白还应及雪衣，觜红毛绿语仍奇。",
+    "年年锁在金笼里，何似陇山闲处飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a49e6c91-9d64-47a5-8cab-3060d1b3ed94"
+}

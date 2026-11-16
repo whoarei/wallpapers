@@ -1,0 +1,15 @@
+{
+  "id": "poem-bc1517899f53905e1706d90f",
+  "title": "题东林二首 一",
+  "author": "匡白",
+  "dynasty": "唐",
+  "verses": [
+    "东林佳景一何长，兰蕙生多地亦香，堪叹世人来不得，便随云树老何妨。",
+    "倚天苍翠晴当户，落[石]潺湲夜遶廊。",
+    "到此秪除重结社，自余闲事莫思量。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-554fbeb3-2110-4ede-9da2-7ed4890ed41d"
+}

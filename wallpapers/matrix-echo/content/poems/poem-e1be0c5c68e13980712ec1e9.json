@@ -1,0 +1,16 @@
+{
+  "id": "poem-e1be0c5c68e13980712ec1e9",
+  "title": "戈",
+  "author": "李峤",
+  "dynasty": "唐",
+  "verses": [
+    "富父舂喉日，殷辛漂杵年。",
+    "晓霜含白刃，落影驻雕鋋。",
+    "夕摈金门侧，朝提玉塞前。",
+    "愿随龙影度，横阵彗云边。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-9f502d35-815f-4bb8-acf1-bae384137560"
+}

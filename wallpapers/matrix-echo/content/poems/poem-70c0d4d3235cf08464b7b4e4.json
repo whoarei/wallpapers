@@ -1,0 +1,14 @@
+{
+  "id": "poem-70c0d4d3235cf08464b7b4e4",
+  "title": "董监庙",
+  "author": "熊孺登",
+  "dynasty": "唐",
+  "verses": [
+    "仁杰淫祠废欲无，枯枫老栎两三株。",
+    "神乌惯得商人食，飞趂征帆过蠡湖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-fc4163c1-1ab3-4d39-a2ac-1edc318d82f9"
+}

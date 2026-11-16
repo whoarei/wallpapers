@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-754f",
+  "script": "kai",
+  "character": "畏",
+  "reading": "wèi",
+  "description": "wèi：(1)怕～惧。～难（nán）。～罪。大无～。望而生～。\n(2)敬服敬～。～友（使人敬服的朋友）◇生可～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-畏"
+}

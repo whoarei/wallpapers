@@ -1,0 +1,19 @@
+{
+  "id": "poem-7b30d35b9a74c482c605aed9",
+  "title": "点绛唇·孤馆迢迢",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "孤馆迢迢，暮天草露沾衣润。",
+    "夜来秋近。",
+    "月晕通风信。",
+    "今日原头，黄叶飞成阵。",
+    "知人闷。",
+    "故来相趁。",
+    "共结临岐恨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-419",
+  "tags": []
+}

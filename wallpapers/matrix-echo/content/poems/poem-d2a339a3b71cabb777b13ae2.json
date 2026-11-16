@@ -1,0 +1,16 @@
+{
+  "id": "poem-d2a339a3b71cabb777b13ae2",
+  "title": "枝巢",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "欲扫嚣尘迹，枚条自改门。",
+    "籁虚秋断续，花冷月黄昏。",
+    "鸠拙休相笑，鸿冥倘可扪。",
+    "逍遥与齐物，一等不须论。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-ace8cda5-6173-490d-a1d5-16370e247960"
+}

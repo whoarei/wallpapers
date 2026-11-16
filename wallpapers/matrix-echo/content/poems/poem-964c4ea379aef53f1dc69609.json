@@ -1,0 +1,24 @@
+{
+  "id": "poem-964c4ea379aef53f1dc69609",
+  "title": "郊庙歌辞 享太庙乐章 大明舞",
+  "author": "魏征、褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "五纪更运，三正递升。",
+    "勋华既没，禹汤勃兴。",
+    "神武命代，灵睠是膺。",
+    "望云彰德，察纬告征。",
+    "上纽天维，下安地轴。",
+    "征师涿野，万国咸服。",
+    "偃伯灵台，九官允穆。",
+    "殊域委賮，怀生介福。",
+    "大礼既饰，大乐已和。",
+    "黑章扰囿，赤字浮河。",
+    "功宣载籍，德被咏歌。",
+    "克昌厥后，百禄是荷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-dc517fb4-afe5-4836-82dd-4b05d9a66851"
+}

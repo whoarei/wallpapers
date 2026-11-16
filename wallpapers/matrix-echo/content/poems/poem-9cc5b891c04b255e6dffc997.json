@@ -1,0 +1,16 @@
+{
+  "id": "poem-9cc5b891c04b255e6dffc997",
+  "title": "题襄阳图",
+  "author": "徐安贞",
+  "dynasty": "唐",
+  "verses": [
+    "画得襄阳郡，依然见昔游。",
+    "岘山思驻马，汉水忆回舟。",
+    "丹壑常含霁，青林不换秋。",
+    "图书空咫尺，千里意悠悠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-4e35fd03-8317-42aa-8fde-a4f8171411a5"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6e1d",
+  "script": "seal",
+  "character": "渝",
+  "reading": "yú",
+  "description": "yú：(1)改变，违背（多指感情或态度）忠贞不～。生死不～。\n(2)中国四川省重庆市的别称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-渝"
+}

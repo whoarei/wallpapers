@@ -1,0 +1,21 @@
+{
+  "id": "poem-15371f2f86865e8875d723d8",
+  "title": "王敬伯歌",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "妾本舟中女，闻君江上琴。",
+    "君初感妾意，妾亦感君心。",
+    "遂出合欢被，同为交颈禽。",
+    "传杯唯畏浅，接膝犹嫌远。",
+    "侍婢奏箜篌，女郎歌宛转。",
+    "宛转怨如何，中庭霜渐多。",
+    "霜多叶可惜，昨日非今夕。",
+    "徒结万重欢，终成一宵客。",
+    "王敬伯，绿水青山从此隔。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-b0394c9f-7d5a-4880-a96a-b9211aecc6db"
+}

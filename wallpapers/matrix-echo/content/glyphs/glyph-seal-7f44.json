@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f44",
+  "script": "seal",
+  "character": "罄",
+  "reading": "qìng",
+  "description": "qìng：(1)本义为器中空，引申为尽，用尽告～。～其所有。～竹难书。\n(2)古同磬”，打击乐器。\n(3)显现夫犬马，人所知也，旦暮～于前”。\n(4)严整的样子师旷～然”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-罄"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-18b3e56cdd33c9938cdc61f0",
+  "title": "从驾东幸呈诸公",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "吴公台下旧京城，曾掩衡门过十春。",
+    "别后不知新景象，信来空问故交亲。",
+    "宦游京口无高兴，习隠钟山限俗尘。",
+    "今日喜为华表鹤，况陪鹓鹭免迷津。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-d14b5370-5c90-4958-95fb-d3605413332e"
+}

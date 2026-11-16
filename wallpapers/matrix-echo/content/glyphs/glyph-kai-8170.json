@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8170",
+  "script": "kai",
+  "character": "腰",
+  "reading": "yāo",
+  "description": "yāo：(1)胯上胁下的部分，在身体的中部～板儿。～杆子。～背。～身。～肢。～围。\n(2)东西的中段，中间半山～。\n(3)中间狭小像腰部的地势土～。～。\n(4)裤、裙等围在腰上的部分裤～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-腰"
+}

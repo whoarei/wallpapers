@@ -1,0 +1,14 @@
+{
+  "id": "poem-d155ef5f976be8cd39c62f30",
+  "title": "嘲小儿",
+  "author": "卢肇",
+  "dynasty": "唐",
+  "verses": [
+    "贪生只爱眼前珍，不觉风光度岁频。",
+    "昨日见来骑竹马，今朝早是有年人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-92369195-889f-414e-8045-88e4a9e3c3d9"
+}

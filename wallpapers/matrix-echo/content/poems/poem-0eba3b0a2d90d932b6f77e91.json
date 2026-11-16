@@ -1,0 +1,14 @@
+{
+  "id": "poem-0eba3b0a2d90d932b6f77e91",
+  "title": "咏史诗 华亭",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "陆机西没洛阳城，吴国春风草又青。",
+    "惆怅月中千岁鹤，夜来犹为唳华亭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-77628860-7554-441c-b049-9120a53042a7"
+}

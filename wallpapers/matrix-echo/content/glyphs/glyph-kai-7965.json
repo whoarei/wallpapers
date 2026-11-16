@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7965",
+  "script": "kai",
+  "character": "祥",
+  "reading": "xiáng",
+  "description": "xiáng：(1)吉利～和。～瑞（吉祥的征兆）。不～。吉～。\n(2)吉凶的预兆～麟。～云。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-祥"
+}

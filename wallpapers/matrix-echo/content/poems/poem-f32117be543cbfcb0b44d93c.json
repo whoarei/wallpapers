@@ -1,0 +1,16 @@
+{
+  "id": "poem-f32117be543cbfcb0b44d93c",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "自古道东床，女婿有万千。",
+    "怎知它一举，便做着状元。",
+    "奴只道，永团圆。",
+    "必来接，那丝鞭。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2624",
+  "tags": []
+}

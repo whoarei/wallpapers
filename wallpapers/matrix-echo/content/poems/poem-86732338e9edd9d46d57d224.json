@@ -1,0 +1,16 @@
+{
+  "id": "poem-86732338e9edd9d46d57d224",
+  "title": "送卢秀才应举",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "几载阻兵荒，一名终不忘。",
+    "还冲猛风雪，如画冷朝阳。",
+    "句好慵将出，囊空却不忙。",
+    "明年公道日，去去必穿杨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c2101a4d-5354-48a5-8ac8-9af19521caff"
+}

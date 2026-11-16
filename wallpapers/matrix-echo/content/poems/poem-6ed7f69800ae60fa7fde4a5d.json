@@ -1,0 +1,20 @@
+{
+  "id": "poem-6ed7f69800ae60fa7fde4a5d",
+  "title": "虞美人·去年雪满长安树",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "去年雪满长安树。",
+    "望断扬州路。",
+    "今年看雪在扬州。",
+    "人在蓬莱深处、若为愁。",
+    "而今不恨伊相误。",
+    "自恨来何暮。",
+    "平山堂下旧嬉游。",
+    "只有舞春杨柳、似风流。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-759",
+  "tags": []
+}

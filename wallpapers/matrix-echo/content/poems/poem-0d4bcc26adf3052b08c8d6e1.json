@@ -1,0 +1,16 @@
+{
+  "id": "poem-0d4bcc26adf3052b08c8d6e1",
+  "title": "山居八咏 二",
+  "author": "常达",
+  "dynasty": "唐",
+  "verses": [
+    "晚望虚庭物，心心见祖情。",
+    "烟开分岳色，雨雾减泉声。",
+    "远树猨长啸，层岩日乍明。",
+    "更堪论的意，林下笋新生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6a6228ce-2dcc-4e4d-acc3-652b3a417bfa"
+}

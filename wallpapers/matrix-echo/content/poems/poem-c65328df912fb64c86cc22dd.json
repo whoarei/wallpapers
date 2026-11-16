@@ -1,0 +1,14 @@
+{
+  "id": "poem-c65328df912fb64c86cc22dd",
+  "title": "杨柳枝·织锦机边莺语频",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "织锦机边莺语频，停梭垂泪忆征人。",
+    "塞门三月犹萧索，纵有垂杨未觉春。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-36",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-988d",
+  "script": "seal",
+  "character": "颍",
+  "reading": "yǐng",
+  "description": "发源于河南省登封县,至安徽流入淮河\n颍yǐng蛴，发源于河南省登封，流到安徽省正阳关入淮河。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-颍"
+}

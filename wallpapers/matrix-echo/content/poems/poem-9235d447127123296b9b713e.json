@@ -1,0 +1,16 @@
+{
+  "id": "poem-9235d447127123296b9b713e",
+  "title": "湖山即景次尹绿波",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "湖山掩映雁潭秋，今古诗人说胜游。",
+    "绿柳影分骑马路，赤枫叶落钓鱼舟。",
+    "前坡风送归樵笛，别墅云藏卖酒楼。",
+    "长记寻梅冰雪里，毡靴驼帽鹔鹴裘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-4444673d-966b-4b7d-8e03-9dd6ee91cff5"
+}

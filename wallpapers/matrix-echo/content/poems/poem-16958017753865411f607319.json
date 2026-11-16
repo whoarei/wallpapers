@@ -1,0 +1,16 @@
+{
+  "id": "poem-16958017753865411f607319",
+  "title": "和张文裕初寒十首  其七",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "何处初寒好，初寒叠石溪。",
+    "山斜改昏晓，路曲失东西。",
+    "拾栗走村稚，凿垣巢乳鸡。",
+    "我来闲拥褐，曝背草簷低。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-0b7256cc-3efa-4920-95ec-8f2f43b05e47"
+}

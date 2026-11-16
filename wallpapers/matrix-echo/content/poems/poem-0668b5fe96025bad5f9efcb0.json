@@ -1,0 +1,16 @@
+{
+  "id": "poem-0668b5fe96025bad5f9efcb0",
+  "title": "酬张十八病中寄诗",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "本性慵远行，绵绵病自生。",
+    "见君绸缪思，慰我寂寞情。",
+    "风幌夜不掩，秋灯照雨明。",
+    "彼愁此又忆，一夕两盈盈。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-684387fe-9020-4b93-97e8-37a7cda07cf3"
+}

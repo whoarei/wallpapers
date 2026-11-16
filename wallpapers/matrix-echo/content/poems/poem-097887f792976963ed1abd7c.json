@@ -1,0 +1,14 @@
+{
+  "id": "poem-097887f792976963ed1abd7c",
+  "title": "别李谱",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "尊前路映暮尘红，池上琴横醉席风。",
+    "今日别君如别鹤，声容长在楚弦中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-c949afb6-9040-48f8-8007-facc32e766d1"
+}

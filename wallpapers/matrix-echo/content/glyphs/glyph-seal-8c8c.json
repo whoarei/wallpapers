@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c8c",
+  "script": "seal",
+  "character": "貌",
+  "reading": "mào",
+  "description": "mào：(1)面容面～。容～。～相。以～取人。\n(2)外表的样子礼～。～合神离。道～岸然。\n(3)外观全～。\n(4)古书注解里表示状态、样子，如飞貌”指飞的样子。\n(5)描绘，画像命工～妃于别殿”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-貌"
+}

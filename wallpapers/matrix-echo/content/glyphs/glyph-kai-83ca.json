@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-83ca",
+  "script": "kai",
+  "character": "菊",
+  "reading": "jú；jv",
+  "description": "jú：(1)多年生草本植物，秋天开花，是观赏植物，有的花可以入药，亦可作饮料～花。赏～。春兰秋～。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-菊"
+}

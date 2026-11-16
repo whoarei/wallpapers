@@ -1,0 +1,14 @@
+{
+  "id": "poem-25adaba231f916089d8aded4",
+  "title": "秋闺  其三",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "入秋情思可曾忺，深琐朱扉怯卷帘。",
+    "书几无人尘不扫，一钩蛛网挂牙签。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-a30ed948-773d-4af5-9fd8-4bc8beaac50c"
+}

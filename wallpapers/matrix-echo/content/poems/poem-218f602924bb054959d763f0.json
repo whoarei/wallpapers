@@ -1,0 +1,14 @@
+{
+  "id": "poem-218f602924bb054959d763f0",
+  "title": "祗役遇风谢湘中春色",
+  "author": "熊孺登",
+  "dynasty": "唐",
+  "verses": [
+    "水生风熟布帆新，只见公程不见春。",
+    "应被百花撩乱笑，比来天地一闲人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-7e371811-fcc1-4621-b150-a16b614468b9"
+}

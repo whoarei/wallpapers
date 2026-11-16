@@ -1,0 +1,14 @@
+{
+  "id": "poem-a9a1ee52ee4ead89d2e82573",
+  "title": "舟行怀阎士和",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "二月湖南春草徧，横山渡口花如霰。",
+    "相思一日在孤舟，空见归云两三片。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f152c170-82c8-4cc8-a1a7-ce1037f1569e"
+}

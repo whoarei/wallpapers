@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6614",
+  "script": "seal",
+  "character": "昔",
+  "reading": "xī",
+  "description": "xī：(1)以前，从前～者。～人。往～。今～对比。\n(2)古同夕”，夜。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昔"
+}

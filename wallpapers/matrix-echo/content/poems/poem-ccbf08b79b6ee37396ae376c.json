@@ -1,0 +1,18 @@
+{
+  "id": "poem-ccbf08b79b6ee37396ae376c",
+  "title": "诉衷情·长桥春水拍堤沙",
+  "author": "仲殊",
+  "dynasty": "宋",
+  "verses": [
+    "长桥春水拍堤沙。",
+    "疏雨带残霞。",
+    "几声脆管何处，桥下有人家。",
+    "宫树绿，晚烟斜。",
+    "噪闲鸦。",
+    "山光无尽，水风长在，满面杨花。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-912",
+  "tags": []
+}

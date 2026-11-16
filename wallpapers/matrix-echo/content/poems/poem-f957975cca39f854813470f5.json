@@ -1,0 +1,16 @@
+{
+  "id": "poem-f957975cca39f854813470f5",
+  "title": "郊庙歌辞 德明兴圣庙乐章 迎神",
+  "author": "李舒",
+  "dynasty": "唐",
+  "verses": [
+    "元尊九德，佐尧光宅。",
+    "烈祖太宗，方周作伯。",
+    "响怀霜露，乐变金石。",
+    "白云清风，髣髴来格。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-3d290e33-710f-4419-a30d-2d76a3b3e54a"
+}

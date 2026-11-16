@@ -1,0 +1,14 @@
+{
+  "id": "poem-c89a6bb9ba7d05d940a52d9d",
+  "title": "嘲燕",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "年来乳燕亦堪羞，不学杨花得自由。",
+    "飞过几家门户去，直须寻见最高楼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-0811d637-5bc5-4469-b336-dc2d93c972e5"
+}

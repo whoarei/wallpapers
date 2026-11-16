@@ -1,0 +1,17 @@
+{
+  "id": "poem-1a805f795a65cc947fad7cec",
+  "title": "陇头行",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "陇头路断人不行，胡骑夜入凉州城。",
+    "汉兵处处格鬬死，一朝尽没陇西地。",
+    "驱我边人胡中去，散放牛羊食禾黍。",
+    "去年中国养子孙，今著毡裘学胡语。",
+    "谁能更使李轻车，收取凉州入汉家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-d5f74a11-92b2-42b3-b360-0caab73939b3"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-7f7c7c6f4e3b4cb513345806",
+  "title": "题友生丛竹",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "菊华寒露浓，兰愁晓霜重。",
+    "指佞不长生，蒲萐今无种。",
+    "安如植丛篁，他年待栖凤。",
+    "大则化龙骑，小可钓璜用。",
+    "留烟伴独醒，回阴冷闲梦。",
+    "何妨积雪凌，但为清风动。",
+    "乃知子猷心，不与常人共。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-787b7a62-4b3e-4010-b265-c5772c34dcba"
+}

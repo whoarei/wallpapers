@@ -1,0 +1,16 @@
+{
+  "id": "poem-a50b2776346740ec07abc16f",
+  "title": "清明日得家书四首  其三",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "欲归归未得，留滞绣江滨。",
+    "感慨伤春望，侨居多北人。",
+    "苍生未苏息，黄屋尚蒙尘。",
+    "王室艰危极，澘然泣老臣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-c6337157-a141-417f-b0ac-bfc785405ce2"
+}

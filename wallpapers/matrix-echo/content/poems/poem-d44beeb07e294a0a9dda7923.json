@@ -1,0 +1,20 @@
+{
+  "id": "poem-d44beeb07e294a0a9dda7923",
+  "title": "更漏子·菊花残",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "菊花残，梨叶堕。",
+    "可惜良辰虚过。",
+    "新酒熟，绮筵开。",
+    "不辞红玉杯。",
+    "蜀弦高，羌管脆。",
+    "慢飐舞娥香袂。",
+    "君莫笑，醉乡人。",
+    "熙熙长似春。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-448",
+  "tags": []
+}

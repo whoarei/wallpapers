@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f54",
+  "script": "seal",
+  "character": "罔",
+  "reading": "wǎng",
+  "description": "wǎng：(1)蒙蔽，诬～民（陷害人民）。～己（受人诳骗）。欺～。\n(2)无，没有～极（a.没有定准，变化无常；b.无穷，久远）。置若～闻。\n(3)古同惘”，失意。\n(4)古同网”，用绳线等结成的捕鱼捉鸟器具。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-罔"
+}

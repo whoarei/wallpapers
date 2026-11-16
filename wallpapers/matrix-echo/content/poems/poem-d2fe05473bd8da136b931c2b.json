@@ -1,0 +1,16 @@
+{
+  "id": "poem-d2fe05473bd8da136b931c2b",
+  "title": "酬安之谢光兄弟见过",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "平时一二日，不见已相思。",
+    "况复闭关久，杳无携手期。",
+    "清谈胜妙药，高韵敌凉飔。",
+    "愧乏机云美，虚承青眼知。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-964c287a-c2a4-4a5b-ae06-f4e0cb254d07"
+}

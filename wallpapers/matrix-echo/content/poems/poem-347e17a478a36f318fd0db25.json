@@ -1,0 +1,14 @@
+{
+  "id": "poem-347e17a478a36f318fd0db25",
+  "title": "颂古七十六首  其三四",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "老僧正在东司上，不将佛法为人说。",
+    "一般屎臭旃檀香，父子之机俱漏泄。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-f952d8d0-7f91-48f2-88c6-a76673b434a4"
+}

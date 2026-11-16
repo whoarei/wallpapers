@@ -1,0 +1,15 @@
+{
+  "id": "poem-e1327f044dd42450593a6f7b",
+  "title": "观野烧",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "烈烈西风里，蓬芜一扫空。",
+    "虽留生意在，已废半年功。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-0df441d8-38c9-407d-9c0a-51361fca1f87"
+}

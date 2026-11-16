@@ -1,0 +1,23 @@
+{
+  "id": "poem-195e13a1dfed27d5598eeb66",
+  "title": "贫女",
+  "author": "秦韬玉",
+  "dynasty": "唐",
+  "verses": [
+    "蓬门未识绮罗香，拟托良媒益自伤。",
+    "谁爱风流高格调，共怜时世俭梳妆。",
+    "敢将十指夸偏巧，不把双眉鬬画长。",
+    "苦恨年年压金线，为他人作嫁衣裳。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "哲理",
+    "七言律诗",
+    "生活",
+    "女子",
+    "怀才不遇"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-16ddf43c-ac3a-47bc-95a5-36a49bceb30b"
+}

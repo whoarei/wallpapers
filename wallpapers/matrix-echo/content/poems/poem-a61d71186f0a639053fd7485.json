@@ -1,0 +1,16 @@
+{
+  "id": "poem-a61d71186f0a639053fd7485",
+  "title": "悼赵清献公抃",
+  "author": "释法泉",
+  "dynasty": "宋",
+  "verses": [
+    "仕也邦为瑞，归欤世作程。",
+    "人间金粟去，天上玉楼成。",
+    "慧剑无纤缺，冰壶彻底清。",
+    "春风瀔水路，孤月照云明。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8e4e51a5-17e3-48ea-94c9-2d2da03ce29d"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-585e",
+  "script": "kai",
+  "character": "塞",
+  "reading": "sāi；sài；sè",
+  "description": "sāi：(1)堵，填满空隙堵～漏洞。～尺。～规。\n(2)堵住器物口的东西活～。～子。\nsài：边界上险要地方要～。关～。～外。边～。～翁失马。\nsè：义同（一）①，用于若干书面语词闭～。阻～。搪～。～责。顿开茅～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-塞"
+}

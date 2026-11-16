@@ -1,0 +1,16 @@
+{
+  "id": "poem-82d207ee2182a8ab528773b0",
+  "title": "暮春杂咏八首  其二",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "莲沼琼瑶堕，萱庭锦绣张。",
+    "静闻人语好，闲爱水风凉。",
+    "藜杖休行乐，蒲团且坐忘。",
+    "沙禽相识惯，趯趯近胡床。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-693ed87d-862c-4b95-9214-eab6d8d7e599"
+}

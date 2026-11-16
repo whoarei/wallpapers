@@ -1,0 +1,16 @@
+{
+  "id": "poem-402e7e56860dff8fd3e514bd",
+  "title": "菩萨蛮·客中愁损催寒夕",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "客中愁损催寒夕，夕寒催损愁中客。",
+    "门掩月黄昏，昏黄月掩门。",
+    "翠衾孤拥醉，醉拥孤衾翠。",
+    "醒莫更多情，情多更莫醒。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-219"
+}

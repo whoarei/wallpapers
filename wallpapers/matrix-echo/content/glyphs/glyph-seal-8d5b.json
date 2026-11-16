@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d5b",
+  "script": "seal",
+  "character": "赛",
+  "reading": "sài",
+  "description": "比试\n⒈比较好坏、强弱、胜负比～。排球～。拔河～。\n⒉胜似，比得上一年～一年。能～过他。\n⒊旧时一种迷信活动，所谓\"酬报神灵\"而举行的祭典～神。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赛"
+}

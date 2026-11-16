@@ -1,0 +1,14 @@
+{
+  "id": "poem-f8f85bccdf43cb48309850f9",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "我孩儿不须挂牵，爹只望孩儿贵显。",
+    "若得你名登高选，(合)须早把信音传，须早把信音传。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4948",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-59fa65292ab5c2a6bc6d0a0d",
+  "title": "题包山",
+  "author": "皮日休",
+  "dynasty": "唐",
+  "verses": [
+    "一片烟村胜画图，四边波浪送清虚。",
+    "此中人若无租税，直是蓬瀛也不如。",
+    "（见《分门䉤类唐歌诗》残本第四册《天地山川类》。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-958461ca-1d08-4483-b6ee-53e7db173359"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ece05a1080507d804fe82b45",
+  "title": "书怀",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "自小信成疎嬾性，人间事事总无功。",
+    "别从仙客求方法，时到僧家问苦空。",
+    "老大登朝如梦里，贫穷作活似村中。",
+    "未能即便休官去，惭愧南山采药翁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-18a94893-e46a-4a0b-a892-934276cd8286"
+}

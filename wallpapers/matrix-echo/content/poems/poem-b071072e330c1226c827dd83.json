@@ -1,0 +1,20 @@
+{
+  "id": "poem-b071072e330c1226c827dd83",
+  "title": "小重山·雨过风来午暑清",
+  "author": "米友仁",
+  "dynasty": "宋",
+  "verses": [
+    "雨过风来午暑清。",
+    "榴花红照眼，向人明。",
+    "一枝低映宝钗横。",
+    "菖蒲酒，玉碗十分斟。",
+    "引满听新声。",
+    "小轩帘半卷，远山青。",
+    "几人闲处见闲情。",
+    "醒还醉，为趣妙难名。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-63",
+  "tags": []
+}

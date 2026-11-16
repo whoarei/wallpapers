@@ -1,0 +1,16 @@
+{
+  "id": "poem-2d7f3f8f396eb46b04ad4708",
+  "title": "题开元寺牡丹",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "此花南地知难种，惭愧僧闲用意栽。",
+    "海燕解怜频睥睨，胡蜂未识更徘徊。",
+    "虚生芍药徒劳妒，羞杀玫瑰不敢开。",
+    "惟有数苞红蕚在，含芳只待舍人来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-9baec9fe-04ce-4768-a180-4b89e4f877ae"
+}

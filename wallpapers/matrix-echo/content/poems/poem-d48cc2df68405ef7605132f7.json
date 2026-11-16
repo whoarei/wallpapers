@@ -1,0 +1,16 @@
+{
+  "id": "poem-d48cc2df68405ef7605132f7",
+  "title": "女冠子·霞帔云发",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "霞帔云发，钿镜仙容似雪。",
+    "画愁眉，遮语回轻扇，含羞下绣帷。",
+    "玉楼相望久，花洞恨来迟。",
+    "早晚乘鸾去，莫相遗。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-48",
+  "tags": []
+}

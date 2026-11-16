@@ -1,0 +1,16 @@
+{
+  "id": "poem-65bbe65987aea4fcaf9fa8ef",
+  "title": "环翠亭",
+  "author": "陈知柔",
+  "dynasty": "宋",
+  "verses": [
+    "当年把臂入龙山，犹记相逢醉梦间。",
+    "君似孤云了无碍，我如倦翼早知还。",
+    "茅簷负日真成算，竹榻论诗整破颜。",
+    "欲问太平真气象，夜来风月到松关。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-acc35d21-3349-4e88-bf4a-fa4d0252ba3f"
+}

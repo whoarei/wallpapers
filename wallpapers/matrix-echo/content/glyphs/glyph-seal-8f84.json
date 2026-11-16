@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f84",
+  "script": "seal",
+  "character": "辄",
+  "reading": "zhé",
+  "description": "专擅,独断专行,专权\n立即;就\n⒈就，立即，总是动～得咎。所言～听。\n⒉〈古〉专擅，独断专行～行征伐。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辄"
+}

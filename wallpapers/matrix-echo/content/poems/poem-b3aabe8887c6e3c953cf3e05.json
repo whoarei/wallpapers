@@ -1,0 +1,14 @@
+{
+  "id": "poem-b3aabe8887c6e3c953cf3e05",
+  "title": "偈颂七十一首  其二五",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "面壁堆危引客过，问谁那更问如何。",
+    "道寻常已成多事，检点侬家事更多。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-c8ce1013-80c2-4341-92c2-bcb114dd6ced"
+}

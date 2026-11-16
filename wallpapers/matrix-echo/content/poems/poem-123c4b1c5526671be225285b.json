@@ -1,0 +1,14 @@
+{
+  "id": "poem-123c4b1c5526671be225285b",
+  "title": "嘲聂崇义",
+  "author": "郭忠恕",
+  "dynasty": "宋",
+  "verses": [
+    "近贵全为聩，攀龙即是聋。",
+    "虽然三个耳，其奈不成聪。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-762664f3-8f43-49a4-8fa5-5ec8ca1dfc83"
+}

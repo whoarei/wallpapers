@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7c73",
+  "script": "kai",
+  "character": "米",
+  "reading": "mǐ",
+  "description": "mǐ：(1)谷类或其他植物的子实去了皮的名称小～。大～。稻～。～珠薪桂（米像珍珠；柴像桂木，形容物价昂贵，生活困难）。\n(2)国际长度单位（旧称公尺”米突”），一米等于三市尺。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-米"
+}

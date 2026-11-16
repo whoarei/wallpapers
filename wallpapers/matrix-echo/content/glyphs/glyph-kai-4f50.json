@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f50",
+  "script": "kai",
+  "character": "佐",
+  "reading": "zuǒ",
+  "description": "zuǒ：(1)辅助，帮助～证（证据）。～餐。\n(2)处于辅助地位的人僚～。\n(3)劝～食。～酒（ａ．陪伴喝酒；ｂ．就着菜肴把酒喝下去）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-佐"
+}

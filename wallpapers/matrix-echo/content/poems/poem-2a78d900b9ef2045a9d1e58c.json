@@ -1,0 +1,16 @@
+{
+  "id": "poem-2a78d900b9ef2045a9d1e58c",
+  "title": "下地日侍陆侍郎御䜩赋得落花（「下地日」，疑应作「下第日」。）",
+  "author": "王贞白",
+  "dynasty": "唐",
+  "verses": [
+    "何处足落花，漂泥与藉沙。",
+    "春深上林苑，日晚五侯家。",
+    "遍地轻难扫，当风势易斜。",
+    "无心媿蜂蝶，来岁即荣华。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-5b380166-5cf7-45f5-942c-37bc4d7c8a9a"
+}

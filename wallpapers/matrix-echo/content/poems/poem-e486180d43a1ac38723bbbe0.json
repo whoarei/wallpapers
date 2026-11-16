@@ -1,0 +1,15 @@
+{
+  "id": "poem-e486180d43a1ac38723bbbe0",
+  "title": "春日",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "浩荡东风里，裴回无所亲。",
+    "危城三面水，古树一边春。",
+    "衰世难修道，花时不称贫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ef6cc2fe-cf04-44b5-aa17-049709544d65"
+}

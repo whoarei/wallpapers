@@ -1,0 +1,16 @@
+{
+  "id": "poem-a166859519fe2e599f90d59e",
+  "title": "寄王平江侍郎  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "在御无弦别有音，音中逸响岂难寻。",
+    "一弹首詟乘轩贵，万古群空立仗瘖。",
+    "肆狡缺唇安夜穴，凭妖九尾远城阴。",
+    "双旌不驻夫差国，谁振延陵季子心。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-2b37b4dd-f049-4217-bf90-68d52d1b32f7"
+}

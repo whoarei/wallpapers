@@ -1,0 +1,18 @@
+{
+  "id": "poem-b040f2c3b5a35563d11006cc",
+  "title": "前腔换头",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "乡官可怜见，这是公婆命所关。",
+    "若是必须将去，宁可脱了奴衣裳，就问乡官换。",
+    "(丑白)不要，你身上寒冷。",
+    "(旦唱)宁使奴，身上寒。",
+    "只要与公婆，救残喘。",
+    "(丑夺谷介下)(旦介唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5043",
+  "tags": []
+}

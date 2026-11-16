@@ -1,0 +1,15 @@
+{
+  "id": "poem-a7fa9f20a11ed86d0513396c",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)出语大相欺，九州按抚是我为品级。",
+    "都堂爵位掌管一十五万官兵，权显达还乡里。",
+    "我妆旧时私探你，休泄漏莫与外人知。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8990",
+  "tags": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "poem-674615538af0bf6acb13480a",
+  "title": "滁州西涧",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "verses": [
+    "独怜幽草涧边生，上有黄鹂深树鸣。",
+    "春潮带雨晚来急，野渡无人舟自横。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "春",
+    "山水",
+    "写景",
+    "抒情",
+    "初中古诗",
+    "七言绝句",
+    "水",
+    "七年级下册(课外)"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-0ae0e3bd-a32e-481f-9719-b283da2da964"
+}

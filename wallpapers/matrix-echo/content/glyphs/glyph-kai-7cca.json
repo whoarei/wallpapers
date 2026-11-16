@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7cca",
+  "script": "kai",
+  "character": "糊",
+  "reading": "hú；hū；hù",
+  "description": "hū：涂抹或粘合使封闭起来～了一层泥。\nhú：(1)粘合，涂附裱～。～墙。～窗户。\n(2)粥类～口。\n(3)同煳”。\n〔～涂〕ａ．不明事理；认识凝混乱，如他太～～了”；ｂ．内容混乱的，如～～账”。\nhù：(1)像粥一样的食物面～。辣椒～。\n(2)欺骗，蒙混，敷衍～弄。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-糊"
+}

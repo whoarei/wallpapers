@@ -1,0 +1,16 @@
+{
+  "id": "poem-43b6c4e2c16f5007290e4da9",
+  "title": "江村",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "清江一曲抱村流，长夏江村事事幽。",
+    "自去自来梁上燕，相亲相近水中鸥。",
+    "老妻画纸为棋局，稚子敲针作钓钩。",
+    "多病所须惟药物，微躯此外更何求。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-江村"
+}

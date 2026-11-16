@@ -1,0 +1,14 @@
+{
+  "id": "poem-a9b5e43b3bd92e84ea4f486c",
+  "title": "杨柳枝·春入行宫映翠微",
+  "author": "皇甫松",
+  "dynasty": "唐",
+  "verses": [
+    "春入行宫映翠微，玄宗侍女舞烟丝。",
+    "如今柳向空城绿，玉笛何人更把吹。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-20",
+  "tags": []
+}

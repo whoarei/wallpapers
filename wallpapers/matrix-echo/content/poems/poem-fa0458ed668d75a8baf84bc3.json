@@ -1,0 +1,16 @@
+{
+  "id": "poem-fa0458ed668d75a8baf84bc3",
+  "title": "林主簿明仲挽词  其一",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "齿德尊乡党，匈中有古今。",
+    "箕裘传蕴藻，臧否判崔林。",
+    "呼佛知仁政，名轩见道心。",
+    "扁舟欲访戴，仙去不容寻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-e917cec5-ab87-40e7-b7da-1ef94e525737"
+}

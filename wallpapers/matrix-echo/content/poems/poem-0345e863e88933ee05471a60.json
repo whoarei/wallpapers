@@ -1,0 +1,18 @@
+{
+  "id": "poem-0345e863e88933ee05471a60",
+  "title": "大隐坊 赵记室俶在职无事",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "卑静身后老，高动物先摧。",
+    "方圆水任器，刚劲木成灰。",
+    "大道母群物，达人腹众才。",
+    "时吟尧舜篇，心向无为开。",
+    "彼隐山万曲，我隐酒一杯。",
+    "公庭何所有，日日清风来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-e2dd3fa6-35ad-47a2-bc87-9f4ce44faf33"
+}

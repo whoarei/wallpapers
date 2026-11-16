@@ -1,0 +1,16 @@
+{
+  "id": "poem-6255408ec3726ac383c3a511",
+  "title": "和尹谏议史馆山池",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "云馆接天居，霓裳侍玉除。",
+    "春池百子外，芳树万年余。",
+    "洞有仙人箓，山藏太史书。",
+    "君恩深汉帝，且莫上空虚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-91b9a8a5-a751-4edc-8d7d-9ba0ff428022"
+}

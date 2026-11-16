@@ -1,0 +1,22 @@
+{
+  "id": "poem-104799c626424e3185dc2ecf",
+  "title": "短歌行赠王郎司直",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "王郎酒酣拔劒斫地歌莫哀，我能拔尔抑塞磊落之奇才。",
+    "豫章翻风白日动，鲸鱼跋浪沧溟开。",
+    "且脱佩劒休裴回，西得诸侯櫂锦水。",
+    "欲向何门趿珠履，仲宣楼头春色深。",
+    "青眼高歌望吾子，眼中之人吾老矣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "悲伤",
+    "抒情",
+    "送别",
+    "怀才不遇"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7d187686-9944-4690-bc0c-5716539e1a1d"
+}

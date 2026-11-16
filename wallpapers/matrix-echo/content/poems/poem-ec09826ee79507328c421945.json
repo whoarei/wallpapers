@@ -1,0 +1,18 @@
+{
+  "id": "poem-ec09826ee79507328c421945",
+  "title": "法寿乐歌",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "西云垂天飞流黄，宝鬘百万随风扬，帝居摩醯首罗乡。",
+    "采女如花侍帝旁，珠啼玉唾天花香，澹然神情无世妆。",
+    "下视邢尹纷醒狂，梵呗琅琅出清吭，天庖供馔荐豆觞。",
+    "帝饮食之寿以康，恒沙世界俱来王，天王神圣臣忠良。",
+    "春风万里酣耕桑，雨滴可数海可量，无有能知法寿长。",
+    "梵天释帝万亿岁，岁岁寿杯天下醉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-b2b575c3-ac6b-44ef-91fb-9d2bf35929af"
+}

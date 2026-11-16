@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f81",
+  "script": "seal",
+  "character": "羁",
+  "reading": "jī",
+  "description": "古代女孩留在头顶像马络头一般的头发\n套上笼头\n⒈马笼头白马饰金～。〈引〉拘束，束缚～绊。放荡不～。\n⒉停留～留。\n⒊寄居在外，寄居在外的人或外乡人～旅。弃亲用～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-羁"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-247a9bf5434d107b76ea0804",
+  "title": "大觉高僧兰若",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "巫山不见庐山远，松林兰若秋风晚。",
+    "一老犹鸣日暮钟，诸僧尚乞斋时饭。",
+    "香炉峰色隐晴湖，种杏仙家近白榆。",
+    "飞锡去年啼邑子，献花何日许门徒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d549304d-762c-49d7-a661-d008586a3ec1"
+}

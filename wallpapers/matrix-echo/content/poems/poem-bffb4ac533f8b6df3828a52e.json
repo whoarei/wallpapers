@@ -1,0 +1,16 @@
+{
+  "id": "poem-bffb4ac533f8b6df3828a52e",
+  "title": "望鹤林寺",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "鹤栖峰下青莲宇，花发江城世界春。",
+    "红照日高殷夺火，紫凝霞曙莹销尘。",
+    "每思载酒悲前事，欲问题诗想旧身。",
+    "自叹秋风劳物役，白头拘束一闲人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-2041eb8c-12af-4d50-a54a-43cc1414f9eb"
+}

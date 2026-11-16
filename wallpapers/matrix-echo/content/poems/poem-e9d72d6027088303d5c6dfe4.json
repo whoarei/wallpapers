@@ -1,0 +1,14 @@
+{
+  "id": "poem-e9d72d6027088303d5c6dfe4",
+  "title": "郊庙歌辞 武后享清庙乐章十首 第四迎神",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "敬奠苹藻，式罄虔襟。",
+    "洁诚斯展，伫降灵歆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-eb8e35db-a91a-46ca-8cde-7864b5e5e249"
+}

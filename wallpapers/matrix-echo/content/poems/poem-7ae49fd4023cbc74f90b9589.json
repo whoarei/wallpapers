@@ -1,0 +1,15 @@
+{
+  "id": "poem-7ae49fd4023cbc74f90b9589",
+  "title": "唐明堂乐章 配飨",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "笙镛间玉宇，文物昭清辉。",
+    "晬影临芳奠，休光下太微。",
+    "孝思期有感，明絜庶无违。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-9f23da9b-b91b-4673-b628-562e0a371b16"
+}

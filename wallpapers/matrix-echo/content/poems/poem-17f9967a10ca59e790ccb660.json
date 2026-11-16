@@ -1,0 +1,15 @@
+{
+  "id": "poem-17f9967a10ca59e790ccb660",
+  "title": "荷叶杯·我忆君诗最苦",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "我忆君诗最苦，知否。",
+    "字字尽关心，红笺写寄表情深。",
+    "吟么吟，吟么吟。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-26"
+}

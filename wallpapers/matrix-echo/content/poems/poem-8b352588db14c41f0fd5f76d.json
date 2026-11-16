@@ -1,0 +1,14 @@
+{
+  "id": "poem-8b352588db14c41f0fd5f76d",
+  "title": "杏园",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "杏苑箫声好醉乡，春风嘉宴更无双。",
+    "凭谁为谑穆天子，莫把瑶池并曲江。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e033b3ed-18e6-49e0-80fe-c3d9889a1eae"
+}

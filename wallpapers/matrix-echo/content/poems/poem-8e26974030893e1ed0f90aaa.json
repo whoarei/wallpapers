@@ -1,0 +1,14 @@
+{
+  "id": "poem-8e26974030893e1ed0f90aaa",
+  "title": "今岁兰柳相先梅最后  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "长是年年趁雪妍，一鞭迟著笑今年。",
+    "姓名虽在百花上，终不敢为天下先。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-9a21f629-7e8b-403b-bd0d-487e89169cc1"
+}

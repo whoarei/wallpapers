@@ -1,0 +1,16 @@
+{
+  "id": "poem-7629e68d6e7450f974ac5bac",
+  "title": "寒夜有怀同志",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "永夜殊不寐，怀君正寂寥。",
+    "疎钟寒徧郭，微雪静鸣条。",
+    "南省鴈孤下，西林鹤屡招。",
+    "终当谢时去，与子住山椒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-2b8602c2-0ace-4c49-a762-6de52f3353a0"
+}

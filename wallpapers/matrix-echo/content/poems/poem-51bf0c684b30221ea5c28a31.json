@@ -1,0 +1,16 @@
+{
+  "id": "poem-51bf0c684b30221ea5c28a31",
+  "title": "寄菖蒲",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "石上生菖蒲，一寸十二节。",
+    "仙人劝我食，令我头青面如雪。",
+    "逢人寄君一绛囊，书中不得传此方。",
+    "君能来作栖霞侣，与君同入丹玄乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-08a57734-3ccb-4ba5-bfe5-a33ac611c1af"
+}

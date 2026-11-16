@@ -1,0 +1,15 @@
+{
+  "id": "poem-c4d707e8614ad5b767763177",
+  "title": "唐享昊天乐 第一",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "太阴凝至化，真耀蕴轩仪。",
+    "德迈娥台敞，仁高[姒]幄披。",
+    "扪天遂启极，梦日乃升曦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-23c871de-760f-4030-a5f2-3abe14c67d01"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-87fadb4895bd49952099c436",
+  "title": "寄张仲甫",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "悲风生旧浦，云岭隔东田。",
+    "伏腊同鸡黍，柴门闭雪天。",
+    "孤村明夜火，稚子候归船。",
+    "静者心相忆，离居畏度年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-ee1af307-1e4b-4b18-a2d9-1194784cae0a"
+}

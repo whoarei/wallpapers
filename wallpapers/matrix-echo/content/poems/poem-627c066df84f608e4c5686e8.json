@@ -1,0 +1,14 @@
+{
+  "id": "poem-627c066df84f608e4c5686e8",
+  "title": "镜湖雪霁贻方干",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "天外晓岚和雪望，月中归棹带冰行。",
+    "相逢半醉吟诗苦，应抵寒猨褭树声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3493b6cf-3c6e-449e-977f-e318c970d58e"
+}

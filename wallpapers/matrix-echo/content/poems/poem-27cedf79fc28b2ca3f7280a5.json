@@ -1,0 +1,14 @@
+{
+  "id": "poem-27cedf79fc28b2ca3f7280a5",
+  "title": "都梁十景诗 龟山寺晚钟",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "龟峰高耸接云楼，撞月钟声吼铁牛。",
+    "一百八声俱听彻，夜行犹自不知休。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-549e4293-6aad-4f60-9d6d-05a88ee5be18"
+}

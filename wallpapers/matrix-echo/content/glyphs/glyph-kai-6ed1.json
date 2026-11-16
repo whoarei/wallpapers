@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6ed1",
+  "script": "kai",
+  "character": "滑",
+  "reading": "huá",
+  "description": "huá：(1)光溜，不粗涩～溜。光～。～润。～利。\n(2)在光溜的物体表面上溜动～冰。～雪。～行。～翔。～梯。～坡。\n(3)狡诈，不诚实～头。狡～。～头～脑。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-滑"
+}

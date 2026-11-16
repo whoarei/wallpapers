@@ -1,0 +1,14 @@
+{
+  "id": "poem-270944712429f80721c2abb1",
+  "title": "过春秋峡",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "峭壁苍苍苔色新，无风晴景自胜春。",
+    "不知何树幽崖里，腊月开花似北人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-60e1af46-66be-43d8-a2ad-94a12302cab2"
+}

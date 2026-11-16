@@ -1,0 +1,18 @@
+{
+  "id": "poem-b83dae314a033e605ba625e2",
+  "title": "詶愿公雪中见寄",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "积雪三十日，车马路不通。",
+    "贫病交亲绝，想忆唯愿公。",
+    "春鸠报春归，苦寒生暗风。",
+    "簷乳堕悬玉，日脚浮轻红。",
+    "梅柳意却活，园圃冰始融。",
+    "更候四体好，方可到寺中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c8cf8714-e532-4480-b383-40518617e24c"
+}

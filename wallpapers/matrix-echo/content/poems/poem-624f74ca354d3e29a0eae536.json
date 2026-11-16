@@ -1,0 +1,16 @@
+{
+  "id": "poem-624f74ca354d3e29a0eae536",
+  "title": "龙池寺望月寄韦使君阎别驾",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "清光此夜中，万古望应同。",
+    "当野山沈雾，低城树有风。",
+    "花宫纷共邃，水府皓相空。",
+    "遥想高楼上，唯君对庾公。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-648d56c4-71c8-4613-96bb-c1a7e960c20b"
+}

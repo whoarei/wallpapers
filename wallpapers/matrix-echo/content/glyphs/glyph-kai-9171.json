@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9171",
+  "script": "kai",
+  "character": "酱",
+  "reading": "jiàng",
+  "description": "用麦、面、豆等发酵制成的调味品\n将鱼、肉、蔬、果捣烂制成的糊状食品\n用酱或酱油腌制\n⒈豆、麦等经过发酵制成的调味品甜～。辣椒～。豆瓣～。\n⒉用酱腌制或加有酱的食品～肉。～黄瓜。杂～面。\n⒊像酱样子的糊状食品肉～。虾～。蕃茄～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-酱"
+}

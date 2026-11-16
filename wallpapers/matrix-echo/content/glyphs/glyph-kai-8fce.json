@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8fce",
+  "script": "kai",
+  "character": "迎",
+  "reading": "yíng",
+  "description": "yíng：(1)接～接。欢～。～宾。～候。\n(2)面对着，冲着～面。～风（ａ．对着风；ｂ．随风）。～刃而解（jiě）。\n(3)揣度别人心意而投其所好逢～。～合。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-迎"
+}

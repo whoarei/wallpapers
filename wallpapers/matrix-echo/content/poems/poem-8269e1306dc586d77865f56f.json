@@ -1,0 +1,14 @@
+{
+  "id": "poem-8269e1306dc586d77865f56f",
+  "title": "头陀岭无相院",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "头陀岭下招提境，画阁阑干几度凭。",
+    "游客骤来还倏去，看山输与在家僧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-e5d4d34a-eb8f-49e8-b891-c374d2d1ef60"
+}

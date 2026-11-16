@@ -1,0 +1,20 @@
+{
+  "id": "poem-31fe60d987709544e423f3a7",
+  "title": "塞北二首 二",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "胡骑犯边埃，风从丑上来。",
+    "五原烽火急，六郡羽书催。",
+    "冰壮飞狐[冷]，霜浓候雁哀。",
+    "将军朝授钺，战士夜衔枚。",
+    "紫塞金河里，葱山铁勒隈。",
+    "莲花秋劒发，桂叶晓旗开。",
+    "秘略三军动，妖氛百战摧。",
+    "何言投笔去，终作勒铭回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a611c4f0-e97c-4cb1-ab4c-fcd5b4a8a19d"
+}

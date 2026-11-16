@@ -1,0 +1,16 @@
+{
+  "id": "poem-e06e2398d12af7b79cf556e3",
+  "title": "赠王秘书",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "不曾浪出谒公侯，唯向花间水畔游。",
+    "每著新衣看药灶，多收古器在书楼。",
+    "有官祗作山人老，平地能开洞穴幽。",
+    "自领闲司了无事，得来君处喜相留。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-05bf7ea8-b98c-4a8c-b488-557dc2ae0db6"
+}

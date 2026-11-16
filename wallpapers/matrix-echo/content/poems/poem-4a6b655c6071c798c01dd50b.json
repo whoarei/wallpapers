@@ -1,0 +1,14 @@
+{
+  "id": "poem-4a6b655c6071c798c01dd50b",
+  "title": "献蔡京",
+  "author": "张顶",
+  "dynasty": "唐",
+  "verses": [
+    "抛却长竿卷却丝，手持蓑笠献新诗。",
+    "临川太守清如镜，不是渔人下钓时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e3bb0eb8-5bf2-4489-9edf-1ff56178c787"
+}

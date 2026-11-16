@@ -1,0 +1,14 @@
+{
+  "id": "poem-7d94e23577141860331c2c96",
+  "title": "咏史诗 铜柱",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "一柱高标险塞垣，南蛮不敢犯中原。",
+    "功成自合分茅土，何事翻衔薏苡冤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-54405bf9-eca3-4359-8277-360a11b913cb"
+}

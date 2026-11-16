@@ -1,0 +1,16 @@
+{
+  "id": "poem-728c6834c01a3abdff36b405",
+  "title": "送杜御史还广陵",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "慙君从弱岁，顾我比诸昆。",
+    "同事元戎久，俱承国士恩。",
+    "随莺过淮水，看柳向辕门。",
+    "草色金陵岸，思心那可论。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7001236e-1245-48ce-af89-43614dce03bd"
+}

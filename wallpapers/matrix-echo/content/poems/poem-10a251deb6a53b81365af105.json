@@ -1,0 +1,20 @@
+{
+  "id": "poem-10a251deb6a53b81365af105",
+  "title": "减字木兰花·距春五日",
+  "author": "程大昌",
+  "dynasty": "宋",
+  "verses": [
+    "距春五日。",
+    "吉语搀先来饮席。",
+    "易卦占新。",
+    "八八周轮又再轮。",
+    "开年定好。",
+    "定把笙歌更药裹。",
+    "旧怕无孙。",
+    "今已蓝袍拥绣荪。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-232",
+  "tags": []
+}

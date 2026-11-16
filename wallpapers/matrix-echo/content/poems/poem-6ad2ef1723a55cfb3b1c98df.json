@@ -1,0 +1,16 @@
+{
+  "id": "poem-6ad2ef1723a55cfb3b1c98df",
+  "title": "得信酬回",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "人回忽得信，具委书中情。",
+    "覊思顿虽豁，忆君心转盈。",
+    "自怜飘泊者，邂逅闭荒城。",
+    "欲识肝肠断，更深听叫声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-2dc60e5c-6dbc-43bc-9dd6-528ab3a212f7"
+}

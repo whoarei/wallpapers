@@ -1,0 +1,19 @@
+{
+  "id": "poem-7c2c88122caaee9bc83cdc04",
+  "title": "中和节赐群臣宴赋七韵",
+  "author": "德宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "东风变梅柳，万汇生春光。",
+    "中和纪月令，方与天地长。",
+    "耽乐岂予尚，懿兹时景良。",
+    "庶遂亭育恩，同致寰海康。",
+    "君臣永终始，交泰符阴阳。",
+    "曲沼水新碧，华林桃稍芳。",
+    "胜赏信多欢，戒之在无荒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-9f07ad1d-8a95-4e2f-984d-b2f35a057ca6"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-661dedf8fb021acfea4c8dcc",
+  "title": "开圣寺",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "西去山门五里程，粉牌书字甚分明。",
+    "萧帝坏陵深虎迹，广师遗院闭松声。",
+    "长廊画剥僧形影，古壁尘昏客姓名。",
+    "何必更将空理遣，眼前人事已浮生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-0d3d1cb6-94b8-401c-b450-182b2b5991b3"
+}

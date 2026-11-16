@@ -1,0 +1,16 @@
+{
+  "id": "poem-892b7c1702830e5b3c0bdd14",
+  "title": "逢王泌自东京至",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "逢君自乡至，雪涕问田园。",
+    "几处生乔木，谁家在旧村。",
+    "山峰横二室，水色映千门。",
+    "愁见游从处，如今花正繁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-0a3c8ec7-42d7-48b9-90df-b961b50d2a28"
+}

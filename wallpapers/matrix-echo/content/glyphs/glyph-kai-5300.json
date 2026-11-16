@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5300",
+  "script": "kai",
+  "character": "匀",
+  "reading": "yún",
+  "description": "yún：(1)平均，使平均均～。～称（chèn）。\n(2)抽出一部给别人或做别用～兑（让一部分给别人）。～摊。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-匀"
+}

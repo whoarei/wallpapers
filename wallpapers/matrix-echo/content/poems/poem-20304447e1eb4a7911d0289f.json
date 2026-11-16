@@ -1,0 +1,18 @@
+{
+  "id": "poem-20304447e1eb4a7911d0289f",
+  "title": "风不鸣条",
+  "author": "姚鹄",
+  "dynasty": "唐",
+  "verses": [
+    "吾君理化清，上瑞报时平。",
+    "晓吹何曾歇，柔条自不鸣。",
+    "花香知暗度，柳动觉潜生。",
+    "只见低垂影，那闻击触声。",
+    "大王初溥畅，少女正轻盈。",
+    "幸遇无私力，幽芳愿发荣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-217e20a4-f217-4632-9c40-8783c5be5eab"
+}

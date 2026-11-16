@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-77db",
+  "script": "seal",
+  "character": "矛",
+  "reading": "máo",
+  "description": "máo：古代用来刺杀敌人的长柄兵器～头。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-矛"
+}

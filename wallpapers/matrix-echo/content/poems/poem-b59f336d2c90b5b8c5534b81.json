@@ -1,0 +1,17 @@
+{
+  "id": "poem-b59f336d2c90b5b8c5534b81",
+  "title": "遣兴五首 二",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "昔者庞德公，未曾入州府。",
+    "襄阳耆旧间，处士节独苦。",
+    "岂无济时策，终竟畏罗罟。",
+    "林茂鸟有归，水深鱼知聚。",
+    "举家依鹿门，刘表焉得取。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-914f158e-3c55-4db4-84bb-0f8a4b620f1d"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-59da",
+  "script": "seal",
+  "character": "姚",
+  "reading": "yáo",
+  "description": "yáo：(1)美好的样子～冶（妖艳）。\n(2)姓。\n(3)古同遥”，远。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-姚"
+}

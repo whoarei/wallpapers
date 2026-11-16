@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9cbd",
+  "script": "seal",
+  "character": "鲽",
+  "reading": "dié",
+  "description": "比目鱼的一种\n鲽dié 1.鱼名。比目鱼的一类。即鲽科比目鱼。体侧扁，像薄片，长椭圆形，有细鳞，两眼都在右侧。生活在浅海中，左侧向下卧在沙底。\n鲽zhá 1.见\"魻鲽\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲽"
+}

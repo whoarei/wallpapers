@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-52ab",
+  "script": "seal",
+  "character": "劫",
+  "reading": "jié",
+  "description": "jié：(1)强取，掠夺～掠。洗～。～道。～富济贫。\n(2)威逼，胁制～持（要挟，挟持）。～制。\n(3)灾难～数（shù）（佛教指注定的灾难）。～难（nàn）∑～（大灾难）。遭～。～后余生。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-劫"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f9e7267d77e345ff0dc4f448",
+  "title": "马嵬感事",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "冷气生深殿，狼星渡远关。",
+    "九城鼙鼓内，千骑道途间。",
+    "凤髻随秋草，銮舆入暮山。",
+    "恨多留不得，悲泪满龙颜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-1f12e4d4-7d21-47f0-9ce9-469675b1da62"
+}

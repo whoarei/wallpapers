@@ -1,0 +1,16 @@
+{
+  "id": "poem-766a570b626549ee947ec425",
+  "title": "尹令",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "它命又合孤令，奴家又合孤令。",
+    "方得二月安静，教奴又成愁闷。",
+    "(末净)闻伊丈夫，今直欲到帝京。",
+    "(末)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2568",
+  "tags": []
+}

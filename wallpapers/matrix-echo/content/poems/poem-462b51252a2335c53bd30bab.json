@@ -1,0 +1,13 @@
+{
+  "id": "poem-462b51252a2335c53bd30bab",
+  "title": "句",
+  "author": "李潭",
+  "dynasty": "唐",
+  "verses": [
+    "人过远村秋日晚，鸟飞平野暮天空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-460f31de-51f2-4ff1-8dd7-9d69dbb32e5f"
+}

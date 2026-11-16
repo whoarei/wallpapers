@@ -1,0 +1,15 @@
+{
+  "id": "poem-7d2e6ab3b6bcc3e22d426bb7",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "你夺将去，真可怜，公婆望奴奴不见。",
+    "纵然他不埋怨，道我做媳妇还何干？他忍饥，添我夫罪愆。",
+    "怎得见，我夫面？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5044",
+  "tags": []
+}

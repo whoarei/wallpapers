@@ -1,0 +1,16 @@
+{
+  "id": "poem-228bc9a3a17d43bfb29174aa",
+  "title": "秋日二首 一",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "菊散金风起，荷疎玉露圆。",
+    "将秋数行雁，离夏几林蝉。",
+    "云凝愁半岭，霞碎缬高天。",
+    "还似成都望，直见峨眉前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ff2b3cb0-be10-47e9-986f-3fa62c69e727"
+}

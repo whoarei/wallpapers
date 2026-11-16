@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6811",
+  "script": "kai",
+  "character": "树",
+  "reading": "shù",
+  "description": "种植\n⒈木本植物的总称～木。六棵大～。松～。柏～。植～造林。\n⒉种植，栽培，培养～植草木。十年～木，百年～人。\n⒊竖立，建立～立。～雄心。～新风。独～一帜。\n⒋量词。株，棵种甘桔千～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-树"
+}

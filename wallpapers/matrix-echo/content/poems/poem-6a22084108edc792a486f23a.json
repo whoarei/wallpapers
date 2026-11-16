@@ -1,0 +1,14 @@
+{
+  "id": "poem-6a22084108edc792a486f23a",
+  "title": "防有鹊巢",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "防有鹊巢，邛有旨苕。谁侜予美？心焉忉忉。",
+    "中唐有甓，邛有旨鹝。谁侜予美？心焉惕惕。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-141"
+}

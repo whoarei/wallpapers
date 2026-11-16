@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6bdb",
+  "script": "seal",
+  "character": "毛",
+  "reading": "máo",
+  "description": "máo：(1)动植物的皮上所生的丝状物～笔。羽～。～织品。～骨悚然。轻于鸿～。\n(2)像毛的东西，指谷物或草不～之地。\n(3)衣物上的霉菌老没见太阳都长～了。\n(4)粗糙，没有加工的～布。～估（粗略地估计）。～坯。\n(5)不是纯净的～利。～重。\n(6)行动急躁～躁。\n(7)惊慌失措，主意乱了把他吓～了。\n(8)小～病。～孩子。～～雨。\n(9)货币贬值钱～了。\n(10)量词，用于钱币，等于角”，一圆钱的十分之一两～钱。\n(11)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-毛"
+}

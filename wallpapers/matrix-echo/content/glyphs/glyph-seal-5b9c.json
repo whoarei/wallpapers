@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b9c",
+  "script": "seal",
+  "character": "宜",
+  "reading": "yí",
+  "description": "yí：(1)适合，适当～人。～于∠～。权～。适～。相～。\n(2)应该，应当事不～迟。\n(3)当然，无怪～其无往而不利也。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宜"
+}

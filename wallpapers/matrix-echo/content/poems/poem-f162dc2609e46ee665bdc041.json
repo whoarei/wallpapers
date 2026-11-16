@@ -1,0 +1,14 @@
+{
+  "id": "poem-f162dc2609e46ee665bdc041",
+  "title": "观雪",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "月姊封银界，龙君幻玉壶。",
+    "江南三尺雪，人道十年无。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-4d5956ed-09fd-4fc7-b20d-dbdf0b0b4b1d"
+}

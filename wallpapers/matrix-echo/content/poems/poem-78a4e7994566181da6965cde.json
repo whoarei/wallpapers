@@ -1,0 +1,14 @@
+{
+  "id": "poem-78a4e7994566181da6965cde",
+  "title": "宿疏山戏成一绝",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "疏山缘熟岂无由，暂到人人识故侯。",
+    "临别慇勤语禅子，秪来托宿不来游。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-8e7b4d19-e5bb-41ea-a0a4-30cefbd1a338"
+}

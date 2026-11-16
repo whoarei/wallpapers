@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9ed4",
+  "script": "seal",
+  "character": "黔",
+  "reading": "qián",
+  "description": "qián：(1)黑色～首。\n(2)中国贵州省的别称～剧（贵州地方戏曲剧种）。～驴技穷。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-黔"
+}

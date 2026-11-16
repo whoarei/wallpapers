@@ -1,0 +1,17 @@
+{
+  "id": "poem-403a0de2a7f86b20cb7fa6a8",
+  "title": "一撮棹",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "宽心等，何须苦牵萦？(外)把音书写，但频频寄邮亭。",
+    "(贴)老姥姥，爹年老，我去呵，伊家须好看承。",
+    "(合)程途里，只愿保安宁。",
+    "死别全无准，生离又难定。",
+    "今去也，何日到京城？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5254",
+  "tags": []
+}

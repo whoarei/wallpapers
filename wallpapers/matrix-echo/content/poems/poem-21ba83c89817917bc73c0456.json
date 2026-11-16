@@ -1,0 +1,16 @@
+{
+  "id": "poem-21ba83c89817917bc73c0456",
+  "title": "杂怨 一",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "生在绮罗下，岂识渔阳道。",
+    "良人自戍来，夜夜梦中到。",
+    "渔阳万里远，近于中门限。",
+    "中门逾有时，渔阳常在眼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-5df61077-fba8-4222-8053-1fa969c5adab"
+}

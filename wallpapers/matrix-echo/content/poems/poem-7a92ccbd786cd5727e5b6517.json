@@ -1,0 +1,14 @@
+{
+  "id": "poem-7a92ccbd786cd5727e5b6517",
+  "title": "十二月",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "这声响似春雷降临，火炮相侵，惊得冰肌凛凛，冷汗浸浸。",
+    "不见了宋玉多才的翰林，撇下这巫娥美貌难禁。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4509",
+  "tags": []
+}

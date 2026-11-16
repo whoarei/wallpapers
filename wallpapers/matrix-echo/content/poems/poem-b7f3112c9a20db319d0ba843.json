@@ -1,0 +1,14 @@
+{
+  "id": "poem-b7f3112c9a20db319d0ba843",
+  "title": "诫贪",
+  "author": "子兰",
+  "dynasty": "唐",
+  "verses": [
+    "多求待心足，未足旋倾覆。",
+    "明知贪者心，求荣不求辱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-5a4daf63-3283-4120-b40d-bcd25d7bd807"
+}

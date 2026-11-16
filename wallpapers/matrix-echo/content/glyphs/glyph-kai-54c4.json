@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-54c4",
+  "script": "kai",
+  "character": "哄",
+  "reading": "hǒng；hōng；hòng",
+  "description": "hōng：好多人同时发声～传（chuán）。～动。\nhǒng：(1)说假话骗人～人。～弄。～骗。\n(2)用语言或行动逗人喜欢～逗。～劝。～小孩儿。\nhòng：吵闹，搅扰起～（故意吵闹扰乱，亦指开玩笑）。～场（指观众喝倒彩）。～抢。一～而起。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哄"
+}

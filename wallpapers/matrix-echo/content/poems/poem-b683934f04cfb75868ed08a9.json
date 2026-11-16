@@ -1,0 +1,14 @@
+{
+  "id": "poem-b683934f04cfb75868ed08a9",
+  "title": "晚思",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "蛩余窗下月，草湿堦前露。",
+    "晚景凄我衣，秋风入庭树。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-fe83cf62-7214-467e-ac9a-f776ab75a95b"
+}

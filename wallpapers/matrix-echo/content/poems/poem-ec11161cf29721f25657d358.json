@@ -1,0 +1,22 @@
+{
+  "id": "poem-ec11161cf29721f25657d358",
+  "title": "初冬从幸汉故青门应制",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "汉王建都邑，渭水对青门。",
+    "朝市俱东逝，坟陵共北原。",
+    "荒凉萧相阙，芜没邵平园。",
+    "全盛今何在，英雄难重论。",
+    "故基仍岳立，遗堞尚云屯。",
+    "当极土功壮，安知人力烦。",
+    "天游戒东首，怀昔驻龙轩。",
+    "何必金汤固，无如道德藩。",
+    "微臣谅多幸，参乘偶殊恩。",
+    "预此陈古事，敢奏兴亡言。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-0bc62fb4-dd3d-40ed-8ee5-11dafbefe8a0"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9756",
+  "script": "seal",
+  "character": "靖",
+  "reading": "jìng",
+  "description": "jìng：(1)平安，安静～冥（幽深闲静）。～默。\n(2)平定，使秩序安定绥～。～难（nàn）（平定叛乱）。\n(3)图谋，谋议实～夷我邦”。\n(4)恭敬士处～，敬老与贵，交不失礼。”\n(5)古同静”，静止。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-靖"
+}

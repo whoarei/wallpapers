@@ -1,0 +1,15 @@
+{
+  "id": "poem-d808fbbd5f53d6401b0dc887",
+  "title": "鸿雁",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "鸿雁于飞，肃肃其羽。之子于征，劬劳于野。爰及矜人，哀此鳏寡。",
+    "鸿雁于飞，集于中泽。之子于垣，百堵皆作。虽则劬劳，其究安宅？",
+    "鸿雁于飞，哀鸣嗷嗷。维此哲人，谓我劬劳。维彼愚人，谓我宣骄。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-180"
+}

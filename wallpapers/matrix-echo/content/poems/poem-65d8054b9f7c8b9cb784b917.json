@@ -1,0 +1,14 @@
+{
+  "id": "poem-65d8054b9f7c8b9cb784b917",
+  "title": "狂题十八首 七",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "老禅乘仗莫过身，远岫孤云见亦频。",
+    "应是佛边犹怕闹，信缘须作且闲人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-b794d29b-4f8e-4a4b-847c-4371fdf15c04"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62fd",
+  "script": "kai",
+  "character": "拽",
+  "reading": "zhuài；zhuāi；yè",
+  "description": "zhuài：拉，牵引～住。～不动。\nzhuāi：(1)用力扔把球～过来。\n(2)胳膊有病，转动不灵。\nyè：同曳”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拽"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-8f1120647442651199da7dbf",
+  "title": "醉翁子",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "非悭。",
+    "论治家千难万难，休只管吃得瓮尽杯干。",
+    "［丑］今番，庆生席面，难做寻常一例看。",
+    "［合］重换盏，直饮到月转花梢，影上阑杆。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8033",
+  "tags": []
+}

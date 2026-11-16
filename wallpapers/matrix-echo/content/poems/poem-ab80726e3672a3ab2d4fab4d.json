@@ -1,0 +1,16 @@
+{
+  "id": "poem-ab80726e3672a3ab2d4fab4d",
+  "title": "渔父词・渔父·春入渭阳花气多",
+  "author": "赵构",
+  "dynasty": "宋",
+  "verses": [
+    "春入渭阳花气多。",
+    "春归时节自清和。",
+    "冲晓雾，弄沧波。",
+    "载与俱归又若何。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-226",
+  "tags": []
+}

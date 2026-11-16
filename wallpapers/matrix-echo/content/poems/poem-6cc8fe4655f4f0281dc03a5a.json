@@ -1,0 +1,15 @@
+{
+  "id": "poem-6cc8fe4655f4f0281dc03a5a",
+  "title": "风流子·金络玉衔嘶马",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "金络玉衔嘶马，系向绿杨阴下。",
+    "朱户掩，绣帘垂，曲院水流花谢。",
+    "欢罢，归也，犹在九衢深夜。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-27"
+}

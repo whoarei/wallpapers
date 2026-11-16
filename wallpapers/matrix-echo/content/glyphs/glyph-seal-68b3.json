@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-68b3",
+  "script": "seal",
+  "character": "梳",
+  "reading": "shū",
+  "description": "shū：(1)整理头发的用具木～。角～。\n(2)用梳子整理头发～头。～洗（梳头洗脸）。～妆。～辫子（喻把纷繁的事项、问题等进行分析归类）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梳"
+}

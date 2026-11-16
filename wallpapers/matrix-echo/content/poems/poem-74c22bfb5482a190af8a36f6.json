@@ -1,0 +1,14 @@
+{
+  "id": "poem-74c22bfb5482a190af8a36f6",
+  "title": "和秉国芙蓉五章  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "北方稀见诚奇物，笔界轻丝指捻红。",
+    "楚蜀可怜人不赏，墙根屋角数无穷。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-971d901c-d58c-425f-824a-f45112bc9946"
+}

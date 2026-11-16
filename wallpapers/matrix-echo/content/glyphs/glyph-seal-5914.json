@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5914",
+  "script": "seal",
+  "character": "夔",
+  "reading": "kuí",
+  "description": "kuí：古代传说中的一种龙形异兽。\n〔～～〕敬谨恐惧的样子。\n〔～立〕肃立。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-夔"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c6b9c4043138299d78071756",
+  "title": "喻道",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "汉武秦皇漫苦辛，那思俗骨本含真。",
+    "不知流水潜催老，未悟三山也是尘。",
+    "牢落沙丘终古恨，寂寥函谷万年春。",
+    "长生客待仙桃饵，月里婵娟笑煞人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-b32e2b62-59de-4268-99de-e4e54adc0082"
+}

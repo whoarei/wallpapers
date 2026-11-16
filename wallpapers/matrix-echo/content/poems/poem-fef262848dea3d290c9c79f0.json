@@ -1,0 +1,20 @@
+{
+  "id": "poem-fef262848dea3d290c9c79f0",
+  "title": "醉落魄・一斛珠·山围画障",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "山围画障。",
+    "风溪弄月清溶漾。",
+    "玉楼苕馆人相望。",
+    "下若𬪩醅，竞欲金钗当。",
+    "使君劝醉青娥唱。",
+    "分明仙曲云中响。",
+    "南园百卉千家赏。",
+    "和气兼春，不独花枝上。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-403",
+  "tags": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "poem-6a65478e05c2fcc36af84e19",
+  "title": "江雪",
+  "author": "柳宗元",
+  "dynasty": "唐",
+  "verses": [
+    "千山鸟飞绝，万迳人踪灭。",
+    "孤舟蓑笠翁，独钓寒江雪。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写雪",
+    "山水",
+    "冬天",
+    "雪",
+    "冬",
+    "写景",
+    "写鸟",
+    "五言绝句",
+    "鸟"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-1f92134b-bca9-46eb-b2fe-87b30413041a"
+}

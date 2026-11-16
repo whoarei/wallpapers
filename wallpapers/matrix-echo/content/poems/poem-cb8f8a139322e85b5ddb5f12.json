@@ -1,0 +1,14 @@
+{
+  "id": "poem-cb8f8a139322e85b5ddb5f12",
+  "title": "和韦开州盛山十二首 盘石磴",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "垒石盘空远，层层势不危。",
+    "不知行几匝，得到上头时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0ea9fab0-d3c4-4ed6-8234-f78a1ae68cbb"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-95f8",
+  "script": "kai",
+  "character": "闸",
+  "reading": "zhá",
+  "description": "水闸\n制动器的通称\n电闸,在电路上用来接通、断开或转换电流的装置\n把水截住,关闸。引申为拦\n⒈拦阻水流的建筑物，可随时开关，调节水量～门。排洪～。\n⒉使机器减速或停运的制动器车～。电～。\n⒊铁路上的转辙器。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-闸"
+}

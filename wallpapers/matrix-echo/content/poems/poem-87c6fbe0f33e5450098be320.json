@@ -1,0 +1,16 @@
+{
+  "id": "poem-87c6fbe0f33e5450098be320",
+  "title": "贻住山僧",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "罢讲巡岩坞，无穷得野情。",
+    "腊高犹伴鹿，夏满不归城。",
+    "云朵缘崖发，峰阴截水清。",
+    "自然双洗耳，唯任白毫生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-bffe88b3-c216-4a63-b137-87b8afe3abd4"
+}

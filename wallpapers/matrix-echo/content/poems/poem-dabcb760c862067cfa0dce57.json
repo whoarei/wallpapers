@@ -1,0 +1,16 @@
+{
+  "id": "poem-dabcb760c862067cfa0dce57",
+  "title": "河传·太平天子",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "太平天子，等闲游戏，疏河千里。",
+    "柳如丝，偎倚绿波春水，长淮风不起。",
+    "如花殿脚三千女，争云雨，何处留人住？",
+    "锦帆风，烟际江，烧空，魂迷大业中。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-46"
+}

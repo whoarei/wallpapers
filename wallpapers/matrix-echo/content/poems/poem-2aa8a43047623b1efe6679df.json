@@ -1,0 +1,14 @@
+{
+  "id": "poem-2aa8a43047623b1efe6679df",
+  "title": "郊庙歌辞 五郊乐章 黄帝宫音 舒和",
+  "author": "魏征",
+  "dynasty": "唐",
+  "verses": [
+    "御征乘宫出郊甸，安歌率舞递将迎。",
+    "自有云门符帝赏，犹持雷鼓答天成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-3a12c6ba-c4d8-4b41-9b67-b6c3be170ac4"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7cb28d7e7aadd29e9b0ab627",
+  "title": "酒泉子·楚女不归",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "楚女不归，楼枕小河春水。",
+    "月孤明，风又起，杏花稀。",
+    "玉钗斜簪云鬟髻，裙上金缕凤。",
+    "八行书，千里梦，雁南归。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-24",
+  "tags": []
+}

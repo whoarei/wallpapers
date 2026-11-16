@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-97f5",
+  "script": "kai",
+  "character": "韵",
+  "reading": "yùn",
+  "description": "yùn：(1)汉语字音中的元音或元音加收尾音，即声母以外的部分，或声母和介音以外的部分，称韵母”。如ｔ幔睿绲脑夏甘轻ｎｇ”，ｈｕ幔睿绲脑夏甘牵踽ｎｇ”～文（有韵律节奏的文学体裁，亦指用这种体裁写成的文章，包括诗、词、歌、赋等。区别于散文”）。押～。～腹（韵母中主要元音）。～脚（韵文句末押韵的字）。～律（诗词中的平仄格式和押韵的规则）。\n(2)和谐而有节奏的～白。琴～悠扬。\n(3)风度，风致，情趣，意味风～。气～。～味。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-韵"
+}

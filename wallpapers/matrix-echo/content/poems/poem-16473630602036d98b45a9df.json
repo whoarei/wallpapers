@@ -1,0 +1,14 @@
+{
+  "id": "poem-16473630602036d98b45a9df",
+  "title": "横吹曲辞 关山月二首 一",
+  "author": "戴叔伦",
+  "dynasty": "唐",
+  "verses": [
+    "月出照关山，秋风人未还。",
+    "清光无远近，乡泪半书间。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6795674b-74d6-4ac8-94ef-792c9892c714"
+}

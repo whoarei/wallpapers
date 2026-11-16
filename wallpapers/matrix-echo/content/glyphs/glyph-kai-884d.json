@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-884d",
+  "script": "kai",
+  "character": "衍",
+  "reading": "yǎn",
+  "description": "yǎn：(1)延长，开展～绎。～生。推～。展～。敷～。～生物。\n(2)多余的（指文字）～文（书籍中因缮写、刻板、排版错误而多出来的字句）。\n(3)低而平坦之地～沃（土地平坦肥美。亦作沃衍”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-衍"
+}

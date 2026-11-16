@@ -1,0 +1,17 @@
+{
+  "id": "poem-11b429cc796ac2daaa5fcf9c",
+  "title": "虞美人·少年艳质胜琼英",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "少年艳质胜琼英，早晚别三清。",
+    "莲冠稳簪钿篦横，飘飘罗袖碧云轻，画难成。",
+    "迟迟少转腰身袅，翠靥眉心小。",
+    "醮坛风急杏花香。",
+    "此时恨不驾鸾凤，访刘郎。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-38"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-0df3b2e9cae51dc1d524cbe9",
+  "title": "我行其野",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "我行其野，蔽芾其樗。婚姻之故，言就尔居。尔不我畜，复我邦家。",
+    "我行其野，言采其蓫。婚姻之故，言就尔宿。尔不我畜，言归斯复。",
+    "我行其野，言采其葍。不思旧姻，求尔新特。成不以富，亦祗以异。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-187"
+}

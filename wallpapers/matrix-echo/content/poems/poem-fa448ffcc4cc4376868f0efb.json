@@ -1,0 +1,16 @@
+{
+  "id": "poem-fa448ffcc4cc4376868f0efb",
+  "title": "送从弟彻东归",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "缑山领印知公奏，才称同时尽不如。",
+    "奉使贺成登册礼，陪班看出降恩书。",
+    "去回在路秋尘里，受诏辞归晓漏初。",
+    "早晚得为朝署拜，闲坊买宅作邻居。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-77b0962f-1c31-4ff1-9f4c-2f90d4cd309c"
+}

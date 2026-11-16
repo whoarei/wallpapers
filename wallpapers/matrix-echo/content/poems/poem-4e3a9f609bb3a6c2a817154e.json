@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e3a9f609bb3a6c2a817154e",
+  "title": "前腔",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(贴)告官人听咨启，岂不晓其中意？我娘行贤达聪明，提说故事比喻。",
+    "曹丕妒忌休学取，愿学昭王怜兄弟。",
+    "望员外息怒停嗔，从是改非。",
+    "赛过关张，到底都是乔的。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1812",
+  "tags": []
+}

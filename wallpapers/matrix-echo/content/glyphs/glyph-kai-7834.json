@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7834",
+  "script": "kai",
+  "character": "破",
+  "reading": "pò",
+  "description": "pò：(1)碎，不完整碗打～。～灭。～旧。～败。～落。～陋。～颜（转为笑容）。～绽（衣服裂开，指事情或说话的漏洞或矛盾）。牢不可～。\n(2)分裂～裂。～读（同一个字形因意义不同而有两个以上读音，把习惯上通常的读音之外的读音，称破读”）。～土。\n(3)使损坏～坏。～损。\n(4)超出～例。～格。\n(5)花费，耗费～费。～财。～产。\n(6)打败，打垮～阵。～门。攻～。\n(7)揭穿～案。～译。～获。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-破"
+}

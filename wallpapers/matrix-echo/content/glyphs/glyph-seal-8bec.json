@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bec",
+  "script": "seal",
+  "character": "诬",
+  "reading": "wū",
+  "description": "欺骗\n无中生有,捏造事实害人\n诬去贤使君。\n诬太守者。\n抹杀",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诬"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-8d81f0d140d28e0d17bf18b7",
+  "title": "和李仆射西园",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "遇午归闲处，西庭敞四簷。",
+    "高眠著琴枕，散帖检书签。",
+    "印在休通客，山晴好卷帘。",
+    "竹凉蝇少到，藤暗蝶争潜。",
+    "晓鹊频惊喜，疎蝉不许拈。",
+    "石苔生紫点，栏药吐红尖。",
+    "虚坐诗情远，幽探道侣兼。",
+    "所营尚胜地，虽俭复谁嫌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-247aeaa0-d69a-4c18-a69f-fc6cf9280161"
+}

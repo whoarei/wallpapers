@@ -1,0 +1,19 @@
+{
+  "id": "poem-8826ad55ec89a8191f6bdc96",
+  "title": "次韵程帅",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "嗜欲割去土与泥，调虞气血等稚儿。",
+    "拘拘谫谫世所怪，未免鹤发仍鸡皮。",
+    "甘脆为目不为腹，蚕茧自缚良苦之。",
+    "两螯公子大于扇，九室春色堪为池。",
+    "开缄况读万选句，快意领此一段奇。",
+    "自怜忍欲忍艾似，涎流津饐不自持。",
+    "明知喘疾有时愈，更寄斫雪加餐诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-c648e6fc-a18f-4471-97f9-3cd6ac20858f"
+}

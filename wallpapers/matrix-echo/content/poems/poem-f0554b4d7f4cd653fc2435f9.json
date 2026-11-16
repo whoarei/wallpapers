@@ -1,0 +1,15 @@
+{
+  "id": "poem-f0554b4d7f4cd653fc2435f9",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［丑］筵间，绣巾莫围环，奇珍摆列，浑如洞府仙寰，美食嘉肴，堪并凤髓龙肝。",
+    "簪翠竹同乐同欢，饮绿醑齐歌齐唱。",
+    "［合前］。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8031",
+  "tags": []
+}

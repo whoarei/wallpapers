@@ -1,0 +1,19 @@
+{
+  "id": "poem-d7da95b7b8d3d34cae5085c1",
+  "title": "清平乐·云峰秀叠",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "云峰秀叠。",
+    "露冷琉璃叶。",
+    "北畔娑罗花弄雪。",
+    "香度小桥淡月。",
+    "与君踏月寻花。",
+    "玉人双捧流霞。",
+    "吸尽杯中花月，仙风相送还家。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-715",
+  "tags": []
+}

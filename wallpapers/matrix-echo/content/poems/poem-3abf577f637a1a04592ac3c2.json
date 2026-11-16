@@ -1,0 +1,17 @@
+{
+  "id": "poem-3abf577f637a1a04592ac3c2",
+  "title": "赠剑客",
+  "author": "黄损",
+  "dynasty": "唐",
+  "verses": [
+    "杯酒会云林，扶邦志亦深。",
+    "晶莹三尺剑，决烈一生心。",
+    "见死寻常事，闻冤即往寻。",
+    "荆轲不了处，扼腕到如今。",
+    "（周本淳校本《诗话总龟》卷二八引《雅言系述》）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-80d662ea-fd25-48ce-90dd-69eae4845986"
+}

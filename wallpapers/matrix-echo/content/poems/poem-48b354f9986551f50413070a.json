@@ -1,0 +1,14 @@
+{
+  "id": "poem-48b354f9986551f50413070a",
+  "title": "十二咏 双莲阁",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "并蔕芙蓉出绿波，靓粧鸾鉴照双娥。",
+    "风清月晓微开处，无那幽人独见何。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-d56e5828-f929-48a8-9eaf-0ba3954c9cda"
+}

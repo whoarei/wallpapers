@@ -1,0 +1,16 @@
+{
+  "id": "poem-64917cb3b94f6d8130ee8fac",
+  "title": "王总卿季和归自关西",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "关西长虑独兢兢，万灶分屯感慨深。",
+    "不易制如巫硖水，最难得是蜀人心。",
+    "拨灰忍见俱焚玉，铭鼎徐看小篆金。",
+    "欲倚筹边开玉帐，共观城外柏森森。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-0d719b71-52d6-47b6-af9f-4f95f557df1f"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-5b53b65152f93705c75739ec",
+  "title": "玉团儿·晓来一阵金风劣",
+  "author": "张镃",
+  "dynasty": "宋",
+  "verses": [
+    "晓来一阵金风劣。",
+    "把阆海、檀霞细屑。",
+    "依就花儿，深藏叶底，不教人折。",
+    "初开数朵谁知得。",
+    "却又是、金风漏泄。",
+    "吹起清芬，露成香露，月成香月。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-343",
+  "tags": []
+}

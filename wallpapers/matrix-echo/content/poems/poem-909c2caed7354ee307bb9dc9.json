@@ -1,0 +1,14 @@
+{
+  "id": "poem-909c2caed7354ee307bb9dc9",
+  "title": "最胜亭",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "烟收雾敛翠成围，来助幽亭眼界奇。",
+    "衲子苦于山索句，棱棱瘦骨不禁诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-381e37ea-9b81-4ae8-b864-def0ff637ce3"
+}

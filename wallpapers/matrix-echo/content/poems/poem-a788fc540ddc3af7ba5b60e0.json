@@ -1,0 +1,22 @@
+{
+  "id": "poem-a788fc540ddc3af7ba5b60e0",
+  "title": "寄李儋元锡",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "verses": [
+    "去年花里逢君别，今日花开已一年。",
+    "世事茫茫难自料，春愁黯黯独成眠。",
+    "身多疾病思田里，邑有流亡愧俸钱。",
+    "闻道欲来相问讯，西楼望月几廻圆。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "友人",
+    "忧国忧民",
+    "七言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-8435b46d-bbf1-49e5-af66-6f2d5681f1bf"
+}

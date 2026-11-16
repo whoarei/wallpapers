@@ -1,0 +1,16 @@
+{
+  "id": "poem-21f46d3c2a589e4e57ebdad7",
+  "title": "送萧颖士赴东府得草字",
+  "author": "姚发",
+  "dynasty": "唐",
+  "verses": [
+    "天生良史笔，浪迹擅文藻。",
+    "中夏授参谋，东夷愿闻道。",
+    "行轩玩春日，饯席藉芳草。",
+    "幸得师季良，欣留箧笥宝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-ed0a8f5b-76c8-4fc8-aa9d-4b45fe3a18eb"
+}

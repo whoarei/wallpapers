@@ -1,0 +1,16 @@
+{
+  "id": "poem-a376b937676e7ced79e038be",
+  "title": "用前送行韵寄赵编修可斋",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "烁石与金流，怀人眺晚楼。",
+    "忽闻提健笔，喜似得神州。",
+    "稻粒不多日，窗疏相次秋。",
+    "只分千里月，木李不中投。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-26f11116-72d0-4e1a-b1f3-7613d780e6e7"
+}

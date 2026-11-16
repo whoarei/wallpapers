@@ -1,0 +1,14 @@
+{
+  "id": "poem-b2648d20f1d6e12cef8ebf99",
+  "title": "嘉兴寒食",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "嘉兴郭里逢寒食，落日家家拜扫回。",
+    "唯有县前苏小小，无人送与纸钱来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-5c632e93-518e-46e1-af7c-3dadd656f33f"
+}

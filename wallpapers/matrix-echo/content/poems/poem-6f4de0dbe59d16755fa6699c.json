@@ -1,0 +1,14 @@
+{
+  "id": "poem-6f4de0dbe59d16755fa6699c",
+  "title": "雨中怨秋",
+  "author": "杨凭",
+  "dynasty": "唐",
+  "verses": [
+    "辞家远客怆秋风，千里寒云与断蓬。",
+    "日暮隔山投古寺，钟声何处雨蒙蒙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-c646227d-122c-493c-b1fb-410397eb65f7"
+}

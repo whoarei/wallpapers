@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6458",
+  "script": "kai",
+  "character": "摘",
+  "reading": "zhāi",
+  "description": "zhāi：(1)采取，拿下采～。～取。～桃子。～除。\n(2)选取～要。～录。～编。文～。～引。寻章～句。指～（挑出缺点）。\n(3)借～兑。东～西借。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-摘"
+}

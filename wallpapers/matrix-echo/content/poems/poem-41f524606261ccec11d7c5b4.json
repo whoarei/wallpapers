@@ -1,0 +1,16 @@
+{
+  "id": "poem-41f524606261ccec11d7c5b4",
+  "title": "升平词十首 六",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "日日听歌谣，区中尽祝尧。",
+    "虫蝗初不害，夷狄近全销。",
+    "史笔惟书瑞，天台绝见妖。",
+    "因令匹夫志，转欲事清朝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4c7df6d8-f7cc-4476-b568-7fec18cc4cb7"
+}

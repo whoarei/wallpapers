@@ -1,0 +1,14 @@
+{
+  "id": "poem-9620075e4fd0dcb784153142",
+  "title": "赠宿将",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "校猎燕山经几春，雕弓白羽不离身。",
+    "年来马上浑无力，望见飞鸿指似人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-804ac476-3c58-4164-aaca-30549dd0970e"
+}

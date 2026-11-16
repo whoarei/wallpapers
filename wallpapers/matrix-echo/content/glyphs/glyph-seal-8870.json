@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8870",
+  "script": "seal",
+  "character": "衰",
+  "reading": "shuāi；cui",
+  "description": "shuāi：事物发展转向微弱～微。～弱。～老。盛（shèng）～。兴（xīng）～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-衰"
+}

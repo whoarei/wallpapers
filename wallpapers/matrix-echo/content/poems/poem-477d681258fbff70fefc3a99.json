@@ -1,0 +1,14 @@
+{
+  "id": "poem-477d681258fbff70fefc3a99",
+  "title": "喜雨呈安国  其二",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "早秧出陇蚕已丝，眼中一雨正垂垂。",
+    "农家辛苦渠能识，请诵周公七月诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-68f19544-338c-48fc-bcc2-b2395366a2e1"
+}

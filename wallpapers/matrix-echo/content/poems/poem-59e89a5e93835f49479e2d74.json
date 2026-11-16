@@ -1,0 +1,15 @@
+{
+  "id": "poem-59e89a5e93835f49479e2d74",
+  "title": "新台",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "新台有泚，河水弥弥。燕婉之求，蘧篨不鲜。",
+    "新台有洒，河水浼浼。燕婉之求，蘧篨不殄。",
+    "鱼网之设，鸿则离之。燕婉之求，得此戚施。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-42"
+}

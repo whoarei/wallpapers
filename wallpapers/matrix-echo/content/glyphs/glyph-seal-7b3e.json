@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7b3e",
+  "script": "seal",
+  "character": "笾",
+  "reading": "biān",
+  "description": "竹豆。古代用竹编成的食器,形状如豆,祭祀燕享时用来盛果实、干肉\n笾biān 1.古代祭祀和宴会时盛果脯的竹器，形状像木制的豆。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-笾"
+}

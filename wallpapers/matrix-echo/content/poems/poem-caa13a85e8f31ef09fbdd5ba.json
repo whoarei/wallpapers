@@ -1,0 +1,14 @@
+{
+  "id": "poem-caa13a85e8f31ef09fbdd5ba",
+  "title": "石室",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "锤凿不到处，纵横丈许宽。",
+    "宁教苔藓去，要下一筹难。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-cc328623-8f77-475b-ad77-1925b97cbb49"
+}

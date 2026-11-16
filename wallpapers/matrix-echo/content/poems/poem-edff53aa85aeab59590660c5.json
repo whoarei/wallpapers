@@ -1,0 +1,18 @@
+{
+  "id": "poem-edff53aa85aeab59590660c5",
+  "title": "鹧鸪天·本是瑶台月里仙",
+  "author": "崔敦礼",
+  "dynasty": "宋",
+  "verses": [
+    "本是瑶台月里仙。",
+    "笑麾鸾鹤住人间。",
+    "蟠桃一熟三千岁，剩对春风日月闲。",
+    "缡绶结，彩衣斑。",
+    "孙枝相应傍门阑。",
+    "年年同上长生酒，得见沧溟几度干。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-405",
+  "tags": []
+}

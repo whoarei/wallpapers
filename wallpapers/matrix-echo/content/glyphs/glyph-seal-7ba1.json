@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ba1",
+  "script": "seal",
+  "character": "管",
+  "reading": "guǎn",
+  "description": "guǎn：(1)吹奏的乐器～乐器。～弦乐。\n(2)圆而细长中空的东西～道。～线。～见（谦辞，浅陋的见识）。～窥蠡测（从竹管里看天，用瓢量海水，喻眼光狭窄，见识短浅）。～中窥豹。气～。血～。针～。双～齐下。\n(3)形状像管的电子器件电子～。晶体～。\n(4)负责，经理～理。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-管"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5f85c7cc458d5a73ee8008dd",
+  "title": "寄严文炳  其六",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "善忘常憎医，独者自尊足。",
+    "严子肮脏面，如我不谐俗。",
+    "世情趣操间，憎爱岐珉玉。",
+    "饶舌夸我贤，祗取白眼辱。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-a53b4943-78e7-4e47-aa92-50ba6f9e7259"
+}

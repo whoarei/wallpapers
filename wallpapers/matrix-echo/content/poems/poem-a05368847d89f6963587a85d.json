@@ -1,0 +1,16 @@
+{
+  "id": "poem-a05368847d89f6963587a85d",
+  "title": "别一章改韵同五诗呈尧夫",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "家虽在城阙，萧瑟似山阿。",
+    "远去名利窟，自称安乐窝。",
+    "云归白石洞，鹤立碧松柯。",
+    "得丧非吾事，何须更寤歌。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-1409bc46-771c-4675-ba3b-fd6f10fbb9be"
+}

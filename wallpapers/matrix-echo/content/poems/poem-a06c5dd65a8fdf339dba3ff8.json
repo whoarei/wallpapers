@@ -1,0 +1,16 @@
+{
+  "id": "poem-a06c5dd65a8fdf339dba3ff8",
+  "title": "三年冬大礼五首 五",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "太和琴暖发南薰，水阔风高得细闻。",
+    "沧海举歌夔是相，历山回禅舜为君。",
+    "翠微呼处生丹障，清静封中起白云。",
+    "今日病身慙小隐，欲将泉石勒移文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-f8b618be-e9b4-48aa-8408-f626a6737e7b"
+}

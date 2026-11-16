@@ -1,0 +1,24 @@
+{
+  "id": "poem-5b5d4a30d2838cf8d445b4cb",
+  "title": "渭城曲",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "渭城朝雨浥轻尘，客舍青青杨柳春。",
+    "劝君更尽一杯酒，西出阳关无故人。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "八年级下册(课外)",
+    "友情",
+    "小学古诗",
+    "送别",
+    "初中古诗",
+    "乐府",
+    "唐诗三百首",
+    "近代曲辞",
+    "四年级上册"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-1575c835-1241-4d7b-99dc-6d700549ac65"
+}

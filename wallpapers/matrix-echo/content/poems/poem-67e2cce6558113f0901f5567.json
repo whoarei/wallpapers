@@ -1,0 +1,14 @@
+{
+  "id": "poem-67e2cce6558113f0901f5567",
+  "title": "简云卧",
+  "author": "赵崇鉘",
+  "dynasty": "宋",
+  "verses": [
+    "忆君心事如流水，流向江头作暮潮。",
+    "想得潮平沙有雪，自铿铁版和吹箫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-a27180ea-b9a4-469d-87b3-758ff4ae40a1"
+}

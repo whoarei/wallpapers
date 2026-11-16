@@ -1,0 +1,19 @@
+{
+  "id": "poem-cd62a63c094aad490f8f6757",
+  "title": "蓦山溪·雕弓绣帽",
+  "author": "王以宁",
+  "dynasty": "宋",
+  "verses": [
+    "雕弓绣帽。",
+    "戏马秦淮道。",
+    "风入马啼轻，曾踏遍、淮堤芳草。",
+    "飞英点点，春事已阑珊，风雨横，别离多，断送英雄老。",
+    "功名终在，休惜芳尊倒。",
+    "谈笑下燕云，看千里、风驱电扫。",
+    "男儿此事，莫待鬓丝棼，汉都护，万年觞，玉殿春风早。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-64",
+  "tags": []
+}

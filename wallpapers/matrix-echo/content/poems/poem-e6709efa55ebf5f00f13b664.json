@@ -1,0 +1,18 @@
+{
+  "id": "poem-e6709efa55ebf5f00f13b664",
+  "title": "省题诗二十一首 文不加点",
+  "author": "王棨",
+  "dynasty": "唐",
+  "verses": [
+    "娱宾初命赋，摛翰已堪夸。",
+    "思发才无滞，文成点不加。",
+    "笔端舒锦绣，手下走龙蛇。",
+    "罢益银钩势，休添丽泽华。",
+    "误蝇宁复见，倚马未为嘉。",
+    "有愧当明试，含毫到日斜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-8cbf2238-b598-482c-a83d-a6189e26622c"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-259fe33644bac99d5b946acd",
+  "title": "风琴赠选上人",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "万籁甫消声，锵然忽自鸣。",
+    "独宜风力小，双与月华清。",
+    "历历谐三叠，玲玲叶九成。",
+    "宫商虽断续，何处不分明。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-494e5612-19dd-4e69-8b5f-6563d9ba6692"
+}

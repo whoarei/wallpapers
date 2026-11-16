@@ -1,0 +1,14 @@
+{
+  "id": "poem-9796d0c2b00fddaed5552ccc",
+  "title": "池上",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "冰澌潄齿夜生寒，白苎生裁踏月残。",
+    "水面有风人不见，只教荷气上阑干。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-072af8ae-74f4-41f0-a75c-4b1a43e6cc0e"
+}

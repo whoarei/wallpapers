@@ -1,0 +1,13 @@
+{
+  "id": "poem-8dee70d8032890d0550693d0",
+  "title": "噫嘻",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "噫嘻成王，既昭假尔。率时农夫，播厥百谷。骏发尔私，终三十里。亦服尔耕，十千维耦。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-276"
+}

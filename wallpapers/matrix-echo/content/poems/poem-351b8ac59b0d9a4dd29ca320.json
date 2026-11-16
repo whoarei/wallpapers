@@ -1,0 +1,20 @@
+{
+  "id": "poem-351b8ac59b0d9a4dd29ca320",
+  "title": "人日寄杜二拾遗",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "人日题诗寄草堂，遥怜故人思故乡。",
+    "柳条弄色不忍见，梅花满枝空断肠。",
+    "身在远藩无所预，心怀百忧复千虑。",
+    "今年人日空相忆，明年人日知何处。",
+    "一卧东山三十春，岂知书劒老风尘。",
+    "龙钟还忝二千石，愧尔东西南北人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "思念"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-a7318ace-183f-44e8-9704-3fceabe908be"
+}

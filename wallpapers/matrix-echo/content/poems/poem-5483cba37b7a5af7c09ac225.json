@@ -1,0 +1,15 @@
+{
+  "id": "poem-5483cba37b7a5af7c09ac225",
+  "title": "粉蝶儿",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "生长开封，诗书尽皆历遍，奈功名五行薄浅。",
+    "论荣华,随分有，称吾心愿。",
+    "且开怀，共诗朋酒侣欢宴。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8563",
+  "tags": []
+}

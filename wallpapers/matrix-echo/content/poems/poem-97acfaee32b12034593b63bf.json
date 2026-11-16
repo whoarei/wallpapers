@@ -1,0 +1,16 @@
+{
+  "id": "poem-97acfaee32b12034593b63bf",
+  "title": "发刘郎浦",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "挂帆早发刘郎浦，疾风飒飒昏亭午。",
+    "舟中无日不沙尘，岸上空村尽豺虎。",
+    "十日北风风未回，客行岁晚晚相催。",
+    "白头厌伴渔人宿，黄帽青鞋归去来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-83fab156-6339-4b67-aca1-5ee2b16f2680"
+}

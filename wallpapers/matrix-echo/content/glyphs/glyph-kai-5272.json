@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5272",
+  "script": "kai",
+  "character": "割",
+  "reading": "gē",
+  "description": "gē：(1)切断，截下，划分出来～让。～地。～弃。～舍。～除。～断。～裂。～据。交～。～鸡焉用牛刀（喻做小事情不值得费大力气）。\n(2)灾害天降～于我家。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-割"
+}

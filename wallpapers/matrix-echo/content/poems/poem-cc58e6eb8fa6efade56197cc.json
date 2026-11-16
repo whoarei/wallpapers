@@ -1,0 +1,16 @@
+{
+  "id": "poem-cc58e6eb8fa6efade56197cc",
+  "title": "思越人·翠屏欹",
+  "author": "鹿虔扆",
+  "dynasty": "五代",
+  "verses": [
+    "翠屏欹，银烛背，漏残清夜迢迢。",
+    "双带绣窠盘锦荐，泪浸花暗香消。",
+    "珊瑚枕腻鸦鬟乱，玉纤慵整云散。",
+    "若是适来新梦见，离肠怎不千断。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-17"
+}

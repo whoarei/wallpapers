@@ -1,0 +1,14 @@
+{
+  "id": "poem-b583cab5c622b510ee3a8fb1",
+  "title": "和韦开州盛山十二首 上士泉缾",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "堦上一眼泉，四边青石甃。",
+    "唯有护净僧，添缾将盥漱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-5209fed5-6f9b-4e12-9fd9-f2d91d154d90"
+}

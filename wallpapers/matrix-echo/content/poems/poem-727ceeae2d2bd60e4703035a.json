@@ -1,0 +1,16 @@
+{
+  "id": "poem-727ceeae2d2bd60e4703035a",
+  "title": "郊庙歌辞 享太庙乐章 太和",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "时文圣后，清庙肃邕。",
+    "致诚勤荐，在貌思恭。",
+    "玉节肆夏，金锵五钟。",
+    "绳绳云步，穆穆天容。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-06273196-6d2a-4c70-9680-257cea297824"
+}

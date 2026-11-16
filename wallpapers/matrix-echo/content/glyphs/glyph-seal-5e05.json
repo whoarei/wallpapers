@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e05",
+  "script": "seal",
+  "character": "帅",
+  "reading": "shuài",
+  "description": "军队中的主将、统帅\n⒈军队中最高级的指挥者元～。统～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-帅"
+}

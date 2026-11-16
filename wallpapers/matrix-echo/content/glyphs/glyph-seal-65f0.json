@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65f0",
+  "script": "seal",
+  "character": "旰",
+  "reading": "gàn；hàn",
+  "description": "gàn：晚，天色晚～食宵衣（天晚才吃饭，天未亮就穿衣起床，多用以称谀帝王勤劳政事）。\nhàn：〔～～〕盛大的样子，如皓皓～～，丹彩煌煌”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-旰"
+}

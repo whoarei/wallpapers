@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6613",
+  "script": "kai",
+  "character": "易",
+  "reading": "yì",
+  "description": "yì：(1)不费力，与难”相对容～。～与（容易对付）。～于。\n(2)和悦平～（ａ．态度谦逊和蔼；ｂ．指语言文字浅显）。\n(3)改变～手。～地。变～。\n(4)交换交～。贸～。\n(5)轻慢贵货～土。\n(6)芟治草木～墓（除治墓地的草木）。～其田畴。\n(7)古书名，《周易》的简称（亦称易经”）。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-易"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-547d",
+  "script": "kai",
+  "character": "命",
+  "reading": "mìng",
+  "description": "mìng：(1)动植物的生活能力生～。救～。逃～。拼～。～脉。性～。相依为～。\n(2)迷信认为生来就注定的贫富、寿数等天～。～相（xiàng）。～运（a.迷信指生死、贫富和一切遭遇；b.喻发展变化的趋向，如人民一定能掌握自己的～～”）。\n(3)上级对下级的指示奉～。遵～。～令。使～。\n(4)给予（名称等）～名。～题。～意。\n(5)指派，使用～官。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-命"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5210c02deab0ae5f1b9f05b4",
+  "title": "河传·红杏",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "红杏，交枝相映，密密蒙蒙。",
+    "一庭浓艳倚东风，香融，透帘栊。",
+    "斜阳似共春光语，蝶争舞，更引流莺妒。",
+    "魂销千片玉樽前，神仙，瑶池醉暮天。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-40"
+}

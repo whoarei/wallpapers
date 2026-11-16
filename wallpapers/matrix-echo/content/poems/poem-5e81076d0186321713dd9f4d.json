@@ -1,0 +1,14 @@
+{
+  "id": "poem-5e81076d0186321713dd9f4d",
+  "title": "荷叶杯·镜水夜来秋月",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "镜水夜来秋月，如雪。采莲时。",
+    "小娘红粉对寒浪，惆怅。正思惟。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-14",
+  "tags": []
+}

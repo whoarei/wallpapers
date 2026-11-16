@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8317",
+  "script": "seal",
+  "character": "茗",
+  "reading": "míng",
+  "description": "míng：(1)茶树的嫩芽。\n(2)茶香～。品～。～具。煮～。\n(3)古同酩”，酩酊。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茗"
+}

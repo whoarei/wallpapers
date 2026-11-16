@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51f6",
+  "script": "kai",
+  "character": "凶",
+  "reading": "xiōng",
+  "description": "xiōng：(1)不幸的，不吉祥的吉～。～信。\n(2)庄稼收成不好～年饥岁。\n(3)恶～暴。～恶。～顽。～相（xiàng）。～神恶煞。\n(4)关于杀伤的行（xíng）～。帮～。\n(5)厉害，过甚雨～风狂。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-凶"
+}

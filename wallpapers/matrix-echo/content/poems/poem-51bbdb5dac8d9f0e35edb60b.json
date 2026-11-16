@@ -1,0 +1,16 @@
+{
+  "id": "poem-51bbdb5dac8d9f0e35edb60b",
+  "title": "宿淮浦忆司空文明",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "愁心一倍长离忧，夜思千重恋旧游。",
+    "秦地故人成远梦，楚天凉雨在孤舟。",
+    "诸溪近海潮皆应，独树边淮叶尽流。",
+    "别恨转深何处写，前程唯有一登楼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-e7b59ce3-5d91-4ee2-b8ef-32416721d445"
+}

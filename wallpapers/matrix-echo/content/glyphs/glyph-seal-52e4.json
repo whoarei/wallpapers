@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-52e4",
+  "script": "seal",
+  "character": "勤",
+  "reading": "qín",
+  "description": "qín：(1)做事尽力，不偷懒～劳。～快。～奋。～政（勤奋于政事）。～谨。～勉。～恳。克～克俭。\n(2)经常～密（频繁）。来往很～。\n(3)上班，事务～务。～杂。出～◇～。\n(4)担心，忧虑～恤（忧虑怜惜）。\n(5)帮助～王。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-勤"
+}

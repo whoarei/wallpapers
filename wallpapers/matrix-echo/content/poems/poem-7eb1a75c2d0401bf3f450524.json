@@ -1,0 +1,22 @@
+{
+  "id": "poem-7eb1a75c2d0401bf3f450524",
+  "title": "却东西门行",
+  "author": "曹操",
+  "dynasty": "汉",
+  "verses": [
+    "鸿雁出塞北，乃在无人乡。",
+    "举翅万馀里，行止自成行。",
+    "冬节食南稻，春日复北翔。",
+    "田中有转蓬，随风远飘扬。",
+    "长与故根绝，万岁不相当。",
+    "奈何此征夫，安得驱四方！",
+    "戎马不解鞍，铠甲不离傍。",
+    "冉冉老将至，何时返故乡？",
+    "神龙藏深泉，猛兽步高冈。",
+    "狐死归首丘，故乡安可忘！"
+  ],
+  "enabled": true,
+  "collection": "曹操诗集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/曹操诗集/caocao.json#record-12"
+}

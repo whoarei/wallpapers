@@ -1,0 +1,15 @@
+{
+  "id": "poem-b2d17ee0c3eda67d512ceefb",
+  "title": "番女怨·万枝香雪开已遍",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "万枝香雪开已遍，细雨双燕。",
+    "钿蝉筝，金雀扇，画梁相见。",
+    "雁门消息不归来，又飞回。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-11",
+  "tags": []
+}

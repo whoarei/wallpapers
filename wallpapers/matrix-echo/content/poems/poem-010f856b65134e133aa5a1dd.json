@@ -1,0 +1,22 @@
+{
+  "id": "poem-010f856b65134e133aa5a1dd",
+  "title": "善哉行 其三",
+  "author": "曹操",
+  "dynasty": "汉",
+  "verses": [
+    "朝日乐相乐，酣饮不知醉。",
+    "悲弦激新声，长笛吹清气。",
+    "弦歌感人肠，四坐皆欢悦。",
+    "寥寥高堂上，凉风入我室。",
+    "持满如不盈，有德者能卒。",
+    "君子多苦心，所愁不但一。",
+    "慊慊下白屋，吐握不可失。",
+    "众宾饱满归，主人苦不悉。",
+    "比翼翔云汉，罗者安所羁？",
+    "冲静得自然，荣华何足为！"
+  ],
+  "enabled": true,
+  "collection": "曹操诗集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/曹操诗集/caocao.json#record-20"
+}

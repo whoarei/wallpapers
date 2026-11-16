@@ -1,0 +1,15 @@
+{
+  "id": "poem-a3886a5b2393b430afd2f2b4",
+  "title": "黄钟尾",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "如今未遭际汉风雷信，有一日得到家乡桃李春。",
+    "打旋回来分，参拜了母亲，答谢了众神，便受了奔波正的本。",
+    "(下)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8597",
+  "tags": []
+}

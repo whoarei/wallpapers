@@ -1,0 +1,16 @@
+{
+  "id": "poem-26e8626b8d1ed11ca98c402a",
+  "title": "临江仙·无赖晓莺惊梦断",
+  "author": "鹿虔扆",
+  "dynasty": "五代",
+  "verses": [
+    "无赖晓莺惊梦断，起来残醉初醒。",
+    "映窗丝柳袅烟青，翠帘慵卷，约砌杏花零。",
+    "一自玉郎游冶去，莲凋月惨仪形。",
+    "暮天微雨洒闲庭，手挼裙带，无语倚云屏。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-14"
+}

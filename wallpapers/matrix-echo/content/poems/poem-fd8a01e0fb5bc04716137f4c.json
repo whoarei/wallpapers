@@ -1,0 +1,14 @@
+{
+  "id": "poem-fd8a01e0fb5bc04716137f4c",
+  "title": "独住僧",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "百补袈裟一比丘，数茎长睫覆青眸。",
+    "多应独住山林惯，唯照寒泉自剃头。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4873d783-4757-4029-85c0-69dc29106ed5"
+}

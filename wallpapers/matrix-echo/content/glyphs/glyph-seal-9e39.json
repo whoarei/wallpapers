@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e39",
+  "script": "seal",
+  "character": "鸹",
+  "reading": "guā",
+  "description": "乌鸦的俗称,如老鸹\n鸹guā乌鸦。俗称\"老鸹\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鸹"
+}

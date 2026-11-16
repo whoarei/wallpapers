@@ -1,0 +1,16 @@
+{
+  "id": "poem-aa578eab00f18b1c3a78a3cc",
+  "title": "送僧之安南",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "安南千万里，师去趣何长。",
+    "鬓有炎州雪，心为异国香。",
+    "退牙山象恶，过海布帆荒。",
+    "早作归吴计，无忘父母乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-71cf5a48-286d-4038-ab39-a3753fb48425"
+}

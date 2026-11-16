@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-60e8",
+  "script": "kai",
+  "character": "惨",
+  "reading": "cǎn",
+  "description": "悲痛;伤心\n①悲惨；凄惨～状。\n②程度严重～败。\n③凶恶；狠毒～无人道。\n【惨不忍睹】悲惨得令人看不下去。睹看见。\n【惨怛】悲哀伤心的样子。\n【惨淡经营】费尽苦心从事某种工作或事业。惨淡境况困难或苦思极虑。经营规划从事。\n【惨景】悲惨的情形。\n【惨境】悲惨的境地。\n【惨剧】惨痛的事件。\n【惨无人道】残忍凶恶得连一点人性都没有。形容凶恶狠毒到了极点。\n【惨笑】内心痛苦、烦恼而勉强作出笑容。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-惨"
+}

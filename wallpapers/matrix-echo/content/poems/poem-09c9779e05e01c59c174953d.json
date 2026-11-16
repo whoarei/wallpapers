@@ -1,0 +1,13 @@
+{
+  "id": "poem-09c9779e05e01c59c174953d",
+  "title": "赉",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "文王既勤止，我应受之。敷时绎思，我徂维求定。时周之命，于绎思。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-294"
+}

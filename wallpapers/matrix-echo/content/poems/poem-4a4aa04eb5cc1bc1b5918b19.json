@@ -1,0 +1,16 @@
+{
+  "id": "poem-4a4aa04eb5cc1bc1b5918b19",
+  "title": "水底鱼",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(净上)三世行医，四方人尽知。",
+    "不论贵贱。",
+    "请着的即便医。",
+    "卢医扁鹊，料他直甚的？人人道我，道我是个催命鬼。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2997",
+  "tags": []
+}

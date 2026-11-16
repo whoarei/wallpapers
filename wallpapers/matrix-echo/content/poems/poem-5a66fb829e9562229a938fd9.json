@@ -1,0 +1,25 @@
+{
+  "id": "poem-5a66fb829e9562229a938fd9",
+  "title": "赋得古原草送别",
+  "author": "白居易",
+  "dynasty": "唐",
+  "verses": [
+    "离离原上草，一岁一枯荣。",
+    "野火烧不尽，春风吹又生。",
+    "远芳侵古道，晴翠接荒城。",
+    "又送王孙去，萋萋满别情。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写草",
+    "二年级下册",
+    "咏物",
+    "送别",
+    "五言律诗",
+    "咏物诗",
+    "小学古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-0174cbbc-31fa-4daf-b1cf-7f91c6a646a9"
+}

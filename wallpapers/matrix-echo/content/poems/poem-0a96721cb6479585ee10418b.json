@@ -1,0 +1,16 @@
+{
+  "id": "poem-0a96721cb6479585ee10418b",
+  "title": "寄淮南幕中刘员外",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "郎官何逊最风流，爱月怜山不下楼。",
+    "三佐戎旃换朱绂，一辞兰省见清秋。",
+    "桂生岩石本潇洒，鹤到烟空更自由。",
+    "休向西斋久闲卧，满朝倾盖是依刘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b7bbcd9e-7b1e-462e-984d-b5b3d94b9bf2"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-849c",
+  "script": "kai",
+  "character": "蒜",
+  "reading": "suàn",
+  "description": "suàn：多年生草本植物，地下鳞茎分瓣，按皮色不同分为紫皮种和白皮种。味辣，有刺激性气味，可食用或供调味，亦可入药（通称大蒜”）～头。～苗。～黄。～毫。～薹。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蒜"
+}

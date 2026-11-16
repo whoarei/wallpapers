@@ -1,0 +1,16 @@
+{
+  "id": "poem-de6f33c7475cecef2138e12e",
+  "title": "好姐姐",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "念奴流血满指，奈独自要坟成无计，深感老天暗中相护持。",
+    "(合)坟成矣。",
+    "葬了二亲寻夫婿，改换衣装往帝畿。",
+    "(末唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5147",
+  "tags": []
+}

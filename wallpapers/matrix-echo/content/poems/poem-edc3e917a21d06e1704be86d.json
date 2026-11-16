@@ -1,0 +1,14 @@
+{
+  "id": "poem-edc3e917a21d06e1704be86d",
+  "title": "西归",
+  "author": "晁端中",
+  "dynasty": "宋",
+  "verses": [
+    "安得龙山潮，驾回马河水。",
+    "水从楼前来，中有美人泪。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-b6bad12e-fd66-4afb-847e-b4e840c5e74f"
+}

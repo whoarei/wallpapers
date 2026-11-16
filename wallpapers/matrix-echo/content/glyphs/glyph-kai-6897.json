@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6897",
+  "script": "kai",
+  "character": "梗",
+  "reading": "gěng",
+  "description": "gěng：(1)植物的枝或茎菜～子。\n(2)直，挺立～着脖子。\n(3)正直，直爽～直。\n(4)阻塞，妨碍～塞（sè）。～阻。心肌～死。\n(5)大略～概。\n(6)有刺的草木～榆（刺榆）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梗"
+}

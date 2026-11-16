@@ -1,0 +1,18 @@
+{
+  "id": "poem-1b192ad917d718e9baec7518",
+  "title": "武陵春·秋染青溪天外水",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "秋染青溪天外水，风棹采菱还。",
+    "波上逢郎密意传。",
+    "语近隔丛莲。",
+    "相看忘却归来路，遮日小荷圆。",
+    "菱蔓虽多不上船。",
+    "心眼在郎边。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-300",
+  "tags": []
+}

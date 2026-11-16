@@ -1,0 +1,17 @@
+{
+  "id": "poem-75b6c2252cbbf31e10c1af04",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)我每年少正青春，更有武艺果超群。",
+    "我暂时落薄暂时贫，只得忍气吞声。",
+    "你如何只管打骂人？不学跨下韩信。",
+    "男儿有显达身荣日，果然一步跨青云。",
+    "(下)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8858",
+  "tags": []
+}

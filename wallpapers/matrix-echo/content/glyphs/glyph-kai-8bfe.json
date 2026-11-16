@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8bfe",
+  "script": "kai",
+  "character": "课",
+  "reading": "kè",
+  "description": "督促完成指定的工作\n按规定的内容和分量讲授或学习\n⒈学校里教学的科目、进程政治～。数学～。～程表。上～了。\n⒉督促完成工作任务宜严～农桑。〈引〉教授或学习～徒。～读。昼～赋，夜～书，间又～诗。\n⒊旧指规定的赋税，也指征收赋税国～。～以重税。\n⒋机关、学校等单位分设的办事部门出纳～。教务～。\n⒌试验，考核不～不用。\n⒍迷信者的骗术活动，占卜的一种起～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-课"
+}

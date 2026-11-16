@@ -1,0 +1,14 @@
+{
+  "id": "poem-ecec5fd67f7a3fc602552aaa",
+  "title": "咏史诗 圯桥",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "庙算张良独有余，少年逃难下邳初。",
+    "逡巡不进泥中履，争得先生一卷书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-8731b138-40af-4c4c-9d09-89877e623c35"
+}

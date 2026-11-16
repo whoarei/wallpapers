@@ -1,0 +1,14 @@
+{
+  "id": "poem-b2984a3e889ffc3a1acbed50",
+  "title": "和张燕公耗磨日饮 二",
+  "author": "赵冬曦",
+  "dynasty": "唐",
+  "verses": [
+    "春来半月度，俗忌一朝闲。",
+    "不酌他乡酒，无堪对楚山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-816b98a8-2757-4645-b931-e2ee9ceffc9a"
+}

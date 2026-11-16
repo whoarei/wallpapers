@@ -1,0 +1,17 @@
+{
+  "id": "poem-a1fb5f739edab1afedfda897",
+  "title": "饮少",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "平生不善饮，饮少醉已极。",
+    "恨不如渊明，陶陶少虚日。",
+    "桑嵫无停景，寸晷足可惜。",
+    "今人与古人，展转不相识。",
+    "孰能制颓龄，扰扰竟何益。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-8b05557a-2bad-4295-bc1e-ee837f8a5ac6"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-56d4199150879d5a2e3f11f3",
+  "title": "南乡子·翡翠䴔䴖",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "翡翠䴔䴖，白萍香里小沙汀。",
+    "岛上阴阴秋雨色，芦花扑，数只渔船何处宿。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-7"
+}

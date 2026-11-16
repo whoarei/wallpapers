@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-804a",
+  "script": "kai",
+  "character": "聊",
+  "reading": "liáo",
+  "description": "liáo：(1)姑且，勉强，凑凑和和～且（姑且）。～以自娱。～复尔尔（姑且如此）。～备一格。\n(2)依赖，寄托无～。百无～赖。\n(3)略微～表寸心。\n(4)闲谈～天。闲～。\n(5)耳鸣～啾。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-聊"
+}

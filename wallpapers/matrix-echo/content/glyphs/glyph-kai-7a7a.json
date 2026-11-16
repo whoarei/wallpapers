@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7a7a",
+  "script": "kai",
+  "character": "空",
+  "reading": "kōng；kòng；kǒng",
+  "description": "kōng：(1)不包含什么，没有内容～洞（ａ．没有内容的；ｂ．物体内部的窟窿）。～泛。～话。～旷。～乏。～～如也。～前绝后。凭～（无根据）。真～（没有任何东西）。\n(2)没有结果的，白白地～跑了一趟。～口无凭。\n(3)离开地面的，在地上面的地方～军。～气。～投。～运。\nkòng：(1)使空，腾出来～一个格。～出一间房来。\n(2)闲着，没被利用的～白。～地。～额。～房。～缺。\n(3)亏欠亏～。\nkǒng：古同孔”，洞。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-空"
+}

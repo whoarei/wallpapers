@@ -1,0 +1,20 @@
+{
+  "id": "poem-8388fdb853459cb6e30acb02",
+  "title": "双翠羽·小园曲径",
+  "author": "赵鼎",
+  "dynasty": "宋",
+  "verses": [
+    "小园曲径，度疏林深处，幽兰微馥。",
+    "竹坞无人双翠羽，飞触珊珊寒玉。",
+    "更欲题诗，晚来孤兴，却恐伤幽独。",
+    "不如花下，一尊芳酒相属。",
+    "慨念故国风流，杨花春梦短，黄粱初熟。",
+    "卷白千觞须劝我，洗此胸中荣辱。",
+    "醉揖南山，一声清啸，休把离骚读。",
+    "迟留归去，月明犹挂乔木。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-954",
+  "tags": []
+}

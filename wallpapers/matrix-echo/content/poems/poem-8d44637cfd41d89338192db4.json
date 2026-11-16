@@ -1,0 +1,14 @@
+{
+  "id": "poem-8d44637cfd41d89338192db4",
+  "title": "杂咏  其二",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "巨舰横江稳不摇，顺浮溟涨午时潮。",
+    "江南晴色山无翳，乞与闲人取次描。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-a0571096-7190-425a-8c35-e07266cb15cb"
+}

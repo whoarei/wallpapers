@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-819b",
+  "script": "kai",
+  "character": "膛",
+  "reading": "táng",
+  "description": "táng：(1)体腔胸～。开～。\n(2)器物中空的部分炉～儿。枪～。～线（亦称来复线”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-膛"
+}

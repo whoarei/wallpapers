@@ -1,0 +1,14 @@
+{
+  "id": "poem-a8c880f088a401e7365acd6e",
+  "title": "破阵子",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(外上)野外江山幽雅，城中景物繁华；(贴旦、旦、丑上)六街三市堪描画，万紫千红实可夸。",
+    "(合)闽城景最佳。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8252",
+  "tags": []
+}

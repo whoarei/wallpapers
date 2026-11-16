@@ -1,0 +1,22 @@
+{
+  "id": "poem-c9aed29d38392347d2aca17c",
+  "title": "无题四首 二",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "飒飒东风细雨来，芙蓉塘外有轻雷。",
+    "金蟾啮鏁烧香入，玉虎牵丝汲井回。",
+    "贾氏窥帘韩掾少，宓妃留枕魏王才。",
+    "春心莫共花争发，一寸相思一寸灰。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "相思",
+    "女子",
+    "爱情",
+    "七言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-811a5f9e-0df5-46f1-a587-0d4df7bca5a0"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-f1f818cb542f0c847020d767",
+  "title": "求仙行",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "汉皇欲作飞仙子，年年采药东海里。",
+    "蓬莱无路海无边，方士舟中相枕死。",
+    "招摇在天回白日，甘泉玉树无仙实。",
+    "九皇真人终不下，空向离宫祠太乙。",
+    "丹田有气凝素华，君能保之升绛霞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-49522bf6-df30-4a45-a34f-68ed4c97bcc9"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9cb5",
+  "script": "seal",
+  "character": "鲵",
+  "reading": "ní",
+  "description": "小鱼\n鲵ní受保护的两栖动物。头扁平，眼小口大，四肢短，尾巴扁。有大～和小～两种，大～俗称\"娃娃鱼\"。生活在淡水中，禁止猎杀食用。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲵"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-c60a80223c89b31c8aa1b6ab",
+  "title": "和叔崇两绝  其一",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "道心常要摄人心，有德之人必有隣。",
+    "愧我空虚无一善，安能交义契兰金。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-4b0e0b61-0f09-432c-a015-a6419d0046db"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bb5",
+  "script": "seal",
+  "character": "讵",
+  "reading": "jù；jv",
+  "description": "岂,难道\n无;非;不\n不料,哪知\n如果\n讵jù岂，难道，哪里～料。～知。～可闻？",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-讵"
+}

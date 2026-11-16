@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7b26",
+  "script": "kai",
+  "character": "符",
+  "reading": "fú",
+  "description": "fú：(1)古代朝廷传达命令或征调兵将用的凭证虎～。～信。～节。\n(2)代表事物的标记、记号～号。音～。\n(3)相合～合。言行相～。\n(4)道士画的驱使鬼神的图形或线条～咒。护身～。\n(5)古代称祥瑞的征兆～瑞。～应（yìng）（指天降符瑞”，与人事相应）。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-符"
+}

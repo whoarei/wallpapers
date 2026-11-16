@@ -1,0 +1,14 @@
+{
+  "id": "poem-4c51374f0b5c2d1e5f04f31d",
+  "title": "其日雨中闻姚黄开戏成诗二章呈子骏尧夫  其一",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "谷雨后来花更浓，前时已是玉玲珑。",
+    "客来更说姚黄发，只在街西相第东。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-327b8722-6cde-49a8-86c7-24e0ce2b294a"
+}

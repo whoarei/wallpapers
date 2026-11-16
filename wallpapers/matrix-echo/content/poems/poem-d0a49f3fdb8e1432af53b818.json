@@ -1,0 +1,18 @@
+{
+  "id": "poem-d0a49f3fdb8e1432af53b818",
+  "title": "赠衡山令",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "君吟十二载，辛苦必能官。",
+    "造化犹难隐，生灵岂易谩。",
+    "猿跳高岳静，鱼摆大江宽。",
+    "与我为同道，相留夜话阑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-76f9562f-aa08-4257-9634-c3e714326076"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-580ca1dee1a6d65c1bfe718e",
+  "title": "江城子·浣花溪上见卿卿",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "浣花溪上见卿卿，脸波明，黛眉轻。",
+    "绿云高绾，金族小蜻蜓。",
+    "好是问他来得么？和笑道：莫多情。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-1"
+}

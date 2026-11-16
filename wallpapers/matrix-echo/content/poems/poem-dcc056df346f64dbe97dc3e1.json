@@ -1,0 +1,16 @@
+{
+  "id": "poem-dcc056df346f64dbe97dc3e1",
+  "title": "劝学偈",
+  "author": "令参",
+  "dynasty": "唐",
+  "verses": [
+    "苦哉甚苦哉，波里觅干灰。",
+    "劝君收取手，正与摩时俫。",
+    "（以上三首均见《祖堂集》卷十。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-6bfd92e8-6763-45f1-8e97-27dbd7dc1706"
+}

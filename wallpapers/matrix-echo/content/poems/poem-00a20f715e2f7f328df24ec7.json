@@ -1,0 +1,14 @@
+{
+  "id": "poem-00a20f715e2f7f328df24ec7",
+  "title": "萧宅二三子赠答诗二十首 客荅石",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "遍索天地间，彼此最痴癖。",
+    "主人幸未来，与君为莫逆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c1177d8e-a46f-48f9-b280-bc2b6179f59e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b8afcef8bbfa4f58cfc8a25",
+  "title": "贺邓璠使君正拜袁州",
+  "author": "彭蟾",
+  "dynasty": "唐",
+  "verses": [
+    "六年惠爱及黎甿，大府论功俟陟明。",
+    "尺一诏书天上降，二千石禄世间荣。",
+    "新添画戟门增峻，旧蹑青云路转平。",
+    "更待皇恩醒善政，碧油幢到郡斋迎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-9852645a-b113-4fe7-bf47-1041aeea01a2"
+}

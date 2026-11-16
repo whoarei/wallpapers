@@ -1,0 +1,16 @@
+{
+  "id": "poem-97722348d02f03ddf66d3636",
+  "title": "菩萨蛮·风帘燕舞莺啼柳",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "风帘燕舞莺啼柳，妆台约鬓低纤手。",
+    "钗重髻盘珊，一枝红牡丹。",
+    "门前行乐客，白马嘶春色。",
+    "故故坠金鞭，回头应眼穿。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-18"
+}

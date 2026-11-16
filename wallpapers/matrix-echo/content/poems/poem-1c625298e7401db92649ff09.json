@@ -1,0 +1,16 @@
+{
+  "id": "poem-1c625298e7401db92649ff09",
+  "title": "前腔",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生)听禀：祖父同生，念同胞之义，手足之亲。",
+    "读书美意，他日显耀门庭。",
+    "(背介)思省，岂知哥哥生怒嗔？信谗言教我无投奔。",
+    "(净、丑)我每两个为你，劝得口干舌扁，倒说信谗言，难道我每倒是谗言？如今大哥要打自打，不干我事！(小生)将我赶出门，望哥哥息怒，暂且回心。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1714",
+  "tags": []
+}

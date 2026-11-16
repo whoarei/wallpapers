@@ -1,0 +1,16 @@
+{
+  "id": "poem-e1dbed375d745aba89c392e6",
+  "title": "偕同人登虞山乾元宫",
+  "author": "孙介",
+  "dynasty": "宋",
+  "verses": [
+    "尘嚣咫尺愧山林，胜日追凉得共临。",
+    "千里江湖堪送目，一轩松竹更论心。",
+    "清风便自生秋意，小酌何妨到夕阴。",
+    "归路蝉声满溪谷，为君倚盖一微吟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-42dc27d7-1ce5-4072-999c-cf00700a3d23"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-feff9883fcb080fe735a156b",
+  "title": "将赴东都上李相国",
+  "author": "孙叔向",
+  "dynasty": "唐",
+  "verses": [
+    "四海兵初偃，平津阁正开。",
+    "谁知大炉火，还有不然灰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-27cfd8f3-dc04-4569-9a92-3539b04cf58a"
+}

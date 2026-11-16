@@ -1,0 +1,14 @@
+{
+  "id": "poem-e28c1e03542b70e078b5f676",
+  "title": "东方之日",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "东方之日兮，彼姝者子，在我室兮。在我室兮，履我即兮。",
+    "东方之月兮，彼姝者子，在我闼兮。在我闼兮，履我发兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-98"
+}

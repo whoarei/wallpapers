@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-71e0",
+  "script": "seal",
+  "character": "燠",
+  "reading": "yù",
+  "description": "yù：暧，热～热（闷热）‘～失时。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-燠"
+}

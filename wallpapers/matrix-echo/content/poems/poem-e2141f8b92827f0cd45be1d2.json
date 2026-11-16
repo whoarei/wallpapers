@@ -1,0 +1,16 @@
+{
+  "id": "poem-e2141f8b92827f0cd45be1d2",
+  "title": "岳州晚景",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "晚景寒鸦集，秋声旅雁归。",
+    "水光浮日去，霞彩暎江飞。",
+    "洲白芦花吐，园红柿叶稀。",
+    "长沙卑湿地，九月未成衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-8e8b950d-862a-4c8d-9fe5-8327e4d31eb9"
+}

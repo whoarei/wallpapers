@@ -1,0 +1,16 @@
+{
+  "id": "poem-d8c754a9921ae333dc3cf789",
+  "title": "桂林道中二首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "时危远谪堕南峦，犹在乾坤覆载间。",
+    "瘴雨岚烟殊气候，玉簪罗带巧溪山。",
+    "桄榔叶暗伤心碧，踯躅花开满目斑。",
+    "惟有月华依旧好，清辉应与照云鬟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-6559e536-e4a3-4787-a06a-1ed54f7bede7"
+}

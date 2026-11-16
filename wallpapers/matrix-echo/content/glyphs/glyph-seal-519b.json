@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-519b",
+  "script": "seal",
+  "character": "军",
+  "reading": "jūn",
+  "description": "注犹屯兵粮储也。”\n攻杀\n指挥作战\n⒈武装部队～队。空～。～。陆～。\n⒉军队的编制单位，它是师的上一级。\n⒊泛指军事的或有组织的集体～机。～令。抗洪大～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-军"
+}

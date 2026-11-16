@@ -1,0 +1,17 @@
+{
+  "id": "poem-e0b5cd0690b9cf0d64c6a36b",
+  "title": "偈颂十二首  其五",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "五阴山中，魔强法弱。",
+    "战之不胜，休拟议著。",
+    "宝剑全提，莫问生杀。",
+    "奋不顾身，星飞火撒。",
+    "有功者赏，无功者罚。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-0b5d058a-f455-4bd3-9ea7-2d8e3176f2d4"
+}

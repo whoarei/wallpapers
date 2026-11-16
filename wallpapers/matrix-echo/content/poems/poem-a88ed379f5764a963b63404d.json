@@ -1,0 +1,16 @@
+{
+  "id": "poem-a88ed379f5764a963b63404d",
+  "title": "上巳忆江南禊事",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "黄河西绕郡城流，上巳应无祓禊游。",
+    "为忆渌江春水色，更无宵梦向吴州。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-3d23c60b-3b57-42b4-89b8-09d75abcf2d7"
+}

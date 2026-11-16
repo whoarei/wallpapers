@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7b2c",
+  "script": "kai",
+  "character": "第",
+  "reading": "dì",
+  "description": "dì：(1)次序～一。次～。等～。\n(2)科举考试及格的等次科～。及～。落～。\n(3)封建社会官僚贵族的大宅子宅～。府～。门～。进士～。\n(4)但运动有益于健康，～不宜过于剧烈。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-第"
+}

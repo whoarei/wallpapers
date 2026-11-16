@@ -1,0 +1,16 @@
+{
+  "id": "poem-56a6877b281aabd5005875dc",
+  "title": "郊庙歌辞 享文敬太子庙乐章 登歌",
+  "author": "陈京",
+  "dynasty": "唐",
+  "verses": [
+    "歌以德发，声以乐贵。",
+    "乐善名存，追仙礼异。",
+    "鸾旌拱修，凤鸣合吹。",
+    "神听皇慈，仲月皆至。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-87a78b1d-6698-48af-9dee-5f1ed107b418"
+}

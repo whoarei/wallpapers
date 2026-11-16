@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c15",
+  "script": "seal",
+  "character": "谕",
+  "reading": "yù",
+  "description": "明白、懂得\n旧时用指上对下的文告、指示\n⒉〈古〉同\"喻\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谕"
+}

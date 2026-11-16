@@ -1,0 +1,14 @@
+{
+  "id": "poem-6f22f235cd16aa2862b72b95",
+  "title": "黄神谷纪事",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "霹雳振秋岳，折松横洞门。",
+    "云龙忽变化，但觉玉潭昏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-51479f73-6ab6-4dc2-8390-7133e7f759ce"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-dcd19c582cbaaaaa53039813",
+  "title": "二犯渔家傲",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "思量，幼读文章，论事亲为子也须要成模样。",
+    "真情未讲，怎知道吃尽多磨障？被亲强来赴选场，被君强官为议郎，被婚强效鸾凰。",
+    "三被强衷肠说与谁行？埋冤难禁这两厢，这壁厢道咱是个不撑达害羞的乔相识，那壁厢道咱是个不睹是负心的薄幸郎。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5115",
+  "tags": []
+}

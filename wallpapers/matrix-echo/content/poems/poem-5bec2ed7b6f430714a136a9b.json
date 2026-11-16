@@ -1,0 +1,14 @@
+{
+  "id": "poem-5bec2ed7b6f430714a136a9b",
+  "title": "登岘亭",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "岘山回首望秦关，南向荆州几日还。",
+    "今日登临唯有泪，不知风景在何山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-844a6888-158d-4ffd-9b8f-89fce8d79c9f"
+}

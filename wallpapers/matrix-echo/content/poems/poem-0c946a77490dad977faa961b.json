@@ -1,0 +1,15 @@
+{
+  "id": "poem-0c946a77490dad977faa961b",
+  "title": "遐方怨·花半坼",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "花半坼，雨初晴。",
+    "未卷珠帘，梦残，惆怅闻晓莺。",
+    "宿妆眉浅粉山横，约鬟鸾镜里，绣罗轻。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-3",
+  "tags": []
+}

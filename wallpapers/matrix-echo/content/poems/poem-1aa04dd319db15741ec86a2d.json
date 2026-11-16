@@ -1,0 +1,16 @@
+{
+  "id": "poem-1aa04dd319db15741ec86a2d",
+  "title": "临江仙·江绕黄陵春庙闲",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "江绕黄陵春庙闲，娇莺独语关关。",
+    "满庭重叠绿苔斑，阴云无事，四散自归山。",
+    "箫鼓声稀香烬冷，月娥敛尽弯环。",
+    "风流皆道胜人间，须知狂客，拼死为红颜。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-36"
+}

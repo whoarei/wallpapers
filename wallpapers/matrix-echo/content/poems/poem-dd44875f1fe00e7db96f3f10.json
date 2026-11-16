@@ -1,0 +1,15 @@
+{
+  "id": "poem-dd44875f1fe00e7db96f3f10",
+  "title": "八",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "尊人相逐出，子莫向前行。",
+    "识事须相逢，（「须相逢」，伯三六五六、伯二八四二卷作「相逢见」。",
+    "）情知乏礼生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-6a305166-2a40-4dec-a0e6-fbe0ab689a53"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-7a933843e371a7705af0b1af",
+  "title": "早登太行山中言志",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "清跸度河阳，凝笳上太行。",
+    "火龙明鸟道，铁骑绕羊肠。",
+    "白雾埋阴壑，丹霞助晓光。",
+    "涧泉含宿冻，山木带余霜。",
+    "野老茅为屋，樵人薜作裳。",
+    "宣风问耆艾，敦俗劝耕桑。",
+    "凉德慙先哲，徽猷慕昔皇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-5b721d41-b555-48ff-8c1d-c81104498e39"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1529f64e2b738833aca338c6",
+  "title": "幽州夜歌",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "凉风吹夜雨，萧瑟动寒林。",
+    "正有高堂宴，能忘迟暮心。",
+    "军中宜剑舞，塞上重笳音。",
+    "不作边城将，谁知恩遇深。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-幽州夜歌"
+}

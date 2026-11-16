@@ -1,0 +1,16 @@
+{
+  "id": "poem-0a84d76008e749606cc7493f",
+  "title": "赠缘德",
+  "author": "曹翰",
+  "dynasty": "宋",
+  "verses": [
+    "二十年来访道人，奔波寒暑备艰辛。",
+    "谁知此日圆通会，便是今生出世因。",
+    "炉里有丹欣得遇，法中无语幸相亲。",
+    "如何至诀容传受，免向迷途强问津。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-d803c32e-0424-4f08-a004-d4cfd7262f88"
+}

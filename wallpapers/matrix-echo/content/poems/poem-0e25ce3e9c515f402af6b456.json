@@ -1,0 +1,18 @@
+{
+  "id": "poem-0e25ce3e9c515f402af6b456",
+  "title": "程帅以诗见慰用韵谢之",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "平时联辉星，转首食既月。",
+    "谁能玄览空，影事睨盈缺。",
+    "老子一掬泪，未憗谢天合。",
+    "生世岐高下，末路各一穴。",
+    "庄生悟浮休，荀粲枉悲咽。",
+    "公言敬书绅，闻道有先达。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-874c711c-a5b3-4dbb-9291-5b8aa2123b87"
+}

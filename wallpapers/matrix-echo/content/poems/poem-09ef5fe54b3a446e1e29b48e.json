@@ -1,0 +1,16 @@
+{
+  "id": "poem-09ef5fe54b3a446e1e29b48e",
+  "title": "思帝乡·云髻坠",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "云髻坠，凤钗垂。",
+    "髻坠钗垂无力，枕函欹。",
+    "翡翠屏深月落，漏依依。",
+    "说尽人间天上，两心知。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-14"
+}

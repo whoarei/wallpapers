@@ -1,0 +1,14 @@
+{
+  "id": "poem-3323786b26c95fab1abc97dd",
+  "title": "浣溪沙·春色迷人恨正赊",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "春色迷人恨正赊，可堪荡子不还家，细风轻露着梨花。",
+    "帘外有情双燕飏，槛前无力绿杨斜，小屏狂梦极天涯。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-0"
+}

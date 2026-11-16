@@ -1,0 +1,13 @@
+{
+  "id": "poem-6c52d3024b85bb7dbba3405f",
+  "title": "句",
+  "author": "奉蚌",
+  "dynasty": "唐",
+  "verses": [
+    "绿萝翦作三春柳，红锦裁成二月花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-0a64b37d-63fe-45fe-b831-7356624b9982"
+}

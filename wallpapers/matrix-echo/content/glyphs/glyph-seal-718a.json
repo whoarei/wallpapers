@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-718a",
+  "script": "seal",
+  "character": "熊",
+  "reading": "xióng",
+  "description": "xióng：(1)哺乳动物，体大，尾短，四肢短而粗，脚掌大，能直立行走，也能攀树，种类很多，有棕熊”、白熊”、黑熊”等狗～（即黑熊”）。～掌。～白（熊背上的脂肪，白色，珍贵食品）。～胆（熊的胆，可入药）。～包（喻无能的人，废物）。\n(2)方言，指斥责挨了一顿～。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-熊"
+}

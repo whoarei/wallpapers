@@ -1,0 +1,16 @@
+{
+  "id": "poem-1807fd62856645dbe50dde50",
+  "title": "东坡居士作水陆于金山相招足疮不能往作此以寄之",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "久阴障夺佳山川，长澜四溢鱼龙渊。",
+    "众看李郭渡浮玉，晴风扫出清明天。",
+    "颇闻妙力开大施，足病不列诸方仙。",
+    "想应苍壁有垂露，照水百怪愁寒烟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-0acd5a44-7e9a-4fde-b59f-74dbc0ec352d"
+}

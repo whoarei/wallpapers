@@ -1,0 +1,14 @@
+{
+  "id": "poem-517bc35f153c71a5d34e83fc",
+  "title": "捕守宫",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "向来上阳人，尽属沙叱利。",
+    "长门不用守，蜥蜴草间戏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-51f7e427-979e-4ad5-87d5-50dde3f69eb7"
+}

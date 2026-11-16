@@ -1,0 +1,18 @@
+{
+  "id": "poem-ed5cce89a588f6eb7607d0c6",
+  "title": "饮马长城窟",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "长城窟，长城窟边多马骨。",
+    "古来此地无井泉，赖得秦家筑城卒。",
+    "征人饮马愁不回，长城变作望乡堆。",
+    "蹄踪未干人去近，续后马来泥污尽。",
+    "枕弓睡著待水生，不见阴山在前阵。",
+    "马蹄足脱装马头，健儿战死谁封侯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-a2d88511-cac0-434e-a102-792458bc3af5"
+}

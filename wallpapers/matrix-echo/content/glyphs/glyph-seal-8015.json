@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8015",
+  "script": "seal",
+  "character": "耕",
+  "reading": "gēng",
+  "description": "gēng：用犁把土翻松～种（zhòng）。～作。～耘（耕地和除草，亦泛指劳动，如着意～～，自有收获”）。笔～（喻写文章）。舌～（喻教书）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-耕"
+}

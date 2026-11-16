@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65a9",
+  "script": "seal",
+  "character": "斩",
+  "reading": "zhǎn",
+  "description": "失期当斩。\n借第令毋斩。\n斩zhǎn砍，杀～首。～草除根。～钉截铁。～断魔爪。～敌者受赏。\n斩zhàn 1.沾。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-斩"
+}

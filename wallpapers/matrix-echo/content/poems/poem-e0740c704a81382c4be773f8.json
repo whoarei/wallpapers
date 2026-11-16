@@ -1,0 +1,14 @@
+{
+  "id": "poem-e0740c704a81382c4be773f8",
+  "title": "再游巾子山寺",
+  "author": "任翻",
+  "dynasty": "唐",
+  "verses": [
+    "灵江江上帻峰寺，三十年来两度登。",
+    "野鹤尚巢松树徧，竹房不见旧时僧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-f709816d-d21d-45db-963e-814ce89aba20"
+}

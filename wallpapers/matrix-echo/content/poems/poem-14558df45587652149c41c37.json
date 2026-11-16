@@ -1,0 +1,18 @@
+{
+  "id": "poem-14558df45587652149c41c37",
+  "title": "自淇涉黄河途中作十三首 四",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "南登滑台上，却望河淇间。",
+    "竹树夹流水，孤城对远山。",
+    "念兹川路阔，羡尔沙鸥闲。",
+    "长想别离处，犹无音信还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-89150285-38e4-480d-87d6-95db4cb9a4ed"
+}

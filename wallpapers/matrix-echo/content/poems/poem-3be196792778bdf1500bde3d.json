@@ -1,0 +1,18 @@
+{
+  "id": "poem-3be196792778bdf1500bde3d",
+  "title": "鼓吹曲辞 巫山高",
+  "author": "僧齐己",
+  "dynasty": "唐",
+  "verses": [
+    "巫山高，巫女妖。",
+    "雨为暮兮云为朝，楚王顦顇魂欲销。",
+    "秋猨嗥嗥日将夕，红霞紫烟凝老壁。",
+    "千岩万壑花皆坼，但恐芳菲无正色。",
+    "不知今古行人行，几人经此无秋情。",
+    "云深庙远不可觅，十二峰头插天碧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ee1c6140-7f86-4c71-ac6b-26abdbe9aa12"
+}

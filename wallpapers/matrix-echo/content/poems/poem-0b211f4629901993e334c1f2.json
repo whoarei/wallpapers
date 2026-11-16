@@ -1,0 +1,16 @@
+{
+  "id": "poem-0b211f4629901993e334c1f2",
+  "title": "冰赋附诗",
+  "author": "杨夔",
+  "dynasty": "唐",
+  "verses": [
+    "深山穷谷[凌]（陵）人凿，颁赐从来天下闻。",
+    "别有川池捐弃者，统思采斵献明君。",
+    "（《文苑英华》卷三八。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-1c463b1f-41b4-48c3-a94f-7145f702ff7e"
+}

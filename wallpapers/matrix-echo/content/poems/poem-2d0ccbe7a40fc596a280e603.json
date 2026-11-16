@@ -1,0 +1,15 @@
+{
+  "id": "poem-2d0ccbe7a40fc596a280e603",
+  "title": "清人",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "清人在彭，驷介旁旁。二矛重英，河上乎翱翔。",
+    "清人在消，驷介麃麃。二矛重乔，河上乎逍遥。",
+    "清人在轴，驷介陶陶。左旋右抽，中军作好。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-78"
+}

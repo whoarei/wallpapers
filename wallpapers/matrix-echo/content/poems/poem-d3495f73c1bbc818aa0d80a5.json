@@ -1,0 +1,14 @@
+{
+  "id": "poem-d3495f73c1bbc818aa0d80a5",
+  "title": "春日杂兴  其二",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "粉墙红杏半离披，春满人间花自知。",
+    "幽鸟不言如有思，等闲飞上海棠枝。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-d286d3f2-0c8e-47ef-a2af-fe8d90c9bf5f"
+}

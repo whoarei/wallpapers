@@ -1,0 +1,15 @@
+{
+  "id": "poem-f947815fd958ff8871962eee",
+  "title": "江南杂题三十首 其六",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "远郭浸烟波，村桥入薜萝。",
+    "水虵惊去疾，山鸟自来多。",
+    "夜月倾壶酒，春风就榜歌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-9e4d77a9-311d-4ce8-accf-a54a1ff648dc"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8c0a",
+  "script": "kai",
+  "character": "谊",
+  "reading": "yì",
+  "description": "意义,意思\n友情,友好关系\n谊yì交情，情意友～。深情厚～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谊"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75c2",
+  "script": "seal",
+  "character": "痂",
+  "reading": "jiā",
+  "description": "jiā：伤口或疮口血液、淋巴液等凝结成的东西，伤口或疮口痊愈后，自行脱落结～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-痂"
+}

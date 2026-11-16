@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e2a",
+  "script": "seal",
+  "character": "个",
+  "reading": "gè",
+  "description": "通用个体量词,表示单独的人或物\n字亦作箇”\n俗又作個”\n用于没有专用量词的事物。如一个人;一个影子\n也可用于某些有专用量词的事物\n⒈单，独～人。～别。～体。\n⒉量词洗了～澡。两～苹果。三～月。竹竿万～。\n⒊此，这～中。～样。\n⒋〈表〉动作行为打他～落花流水。\n⒌〈表〉身材或物体的大小瘦～儿。包子～儿不小。\n⒍〈表〉程度或持续笑～不停。讲～没完。\n⒎语气助词。无义明儿～。\n个gàn 1.古代射礼用的箭靶两旁上下伸出的部分，又叫舌。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-个"
+}

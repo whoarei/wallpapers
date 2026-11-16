@@ -1,0 +1,14 @@
+{
+  "id": "poem-3e5f281899b7282aa54bfe07",
+  "title": "九江琵琶亭",
+  "author": "宋敏求",
+  "dynasty": "宋",
+  "verses": [
+    "夜泊浔阳宿酒楼，琵琶亭畔荻花秋。",
+    "云沈鸟没事已往，月白风清江自流。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-cceeb0a9-7e05-41f5-834a-ae3270473855"
+}

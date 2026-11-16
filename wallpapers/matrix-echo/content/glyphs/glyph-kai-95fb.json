@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-95fb",
+  "script": "kai",
+  "character": "闻",
+  "reading": "wén",
+  "description": "⒈听耳～目睹。～过则喜。～风而起。\n⒉消息，听说的，听见的新～。奇～。～所未～。\n⒊出名，有名望～人。～名。\n⒍用鼻子嗅～着烟味。～到香味。\n闻wèn 1.声誉，名声。 2.通\"问\"。慰问。 3.通\"问\"。询问。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-闻"
+}

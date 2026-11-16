@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6f02",
+  "script": "seal",
+  "character": "漂",
+  "reading": "piāo；piǎo；piào",
+  "description": "piāo：浮在液体上不动或顺着风向、流向而移动～浮。～流。～没（mò）。～移。～泊（喻职业生活不固定，东奔西走。亦作飘泊”）。～零。～沦。～游。～萍。\npiǎo：(1)用水加药品使物品退去颜色或变白～白。～染。\n(2)用水冲去杂质～洗。\npiào：方言，事情、账目等落空那事没什么指望，～了。\n〔～亮〕ａ．好看，如长得～～”；ｂ．出色，如这件事办得～～”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-漂"
+}

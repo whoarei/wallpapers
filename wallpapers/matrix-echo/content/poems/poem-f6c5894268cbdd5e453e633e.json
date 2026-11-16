@@ -1,0 +1,20 @@
+{
+  "id": "poem-f6c5894268cbdd5e453e633e",
+  "title": "夜到渔家",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "渔家在江口，潮水入柴扉。",
+    "行客欲投宿，主人犹未归。",
+    "竹深村路远，月出钓船稀。",
+    "遥见寻沙岸，春风动草衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "抒情",
+    "游子",
+    "写人"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-f3df89b4-1a24-40b5-b668-1348f73d22c6"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1d48ac3964c558ed2c3fa59c",
+  "title": "贫家壁",
+  "author": "李善宁之子",
+  "dynasty": "唐",
+  "verses": [
+    "椒气从何得？灯光凿处分。",
+    "拖筵来藻饰，惟有篆愁君。",
+    "（同前。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-96df7153-0acf-4043-8b28-4524234c2eb3"
+}

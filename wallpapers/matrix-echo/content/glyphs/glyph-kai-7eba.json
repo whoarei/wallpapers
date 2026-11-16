@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7eba",
+  "script": "kai",
+  "character": "纺",
+  "reading": "fǎng",
+  "description": "通绷”。捆绑,悬挂;束缚\n绸属;素纱\n⒈将丝、棉、麻、毛、化工纤维等制成纱或线～细纱。～毛线。\n⒉质地比绸子轻薄的丝织物或绸子的一种～绸。蜀～。\n纺bǎng 1.悬空绑着;捆缚。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-纺"
+}

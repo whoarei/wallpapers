@@ -1,0 +1,16 @@
+{
+  "id": "poem-6a5e81c1ffccbb0425322cd6",
+  "title": "题友人寓居",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "寓居无不在天涯，莫恨秦关道路赊。",
+    "缭绕城边山是蜀，弯环门外水名巴。",
+    "黄头卷席宾初散，白鼻嘶风日欲斜。",
+    "何处一声金磬发，古松南畔有僧家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-16a1792d-8510-4f93-9a39-984a2975787b"
+}

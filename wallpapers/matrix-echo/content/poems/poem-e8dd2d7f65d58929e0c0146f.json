@@ -1,0 +1,18 @@
+{
+  "id": "poem-e8dd2d7f65d58929e0c0146f",
+  "title": "燕衔泥",
+  "author": "冯著",
+  "dynasty": "唐",
+  "verses": [
+    "双燕碌碌飞入屋，屋中老人喜燕归。",
+    "裴回绕我床头飞，去年为尔逐黄雀。",
+    "雨多屋漏泥土落，尔莫厌老翁茅屋低，梁头作窠梁下栖。",
+    "尔不见东家黄鷇鸣啧啧，蛇盘瓦沟鼠穿壁。",
+    "豪家大屋尔莫居，娇儿少妇采尔雏。",
+    "井旁写水泥自足，衔泥上屋随尔欲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-891b2c80-f3fc-4841-93a9-6d68605e175a"
+}

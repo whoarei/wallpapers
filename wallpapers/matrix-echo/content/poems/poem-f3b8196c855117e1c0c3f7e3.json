@@ -1,0 +1,16 @@
+{
+  "id": "poem-f3b8196c855117e1c0c3f7e3",
+  "title": "别洞庭维谅上人",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "白云关我不关他，此物留君情最多。",
+    "情著春风生橘树，归心不怕洞庭波。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-e7808f40-425c-47f1-9d9b-61e5658bea45"
+}

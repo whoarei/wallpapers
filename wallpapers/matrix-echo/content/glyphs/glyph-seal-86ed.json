@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-86ed",
+  "script": "seal",
+  "character": "蛭",
+  "reading": "zhì",
+  "description": "zhì：〔水～〕环节动物，身体长形，稍扁，墨绿色，尾端有吸盘，雌雄同体生活在池沼或水田中，能吸人畜的血。唾液中含有水蛭素，医学上能发挥抗凝血作用。虫体经干燥炮制后入中药。俗称蚂蟥”马鳖”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蛭"
+}

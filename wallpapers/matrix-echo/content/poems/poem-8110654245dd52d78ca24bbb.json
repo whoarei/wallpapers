@@ -1,0 +1,16 @@
+{
+  "id": "poem-8110654245dd52d78ca24bbb",
+  "title": "送欧阳衮归闽中",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "秦城几年住，犹著故乡衣。",
+    "失意时相识，成名后独归。",
+    "海秋蛮树黑，岭夜瘴禽飞。",
+    "为学心难满，知君更掩扉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e6f8831f-8a6e-489a-b3c5-7a47faaaa98b"
+}

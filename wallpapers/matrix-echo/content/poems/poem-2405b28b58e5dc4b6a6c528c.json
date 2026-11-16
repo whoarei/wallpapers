@@ -1,0 +1,16 @@
+{
+  "id": "poem-2405b28b58e5dc4b6a6c528c",
+  "title": "塞上",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "勒兵辽水边，风急卷旌旃。",
+    "绝塞寒无树，平沙势尽天。",
+    "雪晴回探骑，月落控鸣弦。",
+    "永定山河誓，南归改汉年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ab5a64cc-7b45-4405-ae1b-70a9c2f4a51c"
+}

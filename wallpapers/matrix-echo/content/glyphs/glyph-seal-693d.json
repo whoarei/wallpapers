@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-693d",
+  "script": "seal",
+  "character": "椽",
+  "reading": "chuán",
+  "description": "chuán：(1)放在檩上架着屋顶的木条～子。～笔。\n(2)古代房屋间数的代称东宇西房数十～。”",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-椽"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5154",
+  "script": "kai",
+  "character": "兔",
+  "reading": "tù",
+  "description": "tù：(1)哺乳动物，耳长，尾短，上唇中间裂开，后肢较长，跑得快～子。～脱（迅速地逃走）。～毫笔。～起鹘落（鹘”，打猎用的猛禽。兔子才起来而鹘已经扑下去，喻动作敏捷。亦喻作书画或写文章下笔迅捷）。\n(2)古称娈童（指被当作女性玩弄的美貌男子）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-兔"
+}

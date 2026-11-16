@@ -1,0 +1,18 @@
+{
+  "id": "poem-a527a3531f7814bf6864e27c",
+  "title": "滕王阁",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "昔人登览处，遗阁大江隅。",
+    "叠浪有时有，闲云无日无。",
+    "早凉先燕去，返照后帆孤。",
+    "未得营归计，菱歌满旧湖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "滕王阁"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3e8f3ce8-4766-4896-9420-ded8b2856a36"
+}

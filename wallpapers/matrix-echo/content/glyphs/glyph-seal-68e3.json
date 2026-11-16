@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-68e3",
+  "script": "seal",
+  "character": "棣",
+  "reading": "dì；dài；tì",
+  "description": "dì：同弟”贤～。～友（兄弟友爱）。～鄂（喻兄弟友爱。亦作棣萼”）。\n〔～棠〕落叶灌木，花黄色。果实黑色，供观赏。\ndài：〔～～〕文雅安闲的样子，如威仪～～”。\ntì：通～通（通达，贯通）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-棣"
+}

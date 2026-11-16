@@ -1,0 +1,14 @@
+{
+  "id": "poem-aa4ddaad2fdfcf023c492bd7",
+  "title": "送元二使安西",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "渭城朝雨浥轻尘，客舍青青柳色新。",
+    "劝君更尽一杯酒，西出阳关无故人。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-送元二使安西"
+}

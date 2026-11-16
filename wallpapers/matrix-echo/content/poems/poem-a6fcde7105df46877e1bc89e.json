@@ -1,0 +1,19 @@
+{
+  "id": "poem-a6fcde7105df46877e1bc89e",
+  "title": "游山",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "白道行深云，云高路弥细。",
+    "时时天上客，遗路人间世。",
+    "烟花最深处，井臼得空刺。",
+    "天寒鹤巢林，石长泉脉闭。",
+    "神化万灵集，心期一朝契。",
+    "不见金板书，谁知阮家裔。",
+    "终期太古人，问取松柏岁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e10f90db-3c4b-427a-9748-733582b40c60"
+}

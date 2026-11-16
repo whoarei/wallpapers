@@ -1,0 +1,16 @@
+{
+  "id": "poem-a40fd663264ead2d7e7ac59c",
+  "title": "答李儋",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "verses": [
+    "去年花里逢君别，今日花开又一年。",
+    "世事茫茫难自料，春愁黯黯独成眠。",
+    "身多疾病思田里，邑有流亡愧俸钱。",
+    "闻道欲来相问讯，西楼望月几回圆。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-答李儋"
+}

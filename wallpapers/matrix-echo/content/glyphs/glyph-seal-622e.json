@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-622e",
+  "script": "seal",
+  "character": "戮",
+  "reading": "lù",
+  "description": "lù：(1)杀～尸。杀～。\n(2)羞辱，侮辱～人（罪人）。～民（受刑罚的人）。～辱。～笑（耻笑）。\n〔～力〕合力，并力，如～～同心”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-戮"
+}

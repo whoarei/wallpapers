@@ -1,0 +1,16 @@
+{
+  "id": "poem-7531c004acbdba5b61089bad",
+  "title": "菩萨蛮·红楼别夜堪惆怅",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "红楼别夜堪惆怅，香灯半卷流苏帐。",
+    "残月出门时，美人和泪辞。",
+    "琵琶金翠羽，弦上黄莺语。",
+    "劝我早归家，绿窗人似花。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-33"
+}

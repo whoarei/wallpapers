@@ -1,0 +1,14 @@
+{
+  "id": "poem-7b9200216ba5eac7d3be9729",
+  "title": "洋州三十景 吏隐亭",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "心休忘物我，道胜一轩静。",
+    "隐几度朝晡，可嗟人畏影。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-697ceb6d-33a6-4b51-ad1a-f9133d552cdd"
+}

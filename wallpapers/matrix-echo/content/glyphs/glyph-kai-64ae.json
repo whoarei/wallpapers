@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-64ae",
+  "script": "kai",
+  "character": "撮",
+  "reading": "cuō；zuǒ",
+  "description": "cuō：(1)聚起，多指用簸箕状的器具铲起东西～成一堆。～土。～合。\n(2)取，摘取～要。\n(3)用手指捏取细碎的东西～药。\n(4)中国市制容量单位，一升的千分之一。\n(5)量词一～米。\n(6)撮东西用的器具～子。～箕。\nzuǒ：量词，用于成丛的毛发剪下一～头发。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撮"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-b3ba89b495a1c91fd29233c1",
+  "title": "句",
+  "author": "罗衮",
+  "dynasty": "唐",
+  "verses": [
+    "此心不向常人说。",
+    "（《江湖小集》卷二十一李龏《剪绡集》引。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-5191f558-339e-4d52-b6e4-651659e8f22e"
+}

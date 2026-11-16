@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6de6",
+  "script": "seal",
+  "character": "淦",
+  "reading": "gàn",
+  "description": "gàn：(1)水入船中。\n(2)河工称起伏很大的激浪。\n(3)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淦"
+}

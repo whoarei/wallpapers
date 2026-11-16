@@ -1,0 +1,14 @@
+{
+  "id": "poem-4434fcdbd4041431db25f8bb",
+  "title": "浣溪沙·蓼岸风多枯柚香",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "蓼岸风多枯柚香，江边一望楚天长，片帆烟际闪孤光。",
+    "目送征鸿飞杳杳，思随流水去茫茫，兰红波碧忆潇湘。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-37"
+}

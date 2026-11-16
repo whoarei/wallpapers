@@ -1,0 +1,16 @@
+{
+  "id": "poem-45b202b0faad66d7a77f1d6f",
+  "title": "临江仙·幽闺欲曙闻莺啭",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "幽闺欲曙闻莺啭，红窗月影微明。",
+    "好风频谢落花声，隔帷残烛，犹照绮屏筝。",
+    "绣被锦茵眠玉暖，炷香斜袅烟轻。",
+    "淡蛾羞敛不胜情，暗思闲梦，何处逐云行。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-41"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-292fd39199336c51e64d4a1d",
+  "title": "观沧海",
+  "author": "曹操",
+  "dynasty": "汉",
+  "verses": [
+    "东临碣石，以观沧海。",
+    "水何澹澹，山岛竦峙。",
+    "树木丛生，百草丰茂。",
+    "秋风萧瑟，洪波涌起。",
+    "日月之行，若出其中；星汉灿烂，若出其里。",
+    "幸甚至哉，歌以咏志。"
+  ],
+  "enabled": true,
+  "collection": "曹操诗集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/曹操诗集/caocao.json#record-4"
+}

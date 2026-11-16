@@ -1,0 +1,20 @@
+{
+  "id": "poem-952a0f7db069e7d616b19ed3",
+  "title": "蝶恋花·北斗秋横云髻影",
+  "author": "吴文英",
+  "dynasty": "宋",
+  "verses": [
+    "北斗秋横云髻影。",
+    "莺羽衣轻，腰减青丝剩。",
+    "一曲游仙闻玉磬。",
+    "月华深院人初定。",
+    "十二阑干和笑凭。",
+    "风露生寒，人在莲花顶。",
+    "睡重不知残酒醒。",
+    "红帘几度啼鸦暝。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-443",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-9116b83c855f796ba0b86298",
+  "title": "大水",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "暴雨逐惊雷，从风忽骤来。",
+    "浪驱三岛至，江拆二仪开。",
+    "势恐圆枢折，声疑厚轴摧。",
+    "冥心问元化，天眼几时回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-c717d4bc-574c-4c04-a9a0-5292fad95c82"
+}

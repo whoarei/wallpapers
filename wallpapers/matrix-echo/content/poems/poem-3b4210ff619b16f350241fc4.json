@@ -1,0 +1,17 @@
+{
+  "id": "poem-3b4210ff619b16f350241fc4",
+  "title": "同前换头",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "清晓，侍婢不惜千金，相呼斗百草。",
+    "遗珥坠簪，(合)蹙着千秋，不禁笑语声高。",
+    "(后)夭桃，遍开浑若烧空，雏禽时叫。",
+    "睹景处，觉得奴心烦恼。",
+    "(外)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2559",
+  "tags": []
+}

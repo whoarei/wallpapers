@@ -1,0 +1,16 @@
+{
+  "id": "poem-84f25acf0b34c750ba4668bd",
+  "title": "横吹曲辞 出塞曲 二",
+  "author": "于鹄",
+  "dynasty": "唐",
+  "verses": [
+    "单于骄爱猎，放火到军城。",
+    "待月调新弩，防秋置远营。",
+    "空山朱戟影，寒碛铁衣声。",
+    "逢著降胡说，阴山有伏兵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-db605400-358d-4cb3-93af-2b6316ae9620"
+}

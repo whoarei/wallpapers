@@ -1,0 +1,14 @@
+{
+  "id": "poem-bc64182fe67b1f4fda42b597",
+  "title": "浄名  其一",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "厌市冲烟入，忘怀对客迟。",
+    "吟看飞鸟没，坐到夕阳时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-030147f9-a6b3-4b26-b8f4-a62d200d3f0e"
+}

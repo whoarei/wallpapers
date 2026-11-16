@@ -1,0 +1,16 @@
+{
+  "id": "poem-4ac7f00a92a608dba9d2fe7b",
+  "title": "慈恩寺东楼",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "寺楼凉出竹，非与曲江赊。",
+    "野火流穿苑，秦山叠入巴。",
+    "风梢离众叶，岸角积虚沙。",
+    "此地钟声近，令人思未涯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-97569e1c-7bac-4799-a644-b84a7662e152"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c215ec445cae8f53720aab6d",
+  "title": "送新罗人归本国",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "鸡林隔巨浸，一住一年行。",
+    "日近国先曙，风吹海不平。",
+    "眼穿乡井树，头白渺弥程。",
+    "到彼星霜换，唐家语却生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-6cc338af-cc0a-4023-bef7-ccb1ad77c293"
+}

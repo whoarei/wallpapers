@@ -1,0 +1,14 @@
+{
+  "id": "poem-0a03f599d3ed2e2f124a8ae9",
+  "title": "别牛郎中门馆",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "整襟收泪别朱门，自料难酬顾念恩。",
+    "招得片魂骑匹马，西风斜日入秋原。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-8bccb9f1-cffe-4671-a612-df0aa404ac82"
+}

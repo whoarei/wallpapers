@@ -1,0 +1,20 @@
+{
+  "id": "poem-69a21b25a738bf66599827a0",
+  "title": "遣悲怀三首 一",
+  "author": "元稹",
+  "dynasty": "唐",
+  "verses": [
+    "谢公最小偏怜女，嫁与黔娄百事乖。",
+    "顾我无衣搜画箧，泥他沽酒拔金钗。",
+    "野蔬充膳甘长藿，落叶添薪仰古槐。",
+    "今日俸钱过十万，与君营奠复营斋。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言律诗",
+    "悼亡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-8b57e03d-6d1f-4a4a-ba34-1f58e2551ca1"
+}

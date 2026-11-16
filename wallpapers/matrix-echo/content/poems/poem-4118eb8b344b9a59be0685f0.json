@@ -1,0 +1,16 @@
+{
+  "id": "poem-4118eb8b344b9a59be0685f0",
+  "title": "送舍弟孺复往庐山",
+  "author": "熊孺登",
+  "dynasty": "唐",
+  "verses": [
+    "能骑竹马辨西东，未省烟花暂不同。",
+    "第一早归春欲尽，庐山好看过湖风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-9522d29d-f489-4b7f-ba58-d741b60a2f12"
+}

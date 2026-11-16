@@ -1,0 +1,16 @@
+{
+  "id": "poem-b7886748288d11d2bbf53326",
+  "title": "吊元鲁山 十",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "遗婴尽雏乳，何况骨肉枝。",
+    "心肠结苦诚，胸臆垂甘滋。",
+    "事已出古表，谁言独今奇。",
+    "贤人母万物，岂弟流前诗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-390cd0ff-b216-4913-bb04-fa2efa555ba6"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-06dfd925651063fa7b737882",
+  "title": "侍郎宅泛池",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "莲子花边回竹岸，鸡头叶上荡兰舟。",
+    "谁知洛北朱门里，便到江南绿水游。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-d3e952ab-2299-4e42-a5a8-2f82a8fca5ef"
+}

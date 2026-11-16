@@ -1,0 +1,16 @@
+{
+  "id": "poem-6694728a8f3a94b02769ab03",
+  "title": "亭前柳",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(净)老儿垂鬓已星星，弱体战兢兢。",
+    "况兼寒凛凛。",
+    "那更冷清清。",
+    "此行怎去登山岭？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8297",
+  "tags": []
+}

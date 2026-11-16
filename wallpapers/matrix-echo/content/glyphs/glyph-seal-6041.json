@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6041",
+  "script": "seal",
+  "character": "恁",
+  "reading": "nín；nèn",
+  "description": "nèn：(1)那么，那样，如此，这样～大。～高。\n(2)那～时节。\n(3)怎么却～地教甚么人在间壁吱吱地哭，搅掩兄弟们吃酒？”\n(4)恩，念宜亦勤～旅力，以充厥道”。\nnín：古同您”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-恁"
+}

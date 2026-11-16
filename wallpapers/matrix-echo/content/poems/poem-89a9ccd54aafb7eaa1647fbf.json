@@ -1,0 +1,16 @@
+{
+  "id": "poem-89a9ccd54aafb7eaa1647fbf",
+  "title": "夜宿黑灶溪",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "夜到碧溪里，无人秋月明。",
+    "逢幽更移宿，取伴亦探行。",
+    "花下红泉色，云西乳鹤声。",
+    "明朝记归处，石上自书名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-720e3d90-14ad-4393-9163-e063ab3e6783"
+}

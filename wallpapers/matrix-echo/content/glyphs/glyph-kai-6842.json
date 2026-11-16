@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6842",
+  "script": "kai",
+  "character": "桂",
+  "reading": "guì",
+  "description": "guì：(1)中国广西壮族自治区的别称～剧。～系军阀。\n(2)姓。\n〔～花〕常绿小乔木或灌木，叶椭圆形，开白色或暗黄色小花，有特殊的香气，供观赏，亦可做香料，通称木犀”；简称桂”，如金～”，～子飘香”、～轮”（月的别称，相传月中植桂花。亦称桂魄”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-桂"
+}

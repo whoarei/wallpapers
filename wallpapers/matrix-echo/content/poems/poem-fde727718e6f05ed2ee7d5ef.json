@@ -1,0 +1,18 @@
+{
+  "id": "poem-fde727718e6f05ed2ee7d5ef",
+  "title": "木兰花・玉楼春·虫娘举措皆温润",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "虫娘举措皆温润。",
+    "每到婆娑偏恃俊。",
+    "香檀敲缓玉纤迟，画鼓声催莲步紧。",
+    "贪为顾盼夸风韵。",
+    "往往曲终情未尽。",
+    "坐中年少暗消魂，争问青鸾家远近。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-160",
+  "tags": []
+}

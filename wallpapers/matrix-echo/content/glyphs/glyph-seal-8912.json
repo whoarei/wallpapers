@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8912",
+  "script": "seal",
+  "character": "褒",
+  "reading": "bāo；bǎo",
+  "description": "bǎo：(1)赞扬，夸奖，与贬”相对～奖。～扬。～贬。～义词。\n(2)衣襟宽大～衣博带。\n(3)中国周代诸侯国名，在今陕西省勉县东南。亦称有褒”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-褒"
+}

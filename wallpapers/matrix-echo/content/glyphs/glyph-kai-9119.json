@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9119",
+  "script": "kai",
+  "character": "鄙",
+  "reading": "bǐ",
+  "description": "bǐ：(1)中国周代地方组织单位之一，五百家为一鄙～师（古官名，周制每县五鄙，鄙师”掌其鄙之政令祭祀）。\n(2)郊野之处，边远的地方边～。\n(3)粗俗～陋。～俗。～夫。～近（庸俗浅近）。\n(4)轻蔑，看不起～视。～夷。～弃。～薄。\n(5)品质低劣卑～。\n(6)谦辞，用于自称～人。～老。～见。\n(7)吝啬～吝。～诈（贪吝诈伪）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鄙"
+}

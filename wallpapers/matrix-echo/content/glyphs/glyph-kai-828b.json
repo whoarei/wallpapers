@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-828b",
+  "script": "kai",
+  "character": "芋",
+  "reading": "yù",
+  "description": "yù：(1)多年生草本植物，作一年生栽植培。地下有肉质的球茎，含淀粉很多，可供食用，亦可药用。俗称芋奶”、芋艿”、芋头”。\n(2)指马铃薯”洋～。\n(3)指甘薯”山～。\n(4)指荸荠”乌～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芋"
+}

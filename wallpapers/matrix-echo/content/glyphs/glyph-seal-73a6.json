@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-73a6",
+  "script": "seal",
+  "character": "玦",
+  "reading": "jué",
+  "description": "jué：(1)半环形有缺口的佩玉，古代常用以赠人表示决绝绝人以～。\n(2)戴于右拇指助拉弓弦之器。俗称扳指”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-玦"
+}

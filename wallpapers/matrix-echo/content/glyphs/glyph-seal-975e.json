@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-975e",
+  "script": "seal",
+  "character": "非",
+  "reading": "fēi",
+  "description": "fēi：(1)不，不是～凡。～法。～分（fèn）。～礼。～但。～同小可。啼笑皆～。\n(2)不对，过失痛改前～。文过饰～。习～成是（对于某些错的事情习惯了，反认为是对的）。\n(3)与不”呼应，表示必须（有时后面没有不”字）我～看这本书。\n(4)责怪，反对～难（nàn）。～议。无可厚～。\n(5)指阿非利加洲”（位于东半球的西南部。简称非洲”）东～。西～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-非"
+}

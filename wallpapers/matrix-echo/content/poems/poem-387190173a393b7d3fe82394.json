@@ -1,0 +1,16 @@
+{
+  "id": "poem-387190173a393b7d3fe82394",
+  "title": "送南客",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "行路雨修修，青山尽海头。",
+    "天涯人去远，岭北水空流。",
+    "夜市连铜柱，巢居属象州。",
+    "来时旧相识，谁向日南游。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ad33bfc2-7b45-48ee-b3ca-3891ab32a9f5"
+}

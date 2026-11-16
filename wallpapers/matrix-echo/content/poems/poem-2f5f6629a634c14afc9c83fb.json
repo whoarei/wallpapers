@@ -1,0 +1,14 @@
+{
+  "id": "poem-2f5f6629a634c14afc9c83fb",
+  "title": "孤屿",
+  "author": "张又新",
+  "dynasty": "唐",
+  "verses": [
+    "碧水逶迤浮翠𪩘，绿萝蒙密媚晴江。",
+    "不知谁与名孤屿，其实中川是一双。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-0c23b2e8-35ba-4933-ad6c-fe0b722dc449"
+}

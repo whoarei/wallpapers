@@ -1,0 +1,18 @@
+{
+  "id": "poem-2591680e509db8d6e53f4f87",
+  "title": "西江月·微步凌波尘起",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "微步凌波尘起，弄妆满镜花开。",
+    "春心掷处眼频来。",
+    "秀色著人无耐。",
+    "旧事如风无迹，新愁似水难裁。",
+    "相思日夜梦阳台。",
+    "减尽沈郎衣带。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-783",
+  "tags": []
+}

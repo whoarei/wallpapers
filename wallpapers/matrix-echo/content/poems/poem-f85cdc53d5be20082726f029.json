@@ -1,0 +1,16 @@
+{
+  "id": "poem-f85cdc53d5be20082726f029",
+  "title": "字字双",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［净上］试官没眼他及第，得志。",
+    "恋着相府多荣贵，入赘。",
+    "不思贫窘弃前妻，忘义。",
+    "叵耐穷酸太无知，呕气。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8192",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62d7",
+  "script": "kai",
+  "character": "拗",
+  "reading": "niù；ǎo；ào",
+  "description": "ǎo：弯曲使断，折竹竿～断了。\nào：不顺，不顺从～口。～口令。\nniù：固执，不驯顺执～。～不过他。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拗"
+}

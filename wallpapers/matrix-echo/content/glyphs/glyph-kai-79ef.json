@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-79ef",
+  "script": "kai",
+  "character": "积",
+  "reading": "jī",
+  "description": "累积;堆叠\n⒈堆积谷物农收～场。〈引〉堆积，聚集～肥。～少致巨。日～月累。～土而为山，～水而为海。\n⒊停滞～食。\n⒋算数乘法的得数乘～。\n①正面的，进步的～极因素。～极分子。\n②进取的，努力的～极争取。～极工作。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-积"
+}

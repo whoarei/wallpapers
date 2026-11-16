@@ -1,0 +1,13 @@
+{
+  "id": "poem-ecad93cc8832d5b02e4dcacf",
+  "title": "武",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "于皇武王！无竞维烈。允文文王，克开厥后。嗣武受之，胜殷遏刘，耆定尔功。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-284"
+}

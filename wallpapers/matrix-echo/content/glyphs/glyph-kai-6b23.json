@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6b23",
+  "script": "kai",
+  "character": "欣",
+  "reading": "xīn",
+  "description": "xīn：快乐，喜欢～～（ａ．高兴的样子，如～～而来”；ｂ．草木生机旺盛的样子，如～～向荣”，亦泛指蓬勃发展）。～喜。欢～鼓舞。～然。～赏。～幸。～慕。～悦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-欣"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-63355d62c43a997b9f969641",
+  "title": "村学究",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "八九顽童一草庐，土朱勤点七言书。",
+    "晚听学长吹樵笛，国子先生殆不如。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-60950620-3691-4168-b7d1-95984c575a4b"
+}

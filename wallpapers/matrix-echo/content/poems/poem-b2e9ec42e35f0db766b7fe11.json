@@ -1,0 +1,14 @@
+{
+  "id": "poem-b2e9ec42e35f0db766b7fe11",
+  "title": "失题",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "华表千年一鹤归，丹砂为顶雪为衣。",
+    "泠泠仙语人听尽，却向五云翻翅飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4e7b084a-3107-4f8a-9f3c-2d2cf8939700"
+}

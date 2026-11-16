@@ -1,0 +1,16 @@
+{
+  "id": "poem-7d0ce1e34b3ea71d1a3f9a96",
+  "title": "酒泉子·谢却荼蘼",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "谢却荼蘼，一片月明如水。",
+    "篆香消，犹未睡，早鸦啼。",
+    "嫩寒无赖罗衣薄，休傍阑干角。",
+    "最愁人，灯欲落，雁还飞。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-5"
+}

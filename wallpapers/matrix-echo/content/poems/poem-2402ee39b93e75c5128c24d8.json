@@ -1,0 +1,15 @@
+{
+  "id": "poem-2402ee39b93e75c5128c24d8",
+  "title": "破斧",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "既破我斧，又缺我斨。周公东征，四国是皇。哀我人斯，亦孔之将。",
+    "既破我斧，又缺我锜。周公东征，四国是遒。哀我人斯，亦孔之嘉。",
+    "既破我斧，又缺我𨱇。周公东征，四国是遒。哀我人斯，亦孔之休。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-156"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-918d",
+  "script": "seal",
+  "character": "醍",
+  "reading": "tí；tǐ",
+  "description": "tí：〔～醐〕古代指从牛奶中提炼出来的酥油，佛教喻最高的佛法，如～～灌顶”（喻把佛法、智慧、悟性灌输给人，使人彻底醒悟，亦借指听了精辟的言论深受启发教育）。\ntǐ：较清的浅红色酒粢～在堂”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-醍"
+}

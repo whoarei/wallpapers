@@ -1,0 +1,17 @@
+{
+  "id": "poem-b992ecdb0f93cc1e923b262b",
+  "title": "河传·同伴",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "同伴，相唤。",
+    "杏花稀，梦里每愁依违。",
+    "仙客一去燕已飞，不归，泪痕空满衣。",
+    "天际云鸟引晴远，春已晚，烟霭渡南苑。",
+    "雪梅香，柳带长，小娘，转令人意伤。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-10",
+  "tags": []
+}

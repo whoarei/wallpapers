@@ -1,0 +1,15 @@
+{
+  "id": "poem-8ccdb84b7fbf51e82ea205cb",
+  "title": "失调名·挂天师",
+  "author": "魏掞之",
+  "dynasty": "宋",
+  "verses": [
+    "挂天师，撑著眼，直下觑。",
+    "骑个生狞大艾虎。",
+    "闲神浪鬼，辟惵他方远方，大胆底，更敢来、上门下户。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-583",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-72f6abc42178d11ad103414e",
+  "title": "高教授讣至",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "竞俗奔奔急，潜窥却步难。",
+    "退知藏用密，居得秉彜安。",
+    "有袜常番著，无弦敢废弹。",
+    "谢城空冷帐，回首一汍澜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-aa7bd683-199a-4646-9709-3ee1b4f12bb7"
+}

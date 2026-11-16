@@ -1,0 +1,14 @@
+{
+  "id": "poem-78a9a72145730bdd655871f0",
+  "title": "春草池",
+  "author": "张又新",
+  "dynasty": "唐",
+  "verses": [
+    "谢公梦草一差微，谪宦当时道不机。",
+    "且谓飞霞游赏地，池塘烟柳亦依依。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b95f7661-648c-42f9-b588-d1031babdc19"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-9cad9f67ac9774c90a2f4eea",
+  "title": "七夕",
+  "author": "杨朴",
+  "dynasty": "宋",
+  "verses": [
+    "未会牵牛意若何，须邀织女弄金梭。",
+    "年年乞与人间巧，不道人间巧已多。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-七夕"
+}

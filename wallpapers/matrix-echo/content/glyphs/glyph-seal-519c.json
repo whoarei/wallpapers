@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-519c",
+  "script": "seal",
+  "character": "农",
+  "reading": "nóng",
+  "description": "⒈种庄稼，种庄稼的～活。～业。务～。\n⒉农民贫～。菜～。工～联盟。亦工亦～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-农"
+}

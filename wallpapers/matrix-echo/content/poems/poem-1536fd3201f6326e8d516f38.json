@@ -1,0 +1,16 @@
+{
+  "id": "poem-1536fd3201f6326e8d516f38",
+  "title": "醉后赠张九旭",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "世上漫相识，此翁殊不然。",
+    "兴来书自圣，醉后语尤颠。",
+    "白发老闲事，青云在目前。",
+    "床头一壶酒，能更几回眠。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-醉後贈張九旭"
+}

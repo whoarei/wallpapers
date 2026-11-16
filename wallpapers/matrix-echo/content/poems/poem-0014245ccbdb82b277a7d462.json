@@ -1,0 +1,18 @@
+{
+  "id": "poem-0014245ccbdb82b277a7d462",
+  "title": "浊水求珠",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "灵魄自沉浮，从来任浊流。",
+    "愿从深处得，不向暗中投。",
+    "圆月时堪惜，沧波路可求。",
+    "沙寻龙窟远，泥访蚌津幽。",
+    "是宝终知贵，唯恩且用酬。",
+    "如能在公掌，的不负明眸。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-f6a6ca28-f855-499d-a11d-1dc886025960"
+}

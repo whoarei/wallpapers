@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9672",
+  "script": "seal",
+  "character": "陲",
+  "reading": "chuí",
+  "description": "chuí：边疆，国境，靠边界的地方边～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陲"
+}

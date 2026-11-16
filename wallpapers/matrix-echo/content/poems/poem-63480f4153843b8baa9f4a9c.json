@@ -1,0 +1,16 @@
+{
+  "id": "poem-63480f4153843b8baa9f4a9c",
+  "title": "甘露寺僧房",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "临水登山路，重寻旅思劳。",
+    "竹阴行处密，僧腊别来高。",
+    "远岫明寒火，危楼响夜涛。",
+    "悲秋不成寐，明月上千舠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-d08e4bd5-7af6-48a0-9263-6740114e3041"
+}

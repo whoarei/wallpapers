@@ -1,0 +1,13 @@
+{
+  "id": "poem-02d8b17c452a166f643f341e",
+  "title": "尾声",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)恩情岂比闲花草？(生)往常恨更长寂寥，今夜只愁天易晓。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2991",
+  "tags": []
+}

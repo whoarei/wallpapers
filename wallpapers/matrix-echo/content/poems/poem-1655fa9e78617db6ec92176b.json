@@ -1,0 +1,18 @@
+{
+  "id": "poem-1655fa9e78617db6ec92176b",
+  "title": "奉和幸三会寺应制",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "鸟籀遗新阁，龙旗访古台。",
+    "造书臣颉往，观迹帝羲来。",
+    "睿览山川匝，宸心宇宙该。",
+    "梵音随驻辇，天步接乘杯。",
+    "旧苑经寒露，残池问劫灰。",
+    "散花将捧日，俱喜圣慈开。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-3c5b156d-4240-4564-80cf-05df684b1800"
+}

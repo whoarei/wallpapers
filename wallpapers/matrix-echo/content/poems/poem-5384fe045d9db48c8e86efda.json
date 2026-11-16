@@ -1,0 +1,16 @@
+{
+  "id": "poem-5384fe045d9db48c8e86efda",
+  "title": "丰",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "子之丰兮，俟我乎巷兮，悔予不送兮。",
+    "子之昌兮，俟我乎堂兮，悔予不将兮。",
+    "衣锦褧衣，裳锦褧裳。叔兮伯兮，驾予与行。",
+    "裳锦褧裳，衣锦褧衣。叔兮伯兮，驾予与归。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-87"
+}

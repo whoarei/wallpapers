@@ -1,0 +1,16 @@
+{
+  "id": "poem-a5270456c2d33560aa267795",
+  "title": "临江仙·海棠香老春江晚",
+  "author": "和凝",
+  "dynasty": "五代",
+  "verses": [
+    "海棠香老春江晚，小楼雾縠涳蒙。",
+    "翠鬟初出绣帘中，麝烟鸾鬟苹风。",
+    "碾玉钗摇㶉𫛶战，雪肌云鬓将融。",
+    "含情遥指碧波东，越王台殿蓼花红。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-15"
+}

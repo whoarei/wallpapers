@@ -1,0 +1,14 @@
+{
+  "id": "poem-22cb97086a7ecbe024bd0c6a",
+  "title": "岸花",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "可怜岸边树，红蘂发青条。",
+    "东风吹渡水，冲着木兰桡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c914d5f4-9d87-4a75-b774-0c01187b4a97"
+}

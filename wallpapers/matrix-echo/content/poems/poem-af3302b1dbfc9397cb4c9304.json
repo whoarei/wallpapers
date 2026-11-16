@@ -1,0 +1,16 @@
+{
+  "id": "poem-af3302b1dbfc9397cb4c9304",
+  "title": "池上宿",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "事事不求奢，长吟省叹嗟。",
+    "无才堪世弃，有句向谁夸。",
+    "老树呈秋色，空池浸月华。",
+    "凉风白露夕，此境属诗家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-2b0aeb3c-26cd-40cf-98ec-6d898b7d2bf4"
+}

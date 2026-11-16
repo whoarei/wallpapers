@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-903c",
+  "script": "kai",
+  "character": "逼",
+  "reading": "bī",
+  "description": "bī：(1)强迫，威胁～迫。～促。～命。～使。～问。～租。～债。\n(2)切近～近。～真。～视。～肖（xiào）（很相似）。\n(3)狭窄～仄。～侧。～狭。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-逼"
+}

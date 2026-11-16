@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-87cb",
+  "script": "seal",
+  "character": "蟋",
+  "reading": "xī",
+  "description": "xī：〔～蟀〕昆虫，身体黑褐色，触角长，善于跳跃。雄性好斗，两翅摩擦能发声，对农作物有害。亦称促织”、趋织”；俗称蛐蛐儿”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蟋"
+}

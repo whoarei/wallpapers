@@ -1,0 +1,16 @@
+{
+  "id": "poem-4324a40b8593aad5d8b5db28",
+  "title": "郊庙歌辞 享文敬太子庙乐章 请神",
+  "author": "许孟容",
+  "dynasty": "唐",
+  "verses": [
+    "觞牢具品，管磬有节。",
+    "祝道夤恭，神仪昭晰。",
+    "桐圭早贵，象辂追设。",
+    "声达乐成，降歆丰洁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-cc49c7e9-6335-48b7-bef3-6302b96ca84c"
+}

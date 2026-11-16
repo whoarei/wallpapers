@@ -1,0 +1,16 @@
+{
+  "id": "poem-9ede94570baef8a16ebb0fca",
+  "title": "长安少年行 六",
+  "author": "李廓",
+  "dynasty": "唐",
+  "verses": [
+    "赏春惟逐胜，大宅可曾归。",
+    "不乐还逃席，多狂惯衩衣。",
+    "歌人踏日起，语燕卷帘飞。",
+    "妇好唯相妬，倡楼不醉稀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4cec2316-98eb-4847-b9e7-afd610e692af"
+}

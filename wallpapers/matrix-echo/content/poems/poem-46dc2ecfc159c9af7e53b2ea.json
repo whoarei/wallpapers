@@ -1,0 +1,14 @@
+{
+  "id": "poem-46dc2ecfc159c9af7e53b2ea",
+  "title": "猨",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "挂月栖云向楚林，取来全是为清音。",
+    "谁知系在黄金索，翻畏侯家不敢吟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3df47d70-81a0-42ab-8a8b-87f11fba968f"
+}

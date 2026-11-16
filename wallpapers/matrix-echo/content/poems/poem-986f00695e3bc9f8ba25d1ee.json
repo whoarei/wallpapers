@@ -1,0 +1,16 @@
+{
+  "id": "poem-986f00695e3bc9f8ba25d1ee",
+  "title": "挽歌五首 其四",
+  "author": "无名氏",
+  "dynasty": "唐",
+  "verses": [
+    "巢阁方瞻[鳯]（风），鸣郊忽酬麟。",
+    "六宫悲晏驾，四岳罢来巡。",
+    "玺绶传当璧，河山委大臣。",
+    "自伤蒲柳质，不得扈龙輴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-3240bf79-3118-4887-8f4f-623c58b93857"
+}

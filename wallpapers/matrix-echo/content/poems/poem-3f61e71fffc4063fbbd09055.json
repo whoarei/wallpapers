@@ -1,0 +1,14 @@
+{
+  "id": "poem-3f61e71fffc4063fbbd09055",
+  "title": "郪中感旧",
+  "author": "刘象",
+  "dynasty": "唐",
+  "verses": [
+    "顷年曾住此中来，今日重游事可哀。",
+    "忆得几家欢宴处，家家家业尽成灰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-63223863-df5d-4277-b245-4cff39f7c87f"
+}

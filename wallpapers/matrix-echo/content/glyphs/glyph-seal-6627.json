@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6627",
+  "script": "seal",
+  "character": "昧",
+  "reading": "mèi",
+  "description": "mèi：(1)暗，不明幽～。～旦（清晨还未明亮时）。\n(2)昏，糊涂，不明白愚～。蒙～。素～平生（一向不认识）。\n(3)目不明目不别五色之章为～”。\n(4)隐藏，隐瞒暧～。～心（违背良心做坏事）。\n(5)冒犯冒～（多作谦辞）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昧"
+}

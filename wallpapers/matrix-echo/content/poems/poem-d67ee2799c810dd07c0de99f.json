@@ -1,0 +1,14 @@
+{
+  "id": "poem-d67ee2799c810dd07c0de99f",
+  "title": "花庵二首  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "谁谓花庵陋，徒为见者嗤。",
+    "此中胜广厦，人自不能知。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-f3ee2d59-3c78-43a4-8247-f16ba9525a9b"
+}

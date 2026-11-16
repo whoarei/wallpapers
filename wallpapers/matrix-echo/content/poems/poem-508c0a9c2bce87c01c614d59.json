@@ -1,0 +1,20 @@
+{
+  "id": "poem-508c0a9c2bce87c01c614d59",
+  "title": "临江仙·忆昔西池池上饮",
+  "author": "晁冲之",
+  "dynasty": "宋",
+  "verses": [
+    "忆昔西池池上饮，年年多少欢娱。",
+    "别来不寄一行书。",
+    "寻常相见了，犹道不如初。",
+    "安稳锦屏今夜梦，月明好度江湖。",
+    "相思休问定何如。",
+    "情知春去后，管得落花无。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-246"
+}

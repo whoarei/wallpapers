@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-58f0",
+  "script": "seal",
+  "character": "声",
+  "reading": "shēng",
+  "description": "⒈物体振动时所产生的能引起听觉的波～波。～音。说话～。金石之～。\n⒉名誉，名望名～。～誉。～价。～望。～威。\n⒊宣称，说出，扬言～称。～明。～张。～罪致讨。～东击西。\n⒋量词大喊三～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-声"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-718f3ab7fba897d12a6e34ad",
+  "title": "上元应制",
+  "author": "蔡襄",
+  "dynasty": "宋",
+  "verses": [
+    "高列千峰宝炬森，端门方喜翠华临。",
+    "宸游不为三元夜，乐事还同万众心。",
+    "天上清光留此夕，人间和气阁春阴。",
+    "要知尽庆华封祝，四十余年惠爱深。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-上元應制"
+}

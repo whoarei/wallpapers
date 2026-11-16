@@ -1,0 +1,16 @@
+{
+  "id": "poem-a95633cd1f4dc849ea235791",
+  "title": "种桑",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "无衣可柰何，桑树百余窠。",
+    "拙计不及此，瘠田谁种它。",
+    "绿荷供楚制，白苎入吴歌。",
+    "金谷虽佳丽，知谁所得多。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-7c5471e7-e0ec-4310-b4ec-5b3452423185"
+}

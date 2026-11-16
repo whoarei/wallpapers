@@ -1,0 +1,14 @@
+{
+  "id": "poem-b1c1c7942f0f544a4059f8f4",
+  "title": "浣溪沙·越女淘金春水上",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "越女淘金春水上，步摇云鬓珮鸣珰，渚风江草又清香。",
+    "不为远山凝翠黛，只应含恨向斜阳，碧桃花谢忆刘郎。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-33"
+}

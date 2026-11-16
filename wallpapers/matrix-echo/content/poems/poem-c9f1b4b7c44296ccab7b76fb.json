@@ -1,0 +1,16 @@
+{
+  "id": "poem-c9f1b4b7c44296ccab7b76fb",
+  "title": "虞美人·晓莺啼破相思梦",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "晓莺啼破相思梦，帘看金泥凤。",
+    "宿妆犹在酒初醒，翠翘慵整倚云屏，转娉婷。",
+    "香檀细画侵桃脸，罗袂轻轻敛。",
+    "佳期堪恨再难寻，绿芜满院柳成阴，负春心。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-33"
+}

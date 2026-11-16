@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-574a",
+  "script": "kai",
+  "character": "坊",
+  "reading": "fāng；fáng",
+  "description": "fāng：(1)里巷（多用于街巷的名称）。\n(2)街市，市中店铺～间。街～（邻居）。\n(3)旧时标榜功德的建筑物牌～。节义～。\nfáng：(1)小手工业者的工作场所作～。\n(2)古同防”，防范。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-坊"
+}

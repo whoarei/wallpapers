@@ -1,0 +1,16 @@
+{
+  "id": "poem-c01fe024d97e19e504583275",
+  "title": "送仪州李太保丈",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "持节出西𬮱，腰章入旧秦。",
+    "家传虎韬术，朝有象贤人。",
+    "合闭关山月，帷褰渭水春。",
+    "虏尘今向息，正是雅歌辰。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-62d80140-6a0e-4283-816c-33e5099340ae"
+}

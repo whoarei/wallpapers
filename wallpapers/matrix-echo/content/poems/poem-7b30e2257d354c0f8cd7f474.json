@@ -1,0 +1,15 @@
+{
+  "id": "poem-7b30e2257d354c0f8cd7f474",
+  "title": "寓意",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "直道荆棘生，斜径红尘起。",
+    "苍苍杳无言，麒麟回瑞趾。",
+    "东风如未来，飞雪终不已。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-8246838a-99ce-49e5-bf69-3ce37023549d"
+}

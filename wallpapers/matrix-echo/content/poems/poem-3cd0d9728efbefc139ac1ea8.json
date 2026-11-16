@@ -1,0 +1,16 @@
+{
+  "id": "poem-3cd0d9728efbefc139ac1ea8",
+  "title": "挽辞 一",
+  "author": "后主煜",
+  "dynasty": "唐",
+  "verses": [
+    "珠碎眼前珍，花凋世外春。",
+    "未销心里恨，又失掌中身。",
+    "玉笥犹残药，香匳已染尘。",
+    "前哀将后感，无泪可沾巾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-018cab44-8167-40eb-8934-09667eb405da"
+}

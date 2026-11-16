@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62e5",
+  "script": "kai",
+  "character": "拥",
+  "reading": "yōng",
+  "description": "簇拥\n环抱\n⒉围着～炉而坐。前呼后～。\n⒊阻塞，聚到一起人多～挤。夹道都人～。\n⒋持有～有。\n⒌保卫，护卫～卫。\n⒍赞成，忠诚爱戴，竭力支持～护。～戴。～军优属。～护社会主义。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拥"
+}

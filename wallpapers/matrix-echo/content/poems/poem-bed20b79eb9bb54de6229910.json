@@ -1,0 +1,16 @@
+{
+  "id": "poem-bed20b79eb9bb54de6229910",
+  "title": "立可则礼思复雪中见过",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "花翻云叶舞风回，新好缤缤带雨开。",
+    "团破小龙寒未瀹，客如两鹤瘦飞来。",
+    "白灰宿火虽同拥，黄独无苗各自煨。",
+    "苕霅扁舟明日去，小须门外玉山颓。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-bb824203-4a3f-4e71-9be4-d8ceb0452e3c"
+}

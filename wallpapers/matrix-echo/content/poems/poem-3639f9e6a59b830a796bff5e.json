@@ -1,0 +1,18 @@
+{
+  "id": "poem-3639f9e6a59b830a796bff5e",
+  "title": "冬日寄洛中杨少尹",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "黄河岸柳衰，城下渡流澌。",
+    "年长从公懒，天寒入府迟。",
+    "家山望几遍，魏阙赴何时。",
+    "怀古心谁识，应多谒舜祠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-086e8a34-4c65-42b7-ba57-818cd4eec743"
+}

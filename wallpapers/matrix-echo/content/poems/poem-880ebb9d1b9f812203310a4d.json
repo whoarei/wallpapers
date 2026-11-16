@@ -1,0 +1,16 @@
+{
+  "id": "poem-880ebb9d1b9f812203310a4d",
+  "title": "生查子",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(老旦上)行寻行又寻。",
+    "瑞兰！(小旦内应科。",
+    "老旦)远远闻人应。",
+    "瑞兰！(小旦应上)呼唤瑞莲名，听了还重省。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2948",
+  "tags": []
+}

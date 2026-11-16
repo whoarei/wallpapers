@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9001",
+  "script": "kai",
+  "character": "送",
+  "reading": "sòng",
+  "description": "sòng：(1)把东西从甲地运到乙地～信。～审。输～。护～。呈～。\n(2)赠给～礼。赠～。雪中～炭。\n(3)陪伴人到某一地点欢～。～别。～亲。\n(4)丢掉断～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-送"
+}

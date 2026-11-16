@@ -1,0 +1,20 @@
+{
+  "id": "poem-4be92e7ce5d07a85672b1dc0",
+  "title": "小重山·枕上阊门五报更",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "枕上阊门五报更。",
+    "蜡灯香灺冷，恨天明。",
+    "青苹风转彩帆轻。",
+    "樯头燕，多谢伴人行。",
+    "临镜想倾城。",
+    "两尖愁黛浅，泪波横。",
+    "艳歌重记遣离情。",
+    "缠绵处，翻是断肠声。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-0",
+  "tags": []
+}

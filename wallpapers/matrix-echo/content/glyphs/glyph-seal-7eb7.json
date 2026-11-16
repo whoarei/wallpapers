@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7eb7",
+  "script": "seal",
+  "character": "纷",
+  "reading": "fēn",
+  "description": "旗上的飘带\n花边\n祸乱;灾难\n争执;纠纷\n⒈众多，杂乱～至沓来。～杂的声音。～乱的人群。\n①人或事物接二连三地～ ～响应献血。\n②既多又杂乱议论～ ～。落叶～ ～。\n⒉争执～争。排难解～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-纷"
+}

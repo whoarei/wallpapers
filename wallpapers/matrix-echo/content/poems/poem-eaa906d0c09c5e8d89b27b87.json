@@ -1,0 +1,16 @@
+{
+  "id": "poem-eaa906d0c09c5e8d89b27b87",
+  "title": "湛露",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "湛湛露斯，匪阳不晞。厌厌夜饮，不醉无归。",
+    "湛湛露斯，在彼丰草。厌厌夜饮，在宗载考。",
+    "湛湛露斯，在彼杞棘。显允君子，莫不令德。",
+    "其桐其椅，其实离离。岂弟君子，莫不令仪。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-173"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-0ac1c249d46631238cd5cac4",
+  "title": "感春",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "远客悠悠任病身，谢家池上又逢春。",
+    "明年各自东西去，此地看花是别人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ae0b6631-6a2b-478c-9f05-a8c1f2899e81"
+}

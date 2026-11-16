@@ -1,0 +1,14 @@
+{
+  "id": "poem-2503fc74940b4978659c67c3",
+  "title": "杨柳枝·阊门风暖落花干",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "阊门风暖落花干，飞遍江城江城雪不寒。",
+    "独有晚来临水驿，闲人多凭赤栏干。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-41"
+}

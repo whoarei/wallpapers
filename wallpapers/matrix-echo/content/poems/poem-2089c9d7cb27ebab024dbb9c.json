@@ -1,0 +1,22 @@
+{
+  "id": "poem-2089c9d7cb27ebab024dbb9c",
+  "title": "咏怀古迹五首 三",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "群山万壑赴荆门，生长明妃尚有村。",
+    "一去紫台连朔漠，独留青冢向黄昏。",
+    "画图省识春风面，环佩空归月夜魂。",
+    "千载琵琶作胡语，分明怨恨曲中论。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "七言律诗",
+    "怀古",
+    "思乡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-3b5db620-1964-4674-a01d-ad70ba3ebd2a"
+}

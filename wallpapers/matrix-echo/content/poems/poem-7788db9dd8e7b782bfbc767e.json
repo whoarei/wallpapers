@@ -1,0 +1,14 @@
+{
+  "id": "poem-7788db9dd8e7b782bfbc767e",
+  "title": "琼花",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "莫讶重栽聚八仙，几经边警亦堪怜。",
+    "珠帘十里春狼籍，且把天香作旧年。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-eb91c93d-6c85-40ac-833c-6dab0b01e8ed"
+}

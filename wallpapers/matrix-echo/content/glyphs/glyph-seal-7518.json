@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7518",
+  "script": "seal",
+  "character": "甘",
+  "reading": "gān",
+  "description": "gān：(1)甜，味道好～甜。～苦。～冽。～落。～之如饴。同～共苦。～旨（美味的食物）。\n(2)美好～雨（适时而有益于农事的雨）。～霖。\n(3)自愿，乐意～愿。～拜下风。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-甘"
+}

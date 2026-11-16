@@ -1,0 +1,14 @@
+{
+  "id": "poem-e7daaeffc480bef3c196d0d4",
+  "title": "立春前四日天大雷电以雨",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "霹雳如春雨似秋，兰陵冬夜忆黄州。",
+    "茂陵封禅期身后，恰恰营成小竹楼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-9200653b-026e-41bc-95b1-513383f536ab"
+}

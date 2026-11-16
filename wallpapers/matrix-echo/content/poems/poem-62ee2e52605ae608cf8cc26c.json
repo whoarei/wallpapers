@@ -1,0 +1,18 @@
+{
+  "id": "poem-62ee2e52605ae608cf8cc26c",
+  "title": "游囊山",
+  "author": "黄滔",
+  "dynasty": "唐",
+  "verses": [
+    "山有重嚢势，门开两径斜。",
+    "溪声寒走涧，海色月流沙。",
+    "庵外曾游虎，堂中旧雨花。",
+    "不知遗谶地，一一落谁家？",
+    "（见黄鸣乔刻本《黄御史集》卷二。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-8cd8ac9f-ae9c-42ae-90e9-d5af21a0ce40"
+}

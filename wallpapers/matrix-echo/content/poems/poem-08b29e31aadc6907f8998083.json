@@ -1,0 +1,15 @@
+{
+  "id": "poem-08b29e31aadc6907f8998083",
+  "title": "救生寺望春寄畅当",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "东西南北望，望远悲潜蓄。",
+    "红黄绿紫花，花开看不足。",
+    "今年与子少相随，他年与子老相逐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-e321d83c-6578-4f48-a774-aa4abc5d4f9d"
+}

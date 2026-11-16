@@ -1,0 +1,14 @@
+{
+  "id": "poem-1a091278402080cf3f1816e6",
+  "title": "洋州三十景 书轩",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "朱门谢俗客，幽斋叙友人。",
+    "澄澜鉴止水，高节看丛筠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-f7ad18db-7ddc-45f8-baba-5e4292b39332"
+}

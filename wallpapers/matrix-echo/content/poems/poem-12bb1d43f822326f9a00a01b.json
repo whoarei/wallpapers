@@ -1,0 +1,17 @@
+{
+  "id": "poem-12bb1d43f822326f9a00a01b",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "奴只得，往庙前，借取大公些个典。",
+    "与奴做盘缠，又欲买些绢，妆些旧绵。",
+    "又恐春寒，衣衫不办。",
+    "办与衣衫，一路免得身寒。",
+    "(生)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2565",
+  "tags": []
+}

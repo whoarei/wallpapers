@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-629b",
+  "script": "seal",
+  "character": "抛",
+  "reading": "pāo",
+  "description": "pāo：(1)投，扔～掷。～撒（亦作抛洒”）。～售。\n(2)舍弃，丢下～弃。～荒（任由土地荒芜，不继续耕种）。～却。～头露面。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抛"
+}

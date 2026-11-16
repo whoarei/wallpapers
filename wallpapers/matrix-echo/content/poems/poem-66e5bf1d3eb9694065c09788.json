@@ -1,0 +1,16 @@
+{
+  "id": "poem-66e5bf1d3eb9694065c09788",
+  "title": "偈颂（幷序○序为南岳齐己撰） 十四",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "此生不息息何时，息在今生共要知。",
+    "心息仙因（《景德传灯录》卷二九作「只缘」）无妄想，妄空（《景德传灯录》作「除」）心息是休时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-bf200ae5-48f8-4041-bceb-598b808a68ab"
+}

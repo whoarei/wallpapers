@@ -1,0 +1,14 @@
+{
+  "id": "poem-ad82572aab29fefba72e1cba",
+  "title": "观壁卢九想图",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "一世荣枯无异同，百年哀乐又归空。",
+    "夜阑鸟鹊相争处，林下真僧在定中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-5b59b031-7cee-4c88-8023-1b0b04a9da60"
+}

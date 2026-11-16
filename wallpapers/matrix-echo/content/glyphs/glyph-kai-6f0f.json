@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6f0f",
+  "script": "kai",
+  "character": "漏",
+  "reading": "lòu",
+  "description": "lòu：(1)物体由孔或缝透过壶里的水～光了。～风。渗～。～泄（ａ．水、光等流出或透出；ｂ．泄露）。～电（跑电）。\n(2)泄露走～消息。～底（泄露内情）。透～。\n(3)脱逃或无意放过疏～。遗～。挂一～万。～网之鱼。\n(4)中医指某些流出脓血黏液的病崩～（子宫大量出血的病）。痔～。\n〔～壶〕古代计时器，铜制有孔，可以滴水或漏沙，有刻度标志以计时间。简称漏”，如铜壶滴～”（亦称铜壶刻漏”），～尽更深”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-漏"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-cac72abfda173c57baf0bc8a",
+  "title": "醉桃源・阮郎归·菖蒲叶老水平沙",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "菖蒲叶老水平沙。",
+    "临流苏小家。",
+    "画阑曲径宛秋蛇。",
+    "金英垂露华。",
+    "烧蜜炬，引莲娃。",
+    "酒香薰脸霞。",
+    "再来重约日西斜。",
+    "倚门听暮鸦。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-418",
+  "tags": []
+}

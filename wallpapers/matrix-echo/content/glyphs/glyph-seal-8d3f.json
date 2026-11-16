@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d3f",
+  "script": "seal",
+  "character": "贿",
+  "reading": "huì",
+  "description": "贿赂的财物\n赠送财物\n孟献子聘于周,王以为有礼\n⒈〈古〉财物货～。\n⒊用财物买通别人或指买通别人的财物被迫行～。索～受～，罪行累累。勤政廉洁，杜绝～赂。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-贿"
+}

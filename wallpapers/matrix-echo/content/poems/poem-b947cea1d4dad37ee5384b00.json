@@ -1,0 +1,16 @@
+{
+  "id": "poem-b947cea1d4dad37ee5384b00",
+  "title": "赠三惠大师",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "枫猿峤角别多时，二教兼修内学师。",
+    "药树影中频缀偈，莲峰朵下几窥棋。",
+    "游归笋长齐童子，病起巢成露鹤儿。",
+    "诏落五天开夏讲，两街人竞礼长眉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2db05d4a-a627-4bbd-b852-c3e8a94bbfce"
+}

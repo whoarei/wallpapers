@@ -1,0 +1,15 @@
+{
+  "id": "poem-5afa30221a0b088a979ff069",
+  "title": "两仪殿赋柏梁体",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "绝域降附天下平，八表无事悦圣情。",
+    "云披雾敛天地明，登封日观禅云亭。",
+    "太常具礼方告成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-bf2685a1-fc35-4238-87ee-9f27fd58432a"
+}

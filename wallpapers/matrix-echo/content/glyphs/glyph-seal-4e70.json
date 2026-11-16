@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e70",
+  "script": "seal",
+  "character": "买",
+  "reading": "mǎi",
+  "description": "雇,租\n⒈用货币换东西，跟\"卖\"相反购～。～轿车。～飞机。〈引〉用钱财或其它手段取得～通。\n①采购货物的人。\n②殖民地、半殖民地国家中，为外国资本家服务，经营银行、工矿、运输、商品等业务的中间人或经纪人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-买"
+}

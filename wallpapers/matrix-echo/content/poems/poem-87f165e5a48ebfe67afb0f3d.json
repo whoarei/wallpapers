@@ -1,0 +1,15 @@
+{
+  "id": "poem-87f165e5a48ebfe67afb0f3d",
+  "title": "颂古七十六首  其四八",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "寒时寒，热时热，无寒暑处天然别。",
+    "绵州附子汉州姜，打刀须是邠州铁。",
+    "洞山老子不瞒人，亲传当面藏身诀。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-dbc0c747-f6fb-4fda-8bce-09d6da559292"
+}

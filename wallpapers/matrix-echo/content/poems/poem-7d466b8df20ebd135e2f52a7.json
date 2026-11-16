@@ -1,0 +1,16 @@
+{
+  "id": "poem-7d466b8df20ebd135e2f52a7",
+  "title": "奉送相公十八丈镇杨州",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "千骑风生大斾舒，春江重到武侯庐。",
+    "共悬龟印衔新绶，同忆鳣庭访旧居。",
+    "取履桥边啼鸟换，钓璜溪畔落花初。",
+    "今来却笑临邛客，入蜀空驰使者车。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-2effbb1c-0785-47f0-8440-43e4c1c893ec"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8700",
+  "script": "seal",
+  "character": "蜀",
+  "reading": "shǔ",
+  "description": "shǔ：(1)中国四川省的别称～本（宋代在四川刻印的书籍）。～客（旅游蜀地的人）。～椒。～绣（四川出产的刺绣）。～锦。得陇望～。\n(2)中国朝代名～汉。\n(3)中国周代诸侯国名，在今四川省成都市一带。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蜀"
+}

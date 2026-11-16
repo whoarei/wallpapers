@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7aa0",
+  "script": "seal",
+  "character": "窠",
+  "reading": "kē",
+  "description": "kē：(1)昆虫、鸟兽的巢穴～巢。狗～。\n(2)借指人安居或聚会的处所抛却山中诗酒～”。\n(3)古同颗”。\n(4)古同棵”。\n〔～臼〕指文章所依据的老套子，陈旧的格调。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-窠"
+}

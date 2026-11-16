@@ -1,0 +1,21 @@
+{
+  "id": "poem-3ea55e011a4f1887f0b218e9",
+  "title": "戏赠张五弟𬤇三首 一",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "吾弟东山时，心尚一何远。",
+    "日高犹自卧，钟动始能饭。",
+    "领上髪未梳，床头书不卷。",
+    "清川兴悠悠，空林对偃蹇。",
+    "青苔石上净，细草松下软。",
+    "窗外鸟声闲，阶前虎心善。",
+    "徒然万象多，澹尔太虚缅。",
+    "一知与物平，自顾为人浅。",
+    "对君忽自得，浮念不烦遣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-076b8da6-83c1-41dc-8893-13425a6dc1e8"
+}

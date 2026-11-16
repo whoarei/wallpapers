@@ -1,0 +1,14 @@
+{
+  "id": "poem-6a38de643ad3b5733cfd10d7",
+  "title": "青雀歌",
+  "author": "卢象",
+  "dynasty": "唐",
+  "verses": [
+    "啾啾青雀儿，飞来飞去仰天池。",
+    "逍遥饮啄安涯分，何假扶摇九万为。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a8c3e791-7f9d-4a6e-baf7-664109545d72"
+}

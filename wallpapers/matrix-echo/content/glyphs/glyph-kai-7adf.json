@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7adf",
+  "script": "kai",
+  "character": "竟",
+  "reading": "jìng",
+  "description": "jìng：(1)终了，完毕继承先烈未～的事业。\n(2)到底，终于毕～。有志者事～成。\n(3)整，从头到尾～日。～夜。\n(4)居然，表示出乎意料～然。～至（竟然至于）。～自（竟然）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-竟"
+}

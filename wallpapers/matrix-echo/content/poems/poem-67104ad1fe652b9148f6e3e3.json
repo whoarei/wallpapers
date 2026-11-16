@@ -1,0 +1,16 @@
+{
+  "id": "poem-67104ad1fe652b9148f6e3e3",
+  "title": "有客",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "雨止云犹黑，春寒草未青。",
+    "打门无俗客，勒驾有山灵。",
+    "仿佛斜川路，裴回曲水亭。",
+    "落梅都著子，点点六花零。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-d43ed53c-5a35-4186-9201-2f204b27bdde"
+}

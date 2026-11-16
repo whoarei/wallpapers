@@ -1,0 +1,18 @@
+{
+  "id": "poem-fc9d037fca0e324c37337027",
+  "title": "和厉玄侍御题户部相公庐山草堂",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "白云居创毕，诏入凤池年。",
+    "林长双峰树，潭分并寺泉。",
+    "石溪盘鹤外，岳室闭猨前。",
+    "柱史题诗后，松前更肃然。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-9c71caa8-2dec-4fc9-abdb-1adcf745f1f4"
+}

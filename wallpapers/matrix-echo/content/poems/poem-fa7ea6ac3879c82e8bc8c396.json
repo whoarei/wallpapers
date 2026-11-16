@@ -1,0 +1,16 @@
+{
+  "id": "poem-fa7ea6ac3879c82e8bc8c396",
+  "title": "佛教梵文唵字唐玄宗书并读（原刻石在河南登封，还有御制《老子赞》。） 二",
+  "author": "唐明皇",
+  "dynasty": "唐",
+  "verses": [
+    "鹤立蛇形势未休，五尺文字鬼神愁。",
+    "儒门弟子无人识，穿耳胡僧笑点头。",
+    "（〖1〗现在根据最古的敦煌本补入，而把所知所见的石本刻本作为附录，以便参攷。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-ee418f41-39c8-4cfa-ab8f-a94fcb09419b"
+}

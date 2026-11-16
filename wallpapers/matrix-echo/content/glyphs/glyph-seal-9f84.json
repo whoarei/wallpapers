@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9f84",
+  "script": "seal",
+  "character": "龄",
+  "reading": "líng",
+  "description": "年限;年数\n生物学上指某些动植物生长期中划分的阶段\n⒈岁数年～。\n⒉年数工～。教～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-龄"
+}

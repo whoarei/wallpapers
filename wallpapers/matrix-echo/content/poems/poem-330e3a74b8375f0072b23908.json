@@ -1,0 +1,22 @@
+{
+  "id": "poem-330e3a74b8375f0072b23908",
+  "title": "归嵩山作",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "清川带长薄，车马去闲闲。",
+    "流水如有意，暮禽相与还。",
+    "荒城临古渡，落日满秋山。",
+    "迢递嵩高下，归来且闭关。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "山水",
+    "写景",
+    "抒情",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-40cd6eec-c6ce-4659-a225-61063cd210e9"
+}

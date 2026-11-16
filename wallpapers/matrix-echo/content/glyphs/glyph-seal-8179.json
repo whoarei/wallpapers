@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8179",
+  "script": "seal",
+  "character": "腹",
+  "reading": "fù",
+  "description": "fù：(1)一般指人和脊椎动物躯干的一部分，介于胸和骨盆之间，包括腹壁”、腹腔”及内脏（通常称肚子”）～部。～膜。～水。～泻。～疾。心～（喻极亲近的人）。～稿。～诽（指口里不说而心里不以为然。亦作腹非”）。遗～子。\n(2)喻地区的前部、内部或中部～地。～背受敌。\n(3)厚（冬季之月）冰方盛，水泽～坚，命取冰。”\n(4)怀抱出入～我。”",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-腹"
+}

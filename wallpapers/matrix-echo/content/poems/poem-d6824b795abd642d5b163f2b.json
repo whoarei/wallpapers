@@ -1,0 +1,16 @@
+{
+  "id": "poem-d6824b795abd642d5b163f2b",
+  "title": "闻人说海北事有感",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "故乡归路隔高雷，见说年来事可哀。",
+    "村落日中眠虎豹，田园雨后长蒿莱。",
+    "海隅久已无春色，地底真成有劫灰。",
+    "荆棘满山行不得，不知当日是谁栽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-d813c029-0b6d-4b89-b4ba-5d6d725e73d9"
+}

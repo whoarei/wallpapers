@@ -1,0 +1,20 @@
+{
+  "id": "poem-b55ff8c2664a6a0cb24c38da",
+  "title": "谪岭南道中作",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "岭水争分路转迷，桄榔椰叶暗蛮溪。",
+    "愁冲毒雾逢虵草，畏落沙虫避燕泥。",
+    "五月畬田收火米，三更津吏报潮鸡。",
+    "不堪肠断思乡处，红槿花中越鸟啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "抒情",
+    "贬谪",
+    "写景"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-190158b4-8500-4485-97c7-52d6a3cc7cc8"
+}

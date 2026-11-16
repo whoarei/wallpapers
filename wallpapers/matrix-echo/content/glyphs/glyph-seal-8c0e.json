@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c0e",
+  "script": "seal",
+  "character": "谎",
+  "reading": "huǎng",
+  "description": "梦中讲的话\n不公平或欺骗的价格\n哄骗,用假话或手段骗人\n虚假\n⒈骗人，假话～骗。～话。～报。莫撒～。〈引〉商贩要的虚价要～。\n⒉说谎话～称。～说。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谎"
+}

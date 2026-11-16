@@ -1,0 +1,16 @@
+{
+  "id": "poem-ca7e77cd1df1d9b407c4cc65",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦上)望孩儿终日倚门，怕儿夫语言不定。",
+    "哥哥嫂嫂忒薄幸，全不念手足情亲。",
+    "艰辛，十六年命屯，料今日枯枝再春。",
+    "(小生入相见，抱介)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8994",
+  "tags": []
+}

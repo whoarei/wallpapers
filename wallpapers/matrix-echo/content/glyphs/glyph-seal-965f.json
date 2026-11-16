@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-965f",
+  "script": "seal",
+  "character": "陟",
+  "reading": "zhì",
+  "description": "zhì：(1)登高～山。\n(2)晋升，进用黜～（指官吏的进退升降）。～罚臧否，不宜异同”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陟"
+}

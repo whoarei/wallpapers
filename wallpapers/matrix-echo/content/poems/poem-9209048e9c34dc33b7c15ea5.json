@@ -1,0 +1,14 @@
+{
+  "id": "poem-9209048e9c34dc33b7c15ea5",
+  "title": "浣溪沙·清晓妆成寒食天",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "清晓妆成寒食天，柳球斜袅间花钿，卷帘直出画堂前。",
+    "指点牡丹初绽朵，日高犹自凭朱栏，含颦不语恨春残。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-28"
+}

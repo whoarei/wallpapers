@@ -1,0 +1,20 @@
+{
+  "id": "poem-52c67d74524ae8e44a617f89",
+  "title": "送崔五太守",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "长安厩吏来到门，朱文露网动行轩。",
+    "黄花县西九折坂，玉树宫南五丈原。",
+    "襃斜谷中不容幰，唯有白云当露冕。",
+    "子午山里杜鹃啼，嘉陵水头行客饭。",
+    "劒门忽断蜀川开，万井双流满眼来。",
+    "雾中远树刀州出，天际澄江巴字回。",
+    "使君年纪三十余，少年白皙专城居。",
+    "欲持画省郎官笔，回与临邛父老书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7f232909-cb6c-4da8-afde-d3ff9fcea204"
+}

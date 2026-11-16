@@ -1,0 +1,15 @@
+{
+  "id": "poem-c2f0aa975b5cd2d9f5b80300",
+  "title": "滴溜子",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(外)我有一个道理：明日里，明日里，小设酒筵；媒婆去，媒婆去，传语状元，既然他心中不愿，如何强逼他谐缱绻。",
+    "(老旦)既如此，你请他来怎么？(外)请来饮酒之间呵，先教他妹子在堂前，隔帘认看。",
+    "(老旦)此计甚好。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3101",
+  "tags": []
+}

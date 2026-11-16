@@ -1,0 +1,16 @@
+{
+  "id": "poem-c8369e4524c912f5c2f0003e",
+  "title": "秋壑",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "泠风在怀袖，何必借商弦。",
+    "就下识天巧，适安忘地偏。",
+    "寒泓嫌雪暖，秋草似春鲜。",
+    "见说蓬莱远，依稀拄杖前。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-7fe4767e-92ea-4d74-84a3-7e64a397de3c"
+}

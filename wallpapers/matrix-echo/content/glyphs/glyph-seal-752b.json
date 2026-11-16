@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-752b",
+  "script": "seal",
+  "character": "甫",
+  "reading": "fǔ",
+  "description": "fǔ：(1)古代在男子名字下加的美称，后指人的表字（亦作父”）台～（询问别人名号的礼貌用语）。\n(2)刚刚，才年～弱冠。惊魂～定。\n(3)大无田～田”（不要去耕大田）。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-甫"
+}

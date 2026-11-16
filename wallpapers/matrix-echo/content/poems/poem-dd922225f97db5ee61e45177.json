@@ -1,0 +1,14 @@
+{
+  "id": "poem-dd922225f97db5ee61e45177",
+  "title": "饮散",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "春风吹动漏声残，醉后归来独倚阑。",
+    "雨湿落花飞不去，乱红粘满石棋盘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-43d11328-e895-41ac-9df1-cfe59493760b"
+}

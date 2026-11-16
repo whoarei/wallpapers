@@ -1,0 +1,16 @@
+{
+  "id": "poem-62576777802b38b872d2b692",
+  "title": "瀑布",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "苍崖入青冥，飞泉下岩顶。",
+    "薄风春雷怒，照月秋练迥。",
+    "清润冷书幌，轻柔媚茶鼎。",
+    "挥弄自忘归，赏心意谁并。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-5a21cedd-775f-4da7-bbb8-1f270850b72d"
+}

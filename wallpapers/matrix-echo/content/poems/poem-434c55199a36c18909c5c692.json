@@ -1,0 +1,14 @@
+{
+  "id": "poem-434c55199a36c18909c5c692",
+  "title": "春夜家宴",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "烛底裁词按玉箫，翠宫合唱取腔娇。",
+    "梨花影护春风暖，不用香薰酒自消。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-8b46a33b-464d-4ab9-b6dd-861638110467"
+}

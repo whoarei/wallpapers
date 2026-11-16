@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6162",
+  "script": "kai",
+  "character": "慢",
+  "reading": "màn",
+  "description": "màn：(1)迟缓，速度小，与快”相对～车。～件。～腾腾。～条斯理。缓～。迟～。～性。\n(2)态度冷淡，不殷勤，不礼貌～待。轻～。傲～。怠～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-慢"
+}

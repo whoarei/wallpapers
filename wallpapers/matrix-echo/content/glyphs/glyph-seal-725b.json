@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-725b",
+  "script": "seal",
+  "character": "牛",
+  "reading": "niú",
+  "description": "niú：(1)哺乳动物，趾端有蹄，头上长一对角，是反刍类动物，力量很大，能耕田拉车，肉和奶可食，角、皮、骨可作器物～刀小试（喻有很大的本领，先在小事情上施展一下）。～黄。～角。\n(2)星名，二十八宿之～斗（指牛宿和斗宿二星）。\n(3)喻固执或骄傲～气。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-牛"
+}

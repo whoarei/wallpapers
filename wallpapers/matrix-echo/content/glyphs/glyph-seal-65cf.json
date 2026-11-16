@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65cf",
+  "script": "seal",
+  "character": "族",
+  "reading": "zú",
+  "description": "zú：(1)亲属，泛指同姓之亲～规。～长。家～。\n(2)指具有共同起源和共同遗传特征的人群种～。\n(3)指在历史上形成的人群的稳定共同体，他们有共同的语言、经济生活以及表现于共同文化上的心理素质民～。\n(4)聚居而有血统关系的人群的统称宗～。氏～。部～。\n(5)事物有共同属性的一大类芳香～。\n(6)封建时代的一种残酷刑罚，一人有罪，把全家或包括母亲、妻家的人都杀死～灭。\n(7)聚合，集中云气不待～而雨。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-族"
+}

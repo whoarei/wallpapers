@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9b1f",
+  "script": "seal",
+  "character": "鬟",
+  "reading": "huán",
+  "description": "huán：古代妇女梳的环形发髻云～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鬟"
+}

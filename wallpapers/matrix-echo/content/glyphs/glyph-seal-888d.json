@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-888d",
+  "script": "seal",
+  "character": "袍",
+  "reading": "páo",
+  "description": "páo：(1)中式长衣～子。长～。旗～。棉～。皮～。同～（旧时军人相称）。～泽（袍”和泽”均为古代衣服，后以此称军队中的同事，如～～之谊”、～～故旧”）。\n(2)衣服的前襟反袂拭面，涕沾～”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-袍"
+}

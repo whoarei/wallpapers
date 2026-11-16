@@ -1,0 +1,20 @@
+{
+  "id": "poem-0552f91679ceb30041d540c2",
+  "title": "踏莎行·候馆梅残",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "候馆梅残，溪桥柳细。",
+    "草熏风暖摇征辔。",
+    "离愁渐远渐无穷，迢迢不断如春水。",
+    "寸寸柔肠，盈盈粉泪。",
+    "楼高莫近危阑倚。",
+    "平芜尽处是春山，行人更在春山外。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-171"
+}

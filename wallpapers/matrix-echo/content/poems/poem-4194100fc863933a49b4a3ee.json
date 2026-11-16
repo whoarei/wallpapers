@@ -1,0 +1,16 @@
+{
+  "id": "poem-4194100fc863933a49b4a3ee",
+  "title": "塞下曲 三",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "黄河东流流九折，沙场埋恨何时绝。",
+    "蔡琰没去造胡笳，苏武归来持汉节。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-b7c28260-45f1-466e-b5fb-901240b9bee5"
+}

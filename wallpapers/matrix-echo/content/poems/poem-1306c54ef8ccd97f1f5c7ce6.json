@@ -1,0 +1,22 @@
+{
+  "id": "poem-1306c54ef8ccd97f1f5c7ce6",
+  "title": "巴山道中除夜书怀",
+  "author": "崔涂",
+  "dynasty": "唐",
+  "verses": [
+    "迢遰三巴路，羇危万里身。",
+    "乱山残雪夜，孤烛异乡春。",
+    "渐与骨肉远，转于僮仆亲。",
+    "那堪正漂泊，明日岁华新。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "羁旅",
+    "唐诗三百首",
+    "五言律诗",
+    "春节",
+    "思乡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-9d33c118-cde9-49af-b572-c43427a10b48"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-df2dd0146b905162e9d81b65",
+  "title": "虞美人·残灯风灭炉烟冷",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "残灯风灭炉烟冷，相伴唯孤影。",
+    "判教狼藉醉清樽，为问世间醒眼是何人。",
+    "难逢易散花间酒，饮罢空搔首。",
+    "闲愁总付醉来眠，只恐醒时依旧到樽前。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-107"
+}

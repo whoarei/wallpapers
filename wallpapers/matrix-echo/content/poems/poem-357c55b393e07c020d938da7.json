@@ -1,0 +1,14 @@
+{
+  "id": "poem-357c55b393e07c020d938da7",
+  "title": "寻僧",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "斜日横窗起暗尘，水边门户闭闲春。",
+    "千竿竹里花枝动，只道无人似有人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-1362acd7-e6e8-4178-aac6-266cb346faf2"
+}

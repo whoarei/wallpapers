@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8a89",
+  "script": "seal",
+  "character": "誉",
+  "reading": "yù",
+  "description": "通举”。推荐\n荣誉,美名\n⒈名声名～。声～。荣～。\n⒉特指好的名声～满全球。\n⒊赞扬，赞美称～。～不绝口。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-誉"
+}

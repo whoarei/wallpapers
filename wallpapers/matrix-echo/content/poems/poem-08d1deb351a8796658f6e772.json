@@ -1,0 +1,17 @@
+{
+  "id": "poem-08d1deb351a8796658f6e772",
+  "title": "偈颂（幷序○序为南岳齐己撰） 十",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "自小从师学祖宗，闲华犹似缠人蜂。",
+    "僧真不假栖（《景德传灯录》卷二九作「居」）云外，得后无心色亦空（《景德传灯录》作「知无色自空」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-460f77ab-9c64-4f82-93db-b2ef7414f9fd"
+}

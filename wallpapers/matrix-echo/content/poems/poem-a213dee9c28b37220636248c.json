@@ -1,0 +1,20 @@
+{
+  "id": "poem-a213dee9c28b37220636248c",
+  "title": "虞美人·芭蕉滴滴窗前雨",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "芭蕉滴滴窗前雨。",
+    "望断江南路。",
+    "乱云重叠几多山。",
+    "不似倦飞鸥鹭、便知还。",
+    "角声更听谯门弄。",
+    "夜夜思归梦。",
+    "鄱江楼下水含漪。",
+    "孤负钓滩烟艇、绿蓑衣。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-673",
+  "tags": []
+}

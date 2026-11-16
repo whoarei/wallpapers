@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8885",
+  "script": "seal",
+  "character": "袅",
+  "reading": "niǎo",
+  "description": "以系带系马。代称马名\n缭绕;缠绕\n摇曳\n吹拂\n①草木柔弱细长的样子竹竿何～ ～。\n②体态柔美的样子～ ～素女。\n③烟气缭绕的样子炉烟～ ～。\n④声音婉转悠扬，绵延不绝余音～ ～。\n⑤微风吹拂的样子～ ～兮秋风。\n①草木柔弱细长的样子柳丝～娜。\n②体态轻盈柔美的样子少女～娜。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-袅"
+}

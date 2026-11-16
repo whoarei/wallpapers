@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5588",
+  "script": "seal",
+  "character": "喈",
+  "reading": "jiē",
+  "description": "jiē：疾速的样子北风其～”。\n〔～～〕a.声音和谐，如鼓钟～～”；b.鸟声，如鸡鸣～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-喈"
+}

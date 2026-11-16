@@ -1,0 +1,16 @@
+{
+  "id": "poem-e812a66596382eef2eb6fb76",
+  "title": "有感",
+  "author": "牟融",
+  "dynasty": "唐",
+  "verses": [
+    "盛世嗟沈伏，中情怏未舒。",
+    "途穷悲阮籍，病久忆相如。",
+    "无客空尘榻，闲门闭草庐。",
+    "不胜岑绝处，高卧半床书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-95329e84-1101-42c8-a307-221afe9adedf"
+}

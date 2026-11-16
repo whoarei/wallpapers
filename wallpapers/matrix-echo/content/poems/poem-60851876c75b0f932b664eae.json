@@ -1,0 +1,16 @@
+{
+  "id": "poem-60851876c75b0f932b664eae",
+  "title": "送王贞白重试东归",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "心苦酬心了，东归谢所知。",
+    "可邻重试者，如折两三枝。",
+    "雨毒逢花少，山多爱马迟。",
+    "此行三可羡，正值倒戈时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-d7ecbd4c-aa8d-42a8-ab02-e79733151163"
+}

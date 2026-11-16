@@ -1,0 +1,23 @@
+{
+  "id": "poem-4e0a1d814113864af4305f02",
+  "title": "杏花天·绿丝低拂鸳鸯浦",
+  "author": "姜夔",
+  "dynasty": "宋",
+  "verses": [
+    "绿丝低拂鸳鸯浦。",
+    "想桃叶、当时唤渡。",
+    "又将愁眼与春风，待去。",
+    "倚兰桡、更少驻。",
+    "金陵路。",
+    "莺吟燕舞。",
+    "算潮水、知人最苦。",
+    "满汀芳草不成归，日暮。",
+    "更移舟、向甚处。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-123"
+}

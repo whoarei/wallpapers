@@ -1,0 +1,16 @@
+{
+  "id": "poem-974a1a87f32263c14849868e",
+  "title": "和中书侍郎院壁画云",
+  "author": "李收",
+  "dynasty": "唐",
+  "verses": [
+    "粉壁画云成，如能上太清。",
+    "影从霄汉发，光照掖垣明。",
+    "暎筿多幽趣，临轩得野情。",
+    "独思作霖雨，流润及生灵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-5eb98284-b6e8-4232-acf1-47cc896293d1"
+}

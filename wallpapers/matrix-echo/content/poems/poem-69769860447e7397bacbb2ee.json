@@ -1,0 +1,14 @@
+{
+  "id": "poem-69769860447e7397bacbb2ee",
+  "title": "郊庙歌辞 周郊祀乐章 感顺乐",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "明君陈大礼，展币祀圆丘。",
+    "雅乐声其发，祥云色正浮。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-8c45a628-700b-4822-80b5-01cff6f7997b"
+}

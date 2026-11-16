@@ -1,0 +1,14 @@
+{
+  "id": "poem-75e3d88c8283049e45f43bba",
+  "title": "颂古三十一首  其一七",
+  "author": "释安永",
+  "dynasty": "宋",
+  "verses": [
+    "快人一言，快马一鞭。",
+    "停囚长智，十万八千。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-76a56dbe-cdb1-43a2-987f-dc6008115f0e"
+}

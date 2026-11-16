@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6697",
+  "script": "kai",
+  "character": "暗",
+  "reading": "àn",
+  "description": "àn：(1)不亮，没有光，与明”相对黑～。～淡（ａ．不光明；ｂ．喻景象悲惨）。阴～。～无天日。\n(2)不公开的，隐藏不露的～藏。～号。～杀。～娼。～沟。～含（做事、说话包含某种意思而未明白说出）。～流（ａ．流动的地下水；ｂ．喻潜伏的思想倾向或社会动态）。明察～访。\n(3)愚昧，糊涂～昧。～弱（愚昧软弱）。兼听则明，偏信则～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-暗"
+}

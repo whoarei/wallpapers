@@ -1,0 +1,16 @@
+{
+  "id": "poem-e816150a953ce817ea6393fd",
+  "title": "感秋别怨",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "霜秋自断魂，楚调怨离分。",
+    "魄散瑶台月，心随巫峡云。",
+    "蛾眉谁共画，凤曲不同闻。",
+    "莫似湘妃泪，斑斑点翠裙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-f548c1e1-4ec6-450e-8a5e-bf7f91fa1248"
+}

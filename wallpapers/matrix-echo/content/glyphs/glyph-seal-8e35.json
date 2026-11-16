@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8e35",
+  "script": "seal",
+  "character": "踵",
+  "reading": "zhǒng",
+  "description": "zhǒng：(1)脚后跟举～。接～而至。\n(2)走到～见（常去相见）。～谢。～门相告。\n(3)追随，继承～继。～武（跟着别人的脚印走，喻继承前人的事业或是效法前人）。～事增华（指继承前人的事业并更加发展）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-踵"
+}

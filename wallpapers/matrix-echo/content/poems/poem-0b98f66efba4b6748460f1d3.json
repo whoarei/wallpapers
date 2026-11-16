@@ -1,0 +1,18 @@
+{
+  "id": "poem-0b98f66efba4b6748460f1d3",
+  "title": "诗品二十四则 自然",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "俯拾即是，不取诸邻。",
+    "俱道适往，著手成春。",
+    "如逢花开，如瞻岁新。",
+    "真予不夺，强得易贫。",
+    "幽人空山，过水采苹。",
+    "薄言情晤，悠悠天钧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-026db8ed-2a59-495f-a4e5-25556b033624"
+}

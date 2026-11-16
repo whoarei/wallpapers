@@ -1,0 +1,16 @@
+{
+  "id": "poem-d62cd301a0684b589a4c60c5",
+  "title": "使青夷军入居庸三首 一",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "匹马行将久，征途去转难。",
+    "不知边地别，秪讶客衣单。",
+    "谿冷泉声苦，山空木叶干。",
+    "莫言关塞极，云雪尚漫漫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7f1a7ed4-5873-4cf1-9b28-3a454c54215a"
+}

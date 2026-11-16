@@ -1,0 +1,18 @@
+{
+  "id": "poem-12e2b49edf7e46cdeacac264",
+  "title": "甘州遍·秋风紧",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "秋风紧，平碛雁行低，阵云齐。",
+    "萧萧飒飒，边声四起，愁闻戍角与征鼙。",
+    "青冢北，黑山西。",
+    "沙飞聚散无定，往往路人迷。",
+    "铁衣冷，战马血沾蹄，破番奚。",
+    "凤凰诏下，步步蹑丹梯。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-14"
+}

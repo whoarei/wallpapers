@@ -1,0 +1,16 @@
+{
+  "id": "poem-d8387d33065abaf351a310f7",
+  "title": "送达夫同年殿丞宰吴江",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "尝夸吴会土风嘉，新领铜章一水涯。",
+    "岂为江山游赏胜，只贪晨夕旨甘奢。",
+    "鱼登盘俎霜萦缕，苹满洲汀雪吐花。",
+    "旧令多才君继美，松陵赓唱未应赊。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-cdb6ba35-c0ff-4f39-a649-d240efb7a92c"
+}

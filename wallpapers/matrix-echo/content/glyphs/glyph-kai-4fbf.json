@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4fbf",
+  "script": "kai",
+  "character": "便",
+  "reading": "biàn；pián",
+  "description": "biàn：(1)顺利，没有困难或阻碍～当。～利。～道。～民。\n(2)简单的，礼节上非正式的～宴。～衣。～函（形式比较简便的信件）。简～。～宜。随～（适当地，看事实需要而自行处理事情）。\n(3)便利的时候～中请来信。\n(4)就说了～做。\n(5)排泄屎尿或排泄出来的屎尿大～。～秘。\n即；就；\npián：〔～～〕肚子肥大的样子，如大腹～～”。\n〔～嬖〕封建统治者所亲近宠爱的人。\n〔～佞〕善于用花言巧语讨好的人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-便"
+}

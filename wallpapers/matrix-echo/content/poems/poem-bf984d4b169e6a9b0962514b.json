@@ -1,0 +1,15 @@
+{
+  "id": "poem-bf984d4b169e6a9b0962514b",
+  "title": "病后游青龙寺",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "病来形貌秽，斋沫入东林。",
+    "境静闻神远，身羸向道深。",
+    "芭蕉高自折，荷叶大先沈。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-64ab14be-6565-4ac9-aa39-4a9e40d92023"
+}

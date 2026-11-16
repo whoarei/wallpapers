@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-79d8",
+  "script": "seal",
+  "character": "秘",
+  "reading": "mì；bì",
+  "description": "mì：(1)不公开的，不让大家知道的～密。～藏（cáng）。～方。～诀。～计。～史。神～。奥～。\n(2)保守秘密～而不宣。\n(3)珍贵罕见～本。～籍。～宝。～府。\n(4)姓。\nbì：〔～鲁〕国名，在南美洲。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-秘"
+}

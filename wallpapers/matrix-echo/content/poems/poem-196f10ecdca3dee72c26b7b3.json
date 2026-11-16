@@ -1,0 +1,16 @@
+{
+  "id": "poem-196f10ecdca3dee72c26b7b3",
+  "title": "游贾氏南园",
+  "author": "韩缜",
+  "dynasty": "宋",
+  "verses": [
+    "江堤杨柳碧毵毵，闲访名园郡郭南。",
+    "垅麦生齐知雨足，海棠开遍觉春酣。",
+    "门前幽径通芳蕙，竹里虚亭对远岚。",
+    "风物有情应笑我，不携歌酒只清谈。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-a990d84f-f01a-4353-9e54-fe03c6db1101"
+}

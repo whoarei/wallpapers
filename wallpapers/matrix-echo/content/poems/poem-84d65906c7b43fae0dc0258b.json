@@ -1,0 +1,16 @@
+{
+  "id": "poem-84d65906c7b43fae0dc0258b",
+  "title": "好事近·飞盖满南园",
+  "author": "毛并",
+  "dynasty": "宋",
+  "verses": [
+    "飞盖满南园，想见八仙遥集。",
+    "几树海棠开遍，正新晴天色。",
+    "休辞一醉任扶还，衣上酒痕湿。",
+    "便恐岁华催去，听秋虫相泣。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-612",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-65dc4fb1ecc716ad6c405a82",
+  "title": "思平泉树石杂咏一十首 似鹿石",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "林中有奇石，髣髴兽潜行。",
+    "乍似依岩桂，还疑食野苹。",
+    "茸长绿藓映，斑细紫苔生。",
+    "不是见羇者，何劳如顿缨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-13dc5e49-a70c-4cc0-bb86-c8b70f62f22b"
+}

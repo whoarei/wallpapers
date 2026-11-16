@@ -1,0 +1,16 @@
+{
+  "id": "poem-4c792cba87235164dce501ad",
+  "title": "和常州崔使君咏后庭梅二首 二",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "梅院重门掩，遥遥歌吹边。",
+    "庭深人不见，春至曲能传。",
+    "花落弹棋处，香来荐枕前。",
+    "使君停五马，行乐此中偏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-0f9fd0ad-8527-4d0a-8ad1-c8c07c0a8131"
+}

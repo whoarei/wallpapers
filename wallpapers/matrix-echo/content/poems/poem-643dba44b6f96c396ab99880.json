@@ -1,0 +1,19 @@
+{
+  "id": "poem-643dba44b6f96c396ab99880",
+  "title": "清平乐·阿郎去日",
+  "author": "邵某",
+  "dynasty": "宋",
+  "verses": [
+    "阿郎去日。",
+    "不道长为客。",
+    "底事桐庐无处觅。",
+    "却得广州消息。",
+    "江头一支兰船。",
+    "风雨湘妃庙前。",
+    "死恨无情江水，送郎一去三年。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-554",
+  "tags": []
+}

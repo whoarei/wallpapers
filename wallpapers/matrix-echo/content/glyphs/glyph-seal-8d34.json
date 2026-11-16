@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d34",
+  "script": "seal",
+  "character": "贴",
+  "reading": "tiē",
+  "description": "贴补。补偿,补益\n粘附;附着\n⒈粘附粘～。～年画。～对联。\n⒉挨近，紧靠～着河边游。～身汗衫。\n⒊补助～补。粮～。\n⒋恰当，适合，妥当～切。妥～。\n⒌依附，顺从服服～ ～。\n⒍量词。膏药一张 叫一～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-贴"
+}

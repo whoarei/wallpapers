@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ce0",
+  "script": "seal",
+  "character": "糠",
+  "reading": "kāng",
+  "description": "kāng：(1)稻、麦、谷子等的子实所脱落的壳或皮米～。糟～。～秕。～醛（有机化合物，是制造塑料、合成纤维、合成橡胶、药物等的原料）。\n(2)萝卜等因失掉水分而中心呈蜂窝状。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-糠"
+}

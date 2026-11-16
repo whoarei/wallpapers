@@ -1,0 +1,17 @@
+{
+  "id": "poem-5e8f28a1e8f0c581c66280f6",
+  "title": "浣溪沙·湖上西风急暮蝉",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "湖上西风急暮蝉。",
+    "夜来清露湿红莲。",
+    "少留归骑促歌筵。",
+    "为别莫辞金盏酒，入朝须近玉炉烟。",
+    "不知重会是何年。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-441",
+  "tags": []
+}

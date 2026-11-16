@@ -1,0 +1,16 @@
+{
+  "id": "poem-68573b69dd28876597322a37",
+  "title": "春过函谷关",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "几度作游客，客行长苦辛。",
+    "愁看函谷路，老尽布衣人。",
+    "岁远关犹固，时移草亦春。",
+    "何当名利息，遣此绝征轮。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-63cdd33b-74f3-464a-b3f4-50d562835157"
+}

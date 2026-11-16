@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7099",
+  "script": "seal",
+  "character": "炙",
+  "reading": "zhì",
+  "description": "zhì：(1)烤～兔。焚～忠良。～手可热（热得烫手，喻权贵气焰很盛）。\n(2)烤肉脍～人口（美味人人爱吃，喻好的诗文、事物大家都称赞）。\n(3)喻受到熏陶亲～（直接得到某人的教诲或传授）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-炙"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-364aac1d4ba2f1cad05df3d7",
+  "title": "新秋",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "火云犹未敛奇峰，欹枕初惊一叶风。",
+    "几处园林萧瑟里，谁家砧杵寂寥中。",
+    "蝉声断续悲残月，萤焰高低照暮空。",
+    "赋就金门期再献，夜深搔首叹飞蓬。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-新秋"
+}

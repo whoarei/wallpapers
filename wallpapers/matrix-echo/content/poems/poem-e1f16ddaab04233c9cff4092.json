@@ -1,0 +1,14 @@
+{
+  "id": "poem-e1f16ddaab04233c9cff4092",
+  "title": "小游仙诗九十八首 五十三",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "赤龙停步彩云飞，共道真王海上归。",
+    "千岁红桃香破鼻，玉盘盛出与金妃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6176e93a-b752-4649-a999-d98e87b26d5d"
+}

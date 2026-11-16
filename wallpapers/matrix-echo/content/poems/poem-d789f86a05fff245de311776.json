@@ -1,0 +1,18 @@
+{
+  "id": "poem-d789f86a05fff245de311776",
+  "title": "踏莎行·二社良辰",
+  "author": "陈尧佐",
+  "dynasty": "宋",
+  "verses": [
+    "二社良辰，千家庭院。",
+    "翩翩又见新来燕。",
+    "凤凰巢稳许为邻，潇湘烟暝来何晚。",
+    "乱入红楼，低飞绿岸。",
+    "画梁时拂歌尘散。",
+    "为谁归去为谁来，主人恩重珠帘卷。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-13",
+  "tags": []
+}

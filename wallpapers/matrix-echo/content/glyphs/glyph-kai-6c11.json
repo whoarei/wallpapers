@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c11",
+  "script": "kai",
+  "character": "民",
+  "reading": "mín",
+  "description": "mín：(1)以劳动群众为主体的社会基本成员人～。～主。～国。～法。公～（在一国内有国籍，享受法律上规定的公民权利并履行公民义务的人）。国～（具有国籍的人）。\n(2)指人或人群居～。～族。\n(3)劳动大众的，非官方的～间。～歌。～谚。～风。～情。\n(4)某族的人汉～。回～。\n(5)从事不同职业的人农～。渔～。\n(6)非军事的～品。～航。\n(7)同苠”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-民"
+}

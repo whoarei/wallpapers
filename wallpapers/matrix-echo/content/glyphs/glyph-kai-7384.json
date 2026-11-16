@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7384",
+  "script": "kai",
+  "character": "玄",
+  "reading": "xuán",
+  "description": "xuán：(1)深奥不容易理解的～妙。～奥。～理（a.深奥的道理；b.魏晋玄学所标榜的道理）。～学。～秘。\n(2)虚伪，不真实，不可靠～想。～虚。\n(3)黑色～青（深黑色）。～武（a.道教所奉的北方之神，它的形象为龟蛇合体；b.二十八宿中北方七宿的合称）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-玄"
+}

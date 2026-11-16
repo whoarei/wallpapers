@@ -1,0 +1,14 @@
+{
+  "id": "poem-a64e83795ac8ce1eb8d8b44b",
+  "title": "京口送朱昼之淮南",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "两行客泪愁中落，万树山花雨后残。",
+    "君到扬州见桃叶，为传风水渡江难。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e4fd3ddc-578e-4335-b6e9-3acdd5e0e235"
+}

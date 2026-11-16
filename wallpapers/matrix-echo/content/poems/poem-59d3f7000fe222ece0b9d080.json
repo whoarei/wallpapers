@@ -1,0 +1,14 @@
+{
+  "id": "poem-59d3f7000fe222ece0b9d080",
+  "title": "乐府杂词三首 二",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "蝉鬓红冠粉黛轻，云和新教羽衣成。",
+    "月光如雪金堦上，迸却颇梨义甲声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-15fe86ed-edfe-4f94-86fd-8877d8d97182"
+}

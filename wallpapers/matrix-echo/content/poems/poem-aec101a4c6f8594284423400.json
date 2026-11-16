@@ -1,0 +1,15 @@
+{
+  "id": "poem-aec101a4c6f8594284423400",
+  "title": "东门之池",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "东门之池，可以沤麻。彼美淑姬，可与晤歌。",
+    "东门之池，可以沤纻。彼美淑姬，可与晤语。",
+    "东门之池，可以沤菅。彼美淑姬，可与晤言。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-138"
+}

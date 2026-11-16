@@ -1,0 +1,16 @@
+{
+  "id": "poem-5f65907dc793928efb96af64",
+  "title": "书梅福殿壁二首 二",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "一自白云去，千秋坛月明。",
+    "我来思往事，谁更得长生。",
+    "雅韵磬钟远，真风楼殿清。",
+    "今来为尉者，天下有仙名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-36d31cf8-16e6-4ade-91f6-4549375ac632"
+}

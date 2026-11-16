@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-53e4",
+  "script": "seal",
+  "character": "古",
+  "reading": "gǔ",
+  "description": "gǔ：(1)时代久远的，过去的，与今”相对～代。～稀（人七十岁的代称，源于杜甫《曲江》人生七十古来稀”）。～典。～风。～训。～道（ａ．指古代的道理；ｂ．古朴；ｃ．古老的道路）。\n(2)古体诗的简称五～（五言古诗）。七～（七言古诗）。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-古"
+}

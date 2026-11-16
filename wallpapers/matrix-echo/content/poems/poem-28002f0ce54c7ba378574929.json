@@ -1,0 +1,14 @@
+{
+  "id": "poem-28002f0ce54c7ba378574929",
+  "title": "酬举生许遇山居",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "琉璃潭上新秋月，清净泉中智惠珠。",
+    "不似本宗疎二教，许过云壑访潜夫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e5004c92-9fba-4ea7-9882-434de508dd65"
+}

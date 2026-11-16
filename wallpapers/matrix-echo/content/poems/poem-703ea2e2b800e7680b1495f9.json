@@ -1,0 +1,14 @@
+{
+  "id": "poem-703ea2e2b800e7680b1495f9",
+  "title": "石刻诗",
+  "author": "陈抟",
+  "dynasty": "宋",
+  "verses": [
+    "我谓浮荣真是幻，醉来舍辔谒高公。",
+    "因聆玄论冥冥理，转觉尘寰一梦中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-6e00a6d9-8d34-4fd5-8c38-69f96f251404"
+}

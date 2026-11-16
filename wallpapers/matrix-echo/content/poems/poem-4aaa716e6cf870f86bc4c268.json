@@ -1,0 +1,20 @@
+{
+  "id": "poem-4aaa716e6cf870f86bc4c268",
+  "title": "瀑布",
+  "author": "江为",
+  "dynasty": "唐",
+  "verses": [
+    "庐山正南面，瀑布古来闻。",
+    "万里朝沧海，千寻出白云。",
+    "寒声终自远，灵派孰为分。",
+    "除却天台后，平流莫可群。",
+    "（录自《吉石盦丛书》本宋陈舜俞《庐山记》卷四。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-07298ab8-838f-4494-b77a-5d448bf01804"
+}

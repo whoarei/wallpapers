@@ -1,0 +1,22 @@
+{
+  "id": "poem-3bfbbce41544bdac7555af7c",
+  "title": "春雨",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "怅卧新春白袷衣，白门寥落意多违。",
+    "红楼隔雨相望冷，珠箔飘灯独自归。",
+    "远路应悲春晼晚，残宵犹得梦依稀。",
+    "玉珰缄札何由达，万里云罗一雁飞。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写雨",
+    "七言律诗",
+    "爱情",
+    "雨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-8331c76b-a250-4d07-9c28-b8a456e0974c"
+}

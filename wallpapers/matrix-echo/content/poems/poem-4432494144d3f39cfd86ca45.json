@@ -1,0 +1,16 @@
+{
+  "id": "poem-4432494144d3f39cfd86ca45",
+  "title": "生查子·当初相见时",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "当初相见时，彼此心萧洒。",
+    "近日见人来，却恁相谩諕。",
+    "休休休便休，美底教他且。",
+    "匹似没伊时，更不思量也。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-308",
+  "tags": []
+}

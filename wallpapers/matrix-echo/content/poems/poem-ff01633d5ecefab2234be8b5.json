@@ -1,0 +1,16 @@
+{
+  "id": "poem-ff01633d5ecefab2234be8b5",
+  "title": "赞浦子·锦帐添香睡",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "锦帐添香睡，金炉换夕照。",
+    "懒结芙蓉带，慵拖翡翠裙。",
+    "正是桃夭柳媚，那堪暮雨朝云。",
+    "宋玉高唐意，裁琼欲赠君。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-12"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-8c08cee7632a0ca12f43f5aa",
+  "title": "锦瑟",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "锦瑟无端五十弦，一弦一柱思华年。",
+    "庄生晓梦迷蝴蝶，望帝春心托杜鹃。",
+    "沧海月明珠有泪，蓝田日暖玉生烟。",
+    "此情可待成追忆，只是当时已惘然。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "七言律诗",
+    "抒情",
+    "爱情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-e0eb3016-9288-4dc0-9257-3de36e5ad73c"
+}

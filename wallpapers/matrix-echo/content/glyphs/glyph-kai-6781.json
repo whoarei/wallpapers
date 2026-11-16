@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6781",
+  "script": "kai",
+  "character": "极",
+  "reading": "jí",
+  "description": "最高的地位\n特指君位\n顶点,最高处;最高最\n⒈顶端，最高点，尽头处～端。～点。登峰造～。〈引〉到极点乱～则治。暗～则光。\n⒉最，非常～重。～美好。穷凶～恶。\n⒊竭尽～力工作。～目远望。\n⒋指皇位登～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-极"
+}

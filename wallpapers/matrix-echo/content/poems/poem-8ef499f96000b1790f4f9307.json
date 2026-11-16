@@ -1,0 +1,14 @@
+{
+  "id": "poem-8ef499f96000b1790f4f9307",
+  "title": "牧童",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "蓬松袒跣倒骑牛，折得山花便满头。",
+    "强使倡歌浑不听，听它天籁自鸣休。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-1ff30515-a36a-4445-8d41-1aa25492e063"
+}

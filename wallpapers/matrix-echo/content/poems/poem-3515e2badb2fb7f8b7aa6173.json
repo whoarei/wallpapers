@@ -1,0 +1,16 @@
+{
+  "id": "poem-3515e2badb2fb7f8b7aa6173",
+  "title": "和周侍御买剑",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "将军溢价买吴钩，要与中原静寇讐。",
+    "试挂窗前惊电转，略抛床下怕泉流。",
+    "青天露拔云霓泣，黑地潜擎鬼魅愁。",
+    "见说夜深星斗畔，等闲期尅月支头。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a963f58e-ac9f-498d-96fb-6e15ec249d80"
+}

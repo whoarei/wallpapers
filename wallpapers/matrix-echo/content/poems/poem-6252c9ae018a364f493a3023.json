@@ -1,0 +1,15 @@
+{
+  "id": "poem-6252c9ae018a364f493a3023",
+  "title": "良耜",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "畟畟良耜，俶载南亩。播厥百谷，实函斯活。或来瞻女，载筐及莒，其饟伊黍。",
+    "其笠伊纠，其镈斯赵，以薅荼蓼。荼蓼朽止，黍稷茂止。获之挃挃，积之栗栗。",
+    "其崇如墉，其比如栉。以开百室，百室盈止，妇子宁止。杀时犉牡，有捄其角。以似以续，续古之人。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-290"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-6e4d2bbf1eef888091f40d95",
+  "title": "蝶恋花·门外沧洲山色近",
+  "author": "张镃",
+  "dynasty": "宋",
+  "verses": [
+    "门外沧洲山色近。",
+    "鸥鹭双双，恼乱行云影。",
+    "翠拥高筠阴满径。",
+    "帘垂尽日林堂静。",
+    "明月飞来烟欲暝。",
+    "水面天心，两个黄金镜。",
+    "慢飐轻摇风不定。",
+    "渔歌欸乃谁同听。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-357",
+  "tags": []
+}

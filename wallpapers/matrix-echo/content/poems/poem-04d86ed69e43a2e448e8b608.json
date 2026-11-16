@@ -1,0 +1,25 @@
+{
+  "id": "poem-04d86ed69e43a2e448e8b608",
+  "title": "相和歌辞 从军行",
+  "author": "李颀",
+  "dynasty": "唐",
+  "verses": [
+    "白日登山望烽火，昏黄饮马傍交河。",
+    "行人刁斗风砂暗，公主琵琶幽怨多。",
+    "野营万里无城郭，雨雪纷纷连大漠。",
+    "胡雁哀鸣夜夜飞，胡儿眼泪双双落。",
+    "闻道玉门犹被遮，应将性命逐轻车。",
+    "年年战骨埋荒外，空见蒲萄入汉家。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "生活",
+    "冬天",
+    "唐诗三百首",
+    "乐府",
+    "边塞",
+    "相和歌辞"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-0ed53ef4-30ca-41ac-a629-d778e5cc2bfa"
+}

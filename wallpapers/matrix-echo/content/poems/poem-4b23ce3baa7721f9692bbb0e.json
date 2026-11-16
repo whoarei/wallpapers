@@ -1,0 +1,14 @@
+{
+  "id": "poem-4b23ce3baa7721f9692bbb0e",
+  "title": "梁谿八咏 文会堂",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "亲宾情话款衡门，把酒挥毫气吐云。",
+    "何日寛思返三径，一樽重与细论文。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-a6eef792-d7b8-4f65-9d5c-722b122caab2"
+}

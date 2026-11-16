@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-846c",
+  "script": "kai",
+  "character": "葬",
+  "reading": "zàng",
+  "description": "zàng：掩埋死人，泛指处理死者遗体安～。埋～。土～。火～。～。～送。～礼。～仪。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-葬"
+}

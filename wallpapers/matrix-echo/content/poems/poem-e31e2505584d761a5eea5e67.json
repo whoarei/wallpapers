@@ -1,0 +1,22 @@
+{
+  "id": "poem-e31e2505584d761a5eea5e67",
+  "title": "题竹轩诗",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "岁寒青松青，落落惟修竹。",
+    "烟叶舒青翠，风茎戛苍玉。",
+    "高标契嘉士，暂挹情已足。",
+    "况复清阴中，耽耽有华屋。",
+    "屋下富经史，埙篪韵方睦。",
+    "啄食日已肥，文彩更繁缛。",
+    "侧聆箫韶奏，联翩赴清曲。",
+    "秋色正萧疏，庭宇清以肃。",
+    "且复遶修林，采采黄金菊。",
+    "莫学山阳客，颠倒困醽醁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-6a82f225-d50b-4b74-aa73-9f291db6d936"
+}

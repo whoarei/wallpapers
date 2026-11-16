@@ -1,0 +1,16 @@
+{
+  "id": "poem-8b7766510469a4bcc74faa9e",
+  "title": "更依前韵上献恶诗搜吟虽罄于短才歌咏宁穷于盛美",
+  "author": "李昉",
+  "dynasty": "宋",
+  "verses": [
+    "茂陵词客马相如，贮蓄胸中万卷余。",
+    "闲坐小斋惟看画，旋分清俸只抄书。",
+    "槛花灼灼韶光盛，庭竹森森翠影疏。",
+    "晨入蓬山暮归去，到归多是闭门居。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-a795e158-db36-403c-b738-dc2ca799f4d9"
+}

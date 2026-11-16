@@ -1,0 +1,14 @@
+{
+  "id": "poem-ab1a21be20d16168f0be363c",
+  "title": "上洛桥",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "金谷园中柳，春来似舞腰。",
+    "何堪好风景，独上洛阳桥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-40a9fe70-40d2-4718-a1af-09193449508a"
+}

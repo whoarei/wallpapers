@@ -1,0 +1,14 @@
+{
+  "id": "poem-28c5a8d24095e673b90f21ef",
+  "title": "浣溪沙·天碧罗衣拂地垂",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "天碧罗衣拂地垂，美人初着更相宜，宛风如舞透香肌。",
+    "独坐含颦吹风竹，园中缓步折花枝，有情无力泥人时。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-45"
+}

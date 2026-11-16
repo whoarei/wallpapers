@@ -1,0 +1,16 @@
+{
+  "id": "poem-c25cc8af7074fa8d0a556cdf",
+  "title": "卜算子·寒透小窗纱",
+  "author": "黄公度",
+  "dynasty": "宋",
+  "verses": [
+    "寒透小窗纱，漏断人初醒。",
+    "翡翠屏间拾落钗，背立残釭影。",
+    "欲去更踟蹰，离恨终难整。",
+    "陇首流泉不忍闻，月落双溪冷。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-435",
+  "tags": []
+}

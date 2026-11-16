@@ -1,0 +1,14 @@
+{
+  "id": "poem-a502fb53edcd6c4f38943adc",
+  "title": "仁寿堂",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "阔开荡荡城中天，朝菌灵椿总大年。",
+    "凿井耕田皆帝力，不知谁党复谁偏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-3c1c5b44-7ae7-4fdc-bc14-4363bb61f09a"
+}

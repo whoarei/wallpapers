@@ -1,0 +1,16 @@
+{
+  "id": "poem-63f1d516a83a4bd225a2a6a4",
+  "title": "题章野人山居",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "带郭茅亭诗兴饶，回看一曲倚危桥。",
+    "门前山色能深浅，壁上湖光自动摇。",
+    "闲花散落填书帙，戏鸟低飞碍柳条。",
+    "向此隐来经几载，如今已是汉家朝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-43db82d6-e467-4b63-91a9-9939bee76503"
+}

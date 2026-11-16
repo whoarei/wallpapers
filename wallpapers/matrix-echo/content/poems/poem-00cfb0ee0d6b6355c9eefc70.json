@@ -1,0 +1,23 @@
+{
+  "id": "poem-00cfb0ee0d6b6355c9eefc70",
+  "title": "鼓吹曲辞 有所思",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "当时我醉美人家，美人颜色娇如花。",
+    "今日美人弃我去，青楼珠箔天之涯。",
+    "天涯娟娟常娥月，三五二八盈又缺。",
+    "翠眉蝉鬓生别离，一望不见心断绝。",
+    "心断绝，几千里，梦中醉卧巫山云。",
+    "觉来泪滴湘江水，湘江两岸花木深。",
+    "美人不见愁人心，含愁更奏绿绮琴，调高弦绝无知音。",
+    "美人兮美人！不知为暮雨兮为朝云。",
+    "相思一夜梅花发，忽到窗前疑是君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "爱情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-b9629e5e-c8bc-47e6-ae9f-2eba96a7fbda"
+}

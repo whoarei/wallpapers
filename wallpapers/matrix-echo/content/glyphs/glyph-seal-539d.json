@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-539d",
+  "script": "seal",
+  "character": "厝",
+  "reading": "cuò",
+  "description": "cuò：(1)安置～火积薪。\n(2)停柩，把棺材停放待葬，或浅埋以待改葬浮～。暂～。\n(3)磨刀石。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-厝"
+}

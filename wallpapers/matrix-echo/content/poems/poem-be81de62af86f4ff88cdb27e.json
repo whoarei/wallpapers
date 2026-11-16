@@ -1,0 +1,16 @@
+{
+  "id": "poem-be81de62af86f4ff88cdb27e",
+  "title": "至德中赠内兄刘赞",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "时难访亲戚，相见喜还悲。",
+    "好学年空在，从戎事已迟。",
+    "听琴泉落处，步履雪深时。",
+    "惆怅多边信，青山共有期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-82a9fe1c-3f19-4351-9b6a-13d690a366ed"
+}

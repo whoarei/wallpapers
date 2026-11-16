@@ -1,0 +1,14 @@
+{
+  "id": "poem-dc241e936ef7c759e3e8752a",
+  "title": "宫中曲二首 二",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "身轻入宠尽恩私，腰细偏能舞柘枝。",
+    "一日新妆抛旧样，六宫争画黑烟眉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1b91577e-ed76-4404-9954-05bb4de06515"
+}

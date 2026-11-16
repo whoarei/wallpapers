@@ -1,0 +1,14 @@
+{
+  "id": "poem-32710bf42ce5fc2150922fce",
+  "title": "挽林通判德溥  其一",
+  "author": "林光朝",
+  "dynasty": "宋",
+  "verses": [
+    "岂为长者畏时名，梁楚何从得此声。",
+    "只隔螺江衣带水，自应别驾旧廉平。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-9c60614f-120b-47ea-83e3-b2a1264babea"
+}

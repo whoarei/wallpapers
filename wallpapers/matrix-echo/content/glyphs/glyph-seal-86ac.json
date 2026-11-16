@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-86ac",
+  "script": "seal",
+  "character": "蚬",
+  "reading": "xiǎn",
+  "description": "小蛤的一类\n蚬xiǎn软体动物。介壳略呈心脏形，外面青黑或黄褐色，有环纹，里面青紫或白色。生活在淡水软泥中。肉可吃，壳可供药用 。\n蚬xiàn 1.蝶类的幼虫。赤头，长寸许，吐丝作茧，悬于空中，俗名缢女。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蚬"
+}

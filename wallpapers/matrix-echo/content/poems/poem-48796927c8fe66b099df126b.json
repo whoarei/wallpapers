@@ -1,0 +1,14 @@
+{
+  "id": "poem-48796927c8fe66b099df126b",
+  "title": "春夜宿云际寺",
+  "author": "斐公衍",
+  "dynasty": "唐",
+  "verses": [
+    "境静闻钟声易响，庭高见月影难沈。",
+    "青山解隔尘中事，流水能清物外心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-740c1743-61f4-4694-908b-6737af54523d"
+}

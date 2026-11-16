@@ -1,0 +1,20 @@
+{
+  "id": "poem-e07fe30f328621661073ef34",
+  "title": "谒金门·春尚浅",
+  "author": "韩元吉",
+  "dynasty": "宋",
+  "verses": [
+    "春尚浅。",
+    "谁把玉英裁翦。",
+    "尽道梅梢开未遍。",
+    "卷帘花满院。",
+    "楼上酒融歌暖。",
+    "楼下水平烟远。",
+    "却似涌金门外见。",
+    "絮飞波影乱。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-791",
+  "tags": []
+}

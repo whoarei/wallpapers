@@ -1,0 +1,14 @@
+{
+  "id": "poem-53365921580e855b2fd5df23",
+  "title": "浣溪沙·荷芰风轻帘幕香",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "荷芰风轻帘幕香，绣衣㶉𫛶泳回塘，小屏闲掩旧潇湘。",
+    "恨入空帷鸾影独，泪凝双脸渚莲光，薄情年少悔思量。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-2"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-e3ee71c63e90165a94d9695d",
+  "title": "水月庵",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "心蟾光朣朣，性静湍不起。",
+    "悠哉小天地，万化渺无蔕。",
+    "清苕半洚水月庵，碧蟾夜夜先清涵。",
+    "曩曾借榻坐凉树，细数秋毫闚夜潭。",
+    "犹来清圆捉不得，何地容兹老豪逸。",
+    "修名与月俱不死，衮衮东流几时息。",
+    "乡来万州赋此诗，寥寥百岁无此奇。",
+    "诗在天西锦官寺，珠璧照人觉形秽。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-191d8885-df94-4d99-a5db-0d55ec60f4aa"
+}

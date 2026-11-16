@@ -1,0 +1,20 @@
+{
+  "id": "poem-0951087643d1c48cf897f0b7",
+  "title": "阮郎归·摘山初制小龙团",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "摘山初制小龙团。",
+    "色和香味全。",
+    "碾声初断夜将阑。",
+    "烹时鹤避烟。",
+    "消滞思，解尘烦。",
+    "金瓯雪浪翻。",
+    "只愁啜罢水流天。",
+    "馀清搅夜眠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-752",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-78a5a6123d4d7818580d05ce",
+  "title": "和暑夜偶作之什",
+  "author": "李昉",
+  "dynasty": "宋",
+  "verses": [
+    "新搆华居近禁城，旋栽松桧满中庭。",
+    "顺风子细闻清漏，隔竹依稀见落星。",
+    "万乘异恩无路报，千年昌运此时丁。",
+    "一轩明月谁为伴，应共金昆醉复醒。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-bcf948f9-02de-41c9-a220-c68e1e2aa51e"
+}

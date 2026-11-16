@@ -1,0 +1,16 @@
+{
+  "id": "poem-7dc9f957def75723ba942fff",
+  "title": "桐竹赠张燕公",
+  "author": "李伯鱼",
+  "dynasty": "唐",
+  "verses": [
+    "北竹青桐北，南桐绿竹南。",
+    "竹林君早爱，桐树我初贪。",
+    "凤栖桐不媿，凤食竹何慙。",
+    "栖食更如此，余非凤所堪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-b11c0a85-b5f4-4f3f-b2b1-37f1246c6347"
+}

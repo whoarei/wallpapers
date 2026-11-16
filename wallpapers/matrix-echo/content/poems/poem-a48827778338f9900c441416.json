@@ -1,0 +1,16 @@
+{
+  "id": "poem-a48827778338f9900c441416",
+  "title": "虞美人·深闺春色劳思想",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "深闺春色劳思想，恨共春芜长。",
+    "黄鹂娇啭泥芳妍，杏枝如画倚轻烟，琐窗前。",
+    "凭栏愁立双蛾细，柳影斜摇砌。",
+    "玉郎还是不还家，教人魂梦逐杨花，绕天涯。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-37"
+}

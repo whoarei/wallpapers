@@ -1,0 +1,14 @@
+{
+  "id": "poem-993f0de99844cd573cb8a15c",
+  "title": "赠因长老",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "金猊铁脊铁腰顽，趁鼠随狐屈折难。",
+    "因是正因须自信，避些炎热耐些寒。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-4a4ca97f-dc44-4898-a8aa-6c339a0db332"
+}

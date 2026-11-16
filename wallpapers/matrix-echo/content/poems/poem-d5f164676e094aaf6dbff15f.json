@@ -1,0 +1,18 @@
+{
+  "id": "poem-d5f164676e094aaf6dbff15f",
+  "title": "西江月·人我众生寿者",
+  "author": "张伯端",
+  "dynasty": "宋",
+  "verses": [
+    "人我众生寿者，宁分彼此高低。",
+    "法身通照没吾伊。",
+    "念念体分同异。",
+    "见是何曾是是，闻非未必非非。",
+    "往来诸用不相知。",
+    "生死谁能碍你。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-988",
+  "tags": []
+}

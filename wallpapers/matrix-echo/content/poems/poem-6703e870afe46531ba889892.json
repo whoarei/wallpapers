@@ -1,0 +1,16 @@
+{
+  "id": "poem-6703e870afe46531ba889892",
+  "title": "清平乐·洛阳愁绝",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "洛阳愁绝，杨柳花飘雪。",
+    "终日行人恣攀折，桥下流水呜咽。",
+    "上马争劝离觞，南浦莺声断肠。",
+    "愁杀平原年少，回首挥泪千行。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-1",
+  "tags": []
+}

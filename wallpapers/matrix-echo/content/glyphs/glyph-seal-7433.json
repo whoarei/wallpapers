@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7433",
+  "script": "seal",
+  "character": "琳",
+  "reading": "lín",
+  "description": "lín：美玉～珉。～琅（a.美玉，喻美好珍贵的东西，如～～满目”；b.玉石发出的声音）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-琳"
+}

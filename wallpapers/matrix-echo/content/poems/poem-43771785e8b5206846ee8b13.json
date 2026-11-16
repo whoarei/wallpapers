@@ -1,0 +1,16 @@
+{
+  "id": "poem-43771785e8b5206846ee8b13",
+  "title": "挽令人  其二",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "之子有贤叔，鲰生误受知。",
+    "恩蒙夫子妻，事类白圭诗。",
+    "黄卷悲吟夜，青灯照绩时。",
+    "竟孤偕隠愿，徒切悼亡思。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-dbc320a2-c79c-49b5-b9cc-08f10b84dad1"
+}

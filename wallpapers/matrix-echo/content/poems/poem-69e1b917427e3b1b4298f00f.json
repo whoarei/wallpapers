@@ -1,0 +1,14 @@
+{
+  "id": "poem-69e1b917427e3b1b4298f00f",
+  "title": "梁谿八咏 舫斋",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "画舫临流四面通，绿窗面面有清风。",
+    "年来始会虚舟意，正在江湖波浪中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-da626cb1-4a13-43d4-b14e-f4cc0496d23a"
+}

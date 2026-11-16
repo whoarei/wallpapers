@@ -1,0 +1,20 @@
+{
+  "id": "poem-15368a073435b174a6349d46",
+  "title": "问刘十九",
+  "author": "白居易",
+  "dynasty": "唐",
+  "verses": [
+    "绿螘新醅酒，红泥小火垆。",
+    "晚来天欲雪，能饮一杯无。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言绝句",
+    "生活",
+    "饮酒",
+    "友情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-9972f7bb-ae5b-49e4-87df-381386af66b6"
+}

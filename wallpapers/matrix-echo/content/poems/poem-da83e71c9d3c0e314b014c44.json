@@ -1,0 +1,15 @@
+{
+  "id": "poem-da83e71c9d3c0e314b014c44",
+  "title": "醉落魄",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "冤家做作好直恁，把心不定。",
+    "(生)张协去心不安稳，不见归来，寻你那脸节病。",
+    "(旦唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2582",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-82d7",
+  "script": "kai",
+  "character": "苗",
+  "reading": "miáo",
+  "description": "miáo：(1)初生的植物或没有秀穗的庄稼禾～。麦～。树～。幼～。～子（亦喻继承某种事业的接班人）。～而不秀（只长苗而不秀穗，喻本身条件虽好，但没有成就）。\n(2)形状像苗的火～儿。\n(3)某些初生的饲养的动物鱼～。\n(4)能使机体产生免疫力的微生物制剂疫～。卡介～。\n(5)子孙后代～裔。\n(6)中国少数民族，主要分布于贵州、湖南、云南、四川、湖北等省和广西壮族自治区～族。～绣。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-苗"
+}

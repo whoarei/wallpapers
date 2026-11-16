@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-60a3",
+  "script": "seal",
+  "character": "患",
+  "reading": "huàn",
+  "description": "huàn：(1)忧虑～得～失。忧～。\n(2)灾祸～难。祸～。隐～。防～未然。\n(3)害病～病。～者。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-患"
+}

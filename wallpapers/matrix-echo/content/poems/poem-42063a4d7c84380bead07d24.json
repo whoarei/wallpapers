@@ -1,0 +1,16 @@
+{
+  "id": "poem-42063a4d7c84380bead07d24",
+  "title": "经王处士原居",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "旧宅谁相近，唯僧近竹关。",
+    "庭闲云满井，窗晓雪通山。",
+    "来客半留宿，借书多寄还。",
+    "明时未中岁，莫便一生闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-bf94838a-f165-449a-9069-c9564727a8ae"
+}

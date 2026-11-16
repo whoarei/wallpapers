@@ -1,0 +1,22 @@
+{
+  "id": "poem-e89e6878335f7d6cdfdbe8d3",
+  "title": "蝶恋花·独倚危楼风细细",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "独倚危楼风细细。",
+    "望极离愁，黯黯生天际。",
+    "草色山光残照里。",
+    "无人会得凭阑意。",
+    "也拟疏狂图一醉。",
+    "对酒当歌，强饮还无味。",
+    "衣带渐宽都不悔。",
+    "况伊销得人憔悴。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-172"
+}

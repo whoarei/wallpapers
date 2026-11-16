@@ -1,0 +1,16 @@
+{
+  "id": "poem-7ea2a0af0efd112301f7f275",
+  "title": "谢公石罇",
+  "author": "李翔",
+  "dynasty": "唐",
+  "verses": [
+    "康乐云楼迹尚存，竹亭犹仰古洼罇。",
+    "苔封四面迷山象，露滴中心认酒痕。",
+    "岩月旧来曾伴饮，涧泉今咽共谁论。",
+    "无因访得逃尧客，求取风瓢挂石门。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-952663f4-dcc2-4359-87fc-bdc6cb8ab378"
+}

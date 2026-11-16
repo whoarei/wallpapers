@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-80a1",
+  "script": "kai",
+  "character": "股",
+  "reading": "gǔ",
+  "description": "gǔ：(1)大腿，自胯至膝盖的部分～骨。～肱（亦喻左右辅助得力的人）。\n(2)事物的分支或一部分（a.资金的一份，如～份”，～东”，～票”；b.机关团体中的一个部门；c.其他，如钗～”，八～文”）。\n(3)中国古代称不等腰三角形构成直角的较长的边。\n(4)量词（a.指成条的，如七～大水”；b.指气味，如一～香味”；c.指力气，如拧成一～劲”；d.批、部分，如一小～敌军”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-股"
+}

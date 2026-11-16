@@ -1,0 +1,16 @@
+{
+  "id": "poem-aef621b4a36ca8c0789923cc",
+  "title": "寒食郊外",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "寒食将吾族，相随过石溪。",
+    "冢花沾酒落，林鸟学人啼。",
+    "白水穿芜疾，新霞出雾低。",
+    "不堪回首望，家在赤松西。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-2c940534-e56b-470c-8637-7b727a602811"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-52a3",
+  "script": "kai",
+  "character": "劣",
+  "reading": "liè",
+  "description": "liè：(1)恶，坏恶～。～迹。\n(2)低下，弱下～势。～等。低～。优～。\n(3)小于一定标准的～弧（小于半圆的弧）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-劣"
+}

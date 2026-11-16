@@ -1,0 +1,16 @@
+{
+  "id": "poem-3dd26ae8f5d5a2805dbd530f",
+  "title": "书怀寄元郎中",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "转觉人间无气味，常因身外省因缘。",
+    "经过独爱游山客，计校唯求买药钱。",
+    "重作学官闲尽日，一离江坞病多年。",
+    "吟君钓客词中说，便欲南归榜小船。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-df014f30-57b2-4a82-b2be-efa446d5f926"
+}

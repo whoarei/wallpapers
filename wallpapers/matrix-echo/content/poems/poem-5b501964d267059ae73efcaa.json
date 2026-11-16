@@ -1,0 +1,16 @@
+{
+  "id": "poem-5b501964d267059ae73efcaa",
+  "title": "郊庙歌辞 禅社首乐章 太和",
+  "author": "贺知章、源乾曜",
+  "dynasty": "唐",
+  "verses": [
+    "昭昭有唐，天俾万国。",
+    "列祖应命，四宗顺则。",
+    "申锡无疆，宗我同德。",
+    "曾孙继序，享神配极。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ab812eee-9ec2-43c1-8f1e-98ccbe583ede"
+}

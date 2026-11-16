@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9504",
+  "script": "kai",
+  "character": "锄",
+  "reading": "chú",
+  "description": "锄 〈动〉\n用锄头整理田地,除草\n根除,铲除\n①松土和除草用的农具～头。\n②用锄头松土除草。\n③铲除～奸铲霸。\n【锄奸】铲除通敌的奸细。\n⒈一种松土、除草等的工具。\n⒉使用锄～地。～草。\n⒊铲除～奸。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锄"
+}

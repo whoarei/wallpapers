@@ -1,0 +1,14 @@
+{
+  "id": "poem-6ad5299249521506c3a71752",
+  "title": "兵要望江南 医方第二十九（十六首） 九",
+  "author": "易静",
+  "dynasty": "唐",
+  "verses": [
+    "金疮法，闲时备急方。",
+    "五月五日平明节，采其诸草捣成浆，石灰共作汤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-4580e857-17d3-4c58-a726-b3b5532b69c4"
+}

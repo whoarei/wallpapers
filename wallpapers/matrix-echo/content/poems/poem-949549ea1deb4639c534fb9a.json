@@ -1,0 +1,19 @@
+{
+  "id": "poem-949549ea1deb4639c534fb9a",
+  "title": "风入松",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "西岭松声落日秋，千枝万叶风飗飗。",
+    "美人援琴弄成曲，写得松间声断续。",
+    "声断续，清我魂，流波坏陵安足论。",
+    "美人夜坐月明里，含少商兮点清征。",
+    "风何凄兮飘飘，搅寒松兮又夜起。",
+    "夜未央，曲何长，金徽更促声泱泱。",
+    "何人此时不得意，意苦弦悲闻客堂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-fd8db3ba-96ed-4396-94bf-a52fddf5e125"
+}

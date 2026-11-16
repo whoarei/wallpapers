@@ -1,0 +1,13 @@
+{
+  "id": "poem-ae6c5ceb4a0dbb8f9b10debb",
+  "title": "懒画眉",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "强对南熏奏虞弦，只见指下余音不似前，那些个流水共高山？呀！怎的只见满眼风波恶，似离别当年怀水仙。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5086",
+  "tags": []
+}

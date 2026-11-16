@@ -1,0 +1,16 @@
+{
+  "id": "poem-734dbb28321d69042b27d581",
+  "title": "高风",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "一传肯来忘暑月，两旬轻举薄云霄。",
+    "非关汉水鱼盈钓，不为宜城酒满瓢。",
+    "方外采真欣淡泊，人间知足得逍遥。",
+    "高风可是陶彭泽，归去田园为折腰。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-a23e46bb-4b85-47e7-abc0-b53a1c4c4de6"
+}

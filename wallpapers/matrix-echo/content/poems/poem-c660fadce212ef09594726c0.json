@@ -1,0 +1,16 @@
+{
+  "id": "poem-c660fadce212ef09594726c0",
+  "title": "偈颂（幷序○序为南岳齐己撰） 二十四",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "世人无心不能治，致祸愁生累及眉。",
+    "一朝体得心无事，眉放毫光自不知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-6765e15d-7916-4f6a-9e05-25599ffea48a"
+}

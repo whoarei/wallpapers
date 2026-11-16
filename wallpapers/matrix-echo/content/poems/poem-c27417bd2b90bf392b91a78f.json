@@ -1,0 +1,16 @@
+{
+  "id": "poem-c27417bd2b90bf392b91a78f",
+  "title": "郊庙歌辞 祭神州乐章 迎神",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "黄舆厚载，赤寰归德。",
+    "含育九区，保安万国。",
+    "诚敬无怠，禋祀有则。",
+    "乐以迎神，其仪不忒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-c7b4ab4c-0e3f-4fa0-b1e1-09b4e98fc4ac"
+}

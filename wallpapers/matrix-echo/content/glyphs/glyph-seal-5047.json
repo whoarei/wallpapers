@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5047",
+  "script": "seal",
+  "character": "假",
+  "reading": "jiǎ；jià",
+  "description": "jiǎ：(1)不真实的，不是本来的，与真”相对～山。～话。～冒。～释。～死。虚～。真～。弄虚作～。\n(2)借用，利用～借。～货。～道（借路）。～手（利用他人为自己办事）。～公济私。不～思索（用不着想）。\n(3)据理推断，有待验证的～设。～使。～令。～如。～若。\n〔～名〕日本文所用的字母，多借用汉字的偏旁。楷书称片～～”，草书称平～～”。\n真；\njià：照规定或经请求批准暂时离开工作或学习场所～日。～条。病～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-假"
+}

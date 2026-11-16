@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6f66",
+  "script": "seal",
+  "character": "潦",
+  "reading": "liáo；lǎo；lào",
+  "description": "lǎo：(1)雨水大。\n(2)路上的流水，积水～水。\nlào：古同涝”，雨水过多，水淹。\nliáo：〔～河〕水名，在中国河南省西南部。亦称垢河”。\n〔～倒〕ａ．落拓不羁，举止不自检束；ｂ．颓丧，失意。\n〔～草〕ａ．（做事）草率，不精细；ｂ．（字）不工整。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-潦"
+}

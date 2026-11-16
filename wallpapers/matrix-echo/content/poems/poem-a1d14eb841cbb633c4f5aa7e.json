@@ -1,0 +1,16 @@
+{
+  "id": "poem-a1d14eb841cbb633c4f5aa7e",
+  "title": "奉和登会昌山应制",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "岩磴列云旗，吾君访道时。",
+    "干行万物覩，日驭六龙迟。",
+    "望远回天顾，登高动睿词。",
+    "愿因山作寿，长保会昌期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ccff76d6-4bd6-4bb3-a4b0-59c2c766f9f7"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-bcb415c3fdd081c1b717732b",
+  "title": "荷叶杯·绝代佳人难得",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "绝代佳人难得，倾国，花下见无期。",
+    "一双愁黛远山眉，不忍更思惟。",
+    "闲掩翠屏金凤，残梦，罗幕画堂空。",
+    "碧天无路信难通，惆怅旧房栊。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-43"
+}

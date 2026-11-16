@@ -1,0 +1,20 @@
+{
+  "id": "poem-bf5a29f12f36f3c05b3ba7ea",
+  "title": "减字木兰花·柳塘微雨",
+  "author": "米友仁",
+  "dynasty": "宋",
+  "verses": [
+    "柳塘微雨。",
+    "两两飞鸥来复去。",
+    "倚遍重阑。",
+    "人在碧云山外山。",
+    "一春离怨。",
+    "日照绮窗长几线。",
+    "酒病情魔。",
+    "两事春来无奈何。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-49",
+  "tags": []
+}

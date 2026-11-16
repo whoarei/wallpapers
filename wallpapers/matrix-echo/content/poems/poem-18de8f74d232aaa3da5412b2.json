@@ -1,0 +1,16 @@
+{
+  "id": "poem-18de8f74d232aaa3da5412b2",
+  "title": "谢程帅袁制使  其三",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "世人事夸毗，失得纷灭起。",
+    "回思少年日，失脚几堕此。",
+    "尚友千载人，得已吾径已。",
+    "高眠北窗风，贤否付一指。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-61d9939b-75ea-40ce-8139-133763f4a354"
+}

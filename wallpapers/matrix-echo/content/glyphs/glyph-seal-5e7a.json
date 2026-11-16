@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e7a",
+  "script": "seal",
+  "character": "幺",
+  "reading": "yāo",
+  "description": "yāo：(1)小，排行最末的～叔。～妹。\n(2)数目一（ａ．称呼电话号码等；ｂ．色子和骨牌中的一点）呼～喝（hè）六。\n(3)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-幺"
+}

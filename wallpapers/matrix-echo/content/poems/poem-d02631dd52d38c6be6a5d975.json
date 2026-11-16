@@ -1,0 +1,16 @@
+{
+  "id": "poem-d02631dd52d38c6be6a5d975",
+  "title": "子夜歌·人生愁恨何能免",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "人生愁恨何能免，销魂独我情何限。",
+    "故国梦重归，觉来双泪垂。",
+    "高楼谁与上？长记秋晴望。",
+    "往事已成空，还如一梦中。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-7"
+}

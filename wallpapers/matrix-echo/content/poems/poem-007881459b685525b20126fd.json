@@ -1,0 +1,16 @@
+{
+  "id": "poem-007881459b685525b20126fd",
+  "title": "徐提刑挽章",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "衣冠忽蜕尘，桃下是仙津。",
+    "身与吴天远，恩沾楚泽新。",
+    "授官宁后子，退己不先人。",
+    "尽是无私处，何慙第五伦。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-95fe3d1d-0fdf-458c-97d6-f43f797f022e"
+}

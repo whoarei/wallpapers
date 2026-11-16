@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f02",
+  "script": "seal",
+  "character": "异",
+  "reading": "yì",
+  "description": "yì：(1)不同的～乎。～说。～常。～己（与自己意见不同或利害相冲突的人）。～端（旧时指不符合正统思想的主张或教义，如～～邪说”）。～化。～性。～样。大同小～。～曲同工。\n(2)分开离～。～居。\n(3)另外的，别的～日。～地。～国。～乡。～类。\n(4)特别的奇～。～闻。～彩。奇才～能（特殊的才能）。\n(5)奇怪惊～。诧～。怪～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-异"
+}

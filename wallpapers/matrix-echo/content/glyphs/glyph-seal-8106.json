@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8106",
+  "script": "seal",
+  "character": "脆",
+  "reading": "cuì",
+  "description": "cuì：(1)容易断，容易碎的～性。～枣。～骨。青～爽口。～生生。～弱。\n(2)声音清爽（高音）～亮。～美。清～悦耳。\n(3)说话做事爽利痛快干～。办事很～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-脆"
+}

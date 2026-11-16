@@ -1,0 +1,18 @@
+{
+  "id": "poem-45843cd5b533f4a067d8c682",
+  "title": "秦镜",
+  "author": "独孤绶",
+  "dynasty": "唐",
+  "verses": [
+    "万古秦时镜，从来抱至精。",
+    "依台月自吐，在匣水常清。",
+    "烂烂金光发，澄澄物象生。",
+    "云天皆洞鉴，表里尽虚明。",
+    "但见人窥胆，全胜响应声。",
+    "妍媸定可识，何处更逃情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-41960329-86d2-4636-83cf-80292b6d1bb9"
+}

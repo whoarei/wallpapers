@@ -1,0 +1,16 @@
+{
+  "id": "poem-a51a6242ef7c5c203cb9e503",
+  "title": "送康祭酒赴轮台",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "灞水桥边酒一杯，送君千里赴轮台。",
+    "霜黏海眼旗声冻，风射犀文甲缝开。",
+    "断碛簇烟山似米，野营轩地鼓如雷。",
+    "分明会得将军意，不斩楼兰不拟回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-f6ff95f0-d92f-4414-a409-46cb0d088510"
+}

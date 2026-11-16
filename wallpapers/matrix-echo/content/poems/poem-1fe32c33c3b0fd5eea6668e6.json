@@ -1,0 +1,21 @@
+{
+  "id": "poem-1fe32c33c3b0fd5eea6668e6",
+  "title": "旧镜",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "婵娟本家镜，与妾归君子。",
+    "每忆并照时，相逢明月里。",
+    "春风忽分影，白日难依倚。",
+    "珠粉不结花，玉珰宁辉耳。",
+    "心期不可见，不保长如此。",
+    "华发一欺人，青铜化为鬼。",
+    "良人有归日，肯学妖桃李。",
+    "瑶匣若浮云，冥冥藏玉水。",
+    "侍儿不遣照，恐学孤鸾死。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-9015befa-d621-4ca8-a533-9412338bb0f3"
+}

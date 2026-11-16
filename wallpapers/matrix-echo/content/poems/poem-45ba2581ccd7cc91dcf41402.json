@@ -1,0 +1,15 @@
+{
+  "id": "poem-45ba2581ccd7cc91dcf41402",
+  "title": "失白鹰",
+  "author": "郑繇",
+  "dynasty": "唐",
+  "verses": [
+    "白锦文章乱，丹霄羽翮齐。",
+    "云中呼暂下，雪里放还迷。",
+    "梁苑惊池鹜，陈仓拂野鸡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-097b2ef7-d98e-4ece-afdf-d271139ec20e"
+}

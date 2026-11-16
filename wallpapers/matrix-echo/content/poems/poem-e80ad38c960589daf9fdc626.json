@@ -1,0 +1,18 @@
+{
+  "id": "poem-e80ad38c960589daf9fdc626",
+  "title": "玉楼春·檀槽碎响金丝拨",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "檀槽碎响金丝拨。",
+    "露湿浔阳江上月。",
+    "不知商妇为谁愁，一曲行人留夜发。",
+    "画堂花月新声别。",
+    "红蕊调长弹未彻。",
+    "暗将深意祝胶弦，唯愿弦弦无断绝。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-680",
+  "tags": []
+}

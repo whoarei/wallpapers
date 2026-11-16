@@ -1,0 +1,16 @@
+{
+  "id": "poem-ad4e999f2ebaaab075fa6bed",
+  "title": "奉和九月九日登慈恩寺浮图应制",
+  "author": "李迥秀",
+  "dynasty": "唐",
+  "verses": [
+    "沙界人王塔，金绳梵帝游。",
+    "言从[祇]树赏，行玩菊丛秋。",
+    "御酒调甘露，天花拂彩旒。",
+    "尧年将佛日，同此庆时休。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-76c68224-117d-4b08-8a6a-1f4fe60998e1"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-3145fcaa784dd3e4c6dd4559",
+  "title": "塞上",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "东出卢龙塞，浩然客思孤。",
+    "亭堠列万里，汉兵犹备胡。",
+    "边尘涨北溟，虏骑正南驱。",
+    "转鬬岂长策，和亲非远图。",
+    "惟昔李将军，按节出皇都。",
+    "总戎扫大漠，一战擒单于。",
+    "常怀感激心，愿效纵横谟。",
+    "倚劒欲谁语，关河空郁纡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-0111fccd-210b-4e0d-b8f7-c4b09ed8476f"
+}

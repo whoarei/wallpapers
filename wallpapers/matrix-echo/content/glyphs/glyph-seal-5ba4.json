@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5ba4",
+  "script": "seal",
+  "character": "室",
+  "reading": "shì",
+  "description": "shì：(1)屋子，房间，亦指家居～。教～。会客～。温～。引狼入～。\n(2)家，家族皇～。女有家，男有～。\n(3)机关团体内部的工作单位档案～。\n(4)古指妻子（亦指为子娶妻或以女嫁人）妻～。继～。\n(5)刀剑的鞘。\n(6)墓穴。\n(7)星名，二十八宿之一。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-室"
+}

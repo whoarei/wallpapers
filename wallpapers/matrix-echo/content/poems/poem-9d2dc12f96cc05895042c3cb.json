@@ -1,0 +1,14 @@
+{
+  "id": "poem-9d2dc12f96cc05895042c3cb",
+  "title": "偈 一",
+  "author": "师备",
+  "dynasty": "唐",
+  "verses": [
+    "三棒愚痴不思议，浩浩溶溶自打之。",
+    "行来目前明明道，七颠八倒是汝机。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-d8498db1-4a8b-4b1d-a8e1-09a4ee9a2daa"
+}

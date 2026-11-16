@@ -1,0 +1,16 @@
+{
+  "id": "poem-c32ee97789f778aac22fa597",
+  "title": "驻马摘金桃",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "他本是豪门，住在沙陀小李村。",
+    "我与他公公来往，与我家中有些薄亲。",
+    "他暂时落薄暂时贫，领归来自然依本分。",
+    "何故怒生嗔？交他进也无门，退也无门，全不有大人苦乐不均。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8831",
+  "tags": []
+}

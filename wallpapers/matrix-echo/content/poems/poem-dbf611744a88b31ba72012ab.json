@@ -1,0 +1,21 @@
+{
+  "id": "poem-dbf611744a88b31ba72012ab",
+  "title": "满江红·回首吾庐",
+  "author": "毛并",
+  "dynasty": "宋",
+  "verses": [
+    "回首吾庐，思归去、石溪樵谷。",
+    "临玩有、门前流水，乱松疏竹。",
+    "幽草春馀荒井迳，鸣禽日在窥墙屋。",
+    "但等闲、凭几看南山，云相逐。",
+    "家酿美，招邻曲。",
+    "朝饭饱，随耕牧。",
+    "况东皋二顷，岁时都足。",
+    "鳞阁功名身外事，墙阴不驻流光促。",
+    "更休论、一枕梦中惊，黄粱熟。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-623",
+  "tags": []
+}

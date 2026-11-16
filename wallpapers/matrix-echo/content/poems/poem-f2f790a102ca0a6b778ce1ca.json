@@ -1,0 +1,14 @@
+{
+  "id": "poem-f2f790a102ca0a6b778ce1ca",
+  "title": "咏史诗 细腰宫",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "楚王辛苦战无功，国破城荒霸业空。",
+    "唯有青春花上露，至今犹泣细腰宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-d6127d65-19b9-491b-9107-11a56b13b928"
+}

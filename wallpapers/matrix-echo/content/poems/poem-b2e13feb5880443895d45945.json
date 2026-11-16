@@ -1,0 +1,14 @@
+{
+  "id": "poem-b2e13feb5880443895d45945",
+  "title": "秋宿长安韦主簿厅",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "水木清凉夜直厅，愁人楼上唱寒更。",
+    "坐劳同步帘前月，鼠动床头印锁声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8b82a19f-8596-4c4f-b3f3-276667cfc0cb"
+}

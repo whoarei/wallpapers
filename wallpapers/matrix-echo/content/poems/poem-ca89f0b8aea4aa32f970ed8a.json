@@ -1,0 +1,16 @@
+{
+  "id": "poem-ca89f0b8aea4aa32f970ed8a",
+  "title": "自平",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "自平宫中吕太一，收珠南海千余日。",
+    "近供生犀翡翠稀，复恐征戎干戈密。",
+    "蛮溪豪族小动摇，世封刺史非时朝。",
+    "蓬莱殿前诸主将，才如伏波不得骄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-b207dcff-1823-4283-88d7-57d8c780c8ab"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-4cf47248b4c65532cfed2dd7",
+  "title": "盛山十二诗 竹岩",
+  "author": "韦处厚",
+  "dynasty": "唐",
+  "verses": [
+    "不资冬日秀，为作暑天寒。",
+    "先植诚非凤，来翔定是鸾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ddadb644-49a7-452c-8ce3-85ebd55de76f"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-ff0266378ea3b86dcf4593ab",
+  "title": "送夏中丞赴宁国任",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "楚县入青枫，长江一派通。",
+    "板桥寻谢客，古邑事陶公。",
+    "片雨收山外，连云上汉东。",
+    "陆机犹滞洛，念子望南鸿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-5c365aaf-f2df-4a07-adf6-dd460903675d"
+}

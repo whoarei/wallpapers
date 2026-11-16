@@ -1,0 +1,14 @@
+{
+  "id": "poem-baef0419f106d3d90da1709f",
+  "title": "萧宅二三子赠答诗二十首 客请马兰",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "嵩山未必怜兰兰，兰兰已受郎君恩。",
+    "不须刷帚跳踪走，只拟兰浪出其门。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-e610c414-386a-433d-98d3-f8ac508574ec"
+}

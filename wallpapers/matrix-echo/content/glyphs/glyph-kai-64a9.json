@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-64a9",
+  "script": "kai",
+  "character": "撩",
+  "reading": "liáo；liāo",
+  "description": "liāo：(1)掀起～起衣襟。～起头发。\n(2)用手舀着洒水先～水后扫地。\nliáo：挑弄，引逗～拨。～乱（纷乱，如眼花～～”。亦作缭乱”）。春色～人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撩"
+}

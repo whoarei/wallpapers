@@ -1,0 +1,16 @@
+{
+  "id": "poem-9e372f3b4d97ab73eac4bbe5",
+  "title": "玉楼春·月照玉楼春漏促",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "月照玉楼春漏促，飒飒风摇庭砌竹。",
+    "梦惊鸳被觉来时，何处管弦声断续。",
+    "惆怅少年游冶去，枕上两蛾攒细绿。",
+    "晓莺帘外语花枝，背帐犹残红蜡烛。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-46"
+}

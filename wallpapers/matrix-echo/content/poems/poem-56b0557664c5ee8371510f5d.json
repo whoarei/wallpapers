@@ -1,0 +1,16 @@
+{
+  "id": "poem-56b0557664c5ee8371510f5d",
+  "title": "岭南道中",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "百花成实未成归，未必归心与志违。",
+    "但有壶觞资逸咏，尽交风景入清机。",
+    "半川阴雾藏高木，一道晴蜺杂落晖。",
+    "游子马前芳草合，鹧鸪啼歇又南飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-6c5021cd-f042-408b-8dc8-9055635a8b69"
+}

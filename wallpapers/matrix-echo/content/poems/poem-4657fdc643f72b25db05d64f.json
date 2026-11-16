@@ -1,0 +1,20 @@
+{
+  "id": "poem-4657fdc643f72b25db05d64f",
+  "title": "金陵酒肆留别",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "风吹柳花满店香，吴姬压酒唤客尝。",
+    "金陵子弟来相送，欲行不行各尽觞。",
+    "请君试问东流水，别意与之谁短长。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言古诗",
+    "离别",
+    "饮酒"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-809ad73b-9a8e-436e-9874-f9295b624af0"
+}

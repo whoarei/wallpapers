@@ -1,0 +1,14 @@
+{
+  "id": "poem-d79f3aed20f90648c2d25cc8",
+  "title": "同诸公寻李方直不遇",
+  "author": "包何",
+  "dynasty": "唐",
+  "verses": [
+    "闻说到扬州，吹箫忆旧游。",
+    "人来多不见，莫是上迷楼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-13603ba0-f3e4-43a0-adb6-eb8f9dc839ca"
+}

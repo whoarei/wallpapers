@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-800d",
+  "script": "kai",
+  "character": "耍",
+  "reading": "shuǎ",
+  "description": "shuǎ：(1)游戏玩～。～笑。\n(2)玩弄，戏弄～弄。～猴。\n(3)舞动，施展～滑。～手艺。～手腕。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-耍"
+}

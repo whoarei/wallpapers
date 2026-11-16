@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5305",
+  "script": "seal",
+  "character": "包",
+  "reading": "bāo",
+  "description": "bāo：(1)用纸、布或其他薄片把东西裹起来～装。～饺子。\n(2)包好了的东西邮～。背（bèi）～。\n(3)装东西的袋书～。皮～。\n(4)容纳在内，总括在一起～括。～举（总括）。～容。～涵。～罗万象。无所不～。\n(5)总揽，负全责～销。～揽。\n(6)保证～赔。～在我身上。\n(7)约定的，专用的～饭。～工。\n(8)围～围。～剿。\n(9)一种带馅的蒸熟的面食～子。糖～儿。\n(10)身体上肿起的疙瘩脓～。\n(11)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-包"
+}

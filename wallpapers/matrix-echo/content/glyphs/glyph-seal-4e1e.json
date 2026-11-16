@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e1e",
+  "script": "seal",
+  "character": "丞",
+  "reading": "chéng",
+  "description": "chéng：(1)帮助，辅佐～相（古代辅佐帝王治理国家大事的统率百官的最高大臣）。\n(2)封建时代辅佐主要官员做事的官吏府～。县～。\n(3)古同承”，秉承。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丞"
+}

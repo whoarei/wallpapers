@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62ab",
+  "script": "kai",
+  "character": "披",
+  "reading": "pī",
+  "description": "pī：(1)覆盖在肩背上～星戴月。\n(2)穿戴～挂。～甲。\n(3)打开，散开～襟。～阅。～露（发表，公布，表露）。所向～靡。\n(4)劈开，裂开竹竿～了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-披"
+}

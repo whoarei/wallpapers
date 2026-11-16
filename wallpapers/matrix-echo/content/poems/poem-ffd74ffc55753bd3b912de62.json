@@ -1,0 +1,16 @@
+{
+  "id": "poem-ffd74ffc55753bd3b912de62",
+  "title": "偈十六首  其一六",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "晷运推移无不动，日南长至几曾迁。",
+    "应时纳祜无他事，依旧三门开两边。",
+    "三门开两边，一句具三玄。",
+    "今古应无坠，分明在目前。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-e7dd5ad7-7fc4-473d-8e16-760671653067"
+}

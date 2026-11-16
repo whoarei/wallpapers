@@ -1,0 +1,16 @@
+{
+  "id": "poem-818abeb80e765643b56cd622",
+  "title": "郊庙歌辞 祭汾阴乐章 顺和",
+  "author": "源光裕",
+  "dynasty": "唐",
+  "verses": [
+    "方丘既膳，嘉飨载谧。",
+    "齐敬毕诚，陶匏贵质。",
+    "秀毕丰荐，芳俎盈实。",
+    "永永福流，其升如日。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f7ba4362-047b-40e8-8a43-17e6a1d93ca2"
+}

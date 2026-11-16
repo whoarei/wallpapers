@@ -1,0 +1,14 @@
+{
+  "id": "poem-92cc9de39fb1070008fe56a4",
+  "title": "李居士",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "高风只在五峰前，应是精灵降作贤。",
+    "万里无云惟一鹤，乡中同看却升天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-19935893-8dc1-47a4-b7ce-4637321baa65"
+}

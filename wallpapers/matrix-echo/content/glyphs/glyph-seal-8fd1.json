@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8fd1",
+  "script": "seal",
+  "character": "近",
+  "reading": "jìn",
+  "description": "jìn：(1)距离短，与远”相对接～。附～。靠～。～路。～景。舍～求远。～在眉睫。～朱者赤，～墨者黑。～水楼台。\n(2)现在以前不久的时间～况。～来。～代。～岁。～闻。～照。～体诗。\n(3)亲密亲～。～亲。～臣。平易～人。\n(4)差别小，差不多接～。相～。\n(5)浅显言～旨远。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-近"
+}

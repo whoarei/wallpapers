@@ -1,0 +1,16 @@
+{
+  "id": "poem-4dc1926a442bad5458a7fc06",
+  "title": "送古之奇赴安西幕",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "畴昔十年兄，相逢五校营。",
+    "今宵举杯酒，陇月见军城。",
+    "堠火经阴绝，边人接晓行。",
+    "殷勤送书记，强虏几时平。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-e9013cb0-39cc-4b2a-9f1d-6b466b6a2389"
+}

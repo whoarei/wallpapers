@@ -1,0 +1,16 @@
+{
+  "id": "poem-fc4a0fabcce1030164b567bd",
+  "title": "题李长啸漕元赁居",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "可种梅花便可居，此身安处即吾庐。",
+    "胸中丘壑无今古，笔底烟霞自卷舒。",
+    "著脚且坚君子操，知心自有圣人书。",
+    "吾侪幸是苕川客，只好溪头学钓鱼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b7578253-b795-4ee7-aefa-dd860f946baa"
+}

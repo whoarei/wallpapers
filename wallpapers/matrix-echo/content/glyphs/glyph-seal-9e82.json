@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e82",
+  "script": "seal",
+  "character": "麂",
+  "reading": "jǐ",
+  "description": "jǐ：哺乳动物的一属，像鹿，腿细而有力，善于跳跃，皮很软可以制革。通称麂子”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-麂"
+}

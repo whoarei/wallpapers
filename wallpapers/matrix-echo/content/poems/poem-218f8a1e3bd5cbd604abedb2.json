@@ -1,0 +1,18 @@
+{
+  "id": "poem-218f8a1e3bd5cbd604abedb2",
+  "title": "暮上瞿唐峡",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "自古艰难地，孤舟旦暮程。",
+    "独愁空托命，省已是轻生。",
+    "有树皆相倚，无岩不倒倾。",
+    "蛟螭波数怒，鬼怪火潜明。",
+    "履道知无负，离心自要惊。",
+    "何年面骨肉，细话苦辛行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4042129d-6751-457e-9daf-d4622425ec33"
+}

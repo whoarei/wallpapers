@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-907d",
+  "script": "seal",
+  "character": "遽",
+  "reading": "jù；jv",
+  "description": "jù：(1)急，仓猝～尔（突然）。～死。～然。匆～。\n(2)惊惧、慌张～色。惶～。\n(3)古代报信的快马或驿车乘～而至。\n(4)遂，就塘有万穴，塞其一，鱼何～无由出？”",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-遽"
+}

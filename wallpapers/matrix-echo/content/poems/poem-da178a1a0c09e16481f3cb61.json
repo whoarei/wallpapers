@@ -1,0 +1,15 @@
+{
+  "id": "poem-da178a1a0c09e16481f3cb61",
+  "title": "玉环山",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "清有濯缨水，白有漱齿石。",
+    "悠哉水石间，宦情聊自适。",
+    "朝焉游其南，暮焉游其北。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-5ae7829f-a94a-4fa9-8e3e-76e557da3594"
+}

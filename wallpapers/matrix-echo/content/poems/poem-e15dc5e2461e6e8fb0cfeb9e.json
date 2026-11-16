@@ -1,0 +1,22 @@
+{
+  "id": "poem-e15dc5e2461e6e8fb0cfeb9e",
+  "title": "送顾处士歌",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "吴门顾子予早闻，风貌真古谁似君。",
+    "人中黄宪与颜子，物表孤高将片云。",
+    "性背时人高且逸，平生好古无俦匹。",
+    "醉书在箧称绝伦，神画开厨怕飞出。",
+    "谢氏檀郎亦可俦，道情还似我家流。",
+    "安贫日日读书坐，不见将名干五侯。",
+    "知君别业长洲外，欲行秋田循畎浍。",
+    "门前便取觳觫乘，腰上还将鹿卢佩。",
+    "禅子有情非世情，御荈贡余聊赠行。",
+    "满道喧喧遇君别，争窥玉润与冰清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-db20c6f2-4d08-4acf-a055-5fe1a4ff4af8"
+}

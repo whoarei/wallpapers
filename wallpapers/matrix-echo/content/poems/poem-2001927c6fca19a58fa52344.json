@@ -1,0 +1,16 @@
+{
+  "id": "poem-2001927c6fca19a58fa52344",
+  "title": "武威同诸公过杨七山人得藤字",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "幕府日多暇，田家岁复登。",
+    "相知恨不早，乘兴乃无恒。",
+    "穷巷在乔木，深斋垂古藤。",
+    "边城唯有醉，此外更何能。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-655ae29b-c115-4b27-a0b8-caa7e01d1808"
+}

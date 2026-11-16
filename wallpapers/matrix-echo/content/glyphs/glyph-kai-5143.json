@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5143",
+  "script": "kai",
+  "character": "元",
+  "reading": "yuán",
+  "description": "yuán：(1)头、首、始、大～凶。～首。～旦。～年。～勋。～帅。状～（科举考试第一名）。\n(2)基本单～。～件。～气（精气，根本）。～素。～音。\n(3)同圆”⑦。\n(4)未知数一～二次方程。\n(5)中国朝代名～代。～曲。\n(6)姓。\n(7)古同玄”，清代避康熙皇帝（玄烨）名讳，以元”代玄”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-元"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-dfc7d9d66251acb2e25660cf",
+  "title": "酒泉子·黛愁怨红羞",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "黛愁怨红羞，掩映画堂春欲暮。",
+    "残花微雨隔青楼，思悠悠。",
+    "芳菲时节看将度，寂寞无人还独语。",
+    "画罗襦，香粉污，不胜愁。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-14"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-72cfdcfc07910d27de2bfd0c",
+  "title": "和元晦雪压竹韵",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "山行景物总清奇，知费山翁几许诗。",
+    "雪急风号联骑日，月明霜净倚阑时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-5601a972-19da-4a01-8a95-ec22e19dee2d"
+}

@@ -1,6 +1,8 @@
 (() => {
   'use strict';
-  function startScene() {
+  async function startScene() {
+    try { await window.MatrixContent?.ready; }
+    catch (error) { document.getElementById('culture-status').textContent = error.message; document.getElementById('culture-panel').hidden = false; return; }
     const runtime = window.WallpaperRuntime;
     runtime.refresh();
     const canvas = document.getElementById('matrix');
@@ -351,9 +353,9 @@
     addEventListener('pagehide', () => cancelAnimationFrame(raf), { once: true });
     makeAtlas(); resize();
     if (!runtime.paused) raf = requestAnimationFrame(tick);
-    window.matrixEcho = { getState: () => ({ width, height, time, frames, paused, speedIndex, lightIndex,
+    window.matrixEcho = { getState: options => ({ width, height, time, frames, paused, speedIndex, lightIndex,
       interactions, rippleCount: ripples.length, streams: streams.length, targetFps: 30, configurationSource,
-      rainPoem: rainPoemState(), culture: culture.getState() }) };
+      rainPoem: rainPoemState(), culture: culture.getState(options) }) };
   }
   if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });
   else startScene();

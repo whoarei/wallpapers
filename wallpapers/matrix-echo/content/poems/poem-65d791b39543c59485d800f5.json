@@ -1,0 +1,18 @@
+{
+  "id": "poem-65d791b39543c59485d800f5",
+  "title": "风不鸣条",
+  "author": "卢肇",
+  "dynasty": "唐",
+  "verses": [
+    "习习和风至，过条不自鸣。",
+    "暗通青律起，远傍白苹生。",
+    "拂树花仍落，经林鸟自惊。",
+    "几牵萝蔓动，潜惹柳丝轻。",
+    "入谷迷松响，开窗失竹声。",
+    "薰弦方在御，万国仰皇情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b95fdfcb-149d-46e7-a72c-5279ad03975b"
+}

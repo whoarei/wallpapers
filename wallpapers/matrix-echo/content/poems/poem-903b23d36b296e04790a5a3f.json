@@ -1,0 +1,25 @@
+{
+  "id": "poem-903b23d36b296e04790a5a3f",
+  "title": "月夜忆舍弟",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "戍鼓断人行，秋边一雁声。",
+    "露从今夜白，月是故乡明。",
+    "有弟皆分散，无家问死生。",
+    "寄书长不避，况乃未休兵。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "月夜",
+    "秋天",
+    "边塞",
+    "思乡",
+    "五言律诗",
+    "怀人",
+    "中秋"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c1280e87-ac81-4f9b-9de5-377d6af38ae8"
+}

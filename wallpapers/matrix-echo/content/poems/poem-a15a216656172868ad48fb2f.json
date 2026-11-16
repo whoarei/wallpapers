@@ -1,0 +1,15 @@
+{
+  "id": "poem-a15a216656172868ad48fb2f",
+  "title": "月云高",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "路途劳倦，行行甚时近？未到得洛阳县，那盘缠使尽。",
+    "回首孤坟，空教我望孤影。",
+    "他那里谁秋采？俺这里将谁投奔？正是西出阳关无故人，须信道家贫不是贫。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5184",
+  "tags": []
+}

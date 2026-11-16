@@ -1,0 +1,17 @@
+{
+  "id": "poem-29d590d28a046625523daa95",
+  "title": "永团圆",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "名传四海人怎比？岂独是耀门闾？人生怕不全孝义，圣明世岂相弃。",
+    "这隆恩美誉，从教管领何所愧，万古青编记。",
+    "如今便去，相随到京畿。",
+    "拜谢君恩了，归庭宇，一家贺喜。",
+    "共设华筵会，四景常欢聚。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5283",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-d204955e644b9fd0d7fae40b",
+  "title": "蚬子和尚赞",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "得恁么自在，得恁么快活。",
+    "古庙当丛林，捞波作衣钵。",
+    "脚头到处江天阔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-0c9ab671-9900-4ad3-aa39-ebf916f6d2a9"
+}

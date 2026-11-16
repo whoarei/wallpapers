@@ -1,0 +1,18 @@
+{
+  "id": "poem-a1e38b495239aefe14aefeff",
+  "title": "省题诗二十一首 上巳日曲江锡宴群臣",
+  "author": "王棨",
+  "dynasty": "唐",
+  "verses": [
+    "池散暮春景，君垂晞露恩。",
+    "妙音回舜乐，浓味降尧罇。",
+    "诏出倾兰省，筵开对杏园。",
+    "轻涟摇彩舰，芳草映华轩。",
+    "禊事辉朝曲，欢声彻帝门。",
+    "常陪观者列，低首望余暄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-cf693e4c-b030-4dcf-9db6-ccc146886660"
+}

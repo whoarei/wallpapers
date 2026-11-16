@@ -1,0 +1,17 @@
+{
+  "id": "poem-1c6b3fe71903041f251ce45e",
+  "title": "朝中措·慕名人似蚁贪膻",
+  "author": "张抡",
+  "dynasty": "宋",
+  "verses": [
+    "慕名人似蚁贪膻。",
+    "扰扰几时闲。",
+    "输我吴松江上，一帆点破晴烟。",
+    "青莎卧月，红鳞荐酒，一醉陶然。",
+    "此是人间蓬岛，更于何处求仙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-952",
+  "tags": []
+}

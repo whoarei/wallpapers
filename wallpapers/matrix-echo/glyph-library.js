@@ -4,12 +4,19 @@
   function create({ runtime, settings, onChange, notify, download, editable = true }) {
     const $ = id => document.getElementById(id);
     const builtins = G.collection(window.MATRIX_GLYPHS), original = new Map(builtins.map(e => [e.id, e]));
+    const byCharacter = new Map(builtins.map(e => [e.script + ':' + e.character, e]));
     const active = new Map();
     let editId = null;
+    const viewer = MatrixLibrary.create('glyph', { render, editable,
+      excluded: () => settings.excludedGlyphCollections,
+      toggle: name => {
+        const groups = settings.excludedGlyphCollections;
+        settings.excludedGlyphCollections = groups.includes(name) ? groups.filter(s => s !== name) : [...groups, name];
+        refresh('已更新文字选集。');
+      } });
     function list(overrides = settings.glyphOverrides, removed = settings.glyphRemoved) {
-      const merged = new Map(builtins.map(e => [e.id, e]));
-      overrides.forEach(e => merged.set(e.id, e)); removed.forEach(id => merged.delete(id));
-      return [...merged.values()];
+      const deleted = new Set(removed);
+      return G.merge(builtins, overrides).filter(e => !deleted.has(e.id));
     }
     function filename(entry) {
       const name = window.MATRIX_GLYPH_FILES?.[entry.id];
@@ -20,22 +27,23 @@
     }
     function refresh(message) {
       const entries = list();
-      G.scripts.forEach(s => active.set(s.id, entries.filter(e => e.enabled && e.script === s.id)));
+      G.scripts.forEach(s => active.set(s.id, entries.filter(e => e.enabled && e.script === s.id
+        && !settings.excludedGlyphCollections.includes(MatrixLibrary.collection(e)))));
       render(); if (message) onChange(message);
     }
     function upsert(entries) {
       const overrides = new Map(settings.glyphOverrides.map(e => [e.id, e]));
       for (const entry of entries) {
-        const builtin = builtins.find(e => e.script === entry.script && e.character === entry.character);
-        if (builtin && builtin.id !== entry.id) throw new Error('该字符已有内置 id，请保留导出记录中的 id 以更新注释。');
+        const builtin = byCharacter.get(entry.script + ':' + entry.character);
+        if (builtin && builtin.id !== entry.id && !settings.glyphOverrides.some(e => e.id === entry.id)) throw new Error('该字符已有内置 id，请保留导出记录中的 id 以更新注释。');
       }
       entries.forEach(e => overrides.set(e.id, e));
-      const reserved = new Map(original); overrides.forEach((entry, id) => reserved.set(id, entry));
-      G.collection([...reserved.values()]);
+      G.collection(G.merge(builtins, [...overrides.values()]));
       const incoming = new Set(entries.map(e => e.id)), removed = settings.glyphRemoved.filter(id => !incoming.has(id));
       const prospective = list([...overrides.values()], removed);
       if (prospective.length) G.collection(prospective);
-      settings.glyphOverrides = [...overrides.values()]; settings.glyphRemoved = removed;
+      settings.glyphOverrides = [...overrides.values()].filter(e => !original.has(e.id) || JSON.stringify(original.get(e.id)) !== JSON.stringify(e)); settings.glyphRemoved = removed;
+      if (entries.length === 1) viewer.reveal(entries[0].id);
     }
     function editor(entry = null) {
       if (!runtime.capabilities.keyboard || !editable) return;
@@ -51,16 +59,19 @@
       el.addEventListener('click', action); return el;
     }
     function render() {
-      const entries = list(), filter = $('glyph-filter').value, container = $('glyph-list'); container.replaceChildren();
-      $('glyph-count').textContent = `${entries.filter(e => e.enabled).length} / ${entries.length} 条启用`;
-      for (const entry of entries.filter(e => !filter || e.script === filter)) {
+      const entries = list(), container = $('glyph-list'); container.replaceChildren();
+      $('glyph-count').textContent = `${entries.filter(e => e.enabled && !settings.excludedGlyphCollections.includes(MatrixLibrary.collection(e))).length} / ${entries.length} 条启用`;
+      const visible = viewer.page(entries);
+      for (const entry of visible) {
+        const builtinRecord = original.has(entry.id) && !settings.preservedGlyphIds.includes(entry.id);
         const script = G.scripts.find(s => s.id === entry.script), row = document.createElement('div');
         row.className = 'poem-row glyph-row'; row.dataset.glyphId = entry.id;
         const summary = document.createElement('div'), title = document.createElement('b'), preview = document.createElement('span'), detail = document.createElement('p'), description = document.createElement('p');
         summary.className = 'glyph-summary'; preview.className = 'glyph-preview'; preview.lang = script.lang;
         preview.style.fontFamily = script.family; preview.textContent = entry.character;
-        title.append(preview, document.createTextNode(script.name + ' · ' + (original.has(entry.id) ? '内置' : '个人')));
-        detail.textContent = entry.reading || '未填写读音或字母名'; description.textContent = entry.description;
+        title.append(preview, document.createTextNode(script.name + ' · ' + (builtinRecord ? '内置' : '个人')));
+        detail.textContent = (entry.reading || '未填写读音或字母名') + ' · ' + MatrixLibrary.collection(entry); description.textContent = entry.description;
+        summary.title = entry.source || '';
         summary.append(title, detail, description);
         if (!editable) { row.append(summary); container.append(row); continue; }
         const actions = document.createElement('div'); actions.className = 'row-actions';
@@ -70,22 +81,24 @@
         if (runtime.capabilities.keyboard) actions.append(button('编辑', () => editor(entry)));
         actions.append(button('删除', () => {
           settings.glyphOverrides = settings.glyphOverrides.filter(e => e.id !== entry.id);
-          if (original.has(entry.id) && !settings.glyphRemoved.includes(entry.id)) settings.glyphRemoved.push(entry.id);
+          const builtin = byCharacter.get(entry.script + ':' + entry.character);
+          for (const id of [original.has(entry.id) ? entry.id : null, builtin?.id]) {
+            if (id && !settings.glyphRemoved.includes(id)) settings.glyphRemoved.push(id);
+          }
           if (editId === entry.id) $('glyph-editor').hidden = true;
-          refresh(`已删除${script.name}「${entry.character}」。${original.has(entry.id) ? '可通过恢复内置文字找回。' : ''}`);
+          refresh(`已删除${script.name}「${entry.character}」。${builtinRecord ? '可通过恢复内置文字找回。' : ''}`);
         }));
         row.append(summary, actions); container.append(row);
       }
-      $('glyph-empty').hidden = entries.some(e => !filter || e.script === filter);
+      $('glyph-empty').hidden = visible.length > 0;
     }
-    $('glyph-filter').addEventListener('change', render);
     $('add-glyph').addEventListener('click', () => editor());
     $('cancel-glyph-edit').addEventListener('click', () => { editId = null; $('glyph-editor').hidden = true; });
     $('glyph-editor').addEventListener('submit', event => {
       event.preventDefault(); if (!runtime.capabilities.keyboard || !editable) return;
       try {
         const old = list().find(e => e.id === editId);
-        const entry = G.normalize({ ...(editId ? { id: editId } : {}), script: $('glyph-script').value,
+        const entry = G.normalize({ ...old, ...(editId ? { id: editId } : {}), script: $('glyph-script').value,
           character: $('glyph-character').value.trim(), reading: $('glyph-reading').value, description: $('glyph-description').value,
           enabled: old?.enabled ?? true });
         if (!editId && list().some(e => e.id === entry.id || e.script === entry.script && e.character === entry.character)) throw new Error('该类型中已有此字符，请直接编辑或通过 JSON 导入更新。');
@@ -97,7 +110,7 @@
       if (!runtime.capabilities.keyboard || !editable) return;
       const files = [...event.target.files]; event.target.value = ''; if (!files.length) return;
       try {
-        if (files.length > G.limits.entries || files.reduce((n, f) => n + f.size, 0) > G.limits.bytes) throw new Error('一次最多导入 500 个文件，总大小不超过 2 MiB。');
+        if (files.length > G.limits.entries || files.reduce((n, f) => n + f.size, 0) > G.limits.bytes) throw new Error('一次最多导入 20000 条记录，总大小不超过 32 MiB。');
         const entries = [];
         for (const file of files) {
           try { entries.push(...G.collection(JSON.parse((await file.text()).replace(/^\uFEFF/, '')))); }
@@ -117,7 +130,8 @@
     $('restore-glyphs').addEventListener('click', () => { $('glyph-restore-confirm').hidden = false; });
     $('cancel-glyph-restore').addEventListener('click', () => { $('glyph-restore-confirm').hidden = true; });
     $('confirm-glyph-restore').addEventListener('click', () => {
-      settings.glyphOverrides = settings.glyphOverrides.filter(e => !original.has(e.id)); settings.glyphRemoved = [];
+      settings.glyphOverrides = settings.glyphOverrides.filter(e => !original.has(e.id) || settings.preservedGlyphIds.includes(e.id));
+      settings.glyphRemoved = settings.glyphRemoved.filter(id => settings.preservedGlyphIds.includes(id)); settings.excludedGlyphCollections = [];
       $('glyph-restore-confirm').hidden = true; $('glyph-editor').hidden = true; editId = null;
       refresh('已恢复内置悬浮文字，个人新增文字已保留。');
     });

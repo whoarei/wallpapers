@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-783b",
+  "script": "seal",
+  "character": "砻",
+  "reading": "lóng",
+  "description": "用砻脱出稻谷的壳\n如砻坊;砻糠\n磨石\n脱出稻壳的农具\n通垄”。坟墓\n⒈去掉谷物壳的器具。\n⒉用砻去掉谷物的壳，也泛指磨～谷。～砺。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-砻"
+}

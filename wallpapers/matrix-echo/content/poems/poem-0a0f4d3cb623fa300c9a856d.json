@@ -1,0 +1,24 @@
+{
+  "id": "poem-0a0f4d3cb623fa300c9a856d",
+  "title": "子夜吴歌 秋歌",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "长安一片月，万户捣衣声。",
+    "秋风吹不尽，总是玉关情。",
+    "何日平胡虏，良人罢远征。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-49194c4b-b775-4d21-a506-fc0a2ff308f1",
+  "tags": [
+    "思念",
+    "清商曲辞",
+    "妇女",
+    "秋天",
+    "唐诗三百首",
+    "乐府",
+    "月亮",
+    "闺怨"
+  ]
+}

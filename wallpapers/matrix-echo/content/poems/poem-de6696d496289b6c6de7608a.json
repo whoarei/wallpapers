@@ -1,0 +1,16 @@
+{
+  "id": "poem-de6696d496289b6c6de7608a",
+  "title": "如梦令·正是辘轳金井",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "正是辘轳金井，满砌落花红冷。",
+    "蓦地一相逢，心事眼波难定。",
+    "谁省，谁省。",
+    "从此簟纹灯影。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-29"
+}

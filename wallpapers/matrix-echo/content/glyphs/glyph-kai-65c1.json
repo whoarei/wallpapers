@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-65c1",
+  "script": "kai",
+  "character": "旁",
+  "reading": "páng；bàng",
+  "description": "páng：(1)左右两侧～边。～侧。～门。～出。～听。～若无人。\n(2)其他，另外～人。～的话。触类～通。责无～贷。～证。～白（戏剧角色背着台上其他剧中人对观众说的话）。～落。\n(3)广，广泛～征博引。\n(4)邪、偏～门左道。\n(5)汉字形体中常常出现的某些组成部分偏～。竖心～儿。\nbàng：古同傍”，靠。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-旁"
+}

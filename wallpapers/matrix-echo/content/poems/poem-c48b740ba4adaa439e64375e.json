@@ -1,0 +1,16 @@
+{
+  "id": "poem-c48b740ba4adaa439e64375e",
+  "title": "点绛唇·小院新凉",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "小院新凉，晚来顿觉罗衫薄。",
+    "不成孤酌，形影空酬酢。",
+    "萧寺怜君，别绪应萧索。",
+    "西风恶，夕阳吹角，一阵槐花落。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-78"
+}

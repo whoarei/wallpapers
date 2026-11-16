@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65f6",
+  "script": "seal",
+  "character": "时",
+  "reading": "shí",
+  "description": "⒈一切物质不断运动变化或发展所经历的过程～间。～候。～光。\n⒉时间的一段～期。～代。古～。秦～。平～。瞬～。盛极一～。\n⒊时间单位。一天分子～、丑～、寅～等十二～辰。一天分二十四小～。\n⒋节令，季节～令。～节。春夏秋冬四～。应～服装。\n⒌现在的，当前的～事。～髦。\n⒍经常，常常～常。～ ～见到。\n⒎不经常，间或～而。有～候。～好～坏。\n⒏规定的时间准～。按～上下班。\n⒐不定的时间不～。随～。\n⒑机会，具有时间性的有利条件～机。～不可失。～不再来。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-时"
+}

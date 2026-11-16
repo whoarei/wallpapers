@@ -1,0 +1,14 @@
+{
+  "id": "poem-a59c84cefc6f71f76fe4d282",
+  "title": "江上闻猨",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "枫岸月斜明，猨啼旅梦惊。",
+    "愁多肠易断，不待第三声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-72dcbb00-71cf-41e7-ac0e-3be3588a0e8e"
+}

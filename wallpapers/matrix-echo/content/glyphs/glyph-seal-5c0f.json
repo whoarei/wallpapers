@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c0f",
+  "script": "seal",
+  "character": "小",
+  "reading": "xiǎo",
+  "description": "xiǎo：(1)指面积、体积、容量、数量、强度、力量不及一般或不及所比较的对象，与大”相对～雨。矮～。短～精悍。\n(2)范围窄，程度浅，性质不重要～事。～节。～题大作。～打～闹。\n(3)时间短～坐。～住。\n(4)年幼小，排行最末～孩。\n(5)谦辞～弟。～可。～人（a.谦称自己，指地位低；b.指人格卑鄙的人；c.指子女；d.小孩儿）。\n(6)妾～房。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-小"
+}

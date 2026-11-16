@@ -1,0 +1,22 @@
+{
+  "id": "poem-90eda71c0f1cc9d7dd89251a",
+  "title": "渔家傲·杨柳风前香百步",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "杨柳风前香百步。",
+    "盘心碎点真珠露。",
+    "疑是水仙开洞府。",
+    "妆景趣。",
+    "红幢绿盖朝天路。",
+    "小鸭飞来稠闹处。",
+    "三三两两能言语。",
+    "饮散短亭人欲去。",
+    "留不住。",
+    "黄昏更下萧萧雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-512",
+  "tags": []
+}

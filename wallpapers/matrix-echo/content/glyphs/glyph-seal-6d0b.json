@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6d0b",
+  "script": "seal",
+  "character": "洋",
+  "reading": "yáng",
+  "description": "yáng：(1)比海更大的水域海～。\n(2)广大，众多，丰盛～溢。～～。\n(3)指外国的，外国来的～人。～货。～为中用。\n(4)指现代化的（区别于土”）土～结合。\n(5)银元大～。～钱。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-洋"
+}

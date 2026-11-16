@@ -1,0 +1,14 @@
+{
+  "id": "poem-9d2b3beb17097741567dfe0a",
+  "title": "郊庙歌辞 梁太庙乐舞辞 帝盥",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "庄肃莅事，周旋礼容。",
+    "裸鬯严洁，穆穆雍雍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-64e7b48a-305f-4d78-a810-c84a76b7b348"
+}

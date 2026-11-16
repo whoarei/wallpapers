@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-82e6",
+  "script": "kai",
+  "character": "苦",
+  "reading": "kǔ",
+  "description": "kǔ：(1)像胆汁或黄连的滋味，与甘”相对甘～。～胆。～瓜。\n(2)感觉难受的～境。～海（原为佛教用语，后喻很苦的环境）。～闷‖辛茹～。吃～耐劳。～恼。\n(3)为某种事所苦～雨。～旱。～夏。～于（ａ．对某种情况感到苦脑；ｂ．表示相比之下更苦些）。\n(4)有耐心地，尽力地～劝。～口婆心。刻～。～心孤诣。\n(5)使受苦那件事可～了你啦！",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-苦"
+}

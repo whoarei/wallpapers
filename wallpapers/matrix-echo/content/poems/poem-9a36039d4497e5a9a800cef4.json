@@ -1,0 +1,16 @@
+{
+  "id": "poem-9a36039d4497e5a9a800cef4",
+  "title": "上宋使君",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "折桂文如锦，分忧力若春。",
+    "位高空倚命，诗妙古无人。",
+    "有感禾争熟，无私吏尽贫。",
+    "野人如有幸，应得见陶钧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-cfb2a2fd-38b6-4c07-a1df-63ab004ec2ce"
+}

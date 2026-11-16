@@ -1,0 +1,19 @@
+{
+  "id": "poem-4dee72776869b60204b57058",
+  "title": "忆昔一首",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "忆昔城南会，珮马轻春风。",
+    "芳华感人心，折赠以为容。",
+    "俯仰一相失，去若南飞鸿。",
+    "青青女萝衣，蔚蔚石上松。",
+    "岁寒无夕秀，安得长相从。",
+    "愿为日月光，落君怀袖中。",
+    "三五如循环，千里宛可同。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b86e25b6-07df-4ca8-8acf-d6448b918176"
+}

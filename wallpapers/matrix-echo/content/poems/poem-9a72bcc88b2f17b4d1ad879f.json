@@ -1,0 +1,20 @@
+{
+  "id": "poem-9a72bcc88b2f17b4d1ad879f",
+  "title": "小重山·鞭凤骖鸾自斗杓",
+  "author": "李弥逊",
+  "dynasty": "宋",
+  "verses": [
+    "鞭凤骖鸾自斗杓。",
+    "老君亲抱送，下层霄。",
+    "人间仙李占春饶。",
+    "千秋里，松月伴吹箫。",
+    "故国水云遥。",
+    "谪仙丹荔熟，剥红绡。",
+    "南山影转卧金蕉。",
+    "倾寒绿，眉寿比山高。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-47",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51fd",
+  "script": "kai",
+  "character": "函",
+  "reading": "hán",
+  "description": "hán：(1)匣，盒子石～。剑～。\n(2)套子，引申为量词书～。信一～（信一封）。\n(3)信件～件。公～。来～。\n(4)包含，容纳～夏（夏”，指中国；函夏”即包括整个中国）。巨蚌～珠。\n(5)铠甲～人（制甲的人）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-函"
+}

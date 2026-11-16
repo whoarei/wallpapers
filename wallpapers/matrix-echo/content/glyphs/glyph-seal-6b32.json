@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b32",
+  "script": "seal",
+  "character": "欲",
+  "reading": "yù",
+  "description": "yù：(1)想得到某种东西或想达到某种目的的要求～念。～望。～火。食～。情～。禁～。纵～。\n(2)想要，希望～盖弥彰。～罢不能。～速不达。\n(3)需要胆～大而心～细。\n(4)能要摇摇～坠。山雨～来风满楼。\n(5)婉顺的样子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-欲"
+}

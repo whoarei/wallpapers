@@ -1,0 +1,14 @@
+{
+  "id": "poem-39bb72670557b3cc5b2bf2bb",
+  "title": "北新水令",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "梦魂中只听得雨滋滋，元来是死生别处。",
+    "浑身上都破损，疼痛怎支吾？朱邦杰，于你有何辜？天怜念小孙屠。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8673",
+  "tags": []
+}

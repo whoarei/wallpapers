@@ -1,0 +1,14 @@
+{
+  "id": "poem-60042a1c27dbe6ce52b1605d",
+  "title": "上冯使君五首 一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "撑船碧江上，春日何迟迟。",
+    "汀花最深处，拾得鸳鸯儿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-42d13e43-6efe-4101-bf30-8685ef9c5cbd"
+}

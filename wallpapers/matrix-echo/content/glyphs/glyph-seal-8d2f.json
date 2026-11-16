@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d2f",
+  "script": "seal",
+  "character": "贯",
+  "reading": "guàn",
+  "description": "旧时用绳索穿钱,每一千文为一贯\n事情,事例\n⒉穿，穿连～穿。～串。连～。〈引〉通，连通～通。学～古今。融会～通。\n⒊原籍，出生地籍～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-贯"
+}

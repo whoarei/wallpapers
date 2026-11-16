@@ -1,0 +1,16 @@
+{
+  "id": "poem-4147f02c046f06eb36716603",
+  "title": "心游楼即事",
+  "author": "刘翼",
+  "dynasty": "宋",
+  "verses": [
+    "禅坐宁离此，意行何所如。",
+    "稻粱诗七月，果木赋闲居。",
+    "活水尝新茗，颠风落旧书。",
+    "无才甘用拙，不是隠樵渔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-f2432767-0e3c-4249-b648-0af6ed872751"
+}

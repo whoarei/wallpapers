@@ -1,0 +1,15 @@
+{
+  "id": "poem-b4d056eaccf3d43a033db8c9",
+  "title": "醉中天",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "文殊智慧施檀信，普贤行法济凡人。",
+    "(唐僧云)伽叶、阿难如何？(贫波唱)伽叶、阿难守着世尊，向佛会高参论。",
+    "(唐僧云)此间到雷音寺，多少路程？(贫婆唱)你听那磬韵钟声远闻，兀的鹿野苑雷音近。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3386",
+  "tags": []
+}

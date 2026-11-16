@@ -1,0 +1,16 @@
+{
+  "id": "poem-00252f90a2455c1ef00bfcf8",
+  "title": "渔父词・渔父·远水无涯山有邻",
+  "author": "赵构",
+  "dynasty": "宋",
+  "verses": [
+    "远水无涯山有邻。",
+    "相看岁晚更情亲。",
+    "笛里月，酒中身。",
+    "举头无我一般人。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-222",
+  "tags": []
+}

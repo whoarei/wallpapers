@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6d3e",
+  "script": "kai",
+  "character": "派",
+  "reading": "pai；pài",
+  "description": "pài：(1)水的支流九～（指长江支流之多）。\n(2)一个系统的分支～系。～别。～性。党～。\n(3)作风，风度正～。气～。～势。～头。\n(4)分配，指定～赴。～驻。～遣。委～。\n(5)指摘～不是。\n(6)量词（ａ．用于派别，如两～的意见争论不休”；ｂ．用于景色、气象、语言等，前面用一”字，如一～胡言”、好一～北国风光”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-派"
+}

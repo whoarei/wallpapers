@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8028",
+  "script": "seal",
+  "character": "耨",
+  "reading": "nòu",
+  "description": "nòu：(1)古代锄草的农具。\n(2)锄草深耕易～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-耨"
+}

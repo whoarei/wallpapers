@@ -1,0 +1,16 @@
+{
+  "id": "poem-3becfa2271ebe8ad930d822d",
+  "title": "游云顶山晚望",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "云顶聊一望，山灵草木奇。",
+    "黔南在何处，堪笑复堪悲。",
+    "菊歇香未歇，露繁蝉不饥。",
+    "明朝又西去，锦水与峨眉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4b955db8-1d3d-4dc7-bb07-c05213bfb067"
+}

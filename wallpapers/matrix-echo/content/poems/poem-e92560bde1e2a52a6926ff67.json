@@ -1,0 +1,14 @@
+{
+  "id": "poem-e92560bde1e2a52a6926ff67",
+  "title": "马诗二十三首 二十二",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "汗血到王家，随鸾撼玉珂。",
+    "少君骑海上，人见是青骡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-e08d02a9-041f-4864-a26c-6e6f5a612d5a"
+}

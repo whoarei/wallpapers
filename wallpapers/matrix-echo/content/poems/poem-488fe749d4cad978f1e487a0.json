@@ -1,0 +1,16 @@
+{
+  "id": "poem-488fe749d4cad978f1e487a0",
+  "title": "咏手二首 二",
+  "author": "赵光远",
+  "dynasty": "唐",
+  "verses": [
+    "撚玉搓琼软复圆，绿窗谁见上琴弦。",
+    "慢笼彩笔闲书字，斜指瑶阶笑打钱。",
+    "炉面试香添麝炷，舌头轻点贴金钿。",
+    "象床珍簟宫棋处，拈定文楸占角边。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-a774e867-f248-4c5f-a140-df0b32839c61"
+}

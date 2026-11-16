@@ -1,0 +1,18 @@
+{
+  "id": "poem-906e108c6919187b5ade1539",
+  "title": "对月作",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "今人看此月，古人看此月。",
+    "如何古人心，难向今人说。",
+    "古人求禄以及亲，及之如之何。",
+    "忠孝为朱轮，今人求禄唯庇身。",
+    "庇身如之何，恶木多斜文。",
+    "斜文复斜文，颠窒何纷纷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-a2cc6dcf-6c94-4fc7-a3e9-a514310a63b9"
+}

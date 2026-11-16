@@ -1,0 +1,16 @@
+{
+  "id": "poem-3a1d1a9fae88e546ebc1065b",
+  "title": "溪村",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "水路随山转，溪晴踏软沙。",
+    "斜阳晒鱼网，疏竹露人家。",
+    "行蟹上枯岸，饥禽衔落花。",
+    "老翁分石坐，闲话到桑麻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-508bee38-23b0-404e-9d2d-6fdfe60c4f7f"
+}

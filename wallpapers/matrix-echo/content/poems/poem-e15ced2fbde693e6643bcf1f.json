@@ -1,0 +1,16 @@
+{
+  "id": "poem-e15ced2fbde693e6643bcf1f",
+  "title": "椀柏",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "土入花甆浅，林疏雪操鲜。",
+    "后凋非地力，独秀是天年。",
+    "老我不谐俗，惜才如养贤。",
+    "明明千古意，渠自指庭前。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-af89db8e-1875-4aca-95a7-2dfbae0a3503"
+}

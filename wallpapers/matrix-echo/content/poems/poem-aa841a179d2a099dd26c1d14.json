@@ -1,0 +1,14 @@
+{
+  "id": "poem-aa841a179d2a099dd26c1d14",
+  "title": "题张于潜画轴五首  其三",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "老发鬅鬙两髻丫，天台山里老烟霞。",
+    "闾丘别后无踪迹，又在兰陵故相家。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-0b3f1b9b-d535-49c8-9754-c61d0587b6f9"
+}

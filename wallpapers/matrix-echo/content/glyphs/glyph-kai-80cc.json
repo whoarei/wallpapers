@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-80cc",
+  "script": "kai",
+  "character": "背",
+  "reading": "bèi；bēi",
+  "description": "bèi：(1)人体后面从肩到腰的部分～脊。～包。～影。\n(2)物体的后面或反面～面。刀～。～后。～景。\n(3)用背部对着，与向”相对～光。人心向～。\n(4)向相反的方向～地性（植物向上生长的性质）。～道而驰。\n(5)避开，离开～地。～井离乡。\n(6)凭记忆读出～书。～诵。～台词。\n(7)违反违～。～离。～信弃义。\n(8)不顺～运。～兴（xìng）。\n(9)偏僻～静。\n(10)听觉不灵耳～。\n负；\n向；腹；\nbēi：人用背驮（tuó）东西，引申为负担～负。～包。～黑锅（喻受冤枉代人受过）。～包袱（喻有沉重的思想负担或经济负担）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-背"
+}

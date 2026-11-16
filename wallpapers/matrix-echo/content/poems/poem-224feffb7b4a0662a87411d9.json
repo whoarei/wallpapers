@@ -1,0 +1,16 @@
+{
+  "id": "poem-224feffb7b4a0662a87411d9",
+  "title": "栖云阁",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "云出救世旱，泽浃云寻归。",
+    "入石了不见，丰功已如遗。",
+    "龙骞荐复起，抱石明幽姿。",
+    "云乎无定所，隠者当何栖。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-691f2298-ef3a-47f1-a638-1ed9229ffc10"
+}

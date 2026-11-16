@@ -1,0 +1,16 @@
+{
+  "id": "poem-2c22ee4621607244b8636868",
+  "title": "赠祠部令狐郎中",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "官初执宪称雄才，省转为郎雅望催。",
+    "待制松阴移玉殿，分宵露气静天台。",
+    "算棋默向孤云坐，随鹤闲穷片水回。",
+    "忽忆十年相识日，小儒新自海边来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-9ab77b05-8e8a-49e0-9eca-e04ed814f349"
+}

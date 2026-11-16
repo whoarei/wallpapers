@@ -1,0 +1,19 @@
+{
+  "id": "poem-076f0ee7cff05ef4fe018716",
+  "title": "清平乐·芗林春色",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "芗林春色。",
+    "杯面云腴白。",
+    "醉里不知天地窄。",
+    "真是人间欢伯。",
+    "风流玉友争妍。",
+    "酪奴可与忘年。",
+    "空诵少陵佳句，饮中谁与俱仙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-146",
+  "tags": []
+}

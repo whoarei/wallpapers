@@ -1,0 +1,14 @@
+{
+  "id": "poem-708dd34464e5111996c7b1f3",
+  "title": "酬尧夫招看牡丹  其一",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "君家牡丹深浅红，二十四枝为一丛。",
+    "不唯春光占七八，才华自是诗人雄。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-be28cde8-b181-4f53-8d9d-187b7f88f9cb"
+}

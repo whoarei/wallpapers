@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94ca",
+  "script": "seal",
+  "character": "铊",
+  "reading": "tā",
+  "description": "大,主要以化合物的形式应用\n⒈金属化学元素之一。符号tl。灰白色，质软。铊的盐类有毒。铊用于制合金、光电管、温度计、光学玻璃等。\n⒈秤锤。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铊"
+}

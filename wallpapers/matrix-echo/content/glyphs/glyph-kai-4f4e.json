@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f4e",
+  "script": "kai",
+  "character": "低",
+  "reading": "dī",
+  "description": "dī：(1)地势或位置在一般标准或平均程度之下，与高”相对～空。～地。～谷。～潮。～沉（ａ．云层厚而低；ｂ．声音低；ｃ．情绪低落）。\n(2)矮短身材～矮。\n(3)细小，沉重～微（ａ．声音细小；ｂ．身份或地位低）。～吟。\n(4)程度差～级。～能。眼高手～。\n(5)卑贱～贱。～首下心。\n(6)等级在下的～俗。～档商品。\n(7)价钱少～价出售。\n(8)俯，头向下垂～头从事。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-低"
+}

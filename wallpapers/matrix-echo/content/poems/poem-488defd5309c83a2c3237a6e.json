@@ -1,0 +1,16 @@
+{
+  "id": "poem-488defd5309c83a2c3237a6e",
+  "title": "渔歌子·柳垂丝",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "柳垂丝，花满树，莺啼楚岸春山暮。",
+    "棹轻舟，出深浦，缓唱渔歌归去。",
+    "罢垂纶，还酌醑，孤村遥指云遮处。",
+    "下长汀，临浅渡，惊起一行沙鹭。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-19"
+}

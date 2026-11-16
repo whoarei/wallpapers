@@ -1,0 +1,14 @@
+{
+  "id": "poem-9d524355ad8c58a576d70d84",
+  "title": "蔷薇",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "朝露洒时如濯锦，晚风飘处似遗钿。",
+    "重门剩著黄金锁，莫被飞琼摘上天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-cbd3dc1d-57f7-416d-898d-2a17500b8062"
+}

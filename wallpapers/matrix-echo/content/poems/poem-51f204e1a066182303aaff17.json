@@ -1,0 +1,14 @@
+{
+  "id": "poem-51f204e1a066182303aaff17",
+  "title": "子规",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "雨恨花愁同此冤，啼时闻处正春繁。",
+    "千声万血谁哀尔，争得如花笑不言。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3b7c7212-79b7-4d89-bfb6-763add437897"
+}

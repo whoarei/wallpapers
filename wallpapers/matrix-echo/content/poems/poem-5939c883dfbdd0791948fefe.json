@@ -1,0 +1,16 @@
+{
+  "id": "poem-5939c883dfbdd0791948fefe",
+  "title": "酬韩庶子",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "西街幽僻处，正与嬾相宜。",
+    "寻寺独行远，借书常送迟。",
+    "家贫无易事，身病足闲时。",
+    "寂寞谁相问，祗应君自知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-b05412b6-d656-4086-a022-771c4f0dfad9"
+}

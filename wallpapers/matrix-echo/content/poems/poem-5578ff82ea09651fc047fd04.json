@@ -1,0 +1,16 @@
+{
+  "id": "poem-5578ff82ea09651fc047fd04",
+  "title": "戏呈程民老",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "多才是处走华镳，问柳寻花九十朝。",
+    "春去光阴祇恨晚，兴来行路莫知遥。",
+    "谢安携妓情虽远，崔烈为公臭不消。",
+    "应是醉魂伤骀荡，大歌楚些为君招。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-a8d1ae9a-f29f-4b05-b4b5-86b128239e03"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-af1028395980086e83f19d44",
+  "title": "谷口书斋寄杨补阙",
+  "author": "钱起",
+  "dynasty": "唐",
+  "verses": [
+    "泉壑带茅茨，云霞生薜帷。",
+    "竹怜新雨后，山爱夕阳时。",
+    "闲鹭栖常早，秋花落更迟。",
+    "家童扫萝迳，昨与故人期。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写景",
+    "五言律诗",
+    "邀请"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b700208d-d859-4e36-96bf-883c81d4df0f"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-de67eed4e55a5298864ade53",
+  "title": "答李浣",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "verses": [
+    "林中观易罢，溪上对鸥闲。",
+    "楚俗饶词客，何人最往还。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-答李浣"
+}

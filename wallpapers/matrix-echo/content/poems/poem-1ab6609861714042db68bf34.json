@@ -1,0 +1,16 @@
+{
+  "id": "poem-1ab6609861714042db68bf34",
+  "title": "高邮张生出所得诗画一轴求余作诗因书",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "千岩秀处有扁舟，不驾樵风欲五秋。",
+    "金咮未应甘腐鼠，霜翎时自下昆邱。",
+    "尘埃漠漠长扃户，云月漫漫独倚楼。",
+    "好事古来常恨少，碧霄清思为君搜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-c5329959-9eb4-489f-9f24-81cb816d75c0"
+}

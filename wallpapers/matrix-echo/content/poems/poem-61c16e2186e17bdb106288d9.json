@@ -1,0 +1,14 @@
+{
+  "id": "poem-61c16e2186e17bdb106288d9",
+  "title": "村晚",
+  "author": "雷震",
+  "dynasty": "宋",
+  "verses": [
+    "草满池塘水满陂，山衔落日浸寒漪。",
+    "牧童归去横牛背，短笛无腔信口吹。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-村晚"
+}

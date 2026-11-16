@@ -1,0 +1,14 @@
+{
+  "id": "poem-b862f53094928ae7f07ab428",
+  "title": "仲春有怀  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "青山四面拥江城，暮角声中淡月明。",
+    "自倚阑干生白发，无心行乐趁春晴。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-a62a0f28-7c36-4aa1-8bdc-e9b661f3a549"
+}

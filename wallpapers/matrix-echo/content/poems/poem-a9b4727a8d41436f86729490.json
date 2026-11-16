@@ -1,0 +1,14 @@
+{
+  "id": "poem-a9b4727a8d41436f86729490",
+  "title": "天下乐",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "这和尚伏虎降龙信有之，京师，诸弟子，焚香点烛齐叩齿。",
+    "社火每鬼间着神，乐器中竹间着丝，闹起一座霸陵桥上市。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-10101",
+  "tags": []
+}

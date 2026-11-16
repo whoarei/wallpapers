@@ -1,0 +1,14 @@
+{
+  "id": "poem-b38f97e939fe914db26acfa5",
+  "title": "茅山续志",
+  "author": "张颉",
+  "dynasty": "宋",
+  "verses": [
+    "步虚声起绕玄云，石乳烟销夜半分。",
+    "怪得瑶笙吹鹤过，碧坛夜醮玉宸君。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-4d83600e-13c7-45b0-be2c-de46e11c0b52"
+}

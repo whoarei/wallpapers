@@ -1,0 +1,16 @@
+{
+  "id": "poem-6623261e7bd636b7a1c6fed8",
+  "title": "思帝乡·春日游",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "春日游，杏花吹满头。",
+    "陌上谁家年少，足风流。",
+    "妾拟将身嫁与，一生休。",
+    "纵被无情弃，不能羞！"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-15"
+}

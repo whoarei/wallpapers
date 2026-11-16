@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-677c",
+  "script": "seal",
+  "character": "杼",
+  "reading": "zhù",
+  "description": "zhù：(1)织布机上的筘，古代亦指梭机～（ａ．指织布机，如不闻～～声，惟闻女叹息”；ｂ．喻诗文的构思和布局，如自出～～”）。\n(2)薄，削薄，减削凡为轮，行泽者欲～，行山者欲侔”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杼"
+}

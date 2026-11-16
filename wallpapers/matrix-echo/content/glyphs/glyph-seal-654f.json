@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-654f",
+  "script": "seal",
+  "character": "敏",
+  "reading": "mǐn",
+  "description": "mǐn：(1)迅速，灵活～捷。～感。～锐。～达（敏捷而通达事理）。灵～。聪～。神经过～。\n(2)奋勉～求（勉力以求）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-敏"
+}

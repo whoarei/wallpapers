@@ -1,0 +1,15 @@
+{
+  "id": "poem-5ef07fb71765c0134af18db2",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)潜观慈母两眉攒，他欢无半点，愁有千般。",
+    "朝夕萦绊，教人痛苦针钻。",
+    "(净)河伯水官，那其间怎把人勾唤？致令得死别生离，如何会意悦心欢？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8289",
+  "tags": []
+}

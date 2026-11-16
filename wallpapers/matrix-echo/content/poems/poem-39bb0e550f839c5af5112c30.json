@@ -1,0 +1,15 @@
+{
+  "id": "poem-39bb0e550f839c5af5112c30",
+  "title": "旦",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "奴家是状元浑家。",
+    "(净)慢行，慢行，怕头上珠牌脱下来。",
+    "(末)又道路无拾遗。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2656",
+  "tags": []
+}

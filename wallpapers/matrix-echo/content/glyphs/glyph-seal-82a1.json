@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-82a1",
+  "script": "seal",
+  "character": "芡",
+  "reading": "qiàn",
+  "description": "qiàn：(1)一年生水草，茎叶有刺，亦称鸡头”～实（芡的果实；种子的仁可食，经碾磨制成淀粉。亦称鸡头米”）。～粉。\n(2)烹调时用淀粉加水调成的浓汁勾～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芡"
+}

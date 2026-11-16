@@ -1,0 +1,16 @@
+{
+  "id": "poem-d3d3a4fd8f425d8c72c36e42",
+  "title": "满庭芳",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "飞絮沾衣，残花随马，轻寒轻暖芳辰。",
+    "江山风物，偏动别离人。",
+    "回首高堂渐远，叹当时恩爱轻分。",
+    "伤情处，数声杜宇，客泪满衣襟。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4969",
+  "tags": []
+}

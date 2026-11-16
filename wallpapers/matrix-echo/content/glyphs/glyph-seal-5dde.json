@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5dde",
+  "script": "seal",
+  "character": "州",
+  "reading": "zhōu",
+  "description": "zhōu：(1)古代的一种行政区划，所辖地区的大小历代不同（后多用于地名）～县〖～。\n(2)中国一种民族自治行政区划海南省黎族苗族自治～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-州"
+}

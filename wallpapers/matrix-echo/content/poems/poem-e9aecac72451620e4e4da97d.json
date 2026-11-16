@@ -1,0 +1,14 @@
+{
+  "id": "poem-e9aecac72451620e4e4da97d",
+  "title": "兵要望江南 医方第二十九（十六首） 四",
+  "author": "易静",
+  "dynasty": "唐",
+  "verses": [
+    "金刃重，速翦马牛毛。",
+    "二件一同烧作末，敷之血止自然消，皮血便坚牢。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-a00607cf-9e22-45a6-9b4c-84ecee29a78f"
+}

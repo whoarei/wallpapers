@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5a5a",
+  "script": "seal",
+  "character": "婚",
+  "reading": "hūn",
+  "description": "hūn：男女结为夫妇结～。新～。已～。～姻。～约。～礼。～变。～娶。～外恋。离～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-婚"
+}

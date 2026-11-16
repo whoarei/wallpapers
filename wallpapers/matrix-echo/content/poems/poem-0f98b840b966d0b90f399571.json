@@ -1,0 +1,16 @@
+{
+  "id": "poem-0f98b840b966d0b90f399571",
+  "title": "同吕缙叔诸君寄怀希用师",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "方袍为佛者，学术以儒兼。",
+    "迹慕山林逸，心从典籍潜。",
+    "白云中寄趣，浮世外安恬。",
+    "遐想观书室，焚香正下帘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-d4189d4d-4f21-4114-a7da-ef0b81c175c2"
+}

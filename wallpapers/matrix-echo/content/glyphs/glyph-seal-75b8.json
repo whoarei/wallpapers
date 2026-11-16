@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75b8",
+  "script": "seal",
+  "character": "疸",
+  "reading": "da；dǎn",
+  "description": "dǎn：〔黄～〕病名，病人的皮肤、黏膜和眼球的巩膜等都呈黄色，是由胆汁的胆红素大量出现在血液中所引起。亦作黄病”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疸"
+}

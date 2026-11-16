@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5458",
+  "script": "seal",
+  "character": "员",
+  "reading": "yuán",
+  "description": "官员的定额。又指官员、官吏\n⒈在工作或学习的人公务～。售货～。演～。学～。\n⒉团体或组织中的分子会～。团～。党～。\n⒋量词。指人数已满～。三～大将。\n⒌〈古〉通\"圆\"。圆形～石。\n员yùn姓。\n员yún见于古人名。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-员"
+}

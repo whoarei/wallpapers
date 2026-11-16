@@ -1,0 +1,14 @@
+{
+  "id": "poem-ab4064058d00c6784b9c1ce4",
+  "title": "思贤岩",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "谏稿成埃两鬓丝，考槃在涧倚天知。",
+    "岩前风叶行人耳，便是襄阳堕泪碑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-7af12fc3-d929-4bc4-bb23-b3d0de0288e1"
+}

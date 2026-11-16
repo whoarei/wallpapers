@@ -1,0 +1,16 @@
+{
+  "id": "poem-4ef97de0347ed5012589f55c",
+  "title": "将离江上作",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "白衣归树下，青草恋江边。",
+    "三楚足深隐，五陵多少年。",
+    "寂寥闻蜀魄，清绝怨湘弦。",
+    "岐路在何处，西行心渺然。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-0c281e09-5785-4391-af95-21b76e2c35dc"
+}

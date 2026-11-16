@@ -1,0 +1,14 @@
+{
+  "id": "poem-8eaab9f0768acbe7efdd994c",
+  "title": "颂古四首  其三",
+  "author": "释行机",
+  "dynasty": "宋",
+  "verses": [
+    "青蛇提起气腥臊，几个男儿有痛毛。",
+    "直下血流犹未觉，举头还见铁山高。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-f8939583-4261-4248-bdd4-bc2dcebfa06f"
+}

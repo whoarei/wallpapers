@@ -1,0 +1,20 @@
+{
+  "id": "poem-749682e214b2a2c8382695bd",
+  "title": "声声慢·宫梅粉淡",
+  "author": "赵佶",
+  "dynasty": "宋",
+  "verses": [
+    "宫梅粉淡，岸柳金匀，皇州乍庆春回。",
+    "凤阙端门，棚山彩建蓬莱。",
+    "沈沈洞天向晚，宝舆还、花满钧台。",
+    "轻烟里，算谁将金莲，陆地齐开。",
+    "触处声歌鼎沸，香鞯趁，雕轮隐隐轻雷。",
+    "万家帘幕，千步锦绣相挨。",
+    "银蟾皓月如昼，共乘欢、争忍归来。",
+    "疏钟断，听行歌、犹在禁街。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-526",
+  "tags": []
+}

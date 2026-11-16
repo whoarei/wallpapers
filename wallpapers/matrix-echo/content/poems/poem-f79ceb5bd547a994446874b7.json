@@ -1,0 +1,16 @@
+{
+  "id": "poem-f79ceb5bd547a994446874b7",
+  "title": "射策后作",
+  "author": "卢肇",
+  "dynasty": "唐",
+  "verses": [
+    "射策明时愧不才，敢期青律变寒灰。",
+    "晴怜断雁侵云去，暖见醯鸡傍酒来。",
+    "箭发尚忧杨叶远，愁生只恐杏花开。",
+    "曲江春浅人游少，尽日看山醉独回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-03242a8b-2d7e-4677-bb24-24708db0f371"
+}

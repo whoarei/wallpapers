@@ -1,0 +1,16 @@
+{
+  "id": "poem-f7e2d5a95cefd8c222915e8d",
+  "title": "唐大飨拜洛乐章 禋和",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "百礼崇容，千官肃事。",
+    "灵降舞兆，神凝有粹。",
+    "奠享咸周，威仪毕备。",
+    "奏夏登列，歌雍撤肆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-169ff044-695d-4889-b2d0-3c1bd70dfc6c"
+}

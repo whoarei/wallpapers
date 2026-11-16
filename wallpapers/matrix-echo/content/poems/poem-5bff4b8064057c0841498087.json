@@ -1,0 +1,16 @@
+{
+  "id": "poem-5bff4b8064057c0841498087",
+  "title": "送宋左曹得温州  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "翁居藩辅久，叔年又相先。",
+    "万石不足数，一灯无别传。",
+    "家声青琐闼，风味赤城仙。",
+    "好是猿啼处，霞标最近天。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-d73812f2-8e05-4e47-8ca3-f96421d0e3a6"
+}

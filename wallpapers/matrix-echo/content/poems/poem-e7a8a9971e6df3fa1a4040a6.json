@@ -1,0 +1,16 @@
+{
+  "id": "poem-e7a8a9971e6df3fa1a4040a6",
+  "title": "长安道中早行",
+  "author": "张佖",
+  "dynasty": "宋",
+  "verses": [
+    "客离孤馆一灯残，牢落星河欲曙天。",
+    "鸡唱未沈函谷月，雁声新度灞陵烟。",
+    "浮生已悟庄周蝶，壮志仍输祖逖鞭。",
+    "何事悠悠策羸马，此中辛苦过流年。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-ac1bed91-33cd-4efe-a02e-9cd2524e3e50"
+}

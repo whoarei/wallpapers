@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-658b",
+  "script": "seal",
+  "character": "斋",
+  "reading": "zhāi",
+  "description": "遂许斋五日\n秦王斋五日。\n进食\n⒈迷信者祭祀前整洁身心～祭。～戒沐浴。〈引〉信奉佛教、道教等人吃的素食吃～。\n⒉施舍饭食给僧人～僧。\n⒊书房或学舍或某些商店名称书～。东～。荣宝～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-斋"
+}

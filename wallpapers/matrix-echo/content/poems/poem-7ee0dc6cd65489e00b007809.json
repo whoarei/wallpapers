@@ -1,0 +1,16 @@
+{
+  "id": "poem-7ee0dc6cd65489e00b007809",
+  "title": "咏萤",
+  "author": "周繇",
+  "dynasty": "唐",
+  "verses": [
+    "熠熠与娟娟，池塘竹树边。",
+    "乱飞同曳火，成聚却无烟。",
+    "微雨洒不灭，清风吹欲燃。",
+    "旧曾书按上，频把作囊悬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a4dea634-027d-45fc-908b-5372ec05fc91"
+}

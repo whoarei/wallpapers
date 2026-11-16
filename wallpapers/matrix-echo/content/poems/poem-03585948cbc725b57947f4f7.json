@@ -1,0 +1,14 @@
+{
+  "id": "poem-03585948cbc725b57947f4f7",
+  "title": "赠廖道士",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "膏已明煎信矣哉，二年人世不归来。",
+    "庭前为报仙桃树，今岁花时好好开。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-f8a77c24-880b-4d01-bfd0-4430f0f05579"
+}

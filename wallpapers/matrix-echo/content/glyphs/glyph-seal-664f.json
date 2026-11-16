@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-664f",
+  "script": "seal",
+  "character": "晏",
+  "reading": "yàn",
+  "description": "yàn：(1)迟，晚～起。～驾。\n(2)天清无云天清日～。\n(3)鲜艳。\n(4)同宴”③。\n(5)安定，安乐～宁～处（chù）（安然处之）。～安。～然。\n(6)姓。\n〔～～〕温柔，和悦，如言笑～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-晏"
+}

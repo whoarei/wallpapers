@@ -1,0 +1,20 @@
+{
+  "id": "poem-79a8bf8c3e52181a0331450f",
+  "title": "哭苗员外呈张参军",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "思君宁家宅，久接竹林期。",
+    "尝值偷琴处，亲闻比玉时。",
+    "高人不易合，弱冠早相知。",
+    "试艺临诸友，能文即我师。",
+    "凌寒松未老，先暮槿何衰。",
+    "季子生前别，羊昙醉后悲。",
+    "寿堂乖一恸，奠席阻长辞。",
+    "因沥殊方泪，遥成墓下诗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-261d8e84-5e2f-4729-abc7-9e3c6730fa80"
+}

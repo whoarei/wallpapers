@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5019",
+  "script": "seal",
+  "character": "候",
+  "reading": "hòu",
+  "description": "hòu：(1)等待等～。～车室。～选人。守～。～补。～场。～审。～诊。\n(2)看望，问好伺～。问～。\n(3)时节时～。气～。～鸟。～虫。\n(4)事物在变化中的情状火～儿。症～。\n(5)古代把五天称为一候”，现气象学上仍沿用～温（每五天的平均温度）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-候"
+}

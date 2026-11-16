@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-76e5",
+  "script": "seal",
+  "character": "盥",
+  "reading": "guàn",
+  "description": "guàn：(1)浇水洗手，泛指洗～洗。～漱。\n(2)洗手器皿承姑奉～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-盥"
+}

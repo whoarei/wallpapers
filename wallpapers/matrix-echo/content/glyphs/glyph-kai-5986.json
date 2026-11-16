@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5986",
+  "script": "kai",
+  "character": "妆",
+  "reading": "zhuāng",
+  "description": "梦啼妆泪红阑干。\n假装。同装”\n⒈修饰，打扮～饰。梳～。\n⒉特指妇女用的装饰物当户理红～。\n⒊演员身上的装饰卸～。\n⒋女子出嫁时的陪送物品嫁～。送～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-妆"
+}

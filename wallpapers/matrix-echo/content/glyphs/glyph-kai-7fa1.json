@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7fa1",
+  "script": "kai",
+  "character": "羡",
+  "reading": "xiàn",
+  "description": "xiàn：(1)因喜爱而希望得到贪～。～慕。～妒。艳～。临渊～鱼。\n(2)有余，余剩余～。以～补不足”。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-羡"
+}

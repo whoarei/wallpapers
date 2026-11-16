@@ -1,0 +1,14 @@
+{
+  "id": "poem-a95dc246b640f29c08233ca0",
+  "title": "杨柳枝·苏小门前柳万条",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "苏小门前柳万条，毵毵金线拂平桥。",
+    "黄莺不语东风起，深闭朱门伴舞腰。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-31",
+  "tags": []
+}

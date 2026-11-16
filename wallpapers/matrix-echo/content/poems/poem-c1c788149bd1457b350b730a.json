@@ -1,0 +1,16 @@
+{
+  "id": "poem-c1c788149bd1457b350b730a",
+  "title": "送从叔赴洪州",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "荣家兼佐幕，叔父似还乡。",
+    "王粲名虽重，郄超髯未长。",
+    "鸣桡过夏口，敛笏见浔阳。",
+    "后夜相思处，中庭月一方。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-c98956e6-9415-4374-bfca-925ca2b91243"
+}

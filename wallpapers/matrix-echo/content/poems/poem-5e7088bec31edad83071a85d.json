@@ -1,0 +1,14 @@
+{
+  "id": "poem-5e7088bec31edad83071a85d",
+  "title": "遵大路",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "遵大路兮，掺执子之袪兮。无我恶兮，不蓵故也！",
+    "遵大路兮，掺执子之手兮。无我魗兮，不蓵好也！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-80"
+}

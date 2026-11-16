@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f3a",
+  "script": "seal",
+  "character": "强",
+  "reading": "qiáng；qiǎng；jiàng",
+  "description": "qiáng：(1)健壮，有力，与弱”相对～壮。～健。～人。～力。～大。～劲。刚～。富～。列～。～弩之末。年富力～。\n(2)程度高～手。～烈。～酸。能力～。\n(3)胜过，优越，好～干。争～好（hào）胜。\n(4)有余，略多于某数～半（超过一半）。\n(5)使用强力，硬性地～占。～加。～攻。～悍。～横（hèng）。～梁（强横霸道）。\n(6)着重，增加分量～化。增～。\n弱；\nqiǎng：硬要，迫使，尽力～使。～迫。～逼。～辩。勉～。～人所难。～词夺理。\n弱；\njiàng：固执，强硬不屈～嘴。倔～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-强"
+}

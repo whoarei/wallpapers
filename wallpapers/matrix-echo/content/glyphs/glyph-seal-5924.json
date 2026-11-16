@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5924",
+  "script": "seal",
+  "character": "夤",
+  "reading": "yín",
+  "description": "yín：(1)深～夜。\n(2)敬畏。\n〔～缘〕攀缘上升，喻拉拢关系，向上巴结。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-夤"
+}

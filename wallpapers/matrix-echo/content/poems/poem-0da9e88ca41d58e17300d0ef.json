@@ -1,0 +1,17 @@
+{
+  "id": "poem-0da9e88ca41d58e17300d0ef",
+  "title": "四牡",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "四牡𬴂𬴂，周道倭迟。岂不怀归？王事靡盬，我心伤悲。",
+    "四牡𬴂𬴂，啴啴骆马。岂不怀归？王事靡盬，不遑启处。",
+    "翩翩者鵻，载飞载下，集于苞栩。王事靡盬，不遑将父。",
+    "翩翩者鵻，载飞载止，集于苞杞。王事靡盬，不遑将母。",
+    "驾彼四骆，载骤骎骎。岂不怀归？是用作歌，将母来谂。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-161"
+}

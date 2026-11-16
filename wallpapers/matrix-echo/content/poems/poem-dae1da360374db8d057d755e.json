@@ -1,0 +1,18 @@
+{
+  "id": "poem-dae1da360374db8d057d755e",
+  "title": "踏莎行·映竹幽妍",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "映竹幽妍，临池娟靓。",
+    "芳苞先暖香初娠。",
+    "南枝微弄雪精神，东君早寄春音信。",
+    "奔月仙标，乘烟远韵。",
+    "玉台粉点和酥凝。",
+    "从来清瘦可禁寒，为谁早把霞衣褪。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-758",
+  "tags": []
+}

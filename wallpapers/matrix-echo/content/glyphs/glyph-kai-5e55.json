@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e55",
+  "script": "kai",
+  "character": "幕",
+  "reading": "mù",
+  "description": "mù：(1)覆着在上面的帐帐～。夜～。～天席地。\n(2)垂挂在舞台前部的帷帐～布。～后。开～。银～。帷～。\n(3)古代战争期间将帅办公的地方～府。～宾。～僚。\n(4)戏剧较完整的段落，亦喻生活中的情景序～。独～剧。\n(5)古代作战时用的铁制臂甲和腿甲。\n(6)覆盖解朝服而～之”。\n(7)古同漠”，沙漠。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-幕"
+}

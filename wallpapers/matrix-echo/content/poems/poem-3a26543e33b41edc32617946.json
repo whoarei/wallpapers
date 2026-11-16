@@ -1,0 +1,19 @@
+{
+  "id": "poem-3a26543e33b41edc32617946",
+  "title": "宿鉴石浦",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "早宿宾从劳，仲春江山丽。",
+    "飘风过无时，舟檝敢不系。",
+    "回塘澹暮色，日没众星嘒。",
+    "缺月残未生，青灯死分翳。",
+    "穷途多俊异，乱世少恩惠。",
+    "鄙夫亦放荡，草草频卒岁。",
+    "斯文忧患余，圣哲垂彖系。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-cdd25eec-c677-4c60-a12c-784ae0fa932f"
+}

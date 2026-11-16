@@ -1,0 +1,16 @@
+{
+  "id": "poem-a11051b7055a5b2c3995d2a4",
+  "title": "到家",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "尘压征裘满，今朝喜到家。",
+    "牵衣儿欲泪，满地菊初花。",
+    "瓦甑添蒸芋，铜铛旋煮茶。",
+    "安贫儒者事，何必恋天涯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-ea0e8313-6445-4b5c-bc54-3ba4e7bdede0"
+}

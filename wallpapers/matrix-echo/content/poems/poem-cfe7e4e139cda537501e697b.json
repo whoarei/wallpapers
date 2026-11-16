@@ -1,0 +1,16 @@
+{
+  "id": "poem-cfe7e4e139cda537501e697b",
+  "title": "酒泉子·黛薄红深",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "黛薄红深，约掠绿鬟云腻。",
+    "小鸳鸯，金翡翠，称人心。",
+    "锦鳞无处传幽意，海燕兰堂春又去。",
+    "隔年书，千点泪，恨难任。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-11"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b386d2fc146eead97cb5e962",
+  "title": "闻夜啼赠刘正元",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "寄泣须寄黄河泉，此中怨声流彻天。",
+    "愁人独有夜灯见，一纸乡书泪滴穿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0682ba7e-6308-42cc-87af-b17e138138cd"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-188dc6b51079658c65973220",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "我做媒婆甚艰辛，寻趁。",
+    "有个新郎要求亲，最紧。",
+    "我每只得便忙奔，讨信。",
+    "(介)路上更有早行人，心闷。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4963",
+  "tags": []
+}

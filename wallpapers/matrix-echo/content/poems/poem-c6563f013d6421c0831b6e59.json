@@ -1,0 +1,16 @@
+{
+  "id": "poem-c6563f013d6421c0831b6e59",
+  "title": "旅怀",
+  "author": "崔涂",
+  "dynasty": "唐",
+  "verses": [
+    "水流花谢两无情，送尽东风过楚城。",
+    "蝴蝶梦中家万里，杜鹃枝上月三更。",
+    "故园书动经年绝，华发春催两鬓生。",
+    "自是不归归便得，五湖烟景有谁争。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-旅懷"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-6b7e41846ae4fed9a64c0bd6",
+  "title": "柳（见《分门纂类唐歌诗》残本第七册《草本虫鱼类》卷八。按《全唐诗》卷七三四亦作罗绍威诗。）",
+  "author": "罗弘信",
+  "dynasty": "唐",
+  "verses": [
+    "空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-7a9a9031-34a9-4faf-a2a3-a9cef5cfc4c1",
+  "tags": []
+}

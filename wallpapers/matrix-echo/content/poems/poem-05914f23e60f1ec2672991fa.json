@@ -1,0 +1,19 @@
+{
+  "id": "poem-05914f23e60f1ec2672991fa",
+  "title": "清平乐·赵家燕燕",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "赵家燕燕。",
+    "宜在昭阳殿。",
+    "春入馆娃深宫宴。",
+    "秀色从来未见。",
+    "浅颦轻笑都宜。",
+    "临风好是腰肢。",
+    "今夜松江归路，月明愁满清辉。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-200",
+  "tags": []
+}

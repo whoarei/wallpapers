@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-63a5",
+  "script": "kai",
+  "character": "接",
+  "reading": "jiē",
+  "description": "jiē：(1)连成一体～合。～骨。～壤。衔～。\n(2)继续，连续～力。～替。～班。～二连三。再～再厉。\n(3)靠近，挨上～近。邻～。～吻。\n(4)承受，收取～受。～收。～纳。～管。\n(5)迎～风。～生。～待。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-接"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-16689ddcd908999ff1572c43",
+  "title": "金陵览古 半阳湖",
+  "author": "朱存",
+  "dynasty": "宋",
+  "verses": [
+    "江南龙节水为乡，水不纯阴又半阳。",
+    "一片湖光共深浅，两般泉脉异温凉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-2f3f8e5b-94a0-431f-9527-5a8fa05510d1"
+}

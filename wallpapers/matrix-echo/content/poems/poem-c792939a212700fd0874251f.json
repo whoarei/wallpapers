@@ -1,0 +1,18 @@
+{
+  "id": "poem-c792939a212700fd0874251f",
+  "title": "鹧鸪天·遍赏扬州百种花",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "遍赏扬州百种花。",
+    "因循忘却鬓苍华。",
+    "客闲惯刻分题烛，坐久还生醉眼霞。",
+    "催掺鼓，趁鸣笳。",
+    "未应回首问归槎。",
+    "清明寒食风烟地，判到今春不著家。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-417",
+  "tags": []
+}

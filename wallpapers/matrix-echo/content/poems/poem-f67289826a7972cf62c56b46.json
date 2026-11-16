@@ -1,0 +1,21 @@
+{
+  "id": "poem-f67289826a7972cf62c56b46",
+  "title": "清平乐·留人不住",
+  "author": "晏几道",
+  "dynasty": "宋",
+  "verses": [
+    "留人不住。",
+    "醉解兰舟去。",
+    "一棹碧涛春水路。",
+    "过尽晓莺啼处。",
+    "渡头杨柳青青。",
+    "枝枝叶叶离情。",
+    "此后锦书休寄，画楼云雨无凭。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-25"
+}

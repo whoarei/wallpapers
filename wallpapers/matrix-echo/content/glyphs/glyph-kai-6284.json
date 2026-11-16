@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6284",
+  "script": "kai",
+  "character": "抄",
+  "reading": "chāo",
+  "description": "chāo：(1)誊写，照原文写～本。～写。～袭。传～。\n(2)搜查而没收～没（mò）。～家。～斩。\n(3)走简捷的路～近。～小道。包～。\n(4)同绰2”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抄"
+}

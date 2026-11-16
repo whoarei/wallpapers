@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-956b",
+  "script": "seal",
+  "character": "镫",
+  "reading": "dèng",
+  "description": "古代盛熟食器皿\n马镫\n古同灯”\n镫子\n出了大门,跳上战马,镫子一磕,飞奔而去\n镫 dèng挂在鞍子两旁供脚登的东西。多用铜铁制成。\n镫dēng 1.本作\"登\"。瓦豆。古代陶制的食器，形似高足盘，或有盖。 2.指这种食器的基部。 3.膏镫。也称锭﹑钉﹑烛豆﹑烛盘。古代照明用具。青铜制，上有盘，中有柱\n，下有底。或有三足及柄。盘所以盛膏，或中有锥供插烛。 4.泛指灯﹔油灯。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镫"
+}

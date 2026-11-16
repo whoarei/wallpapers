@@ -1,0 +1,14 @@
+{
+  "id": "poem-1436044ec6011f4c88ec24f9",
+  "title": "送从翁中丞奉使黠戛斯六首 二",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "旌旗杳杳雁萧萧，春尽穷沙雪未消。",
+    "料得坚昆受宣后，始知公主已归朝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-5afc432e-1115-44f7-9dbb-2056ff04741b"
+}

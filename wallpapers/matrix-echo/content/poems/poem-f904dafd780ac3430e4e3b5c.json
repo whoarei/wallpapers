@@ -1,0 +1,22 @@
+{
+  "id": "poem-f904dafd780ac3430e4e3b5c",
+  "title": "渔家傲·别恨长长欢计短",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "别恨长长欢计短。",
+    "疏锺促漏真堪怨。",
+    "此会此情都未半。",
+    "星初转。",
+    "鸾琴凤乐匆匆卷。",
+    "河鼓无言西北盼。",
+    "香蛾有恨东南远。",
+    "脉脉横波珠泪满。",
+    "归心乱。",
+    "离肠便逐星桥断。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-661",
+  "tags": []
+}

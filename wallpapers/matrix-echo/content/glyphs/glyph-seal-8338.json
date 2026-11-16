@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8338",
+  "script": "seal",
+  "character": "茸",
+  "reading": "róng",
+  "description": "róng：(1)草初生纤细柔软的样子绿～～的草地。\n(2)细柔的毛、发半脱紫～裘”。～毛。\n(3)指鹿茸”（带细毛的才生出来的鹿角，可入药）～客（指鹿）。参（shēn）～（指人参和鹿茸）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茸"
+}

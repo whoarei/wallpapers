@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6e9c",
+  "script": "kai",
+  "character": "溜",
+  "reading": "liū；liù",
+  "description": "liū：(1)滑行，（往下）滑～冰。\n(2)光滑，平滑，无阻碍～圆。～光。\n(3)趁人不见走开～走。～号。\n(4)同熘”。\nliù：(1)迅急的水流大～。急～。\n(2)顺房檐滴下来的水，房顶上流下的水檐～。承～。\n(3)房檐上安的接雨水用的长水槽水～。\n(4)量词，指行（háng）列，排一～三间房。\n(5)某一地点附近的地方这～儿的果木树很多。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-溜"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9648",
+  "script": "seal",
+  "character": "陈",
+  "reading": "chén",
+  "description": "古国名\n陈朝\n战阵;行列\n陈设,陈列",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陈"
+}

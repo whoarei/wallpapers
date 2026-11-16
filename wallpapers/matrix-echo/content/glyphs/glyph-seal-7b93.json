@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7b93",
+  "script": "seal",
+  "character": "箓",
+  "reading": "lù",
+  "description": "箓（籾）lù\n⒈簿籍，册子图～。\n⒉道士搞所谓\"召神驱鬼\"、\"祈福消灾\"等迷信活动骗人钱财时所画的符号符～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-箓"
+}

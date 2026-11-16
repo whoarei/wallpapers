@@ -1,0 +1,17 @@
+{
+  "id": "poem-f13c88d5867116d672041b00",
+  "title": "拟古·美人临残月",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "美人临残月，无言若有思。",
+    "含颦但斜睇，吁嗟怜者谁。",
+    "予本多情人，寸心聊自持。",
+    "浩歌幽兰曲，援琴终不怡。",
+    "私恨托远梦，初日照帘帏。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-249"
+}

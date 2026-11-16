@@ -1,0 +1,14 @@
+{
+  "id": "poem-abf0ea23b8a8f0dcc0466107",
+  "title": "老农十首  其六",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "敢将体足惮沾涂，日日高原带雨锄。",
+    "乞与丰年酬作苦，也知天意解乘除。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-03a09cb2-9f41-47f9-98fb-c7da7b2b44ce"
+}

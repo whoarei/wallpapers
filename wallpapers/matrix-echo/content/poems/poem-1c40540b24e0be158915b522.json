@@ -1,0 +1,14 @@
+{
+  "id": "poem-1c40540b24e0be158915b522",
+  "title": "送客还幽州",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "惆怅秦城送独归，蓟门云树远依依。",
+    "秋来莫射南飞雁，从遣乘春更北飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-c5f09de1-23c6-4900-8cfc-c9086e07ae5f"
+}

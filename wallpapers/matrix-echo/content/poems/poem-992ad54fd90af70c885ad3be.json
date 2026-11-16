@@ -1,0 +1,16 @@
+{
+  "id": "poem-992ad54fd90af70c885ad3be",
+  "title": "吊草堂禅师",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "杖屦疑师在，房关四壁蛬。",
+    "贮缾经腊水，响塔隔山钟。",
+    "乳鸽沿苔井，斋猿散雪峰。",
+    "如何不见性，倚徧寺前松。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-b1556fc7-e7f6-40d4-a2a5-fc62fd7720b7"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-776b",
+  "script": "kai",
+  "character": "睫",
+  "reading": "jié",
+  "description": "jié：(1)眼睑边缘的细毛～毛。目不交～。迫在眉～。\n(2)眨眼矢来注眸子而眶不～。”",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-睫"
+}

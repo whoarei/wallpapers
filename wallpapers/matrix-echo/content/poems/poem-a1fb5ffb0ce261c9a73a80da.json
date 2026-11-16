@@ -1,0 +1,16 @@
+{
+  "id": "poem-a1fb5ffb0ce261c9a73a80da",
+  "title": "怡怡亭",
+  "author": "王景云",
+  "dynasty": "宋",
+  "verses": [
+    "老年常聚首，兄弟共怡怡。",
+    "并坐闲挥麈，交斟醒设巵。",
+    "双声频检韵，让道更敲棋。",
+    "自是天伦乐，嬉游似少时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-670d3b61-82ad-4c4d-b893-a8cab12bddb3"
+}

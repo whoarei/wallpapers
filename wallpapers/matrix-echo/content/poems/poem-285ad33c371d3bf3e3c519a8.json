@@ -1,0 +1,16 @@
+{
+  "id": "poem-285ad33c371d3bf3e3c519a8",
+  "title": "送韦秀才",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "晨装行堕叶，万里望桑干。",
+    "旧说泾关险，犹闻易水寒。",
+    "黄云战后积，白草暮来看。",
+    "近得君苗信，时教旅思宽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-58425418-7cca-4d94-959e-0a9fdff1b95a"
+}

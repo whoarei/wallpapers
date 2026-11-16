@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8bed",
+  "script": "kai",
+  "character": "语",
+  "reading": "yǔ",
+  "description": "交谈,说话\n既歌而语。\n⒈说，谈寡言少～。自言自～。\n⒉话，言论～言『～。外～。成～。\n⒊代替说话的动作手～。旗～。\n⒋简单的俗话或古句谚～。古～。～曰。\n⒌虫、鸟的鸣声蝉～。鸟～。\n语ｙù告诉莫～人。\n语yù 1.告诉。 2.通\"悟\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-语"
+}

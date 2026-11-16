@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e4b",
+  "script": "kai",
+  "character": "之",
+  "reading": "zhī",
+  "description": "zhī：(1)助词，表示领有、连属关系赤子～心。\n(2)助词，表示修饰关系缓兵～计。不速～客。莫逆～交。\n(3)用在主谓结构之间，使成为句子成分大道～行也，天下为公”。\n(4)代词，代替人或事物置～度外。等闲视～。\n(5)代词，这，那～二虫，又何知”。\n(6)虚用，无所指久而久～。\n(7)往，到吾欲～南海”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-之"
+}

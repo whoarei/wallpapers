@@ -1,0 +1,16 @@
+{
+  "id": "poem-6a7b4f9f21bc9518dadf8bea",
+  "title": "和李侍御萼岁初夜集处士书阁",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "迟贤心置阁，高意此郊居。",
+    "古径行春早，新窗见月初。",
+    "放歌还倚瑟，讲道亦观书。",
+    "为我留禅位，来逢此会疎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-7e11e0e1-e387-49ca-82ca-9192b10275ba"
+}

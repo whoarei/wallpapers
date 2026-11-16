@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e31c1622c7a2b1f5aec7e70",
+  "title": "寄东蜀幕中友",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "官亭池碧海榴殷，遥想清才倚画栏。",
+    "柳絮涨天笼地暖，角声经雨透云寒。",
+    "晓侵台座香烟湿，夜草军书蜡炬干。",
+    "为话门人吟太苦，风摧兰秀一枝残。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-865ff86d-2470-48ad-998e-180aff28b34f"
+}

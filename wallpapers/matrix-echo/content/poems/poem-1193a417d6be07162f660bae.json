@@ -1,0 +1,14 @@
+{
+  "id": "poem-1193a417d6be07162f660bae",
+  "title": "题水弄山",
+  "author": "杨筠",
+  "dynasty": "宋",
+  "verses": [
+    "曲曲溪流叠叠山，稻塍高下路回环。",
+    "晓暾初射林霏落，一道炊烟紫翠间。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-1a117a12-18fc-4b33-ae5a-dc98099908c0"
+}

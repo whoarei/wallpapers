@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e45",
+  "script": "kai",
+  "character": "幅",
+  "reading": "fú",
+  "description": "fú：(1)布的宽度～面。双～。宽～。\n(2)泛指事物的宽度～度。～员（幅”是宽度，员”是周围。指疆域或领土的面积。如我国～～广大”）。振～。篇～。\n(3)边缘边～。\n(4)量词，用于布帛、图画等一～画。五～布。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-幅"
+}

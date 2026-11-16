@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6700",
+  "script": "kai",
+  "character": "最",
+  "reading": "zuì",
+  "description": "zuì：(1)极，无比的～大。～高。～初。～终。～为（wéi）。\n(2)聚合忧喜～门。\n(3)合计～大将军青凡七出击匈奴”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-最"
+}

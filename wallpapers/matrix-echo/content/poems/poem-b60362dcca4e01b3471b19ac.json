@@ -1,0 +1,14 @@
+{
+  "id": "poem-b60362dcca4e01b3471b19ac",
+  "title": "普贤歌",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(丑上)媒婆终日脚奔波，成就人间好事多。",
+    "这家也是我，那家也是我，也只为家贫没奈何。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3085",
+  "tags": []
+}

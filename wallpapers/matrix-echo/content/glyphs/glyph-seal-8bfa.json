@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bfa",
+  "script": "seal",
+  "character": "诺",
+  "reading": "nuò",
+  "description": "古时批字于公文之尾,表示许可叫诺”,犹今签字\n诺贝尔\n⒈答应，应允～言。\n⒉答应声，〈表〉同意～～连声。唯唯～～",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诺"
+}

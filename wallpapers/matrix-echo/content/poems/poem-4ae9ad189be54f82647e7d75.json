@@ -1,0 +1,20 @@
+{
+  "id": "poem-4ae9ad189be54f82647e7d75",
+  "title": "凤凰台上忆吹箫·才短宫慵",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "才短宫慵，命奇人弃，年年故里来远。",
+    "记往岁、莲塘送我，远赴荆蛮。",
+    "莫道风情似旧，青镜里、绿鬓新斑。",
+    "佳人怪，把盏为我，微敛眉山。",
+    "从来嗣宗高韵，独见赏，青云忧绝尘间。",
+    "谩回首、平生醉语，一梦惊残。",
+    "莫笑移花种柳，应备办、投老同闲。",
+    "纵枯槁，松桧奈得霜寒。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-129",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-644a",
+  "script": "seal",
+  "character": "摊",
+  "reading": "tān",
+  "description": "摊派\n把糊状食物倒在锅中使成为薄片\n摊 〈名〉\n摊子\n古代\n⒈展开，摆开～开。把意见～出来。\n⒉将糊状物放在热锅里铺成薄片煎熟～饼。～鸡蛋。\n⒊分派，分担～派。分～。\n⒋路旁或街旁摆的售货处书～。地～子。菜～儿。水果～。\n⒌凝集成一片一～水。一～稀泥。\n⒍遇到，碰上他～上了好事。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-摊"
+}

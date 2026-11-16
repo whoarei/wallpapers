@@ -1,0 +1,18 @@
+{
+  "id": "poem-1be3b42cf9803a3a55f07359",
+  "title": "诉衷情令·郁孤台上立多时",
+  "author": "康与之",
+  "dynasty": "宋",
+  "verses": [
+    "郁孤台上立多时。",
+    "烟晚暮云低。",
+    "山川城郭良是，回首昔人非。",
+    "今古事，只堪悲。",
+    "此心知。",
+    "一尊芳酒，慷慨悲歌，月堕人归。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-299",
+  "tags": []
+}

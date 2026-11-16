@@ -1,0 +1,14 @@
+{
+  "id": "poem-4d9cb8e70c4f385bd4e75fb7",
+  "title": "小引",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(净上)庙官来，庙官来，打点香炉蜡烛台。",
+    "但办志诚心，何劳神不灵？但办志诚意，何劳神不至？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8810",
+  "tags": []
+}

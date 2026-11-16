@@ -1,0 +1,14 @@
+{
+  "id": "poem-4e5a928b1ba5539a982c8298",
+  "title": "凉夜",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "断阶露草湿鸣蛩，桐树凉生落叶中。",
+    "月上小楼人未睡，曲栏敲遍倚西风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-781cfd83-8282-4e4a-a820-9646ddcd0d51"
+}

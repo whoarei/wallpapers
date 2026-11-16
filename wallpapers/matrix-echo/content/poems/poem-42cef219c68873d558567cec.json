@@ -1,0 +1,23 @@
+{
+  "id": "poem-42cef219c68873d558567cec",
+  "title": "送李少府贬峡中王少府贬长沙",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "嗟君此别意何如，驻马衔桮问谪居。",
+    "巫峡啼猿数行泪，衡阳归雁几封书。",
+    "青枫江上秋天远，白帝城边古木疎。",
+    "圣代即今多雨露，暂时分手莫踌躇。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "同情",
+    "送别",
+    "贬谪",
+    "边塞",
+    "七言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-2c24cec1-4105-4511-bf8b-bc6d5d8d48c7"
+}

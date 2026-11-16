@@ -1,0 +1,14 @@
+{
+  "id": "poem-39c64ab2a483078c4c88e663",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "今日里，今日里，议郎进表，传达上，传达上，圣目看了。",
+    "道太师昨日先奏，把乘龙女婿招，多少是好！见有玉音，临降听剖。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5031",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-88c72164c4c93bce897136f8",
+  "title": "六言颂六首赠安国觉老  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "大虚一点真气，都卢半掬水中。",
+    "堪笑钟离散汉，付与安国秃翁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-47a36c4e-1f29-4551-9b2c-6c87b93ce95a"
+}

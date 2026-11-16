@@ -1,0 +1,14 @@
+{
+  "id": "poem-d66076d69665d97667b71937",
+  "title": "上元日二首 二",
+  "author": "文宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "蓂生三五叶初齐，上元羽客出桃蹊。",
+    "不爱仙家登真诀，愿蒙四海福黔黎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-78b979f0-9d59-4905-ae9a-5ba2445d0cf8"
+}

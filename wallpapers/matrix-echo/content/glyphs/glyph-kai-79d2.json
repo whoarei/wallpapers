@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-79d2",
+  "script": "kai",
+  "character": "秒",
+  "reading": "miǎo",
+  "description": "miǎo：(1)谷物种子壳上的芒，引申为细微，微小～忽（喻细微）。\n(2)时间的计算单位，一分钟的六十分之一～表。～针。\n(3)弧和角的计算单位，一分的六十分之一。\n(4)经纬度的计算单位，一分的六十分之一。\n(5)古代长度单位，一寸的万分之一。\n(6)古代容量单位，十撮为一秒。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-秒"
+}

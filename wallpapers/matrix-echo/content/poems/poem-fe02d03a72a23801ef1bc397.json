@@ -1,0 +1,18 @@
+{
+  "id": "poem-fe02d03a72a23801ef1bc397",
+  "title": "秋日同觉公上人眺慈恩塔六韵",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "九级耸莲宫，晴登袖拂虹。",
+    "房廊窥井底，世界出笼中。",
+    "照牖三山火，吹铃八极风。",
+    "细闻槎客语，遥辨海鱼冲。",
+    "禁静声连北，江寒影在东。",
+    "谒师开秘锁，尘日闭虚空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-216c4a17-acf7-4d0e-ab84-84390a7a84fc"
+}

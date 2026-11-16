@@ -1,0 +1,16 @@
+{
+  "id": "poem-929cd120677237c24c299e79",
+  "title": "虞美人·卷荷香淡浮烟渚",
+  "author": "鹿虔扆",
+  "dynasty": "五代",
+  "verses": [
+    "卷荷香淡浮烟渚，绿嫩擎新雨。",
+    "绣窗疏透晓风情，象床珍簟冷光轻，水纹平。",
+    "九疑黛色屏斜掩，枕上眉心敛。",
+    "不堪相望病将成，钿昏檀粉泪纵横，不胜情。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-18"
+}

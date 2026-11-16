@@ -1,0 +1,16 @@
+{
+  "id": "poem-d06e5f5128907b3878c87ea2",
+  "title": "野岸白莲",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "越溪深处楚江湄，玉刻冰裁一两枝。",
+    "天借明蟾滋秀色，云垂清露润丰肌。",
+    "解知洁素风神远，始觉红鲜品格卑。",
+    "何日曲池亭槛上，细看朝暮弄轻飔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-731bac62-d015-4a29-8515-656a8d244ead"
+}

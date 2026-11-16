@@ -1,0 +1,20 @@
+{
+  "id": "poem-36219d0f38b255ca24961eb0",
+  "title": "送人游岭南",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "万里南游客，交州见柳条。",
+    "逢迎人易合，时日酒能消。",
+    "浪晓浮青雀，风温解黑貂。",
+    "囊金如未足，莫恨故乡遥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "写人",
+    "告诫",
+    "写人诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d668141d-a638-4b3d-af3a-fee7293fb90c"
+}

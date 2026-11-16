@@ -1,0 +1,14 @@
+{
+  "id": "poem-ceaf33cc451572e179e625ea",
+  "title": "书扇二首  其二",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "墙外数茎新竹，楼西一抹斜阳。",
+    "偶游蚁穴初觉，细听蝉声自凉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-0fa440e3-f81b-4e79-b5c0-2bd24c553383"
+}

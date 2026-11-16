@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-638a",
+  "script": "seal",
+  "character": "掊",
+  "reading": "póu；pǒu",
+  "description": "pǒu：(1)抨击～击。\n(2)破开，剖～斗（dǒu）折衡（毁弃斗和秤）。\npóu：(1)用手扒土。\n(2)聚敛～敛。～聚。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-掊"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-99a640e6c9f1f9a8c7133831",
+  "title": "江边道士",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "独住大江滨，不知何代人。",
+    "药罏生紫气，肌肉似红银。",
+    "酒酽竹屋[烂]，符收山鬼仁。",
+    "何妨将我去，一看武陵春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-d60762fd-8b7e-41fb-922c-c1e2bc5e70f9"
+}

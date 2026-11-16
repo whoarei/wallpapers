@@ -1,0 +1,15 @@
+{
+  "id": "poem-a2045b661481c66e30cff99c",
+  "title": "麻婆子",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "二月春光好，秧针细细抽。",
+    "有时移步出田头，蝌蚪要无数水中游。",
+    "婆婆傍前捞一碗，急忙去买油。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2567",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-94a0",
+  "script": "kai",
+  "character": "钠",
+  "reading": "nà",
+  "description": "一种银白色的软的、蜡状而有延展性的金属元素,原子序数11,其化学性质很活泼,用在钠蒸气灯中,尤其在内燃机用的致冷阀中作为一种传热剂",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钠"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-701065cb6bc139d99a491e10",
+  "title": "晚秋赠张折冲",
+  "author": "薛业",
+  "dynasty": "唐",
+  "verses": [
+    "都尉今无事，时清但闭关。",
+    "夜霜戎马瘦，秋草射堂闲。",
+    "位以穿杨得，名因折桂还。",
+    "冯唐真不遇，叹息鬓毛斑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-213e4cab-d7a1-4e33-a8c9-c20c50226dd8"
+}

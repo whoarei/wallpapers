@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-82a8",
+  "script": "seal",
+  "character": "芨",
+  "reading": "jī",
+  "description": "jī：〔白～〕多年生草本植物，根茎供药用。亦作白及”。\n〔～～草〕多年生草本植物，生于碱性草滩上。茎和叶是造纸和制人造丝的原料，亦可编织筐、篓、席等。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芨"
+}

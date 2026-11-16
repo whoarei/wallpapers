@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-956f",
+  "script": "seal",
+  "character": "镯",
+  "reading": "zhuó",
+  "description": "钟状的铃,古代军中乐器\n镯子\n镯子\n玉镯子\n⒈套在手腕、手臂或脚胫上的一种圆环形装饰品手～子。\n⒉〈古〉军中的一种乐器。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镯"
+}

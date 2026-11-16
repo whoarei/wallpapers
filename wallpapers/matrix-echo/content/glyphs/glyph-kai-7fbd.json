@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7fbd",
+  "script": "kai",
+  "character": "羽",
+  "reading": "yǔ",
+  "description": "yǔ：(1)鸟的毛～毛。～绒。～书。～衣。～扇。～族（指鸟类）。～旗。～檄（羽书）。\n(2)鱼类或昆虫的翅膀，道教传说中指会飞的仙人～翼。～翰（翅膀）。～士（a.会飞的仙人；b.道士）。\n(3)箭上的羽毛，借指箭～猎。\n(4)古代五音之一，相当于简谱6”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-羽"
+}

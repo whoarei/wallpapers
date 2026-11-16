@@ -1,0 +1,17 @@
+{
+  "id": "poem-b0c4951344a5658ad96408f5",
+  "title": "七夕卧病",
+  "author": "郑愿",
+  "dynasty": "唐",
+  "verses": [
+    "玉露三秋早，反河七夕初。",
+    "不应须卧疾，为曝腹中书。",
+    "（〖1〗郑愿，《新唐书·宰相世系表》载为郑氏南祖房清河令文睿子，无仕历。",
+    "《郎官石柱题名》其名两见，司勋员外郎在卢象后，李嘉祐前，金部郎中在裴眺、郑楚客间，以诸人时代推，应为天宝、大历间人。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-e9b368fb-2140-4a90-b126-0175ed4c43d6"
+}

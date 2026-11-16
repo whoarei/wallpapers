@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-504f",
+  "script": "kai",
+  "character": "偏",
+  "reading": "piān",
+  "description": "piān：(1)歪，不在中间～斜。～离。～旁。～僻。～远。～锋（a.书法上指用毛笔时笔锋斜出的笔势；b.泛指做文章从侧面着手的方法）。不～不倚。\n(2)不全面，不正确～爱。～见。～激。～狭。～执。～废。～颇。～听～信。\n(3)与愿望、预料或一般情况不相同～～。～巧。\n(4)谦辞，向人称自己已用过茶饭等我～过了，您请吃吧。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-偏"
+}

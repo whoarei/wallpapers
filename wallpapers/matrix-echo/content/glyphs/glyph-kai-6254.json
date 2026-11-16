@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6254",
+  "script": "kai",
+  "character": "扔",
+  "reading": "rēng",
+  "description": "rēng：(1)抛，投掷～球。\n(2)丢弃，舍弃～弃。～掉。\n(3)强牵引攘臂而～之。\n(4)摧。\n(5)古同仍”，仍然。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-扔"
+}

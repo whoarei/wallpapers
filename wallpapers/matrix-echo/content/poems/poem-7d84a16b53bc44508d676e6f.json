@@ -1,0 +1,16 @@
+{
+  "id": "poem-7d84a16b53bc44508d676e6f",
+  "title": "酬韩祭酒雨中见寄",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "雨中愁不出，阴黑尽连宵。",
+    "屋湿唯添漏，泥深未放朝。",
+    "无刍怜马瘦，少食信儿娇。",
+    "闻道韩夫子，还同此寂寥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0a1d7258-c61a-484e-a98c-49a7f09f3825"
+}

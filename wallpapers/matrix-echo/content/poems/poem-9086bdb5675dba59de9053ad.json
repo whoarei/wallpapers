@@ -1,0 +1,18 @@
+{
+  "id": "poem-9086bdb5675dba59de9053ad",
+  "title": "玉楼春·九重盛旦薰风候",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "九重盛旦薰风候。",
+    "佳气氛氲横永昼。",
+    "眉心烟彩拥群仙，华宴重开同圣后。",
+    "箫韶宫殿锵金奏。",
+    "香绕祥云腾宝兽。",
+    "三千嫔御奉严宸，亿万斯年祈圣寿。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-171",
+  "tags": []
+}

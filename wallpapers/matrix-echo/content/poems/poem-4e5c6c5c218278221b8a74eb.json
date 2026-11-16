@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e5c6c5c218278221b8a74eb",
+  "title": "洛阳桥",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "北望中原万里遥，南来喜见洛阳桥。",
+    "人行跨海金鼇背，亭压横空玉虹腰。",
+    "功不自成因砥柱，患宜预备有风潮。",
+    "蔡公力量真刚者，遗爱胜于郑国侨。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-b767e243-1099-417e-a611-15e8f459679a"
+}

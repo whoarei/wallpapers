@@ -1,0 +1,16 @@
+{
+  "id": "poem-73aec99d655c0ddceec098ee",
+  "title": "韦员外东斋看花",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "入花凡几步，此树独相留。",
+    "发艳红枝合，垂烟绿水幽。",
+    "倂开偏觉好，未落已成愁。",
+    "一到芳菲下，空招两鬓秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-2e235fe0-7c45-444b-b33d-a317f79b6ec5"
+}

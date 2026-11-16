@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9602",
+  "script": "seal",
+  "character": "阂",
+  "reading": "hé",
+  "description": "盖墙用的草帘子\n关闭\n阂hé阻碍，阻隔隔～。疑～。\n阂ài 1.从门外关门。 2.引申为遮闭。参见\"阂心\"。\n阂hài 1.藏;塞。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阂"
+}

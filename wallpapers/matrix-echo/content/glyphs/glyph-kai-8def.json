@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8def",
+  "script": "kai",
+  "character": "路",
+  "reading": "lù",
+  "description": "lù：(1)道，往来通行的地方道～。公～。水～。陆～。～途。～程。～人（行路的人，喻不相干的人）。狭～相逢。\n(2)思想或行动的方向、途径思～。生～。出～。～子。～数（shù）。\n(3)方面，地区外～货。各～人马。\n(4)种类一～货色。\n(5)大，正厥声载～”。～门（宫室最内的正门）。～车（古代帝王及诸侯贵族所乘的车）。～舆（古代君主所乘的车）。～寝（古代君主处理政事的宫室）。\n(6)车筚～。乘～。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-路"
+}

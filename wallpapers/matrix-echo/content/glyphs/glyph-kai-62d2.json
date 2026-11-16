@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62d2",
+  "script": "kai",
+  "character": "拒",
+  "reading": "jù；jv",
+  "description": "jù：(1)抵挡，抵抗～守。～敌。抗～。\n(2)不接受～绝。～谏（拒绝劝谏）。来者不～。\n(3)古同矩”，方阵。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拒"
+}

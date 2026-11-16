@@ -1,0 +1,14 @@
+{
+  "id": "poem-349b0072fca2dd20b50e25dc",
+  "title": "梁谿八咏 怡亭",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "缥缈危亭枕曲池，红粧翠羽自参差。",
+    "晚凉小饮谁同醉，定把圆荷当屈巵。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-702ca3f9-03b5-459c-9219-f975cc9750e8"
+}

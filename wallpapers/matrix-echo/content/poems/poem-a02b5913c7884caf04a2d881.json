@@ -1,0 +1,14 @@
+{
+  "id": "poem-a02b5913c7884caf04a2d881",
+  "title": "答刘明府",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "身病多时又客居，满城亲旧尽相疎。",
+    "可怜绛县刘明府，犹解频频寄远书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-3ab2c0eb-e8e5-4b84-bf00-60a49887ac0c"
+}

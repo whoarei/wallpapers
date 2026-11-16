@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53d7",
+  "script": "kai",
+  "character": "受",
+  "reading": "shòu",
+  "description": "shòu：(1)接纳别人给的东西接～。感～。～精。～权。～托。～降。～益。～业（ａ．跟随老师学习；ｂ．学生对老师自称）。～教。～领。～聘。～理。\n(2)忍耐某种遭遇忍～。～苦。～制。～窘。～累（受到劳累）。\n(3)遭到遭～。～害。～挫。～屈。～辱。～阻。\n(4)适合，中～吃。～看。～听。～使。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-受"
+}

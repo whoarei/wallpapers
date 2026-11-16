@@ -1,0 +1,18 @@
+{
+  "id": "poem-2c905fd0a13f0a0640a40d35",
+  "title": "宿青溪驿奉怀张员外十五兄之绪",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "漾舟千山内，日入泊枉渚。",
+    "我生本飘飘，今复在何许。",
+    "石根青枫林，猿鸟聚俦侣。",
+    "月明游子静，畏虎不得语。",
+    "中夜怀友朋，乾坤此深阻。",
+    "浩荡前后间，佳期付荆楚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-71817edb-5481-405b-90ae-0d67ed39c59c"
+}

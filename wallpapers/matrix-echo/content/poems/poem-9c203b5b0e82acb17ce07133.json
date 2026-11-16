@@ -1,0 +1,14 @@
+{
+  "id": "poem-9c203b5b0e82acb17ce07133",
+  "title": "送季言弟还锡山省先垅四首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "四年谪去远桑梓，万里归来纷甲兵。",
+    "却恨此身方抱病，扫坟不与汝同行。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-6ff0ce45-cf2b-426f-8cbf-b3f59d3806e5"
+}

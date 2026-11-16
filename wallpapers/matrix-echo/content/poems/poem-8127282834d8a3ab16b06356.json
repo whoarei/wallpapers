@@ -1,0 +1,17 @@
+{
+  "id": "poem-8127282834d8a3ab16b06356",
+  "title": "归田乐·春又去",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "春又去，似别佳人幽恨积。",
+    "闲庭院，翠阴满，添昼寂。",
+    "一枝梅最好，至今忆。",
+    "正梦断，炉烟袅，参差疏帘隔。",
+    "为何事、年年春恨，问花应会得。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-137",
+  "tags": []
+}

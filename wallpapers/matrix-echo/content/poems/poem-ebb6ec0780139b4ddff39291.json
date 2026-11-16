@@ -1,0 +1,24 @@
+{
+  "id": "poem-ebb6ec0780139b4ddff39291",
+  "title": "春日杂兴十五首  其一一",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "迢递长江表，崎岖青障间。",
+    "瑞草杂野卉，吐秀莫穷看。",
+    "馥鬰谁与奇，细碎如等闲。",
+    "荆榛共荣悴，樵牧几摧残。",
+    "殊乡采嘉声，千里辏名园。",
+    "轻舟走雕槛，文砌荐朱栏。",
+    "芳华未盈枝，倾都已酡颜。",
+    "疏丛乏葱蒨，薄采媿朱殷。",
+    "珍赏占芳时，野客更旧观。",
+    "试问蜂和蝶，何如蕙与兰。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-e8228eea-0d99-4e95-be1d-0102254c3a7b"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-6c1618e97a7ae59d19ed0ec4",
+  "title": "升平词十首 五",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "一物至周天，洪纤尽晏然。",
+    "车书无异俗，甲子并丰年。",
+    "奇技皆归朴，征夫亦服田。",
+    "君王故不有，台鼎合韦弦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3234c655-7b1b-4be7-bdc3-7f6c93106dae"
+}

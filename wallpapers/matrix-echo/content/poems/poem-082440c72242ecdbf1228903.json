@@ -1,0 +1,17 @@
+{
+  "id": "poem-082440c72242ecdbf1228903",
+  "title": "浣溪沙·松菊秋来好在无",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "松菊秋来好在无。",
+    "寄声猿鹤莫情疏。",
+    "渊明不老久踟蹰。",
+    "打鼓枫林谁作社，枕溪茅屋忆吾庐。",
+    "去年醉倒倩人扶。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-737",
+  "tags": []
+}

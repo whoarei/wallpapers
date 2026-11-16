@@ -1,0 +1,14 @@
+{
+  "id": "poem-37abb93f992e56b11962cc16",
+  "title": "闻猨",
+  "author": "苏拯",
+  "dynasty": "唐",
+  "verses": [
+    "秋风飒飒猨声起，客恨猨哀一相似。",
+    "漫向孤危惊客心，何曾解入笙歌耳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-82364db2-abc9-4de7-8d21-13c8475f4f63"
+}

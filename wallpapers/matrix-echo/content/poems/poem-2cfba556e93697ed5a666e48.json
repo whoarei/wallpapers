@@ -1,0 +1,14 @@
+{
+  "id": "poem-2cfba556e93697ed5a666e48",
+  "title": "题南龛寺  其一",
+  "author": "家彬",
+  "dynasty": "宋",
+  "verses": [
+    "岩下楩楠秋复春，当年觞咏悉名臣。",
+    "旧游已去成陈迹，佳句还如见古人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-318d0d47-cdb5-4493-b278-f289dd216151"
+}

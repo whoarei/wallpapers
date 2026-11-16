@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-54cd",
+  "script": "kai",
+  "character": "响",
+  "reading": "xiǎng",
+  "description": "声音\n⒈声音～声。音～。\n⒉发出声音铃～了。炮～了。\n⒊回声空谷传～。\n⒋声音大，洪亮～彻云霄。～亮的歌声。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-响"
+}

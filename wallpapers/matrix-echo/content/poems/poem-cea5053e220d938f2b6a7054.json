@@ -1,0 +1,14 @@
+{
+  "id": "poem-cea5053e220d938f2b6a7054",
+  "title": "吴楚歌词",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "庭前春鸟啄林声，红夹罗襦缝未成。",
+    "今朝社日停针线，起向朱樱树下行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-4ddfd5e0-60cd-4227-b9fe-fc44ebf1bbde"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-d35e20c5266b19e69fe2cdc9",
+  "title": "句 一",
+  "author": "延寿",
+  "dynasty": "唐",
+  "verses": [
+    "言前体道乾坤窄，笔下搜吟海岳枯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-ef14cfc5-2b28-474d-9282-a6f9e3e09981"
+}

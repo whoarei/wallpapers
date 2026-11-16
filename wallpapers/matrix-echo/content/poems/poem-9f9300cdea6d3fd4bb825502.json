@@ -1,0 +1,16 @@
+{
+  "id": "poem-9f9300cdea6d3fd4bb825502",
+  "title": "新楼诗二十首",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "石桥峰上栖玄鹤，碧阙岩边荫羽人。",
+    "冰叶万条垂碧实，玉珠千日保青春。",
+    "月中泣露应同浥，涧底侵云尚有尘。",
+    "徒使茯苓成琥珀，不为松老化龙鳞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-17ca506f-2af7-4238-a1cf-cf53c4615633"
+}

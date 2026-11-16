@@ -71,7 +71,9 @@ async function context(browser, root = source, options = {}, relayed = false) {
   c.on('page', p => p.on('pageerror', error => errors.push(error.message)));
   return { c, errors, external };
 }
-const state = page => page.evaluate(() => matrixEcho.getState());
+const state = (page, full = false) => page.evaluate(full => matrixEcho.getState({ includeLibrary: full }), full);
+const contentCount = (page, kind) => page.evaluate(kind => matrixEcho.getState().culture[kind].length, kind);
+const contentEntry = (page, kind, id) => page.evaluate(({ kind, id }) => matrixEcho.getState().culture[kind].find(e => e.id === id), { kind, id });
 const advance = (page, ms) => page.evaluate(ms => __advance(ms), ms);
 async function setViewport(page, viewport) {
   await page.setViewportSize(viewport);
@@ -190,7 +192,7 @@ const jsonFile = (value, name = 'poems.json') => ({ name, mimeType: 'application
 let deer, deerId;
 async function checkGlyphLibrary(page) {
   await page.locator('#tab-glyphs').click();
-  const initial = (await state(page)).culture.glyphs.length;
+  const initial = (await contentCount(page, 'glyphs'));
   assert.ok(initial >= 60);
   const fixture = await page.evaluate(() => {
     const glyphs = matrixEcho.getState().culture.glyphs, coverage = MATRIX_GLYPH_COVERAGE.seal;
@@ -199,38 +201,43 @@ async function checkGlyphLibrary(page) {
     for (const [a, b] of coverage) for (let cp = a; cp <= b && free.length < 2; cp++) {
       const ch = String.fromCodePoint(cp); if (!used.has(ch) && !free.includes(ch)) free.push(ch);
     }
-    return { free, full: glyphs.length >= MatrixGlyphs.limits.entries, existing: glyphs.find(e => e.script === 'seal' && e.enabled) || glyphs.find(e => e.script === 'seal') };
+    return { free, full: glyphs.length >= MatrixGlyphs.limits.entries || free.length < 2, existing: glyphs.find(e => e.script === 'seal' && e.enabled) || glyphs.find(e => e.script === 'seal') };
   });
   deer = fixture.full ? { ...fixture.existing } : { script: 'seal', character: fixture.free[0], reading: fixture.free[0] === '鹿' ? 'lù' : '' };
   deer.description = '这是个人扩充的悬浮文字。\n这是个人添加的注释。';
   deerId = deer.id || G.identity(deer.script, deer.character);
   const expectedCount = initial + (fixture.full ? 0 : 1);
-  if (fixture.full) await page.locator(`[data-glyph-id="${deerId}"]`).getByText('编辑', { exact: true }).click();
+  if (fixture.full) {
+    await page.locator('#glyph-search').fill(deerId);
+    await page.locator(`[data-glyph-id="${deerId}"]`).getByText('编辑', { exact: true }).click();
+  }
   else await page.locator('#add-glyph').click();
   await page.locator('#glyph-script').selectOption(deer.script);
   await page.locator('#glyph-character').fill(deer.character);
   await page.locator('#glyph-reading').fill(deer.reading);
   await page.locator('#glyph-description').fill(deer.description);
   await page.locator('#glyph-editor button[type=submit]').click();
-  assert.equal((await state(page)).culture.glyphs.length, expectedCount);
+  assert.equal((await contentCount(page, 'glyphs')), expectedCount);
   const row = page.locator(`[data-glyph-id="${deerId}"]`);
   await row.getByText('已启用', { exact: true }).click();
   await row.getByText('编辑', { exact: true }).click();
   await page.locator('#glyph-description').fill('编辑后的鹿。');
   await page.locator('#glyph-editor button[type=submit]').click();
-  assert.equal((await state(page)).culture.glyphs.find(e => e.id === deerId).enabled, false, 'editing preserves the entry enable state');
-  const forest = { script: 'seal', character: fixture.free[1], description: '这条记录应随无效文件一起回滚。' };
+  assert.equal((await contentEntry(page, 'glyphs', deerId)).enabled, false, 'editing preserves the entry enable state');
+  const forest = fixture.full ? { ...fixture.existing, description: '这条记录应随无效文件一起回滚。' } : { script: 'seal', character: fixture.free[1], description: '这条记录应随无效文件一起回滚。' };
+  const forestBefore = (await page.evaluate(forest => matrixEcho.getState().culture.glyphs.find(e => e.script === forest.script && e.character === forest.character)?.description, forest));
   await page.locator('#glyph-file').setInputFiles([jsonFile(forest, 'valid-glyph.json'), jsonFile({ ...deer, character: '𠀀' }, 'missing-font.json')]);
   await page.waitForFunction(() => document.getElementById('culture-status').textContent.includes('悬浮文字库未更改'), null, { polling: 100 });
-  assert.equal((await state(page)).culture.glyphs.length, expectedCount, 'invalid font coverage rolls back the whole batch');
-  assert.equal((await state(page)).culture.glyphs.some(e => e.script === forest.script && e.character === forest.character), false);
+  assert.equal((await contentCount(page, 'glyphs')), expectedCount, 'invalid font coverage rolls back the whole batch');
+  assert.equal((await page.evaluate(forest => matrixEcho.getState().culture.glyphs.find(e => e.script === forest.script && e.character === forest.character)?.description, forest)), forestBefore);
   await page.locator('#glyph-file').setInputFiles(jsonFile({ ...deer, id: deerId }));
   await page.waitForFunction(id => matrixEcho.getState().culture.glyphs.find(e => e.id === id)?.enabled, deerId, { polling: 100 });
-  assert.equal((await state(page)).culture.glyphs.length, expectedCount, 'same ID updates rather than duplicates');
+  assert.equal((await contentCount(page, 'glyphs')), expectedCount, 'same ID updates rather than duplicates');
+  await page.locator('#glyph-search').fill('glyph-kai-5c71');
   await page.locator('[data-glyph-id="glyph-kai-5c71"]').getByText('删除', { exact: true }).click();
   await page.locator('#restore-glyphs').click(); await page.locator('#confirm-glyph-restore').click();
-  assert.ok((await state(page)).culture.glyphs.some(e => e.id === deerId), 'restore preserves personal glyphs');
-  assert.ok((await state(page)).culture.glyphs.some(e => e.id === 'glyph-kai-5c71'));
+  assert.ok(Boolean(await contentEntry(page, 'glyphs', deerId)), 'restore preserves personal glyphs');
+  assert.ok(Boolean(await contentEntry(page, 'glyphs', 'glyph-kai-5c71')));
   if (fixture.full) {
     await page.locator('#glyph-file').setInputFiles(jsonFile({ ...deer, id: deerId, enabled: true }));
     await page.waitForFunction(({ id, description }) => matrixEcho.getState().culture.glyphs.find(e => e.id === id)?.description === description,
@@ -248,7 +255,10 @@ async function checkGlyphLibrary(page) {
 }
 async function download(page, selector, name) {
   const pending = page.waitForEvent('download'); await page.locator(selector).click();
-  const item = await pending, dest = path.join(output, name); await item.saveAs(dest); return fs.readFileSync(dest);
+  let item;
+  try { item = await pending; }
+  catch (error) { throw Error(error.message + '\n' + await page.locator('#culture-status').textContent()); }
+  const dest = path.join(output, name); await item.saveAs(dest); return fs.readFileSync(dest);
 }
 (async () => {
   const browser = await chromium.launch({ executablePath: process.env.BROWSER_PATH || '/usr/bin/chromium', headless: true });
@@ -259,7 +269,7 @@ async function download(page, selector, name) {
     assert.ok(s.culture.current);
     assert.equal(await page.locator('#echo-verse').textContent(), s.culture.current.verse);
     assert.equal(await page.locator('#poetry-echo').count(), 0, 'verses have no independent floating overlay');
-    assert.ok(s.culture.poems.find(p => p.id === s.culture.current.id).verses.includes(s.culture.current.verse));
+    assert.ok((await contentEntry(page, 'poems', s.culture.current.id)).verses.includes(s.culture.current.verse));
     await checkRainVerse(page, s.culture.current.verse, true);
     const beforeFlow = await state(page); await advance(page, 1000); const afterFlow = await state(page);
     const distance = afterFlow.rainPoem.columns[0].top - beforeFlow.rainPoem.columns[0].top;
@@ -292,23 +302,23 @@ async function download(page, selector, name) {
     await page.locator('#poem-verses').fill(personal.verses.join('\n'));
     await page.locator('#poem-editor button[type=submit]').click();
     const id = P.normalize(personal).id;
-    assert.ok((await state(page)).culture.poems.some(p => p.id === id));
-    const count = (await state(page)).culture.poems.length;
+    assert.ok(Boolean(await contentEntry(page, 'poems', id)));
+    const count = (await contentCount(page, 'poems'));
     await page.locator('#poem-file').setInputFiles([jsonFile({ ...personal, title: '应该回滚' }, 'valid.json'), jsonFile({ title: 123 }, 'bad.json')]);
     await page.waitForFunction(() => document.getElementById('culture-status').textContent.includes('导入失败'), null, { polling: 100 });
-    assert.equal((await state(page)).culture.poems.length, count, 'failed batch is atomic');
+    assert.equal((await contentCount(page, 'poems')), count, 'failed batch is atomic');
     const changed = { ...personal, id, verses: ['明月松间照，清泉石上流。'], enabled: false };
     await page.locator('#poem-file').setInputFiles(jsonFile(changed));
     await page.waitForFunction(id => matrixEcho.getState().culture.poems.some(p => p.id === id && !p.enabled), id, { polling: 100 });
-    assert.equal((await state(page)).culture.poems.length, count, 'same ID updates rather than duplicates');
+    assert.equal((await contentCount(page, 'poems')), count, 'same ID updates rather than duplicates');
     await page.locator(`[data-poem-id="${id}"]`).getByText('编辑', { exact: true }).click();
     await page.locator('#poem-title').fill('编辑后');
     await page.locator('#poem-editor button[type=submit]').click();
-    assert.equal((await state(page)).culture.poems.find(p => p.id === id).enabled, false);
+    assert.equal((await contentEntry(page, 'poems', id)).enabled, false);
     await checkGlyphLibrary(page);
     await page.reload(); await page.waitForFunction(() => window.matrixEcho, null, { polling: 100 });
-    assert.equal((await state(page)).culture.poems.find(p => p.id === id).title, '编辑后');
-    assert.equal((await state(page)).culture.glyphs.find(e => e.id === deerId).description, deer.description, 'glyphs and notes persist after reload');
+    assert.equal((await contentEntry(page, 'poems', id)).title, '编辑后');
+    assert.equal((await contentEntry(page, 'glyphs', deerId)).description, deer.description, 'glyphs and notes persist after reload');
     await page.locator('#culture').click();
     const exported = JSON.parse((await download(page, '#export-poems', 'poems.json')).toString());
     assert.equal(P.collection(exported).length, count);
@@ -316,15 +326,20 @@ async function download(page, selector, name) {
     assert.ok(repo.has('content/poems/shan-ju-qiu-ming.json'), 'existing source filename is preserved');
     assert.ok(repo.has(`content/poems/${id}.json`));
     const configured = unzip(await download(page, '#export-wallpaper', 'configured.zip'));
+    for (const entry of ['index.html', 'settings.html']) {
+      for (const match of configured.get(entry).toString().matchAll(/(?:src|href)="([^"#]+)"/g)) {
+        if (!match[1].startsWith('/')) assert.ok(configured.has(match[1]), `configured ${entry} retains ${match[1]}`);
+      }
+    }
     for (const asset of ['fonts/Seal.woff', 'fonts/WenKai.woff', 'fonts/Yi.woff', 'fonts/Tibetan.woff', 'poems.generated.js', 'settings.js', 'glyphs.js', 'glyphs.generated.js', 'glyph-library.js', 'culture-config.js', 'settings.html', 'settings-page.js', 'settings-page.css']) assert.ok(configured.has(asset), asset);
     const exportedRoot = path.join(output, 'configured');
     for (const [name, data] of configured) { const target = path.join(exportedRoot, name); fs.mkdirSync(path.dirname(target), { recursive: true }); fs.writeFileSync(target, data); }
     const roundtrip = await context(browser, exportedRoot), exportedPage = await open(roundtrip.c);
-    assert.equal((await state(exportedPage)).culture.poems.find(p => p.id === id).title, '编辑后');
+    assert.equal((await contentEntry(exportedPage, 'poems', id)).title, '编辑后');
     assert.equal((await state(exportedPage)).culture.settings.scale, 2.5);
-    assert.equal((await state(exportedPage)).culture.glyphs.find(e => e.id === deerId).description, deer.description);
+    assert.equal((await contentEntry(exportedPage, 'glyphs', deerId)).description, deer.description);
     await exportedPage.locator('#culture').click(); await exportedPage.locator('#tab-glyphs').click();
-    const onlyDeer = (await state(exportedPage)).culture.glyphs.map(e => ({ ...e, enabled: e.id === deerId }));
+    const onlyDeer = (await state(exportedPage, true)).culture.glyphs.map(e => ({ ...e, enabled: e.id === deerId }));
     await exportedPage.locator('#glyph-file').setInputFiles(jsonFile(onlyDeer));
     await exportedPage.waitForFunction(id => matrixEcho.getState().culture.glyphs.filter(e => e.enabled).every(e => e.id === id), deerId, { polling: 100 });
     await exportedPage.locator('#close-culture').click(); await advance(exportedPage, 2000);
@@ -340,14 +355,14 @@ async function download(page, selector, name) {
       return route.fulfill({ body: fs.readFileSync(file), contentType: ({ '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css', '.woff': 'font/woff' })[path.extname(file)] || 'application/octet-stream' });
     });
     await exportedPage.reload(); await exportedPage.waitForFunction(() => window.matrixEcho, null, { polling: 100 });
-    assert.equal((await state(exportedPage)).culture.poems.find(p => p.id === id).title, '编辑后', 'official update retains personal poems');
+    assert.equal((await contentEntry(exportedPage, 'poems', id)).title, '编辑后', 'official update retains personal poems');
     assert.equal((await state(exportedPage)).culture.settings.scale, 2.5);
-    assert.equal((await state(exportedPage)).culture.glyphs.find(e => e.id === deerId).description, deer.description, 'official updates retain personal glyphs');
+    assert.equal((await contentEntry(exportedPage, 'glyphs', deerId)).description, deer.description, 'official updates retain personal glyphs');
     assert.deepEqual(roundtrip.errors, []); assert.deepEqual(roundtrip.external, []); await roundtrip.c.close();
     await page.locator('#restore-poems').click(); await page.locator('#confirm-restore').click();
-    assert.ok((await state(page)).culture.poems.some(p => p.id === id), 'restore retains personal poems');
+    assert.ok(Boolean(await contentEntry(page, 'poems', id)), 'restore retains personal poems');
     const long = '明月松间照，清泉石上流。'.repeat(10);
-    const all = (await state(page)).culture.poems.map(p => ({ ...p, enabled: false }));
+    const all = (await state(page, true)).culture.poems.map(p => ({ ...p, enabled: false }));
     await page.locator('#poem-file').setInputFiles(jsonFile([...all, { title: '长句测试', author: '测试', verses: [long] }]));
     await page.waitForFunction(() => matrixEcho.getState().culture.poems.some(p => p.title === '长句测试'), null, { polling: 100 });
     await page.locator('#next-verse').click(); await page.locator('#close-culture').click();
@@ -390,12 +405,12 @@ async function download(page, selector, name) {
     await relayTap(desktopPage, desktopPage.locator('#culture')); await relayTap(desktopPage, desktopPage.locator('#tab-glyphs'));
     assert.equal(await desktopPage.locator('#add-glyph').isVisible(), false);
     assert.equal(await desktopPage.locator('#import-glyphs').isVisible(), false);
-    const firstId = (await state(desktopPage)).culture.glyphs.find(e => e.enabled).id;
+    const firstId = (await desktopPage.evaluate(() => matrixEcho.getState().culture.glyphs.find(e => e.enabled).id));
     const firstRow = desktopPage.locator(`[data-glyph-id="${firstId}"]`);
     await relayTap(desktopPage, firstRow.getByText('已启用', { exact: true }));
-    assert.equal((await state(desktopPage)).culture.glyphs.find(e => e.id === firstId).enabled, false);
+    assert.equal((await contentEntry(desktopPage, 'glyphs', firstId)).enabled, false);
     await relayTap(desktopPage, desktopPage.locator('#restore-glyphs')); await relayTap(desktopPage, desktopPage.locator('#confirm-glyph-restore'));
-    assert.equal((await state(desktopPage)).culture.glyphs.find(e => e.id === firstId).enabled, true);
+    assert.equal((await contentEntry(desktopPage, 'glyphs', firstId)).enabled, true);
     assert.deepEqual(desktop.errors, []); assert.deepEqual(desktop.external, []); await desktop.c.close();
     console.log('Matrix Echo offline QA passed: streaming verses, extensible glyph library, font coverage, notes, atomic imports, persistence, exports, desktop relay, portrait and reduced motion.');
   } finally { await browser.close(); }

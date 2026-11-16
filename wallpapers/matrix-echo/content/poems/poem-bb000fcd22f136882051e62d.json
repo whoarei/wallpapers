@@ -1,0 +1,24 @@
+{
+  "id": "poem-bb000fcd22f136882051e62d",
+  "title": "孤鴈 二",
+  "author": "崔涂",
+  "dynasty": "唐",
+  "verses": [
+    "几行归去尽，片影独何之。",
+    "暮雨相呼失，寒塘独下迟。",
+    "渚云低暗度，关月冷遥随。",
+    "未必逢矰缴，孤飞自可疑。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "孤独",
+    "羁旅",
+    "五言律诗",
+    "写鸟",
+    "组诗",
+    "鸟"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c836e52f-2346-4a3e-84bb-97514b17faf6"
+}

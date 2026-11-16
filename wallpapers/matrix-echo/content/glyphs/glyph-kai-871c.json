@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-871c",
+  "script": "kai",
+  "character": "蜜",
+  "reading": "mì",
+  "description": "mì：(1)蜜蜂采取花的甜汁酿成的东西蜂～。～饯。～供（把油炸的短面条拌上蜜或糖制成的糕点）。～源（指能大量供蜜蜂采蜜的植物）。～丸。\n(2)甜美甜言～语。口～腹剑。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蜜"
+}

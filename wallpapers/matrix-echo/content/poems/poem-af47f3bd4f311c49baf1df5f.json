@@ -1,0 +1,16 @@
+{
+  "id": "poem-af47f3bd4f311c49baf1df5f",
+  "title": "忆水芙蓉木芙蓉寄西湖诸友  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "花满秋城闯水明，镜中滴露掌中零。",
+    "曾雠新咏游花下，写寄城中石与丁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-5e693bc0-8d31-46fc-b4f3-4d13de09d5be"
+}

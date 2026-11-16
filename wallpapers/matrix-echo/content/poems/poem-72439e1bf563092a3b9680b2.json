@@ -1,0 +1,16 @@
+{
+  "id": "poem-72439e1bf563092a3b9680b2",
+  "title": "鼓吹曲辞 上之回",
+  "author": "卢照邻",
+  "dynasty": "唐",
+  "verses": [
+    "回中道路险，萧关烽候多。",
+    "五营屯北地，万乘出西河。",
+    "单于拜玉玺，天子按雕戈。",
+    "振旅汾川曲，秋风横大歌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fb6b3bf9-3154-4539-99f6-12b288444219"
+}

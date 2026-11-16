@@ -1,0 +1,16 @@
+{
+  "id": "poem-dd454442bf933e6995fb0764",
+  "title": "江村",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "贫游无定踪，乡信转难逢。",
+    "寒渚暮烟阔，去帆归思重。",
+    "潮平低戍火，木落远山钟。",
+    "况是渔家宿，疎篱响夜舂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-47d2fb63-14b0-4633-995b-158213cd4380"
+}

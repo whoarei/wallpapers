@@ -1,0 +1,14 @@
+{
+  "id": "poem-bea9de976eab385ee77ee470",
+  "title": "八月灯夕寄游越施秀才",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "四天净色寒如水，八月清辉冷似霜。",
+    "想得越人今夜见，孟家珠在镜中央。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-3ceefec8-ea4d-4e8d-9059-9a35acdfa91c"
+}

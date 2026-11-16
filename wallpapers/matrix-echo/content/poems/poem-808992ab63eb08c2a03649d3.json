@@ -1,0 +1,16 @@
+{
+  "id": "poem-808992ab63eb08c2a03649d3",
+  "title": "秋怀赤松道士",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "仙观在云端，相思星斗寒。",
+    "常怜呼鹤易，却恨见君难。",
+    "石罅青虵湿，风榸白菌干。",
+    "终期花月下，坛上听君弹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-2e4e8c4e-9f12-407c-8ad7-055d61527087"
+}

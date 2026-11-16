@@ -1,0 +1,14 @@
+{
+  "id": "poem-2d34e2e4e482fb889aab764b",
+  "title": "新节",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "转悲新岁重于山，不似轻鸥肯复还。",
+    "朱绂纵教金印换，青云未胜白头闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-237c217b-edba-4bce-964c-d48c994b2188"
+}

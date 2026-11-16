@@ -1,0 +1,16 @@
+{
+  "id": "poem-cabcc9631228a1128c0fdaf8",
+  "title": "送白宾客分司东都",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "赫赫声名三十春，高情人独出埃尘。",
+    "病辞省闼归闲地，恩许宫曹作上宾。",
+    "诗里难同相得伴，酒边多见自由身。",
+    "老人也拟休官去，便是君家池上人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-12d6d253-6aa8-43ea-98ae-6fbd0bafbbf7"
+}

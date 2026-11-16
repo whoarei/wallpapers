@@ -1,0 +1,16 @@
+{
+  "id": "poem-ee4333df44dfb327431dae03",
+  "title": "侍宴赋得归雁",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "夜静群动息，翩翩一雁归。",
+    "清音天际远，寒影月中微。",
+    "何处云同宿，长空雪共飞。",
+    "阳和常借便，免与素心违。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-c0494ab5-f7e3-44ca-8560-9447eaf891eb"
+}

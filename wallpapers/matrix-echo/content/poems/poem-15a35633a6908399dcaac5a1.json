@@ -1,0 +1,14 @@
+{
+  "id": "poem-15a35633a6908399dcaac5a1",
+  "title": "咏史诗 长平",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "长平瓦震武安初，赵卒俄成戏鼎鱼。",
+    "四十万人俱下世，元戎何用读兵书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c6176dd3-1bdd-4031-99a1-0771c1baf7b4"
+}

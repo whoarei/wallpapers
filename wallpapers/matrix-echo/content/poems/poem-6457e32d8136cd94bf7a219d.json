@@ -1,0 +1,18 @@
+{
+  "id": "poem-6457e32d8136cd94bf7a219d",
+  "title": "省题诗二十一首 边城晓角",
+  "author": "王棨",
+  "dynasty": "唐",
+  "verses": [
+    "十年抛故国，五夜在边城。",
+    "月照沙千里，风吹角一声。",
+    "清音飘远戍，残韵落荒营。",
+    "背雪征鸿报，眠霜[老鹤惊]。",
+    "李陵应下泪，蔡琰岂胜情。",
+    "直是吴儿听，[乡关梦不成]。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-75806ff4-71e6-4ebb-bb38-e91d2544a809"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-39453d2daba3fa4cdc2284be",
+  "title": "秋末入匡山船行八首 七",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "南北虽无适，东西亦似萍。",
+    "霞根生石片，象迹坏沙汀。",
+    "莽莽蒹葭赤，微微蜃蛤腥。",
+    "因思范蠡辈，未免亦飘零。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f7bce7a2-640c-4e38-b17c-45b4319ff6e3"
+}

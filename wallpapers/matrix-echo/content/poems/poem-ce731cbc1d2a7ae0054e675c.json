@@ -1,0 +1,14 @@
+{
+  "id": "poem-ce731cbc1d2a7ae0054e675c",
+  "title": "偈颂十二首  其一二",
+  "author": "释安永",
+  "dynasty": "宋",
+  "verses": [
+    "少处减些多处添，白云官路贩私盐。",
+    "一条性命俱抛下，不怕当初王令严。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-d6d6067a-6517-4578-9657-cb87ef99d2a9"
+}

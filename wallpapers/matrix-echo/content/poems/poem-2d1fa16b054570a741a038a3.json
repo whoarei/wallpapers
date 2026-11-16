@@ -1,0 +1,14 @@
+{
+  "id": "poem-2d1fa16b054570a741a038a3",
+  "title": "竹枝歌  其二",
+  "author": "孙嵩",
+  "dynasty": "宋",
+  "verses": [
+    "行尽三巴三曲头，一滩自有一生愁。",
+    "明朝已过巴陵岸，更宿江陵渔笛洲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-0062cb54-de30-4bdc-a90f-65739494473e"
+}

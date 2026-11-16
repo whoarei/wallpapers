@@ -1,0 +1,18 @@
+{
+  "id": "poem-ce3b6537100b4664d86a4dbf",
+  "title": "将赴吴兴登乐游原一绝",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "清时有味是无能，闲爱孤云静爱僧。",
+    "欲把一麾江海去，乐游原上望昭陵。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "爱国"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-24ca9268-9cbd-423b-b423-12e1a9aa9041"
+}

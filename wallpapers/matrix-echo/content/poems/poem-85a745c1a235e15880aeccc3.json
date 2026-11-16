@@ -1,0 +1,15 @@
+{
+  "id": "poem-85a745c1a235e15880aeccc3",
+  "title": "望江南·多少恨",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "多少恨，昨夜梦魂中。",
+    "还似旧时游上苑，车如流水马如龙。",
+    "花月正春风。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-10"
+}

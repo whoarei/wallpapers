@@ -1,0 +1,17 @@
+{
+  "id": "poem-1013bc5d48c55d891439d905",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "它还是把奴辜，实是记不得苦。",
+    "到京里果不管，下死工夫。",
+    "(净)下梢头有团圆日。",
+    "(旦)既为官，怕迤逦向人疏。",
+    "(末)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2648",
+  "tags": []
+}

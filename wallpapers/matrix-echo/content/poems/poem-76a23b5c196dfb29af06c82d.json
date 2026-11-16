@@ -1,0 +1,14 @@
+{
+  "id": "poem-76a23b5c196dfb29af06c82d",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(众)将军号令如金石，星夜便前去。",
+    "时刻莫迟延，违令怎饶你？(合)愿听钧旨便驱驰，携取宝刀回，成功最为易。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8955",
+  "tags": []
+}

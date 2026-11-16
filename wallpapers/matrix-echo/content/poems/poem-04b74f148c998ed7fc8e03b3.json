@@ -1,0 +1,14 @@
+{
+  "id": "poem-04b74f148c998ed7fc8e03b3",
+  "title": "梦江南·楼上寝",
+  "author": "皇甫松",
+  "dynasty": "唐",
+  "verses": [
+    "楼上寝，残月下帘旌。",
+    "梦见秣陵惆怅事，桃花柳絮满江城，双髻坐吹笙。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-25",
+  "tags": []
+}

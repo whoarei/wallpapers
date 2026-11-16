@@ -1,0 +1,16 @@
+{
+  "id": "poem-67d3836058ebdc01697ace15",
+  "title": "叨叨令",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "有时俯视溪流看，更险似单骑羸马连云栈。",
+    "一声鹤唳青松涧，更惨似琵琶声里君恩断。",
+    "兀的不闷杀人也么哥，兀的不闷杀人也么哥。",
+    "几时能勾一杯末尽笙歌散。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4517",
+  "tags": []
+}

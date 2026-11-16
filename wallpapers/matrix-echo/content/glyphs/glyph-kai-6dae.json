@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6dae",
+  "script": "kai",
+  "character": "涮",
+  "reading": "shuàn",
+  "description": "shuàn：(1)摇动着冲刷，略微洗洗～瓶子。\n(2)把肉片等放在滚水里烫一下就取出来蘸作料吃～羊肉。～锅子。\n(3)耍弄，骗别～我啦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-涮"
+}

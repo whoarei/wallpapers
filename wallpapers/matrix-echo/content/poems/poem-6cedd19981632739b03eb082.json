@@ -1,0 +1,16 @@
+{
+  "id": "poem-6cedd19981632739b03eb082",
+  "title": "送舍弟",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "诸谢偏推永嘉守，三何独许水曹郎。",
+    "老兄鄙思难俦匹，令弟清词堪比量。",
+    "叠嶂入云藏古寺，高秋背月转南湘。",
+    "定知马上多新句，早寄袁溪当八行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-df2faabf-b5ef-4c87-8091-da1a91285122"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-61d3357d7f1ac1fc066992df",
+  "title": "南歌子·扑蕊添黄子",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "扑蕊添黄子，呵花满翠鬟。",
+    "鸳枕映屏山，明月三五夜，对芳颜。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-41",
+  "tags": []
+}

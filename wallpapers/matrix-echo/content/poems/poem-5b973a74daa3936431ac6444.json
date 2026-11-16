@@ -1,0 +1,20 @@
+{
+  "id": "poem-5b973a74daa3936431ac6444",
+  "title": "小重山·醉倚朱阑一解衣",
+  "author": "米友仁",
+  "dynasty": "宋",
+  "verses": [
+    "醉倚朱阑一解衣。",
+    "碧云迷望眼，断虹低。",
+    "近来休说带宽围。",
+    "人千里，还是燕双飞。",
+    "深院日初迟。",
+    "绮窗帘幕静，恨生眉。",
+    "不堪虚度是花时。",
+    "鸿来速，争解寄相思。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-48",
+  "tags": []
+}

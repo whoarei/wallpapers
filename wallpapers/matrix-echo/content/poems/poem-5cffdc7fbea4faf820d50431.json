@@ -1,0 +1,16 @@
+{
+  "id": "poem-5cffdc7fbea4faf820d50431",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "长安古道，盘费知多少。",
+    "婆婆早与，它便起程又早。",
+    "(旦)今朝倚靠，非外来相扰。",
+    "(合同前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2573",
+  "tags": []
+}

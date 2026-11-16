@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-91a2",
+  "script": "seal",
+  "character": "醢",
+  "reading": "hǎi",
+  "description": "hǎi：(1)用肉、鱼等制成的酱。\n(2)古代的一种酷刑，把人杀死后剁成肉酱。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-醢"
+}

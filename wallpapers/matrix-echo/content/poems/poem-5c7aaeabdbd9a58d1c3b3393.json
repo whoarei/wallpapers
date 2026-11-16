@@ -1,0 +1,14 @@
+{
+  "id": "poem-5c7aaeabdbd9a58d1c3b3393",
+  "title": "次韵士特试谷帘泉见怀之作  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "桑苎尝来第二泉，翠松偃盖色相鲜。",
+    "谷帘窦乳争多少，西子南威各自妍。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-6f17e4a3-5d41-4802-ac01-f42ae66dbeab"
+}

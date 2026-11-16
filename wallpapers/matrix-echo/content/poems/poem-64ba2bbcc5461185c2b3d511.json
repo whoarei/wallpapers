@@ -1,0 +1,17 @@
+{
+  "id": "poem-64ba2bbcc5461185c2b3d511",
+  "title": "采桑子·那能寂寞芳菲节",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "那能寂寞芳菲节，欲话生平。",
+    "夜已三更。",
+    "一阕悲歌泪暗零。",
+    "须知秋叶春花促，点鬓星星。",
+    "遇酒须倾，莫问千秋万岁名。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-139"
+}

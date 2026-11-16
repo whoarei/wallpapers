@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6252",
+  "script": "kai",
+  "character": "扒",
+  "reading": "bā；pá",
+  "description": "bā：(1)抓住，把着～车。～墙头儿。\n(2)刨开，挖～坑。～堤。\n(3)剥，脱～皮。～掉伪装。\n(4)拔勿剪勿～。\n(5)拨动～拉。～开草棵。\npá：(1)用耙搂，聚拢～草。\n(2)搔，抓～痒。\n(3)炖烂，煨烂～羊肉。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-扒"
+}

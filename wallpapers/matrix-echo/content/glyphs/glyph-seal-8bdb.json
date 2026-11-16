@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bdb",
+  "script": "seal",
+  "character": "诛",
+  "reading": "zhū",
+  "description": "杀戮。夺去生命\n立诛杀曹无伤\n⒈杀死，铲除～戮ˇ民者～。～锄杂草。\n⒉谴责，责罚，讨伐口～笔伐。兴兵～之。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诛"
+}

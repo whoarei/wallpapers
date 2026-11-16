@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8336",
+  "script": "kai",
+  "character": "茶",
+  "reading": "chá",
+  "description": "chá：(1)常绿灌木，叶长椭圆形，有锯齿，经加工制为饮料，就是茶叶；秋末开花，白色；种子可榨油；木质致密，供雕刻用～树。～农。\n(2)特指茶叶”绿～§～。花～。沱～。龙井～。乌龙～。\n(3)用茶叶沏成的饮料～水。～饭。～点（茶水、点心）。～话会。～博士（善于烹茶的人，亦指卖茶的人或茶馆侍者）。～余饭后。\n(4)泛指某些饮料～汤。面～。果～。\n(5)特指茶点”早～。晚～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茶"
+}

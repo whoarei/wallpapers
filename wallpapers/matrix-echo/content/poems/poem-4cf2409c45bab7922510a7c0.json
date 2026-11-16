@@ -1,0 +1,14 @@
+{
+  "id": "poem-4cf2409c45bab7922510a7c0",
+  "title": "游仙词三十三首  其四",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "月斜天路晓风清，缥缈云开见玉城。",
+    "无数小仙参阙罢，相逢只是说长生。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-fdb71c51-6fb8-421f-9a20-132c383984ec"
+}

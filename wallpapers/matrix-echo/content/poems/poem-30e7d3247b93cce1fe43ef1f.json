@@ -1,0 +1,18 @@
+{
+  "id": "poem-30e7d3247b93cce1fe43ef1f",
+  "title": "送新罗法师还国",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "异域今无外，高僧代所稀。",
+    "苦心归寂灭，宴坐得精微。",
+    "持钵何年至，传灯是日归。",
+    "上卿挥别藻，中禁下禅衣。",
+    "海阔杯还度，云遥锡更飞。",
+    "此行迷处所，何以慰虔祈。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-dc8e091b-eb56-45e2-8089-d508fa1a6aaa"
+}

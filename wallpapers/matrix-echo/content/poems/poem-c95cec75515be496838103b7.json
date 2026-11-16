@@ -1,0 +1,16 @@
+{
+  "id": "poem-c95cec75515be496838103b7",
+  "title": "次东坡月夜理髪",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "月明星稀乌鹊翻，先生夜起临幽轩。",
+    "呼童具栉不停手，一气溯流天地根。",
+    "自经忧患髪如葆，欲论此心无与言。",
+    "不如缄默度余日，怅望吴越空销魂。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-867fd136-384d-4e57-bbdc-7be587b53dcb"
+}

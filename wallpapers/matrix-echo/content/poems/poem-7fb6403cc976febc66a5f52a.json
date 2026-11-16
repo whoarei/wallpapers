@@ -1,0 +1,17 @@
+{
+  "id": "poem-7fb6403cc976febc66a5f52a",
+  "title": "郢州白雪楼（题拟）",
+  "author": "张休",
+  "dynasty": "唐",
+  "verses": [
+    "美人莫唱《阳春曲》，白尽湖南太守头。",
+    "（宋王之望《汉滨集》卷二《郢守乔民瞻寄襄阳雪中三绝因追述前过石城杯酒登临之胜为和》其三自注引。",
+    "）（王之望诗注云：「仆旧游白雪楼，见张休诗石刻，尾章云〖诗略〗。",
+    "今石已亡，民瞻询于老吏，遂得其全篇，云将复刻）（诸石。",
+    "」）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-3cd355ba-c067-4e51-bccc-6f1c0ee7e2c9"
+}

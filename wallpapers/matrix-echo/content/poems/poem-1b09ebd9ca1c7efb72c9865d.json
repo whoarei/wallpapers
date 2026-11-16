@@ -1,0 +1,19 @@
+{
+  "id": "poem-1b09ebd9ca1c7efb72c9865d",
+  "title": "烛影摇红·老景萧条",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "老景萧条，送君归去添凄断。",
+    "赠君明月满前溪，直到西湖畔。",
+    "门掩绿苔应遍。",
+    "为黄花、频开醉眼。",
+    "橘奴无恙，蝶子相迎，寒窗日短。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-842",
+  "tags": [
+    "西湖"
+  ]
+}

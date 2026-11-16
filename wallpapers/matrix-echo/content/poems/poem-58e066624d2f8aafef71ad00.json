@@ -1,0 +1,16 @@
+{
+  "id": "poem-58e066624d2f8aafef71ad00",
+  "title": "酒泉子·小槛日斜",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "小槛日斜，风度绿窗人悄悄。",
+    "翠帷闲掩舞双鸾，旧香寒。",
+    "别来情绪转难拚，韶颜看却老。",
+    "依稀粉上有啼痕，暗销魂。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-10"
+}

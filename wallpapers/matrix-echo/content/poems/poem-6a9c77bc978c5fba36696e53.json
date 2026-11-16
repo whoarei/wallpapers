@@ -1,0 +1,15 @@
+{
+  "id": "poem-6a9c77bc978c5fba36696e53",
+  "title": "吊李元宾坟",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "晓上荒凉原，吊彼寂寥魂。",
+    "眼咽此时泪，耳凄在日言。",
+    "冥冥千万年，坟锁孤松根。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-f07e39fe-5dd8-4940-a589-07af5f2db4ec"
+}

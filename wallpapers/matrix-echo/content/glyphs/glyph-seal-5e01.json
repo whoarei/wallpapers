@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e01",
+  "script": "seal",
+  "character": "币",
+  "reading": "bì",
+  "description": "泛指车马皮帛玉器等礼物\n币 bì货币人民～、金～、硬～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-币"
+}

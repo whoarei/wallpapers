@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-548f",
+  "script": "kai",
+  "character": "咏",
+  "reading": "yǒng",
+  "description": "yǒng：(1)唱，声调有抑扬地念～赞。歌～。吟～。～唱。\n(2)用诗词等来描述，抒发感情～梅。～史。～怀。～叹。～叹调（富于抒情的独唱曲）。\n(3)指诗词佳～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咏"
+}

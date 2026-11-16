@@ -1,0 +1,19 @@
+{
+  "id": "poem-de6e2a1e7004c3d0d29e97ee",
+  "title": "点绛唇·征骑初停",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "征骑初停，酒行莫放离歌举。",
+    "柳汀莲浦。",
+    "看尽江南路。",
+    "苦恨斜阳，冉冉催人去。",
+    "空回顾。",
+    "淡烟横素。",
+    "不见扬鞭处。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-401",
+  "tags": []
+}

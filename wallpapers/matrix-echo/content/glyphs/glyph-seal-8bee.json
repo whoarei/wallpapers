@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bee",
+  "script": "seal",
+  "character": "诮",
+  "reading": "qiào",
+  "description": "嘲讽\n简直,完全\n⒈讥讽讥～。\n⒉责备，谴责～他几句。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诮"
+}

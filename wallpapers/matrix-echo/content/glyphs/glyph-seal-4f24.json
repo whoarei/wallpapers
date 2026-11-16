@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f24",
+  "script": "seal",
+  "character": "伤",
+  "reading": "shāng",
+  "description": "⒈受到损害、损坏受～。枪～。重～。\n⒉损害，妨碍～害。损～。～点皮肉。无～大局。\n⒊遭受某种致病因素而得病～风。～暑。\n⒋悲哀～心。悲～。\n⒌使用过度以致厌烦这种菜吃～了。\n⒍得罪，诋毁有意中～。出口～人。\n①伤寒杆菌引起的急性传染病。\n②中医学上泛指各种热病或风寒引起的疾病。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-伤"
+}

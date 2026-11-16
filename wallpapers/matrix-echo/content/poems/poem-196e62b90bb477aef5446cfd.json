@@ -1,0 +1,14 @@
+{
+  "id": "poem-196e62b90bb477aef5446cfd",
+  "title": "题时遁泽画卷十首  其一",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "断岸临江渚，风声瑟瑟寒。",
+    "苍髯五君子，莫作大夫看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-156b7c26-c3a9-417f-aec1-9187a273cd45"
+}

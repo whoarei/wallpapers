@@ -1,0 +1,16 @@
+{
+  "id": "poem-dcba374f6780b6cec9c689da",
+  "title": "送净道人",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "北阜与西山，前期梦寐间。",
+    "羡师乘兴去，应拟此生闲。",
+    "乔木人谁在，鲈鱼我未还。",
+    "归心寄秋水，东去日潺潺。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-32bd5779-9286-4a68-9ba7-6184aeb1ca47"
+}

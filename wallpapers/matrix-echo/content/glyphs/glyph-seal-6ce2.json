@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6ce2",
+  "script": "seal",
+  "character": "波",
+  "reading": "bō",
+  "description": "bō：(1)水面振荡起伏的运动～浪。～涛。～澜。～光。～纹。～荡。推～助澜。～及（影响到，牵涉到）。\n(2)物理学上指振动在物质中的传播能量递进的一种形式电～。光～。超声～。～长。～段。～速。～谱。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-波"
+}

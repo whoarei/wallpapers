@@ -1,0 +1,14 @@
+{
+  "id": "poem-b0a3e398ca4310bb2f5196a0",
+  "title": "浣溪沙·独立寒阶望月华",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "独立寒阶望月华，露浓香泛小庭花，绣屏愁背一灯斜。",
+    "云雨自从分散后，人间无路到仙家，但凭魂梦访天涯。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-29"
+}

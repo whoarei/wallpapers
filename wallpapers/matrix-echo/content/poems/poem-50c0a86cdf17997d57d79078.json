@@ -1,0 +1,16 @@
+{
+  "id": "poem-50c0a86cdf17997d57d79078",
+  "title": "送裴宣城上元所居",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "水流过海稀，尔去换春衣。",
+    "泪向槟榔尽，身随鸿雁归。",
+    "草思晴后发，花怨雨中飞。",
+    "想到金陵渚，酣歌对落晖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c8a0aa65-3552-4460-9a5a-08eecec348a7"
+}

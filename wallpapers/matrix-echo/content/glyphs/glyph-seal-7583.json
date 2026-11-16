@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7583",
+  "script": "seal",
+  "character": "疃",
+  "reading": "tuǎn",
+  "description": "tuǎn：(1)禽兽践踏的地方，\n(2)村庄，屯（多用于地名）白家～（在中国北京市）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疃"
+}

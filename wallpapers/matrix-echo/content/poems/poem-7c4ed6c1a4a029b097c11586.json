@@ -1,0 +1,14 @@
+{
+  "id": "poem-7c4ed6c1a4a029b097c11586",
+  "title": "仙吕/点绛唇",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "露滴疏杉，雾迷衰柳。",
+    "星光淡，秋色将三，皓月如悬鉴。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4495",
+  "tags": []
+}

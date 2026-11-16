@@ -1,0 +1,25 @@
+{
+  "id": "poem-1ad93b4fcc2ac7398adf871a",
+  "title": "宿郑州",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "朝与周人辞，暮投郑人宿。",
+    "他乡绝俦侣，孤客亲僮仆。",
+    "宛洛望不见，秋霖晦平陆。",
+    "田父草际归，村童雨中牧。",
+    "主人东臯上，时稼遶茅屋。",
+    "虫思机杼悲，雀喧禾黍熟。",
+    "明当渡京水，昨晚犹金谷。",
+    "此去欲何言，穷边狥微禄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "抒情",
+    "旅途",
+    "孤寂",
+    "写景"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-04ef8f76-9308-42c0-913a-b83cad843362"
+}

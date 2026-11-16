@@ -1,0 +1,20 @@
+{
+  "id": "poem-a2d41b237b88f8307d431c4c",
+  "title": "减字木兰花·笔端红翠",
+  "author": "赵鼎",
+  "dynasty": "宋",
+  "verses": [
+    "笔端红翠。",
+    "造化工夫春有意。",
+    "云梦涵胸。",
+    "好去蓬山十二重。",
+    "天街追骑。",
+    "催唤谪仙泥样醉。",
+    "电扫云空。",
+    "百斛明珠咳唾中。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-946",
+  "tags": []
+}

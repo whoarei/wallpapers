@@ -1,0 +1,16 @@
+{
+  "id": "poem-3535f29bb16474aa7a41adfc",
+  "title": "宁国奉圣寺有许浑旧题",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "题擅玉台宾，山名益著闻。",
+    "禽珍腾逸响，草异荐奇芬。",
+    "壁可曾留锡，簷栖欲去云。",
+    "尘嚣避三舍，不度碧溪𣸣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-d2b99908-7227-4b04-a30e-2413673bf68e"
+}

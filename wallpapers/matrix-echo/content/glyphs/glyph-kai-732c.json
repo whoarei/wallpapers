@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-732c",
+  "script": "kai",
+  "character": "猬",
+  "reading": "wèi",
+  "description": "wèi：〔刺～〕哺乳动物，身上长有硬刺，昼伏夜出，吃鼠、蛇、昆虫等，对农业有益。简称猬”，如～集”（喻事情繁多，如刺猬的毛聚在一起）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-猬"
+}

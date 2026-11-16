@@ -1,0 +1,19 @@
+{
+  "id": "poem-799dc2353967e357409eddf4",
+  "title": "双黄鹄歌送别",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "天路来兮双黄鹄，云上飞兮水上宿。",
+    "抚翼和鸣整羽族，不得已，忽分飞。",
+    "家在玉京朝紫微，主人临水送将归。",
+    "悲笳嘹唳垂舞衣，宾欲散兮复相依。",
+    "几往返兮极浦，尚裴回兮落晖。",
+    "岸上火兮相迎，将夜入兮边城。",
+    "鞍马归兮佳人散，怅离忧兮独含情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-179e62dd-8983-45c3-a3db-52d9bd1871af"
+}

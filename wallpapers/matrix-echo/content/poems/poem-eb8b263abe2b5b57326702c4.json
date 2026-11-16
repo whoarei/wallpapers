@@ -1,0 +1,16 @@
+{
+  "id": "poem-eb8b263abe2b5b57326702c4",
+  "title": "别弟缙后登青龙寺望蓝田山",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "陌上新离别，苍茫四郊晦。",
+    "登高不见君，故山复云外。",
+    "远树蔽行人，长天隐秋塞。",
+    "心悲宦游子，何处飞征盖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ae1402ee-2613-4d6b-9549-ab7ce6d368f6"
+}

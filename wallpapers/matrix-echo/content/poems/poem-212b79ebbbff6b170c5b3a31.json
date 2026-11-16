@@ -1,0 +1,17 @@
+{
+  "id": "poem-212b79ebbbff6b170c5b3a31",
+  "title": "偈",
+  "author": "念禅师",
+  "dynasty": "宋",
+  "verses": [
+    "往复无际，动静一源。",
+    "含有德以还空，越无私而迥出。",
+    "昔日日，今日日，照无两明。",
+    "昔日风，今日风，鼓无两动。",
+    "昔日雨，今日雨，泽无两润。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-09433c45-1008-4de9-8cc4-febf0cae104f"
+}

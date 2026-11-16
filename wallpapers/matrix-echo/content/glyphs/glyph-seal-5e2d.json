@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e2d",
+  "script": "seal",
+  "character": "席",
+  "reading": "xí",
+  "description": "xí：(1)用草或苇子编成的成片的东西，古人用以坐、卧，现通常用来铺床或炕等～子。草～。苇～。竹～。凉～。～地而坐。～卷（juǎn）。\n(2)座位～位。～次。出～。列～。\n(3)酒筵，成桌的饭菜筵～。宴～。酒～。\n(4)特指议会中当选的人数四～。\n(5)职位主～。西～（塾师）。\n(6)量词一～酒。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-席"
+}

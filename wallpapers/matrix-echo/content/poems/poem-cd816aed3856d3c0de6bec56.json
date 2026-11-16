@@ -1,0 +1,20 @@
+{
+  "id": "poem-cd816aed3856d3c0de6bec56",
+  "title": "谒金门·杨柳渡",
+  "author": "苏庠",
+  "dynasty": "宋",
+  "verses": [
+    "杨柳渡。",
+    "醉著青鞋归去。",
+    "点点沙鸥何处所。",
+    "十里菰蒲雨。",
+    "抖擞向来尘土。",
+    "卧看碧山云度。",
+    "寄语故时猿鹤侣。",
+    "未见心先许。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-680",
+  "tags": []
+}

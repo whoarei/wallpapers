@@ -1,0 +1,23 @@
+{
+  "id": "poem-f1c7f4c317ed31c7564d95eb",
+  "title": "宿建德江",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "移舟泊烟渚，日暮客愁新。",
+    "野旷天低树，江清月近人。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "描写水",
+    "写景",
+    "思乡",
+    "水",
+    "月亮",
+    "五言绝句",
+    "写水"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-0bed9b02-991e-4e28-b631-86640147a712"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7080",
+  "script": "seal",
+  "character": "炀",
+  "reading": "yáng",
+  "description": "熔炼金属\n遮蔽,蒙蔽,挡住\n炽热\n观天火之炎炀兮,听\n⒈也作\"烊\"。熔化金属。\n⒉火旺。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-炀"
+}

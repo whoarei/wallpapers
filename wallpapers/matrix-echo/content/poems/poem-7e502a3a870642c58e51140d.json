@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e502a3a870642c58e51140d",
+  "title": "通衢驿夜坐有感二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "永夜发孤笑，起看河汉流。",
+    "群山涌翠浪，纤月挂琼钩。",
+    "岂谓艰难日，翻成汗漫游。",
+    "虚舟全不系，暮景付沧洲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-6b7f8ac5-5bf9-4c68-9d17-47532a1f3a6d"
+}

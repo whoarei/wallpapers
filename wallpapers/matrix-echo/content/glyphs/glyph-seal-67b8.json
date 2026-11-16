@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-67b8",
+  "script": "seal",
+  "character": "枸",
+  "reading": "gǒu；jǔ",
+  "description": "jǔ：〔～橼〕ａ．常绿小乔木或大灌木，有短刺。果实长圆形，黄色，有香气，果皮可入药或提制芳香油；ｂ．这种植物的果实。均亦称香橼”。\ngǒu：〔～杞〕落叶小灌木，叶披针形，结小浆果，成熟时红色，称枸杞子”，可入药；根皮称地骨皮”，亦可入药；茎叶嫩时可食。\n〔～骨〕常绿小乔木或灌木，叶长椭圆形有三、四个硬刺，开凶花，有香气，果实球形供观赏，叶入药。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-枸"
+}

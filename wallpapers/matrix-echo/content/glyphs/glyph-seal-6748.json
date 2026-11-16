@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6748",
+  "script": "seal",
+  "character": "杈",
+  "reading": "chā；chà",
+  "description": "chā：一种用来挑柴草等的农具。\nchà：树枝的分岔，树干的分枝～子。打～（除去分枝）。树～儿。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杈"
+}

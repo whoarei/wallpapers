@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7d2b",
+  "script": "seal",
+  "character": "紫",
+  "reading": "zǐ",
+  "description": "zǐ：(1)在可见光中波长最短，红与蓝合成的颜色～红。～铜。～外线。～药水。\n(2)道教和某些朝代的统治者所崇尚的色彩，因而常在其宫室、服饰、用物前冠之以紫”～衣。～书（a.道经；b.皇帝诏书）。～诰（帝王诏令）。～台（神仙、帝王所居）。～气（祥瑞之气，多附会为帝王、圣贤或宝物出现的先兆）。～绶。～垣（皇宫）。～阙。～光阁。～禁城。～袍金带。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-紫"
+}

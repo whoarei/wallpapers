@@ -1,0 +1,15 @@
+{
+  "id": "poem-887f305a519bfd4d3ef0e558",
+  "title": "句 二",
+  "author": "沈彬",
+  "dynasty": "唐",
+  "verses": [
+    "更好碧溪深院静。",
+    "（《江湖小集》卷七绍嵩《江浙纪行集句诗》引。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-060cf73a-dc21-4376-93b3-b2581ff1c16d"
+}

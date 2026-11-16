@@ -1,0 +1,16 @@
+{
+  "id": "poem-ad101e64bc0bed02f3f84099",
+  "title": "偈颂（幷序○序为南岳齐己撰） 八十五",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "柱杖行低道，逢溪澡潄多。",
+    "平田偏乐坐，人命可经过。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-fd1df6e4-bf02-4055-b9eb-22d362a20fb8"
+}

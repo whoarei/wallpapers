@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5b54",
+  "script": "kai",
+  "character": "孔",
+  "reading": "kǒng",
+  "description": "kǒng：(1)小洞，窟窿～穴。～眼。～洞。～方兄（指钱，因旧时的铜钱有方形的孔，恢谐含鄙意）。\n(2)很～急。～武有力。\n(3)量词，用于窑洞一～土窑。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-孔"
+}

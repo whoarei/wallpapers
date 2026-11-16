@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-96c7",
+  "script": "seal",
+  "character": "雇",
+  "reading": "gù",
+  "description": "gù：(1)出钱让人为自己做事～工。～主。～用。～员。～佣。～请。\n(2)租赁交通运输工具～车。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-雇"
+}

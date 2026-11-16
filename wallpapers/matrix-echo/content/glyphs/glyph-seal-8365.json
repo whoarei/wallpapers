@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8365",
+  "script": "seal",
+  "character": "荥",
+  "reading": "yíng",
+  "description": "荥经 ying\n⒈荥经县，在四川省。\n⒉见xíng㈡。\n荥yīng 1.见\"荥瀯\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-荥"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-daf4a18fc9e93ce88a41f0c1",
+  "title": "胡捣练",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "江水远，恨悠悠，教人羞耻向谁求？枉自腹藏千古事，但趁一江清水向东流。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1749",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e29",
+  "script": "seal",
+  "character": "鸩",
+  "reading": "zhèn",
+  "description": "传说中的一种毒鸟。把它的羽毛放在酒里，可以毒杀人。\n用鸩的羽毛泡成的毒酒～酒。饮～止渴。\n用毒酒害人。\n⒈传说中的一种毒鸟。羽毛紫绿色，放在酒中能毒死人。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鸩"
+}

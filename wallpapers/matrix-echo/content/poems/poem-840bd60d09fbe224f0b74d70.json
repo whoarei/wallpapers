@@ -1,0 +1,14 @@
+{
+  "id": "poem-840bd60d09fbe224f0b74d70",
+  "title": "游仙二首 一",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "蛾眉新画觉婵娟，鬬走将花阿母边。",
+    "仙曲教成慵不理，玉阶相簇打金钱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-75af1049-35a3-42ae-bffd-90089bf3ef27"
+}

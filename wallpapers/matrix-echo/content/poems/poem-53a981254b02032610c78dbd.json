@@ -1,0 +1,15 @@
+{
+  "id": "poem-53a981254b02032610c78dbd",
+  "title": "颂古三十一首  其一六",
+  "author": "释玿",
+  "dynasty": "宋",
+  "verses": [
+    "明日大悲院里斋，铁围山岳尽冲开。",
+    "猪头象鼻，乌觜鱼腮。",
+    "石人抚掌呵呵笑，寒山拾得在天台。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-37610d77-d4b1-47c7-9120-2dd3e57b735a"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-a4a7839546af59593649862b",
+  "title": "邓隠峰赞",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "金锡一震，虚空退听。",
+    "百万雄兵，难破此阵。",
+    "一时游戏神通，未免旁观者哂。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-ddc926a2-12a1-4d72-a0c0-e6507917af70"
+}

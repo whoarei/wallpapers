@@ -1,0 +1,16 @@
+{
+  "id": "poem-920f76c0b9db10c834c3b9d4",
+  "title": "送龙门令刘沧",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "去宰龙门县，应思变化年。",
+    "还将鲁儒政，又与晋人传。",
+    "峭壁开中古，长河落半天。",
+    "几乡因劝勉，耕稼满云烟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-b78f17a5-1503-40cd-800b-a8d64d6ca044"
+}

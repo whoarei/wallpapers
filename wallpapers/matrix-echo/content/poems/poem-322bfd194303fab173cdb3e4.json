@@ -1,0 +1,16 @@
+{
+  "id": "poem-322bfd194303fab173cdb3e4",
+  "title": "墨藕花  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "西子湖阴锦掞云，水风池阁度晴熏。",
+    "影窥明王生绡薄，分外精神一两分。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-eda815b1-77ac-440c-8f3c-9dbd7b578558"
+}

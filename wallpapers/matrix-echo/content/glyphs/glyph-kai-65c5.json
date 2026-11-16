@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-65c5",
+  "script": "kai",
+  "character": "旅",
+  "reading": "lǚ；lv",
+  "description": "lǚ：(1)出行的，在外作客的～行（xíng）。～馆。～次。～居。～客。～伴。商～。差（chāi）～。～社。\n(2)军队的编制单位，在师与团之间。\n(3)泛指军队军～。强兵劲～。\n(4)共同～进～退。\n(5)同稆”。\n(6)古同膂”，脊梁骨。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-旅"
+}

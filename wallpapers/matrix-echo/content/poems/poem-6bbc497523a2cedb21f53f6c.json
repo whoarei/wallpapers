@@ -1,0 +1,16 @@
+{
+  "id": "poem-6bbc497523a2cedb21f53f6c",
+  "title": "岐王席上咏美人",
+  "author": "张谔",
+  "dynasty": "唐",
+  "verses": [
+    "半额画双蛾，盈盈烛下歌。",
+    "玉杯寒意少，金屋夜情多。",
+    "香艳王分帖，裙娇敕赐罗。",
+    "平阳莫相妬，唤出不如他。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-738332fd-e464-47c5-854a-3c8907c0420e"
+}

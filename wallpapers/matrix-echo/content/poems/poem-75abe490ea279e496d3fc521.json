@@ -1,0 +1,16 @@
+{
+  "id": "poem-75abe490ea279e496d3fc521",
+  "title": "送顾非熊作尉盱眙",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "一名兼一尉，未足是君伸。",
+    "厉数为诗者，多来作谏臣。",
+    "路翻平楚阔，草带古淮新。",
+    "天下虽云大，同声有几人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-32183dec-fbda-47f9-8dba-2726587dadb8"
+}

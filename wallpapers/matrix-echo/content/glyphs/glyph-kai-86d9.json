@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-86d9",
+  "script": "kai",
+  "character": "蛙",
+  "reading": "wā",
+  "description": "wā：两栖动物的一科，无尾，后肢长，前肢短，趾有蹼，善于跳跃和泅水。种类很多青～（俗称田鸡”）。牛～。～泳。～人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蛙"
+}

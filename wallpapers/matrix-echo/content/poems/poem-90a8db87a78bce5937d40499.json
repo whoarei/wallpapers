@@ -1,0 +1,14 @@
+{
+  "id": "poem-90a8db87a78bce5937d40499",
+  "title": "三衢道中",
+  "author": "曾几",
+  "dynasty": "宋",
+  "verses": [
+    "梅子黄时日日晴，小溪泛尽却山行。",
+    "绿阴不减来时路，添得黄鹂四五声。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-三衢道中"
+}

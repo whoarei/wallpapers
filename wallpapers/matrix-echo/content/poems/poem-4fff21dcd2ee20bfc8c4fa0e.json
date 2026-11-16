@@ -1,0 +1,16 @@
+{
+  "id": "poem-4fff21dcd2ee20bfc8c4fa0e",
+  "title": "笑轩沈仲归挽章",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "尊周微意托炎刘，秽史端令后世羞。",
+    "不把遗经究终始，安知吾志在春秋。",
+    "虹霓未吐身先老，龟手空传自不侯。",
+    "奏赋长杨上天去，断编残简乱山丘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-4af5d82f-df12-4b9b-8789-4c4571d8e561"
+}

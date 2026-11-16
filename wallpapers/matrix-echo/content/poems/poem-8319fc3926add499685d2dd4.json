@@ -1,0 +1,15 @@
+{
+  "id": "poem-8319fc3926add499685d2dd4",
+  "title": "破阵子",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(老旦上)况是君臣分散。",
+    "那堪母子临危。",
+    "(旦上)严父东行何日返？天子南迁甚日回？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2923",
+  "tags": []
+}

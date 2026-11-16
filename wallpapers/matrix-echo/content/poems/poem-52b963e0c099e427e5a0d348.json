@@ -1,0 +1,14 @@
+{
+  "id": "poem-52b963e0c099e427e5a0d348",
+  "title": "立秋",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "兹晨戒流火，商飇早已惊。",
+    "云天收夏色，木叶动秋声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-0be6139d-9f86-4c80-8689-babed4019d9f"
+}

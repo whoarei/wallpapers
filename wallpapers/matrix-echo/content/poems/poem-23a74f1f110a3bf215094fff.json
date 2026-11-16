@@ -1,0 +1,21 @@
+{
+  "id": "poem-23a74f1f110a3bf215094fff",
+  "title": "夜归鹿门山歌",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "山寺钟鸣昼已昏，渔梁渡头争渡喧。",
+    "人随沙路向江村，余亦乘舟归鹿门。",
+    "鹿门月照开烟树，忽到庞公栖隐处。",
+    "岩扉松径长寂寥，惟有幽人夜来去。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写景",
+    "归隐",
+    "七言古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-cc0e7ac3-bde4-4491-8ae5-027106709e72"
+}

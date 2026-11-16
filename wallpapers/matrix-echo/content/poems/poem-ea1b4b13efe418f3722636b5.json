@@ -1,0 +1,14 @@
+{
+  "id": "poem-ea1b4b13efe418f3722636b5",
+  "title": "曲池陪宴即事上窦中丞",
+  "author": "熊孺登",
+  "dynasty": "唐",
+  "verses": [
+    "水自山阿绕坐来，珊瑚台上木绵开。",
+    "欲知举目无情罚，一片花流酒一杯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ea08d350-3d1f-46a0-934f-3dffd9c5df36"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7559",
+  "script": "seal",
+  "character": "留",
+  "reading": "liú",
+  "description": "liú：(1)停止在某一个地方停～。～学。～任。～级。～步。～守。～驻。\n(2)注意力放在上面～心。～神。～意。\n(3)不忍舍弃，不忍离去～连。～恋。\n(4)不使离开～客。～宿。挽～。拘～。\n(5)接受收～。\n(6)保存保～。～存。～别。～念。～后路。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-留"
+}

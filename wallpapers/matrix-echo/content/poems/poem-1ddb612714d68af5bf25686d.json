@@ -1,0 +1,14 @@
+{
+  "id": "poem-1ddb612714d68af5bf25686d",
+  "title": "晚凉",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "两两蝉声送夕阳，竹阴移绿上藤床。",
+    "黄昏急雨无多子，喜得今宵梦亦凉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-e9f58779-a309-4ba3-909c-3748ca714ff1"
+}

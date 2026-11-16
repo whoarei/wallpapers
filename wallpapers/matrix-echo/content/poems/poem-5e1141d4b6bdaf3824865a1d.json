@@ -1,0 +1,14 @@
+{
+  "id": "poem-5e1141d4b6bdaf3824865a1d",
+  "title": "偶然五首 二",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "偶然寂无喧，吾了心性源。",
+    "可嫌虫食木，不笑鸟能言。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3879732f-c0c2-47a0-9fa3-b0a206bdbc89"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-bb363ba89f0fe30998a38357",
+  "title": "德升尚书出示岁除用韦苏州韵前后二篇及两郎属和粲然盈轴赏叹之余有感于中亦輙次韵书山居一时事  其一",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "寒宵送徂岁，青灯照华髪。",
+    "天时自代谢，人事更治忽。",
+    "圣朝今中兴，正朔几书月。",
+    "未作故乡归，又见新花发。",
+    "稚女巧娱予，剪彩粧风物。",
+    "一釂婪尾觞，頺然百忧歇。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-fd47e7cb-5d5e-4b3a-9883-c6dcf439fad7"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-f639e17309d2f0520b496963",
+  "title": "七娘子·山围水绕高唐路",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "山围水绕高唐路。",
+    "恨密云、不下阳台雨。",
+    "雾阁云窗，风亭月户。",
+    "分明携手同行处。",
+    "而今不见生尘步。",
+    "但长江、无语东流去。",
+    "满地落花，漫天飞絮。",
+    "谁知总是离愁做。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-138",
+  "tags": [
+    "长江"
+  ]
+}

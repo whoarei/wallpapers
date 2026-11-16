@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5b87",
+  "script": "kai",
+  "character": "宇",
+  "reading": "yǔ",
+  "description": "yǔ：(1)屋檐，泛指房屋～下（屋檐之下，喻在他人庇护之下）。屋～。庙～。～宙（ａ．屋檐和栋梁；ｂ．空间与时间；ｃ．天地）。\n(2)国土，疆土故～。\n(3)整个空间世界～内（指天下）。玉～。～航。\n(4)风度，仪表眉～（指人的样子，仪表）。器～轩昂。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宇"
+}

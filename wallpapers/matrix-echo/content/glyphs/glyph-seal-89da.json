@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-89da",
+  "script": "seal",
+  "character": "觚",
+  "reading": "gū",
+  "description": "gū：(1)古代酒器，青铜制，盛行于中国商代和西周初期，喇叭形口，细腰，高圈足。\n(2)古代用来书写的木简操～。\n(3)棱角甘泉泰??（shì）紫坛，八～宣通象八方”。\n(4)剑柄操其～，招其末”。\n(5)古同弧”，独立不群。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-觚"
+}

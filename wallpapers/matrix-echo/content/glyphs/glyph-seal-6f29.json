@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6f29",
+  "script": "seal",
+  "character": "漩",
+  "reading": "xuán",
+  "description": "xuán：回旋的水流～涡（ａ．回旋水流形成的螺旋形；ｂ．喻越陷越深不能自拔的境地，如卷入～～”。均亦作旋涡”）。～澴（波浪回旋涌起的样子）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-漩"
+}

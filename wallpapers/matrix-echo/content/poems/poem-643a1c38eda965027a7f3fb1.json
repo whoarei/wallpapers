@@ -1,0 +1,14 @@
+{
+  "id": "poem-643a1c38eda965027a7f3fb1",
+  "title": "王昭君",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "汉使南还尽，胡中妾独存。",
+    "紫台绵望绝，秋草不堪论。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-2bb965aa-61a7-47be-8dab-6e3874139c7f"
+}

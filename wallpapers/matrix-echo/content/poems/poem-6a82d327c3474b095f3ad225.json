@@ -1,0 +1,14 @@
+{
+  "id": "poem-6a82d327c3474b095f3ad225",
+  "title": "浣溪沙·惆怅梦余山月斜",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "惆怅梦余山月斜，孤灯照壁背窗纱，小楼高阁谢娘家。",
+    "暗想玉容何所似，一枝春雪冻梅花，满身香雾簇朝霞。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-30"
+}

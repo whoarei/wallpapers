@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8c37",
+  "script": "kai",
+  "character": "谷",
+  "reading": "gǔ",
+  "description": "两山之间的水流\n泉出通川为谷\n⒈庄稼和粮食的总称种～。～物。～贵饿农。～贱伤农。\n⒌见yù、lù。榖gǔ榖树，也叫\"构\"或\"楮\"。落叶乔木，花淡绿色，果实红色。树皮纤维可以造纸。\n谷gòu 1.小孩。 2.古代楚语谓乳。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谷"
+}

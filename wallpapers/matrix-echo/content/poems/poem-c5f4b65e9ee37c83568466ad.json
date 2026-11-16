@@ -1,0 +1,14 @@
+{
+  "id": "poem-c5f4b65e9ee37c83568466ad",
+  "title": "伯时二马  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "市骏爰从画骏谋，何如脱鞅纵骅骝。",
+    "青青许负双眸子，不识骅骝只相牛。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-9a7e0ee8-1cc7-4649-ba22-8cb627fda34d"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-7007fe2fcf99ddbf119a13cf",
+  "title": "玉楼春·春风只在园西畔",
+  "author": "严仁",
+  "dynasty": "宋",
+  "verses": [
+    "春风只在园西畔。",
+    "荠菜花繁胡蝶乱。",
+    "冰池晴绿照还空，香径落红吹已断。",
+    "意长翻恨游丝短。",
+    "尽日相思罗带缓。",
+    "宝奁明月不欺人，明日归来君试看。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-51"
+}

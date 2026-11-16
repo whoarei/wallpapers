@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80a5",
+  "script": "seal",
+  "character": "肥",
+  "reading": "féi",
+  "description": "féi：(1)含脂肪多的，与瘦”相对～肉。～胖。～缺（指收入多的官职）。～硕（a.大而肥胖；b.果实大而饱满）。～马轻裘。\n(2)土质含养分多的～沃。～美（a.肥沃；b.肥壮、丰美）。\n(3)能增加田地养分的东西（如粪、豆饼、化学配合剂等）～料。～力。\n(4)使田地增加养分～田。\n(5)指衣服鞋袜等宽大，与瘦”相对～大。～瘦儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肥"
+}

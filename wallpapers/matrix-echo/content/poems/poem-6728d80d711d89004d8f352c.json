@@ -1,0 +1,14 @@
+{
+  "id": "poem-6728d80d711d89004d8f352c",
+  "title": "诗三首  其三",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "闲中无所事，得意思同论。",
+    "约月升崇观，校射出平原。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-d616777e-4178-43a3-93e3-744a98c5f371"
+}

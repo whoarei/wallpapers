@@ -1,0 +1,16 @@
+{
+  "id": "poem-8aebf80f011140723155e8d9",
+  "title": "临江仙·幽闺小槛春光晚",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "幽闺小槛春光晚，柳浓花淡莺稀。",
+    "旧欢思想尚依依，翠颦红敛，终日损芳菲。",
+    "何事狂夫音信断，不如梁燕犹归。",
+    "画意深处麝烟微，屏虚枕冷，风细雨霏霏。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-32"
+}

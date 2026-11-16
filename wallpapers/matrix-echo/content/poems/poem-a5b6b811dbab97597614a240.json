@@ -1,0 +1,16 @@
+{
+  "id": "poem-a5b6b811dbab97597614a240",
+  "title": "怀周朴张为",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "二子无消息，多应各自耕。",
+    "巴江思杜甫，漳水忆刘桢。",
+    "白发应全白，生涯作么生。",
+    "寄书多不达，空念重行行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-5c957047-1970-4e2a-95ff-18018f2fa0b5"
+}

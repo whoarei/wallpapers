@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62b5",
+  "script": "kai",
+  "character": "抵",
+  "reading": "dǐ",
+  "description": "dǐ：(1)挡，拒，用力对撑着～挡。～制。～抗。～赖。\n(2)顶撞，冲突，矛盾～触。\n(3)代替，相当，顶替～押。～偿。～充。～还（huán）。\n(4)到达～京。～临。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抵"
+}

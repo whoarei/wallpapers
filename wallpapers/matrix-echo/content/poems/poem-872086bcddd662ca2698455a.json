@@ -1,0 +1,19 @@
+{
+  "id": "poem-872086bcddd662ca2698455a",
+  "title": "浣溪沙·元是昭阳宫里人",
+  "author": "曾觌",
+  "dynasty": "宋",
+  "verses": [
+    "元是昭阳宫里人。",
+    "惊鸿宛转掌中身。",
+    "只疑飞过洞庭云。",
+    "按彻凉州莲步紧，好花风袅一枝新。",
+    "画堂香暖不胜春。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-359",
+  "tags": [
+    "洞庭湖"
+  ]
+}

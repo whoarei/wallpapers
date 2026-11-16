@@ -1,0 +1,16 @@
+{
+  "id": "poem-30f869bff629c8ce226a29fb",
+  "title": "与僧话旧",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "草堂前有山，一见一相宽。",
+    "处世贵僧静，青松因岁寒。",
+    "他山逢旧侣，尽日话长安。",
+    "所以闲行迹，千回绕药栏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-93b4e474-c248-4da8-a1c1-e02c989b0d19"
+}

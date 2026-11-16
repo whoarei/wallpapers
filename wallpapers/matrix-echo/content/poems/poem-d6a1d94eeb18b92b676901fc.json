@@ -1,0 +1,18 @@
+{
+  "id": "poem-d6a1d94eeb18b92b676901fc",
+  "title": "西江月·席上芙蓉待暖",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "席上芙蓉待暖，花间騕袅还嘶。",
+    "劝君不醉且无归。",
+    "归去因谁惜醉。",
+    "汤点瓶心未老，乳堆盏面初肥。",
+    "留连能得几多时。",
+    "两腋清风唤起。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-826",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-1cef07e22c5254e62a1f69cb",
+  "title": "哭亦周  其四",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "二十年来黍一炊，英风惟有冢累累。",
+    "儿童踯躅牛羊戏，陌上行人谓此谁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-39b66f97-d1bb-41bc-9a71-089288dc62db"
+}

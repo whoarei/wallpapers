@@ -1,0 +1,14 @@
+{
+  "id": "poem-19a256a692e50193620a19f6",
+  "title": "碧玉泉",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "蕴玉含晖一水间，碧光炯炯照人寒。",
+    "却疑洗出荆山璞，若有瑕疵试指看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-b5517cdf-6c52-4bf8-89ed-8029de5a089e"
+}

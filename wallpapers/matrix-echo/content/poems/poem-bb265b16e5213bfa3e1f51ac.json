@@ -1,0 +1,16 @@
+{
+  "id": "poem-bb265b16e5213bfa3e1f51ac",
+  "title": "升平词十首 七",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "品物尽昭苏，神功复帝谟。",
+    "他时应有寿，当代且无虞。",
+    "赐历通遐俗，移关入半胡。",
+    "鹪鹩一何幸，于此寄微躯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-c72a9af5-ed08-4627-bf20-9ee339648f41"
+}

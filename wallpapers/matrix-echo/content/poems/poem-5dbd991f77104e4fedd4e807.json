@@ -1,0 +1,16 @@
+{
+  "id": "poem-5dbd991f77104e4fedd4e807",
+  "title": "赠长安毕郎中",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "高门寒沼水连云，鹭识朱衣傍主人。",
+    "地肺半边晴带雪，天街一面静无尘。",
+    "朝回座客酬琴价，衙退留僧写鹤真。",
+    "从此几迁为计相，蓬莱三刻奏东巡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ee20475d-7930-43dd-9451-d3afdb00910b"
+}

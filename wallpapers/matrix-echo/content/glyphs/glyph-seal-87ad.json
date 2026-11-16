@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-87ad",
+  "script": "seal",
+  "character": "螭",
+  "reading": "chī",
+  "description": "chī：(1)古代传说中一种没有角的龙。古建筑或器物、工艺品上常用它的形状作装饰～头。\n(2)古同魑”，魑魅。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-螭"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-eb3c3414e1522a6f9a4ac511",
+  "title": "同颜六少府旅宦秋中之作",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "传君昨夜怅然悲，独坐新斋木落时。",
+    "逸气旧来凌燕雀，高才何得混妍媸。",
+    "迹留黄绶人多叹，心在青云世莫知。",
+    "不是鬼神无正直，从来州县有瑕疵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-15abc23d-8849-43a1-aeb8-28eebdaac884"
+}

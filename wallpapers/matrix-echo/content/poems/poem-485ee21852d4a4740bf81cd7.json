@@ -1,0 +1,16 @@
+{
+  "id": "poem-485ee21852d4a4740bf81cd7",
+  "title": "新秋雨霁宿王处士东郊",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "夕阳逢一雨，夜木洗清阴。",
+    "露气竹窗静，秋光云月深。",
+    "煎尝灵药味，话及故山心。",
+    "得意两不寐，微风生玉琴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-0af77225-ddfd-43f8-9ec8-9851edfdd917"
+}

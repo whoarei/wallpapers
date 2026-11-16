@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9510",
+  "script": "kai",
+  "character": "锐",
+  "reading": "ruì",
+  "description": "精锐的军队或士卒\n锐气,勇往直前的气势\n力量,劲\n锐利的兵器\n锋利\n长其尾\n⒉感觉灵敏敏～。目光～利。\n⒊勇往直前的气势～气。～不可当。\n⒋急剧，骤然～增。～变。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锐"
+}

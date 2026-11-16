@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fd7",
+  "script": "seal",
+  "character": "俗",
+  "reading": "sú",
+  "description": "sú：(1)社会上长期形成的风尚、礼节、习惯等～尚。风～。习～。约定～成（指某种事物是由群众通过长期实践而认定形成）。\n(2)大众化的，最通行的，习见的～名。～语。～曲。雅～共赏。\n(3)趣味不高的，令人讨厌的～气。～物。鄙～。粗～。庸～。\n(4)凡世间，相对于仙佛僧道～人。世～。僧～。凡夫～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-俗"
+}

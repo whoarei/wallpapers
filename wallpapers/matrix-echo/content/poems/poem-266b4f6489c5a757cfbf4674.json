@@ -1,0 +1,15 @@
+{
+  "id": "poem-266b4f6489c5a757cfbf4674",
+  "title": "秋入关",
+  "author": "贾驰",
+  "dynasty": "唐",
+  "verses": [
+    "河上微风来，关头树初湿。",
+    "今朝关城吏，又见孤客入。",
+    "上国谁与期，西来徒自急。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3665e325-1fcd-40f3-961d-b7c7b68c4c33"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b9f17776f385b43eb40275ff",
+  "title": "循梅道中遣人如江南走笔寄诸季十首  其三",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "人传吴会破，虏向福山归。",
+    "松梓定安稳，池台今是非。",
+    "伤心怀故老，流泪落征衣。",
+    "目断沧波上，龙舟翠盖飞。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-5cf5bdd2-04c0-4ea0-9fcf-7e3ead42891a"
+}

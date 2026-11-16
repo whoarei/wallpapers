@@ -1,0 +1,16 @@
+{
+  "id": "poem-8cd8e89a17612724a0debe17",
+  "title": "送张五𬤇归宣城",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "五湖千万里，况复五湖西。",
+    "渔浦南陵郭，人家春谷谿。",
+    "欲归江淼淼，未到草萋萋。",
+    "忆想兰陵镇，可宜猿更啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-421ddc1d-95a0-40a6-97c2-014d3d97c210"
+}

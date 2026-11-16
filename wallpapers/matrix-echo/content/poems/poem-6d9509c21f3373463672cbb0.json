@@ -1,0 +1,14 @@
+{
+  "id": "poem-6d9509c21f3373463672cbb0",
+  "title": "游长宁公主流杯池二十五首 一",
+  "author": "上官昭容",
+  "dynasty": "唐",
+  "verses": [
+    "逐仙赏，展幽情。",
+    "逾昆阆，迈蓬瀛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-788b3936-5fdc-4ee4-b414-f9ab803c95f9"
+}

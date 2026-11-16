@@ -1,0 +1,14 @@
+{
+  "id": "poem-ad1151fba84cf2901c619536",
+  "title": "成名后作",
+  "author": "卢肇",
+  "dynasty": "唐",
+  "verses": [
+    "桂在蟾宫不可攀，功成业熟也何难。",
+    "今朝折得东归去，共与乡闾年少看。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3c035017-f98d-4922-9f93-4629cd53d771"
+}

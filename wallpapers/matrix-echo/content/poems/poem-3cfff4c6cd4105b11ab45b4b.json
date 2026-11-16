@@ -1,0 +1,14 @@
+{
+  "id": "poem-3cfff4c6cd4105b11ab45b4b",
+  "title": "独坐敬亭山",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "众鸟高飞尽，孤云独去闲。",
+    "相看两不厌，只有敬亭山。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-獨坐敬亭山"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-2a5c6bc5fbc31dabb911cf81",
+  "title": "省题诗二十一首 上德不德",
+  "author": "王棨",
+  "dynasty": "唐",
+  "verses": [
+    "何从称上德，舍德德方全。",
+    "圣者如非圣，贤者不自贤。",
+    "海宁言我广，神岂谓予玄。",
+    "伐善功难立，无为化易宣。",
+    "[道]惟闻邃古，理亦愧先天。",
+    "欲述犹龙旨，应忘得意筌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-ec340e6a-bf9d-45da-b657-23bc4c773464"
+}

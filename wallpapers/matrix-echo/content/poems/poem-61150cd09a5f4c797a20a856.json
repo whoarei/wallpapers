@@ -1,0 +1,14 @@
+{
+  "id": "poem-61150cd09a5f4c797a20a856",
+  "title": "闵予小子",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "闵予小子，遭家不造，嬛嬛在疚。于乎皇考，永世克孝。",
+    "念兹皇祖，陟降庭止。维予小子，夙夜敬止。于乎皇王，继序思不忘。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-285"
+}

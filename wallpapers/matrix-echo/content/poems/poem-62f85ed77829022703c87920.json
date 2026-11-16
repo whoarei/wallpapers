@@ -1,0 +1,14 @@
+{
+  "id": "poem-62f85ed77829022703c87920",
+  "title": "陪游上苑遇雪",
+  "author": "萧至忠",
+  "dynasty": "唐",
+  "verses": [
+    "龙骖晓入望春宫，正逢春雪舞春风。",
+    "花光倂在天文上，寒气行销御酒中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a39ebbbd-8626-4de4-a582-23146a31e189"
+}

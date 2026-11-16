@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c0c",
+  "script": "seal",
+  "character": "谌",
+  "reading": "chén",
+  "description": "相信\n真诚,忠诚\n①相信。\n②确实如此；诚然。\n③姓。\n⒈诚然，的确～称一绝。\n⒉信，相信。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谌"
+}

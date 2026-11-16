@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5484",
+  "script": "kai",
+  "character": "咄",
+  "reading": "duō",
+  "description": "duō：表示呵叱～！你这光棍！那么简单”。\n〔～～〕表示惊怪，如～～怪事。”",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咄"
+}

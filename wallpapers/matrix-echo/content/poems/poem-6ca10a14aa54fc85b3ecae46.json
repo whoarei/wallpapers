@@ -1,0 +1,16 @@
+{
+  "id": "poem-6ca10a14aa54fc85b3ecae46",
+  "title": "过张氏水亭",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "到岸不多遥，晴初雪未消。",
+    "茆簷虽傍水，人影不随潮。",
+    "鹊占寒枝喜，鱼从落日跳。",
+    "丹枫莫吹尽，我欲系兰桡。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-8212c63d-79f0-4587-a498-5e8b858d3ae4"
+}

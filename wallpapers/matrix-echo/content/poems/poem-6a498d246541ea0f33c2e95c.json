@@ -1,0 +1,14 @@
+{
+  "id": "poem-6a498d246541ea0f33c2e95c",
+  "title": "别用韵",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "坐中七叟推年纪，比较前人少几多。",
+    "花似锦红头雪白，不游不饮欲如何。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8e974c06-2aca-4d6b-af45-30befd9bbcd3"
+}

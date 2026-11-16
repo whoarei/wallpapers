@@ -1,0 +1,16 @@
+{
+  "id": "poem-6d8e8758fef881237073c9b6",
+  "title": "上元书怀",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "老去春无味，年年觉病添。",
+    "酒因脾积断，灯为目阿嫌。",
+    "势位非其好，纷华已久厌。",
+    "唯余读书乐，暖日坐前簷。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-a7a905b1-fdf5-4ee4-9440-787f09b48293"
+}

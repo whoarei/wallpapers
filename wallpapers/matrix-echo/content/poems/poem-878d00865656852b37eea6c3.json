@@ -1,0 +1,16 @@
+{
+  "id": "poem-878d00865656852b37eea6c3",
+  "title": "就以道池上假山",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "数朵忽横翔，云生午树凉。",
+    "恍如江上画，移向泽中藏。",
+    "絮落鱼翻影，花飞蝶趁香。",
+    "却疑闲日月，只在此间长。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-091360f1-7698-49e1-89f9-4a0711e2b73f"
+}

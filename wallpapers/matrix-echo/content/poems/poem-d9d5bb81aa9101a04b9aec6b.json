@@ -1,0 +1,16 @@
+{
+  "id": "poem-d9d5bb81aa9101a04b9aec6b",
+  "title": "闲来",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "闲来观万物，在处可逍遥。",
+    "鱼为贪钩得，蛾因赴火焦。",
+    "碧梧饥𬸚𬸦，白粒饱鹪鹩。",
+    "带索谁家子，行歌复采樵。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-530c0d98-d63d-4330-99f4-6ce1ed9f07be"
+}

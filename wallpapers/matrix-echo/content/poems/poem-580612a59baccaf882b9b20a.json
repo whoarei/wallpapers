@@ -1,0 +1,15 @@
+{
+  "id": "poem-580612a59baccaf882b9b20a",
+  "title": "颂古三十一首  其二",
+  "author": "释安永",
+  "dynasty": "宋",
+  "verses": [
+    "不因一事，不长一智。",
+    "不曾杀生，了无忌讳。",
+    "传言送语当风流，拈得口兮失却鼻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-3344b691-bf46-40d3-983d-4dcfb5e2cda9"
+}

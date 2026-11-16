@@ -1,0 +1,19 @@
+{
+  "id": "poem-b8616fa26fffa5591ec36952",
+  "title": "赠别二首 二",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "多情却似总无情，唯觉尊前笑不成。",
+    "蜡烛有心还惜别，替人垂泪到天明。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "离别",
+    "七言绝句",
+    "惜别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a7f425de-143b-493d-bb51-13e27c68e871"
+}

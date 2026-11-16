@@ -1,0 +1,16 @@
+{
+  "id": "poem-200135ceab7244bf8417c5c8",
+  "title": "咏乌代陈师道",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "凌晨丽城去，薄暮上林栖。",
+    "辞枝枝暂起，停树树还低。",
+    "向日终难托，迎风讵肯迷。",
+    "只待纤纤手，曲里作宵啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-2b4fdd33-abbc-4c1b-a33e-4e786e544865"
+}

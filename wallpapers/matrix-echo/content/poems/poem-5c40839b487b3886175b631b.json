@@ -1,0 +1,19 @@
+{
+  "id": "poem-5c40839b487b3886175b631b",
+  "title": "荷叶铺水面·春光艳冶",
+  "author": "康与之",
+  "dynasty": "宋",
+  "verses": [
+    "春光艳冶，游人踏绿苔。",
+    "千红万紫竞香开。",
+    "暖风拂鼻籁，蓦地暗香透满怀。",
+    "荼縻似锦裁。",
+    "娇红间绿白，只怕迅速春回。",
+    "误落在尘埃。",
+    "折向鬓云间、金凤钗。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-325",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ff3",
+  "script": "seal",
+  "character": "俳",
+  "reading": "pái",
+  "description": "pái：(1)古代指杂戏、滑稽戏优～。\n(2)演杂戏的艺人～优。～倡。\n(3)诙谐，玩笑，滑稽，幽默～文。～谐。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-俳"
+}

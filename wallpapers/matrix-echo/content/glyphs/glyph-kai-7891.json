@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7891",
+  "script": "kai",
+  "character": "碑",
+  "reading": "bēi",
+  "description": "bēi：刻上文字纪念事业、功勋或作为标记的石头石～。丰～。墓～。口～。～文。～碣。～刻（刻在碑上的文字或图画）。～拓（tà）。～帖。～林。里程～（ａ．设于道路旁边用以记载里数的标志；ｂ．喻在历史发展进程中可以作为象征或标志的大事）。有口皆～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-碑"
+}

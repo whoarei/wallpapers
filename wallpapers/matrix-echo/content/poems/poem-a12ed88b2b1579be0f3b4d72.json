@@ -1,0 +1,16 @@
+{
+  "id": "poem-a12ed88b2b1579be0f3b4d72",
+  "title": "题李山人幽居",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "襄阳南郭外，茅屋一书生。",
+    "无事焚香坐，有时寻竹行。",
+    "画苔藤杖细，踏石笋鞋轻。",
+    "应笑风尘客，区区逐世名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-b96f1531-8af5-4481-8e9a-669721f8d5a7"
+}

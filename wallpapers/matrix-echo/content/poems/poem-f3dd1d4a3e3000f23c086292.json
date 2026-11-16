@@ -1,0 +1,15 @@
+{
+  "id": "poem-f3dd1d4a3e3000f23c086292",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "糠和米，本是两倚依，谁人簸扬你作两处飞？一贱与一贵，好似奴家共夫婿，终无见期。",
+    "丈夫，你便是米么，米在他方没寻处。",
+    "奴便是糠么，怎的把糠救得人饥馁？好似儿夫出去，怎的教奴，供给得公婆甘旨？(不吃放碗介)(唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5074",
+  "tags": []
+}

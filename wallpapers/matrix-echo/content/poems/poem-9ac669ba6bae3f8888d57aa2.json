@@ -1,0 +1,22 @@
+{
+  "id": "poem-9ac669ba6bae3f8888d57aa2",
+  "title": "同颜使君真卿李侍御萼游法华寺登凤翅山望太湖",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "双峰开凤翅，秀出南湖州。",
+    "地势抱郊树，山威增郡楼。",
+    "正逢周柱史，来会鲁诸侯。",
+    "缓步凌彩蒨，清铙发飕飗。",
+    "披云得灵境，拂石临芳洲。",
+    "积翠遥空碧，含风广泽秋。",
+    "萧辰资丽思，高论惊精修。",
+    "何似钟山集，[征]文及惠休。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "太湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-144e8b40-7119-4952-9e37-fde527ad7fb1"
+}

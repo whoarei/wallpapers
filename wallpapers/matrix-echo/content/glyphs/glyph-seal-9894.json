@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9894",
+  "script": "seal",
+  "character": "颔",
+  "reading": "hàn",
+  "description": "位于颈的前上方,相当于颏部的下方,结喉的上方\n⒈下巴底下满～白髭魀。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-颔"
+}

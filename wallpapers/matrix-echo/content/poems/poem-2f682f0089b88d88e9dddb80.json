@@ -1,0 +1,14 @@
+{
+  "id": "poem-2f682f0089b88d88e9dddb80",
+  "title": "游仙词三十三首  其二○",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "偶巡三岛过瀛洲，闲把新绛系海虬。",
+    "忽报词臣当直日，灵风吹到五云楼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-4033a8b9-74d9-4bd8-8588-81b79420671a"
+}

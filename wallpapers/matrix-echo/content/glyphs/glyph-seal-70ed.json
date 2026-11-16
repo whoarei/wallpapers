@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-70ed",
+  "script": "seal",
+  "character": "热",
+  "reading": "rè",
+  "description": "满腔热情;热心肠\n有权势的,权势显赫的\n⒈物理学上指凡能使物体温度升高的那种\"能\"叫\"热\"。\n⒉温度高，跟\"冷\"相对～天。～菜。\n⒊使温度升高将饭～一～。\n⒋盛，旺～闹。～货。～门。\n⒌情绪高，情意深～烈。～心。～忱。～爱。\n⒍羡慕眼～。\n①急切地想得到，多含贬义～中名利。\n②酷爱～中下围棋。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-热"
+}

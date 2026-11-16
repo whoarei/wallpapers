@@ -1,0 +1,16 @@
+{
+  "id": "poem-984b8e4264023584e9efdf64",
+  "title": "寻纪道士偶会诸叟",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "山阴寻道士，暎竹羽衣新。",
+    "侍坐双童子，陪游五老人。",
+    "水花松下静，坛草雪中春。",
+    "见说桃源洞，如今犹避秦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-aa3d4999-dde9-40af-958d-0a79eb4d2171"
+}

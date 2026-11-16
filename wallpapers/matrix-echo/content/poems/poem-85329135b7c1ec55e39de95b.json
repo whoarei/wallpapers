@@ -1,0 +1,16 @@
+{
+  "id": "poem-85329135b7c1ec55e39de95b",
+  "title": "江行无题一百首 九十四",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "愿饮西江水，那吟北渚愁。",
+    "莫教留滞迹，远比蔡昭侯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-005f6c5a-a14c-4396-a092-bf8d0bcf478b"
+}

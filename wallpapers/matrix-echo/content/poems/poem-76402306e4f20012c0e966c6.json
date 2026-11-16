@@ -1,0 +1,14 @@
+{
+  "id": "poem-76402306e4f20012c0e966c6",
+  "title": "叙事献同州侍御三首 一",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "青云席中罗袜尘，白首江上吟诗人。",
+    "登龙不及三千士，虚度膺门二十春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-96ce99c3-5898-4e39-9a70-07345817dd88"
+}

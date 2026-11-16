@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-901a",
+  "script": "kai",
+  "character": "通",
+  "reading": "tōng",
+  "description": "tōng：(1)设有阻碍，可以穿过，能够达到～风。～天。～气。～宵。～行。～过。～衢。贯～。四～八达。曲径～幽。\n(2)懂得，彻底明了～晓。～彻。～今博古。～情达理。\n(3)传达～令。～讯。～报。～告。～知。～缉。～谍。\n(4)往来交接～敌。～商。～邮。～融。～假（jiǎ）（汉字的通用和假借）。串～。沟～。\n(5)普遍、全～才（指知识广博，具有多种才能的人）。～论。～体。～身。～读。～常。～病。～盘。普～。\n(6)男女不正当的性行为～奸。私～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-通"
+}

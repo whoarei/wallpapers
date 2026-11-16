@@ -1,0 +1,16 @@
+{
+  "id": "poem-0fdc95d57e5299b964b94e3c",
+  "title": "蓟北春怀",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "渺渺水云外，别来音信稀。",
+    "因逢过江使，却寄在家衣。",
+    "问路更愁远，逢人空说归。",
+    "今朝蓟城北，又见塞鸿飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-737fcd5c-9ed6-4009-acc6-c279c05d3b55"
+}

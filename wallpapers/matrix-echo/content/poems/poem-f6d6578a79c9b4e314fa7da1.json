@@ -1,0 +1,16 @@
+{
+  "id": "poem-f6d6578a79c9b4e314fa7da1",
+  "title": "巴江夜猨",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "日饮巴江水，还啼巴岸边。",
+    "秋声巫峡断，夜影楚云连。",
+    "露滴青枫树，山空明月天。",
+    "谁知泊船者，听此不能眠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-ad24d16d-abc1-4cf1-be80-0cea602bd5df"
+}

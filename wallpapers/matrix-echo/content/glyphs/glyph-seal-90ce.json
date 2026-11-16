@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-90ce",
+  "script": "seal",
+  "character": "郎",
+  "reading": "láng；làng",
+  "description": "láng：(1)对年轻男子的称呼大～。～才女貌。\n(2)对某种人的称呼货～。女～。\n(3)旧时妻称夫或情人～君。\n(4)封建时代的官名～中（ａ．古官名；ｂ．中医医生）。侍～。员外～。\n(5)姓。\nlàng：〔屎壳～〕蜣螂”的俗称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-郎"
+}

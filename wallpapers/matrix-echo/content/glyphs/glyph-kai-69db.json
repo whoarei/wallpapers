@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-69db",
+  "script": "kai",
+  "character": "槛",
+  "reading": "kǎn；jian",
+  "description": "槛车;囚车\n⒉栏杆，栏板。\n⒊见kǎn。\n⒉见jiàn。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-槛"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-2f30fd48919e22f64c5f8563",
+  "title": "郊庙歌辞 中宗祀昊天乐章 豫和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "天之历数归睿唐，顾惟菲德钦昊苍。",
+    "撰吉日兮表殷荐，冀神鉴兮降闿阳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ba51429a-7ee2-44d2-a01f-61013d90419b"
+}

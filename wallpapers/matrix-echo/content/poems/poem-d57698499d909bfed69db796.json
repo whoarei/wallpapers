@@ -1,0 +1,16 @@
+{
+  "id": "poem-d57698499d909bfed69db796",
+  "title": "送陈嘏登第作尉归觐",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "千峰归去旧林塘，溪县门前即故乡。",
+    "曾把桂夸春里巷，重怜身称锦衣裳。",
+    "洲迷翠羽云遮槛，露湿红蕉月满廊。",
+    "就养举朝人共羡，清资让却校书郎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-bddcc5c2-70c6-4669-9a1e-abe08ba0489e"
+}

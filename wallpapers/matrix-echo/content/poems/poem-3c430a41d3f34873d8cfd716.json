@@ -1,0 +1,18 @@
+{
+  "id": "poem-3c430a41d3f34873d8cfd716",
+  "title": "诗品二十四则 洗炼",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "犹鑛出金，如铅出银。",
+    "超心炼冶，绝爱[缁]磷。",
+    "空潭泻春，古镜照神。",
+    "体素储洁，乘月返真。",
+    "载瞻星辰，载歌幽人。",
+    "流水今日，明月前身。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ef2f3ad2-6df1-4519-ab0e-ae19a456cb6b"
+}

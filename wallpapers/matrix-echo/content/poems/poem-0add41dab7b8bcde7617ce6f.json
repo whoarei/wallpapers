@@ -1,0 +1,20 @@
+{
+  "id": "poem-0add41dab7b8bcde7617ce6f",
+  "title": "雨中花・夜行船·寄径濉阳",
+  "author": "葛立方",
+  "dynasty": "宋",
+  "verses": [
+    "寄径濉阳，陌上忽看，夭桃秾李争春。",
+    "又见楚宫，行雨洗芳尘。",
+    "红艳霞光夕照，素华琼树朝新。",
+    "为奇姿芳润，拟倩游丝，留住东君。",
+    "拾遗杜老，犹爱南塘，寄情萝薜山林。",
+    "争似此、花如姝丽，獭髓轻匀。",
+    "不数江陵玉杖，休夸花岛红云。",
+    "少须澄霁，一番清影，更待冰轮。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-540",
+  "tags": []
+}

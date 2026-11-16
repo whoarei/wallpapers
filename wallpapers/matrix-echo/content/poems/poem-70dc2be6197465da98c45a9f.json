@@ -1,0 +1,16 @@
+{
+  "id": "poem-70dc2be6197465da98c45a9f",
+  "title": "遣兴五首 二",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "地用莫如马，无良复谁记。",
+    "此日千里鸣，追风可君意。",
+    "君看渥洼种，态与驽骀异。",
+    "不杂蹄啮间，逍遥有能事。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-5768d12d-f4b9-4cbe-b7ae-051ed33d6331"
+}

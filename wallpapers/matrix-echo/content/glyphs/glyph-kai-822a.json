@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-822a",
+  "script": "kai",
+  "character": "航",
+  "reading": "háng",
+  "description": "háng：(1)船。\n(2)行船或飞行～海。～空。～天。～行（xíng）。～班。民～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-航"
+}

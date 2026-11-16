@@ -1,0 +1,16 @@
+{
+  "id": "poem-22c23e1b0721274cf73afcea",
+  "title": "秋日雨中与萧赞善访殷舍人于翰林座中作",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "野出西垣步步迟，秋光如水雨如丝。",
+    "铜龙楼下逢闲客，红药阶前访旧知。",
+    "乱点乍滋承露处，碎声因想滴蓬时。",
+    "银台钥入须归去，不惜余欢尽酒巵。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-b56cc7dd-4379-485e-89a5-c0e7fbe1c677"
+}

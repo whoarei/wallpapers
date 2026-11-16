@@ -1,0 +1,14 @@
+{
+  "id": "poem-7c5fb190d05f58aa4a147240",
+  "title": "次韵成季尚书宁川即事五首 山寺寓居",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "宣室思前席，承明虚直庐。",
+    "不肯入州府，分其终隐欤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-e4276716-57e9-4d15-9929-4ff1dc675f03"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2f7489e35044bb0ea9817224",
+  "title": "宿茅山寄舍弟",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "茅许禀灵气，一家同上宾。",
+    "仙山空有庙，举世更无人。",
+    "独往诚违俗，浮名亦累真。",
+    "当年各自勉，云洞镇长春。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-4d5d84c3-3521-433a-ade8-4b13da146199"
+}

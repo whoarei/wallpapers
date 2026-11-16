@@ -1,0 +1,19 @@
+{
+  "id": "poem-d8e3fac8ca832f4fa7d30eb3",
+  "title": "春日登大悲阁二首（一字至七字） 一",
+  "author": "钱惟治",
+  "dynasty": "唐",
+  "verses": [
+    "阁，阁。",
+    "雕镂，彩错。",
+    "簇明霞，攅丽萼。",
+    "玉女窥牖，飞仙捧铎。",
+    "沉烟燠宝香，媚水涵珠箔。",
+    "千山蓊郁晴霁，万井喧填晓郭。",
+    "登临徙倚傍琼栏，满目春光煦寥廓。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-b6d9d152-f9d5-4c45-8134-22af151d4a77"
+}

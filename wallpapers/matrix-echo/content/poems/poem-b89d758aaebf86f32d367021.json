@@ -1,0 +1,15 @@
+{
+  "id": "poem-b89d758aaebf86f32d367021",
+  "title": "甘州子·每逢清夜与良晨",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "每逢清夜与良晨，多怅望，足伤神。",
+    "云迷水隔意中人，寂寞绣罗茵。",
+    "山枕上，几点泪痕新。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-42"
+}

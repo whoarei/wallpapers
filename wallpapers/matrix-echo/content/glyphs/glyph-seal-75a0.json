@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75a0",
+  "script": "seal",
+  "character": "疠",
+  "reading": "lì",
+  "description": "恶疮;麻风\n疫病 ［pestilence］\n⒈瘟疫～疾。\n⒉恶疮疥～。\n⒊〈古〉同\"癩\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疠"
+}

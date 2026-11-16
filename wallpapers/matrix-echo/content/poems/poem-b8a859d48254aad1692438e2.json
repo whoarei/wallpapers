@@ -1,0 +1,16 @@
+{
+  "id": "poem-b8a859d48254aad1692438e2",
+  "title": "吴江长桥",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "路隔银潢鸟倦飞，行人恐犯女星机。",
+    "长虹出浪无冬夏，老蜃浮空半是非。",
+    "两岸履声云内合，三州帆影月边归。",
+    "栏干独立秋风早，岂待鲈鱼始拂衣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-759b6f6c-c8d7-4113-a7ea-b869800d24c4"
+}

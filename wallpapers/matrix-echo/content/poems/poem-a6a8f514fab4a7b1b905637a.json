@@ -1,0 +1,16 @@
+{
+  "id": "poem-a6a8f514fab4a7b1b905637a",
+  "title": "送湖南提刑安学士  其二",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "节遇中秋挟日余，哲人来契梦熊时。",
+    "神澄晓露珠凝彩，气爽秋风桂有枝。",
+    "歌袴始喧清赣曲，使星还照碧湘西。",
+    "太平天子方求旧，但指松椿祝寿祺。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-b11f1d30-88ba-4bfc-a585-35ccc7d8db8f"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-17398440852343bf3399e09d",
+  "title": "使辽作十四首  其九",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "一作重山去，频看破镜飞。",
+    "长悲青冢怨，莫忘白登围。",
+    "礼觉周旋异，心知笑语非。",
+    "南飞何处鸟，安得与俱归。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-2cbb922e-e114-4f2a-955a-277b8b7adef7"
+}

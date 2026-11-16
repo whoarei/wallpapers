@@ -1,0 +1,16 @@
+{
+  "id": "poem-6f09bddddb3cbd18929c6b30",
+  "title": "送洁老归碧云新居",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "小小如巢便称怀，隣无百万买洪崖。",
+    "炊云子熟呼仙饷，借雪精游与俗乖。",
+    "禅谬分灯传口耳，耕宁合耦外形骸。",
+    "田中大义休提掇，定与诸方打不谐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-1f8b5814-a27e-4f84-a0aa-53483dd2a493"
+}

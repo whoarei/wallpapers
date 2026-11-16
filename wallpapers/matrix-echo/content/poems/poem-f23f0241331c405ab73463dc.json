@@ -1,0 +1,15 @@
+{
+  "id": "poem-f23f0241331c405ab73463dc",
+  "title": "江头送别",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "杀一狗，杀一狗，生魂那里？思量起，思量起，泪珠暗垂。",
+    "当初养你防家计，谁知道今日有灾危！(杀介。",
+    "旦、贴上)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1885",
+  "tags": []
+}

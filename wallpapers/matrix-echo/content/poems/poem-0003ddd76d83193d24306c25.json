@@ -1,0 +1,16 @@
+{
+  "id": "poem-0003ddd76d83193d24306c25",
+  "title": "胡笳曲",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "汉将留边朔，遥遥岁序深。",
+    "谁堪牧马思，正是胡笳吟。",
+    "曲断关山月，声悲雨雪阴。",
+    "传书问苏武，陵也独何心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-fdda7097-88e0-4e31-8cd1-3a08d472d029"
+}

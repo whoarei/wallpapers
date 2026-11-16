@@ -1,0 +1,14 @@
+{
+  "id": "poem-3cbddd509ba7ad02d1c7e025",
+  "title": "下池  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "老子随行苜蓿盘，不曾无客自开单。",
+    "更将余粒投清浅，聊为游鱼小倚阑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-f8a5a4ae-e4aa-4b7e-8e3d-1c31afab6f88"
+}

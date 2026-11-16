@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6d17",
+  "script": "kai",
+  "character": "洗",
+  "reading": "xǐ；xiǎn",
+  "description": "xǐ：(1)用水去掉污垢～脸。～涮。～涤。～澡。～心革面（喻彻底悔改）。\n(2)清除干净清～。\n(3)像水洗一样抢光，杀光～劫。\n(4)昭雪冤枉～雪。～冤。\n(5)照相的显影定影冲～。～印。\n(6)玩牌时把牌搀和整理～牌。\n(7)基督教接受个人入教时的仪式受～。～礼。\n(8)盛水洗笔的器皿笔～。\n(9)把磁带上的录音或录像去掉。\nxiǎn：同冼”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-洗"
+}

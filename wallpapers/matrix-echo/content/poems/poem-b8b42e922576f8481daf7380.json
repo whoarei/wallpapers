@@ -1,0 +1,14 @@
+{
+  "id": "poem-b8b42e922576f8481daf7380",
+  "title": "樵谷",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "谷口云横草不生，弗容斤斧弗容耕。",
+    "呼童尽拾风前叶，自去提撕折脚铛。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-382c9b4e-61dc-4691-bd78-3fffd4ffec6d"
+}

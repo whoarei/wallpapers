@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e95",
+  "script": "kai",
+  "character": "井",
+  "reading": "jǐng",
+  "description": "jǐng：(1)人工挖成的能取出水的深洞。水～。临渴掘～。\n(2)形状像井的天～。油～。\n(3)整齐，有秩序～然。～～有条。\n(4)星名，二十八宿之一。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-井"
+}

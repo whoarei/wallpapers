@@ -1,0 +1,15 @@
+{
+  "id": "poem-ab6df0f6a67c4a2e1db5a47a",
+  "title": "普贤歌",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "身充里正实难当。",
+    "杂泛应承日夜忙。",
+    "官司点义仓，并无些子粮，拚一个拖番吃大棒。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5036",
+  "tags": []
+}

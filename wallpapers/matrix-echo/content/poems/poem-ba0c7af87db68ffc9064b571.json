@@ -1,0 +1,16 @@
+{
+  "id": "poem-ba0c7af87db68ffc9064b571",
+  "title": "牡丹  其二",
+  "author": "李山甫",
+  "dynasty": "宋",
+  "verses": [
+    "嫚黄妖紫间轻红，谷雨初晴早景中。",
+    "静女不言还爱日，彩云无定只随风。",
+    "炉烟坐觉沈檀薄，妆面行看晓黛空。",
+    "此别又须经岁月，酒阑把烛绕芳丛。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-b32cb9d6-9a32-4412-9431-49655c2361f7"
+}

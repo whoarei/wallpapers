@@ -1,0 +1,19 @@
+{
+  "id": "poem-cbc912bb496bcb12bcb5a4d8",
+  "title": "霜天晓角·霜清水碧",
+  "author": "高观国",
+  "dynasty": "宋",
+  "verses": [
+    "霜清水碧。",
+    "冷浸红云湿。",
+    "休说季伦锦帐，山南岸、更花密。",
+    "露滴。",
+    "空翠幂。",
+    "两峰开霁色。",
+    "不为浓妆一醉，西风帽、为谁侧。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-390",
+  "tags": []
+}

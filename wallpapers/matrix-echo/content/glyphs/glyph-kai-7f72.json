@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7f72",
+  "script": "kai",
+  "character": "署",
+  "reading": "shǔ",
+  "description": "shǔ：(1)办理公务的机关专～。公～。官～。\n(2)布置部～。\n(3)签名，题字签～。～名。～字。\n(4)暂代～理。兼～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-署"
+}

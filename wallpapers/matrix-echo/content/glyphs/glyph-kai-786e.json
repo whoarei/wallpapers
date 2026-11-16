@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-786e",
+  "script": "kai",
+  "character": "确",
+  "reading": "què",
+  "description": "坚定;坚决\n真实;符合事实\n通搉”。敲击\n乐亦不复\n⒋埆què\n⒈真实，实在～实。千真完～。～有其事。\n⒉肯定，坚定～认。～保不误。\n⒊土地瘠薄。\n⒋地不平。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-确"
+}

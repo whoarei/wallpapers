@@ -1,0 +1,16 @@
+{
+  "id": "poem-63857a3b91368bab6210acd8",
+  "title": "青海望敦煌之作",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "西北指流沙，东南路转遐。",
+    "独晴留海畔，归望阻天涯。",
+    "九夏呈芳草，三时有雪花。",
+    "未能刷（原作「{帀刂}」）羽去，空此羡城鵶。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d5b6f006-5259-4f22-a2f5-42580244ddb0"
+}

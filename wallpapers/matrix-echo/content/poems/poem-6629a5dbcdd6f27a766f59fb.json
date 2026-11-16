@@ -1,0 +1,14 @@
+{
+  "id": "poem-6629a5dbcdd6f27a766f59fb",
+  "title": "罢相作",
+  "author": "李适之",
+  "dynasty": "唐",
+  "verses": [
+    "避贤初罢相，乐圣且衔杯。",
+    "为问门前客，今朝几个来。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-罷相作"
+}

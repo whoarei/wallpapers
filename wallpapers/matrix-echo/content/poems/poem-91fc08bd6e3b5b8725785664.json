@@ -1,0 +1,18 @@
+{
+  "id": "poem-91fc08bd6e3b5b8725785664",
+  "title": "梁台古愁",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "梁王台沼空中立，天河之水夜飞入。",
+    "台前鬬玉作蛟龙，绿粉扫天愁露湿。",
+    "撞钟饮酒行射天，金虎蹙裘喷血斑。",
+    "朝朝暮暮愁海翻，长绳系日乐当年。",
+    "芙蓉凝红得秋色，兰脸别春啼脉脉。",
+    "芦洲客雁报春来，寥落野篁秋漫白。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ff19d74e-bc9a-48e9-9f9b-ab9722df50a9"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-90c910ec578860a5bf7e4823",
+  "title": "送察院李侍御使庐陵因寄孟员外",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "绣衣乘驿急如星，山水何妨寄野情。",
+    "肯向九仙台下歇，闲听孟叟醉吟声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-e92189cc-d4c9-4e4d-ac90-99b3dd731b29"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-01b04ea0470d157c7c08b79e",
+  "title": "登衡山宿上封寺祝融峰",
+  "author": "柴元彪",
+  "dynasty": "宋",
+  "verses": [
+    "历井扪参上祝融，半空烟霭数声钟。",
+    "地连云汉九千丈，天柱东南七十重。",
+    "石磴悬崖翻瀑布，海门碾日上高峰。",
+    "翛然身世青冥表，俯立雷池看玉龙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-b5d14e88-2951-4fc0-8923-da516ee57e9f"
+}

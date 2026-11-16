@@ -1,0 +1,14 @@
+{
+  "id": "poem-9269bb7f7986318cae485f4d",
+  "title": "咏史诗 荆山",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "抱玉岩前桂叶稠，碧谿寒水至今流。",
+    "空山落日猨声呌，疑是荆人哭未休。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-7dd73032-2ef8-48c8-93e8-8b3326a017cc"
+}

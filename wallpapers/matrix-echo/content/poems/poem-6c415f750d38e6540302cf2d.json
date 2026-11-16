@@ -1,0 +1,22 @@
+{
+  "id": "poem-6c415f750d38e6540302cf2d",
+  "title": "赠别孟郊",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "历历天上星，沉沉水中萍。",
+    "幸当清秋夜，流影及微形。",
+    "君生衰俗间，立身如礼经。",
+    "纯诚发新文，独有金石声。",
+    "才名振京国，归省东南行。",
+    "停车楚城下，顾我不念程。",
+    "宝镜曾坠水，不磨岂自明。",
+    "苦节居贫贱，所知赖友生。",
+    "欢会方别离，戚戚忧虑幷。",
+    "安得在一方，终老无送迎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a888e890-ca60-47f3-a750-3df66492fb8c"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ab558b864977848f7f3a46e4",
+  "title": "郊庙歌辞 享太庙乐章 长发舞",
+  "author": "魏征、褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "睿哲维唐，长发其祥。",
+    "帝命斯祐，王业克昌。",
+    "配天载德，就日重光。",
+    "本支百代，申锡无疆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-62ac1952-e0f1-4935-8e06-9d8f9f72bb6f"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5238eb776d1f36831d43ce3b",
+  "title": "寄江州萧给事",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "夕郎忧国不忧身，今向天涯作逐臣。",
+    "魂梦暗驰龙阙曙，啸吟闲绕虎谿春。",
+    "朝车载酒过山寺，谏纸题诗寄野人。",
+    "惆怅懦夫何足道，自离群后已同尘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-b766d7a8-383e-4b18-b46c-d2e3c49eb8c2"
+}

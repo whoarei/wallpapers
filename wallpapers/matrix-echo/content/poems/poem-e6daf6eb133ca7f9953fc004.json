@@ -1,0 +1,14 @@
+{
+  "id": "poem-e6daf6eb133ca7f9953fc004",
+  "title": "别于鹄",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "离灯及晨辉，行人起复思。",
+    "出门两相顾，青山路逶迤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-9c703f78-d424-4982-b5d0-fcc5c5b219f5"
+}

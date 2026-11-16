@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5468",
+  "script": "kai",
+  "character": "周",
+  "reading": "zhōu",
+  "description": "zhōu：(1)圈子，环绕～围。～天。～转（zhuǎn）。～匝（a.环绕；b.周到）。\n(2)普遍、全面～身。～延。～全。～游。\n(3)时期的一轮，亦特指一个星期～岁。～年。～期。～星（十二年）。上～。\n(4)完备～到。～密。～详。～正（端正）。～折（事情进行不顺利）。\n(5)给，接济～济。\n(6)中国朝代名西～。东～。北～◇～。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-周"
+}

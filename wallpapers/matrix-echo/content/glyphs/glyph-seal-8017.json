@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8017",
+  "script": "seal",
+  "character": "耗",
+  "reading": "hào",
+  "description": "hào：(1)减损，消费～损。～费。～资。消～。\n(2)拖延～时间。\n(3)音信，消息噩～（人死的消息）。凶～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-耗"
+}

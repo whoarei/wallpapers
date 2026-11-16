@@ -1,0 +1,15 @@
+{
+  "id": "poem-413753586385a827a153ca9a",
+  "title": "望吾乡",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(众)仰圣瞻天恩，光照绮筵。",
+    "花枝掩映春风面，女貌郎才真堪羡。",
+    "天遣为姻眷，双飞鸟，并蒂莲，今朝得遂平生愿。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3121",
+  "tags": []
+}

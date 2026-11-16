@@ -1,0 +1,16 @@
+{
+  "id": "poem-353185feff2c9336ae190271",
+  "title": "山居八咏 八",
+  "author": "常达",
+  "dynasty": "唐",
+  "verses": [
+    "祖祖唯心旨，春融日正长。",
+    "霜轻莎草绿，风细药苗香。",
+    "月满真如净，花开觉树芳。",
+    "庭前莺啭处，时听语圆常。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-cf25e8c0-10fb-4379-b9ed-6e91f43267c2"
+}

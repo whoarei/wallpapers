@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d59",
+  "script": "seal",
+  "character": "赙",
+  "reading": "fù",
+  "description": "拿钱财帮助别人办理丧事\n赙 fù送财物帮助人办丧事。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赙"
+}

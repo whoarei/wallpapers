@@ -1,0 +1,14 @@
+{
+  "id": "poem-9445720aab389e6461946b37",
+  "title": "初秋寓直三首 三",
+  "author": "郑畋",
+  "dynasty": "唐",
+  "verses": [
+    "幽阁焚香万虑凝，下帘胎息过禅僧。",
+    "玉堂分照无人后，消尽金盆一碗冰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-d5311784-d491-40ae-bea2-0888c5dcf2d4"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8089",
+  "script": "kai",
+  "character": "肉",
+  "reading": "ròu",
+  "description": "ròu：(1)人或动物体内红色、柔软的组织～体。～类。～食。肌～。～票（被盗匪掳去的人，盗匪借以向他的家属勒索钱财）。～身（佛教指肉体）。\n(2)果实中可以吃的部分桂圆～。冬瓜～厚。\n(3)果实不脆，不酥～瓤西瓜。\n(4)行动迟缓，性子慢做事真～。\n(5)古代称圆形物中有孔的边。\n(6)极亲密疼爱之称，多用呼子女。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肉"
+}

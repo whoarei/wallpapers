@@ -1,0 +1,14 @@
+{
+  "id": "poem-9af7dc58f636883b8f80bbce",
+  "title": "上元日二首 一",
+  "author": "文宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "上元高会集群仙，心斋何事欲祈年。",
+    "丹诚傥彻玉帝座，且共吾人庆大田。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6edbac82-339f-45d9-908d-89dd67f941e5"
+}

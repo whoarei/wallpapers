@@ -1,0 +1,14 @@
+{
+  "id": "poem-3cd22ee3c524b13004f1f16a",
+  "title": "春草",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "不独满池塘，梦中佳句香。",
+    "春风有余力，引上古城墙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c76a81f0-8853-4e1e-b053-bcce57a84681"
+}

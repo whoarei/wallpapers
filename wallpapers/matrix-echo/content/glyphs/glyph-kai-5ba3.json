@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5ba3",
+  "script": "kai",
+  "character": "宣",
+  "reading": "xuān",
+  "description": "xuān：(1)公开说出，散布～讲。～传。～战。～称。～言。～叙调。心照不～。\n(2)疏导～泄。\n(3)古代帝王的大室。\n(4)皇帝命令或传达皇帝的命令～付。～召（皇帝召见）。～诏（传旨）。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宣"
+}

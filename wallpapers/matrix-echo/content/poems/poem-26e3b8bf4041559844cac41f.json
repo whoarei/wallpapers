@@ -1,0 +1,14 @@
+{
+  "id": "poem-26e3b8bf4041559844cac41f",
+  "title": "月夜怀刘秀才",
+  "author": "栖白",
+  "dynasty": "唐",
+  "verses": [
+    "独夜相思但自劳，阮生吟罢梦云涛。",
+    "此时小定未禅寂，古塔月中松磐高。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-da259365-e96a-44e9-a3eb-894785a24947"
+}

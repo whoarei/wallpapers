@@ -1,0 +1,14 @@
+{
+  "id": "poem-69078e3ab632ec26475b892e",
+  "title": "挂真儿",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［老旦上］天付姻缘事谐矣，夫和妇如鱼似水。",
+    "［生上］贫处蜗居，羞婚燕尔，惟恐旁人谈耻。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8115",
+  "tags": []
+}

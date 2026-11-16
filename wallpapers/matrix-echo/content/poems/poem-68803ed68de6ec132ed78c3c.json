@@ -1,0 +1,14 @@
+{
+  "id": "poem-68803ed68de6ec132ed78c3c",
+  "title": "吴氏新城宅",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "溪声西去疾于雷，山麓云根翠户开。",
+    "枉却幽寻三十载，壶天月窟欠曾来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-02493dcc-294b-4eb3-8cc7-8250c095b86c"
+}

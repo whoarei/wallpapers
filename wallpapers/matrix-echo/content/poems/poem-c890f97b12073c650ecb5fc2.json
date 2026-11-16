@@ -1,0 +1,16 @@
+{
+  "id": "poem-c890f97b12073c650ecb5fc2",
+  "title": "和陈承事喜雨应祈见贺",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "空阶昨夜响淋漓，正是东皋渴雨时。",
+    "蝼蚁未应能有感，乾坤自是本无私。",
+    "已知协气通三壤，想见嘉禾秀两岐。",
+    "更待秋冬高廪后，与君同赋誉尧诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-f2ccf839-11ac-4030-99c9-1e13ed923eef"
+}

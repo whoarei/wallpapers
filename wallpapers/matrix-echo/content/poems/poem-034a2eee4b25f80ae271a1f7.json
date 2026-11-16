@@ -1,0 +1,15 @@
+{
+  "id": "poem-034a2eee4b25f80ae271a1f7",
+  "title": "京山行",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "众䖟聚病马，流血不得行。",
+    "后路起夜色，前山闻虎声。",
+    "此时游子心，百尺风中旌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c956cd69-5f68-45a2-bf67-ac8ff591f77c"
+}

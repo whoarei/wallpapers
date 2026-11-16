@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f15",
+  "script": "seal",
+  "character": "引",
+  "reading": "yǐn",
+  "description": "yǐn：(1)拉，伸～力。～颈。～而不发。～吭高歌。\n(2)领，招来～见。～子。～言。～导。～荐。抛砖～玉。\n(3)拿来做证据、凭据或理由～文。～用。援～。\n(4)退却～退。～避。\n(5)旧时长度单位，一引等于十丈。\n(6)古代柩车的绳索发～（出殡）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-引"
+}

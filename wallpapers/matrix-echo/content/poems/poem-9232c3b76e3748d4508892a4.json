@@ -1,0 +1,17 @@
+{
+  "id": "poem-9232c3b76e3748d4508892a4",
+  "title": "河传·江畔",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "江畔，相唤。",
+    "晓妆鲜，仙景个女采莲。",
+    "请君莫向那岸边，少年，好花新满船。",
+    "红袖摇曳逐风暖，垂玉腕，肠向柳丝断。",
+    "浦南归，浦北归，莫知，晚来人已稀。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-8",
+  "tags": []
+}

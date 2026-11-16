@@ -1,0 +1,16 @@
+{
+  "id": "poem-54d056c9a3dfbaa6aaf2dff4",
+  "title": "渔父",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "谋生与俗违，一叶浪中蜚。",
+    "水易分团月，云难隠少微。",
+    "雁沙眠晚照，鸥渚櫂晴霏。",
+    "见说蓬莱浅，寻津问钓矶。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-a0694a3e-9573-433a-b78f-d0cd81051259"
+}

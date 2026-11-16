@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9a8c",
+  "script": "seal",
+  "character": "验",
+  "reading": "yàn",
+  "description": "证据;凭证\n效验,灵验\n征象;征兆\n检查;检验\n⒈检查，察看～血。～光。～收。～证。\n⒉效果效～。应～。\n⒊〈古〉证据，凭证何以为～？",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-验"
+}

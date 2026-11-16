@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6e98",
+  "script": "seal",
+  "character": "溘",
+  "reading": "kè",
+  "description": "kè：忽然；突然～逝。～谢（溘逝）。～至（忽然而至）。\n〔～～〕ａ．水声，如飞下双鸳鸯，塘水声～～”；ｂ．寒冷的样子，如沙堤十里寒～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-溘"
+}

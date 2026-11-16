@@ -1,0 +1,14 @@
+{
+  "id": "poem-a31f862ba446b69663072868",
+  "title": "前腔",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)从来结义深，他还沦旨我怎生禁？休误人言难信。",
+    "夫妻有话且三分，未可全抛一片心。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1908",
+  "tags": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "poem-66d4d597559c3cef4d6434e3",
+  "title": "碧牡丹·步帐摇红绮",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "步帐摇红绮。",
+    "晓月堕，沈烟砌。",
+    "缓板香檀，唱彻伊家新制。",
+    "怨入眉头，敛黛峰横翠。",
+    "芭蕉寒，雨声碎。",
+    "镜华翳。",
+    "闲照孤鸾戏。",
+    "思量去时容易。",
+    "钿盒瑶钗，至今冷落轻弃。",
+    "望极蓝桥，但暮云千里。",
+    "几重山，几重水。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-425",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-0efdde2438c0eaf1ba2125f7",
+  "title": "驻马听",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "书寄乡关，说起教人心痛酸。",
+    "你传示俺八旬爹妈，道与我两月妻房，隔涉万水千山。",
+    "啼痕缄外翠绡斑，梦魂飞绕银屏远，(合)报道平安，想一家贺喜，只说道他日再相见。",
+    "(末唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5133",
+  "tags": []
+}

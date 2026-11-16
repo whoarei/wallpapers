@@ -1,0 +1,16 @@
+{
+  "id": "poem-4b349dc7037abf2785946d25",
+  "title": "段秀才溪居送从弟游泾陇",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "抱疾寒溪卧，因循草木青。",
+    "相留开夏蜜，辞去见秋萤。",
+    "朔雪痕侵雍，边烽焰照泾。",
+    "烟沈陇山色，西望涕交零。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8e75e0fc-0852-401a-9f09-4365e037e481"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-d075fb8be5914ffc55a19393",
+  "title": "赠海东僧",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "别家行万里，自说过扶余。",
+    "学得中州语，能为外国书。",
+    "与医收海藻，持咒取龙鱼。",
+    "更问同来伴，天台几处居。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-fdeadecf-359a-4514-96e5-fe73d31997e1"
+}

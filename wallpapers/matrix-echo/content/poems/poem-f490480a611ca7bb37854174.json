@@ -1,0 +1,14 @@
+{
+  "id": "poem-f490480a611ca7bb37854174",
+  "title": "宿鄠郊赠罗处士",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "川静星高栎已枯，南山落石水声麤。",
+    "白云钓客窗中宿，卧数嵩峰听五湖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-f10da4e2-dc93-4c65-931e-6adb79f74a33"
+}

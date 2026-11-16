@@ -1,0 +1,18 @@
+{
+  "id": "poem-4e0b19df3b2a43d661a928f1",
+  "title": "古兴",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "十五小家女，双鬟人不如。",
+    "蛾眉暂一见，可直千金余。",
+    "自从得向蓬莱里，出入金舆乘玉趾。",
+    "梧桐树上春鸦鸣，晓伴君王犹未起。",
+    "莫道君恩长不休，婕妤团扇苦悲秋。",
+    "君看魏帝邺都里，惟有铜台漳水流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-6474e381-8e86-4d81-859b-c164f2155a19"
+}

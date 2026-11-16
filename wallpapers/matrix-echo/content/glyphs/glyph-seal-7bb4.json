@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7bb4",
+  "script": "seal",
+  "character": "箴",
+  "reading": "zhēn",
+  "description": "zhēn：(1)同针”①。\n(2)劝告，劝戒～言。～规。～谏。\n(3)古代一种文体，以告诫规劝为主～铭（箴”是规戒性的韵文；铭”是刻在器物或碑石上兼于规戒、褒赞的韵文。因其作用有相似之处，故后人多连称）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-箴"
+}

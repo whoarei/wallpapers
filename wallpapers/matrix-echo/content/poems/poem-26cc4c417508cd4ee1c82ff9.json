@@ -1,0 +1,16 @@
+{
+  "id": "poem-26cc4c417508cd4ee1c82ff9",
+  "title": "稼穑",
+  "author": "汪宗臣",
+  "dynasty": "宋",
+  "verses": [
+    "稼穑病多雨，芜菁种待晴。",
+    "垒空惊燕去，池净衬鸥明。",
+    "野碓鸣秋杵，风簷响夜筝。",
+    "山中凉意早，蚊蚋已无声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-0c476c01-5283-4989-899d-17a536afa5c7"
+}

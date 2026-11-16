@@ -1,0 +1,15 @@
+{
+  "id": "poem-86e5704e56999f8c9ac7a9e9",
+  "title": "庭燎",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "夜如何其？夜未央，庭燎之光。君子至止，鸾声将将。",
+    "夜如何其？夜未艾，庭燎晣晣。君子至止，鸾声哕哕。",
+    "夜如何其？夜乡晨，庭燎有辉。君子至止，言观其旗。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-181"
+}

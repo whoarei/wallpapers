@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-628a",
+  "script": "seal",
+  "character": "把",
+  "reading": "bǎ；bà",
+  "description": "bǎ：(1)拿，抓住～酒（拿着酒杯）。～玩（拿着赏玩）。\n(2)控制，掌握～握。～舵。\n(3)看守～守。～门儿。\n(4)自行车、手推车等的手柄车～。\n(5)可以用手拿的小捆秫秸～儿。\n(6)专权，一手独揽～持大权。\n(7)从后托起小孩两腿使之大小便的动作～尿。\n(8)介词，义为拿，处置，致使你能～他怎么样。\n(9)量词。\n(10)结盟拜～子。～兄弟。\nbà：(1)物体上便于手拿的部分刀～儿。\n(2)被人作为说笑资料的言行话～儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-把"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "poem-b53dc8e3ce2c625b05c9a2a9",
+  "title": "望岳",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "岱宗夫如何，齐鲁青未了。",
+    "造化钟神秀，阴阳割昏晓。",
+    "荡胷生曾云，决眦入归鸟。",
+    "会当凌绝顶，一览众山小。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "泰山",
+    "五言古诗",
+    "励志",
+    "写景",
+    "初中古诗",
+    "山",
+    "哲理",
+    "八年级上册(课内)",
+    "写鸟",
+    "写山",
+    "描写山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-12fdaad8-b197-4526-b56d-c7c713267248"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8fa3",
+  "script": "kai",
+  "character": "辣",
+  "reading": "là",
+  "description": "là：(1)像姜、蒜等的剌激性味道～椒（一年生草木植物，果实有毛笔尖形、灯笼形等，青色，成熟后变成红色。可食，亦可入药。亦称辣子”）。辛～。～乎乎。酸甜苦～。\n(2)辣味刺激～眼睛。\n(3)凶狠，刻毒毒～。泼～。手段～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辣"
+}

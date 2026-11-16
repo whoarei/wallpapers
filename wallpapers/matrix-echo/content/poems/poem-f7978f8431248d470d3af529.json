@@ -1,0 +1,14 @@
+{
+  "id": "poem-f7978f8431248d470d3af529",
+  "title": "浣溪沙·花渐凋疏不耐风",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "花渐凋疏不耐风，画帘垂地晚堂空，堕阶萦藓舞愁红。",
+    "腻粉半沾金靥子，残香犹暖绣熏笼，蕙心无处与人同。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-39"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f8df3e87ae00f2b6da649c32",
+  "title": "去矣行",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "君不见鞲上鹰，一饱则飞掣。",
+    "焉能作堂上燕，衔泥附炎热。",
+    "野人旷荡无腼颜，岂可久在王侯间。",
+    "未试囊中餐玉法，明朝且入蓝田山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-ba4bd65a-2c56-4f81-b0bf-dacc0068c271"
+}

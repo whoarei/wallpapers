@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5450",
+  "script": "kai",
+  "character": "呐",
+  "reading": "nà；nè",
+  "description": "nà：〔～喊〕大声呼喊，如～～助威”、摇旗～～”。\nnè：古同讷”，说话迟钝。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-呐"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-dba120a7e030eb499290e2b2",
+  "title": "城南即事  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "活泉细引忽盈沟，自遶书斋堦堦流。",
+    "添得眼前无限思，石桥竹坞共清幽。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-5535b8ae-cc64-4292-9d2a-700c9b7b6839"
+}

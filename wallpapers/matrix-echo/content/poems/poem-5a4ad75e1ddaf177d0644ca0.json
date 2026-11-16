@@ -1,0 +1,14 @@
+{
+  "id": "poem-5a4ad75e1ddaf177d0644ca0",
+  "title": "巴童荅",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "巨鼻宜山褐，庞眉入苦吟。",
+    "非君唱乐府，谁识怨秋深。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-8aee0b0a-cc97-4674-9249-8c4994f3fa28"
+}

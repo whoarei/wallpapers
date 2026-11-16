@@ -1,0 +1,20 @@
+{
+  "id": "poem-ba95ba9565fba35a8ea2fa3b",
+  "title": "南乡子·潮落去帆收",
+  "author": "陈师道",
+  "dynasty": "宋",
+  "verses": [
+    "潮落去帆收。",
+    "沙涨江回旋作洲。",
+    "侧帽独行斜照里，飕飕。",
+    "卷地风前更掉头。",
+    "语妙后难酬。",
+    "回雁峰南未得秋。",
+    "唤取佳人听旧曲，休休。",
+    "瘴雨无花孰与愁。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-302",
+  "tags": []
+}

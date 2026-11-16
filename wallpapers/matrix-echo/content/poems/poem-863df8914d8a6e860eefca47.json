@@ -1,0 +1,16 @@
+{
+  "id": "poem-863df8914d8a6e860eefca47",
+  "title": "鼓吹曲辞 有所思",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "我思仙人，乃在碧海之东隅。",
+    "海寒多天风，白波连山倒蓬壶。",
+    "长鲸喷涌不可涉，抚心茫茫泪如珠。",
+    "西来青鸟东飞去，愿寄一书谢麻姑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-4f876a76-9628-4cc3-91da-124444b562f1"
+}

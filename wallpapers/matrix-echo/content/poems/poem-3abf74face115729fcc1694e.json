@@ -1,0 +1,14 @@
+{
+  "id": "poem-3abf74face115729fcc1694e",
+  "title": "宿陕府北楼奉酬崔大夫二首 二",
+  "author": "陆畅",
+  "dynasty": "唐",
+  "verses": [
+    "一别朱门三四春，再来应笑尚风尘。",
+    "昨宵唯有楼前月，识是谢公诗酒人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-67f1d84b-aa3a-4104-8512-09586d600b28"
+}

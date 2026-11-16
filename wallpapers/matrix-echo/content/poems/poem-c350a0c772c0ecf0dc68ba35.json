@@ -1,0 +1,14 @@
+{
+  "id": "poem-c350a0c772c0ecf0dc68ba35",
+  "title": "晨起三首  其二",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "山寒日不光，举目断人肠。",
+    "儿童莫问路，怕是小筼筜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-413aa8e9-a874-48f3-b5e8-1cda86815c89"
+}

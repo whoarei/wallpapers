@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8981",
+  "script": "seal",
+  "character": "要",
+  "reading": "yào；yāo",
+  "description": "yào：(1)索取～账。～价。\n(2)希望，想～强。～好。\n(3)请求她～我给她读报。\n(4)重大，值得重视的重～。～人。～领。纲～。～言不烦。\n(5)应该，必须须～。\n(6)将（jiāng）将～。快～。\n(7)如果，倘若～是。\n(8)表选择～么。～不。～不然。\nyāo：(1)求，有所倚仗而强求～求。～挟。\n(2)古同腰”。\n(3)古同邀”，中途拦截。\n(4)古同邀”，约请。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-要"
+}

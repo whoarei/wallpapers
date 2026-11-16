@@ -1,0 +1,20 @@
+{
+  "id": "poem-3489a16a8438a4d44f91d328",
+  "title": "踏莎行·万水千山",
+  "author": "向",
+  "dynasty": "宋",
+  "verses": [
+    "万水千山，两头三绪。",
+    "凭高望断迢迢路。",
+    "钱塘江上客归迟，落花流水青春暮。",
+    "步步金莲，朝朝琼树。",
+    "目前都是伤心处。",
+    "飞鸿过尽没书来，梦魂依旧阳台雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-186",
+  "tags": [
+    "钱塘江"
+  ]
+}

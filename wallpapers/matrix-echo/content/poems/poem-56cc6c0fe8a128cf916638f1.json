@@ -1,0 +1,16 @@
+{
+  "id": "poem-56cc6c0fe8a128cf916638f1",
+  "title": "好事近·小雨度微云",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "小雨度微云，快染一天新碧。",
+    "恰到中秋佳处，是芳年华日。",
+    "冰轮莫做九分看，天意在今夕。",
+    "先占广寒风露，怕姮娥偏得。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-787",
+  "tags": []
+}

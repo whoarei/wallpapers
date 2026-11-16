@@ -1,0 +1,20 @@
+{
+  "id": "poem-a9bc77842a4f8e7b4d8dd8af",
+  "title": "旅馆三适  其二",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "隽永项上脔，红嫩劣带膋。",
+    "彼美大栏君，坐受群毛朝。",
+    "鼎湆走真味，正藉松炬烧。",
+    "芼我银丝窝，葱豉巧和调。",
+    "堇涂非所宜，淑郁如兰椒。",
+    "腹腴但下隶，膻根合藤条。",
+    "并填长翁腹，未觉喉牙摇。",
+    "但讶大嚼余，无补诗肠枵。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-5ce03931-542d-4c63-8535-2312b0ca2f8a"
+}

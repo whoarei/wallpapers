@@ -1,0 +1,14 @@
+{
+  "id": "poem-e3dc6ad29034c7b88c170ba7",
+  "title": "玉仙馆",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "长溪新雨色如泥，野水阴云尽向西。",
+    "楚客天南行渐远，山山树里鹧鸪啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-1454d2df-ace5-4fce-8b72-1a5cb201b937"
+}

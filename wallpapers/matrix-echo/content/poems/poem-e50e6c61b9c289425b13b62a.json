@@ -1,0 +1,20 @@
+{
+  "id": "poem-e50e6c61b9c289425b13b62a",
+  "title": "寻鸟窠迹",
+  "author": "魏璞",
+  "dynasty": "唐",
+  "verses": [
+    "（原注：唐道林禅师入秦望山，见长松蟠曲如盖，送栖止其上，故称鸟窠禅师。",
+    "）为访名僧迹，言寻小曲阿。",
+    "松林春日静，石迳晚云多。",
+    "道法传驯鹊，（原注：有鹊巢侧，自然驯狎。",
+    "）禅机显化螺。",
+    "（原注：尝入市，见食螺已截尾，乞放之池。",
+    "至今螺蛳繁生。）。",
+    "悉无尾如截，遗迹在芦院。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-3e3d34d3-16a4-4171-a722-ae8c7e3fb406"
+}

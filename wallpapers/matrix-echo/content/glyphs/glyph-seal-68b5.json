@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-68b5",
+  "script": "seal",
+  "character": "梵",
+  "reading": "fàn",
+  "description": "fàn：关于古代印度的～语（印度古代的一种语言）。～文（印度古代的文字）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梵"
+}

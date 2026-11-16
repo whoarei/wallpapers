@@ -1,0 +1,16 @@
+{
+  "id": "poem-04f16e961027086a1e933d1e",
+  "title": "项王庙",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "刘氏功名未足多，谩将带砺指山河。",
+    "楚宫一夜虽虚垒，汉殿百年还艺禾。",
+    "今日祠堂皆寂寞，当时江水自逶迤。",
+    "有灵若忆生前事，应悔初为盖世歌。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-ee8019b5-f5e8-4586-99b1-781b42bddf0c"
+}

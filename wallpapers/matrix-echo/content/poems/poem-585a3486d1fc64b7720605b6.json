@@ -1,0 +1,13 @@
+{
+  "id": "poem-585a3486d1fc64b7720605b6",
+  "title": "句",
+  "author": "王铎",
+  "dynasty": "唐",
+  "verses": [
+    "华表尚迷丁令鹤，竹坡犹认葛溪龙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-c3ba9321-6bc3-4af7-9e0d-5b6ddab1a1ad"
+}

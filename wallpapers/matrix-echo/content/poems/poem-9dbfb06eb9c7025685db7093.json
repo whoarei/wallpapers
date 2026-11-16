@@ -1,0 +1,16 @@
+{
+  "id": "poem-9dbfb06eb9c7025685db7093",
+  "title": "春暮思平泉杂咏二十首 西园",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "西园最多趣，永日自忘归。",
+    "石濑流清浅，风岑澹翠微。",
+    "晓翻红药艳，晴袅碧潭辉。",
+    "独望娟娟月，宵分半掩扉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-26fd6c50-4a0d-4358-ba54-5ff59e9d4d27"
+}

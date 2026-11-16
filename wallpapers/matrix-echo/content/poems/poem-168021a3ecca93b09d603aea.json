@@ -1,0 +1,16 @@
+{
+  "id": "poem-168021a3ecca93b09d603aea",
+  "title": "赠施都正三首  其二",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "雨窗舞晦明，风竹作骚屑。",
+    "断无思归梦，人境两清绝。",
+    "道人气金玉，妙论挟冰雪。",
+    "未须金鼎丹，始可黑霜发。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-5cfd2eb8-e1ab-486b-9a01-cd5280e581fa"
+}

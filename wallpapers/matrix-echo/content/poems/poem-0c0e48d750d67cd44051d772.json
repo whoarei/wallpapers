@@ -1,0 +1,16 @@
+{
+  "id": "poem-0c0e48d750d67cd44051d772",
+  "title": "送僧归南康",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "壳壳学得律，还乡见苦情。",
+    "远思芳草盛，不入楚山行。",
+    "帆入汀烟健，经吟戍月清。",
+    "到乡同学辈，应到赣江迎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-52cc3857-5a5a-48f6-ae74-643bcdf26fe1"
+}

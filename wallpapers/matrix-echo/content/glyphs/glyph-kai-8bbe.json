@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8bbe",
+  "script": "kai",
+  "character": "设",
+  "reading": "shè",
+  "description": "⒈布置，装置，安排～置。～立。～防。\n⒉筹划，规划，制定方案、图样等～法。～想。～计。\n⒊假使，如果，若是，假想～若。～如。～或。假～。\n①工作上、生产上、生活上等所需要的各种设施和器械用品。\n②设置以备施用。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-设"
+}

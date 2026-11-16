@@ -1,0 +1,26 @@
+{
+  "id": "poem-21fbd5445a6d937e9f4e71c6",
+  "title": "咏柳",
+  "author": "贺知章",
+  "dynasty": "唐",
+  "verses": [
+    "碧玉妆成一树高，万条垂下绿丝绦。",
+    "不知细叶谁裁出，二月春风似剪刀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "春天",
+    "写景",
+    "咏物",
+    "写风",
+    "柳树",
+    "植物",
+    "风",
+    "三年级下册",
+    "咏物诗",
+    "春",
+    "小学古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-bf4ce5bb-7a29-4b33-b8c6-55a020394ab8"
+}

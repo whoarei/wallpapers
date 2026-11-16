@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-763e",
+  "script": "kai",
+  "character": "瘾",
+  "reading": "yǐn",
+  "description": "泛指浓厚的兴趣\n⒈特别深的嗜好烟～。酒～。\n⒉浓厚的兴趣她看书看上了～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瘾"
+}

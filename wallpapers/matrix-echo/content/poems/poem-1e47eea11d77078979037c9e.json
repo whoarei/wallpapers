@@ -1,0 +1,14 @@
+{
+  "id": "poem-1e47eea11d77078979037c9e",
+  "title": "寻仙",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "溪头一径入青崖，处处仙居隔杏花。",
+    "更见峰西幽客说，云中犹有两三家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-2f0e76c3-fa01-4082-b01c-3a1193ff7e06"
+}

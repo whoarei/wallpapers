@@ -1,0 +1,14 @@
+{
+  "id": "poem-c07d293ba20d62b24d41a260",
+  "title": "金陵览古 直渎",
+  "author": "朱存",
+  "dynasty": "宋",
+  "verses": [
+    "昼役人功夜鬼功，阳开阴阖几时终。",
+    "不闻掷土江中语，争得盈流一水通。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-ffd90226-e181-48d5-bbda-16811e5f9086"
+}

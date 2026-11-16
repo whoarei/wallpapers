@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e9a53bb7163b457976a78fb",
+  "title": "寻阳村舍",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "荒林寄远居，坐卧见樵渔。",
+    "夜火随船远，寒更出郡疎。",
+    "雪迷登岳路，风阻转江书。",
+    "寂寞高窗下，思乡岁欲除。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-17ffe0e8-195d-4f2a-b378-40658be1beac"
+}

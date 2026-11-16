@@ -1,0 +1,16 @@
+{
+  "id": "poem-7c9b71138504e44c15e85037",
+  "title": "荅李侍御问",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "入道曾经离乱前，长干古寺住多年。",
+    "爱贫唯制莲花足，取性闲书树叶篇。",
+    "自笑不归看石牓，谁高无事弄苔泉。",
+    "身外空名何足问，吾心已出第三禅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-9a07e5e5-a579-4693-abdd-cafb3ed67bfa"
+}

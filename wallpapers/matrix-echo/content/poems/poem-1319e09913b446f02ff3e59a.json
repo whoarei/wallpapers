@@ -1,0 +1,16 @@
+{
+  "id": "poem-1319e09913b446f02ff3e59a",
+  "title": "郊庙歌辞 封泰山乐章 舒和",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "六钟翕协六变成，八佾倘佯八风生。",
+    "乐九[韶]兮人神感，美七德兮天地清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "泰山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-edf071ea-ed26-4840-8842-fab95743a231"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-a21e72233a43df00e5600cf5",
+  "title": "还",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "子之还兮，遭我乎狃之间兮。并驱从两肩兮，揖我谓我儇兮。",
+    "子之茂兮，遭我乎狃之道兮。并驱从两牡兮，揖我谓我好兮。",
+    "子之昌兮，遭我乎狃之阳兮。并驱从两狼兮，揖我谓我臧兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-96"
+}

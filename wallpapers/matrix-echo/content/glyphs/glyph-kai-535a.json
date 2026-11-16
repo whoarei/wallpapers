@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-535a",
+  "script": "kai",
+  "character": "博",
+  "reading": "bó",
+  "description": "bó：(1)多，广，大广～。渊～。～学（学问广博）。～览。～爱。～物。\n(2)知道得多～古。\n(3)用自己的行动获得～取。～得。聊～一笑。\n(4)古代的一种棋戏；后泛指赌财物～奕。赌～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-博"
+}

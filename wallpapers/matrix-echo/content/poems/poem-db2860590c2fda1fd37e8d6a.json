@@ -1,0 +1,15 @@
+{
+  "id": "poem-db2860590c2fda1fd37e8d6a",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "比似我做了亏心台馆客，到不如守义终身田舍郎。",
+    "白头吟记得不曾忘，绿鬓妇何故在他方？书，我只为你其中有女颜如玉，却教我撇却糟糠妻下堂。",
+    "还思想，休休，毕竟是文章误我，我误妻房。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5219",
+  "tags": []
+}

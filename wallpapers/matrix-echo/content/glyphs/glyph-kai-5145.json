@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5145",
+  "script": "kai",
+  "character": "充",
+  "reading": "chōng",
+  "description": "chōng：(1)满、足～足。～实。～分（fèn）（a.足够；b.尽量）。～沛。～裕。\n(2)填满，装满填～。～满（a.填满，布满；b.充分具有）。～耳不闻。～电」牛～栋。\n(3)当，担任～当。～军。\n(4)假装冒～。～数（shù）。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-充"
+}

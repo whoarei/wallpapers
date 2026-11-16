@@ -1,0 +1,14 @@
+{
+  "id": "poem-5666db3d7475dea00267d34f",
+  "title": "月夜敲砧",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "沉沉万籁满天星，药兔秋声处处明。",
+    "落尽灯花人欲睡，一簷桐影捣衣声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-4faf39a2-4cd9-44f8-8c54-54f6476e89a4"
+}

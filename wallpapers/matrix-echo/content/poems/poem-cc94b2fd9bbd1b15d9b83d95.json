@@ -1,0 +1,14 @@
+{
+  "id": "poem-cc94b2fd9bbd1b15d9b83d95",
+  "title": "丰干闾丘虎赞",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "虎怕人心恶，人欺虎太慈。",
+    "虽逢贤太守，难打者官司。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-00ac77a0-875e-4b2d-80b6-78e4743233cf"
+}

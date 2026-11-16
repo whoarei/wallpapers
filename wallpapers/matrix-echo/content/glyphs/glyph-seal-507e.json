@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-507e",
+  "script": "seal",
+  "character": "偾",
+  "reading": "fèn",
+  "description": "覆,翻倒在地\n覆败\n使灭亡\n毁坏;败坏\n⒈败坏，毁坏～事。～军之将。\n⒉扑倒，跌倒一～一起。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-偾"
+}

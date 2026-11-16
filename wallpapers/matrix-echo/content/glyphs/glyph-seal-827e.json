@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-827e",
+  "script": "seal",
+  "character": "艾",
+  "reading": "ài",
+  "description": "ài：(1)多年生草本植物，嫩叶可食，老叶制成绒，供针灸用～子。～蒿。～绒。\n(2)止，绝方兴未～。\n(3)美好少（shào）～（年轻美好的女子）。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-艾"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b16a17bfc071d43ac639949e",
+  "title": "逍遥台",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "拂面溪风洒洒清，轻衫短帽御风行。",
+    "逍遥自是天游乐，不结沙鸥水石盟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-e3c2df8e-2d9c-4ce5-8b57-e0c9047a0a7f"
+}

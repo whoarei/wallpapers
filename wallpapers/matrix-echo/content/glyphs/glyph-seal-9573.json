@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9573",
+  "script": "seal",
+  "character": "镳",
+  "reading": "biāo",
+  "description": "借指马\n古代兵器。同镖”\n镳biāo 1.马嚼子。与衔合用，衔在口中，镳在口旁。青铜制或铁制，也有用骨﹑角制的上面可系銮铃。 2.指乘骑。 3.见\"镳镳\"。 4.同\"镖\"。参见\"镳局\"﹑\"镳客\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镳"
+}

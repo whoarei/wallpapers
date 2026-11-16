@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7b95",
+  "script": "kai",
+  "character": "箕",
+  "reading": "jī",
+  "description": "jī：(1)用竹篾、柳条或铁皮等制成的扬去糠麸或清除垃圾的器具（通常称簸箕”）～帚。\n(2)簸箕形的指纹，不成圆形斗（dǒu）～。\n(3)星名，二十八宿之一。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-箕"
+}

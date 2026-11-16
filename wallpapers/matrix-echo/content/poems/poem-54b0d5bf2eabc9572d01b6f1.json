@@ -1,0 +1,16 @@
+{
+  "id": "poem-54b0d5bf2eabc9572d01b6f1",
+  "title": "喜迁莺·金门晓",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "金门晓，玉京春，骏马骤轻尘。",
+    "桦烟深处白衫新，认得化龙身。",
+    "九陌喧，千户启，满袖桂香风细。",
+    "杏园欢宴曲江滨，自此占芳辰。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-35"
+}

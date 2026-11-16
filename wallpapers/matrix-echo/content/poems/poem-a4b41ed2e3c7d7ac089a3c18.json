@@ -1,0 +1,18 @@
+{
+  "id": "poem-a4b41ed2e3c7d7ac089a3c18",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "孩儿疮疾幸然干。",
+    "(合)自今番，常打扮。",
+    "(后)沉香亭畔倚阑杆。",
+    "(合)夜合花，红牡丹。",
+    "姚黄间满，这太湖仙，真个最堪观。",
+    "也罗。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2713",
+  "tags": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-2bb2fadb43b0c77fe3ec0fd2",
+  "title": "红绣鞋",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "小二在何处说话？(丑)在卓下。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2555",
+  "tags": []
+}

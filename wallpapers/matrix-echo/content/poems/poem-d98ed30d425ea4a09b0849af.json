@@ -1,0 +1,14 @@
+{
+  "id": "poem-d98ed30d425ea4a09b0849af",
+  "title": "次韵感旧",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "人间岁月如江波，欢乐苦少哀情多。",
+    "千曲箜篌弹不尽，公无渡河公渡河。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-44028bf3-aa9c-427e-8425-f6f61c1e0cff"
+}

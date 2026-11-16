@@ -1,0 +1,16 @@
+{
+  "id": "poem-6bf64893f8dc243b18336d35",
+  "title": "乐仙观",
+  "author": "若虚",
+  "dynasty": "唐",
+  "verses": [
+    "乐氏骑龙上碧天，东吴遗宅尚依然。",
+    "悟来大道无多事，真后丹元不值钱。",
+    "老树夜风虫咬叶，古垣春雨藓生甎。",
+    "松倾鹤死桑田变，华表归乡未有年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-21ef5b32-b69e-4e24-a287-a2b4eca01ec9"
+}

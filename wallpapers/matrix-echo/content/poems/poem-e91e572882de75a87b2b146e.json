@@ -1,0 +1,16 @@
+{
+  "id": "poem-e91e572882de75a87b2b146e",
+  "title": "寄道者",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "洞庭先生归路长，海云望极春茫茫。",
+    "别来几度向蓬岛，自傍瑶台折灵草。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-f0b26d34-d1b8-42a9-99b4-d911b5365c17"
+}

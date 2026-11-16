@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-960f",
+  "script": "seal",
+  "character": "阏",
+  "reading": "è",
+  "description": "阻塞\n遏止;抑制\n门扇;闸板\n阏氏\n阏è 1.遏止;抑制。 2.堵塞。 3.门扇;闸板。\n阏yù 1.见\"阏与\"。 2.通\"淤\"。淤泥。\n阏yè 1.见\"单阏\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阏"
+}

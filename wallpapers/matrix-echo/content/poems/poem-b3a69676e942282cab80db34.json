@@ -1,0 +1,16 @@
+{
+  "id": "poem-b3a69676e942282cab80db34",
+  "title": "宛陵寓居上沈大夫二首 二",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "溪树参差绿可攀，谢家云水满东山。",
+    "能忘天上他年贵，来结林中一日闲。",
+    "醉叩玉盘歌褭褭，暖鸣幽涧鸟关关。",
+    "觥筹不尽须归去，路在春风缥缈间。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-56c3e46b-4df7-4303-86c8-37e7ffd3b9ad"
+}

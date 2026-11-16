@@ -1,0 +1,16 @@
+{
+  "id": "poem-6caa9e4ac790f3c2fba0ece3",
+  "title": "更漏子·秋色清",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "秋色清，河影淡，深户烛寒光暗。",
+    "绡幌碧，锦衾红，博山香炷融。",
+    "更漏咽，蛩鸣切，满院霜华如雪。",
+    "新月上，薄云收，映帘悬玉钩。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-42"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-baa58d82e90086d5cce4627c",
+  "title": "和主司王起",
+  "author": "裴翻",
+  "dynasty": "唐",
+  "verses": [
+    "常将公道选群生，犹被春闱屈重名。",
+    "文柄久持殊岁纪，恩门三启动寰瀛。",
+    "云霄幸接鸳鸾盛，变化欣同草木荣。",
+    "乍得阳和如细柳，参差长近亚夫营。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-78b7af99-f1d7-4db1-b2cf-d2f419c6fd30"
+}

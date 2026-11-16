@@ -1,0 +1,14 @@
+{
+  "id": "poem-4ccb08c9c67b7a136c6057ed",
+  "title": "江行无题一百首 六十四",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "白帝朝惊浪，阳台暮映云。",
+    "等闲生险易，世路秪如君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ec9688a6-6ed2-48f7-bcee-82e31ff33b58"
+}

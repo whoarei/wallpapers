@@ -1,0 +1,14 @@
+{
+  "id": "poem-4e8fa0bb26f28fc118e9e6cd",
+  "title": "侍宴桃花园咏桃花应制",
+  "author": "赵彦昭",
+  "dynasty": "唐",
+  "verses": [
+    "红萼竞燃春苑曙，粉茸新吐御筵开。",
+    "长年愿奉西王母，近侍惭无东朔才。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d4b40cb2-2a03-47a8-98e8-ce7eec3a275d"
+}

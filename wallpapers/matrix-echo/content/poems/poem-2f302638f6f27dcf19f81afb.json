@@ -1,0 +1,19 @@
+{
+  "id": "poem-2f302638f6f27dcf19f81afb",
+  "title": "点绛唇·明月山头",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "明月山头，古香吹堕青林底。",
+    "世情无味。",
+    "伴我千岩里。",
+    "诗老风流，也向花留意。",
+    "歌新拟。",
+    "调高难比。",
+    "半坐分君醉。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-164",
+  "tags": []
+}

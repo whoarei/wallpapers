@@ -1,0 +1,17 @@
+{
+  "id": "poem-8acee12ec37439a705ea046d",
+  "title": "踏莎行",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "怨极愁多，歌慵笑懒，只因添个鸳鸯伴。",
+    "他乡游子不能归，高堂父母无人管。",
+    "湘浦鱼沉，衡阳雁断，音书要寄无方便。",
+    "人生光景几多时，蹉跎负却平生愿。",
+    "(生再唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5113",
+  "tags": []
+}

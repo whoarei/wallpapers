@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-54ac",
+  "script": "kai",
+  "character": "咬",
+  "reading": "yǎo",
+  "description": "yǎo：(1)上下牙对住，压碎或夹住东西～啮。～噬。～紧牙关。\n(2)钳子等夹住或螺丝齿轮等卡住～合。～住扣。\n(3)喻话说定了不再改变，亦指受责难或审讯时拉扯不相关的人一口～定。乱～好人。\n(4)狗叫鸡叫狗～。\n(5)正确地读字音，亦指过分地计较字句的意义～字儿。～文嚼字（过分地斟酌字句，多用来讽刺死抠字眼儿而不领会精神实质）。\n(6)追赶进逼双方比分～得很紧。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咬"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-03f19fae95e8cb1095c38d46",
+  "title": "东湖赠僧子兰",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "名利了无时，何人暂访师。",
+    "道情闲外见，心地语来知。",
+    "竹落穿窗叶，松寒荫井枝。",
+    "匡山许同社，愿卜挂帆期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-03ce758a-99de-440d-aed3-dacab03880b9"
+}

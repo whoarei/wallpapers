@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-771f",
+  "script": "seal",
+  "character": "真",
+  "reading": "zhēn",
+  "description": "zhēn：(1)与客观事实相符合，与假”、伪”相对～诚。～谛。～挚。～心。逼～。认～。～才实学。～知灼见。\n(2)确实，的确～好。～正。～切。\n(3)清楚，显明看得～。咬字很～。\n(4)本性，本原纯～。天～。\n(5)人的肖像传（chuán）～。写～。\n(6)汉字的楷书～字。～书。～草隶篆。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-真"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-e598032a2378f0de8c9c4823",
+  "title": "醉高楼·浮云散",
+  "author": "张镃",
+  "dynasty": "宋",
+  "verses": [
+    "浮云散，天似碧琉璃。",
+    "月正是、上弦时。",
+    "姮娥蟾兔俱何在，广寒宫殿不应亏。",
+    "这神功，千万世，有谁知。",
+    "甚知解、催人须鬓老。",
+    "更不算、将人情绪恼。",
+    "撺掇酒，撼摇诗。",
+    "山头望伴疏星落，庭前看照好花移。",
+    "夜无眠，应笑我，怎如痴。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-355",
+  "tags": []
+}

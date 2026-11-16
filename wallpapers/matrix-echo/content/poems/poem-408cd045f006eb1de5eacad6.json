@@ -1,0 +1,18 @@
+{
+  "id": "poem-408cd045f006eb1de5eacad6",
+  "title": "洞仙歌·温江异果",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "温江异果，惟有泥山贵。",
+    "驿送江南数千里。",
+    "半含霜，轻噀雾，曾怯吴姬，亲赠我，绿桔黄柑怎比。",
+    "双亲云水外，游子空怀，惆怅无人可归遗。",
+    "报周郎、须念我，物少情多，春酒醉，独胜甜桃醋李。",
+    "况灯火楼台近元宵，似不减年时，袖中香味。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-290",
+  "tags": []
+}

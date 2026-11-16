@@ -1,0 +1,16 @@
+{
+  "id": "poem-58edd503da3e58f713d6113a",
+  "title": "酬张三十秀才见赠",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "朴学居人后，清涂忝众先。",
+    "瓠因无用弃，木为不才全。",
+    "比得林泉趣，仍依邑里贤。",
+    "自惭头半白，方解赋归田。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-492d5e3f-98bd-43f0-8795-933dcf0314d2"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-15e6cdb77bb3ff4eb2a85438",
+  "title": "江外除夜",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "千门庭燎照楼台，总为年光急急催。",
+    "半夜腊因风卷去，五更春被角吹来。",
+    "宁无好鸟思花发，应有游鱼待冻开。",
+    "不是多歧渐平稳，谁能呼酒祝昭回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-96b9012d-793b-4097-8ae8-e13582efb7bc"
+}

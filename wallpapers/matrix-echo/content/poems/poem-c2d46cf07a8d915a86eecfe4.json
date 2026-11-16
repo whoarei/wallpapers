@@ -1,0 +1,18 @@
+{
+  "id": "poem-c2d46cf07a8d915a86eecfe4",
+  "title": "湘灵鼓瑟",
+  "author": "陈季",
+  "dynasty": "唐",
+  "verses": [
+    "神女泛瑶瑟，古祠严野亭。",
+    "楚云来泱漭，湘水助清泠。",
+    "妙指微幽契，繁声入杳冥。",
+    "一弹新月白，数曲暮山青。",
+    "调苦荆人怨，时遥帝子灵。",
+    "遗音如可赏，试奏为君听。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-df64caa8-cae5-4863-b8ce-d499357b1dab"
+}

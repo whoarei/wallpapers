@@ -1,0 +1,16 @@
+{
+  "id": "poem-ac560537926ea7a105a96b84",
+  "title": "夏日途中",
+  "author": "李廓",
+  "dynasty": "唐",
+  "verses": [
+    "树夹炎风路，行人正午稀。",
+    "初蝉数声起，戏蝶一团飞。",
+    "日色欺清镜，槐膏点白衣。",
+    "无成归故里，自觉少光辉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-239b21ee-29f9-46b1-8530-64b3eb5ea970"
+}

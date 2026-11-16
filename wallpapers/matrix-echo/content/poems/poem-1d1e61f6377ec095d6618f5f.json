@@ -1,0 +1,16 @@
+{
+  "id": "poem-1d1e61f6377ec095d6618f5f",
+  "title": "醉公子·暮烟笼藓砌",
+  "author": "尹鹗 六首",
+  "dynasty": "五代",
+  "verses": [
+    "暮烟笼藓砌，戟门犹未闭。",
+    "尽日醉寻春，归来月满身。",
+    "离鞍偎绣袂，坠巾花乱缀。",
+    "何处恼佳人，檀痕衣上新。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-31"
+}

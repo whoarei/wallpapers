@@ -1,0 +1,17 @@
+{
+  "id": "poem-8ae88200f841ab6a6147be02",
+  "title": "浣溪沙·花想仪容柳想腰",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "花想仪容柳想腰。",
+    "融融曳曳一团娇。",
+    "绮罗丛里最妖娆。",
+    "歌罢碧天零影乱，舞时红袖雪花飘。",
+    "几回相见为魂销。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-791",
+  "tags": []
+}

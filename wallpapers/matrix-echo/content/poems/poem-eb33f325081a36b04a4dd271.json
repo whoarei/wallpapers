@@ -1,0 +1,20 @@
+{
+  "id": "poem-eb33f325081a36b04a4dd271",
+  "title": "日出行",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "白日下昆仑，发光如舒丝。",
+    "徒照葵藿心，不照游子悲。",
+    "折折黄河曲，日从中央转。",
+    "旸谷耳曾闻，若木眼不见。",
+    "奈尔铄石，胡为销人，羿弯弓属矢那不中。",
+    "足令久不得奔，讵教晨光夕昏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-d0e7182f-cc73-4de5-b3c2-d891d0034686"
+}

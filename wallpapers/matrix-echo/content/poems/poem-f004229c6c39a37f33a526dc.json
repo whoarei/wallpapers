@@ -1,0 +1,14 @@
+{
+  "id": "poem-f004229c6c39a37f33a526dc",
+  "title": "野有蔓草",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "野有蔓草，零露漙兮。有美一人，清扬婉兮。邂逅相遇，适我愿兮。",
+    "野有蔓草，零露瀼瀼。有美一人，婉如清扬。邂逅相遇，与子偕臧。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-93"
+}

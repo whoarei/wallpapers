@@ -1,0 +1,22 @@
+{
+  "id": "poem-d6cea6300780df94e5463e86",
+  "title": "柳初新·楚天来驾春相送",
+  "author": "沈蔚",
+  "dynasty": "宋",
+  "verses": [
+    "楚天来驾春相送。",
+    "半醉侧、花冠重。",
+    "瑶台清宴，群仙戏手，剪出彩衣犹动。",
+    "谁拂瑶琴巧弄。",
+    "舞丹山、三千雏凤。",
+    "艳冶轻盈放纵。",
+    "倚东风、从来遍宠。",
+    "桃花溪上，相思未断，愁掩五云真洞。",
+    "算曾揖、飞鸾双控。",
+    "等闲入、襄王春梦。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-994",
+  "tags": []
+}

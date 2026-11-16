@@ -1,0 +1,18 @@
+{
+  "id": "poem-4fbf31c74fcf6c3282beaa49",
+  "title": "送赵评事摄御史监军岭南",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "议狱持邦典，临戎假宪威。",
+    "风从阊阖去，霜入洞庭飞。",
+    "篁竹迎金鼓，楼船引绣衣。",
+    "明年拜真月，南斗使星归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d49d11e5-8585-4003-807e-4357323c1c2e"
+}

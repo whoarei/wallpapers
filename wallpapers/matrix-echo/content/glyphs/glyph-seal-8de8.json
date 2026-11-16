@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8de8",
+  "script": "seal",
+  "character": "跨",
+  "reading": "kuà",
+  "description": "kuà：(1)抬腿向前或向旁移动越过，迈过～进。～入。～度。\n(2)骑，两脚分在器物的两边坐着或立着～马。小孩～着门槛。\n(3)超过时间或地区之间的界限～越。～年度。～国公司。\n(4)附在旁边～院。\n(5)古同胯”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-跨"
+}

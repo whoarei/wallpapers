@@ -1,0 +1,20 @@
+{
+  "id": "poem-bdc89e01486ab6d27ac3d6a2",
+  "title": "过梅里七首  家于无锡四十载今敝庐数堵犹存今列题于后 忆西湖双㶉𫛶",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "双㶉𫛶，锦毛斓斑长比翼，戏绕莲藂回锦臆。",
+    "照灼花丛两相得，渔歌惊起飞南北。",
+    "缭绕追随不迷惑，云间上下同栖息。",
+    "不作惊禽远相忆，东家少妇机中语。",
+    "剪断回文泣机杼，徒嗟孔雀衔毛羽。",
+    "一去东南别离苦，五里裴回竟何补。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-38869ec6-7ab2-4c91-b1b1-6772267fdf63"
+}

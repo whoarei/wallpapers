@@ -1,0 +1,20 @@
+{
+  "id": "poem-7108ff2925edd5a835cfe131",
+  "title": "蝶恋花·洒面松风凉似水",
+  "author": "张镃",
+  "dynasty": "宋",
+  "verses": [
+    "洒面松风凉似水。",
+    "下看冰泉，喷薄溪桥底。",
+    "叠叠层峰相对起。",
+    "家居却在深山里。",
+    "枝上凌霄红绕翠。",
+    "飘下红英，翠影争摇曳。",
+    "今夜岩扉休早闭。",
+    "月明定有飞仙至。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-358",
+  "tags": []
+}

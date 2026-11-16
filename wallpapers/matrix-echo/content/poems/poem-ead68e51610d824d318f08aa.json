@@ -1,0 +1,16 @@
+{
+  "id": "poem-ead68e51610d824d318f08aa",
+  "title": "送曹同椅",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "青春三十余，众艺尽无如。",
+    "中散诗传画，将军扇续书。",
+    "楚田晴下雁，江日暖游鱼。",
+    "惆怅空相送，欢游自此疎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-ea112d09-8374-4aba-bdae-504d8c8d893c"
+}

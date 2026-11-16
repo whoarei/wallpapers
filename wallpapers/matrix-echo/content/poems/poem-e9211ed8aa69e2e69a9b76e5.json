@@ -1,0 +1,15 @@
+{
+  "id": "poem-e9211ed8aa69e2e69a9b76e5",
+  "title": "定西番·鸡禄山前游骑",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "鸡禄山前游骑，边草白，朔天明，马蹄轻。",
+    "鹊面弓离短韔，弯来月欲成。",
+    "一只鸡鹘云外，晓鸿惊。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-28"
+}

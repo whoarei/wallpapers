@@ -1,0 +1,18 @@
+{
+  "id": "poem-c0c302a6370b9f564668f5c1",
+  "title": "诉衷情·旋揎玉指著红靴",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "旋揎玉指著红靴。",
+    "宛宛斗弯讹。",
+    "天然自有殊态，供愁黛、不须多。",
+    "分远岫，压横波。",
+    "妙难过。",
+    "自敧枕处，独倚阑时，不奈颦何。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-823",
+  "tags": []
+}

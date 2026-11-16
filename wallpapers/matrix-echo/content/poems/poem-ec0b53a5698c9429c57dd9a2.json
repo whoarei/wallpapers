@@ -1,0 +1,22 @@
+{
+  "id": "poem-ec0b53a5698c9429c57dd9a2",
+  "title": "宋氏五女",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "五女誓终养，贞孝内自持。",
+    "兔丝自萦纡，不上青松枝。",
+    "晨昏在亲傍，闲则读书诗。",
+    "自得圣人心，不因儒者知。",
+    "少年绝音华，贵绝父母词。",
+    "素钗垂两髦，短窄古时衣。",
+    "行成闻四方，征诏环珮随。",
+    "同时入皇宫，联影步玉墀。",
+    "乡中尚其风，重为修茅茨。",
+    "圣朝有良史，将此为女师。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6f2cc792-642c-4d3a-8113-c9f46ea1fd7f"
+}

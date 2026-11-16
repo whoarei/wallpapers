@@ -1,0 +1,20 @@
+{
+  "id": "poem-1449ff01644b3bd9d2e85b70",
+  "title": "春怨",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "春朝物候妍，愁妇镜台前。",
+    "风吹数蝶乱，露洗百花鲜。",
+    "试出褰罗幌，还来著锦筵。",
+    "曲中愁夜夜，楼上别年年。",
+    "不及随萧史，高飞向紫烟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "春天",
+    "闺怨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-de56b324-ae5c-4da5-a3d0-5a83a12ce7d5"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3004793d6652fbe829e9298f",
+  "title": "虞美人·碧梧桐映纱窗晚",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "碧梧桐映纱窗晚，花谢莺声懒。",
+    "小屏屈曲掩青山，翠帷香粉玉炉寒，两蛾攒。",
+    "颠狂少年轻离别，辜负春时节。",
+    "画罗红袂有啼痕，魂消无语倚闺门，欲黄昏。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-36"
+}

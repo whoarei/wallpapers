@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6d89",
+  "script": "seal",
+  "character": "涉",
+  "reading": "shè",
+  "description": "shè：(1)步行过水～渡。～江。跋～。\n(2)到，经历～世（经历世事）。～历。～险。～足。\n(3)牵连，关连～及。～嫌。～外（涉及与外国关系的）。交～。牵～。～猎。\n(4)动，着（zhuó）～笔。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-涉"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-61cbdc3bdf7a2c93c9f14cbd",
+  "title": "越境送别者七人蒋元肃黄少度鹿伯可赵元序陈德溥叶飞卿林致约少酌驿舍",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "同僚送我枫庭驿，共酌临分酒一杯。",
+    "我念泉人仍惜别，此身虽去首频回。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-c2f198f4-2a8c-4ba4-b2a7-0fdd76276478"
+}

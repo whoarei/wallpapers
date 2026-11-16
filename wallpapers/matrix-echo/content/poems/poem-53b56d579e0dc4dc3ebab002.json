@@ -1,0 +1,16 @@
+{
+  "id": "poem-53b56d579e0dc4dc3ebab002",
+  "title": "送濮阳录事赴忠州",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "成名不遂双旌远，主印还为一郡雄。",
+    "赤叶黄花随野岸，青山白水映江枫。",
+    "巴人夜语孤舟里，越鸟春啼万壑中。",
+    "闻说古书多未校，肯令才子久西东。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-898151bf-b3b7-4387-b41c-f56da1575e2e"
+}

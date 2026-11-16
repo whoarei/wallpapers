@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-537f",
+  "script": "seal",
+  "character": "卿",
+  "reading": "qīng",
+  "description": "qīng：(1)古代高级官名三公九～。～相。\n(2)古代对人敬称，如称荀子为荀卿”。\n(3)自中国唐代开始，君主称臣民。\n(4)古代上级称下级、长辈称晚辈。\n(5)古代夫妻互称～～。～～我我（形容男女间非常亲昵）。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卿"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9891",
+  "script": "kai",
+  "character": "频",
+  "reading": "pín",
+  "description": "接近;临近\n并列\n重复,连续\n危急;紧急\n⒈屡次，连续多次～繁。捷报～传。～～招手。\n⒉［频仍］连续不断，一再重复。\n⒊［频率］\n②在一定的时间或范围内事物重复出现或反复发生的次数。\n频bīn 1.水边。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-频"
+}

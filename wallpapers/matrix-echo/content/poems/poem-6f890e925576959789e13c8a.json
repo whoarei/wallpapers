@@ -1,0 +1,16 @@
+{
+  "id": "poem-6f890e925576959789e13c8a",
+  "title": "姑熟杂咏 丹阳湖",
+  "author": "李赤",
+  "dynasty": "唐",
+  "verses": [
+    "湖与元气通，风波浩难止。",
+    "天外贾客归，云间片帆起。",
+    "龟游莲叶上，鸟宿芦花里。",
+    "少女棹舟归，歌声逐流水。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1b2fa983-01ec-4aed-a9f3-3a50bc295323"
+}

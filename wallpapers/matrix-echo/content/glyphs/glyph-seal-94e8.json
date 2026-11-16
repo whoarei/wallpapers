@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94e8",
+  "script": "seal",
+  "character": "铨",
+  "reading": "quán",
+  "description": "指古代史书中解说、评议一类的文字\n称量;衡量;鉴别\n⒈秤，衡量轻重用～。～度。\n⒉旧时称盐官吏～选。～授。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铨"
+}

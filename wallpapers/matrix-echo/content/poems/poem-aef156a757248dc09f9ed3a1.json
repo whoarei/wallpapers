@@ -1,0 +1,14 @@
+{
+  "id": "poem-aef156a757248dc09f9ed3a1",
+  "title": "长门怨三首 二",
+  "author": "刘皂",
+  "dynasty": "唐",
+  "verses": [
+    "宫殿沈沈月欲分，昭阳更漏不堪闻。",
+    "珊瑚枕上千行泪，不是思君是恨君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-d995cd69-6e1a-4f0d-bc9d-bbbedc747d33"
+}

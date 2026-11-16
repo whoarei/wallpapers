@@ -1,0 +1,14 @@
+{
+  "id": "poem-9ee5d75f490eec95c6d619ae",
+  "title": "咏烛二首 二",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "九龙蟠燄动，四照逐花生。",
+    "即此流高殿，堪持待月明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-c3fd8880-154d-479b-a852-c5f31ad5463e"
+}

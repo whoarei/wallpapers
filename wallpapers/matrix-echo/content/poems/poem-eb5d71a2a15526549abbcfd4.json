@@ -1,0 +1,14 @@
+{
+  "id": "poem-eb5d71a2a15526549abbcfd4",
+  "title": "小游仙诗九十八首 二十九",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "汗漫真游实可奇，人间天上几人知。",
+    "周王不信长生话，空使苌弘碧泪垂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c22cc759-e53c-43fe-a887-373ba46ff76d"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3232089fa58e7a31abd1e01f",
+  "title": "朝日勅赐百官樱桃",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "仙果人间都未有，今朝忽见下天门。",
+    "捧盘小吏初宣勅，当殿群臣共拜恩。",
+    "日色遥分门下坐，露香才出禁中园。",
+    "每年重此先偏待，愿得千春奉至尊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-7ef7bc94-3b3f-4224-ba4c-889a39870e38"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-43dda971de703f4c2ec56790",
+  "title": "成都曲",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "锦江近西烟水绿，新雨山头荔枝熟。",
+    "万里桥边多酒家，游人爱向谁家宿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "带有地名",
+    "写景",
+    "地名"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-651987af-2600-4410-a813-0d0f8ae28b66"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-0c05966f871a1c2f2ec79a10",
+  "title": "江梅",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "北风号乔林，万象无容姿。",
+    "高标自有时，正与冰雪宜。",
+    "老干俨枯木，疎花粲横枝。",
+    "刻玉费天巧，不为俗眼窥。",
+    "托质在空谷，清高终见知。",
+    "论功鼎鼐间，枝头子离离。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-540f65aa-1d5c-4013-8bbd-f59ebbe8612e"
+}

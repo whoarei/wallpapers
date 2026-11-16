@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8fb1",
+  "script": "seal",
+  "character": "辱",
+  "reading": "rǔ",
+  "description": "rǔ：(1)羞耻羞～。耻～。\n(2)使受到羞耻～骂。侮～。折～。\n(3)谦辞，表示承蒙～承。～赐。\n(4)玷污，辜负～没（mò）。～命。玷～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辱"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-38d033d54a9cbcd04a152483",
+  "title": "生查子·金井堕高梧",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "金井堕高梧，玉殿笼斜月。",
+    "永巷寂无人，敛态愁堪绝。",
+    "玉炉寒，香烬灭，还似君恩歇。",
+    "翠辇不归来，幽恨将谁说。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-13"
+}

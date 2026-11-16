@@ -1,0 +1,18 @@
+{
+  "id": "poem-932ae5f47d5a099870364c33",
+  "title": "度涂山",
+  "author": "寇泚",
+  "dynasty": "唐",
+  "verses": [
+    "小年弄文墨，不识戎旅难。",
+    "一朝事鞞鼓，策马度涂山。",
+    "涂山横地轴，万里留荒服。",
+    "悠悠征斾远，𬴂骖一何速。",
+    "流月挥金戈，惊风折寒木。",
+    "行闻汉飞将，还向臯兰宿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-18678980-d18d-4d54-b981-0193b9476cbd"
+}

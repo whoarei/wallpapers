@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9488",
+  "script": "kai",
+  "character": "针",
+  "reading": "zhēn",
+  "description": "缝缀衣物的用具。也叫引线”\n⒈缝、补衣物时引线用的一种细长的工具缝～。穿～引线。\n⒉形状像针的东西松～。大头～。金～菜。钟表上的时～、分～、秒～。\n⒊用于医疗的有关针的器具、药品等～头。银～。扎～。打～。防疫～。～剂。～灸疗法。～刺麻醉。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-针"
+}

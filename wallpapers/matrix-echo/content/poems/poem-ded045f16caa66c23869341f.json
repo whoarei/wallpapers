@@ -1,0 +1,14 @@
+{
+  "id": "poem-ded045f16caa66c23869341f",
+  "title": "羔裘",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "羔裘豹祛，自我人居居。岂无他人？维子之故。",
+    "羔裘豹褎，自我人究究。岂无他人？维子之好。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-119"
+}

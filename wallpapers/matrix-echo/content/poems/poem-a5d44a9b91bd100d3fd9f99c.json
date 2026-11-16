@@ -1,0 +1,20 @@
+{
+  "id": "poem-a5d44a9b91bd100d3fd9f99c",
+  "title": "减字木兰花·大江北去",
+  "author": "陈瓘",
+  "dynasty": "宋",
+  "verses": [
+    "大江北去。",
+    "未到沧溟终不住。",
+    "淮水东流。",
+    "日夜朝宗亦未休。",
+    "香炉烟袅。",
+    "浓淡卷舒终不老。",
+    "寸碧千锺。",
+    "人醉华胥月色中。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-547",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5072b184b3b6f5077820b55f",
+  "title": "水壶子",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "良匠曾陶莹，多居笔砚中。",
+    "一从亲几案，常恐近儿童。",
+    "卓立澄心久，提携注意通。",
+    "不应嫌器小，还有济人功。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-1dc06baa-9966-4a88-9a9b-fa9ed08e5d4a"
+}

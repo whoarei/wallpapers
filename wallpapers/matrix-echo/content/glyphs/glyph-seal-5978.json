@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5978",
+  "script": "seal",
+  "character": "奸",
+  "reading": "jiān",
+  "description": "jiān：(1)阴险，虚伪，狡诈～人。～狡。～刁。～佞。～雄。～智（为非作歹的心计）。藏（cáng）～。\n(2)不忠于国家或自己一方的人～细。内～。\n(3)男女发生不正当的性行为～淫。强～（亦指统治者把自己的意志强加于人民，如～～民意”）。通～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-奸"
+}

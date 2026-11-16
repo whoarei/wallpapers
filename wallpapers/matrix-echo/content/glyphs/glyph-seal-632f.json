@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-632f",
+  "script": "seal",
+  "character": "振",
+  "reading": "zhèn",
+  "description": "zhèn：(1)搬动，挥动～动。～荡。～幅。～臂。～聋发聩（喻唤醒糊涂麻木的人）。\n(2)奋起，兴起～奋。～作。～兴（xīng）。～～有辞。\n(3)古同赈”，救济。\n(4)古同震”，威震。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-振"
+}

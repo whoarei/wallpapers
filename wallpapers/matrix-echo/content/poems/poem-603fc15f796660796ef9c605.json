@@ -1,0 +1,16 @@
+{
+  "id": "poem-603fc15f796660796ef9c605",
+  "title": "偈颂（幷序○序为南岳齐己撰） 九十二",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "若能明实相，岂用陈知见。",
+    "一念了自心，开佛诸知见。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-fa8c2f89-7891-42a1-89e7-5b1ed2d95cce"
+}

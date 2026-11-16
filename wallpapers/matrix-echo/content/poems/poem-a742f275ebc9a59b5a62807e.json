@@ -1,0 +1,14 @@
+{
+  "id": "poem-a742f275ebc9a59b5a62807e",
+  "title": "浣溪沙·枕障熏炉隔绣帷",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "枕障熏炉隔绣帷，二年终日两相思，杏花明月始应知。",
+    "天上人间何处去，旧欢新梦觉来时，黄昏微雨画帘垂。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-32"
+}

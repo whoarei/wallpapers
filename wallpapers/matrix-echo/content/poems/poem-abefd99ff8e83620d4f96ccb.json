@@ -1,0 +1,16 @@
+{
+  "id": "poem-abefd99ff8e83620d4f96ccb",
+  "title": "同李司直题武丘寺兼留诸公与陆羽之无锡",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "陵寝成香阜，禅枝出白杨。",
+    "劒池留故事，月树即他方。",
+    "应世缘须别，栖心趣不忘。",
+    "还将陆居士，晨发泛归航。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f8a801ae-24da-4893-bc08-9c0b357326cc"
+}

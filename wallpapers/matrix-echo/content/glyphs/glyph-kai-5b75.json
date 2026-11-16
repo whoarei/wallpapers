@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5b75",
+  "script": "kai",
+  "character": "孵",
+  "reading": "fū",
+  "description": "fū：鸟类伏在卵上（亦指用人工的方法），使卵内的胚胎发育成雏鸟～化。～育。～小鸡。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-孵"
+}

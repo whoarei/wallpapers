@@ -1,0 +1,19 @@
+{
+  "id": "poem-a9d7e9ee4d1664dcb1334c20",
+  "title": "画堂春·春波浅碧涨方池",
+  "author": "仲并",
+  "dynasty": "宋",
+  "verses": [
+    "春波浅碧涨方池。",
+    "池台深锁烟霏。",
+    "缓歌争胜早莺啼。",
+    "客忍轻归。",
+    "合坐香凝宿雾，垫巾梅插寒枝。",
+    "渐西蟾影漾馀辉。",
+    "醉倒谁知。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-192",
+  "tags": []
+}

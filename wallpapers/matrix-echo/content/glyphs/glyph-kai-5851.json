@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5851",
+  "script": "kai",
+  "character": "塑",
+  "reading": "sù",
+  "description": "sù：用泥土等做成人、物的形象～像。泥～木雕。雕～。\n〔～性〕柔软，非流质，可任意变形的性质。\n〔～料〕具有可塑性的高分子化合物的统称，经加热加压而形成的，具有一定形状的材料。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-塑"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-00a174ac29bc01dadaf37cfc",
+  "title": "永明山居诗（六十九首） 二十四",
+  "author": "延寿",
+  "dynasty": "唐",
+  "verses": [
+    "危岭如登百尺楼，千般异景望中收。",
+    "浮生但向忙时过，万事须从静处休。",
+    "道直岂教容鬼怪，理平唯只使魔愁。",
+    "空门莫说无知己，满目松萝是我俦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-d47fdce6-83b9-46c9-9254-0813e45af7af"
+}

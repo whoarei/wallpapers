@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-63a9",
+  "script": "seal",
+  "character": "掩",
+  "reading": "yǎn",
+  "description": "yǎn：(1)遮蔽，遮盖～护。～体。～饰。～映。～盖。～蔽。～埋。～人耳目。瑕不～瑜。藏瑕～疵。\n(2)关，合～闭。～门。～卷。\n(3)门、窗、箱柜等关合时夹住了东西～了手。\n(4)乘人不备而袭击或捉拿～杀。～击。～袭。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-掩"
+}

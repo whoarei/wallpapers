@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-77e5",
+  "script": "kai",
+  "character": "知",
+  "reading": "zhī；zhì",
+  "description": "zhī：(1)晓得，明了～道。～名（著名）。～觉（有感觉而知道）。良～。～人善任。温故～新。～难而进。～情达理。\n(2)使知道通～。～照。\n(3)学识，学问～识，求～。无～。\n(4)主管～县（旧时的县长）。～府。～州。～宾（指主管招待宾客的人。亦称知客”）。\n(5)彼此了解相～。～音。～近。\n(6)彼此了解、交好的人故～（老朋友）。\nzhì：古同智”，智慧。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-知"
+}

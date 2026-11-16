@@ -1,0 +1,20 @@
+{
+  "id": "poem-ec46d2d662a512e256bbd48d",
+  "title": "满庭芳·堠雪翻鸦",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "堠雪翻鸦，河冰跃马，惊风吹度龙堆。",
+    "阴磷夜泣，此景总堪悲。",
+    "待向中宵起舞，无人处、那有村鸡。",
+    "只应是，金笳暗拍，一样泪沾衣。",
+    "须知今古事，棋枰胜负，翻覆如斯。",
+    "叹纷纷蛮触，回首成非。",
+    "剩得几行青史，斜阳下、断碣残碑。",
+    "年华共，混同江水，流去几时回。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-99"
+}

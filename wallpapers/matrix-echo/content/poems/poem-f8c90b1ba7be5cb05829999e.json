@@ -1,0 +1,16 @@
+{
+  "id": "poem-f8c90b1ba7be5cb05829999e",
+  "title": "帝京篇十首 七",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "落日双阙昏，回舆九重暮。",
+    "长烟散初碧，皎月澄轻素。",
+    "搴幌玩琴书，开轩引云雾。",
+    "斜汉耿层阁，清风摇玉树。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-621207da-c9ba-4f95-b637-a6bef91b1411"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3c2583d219e68fd992d05be4",
+  "title": "自长沙至醴陵田皆垦辟有筑室而居者",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "年来盗贼若冰销，襁负归民满四郊。",
+    "烟雨一犁初破土，江村环堵且诛茅。",
+    "疮痍不扰生新肉，燕雀无虞返旧巢。",
+    "安集勤斯徒自叹，勿令虎兕更咆哮。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-59c25947-3b60-4988-8e55-8948e5449a8a"
+}

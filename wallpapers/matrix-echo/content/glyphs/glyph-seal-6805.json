@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6805",
+  "script": "seal",
+  "character": "栅",
+  "reading": "shān；zhà；shi；cè",
+  "description": "zhà：用竹木铁条等做成的阻拦物～栏。～子。\nshān：〔～极〕多极电子管靠阴极的一个电极。\n〔光～〕产生光的衍射图像的光学仪器。\nshi：〔大～栏〕方言，中国北京市前门外一条热闹街市名。\ncè：〔上～〕\n〔下～〕地名，均在中国广东省。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-栅"
+}

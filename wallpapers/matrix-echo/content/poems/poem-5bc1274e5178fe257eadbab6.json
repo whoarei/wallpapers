@@ -1,0 +1,16 @@
+{
+  "id": "poem-5bc1274e5178fe257eadbab6",
+  "title": "兴京陪祭福陵",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "龙盘凤翥气佳哉，东指斋宫玉辇来。",
+    "影入松楸仙仗远，香升俎豆晓云开。",
+    "盛仪备处千官肃，神贶乘时万马回。",
+    "豹尾叨陪须献颂，小臣惭愧展微才。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-244"
+}

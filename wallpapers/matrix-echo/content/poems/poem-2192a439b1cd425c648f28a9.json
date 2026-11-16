@@ -1,0 +1,14 @@
+{
+  "id": "poem-2192a439b1cd425c648f28a9",
+  "title": "郊庙歌辞 享先农乐章 舒和",
+  "author": "褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "羽籥低昂文缀已，干戚蹈厉武行初。",
+    "望岁祈农神所听，延祥介福岂云虚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-8c8af1df-4b92-4010-b723-32326a23bf82"
+}

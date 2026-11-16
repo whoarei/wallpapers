@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6014",
+  "script": "kai",
+  "character": "怔",
+  "reading": "zhēng",
+  "description": "zhēng：〔～忪〕惊惧。\n〔～忡〕中医指心悸。\n〔～营〕惶恐不安。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怔"
+}

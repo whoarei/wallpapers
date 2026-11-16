@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5357",
+  "script": "seal",
+  "character": "南",
+  "reading": "nán；nā",
+  "description": "nán：(1)方向，早晨面对太阳，右手的一边，与北”相对～北。～方。～面。～国（指中国南部）。～陲（南部边疆）。～极。～半球。\n(2)姓。\n北；\nnā：〔～无（mó）〕佛教用语，意思是合掌稽首，表示对佛尊敬或皈依，常加于佛、菩萨名的前面，如～～阿弥陀佛”、～～观世音菩萨”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-南"
+}

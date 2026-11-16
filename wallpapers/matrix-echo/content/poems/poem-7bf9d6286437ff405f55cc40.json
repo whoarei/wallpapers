@@ -1,0 +1,14 @@
+{
+  "id": "poem-7bf9d6286437ff405f55cc40",
+  "title": "凭远亭",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "莎庭日日报平安，幽处依然绝往还。",
+    "平野四围天一幅，有人踏雪看南山。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-59efc573-a2e7-45fc-9cf0-216a25e8d818"
+}

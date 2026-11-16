@@ -1,0 +1,16 @@
+{
+  "id": "poem-d54d55ff8f71374e54ec8b98",
+  "title": "边上",
+  "author": "张佖",
+  "dynasty": "宋",
+  "verses": [
+    "戍楼吹角起征鸿，猎猎寒旌背晚风。",
+    "千里暮烟愁不尽，一川秋草恨无穷。",
+    "山河惨澹关城闭，人物萧条市井空。",
+    "只此旅魂招未得，更堪回首夕阳中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-76aebb2b-7679-4072-bdd4-6cd40121ade6"
+}

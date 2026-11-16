@@ -1,0 +1,16 @@
+{
+  "id": "poem-2744d5e77aa0172c763af629",
+  "title": "鹧鸪词二首 一",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "湘江烟水深，沙岸隔枫林。",
+    "何处鹧鸪飞，日斜斑竹阴。",
+    "二女空垂泪，三闾枉自沉。",
+    "惟有鹧鸪啼，独伤行客心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-c71c6d07-b995-45d0-8a4c-6e52d666025b"
+}

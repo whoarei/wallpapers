@@ -1,0 +1,18 @@
+{
+  "id": "poem-8be53488132aaca9ae41352e",
+  "title": "奉和圣制荅张说扈从南出雀鼠谷之作",
+  "author": "袁晖",
+  "dynasty": "唐",
+  "verses": [
+    "魏国山河险，周王警跸回。",
+    "九旗云际出，万骑谷中来。",
+    "石路行将尽，烟郊望忽开。",
+    "赏矜垂柳报，春畏落花催。",
+    "兴逸横汾什，恩褒作颂才。",
+    "小臣瞻日月，延首咏康哉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-29b67fd8-ac8b-4e91-909e-b92ef44c66d1"
+}

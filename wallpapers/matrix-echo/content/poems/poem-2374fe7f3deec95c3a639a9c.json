@@ -1,0 +1,16 @@
+{
+  "id": "poem-2374fe7f3deec95c3a639a9c",
+  "title": "谢所知",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "狂歌狂舞慰风尘，心下多端亦嬾言。",
+    "早是乱离轻岁月，谁能愁悴过朝昏。",
+    "圣朝公道如长在，贱子谋身自有门。",
+    "却愧此时叨厚遇，他年何以报深恩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-64b089aa-cb0f-401b-9aab-2067825e8b52"
+}

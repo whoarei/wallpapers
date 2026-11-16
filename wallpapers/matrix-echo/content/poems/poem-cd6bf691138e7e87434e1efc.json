@@ -1,0 +1,18 @@
+{
+  "id": "poem-cd6bf691138e7e87434e1efc",
+  "title": "忆仙姿・如梦令·莲叶初生南浦",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "莲叶初生南浦。",
+    "两岸绿杨飞絮。",
+    "向晚鲤鱼风，断送彩帆何处。",
+    "凝伫。",
+    "凝伫。",
+    "楼外一江烟雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-50",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f21324f8b53ed32bbde8d9e1",
+  "title": "郊庙歌辞 享太庙乐章 大政舞",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "于赫元命，权舆帝文。",
+    "天齐八柱，地半三分。",
+    "宗庙观德，笙镛乐勋。",
+    "封唐之兆，成天下君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-884a1a63-e25d-4735-8987-3e557d13bb58"
+}

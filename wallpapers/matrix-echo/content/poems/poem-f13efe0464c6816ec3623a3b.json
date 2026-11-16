@@ -1,0 +1,15 @@
+{
+  "id": "poem-f13efe0464c6816ec3623a3b",
+  "title": "扶南曲歌词五首 一",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "翠羽流苏帐，春眠曙不开。",
+    "羞从面色起，娇逐语声来。",
+    "早向昭阳殿，君王中使催。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-fd3944f6-676d-4c8b-90ca-d694a69f30d9"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b22a0c71f5db422c6a7d0729",
+  "title": "题翠蛟亭",
+  "author": "李斗南",
+  "dynasty": "宋",
+  "verses": [
+    "壮士传观山石间，腰头宝剑祥光吐。",
+    "摩挲醉眼叱海神，嫌杀蛟龙作妖舞。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-211d10fc-9109-403a-a317-abfa8b92eb5a"
+}

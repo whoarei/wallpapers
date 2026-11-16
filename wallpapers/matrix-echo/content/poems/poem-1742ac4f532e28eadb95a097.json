@@ -1,0 +1,18 @@
+{
+  "id": "poem-1742ac4f532e28eadb95a097",
+  "title": "客饷新橙有感",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "湖外新橙也自黄，故人相赠解包香。",
+    "捣虀正鲙双鱼美，荐酒聊持一瓣尝。",
+    "湛岘旧栽千树橘，洞庭初落满林霜。",
+    "木奴供给何须道，怅望东吴云水郷。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-e1119d87-6fd2-4aba-8c49-5f3988147f60"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c0873c4739808bf5afb7ebc5",
+  "title": "郊庙歌辞 仪坤庙乐章 永和",
+  "author": "祝钦明",
+  "dynasty": "唐",
+  "verses": [
+    "閟宫实实，清庙微微。",
+    "降格无象，馨香有依。",
+    "式昭纂庆，方融嗣徽。",
+    "明禋是享，神保聿归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-eed3132b-db96-48c9-aefc-898186012ccc"
+}

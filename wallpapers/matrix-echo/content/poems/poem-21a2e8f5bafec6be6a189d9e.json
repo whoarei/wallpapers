@@ -1,0 +1,15 @@
+{
+  "id": "poem-21a2e8f5bafec6be6a189d9e",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "一街两岸官员，宅眷。",
+    "念奴夫妇不团圆，折散。",
+    "赶奴出去怎留连，千里远没盘缠，全取我两文钱。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2662",
+  "tags": []
+}

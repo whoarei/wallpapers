@@ -1,0 +1,14 @@
+{
+  "id": "poem-afbf6abb91d794a7ca238c65",
+  "title": "山居夏日",
+  "author": "高骈",
+  "dynasty": "唐",
+  "verses": [
+    "绿树阴浓夏日长，楼台倒影入池塘。",
+    "水晶帘动微风起，满架蔷薇一院香。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-山居夏日"
+}

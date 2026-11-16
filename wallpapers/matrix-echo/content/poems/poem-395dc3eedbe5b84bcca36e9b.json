@@ -1,0 +1,14 @@
+{
+  "id": "poem-395dc3eedbe5b84bcca36e9b",
+  "title": "三代门 子牙妻",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "陵柏无心竹变秋，不能同戚拟同休。",
+    "岁寒焉在空垂涕，覆水如何欲再收。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-26f94d29-6753-4938-94ab-dce13656557f"
+}

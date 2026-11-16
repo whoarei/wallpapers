@@ -1,0 +1,16 @@
+{
+  "id": "poem-98c5960c44a886086bbfc2b5",
+  "title": "乾元中寓居同谷县作歌七首 一",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "有客有客字子美，白头乱发垂过耳。",
+    "岁拾橡栗随狙公，天寒日暮山谷里。",
+    "中原无书归不得，手脚冻皴皮肉死。",
+    "鸣呼一歌兮歌已哀，悲风为我从天来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-ae8396b9-da62-4b1b-9c75-580ff9bfdda3"
+}

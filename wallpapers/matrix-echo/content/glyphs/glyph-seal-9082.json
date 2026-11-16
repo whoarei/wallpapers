@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9082",
+  "script": "seal",
+  "character": "邂",
+  "reading": "xiè",
+  "description": "xiè：〔～逅〕ａ．不期而会，如～～相逢”；ｂ．一旦，偶然，如～～发露，祸及知亲”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-邂"
+}

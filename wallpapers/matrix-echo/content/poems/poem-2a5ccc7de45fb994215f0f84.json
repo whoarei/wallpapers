@@ -1,0 +1,16 @@
+{
+  "id": "poem-2a5ccc7de45fb994215f0f84",
+  "title": "山中寄梁判官",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "归卧东林计偶谐，柴门深向翠微开。",
+    "更无尘事心头起，还有诗情象外来。",
+    "康乐公应频结社，寒山子亦患多才。",
+    "星郎雅是道中侣，六艺拘牵在隗台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-7e1ca04a-ec8d-4414-8fd3-5f5caf642d02"
+}

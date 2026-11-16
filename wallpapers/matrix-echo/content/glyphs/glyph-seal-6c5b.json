@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c5b",
+  "script": "seal",
+  "character": "汛",
+  "reading": "xùn",
+  "description": "xùn：(1)江河定期的涨水～期。～情。防～。桃花～（桃花盛开时发生的河水暴涨。亦称桃汛”）。\n(2)洒～扫（ａ．洒扫；ｂ．扫除，清除）。\n(3)古同讯”～地（中国清代兵制，凡千总、把总、外委所统率的绿营兵均称汛”，其驻防巡逻的地区称汛地”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-汛"
+}

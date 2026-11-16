@@ -1,0 +1,14 @@
+{
+  "id": "poem-554f0633a4bd2bdbfb1a0b60",
+  "title": "回波词",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "回波尔时佺期，流向岭外生归。",
+    "身名已蒙齿录，袍笏未复牙绯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-bd74ae2a-94ae-4f9c-a276-a426fe90d49f"
+}

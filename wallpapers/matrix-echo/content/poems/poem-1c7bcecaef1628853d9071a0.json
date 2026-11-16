@@ -1,0 +1,14 @@
+{
+  "id": "poem-1c7bcecaef1628853d9071a0",
+  "title": "王昭君",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "一回望月一回悲，望月月移人不移。",
+    "何时得见汉朝使，为妾传书斩画师。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-576f5b8e-d99e-43ed-b238-3890abc782c6"
+}

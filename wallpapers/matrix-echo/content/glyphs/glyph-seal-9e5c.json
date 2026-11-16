@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e5c",
+  "script": "seal",
+  "character": "鹜",
+  "reading": "wù",
+  "description": "家鸭\n奔驰。通鹜”\n引申为追\n鹜mù 1.家鸭。 2.晋以后亦指野鸭。 3.通\"骛\"。疾驰。 4.引申为追求。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鹜"
+}

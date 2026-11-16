@@ -1,0 +1,16 @@
+{
+  "id": "poem-dae1138e7a7dd8b5f3d48ddf",
+  "title": "赠王道士",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "日日市朝路，何时无苦辛。",
+    "不随丹灶客，终作白头人。",
+    "浮世度千载，桃源方一春。",
+    "归来华表上，应笑北邙尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e8ac4222-39b9-48fe-9538-8556c1b08b37"
+}

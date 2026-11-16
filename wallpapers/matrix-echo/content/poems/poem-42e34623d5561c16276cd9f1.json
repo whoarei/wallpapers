@@ -1,0 +1,16 @@
+{
+  "id": "poem-42e34623d5561c16276cd9f1",
+  "title": "送友人游蜀",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "此心知者稀，欲别倍相依。",
+    "无食拟同去，有家还未归。",
+    "巴山开国远，劒道入天微。",
+    "必恐临邛客，疑君学赋非。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-02f67006-a3bd-43ab-ad7a-6463c1100442"
+}

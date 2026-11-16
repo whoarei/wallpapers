@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5fe7",
+  "script": "kai",
+  "character": "忧",
+  "reading": "yōu",
+  "description": "忧其民。\n⒈发愁，担心～愁。担～。～心如焚。\n⒉可忧愁的事～患。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-忧"
+}

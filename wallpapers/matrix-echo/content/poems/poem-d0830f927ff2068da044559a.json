@@ -1,0 +1,16 @@
+{
+  "id": "poem-d0830f927ff2068da044559a",
+  "title": "卜算子·要见不得见",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "要见不得见，要近不得近。",
+    "试问得君多少怜，管不解、多于恨。",
+    "禁止不得泪，忍管不得闷。",
+    "天上人间有底愁，向个里、都谙尽。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-818",
+  "tags": []
+}

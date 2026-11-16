@@ -1,0 +1,16 @@
+{
+  "id": "poem-e6d32292a09d1b29aaa46f7c",
+  "title": "泛溪",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "溪船泛渺弥，渐觉灭炎辉。",
+    "动水花连影，逢人鸟背飞。",
+    "深犹见白石，凉好换生衣。",
+    "未得多诗句，终须隔宿归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-55c6730d-21b4-4081-94ce-4db0ed748fa0"
+}

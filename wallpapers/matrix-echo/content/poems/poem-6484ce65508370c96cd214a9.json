@@ -1,0 +1,16 @@
+{
+  "id": "poem-6484ce65508370c96cd214a9",
+  "title": "寄淮海惠泽上人",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "海涛痕满旧征衣，长忆初程宿翠微。",
+    "竹里桥鸣知马过，塔中灯露见鸿飞。",
+    "眉毫别后应盈尺，嵒木居来定几围。",
+    "他日愿师容一榻，煎茶埽地学忘机。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9b5a02f7-f098-4c6a-bd23-7065bb9b627c"
+}

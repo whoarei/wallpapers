@@ -1,0 +1,16 @@
+{
+  "id": "poem-12f363be2c7ffe8992e536d8",
+  "title": "奉和幸安乐公主山庄应制",
+  "author": "萧至忠",
+  "dynasty": "唐",
+  "verses": [
+    "西郊窈窕凤皇台，北渚平明法驾来。",
+    "匝地金声初度曲，周堂玉溜好传杯。",
+    "湾路分游画舟转，岸门相向碧亭开。",
+    "微臣此时承宴乐，髣髴疑从星汉回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-71c0f59c-3b6b-4083-9250-e0d99ea57f0f"
+}

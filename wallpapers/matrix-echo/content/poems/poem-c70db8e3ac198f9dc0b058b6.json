@@ -1,0 +1,14 @@
+{
+  "id": "poem-c70db8e3ac198f9dc0b058b6",
+  "title": "南园十三首 六",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "寻章摘句老雕虫，晓月当帘挂玉弓。",
+    "不见年年辽海上，文章何处哭秋风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-22f75e20-7e62-4c0e-93ca-f71ebba61fa6"
+}

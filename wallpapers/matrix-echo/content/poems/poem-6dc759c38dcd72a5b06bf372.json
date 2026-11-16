@@ -1,0 +1,16 @@
+{
+  "id": "poem-6dc759c38dcd72a5b06bf372",
+  "title": "同玉真公主过大哥山池",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "地有招贤处，人传乐善名。",
+    "鹜池临九达，龙岫对层城。",
+    "桂月先秋冷，苹风向晚清。",
+    "凤楼遥可见，仿佛玉箫声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-31f91bce-39c0-4eb6-b905-c344eb337ecf"
+}

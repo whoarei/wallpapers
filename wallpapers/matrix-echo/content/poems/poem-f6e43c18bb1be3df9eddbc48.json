@@ -1,0 +1,18 @@
+{
+  "id": "poem-f6e43c18bb1be3df9eddbc48",
+  "title": "庚子八月八日再游东山寺",
+  "author": "韩缜",
+  "dynasty": "宋",
+  "verses": [
+    "蜀师当日戍黄金，此地由来险阻深。",
+    "漾水东流自纡直，泰山北望正嵚崟。",
+    "凉风肃物初秋意，膏泽愆期旦昼阴。",
+    "同是天涯未归客，荒烟斜日正登临。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "泰山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-6fb47550-4eed-4d50-8f94-9ba28eb41107"
+}

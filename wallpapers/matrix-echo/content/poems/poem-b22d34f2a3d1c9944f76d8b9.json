@@ -1,0 +1,15 @@
+{
+  "id": "poem-b22d34f2a3d1c9944f76d8b9",
+  "title": "十七",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "四大乖和起，诸方请疗医。",
+    "（「请」，伯三五五八、伯三七一六、伯三六五六卷作「早」。",
+    "）长病煎汤药，求神觅好师。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-5cf8b360-b00d-43b2-a23c-5a99a71f3dc5"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6005",
+  "script": "seal",
+  "character": "怅",
+  "reading": "chàng",
+  "description": "怅 chàng失意；不称心；不痛快；惆～。\n【怅然若失】不如意，仿佛丢了什么似的。\n【怅惘】惆怅迷惘；心事重重，无精打采。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怅"
+}

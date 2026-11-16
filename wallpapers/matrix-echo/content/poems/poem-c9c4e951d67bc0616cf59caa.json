@@ -1,0 +1,16 @@
+{
+  "id": "poem-c9c4e951d67bc0616cf59caa",
+  "title": "送安法师",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "出郭见落日，别君临古津。",
+    "远程无野寺，宿处问何人。",
+    "原色不分路，锡声遥隔尘。",
+    "山阴到家节，犹及蕙兰春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-587eaf17-f792-45bd-a6b6-6d843d0da11e"
+}

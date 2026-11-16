@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6566",
+  "script": "seal",
+  "character": "敦",
+  "reading": "dūn；duì",
+  "description": "dūn：(1)厚道，笃厚～朴。～厚。～实。\n(2)诚心诚意～聘。～请。\n(3)督促使虞～匠”。～劝。～促。\n(4)姓。\nduì：古代盛黍稷的器具。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-敦"
+}

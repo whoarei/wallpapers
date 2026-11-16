@@ -1,0 +1,16 @@
+{
+  "id": "poem-faa958a29cd6bbb832413f6a",
+  "title": "送友人游东川",
+  "author": "喻坦之",
+  "dynasty": "唐",
+  "verses": [
+    "食尽须分散，将行几愿留。",
+    "春兼三月闰，人拟半年游。",
+    "风俗同吴地，山川拥梓州。",
+    "思君登栈道，猨啸始应愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-77576a34-b2d1-498e-9cfe-ea51f70c2083"
+}

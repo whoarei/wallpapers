@@ -1,0 +1,16 @@
+{
+  "id": "poem-f5ba75031ab7e5732d712750",
+  "title": "次姜尧章赠诗卷中韵  其五",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "眼青节食事，日耐饥雷吼。",
+    "兹幸陪众后，酒巵甫到口。",
+    "不离寂寞滨，径造无何有。",
+    "问津归有期，尚许寻盟否。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-edb20123-7f87-4bf1-8d60-0b4e3472a333"
+}

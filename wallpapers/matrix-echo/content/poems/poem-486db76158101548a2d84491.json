@@ -1,0 +1,14 @@
+{
+  "id": "poem-486db76158101548a2d84491",
+  "title": "日者",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "恶月悬弧岂好儿，衣冠聊复换伽黎。",
+    "听言易感人人信，不信田文善相齐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-b66f6bc6-70bc-439e-9ff5-c2aa5f34fc4c"
+}

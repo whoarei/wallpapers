@@ -1,0 +1,18 @@
+{
+  "id": "poem-1f6eaf132de794c108cfac58",
+  "title": "恨春迟·欲借江梅荐饮",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "欲借江梅荐饮。",
+    "望陇驿、音息沈沈。",
+    "住在柳州东，彼此相思，梦回云去难寻。",
+    "归燕来时花期浸。",
+    "淡月坠、将晓还阴。",
+    "争奈多情易感，风信无凭，如何消遣初心。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-812",
+  "tags": []
+}

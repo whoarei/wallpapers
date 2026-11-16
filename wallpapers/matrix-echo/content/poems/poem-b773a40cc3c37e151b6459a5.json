@@ -1,0 +1,20 @@
+{
+  "id": "poem-b773a40cc3c37e151b6459a5",
+  "title": "送友人归山歌二首 一",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "山寂寂兮无人，又苍苍兮多木。",
+    "群龙兮满朝，君何为兮空谷。",
+    "文寡和兮思深，道难知兮行独。",
+    "悦石上兮流泉，与松间兮草屋。",
+    "入云中兮养鸡，上山头兮抱犊。",
+    "神与枣兮如瓜，虎卖杏兮收谷。",
+    "愧不才兮妨贤，嫌既老兮贪禄。",
+    "誓解印兮相从，何詹尹兮何卜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-39096ae6-97b3-422e-a1c6-f725d8f5c105"
+}

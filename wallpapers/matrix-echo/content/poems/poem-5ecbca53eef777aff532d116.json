@@ -1,0 +1,14 @@
+{
+  "id": "poem-5ecbca53eef777aff532d116",
+  "title": "即事寄人",
+  "author": "杨凌",
+  "dynasty": "唐",
+  "verses": [
+    "中禁鸣钟日欲高，北窗欹枕望频搔。",
+    "相思寂寞青苔合，唯有春风啼伯劳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d98880f6-8f83-4a02-9fc7-94dca8c9fed9"
+}

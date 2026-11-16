@@ -1,0 +1,16 @@
+{
+  "id": "poem-16ccfdaaa306d9c500ef8796",
+  "title": "浮梁金鳌山",
+  "author": "艾可叔",
+  "dynasty": "宋",
+  "verses": [
+    "鳌骨分明露浅洲，登临几度泛虚舟。",
+    "人生天地蜉蝣寄，世事江河日夜流。",
+    "前后朗吟坡老赋，逍遥终羡漆园游。",
+    "子真谷口今成趣，不为红尘枉白头。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-c2a02160-9cf5-4567-a9d4-38b74758ff57"
+}

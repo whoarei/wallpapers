@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-535f",
+  "script": "seal",
+  "character": "卟",
+  "reading": "bǔ",
+  "description": "bǔ：〔～吩〕一种有机化合物，是叶绿素，血红蛋白等的重要组成部分。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卟"
+}

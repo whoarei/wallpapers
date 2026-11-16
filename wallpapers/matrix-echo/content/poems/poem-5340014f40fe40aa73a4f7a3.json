@@ -1,0 +1,14 @@
+{
+  "id": "poem-5340014f40fe40aa73a4f7a3",
+  "title": "与月船周君话别  其一",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "明日须知子遂行，一灯对语过三更。",
+    "离魂已逐歌声断，清梦空随夜雨生。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-a2d2ac7f-6195-4cd3-b959-a7a8f0b50a35"
+}

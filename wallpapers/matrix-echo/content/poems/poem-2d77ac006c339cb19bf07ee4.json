@@ -1,0 +1,14 @@
+{
+  "id": "poem-2d77ac006c339cb19bf07ee4",
+  "title": "归雁",
+  "author": "钱起",
+  "dynasty": "唐",
+  "verses": [
+    "潇湘何事等闲回，水碧沙明两岸苔。",
+    "二十五弦弹夜月，不胜清怨却飞来。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-歸雁"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-526ea289db3700cbbe91023f",
+  "title": "川鲍老",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "君在两山，两山成出字。",
+    "(末白)两个山是出字。",
+    "(丑连唱)遇一人假虎衣。",
+    "白虎算来，只在西方旺，西方却是川地。",
+    "君出去向北尽得，不免有些，跌扑脓血疾。",
+    "千里外豹变，一时掀焰，归来贺喜。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2463",
+  "tags": []
+}

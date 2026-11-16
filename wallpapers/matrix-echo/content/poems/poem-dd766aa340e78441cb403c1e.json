@@ -1,0 +1,14 @@
+{
+  "id": "poem-dd766aa340e78441cb403c1e",
+  "title": "千秋节赐群臣镜",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "瑞露垂花绶，寒冰澈宝输。",
+    "对兹台上月，聊以庆佳辰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-275ae461-9263-47e1-8a47-d477e519c3a9"
+}

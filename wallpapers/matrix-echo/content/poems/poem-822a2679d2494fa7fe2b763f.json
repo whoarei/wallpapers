@@ -1,0 +1,14 @@
+{
+  "id": "poem-822a2679d2494fa7fe2b763f",
+  "title": "回波辞",
+  "author": "李景伯",
+  "dynasty": "唐",
+  "verses": [
+    "回波尔时酒巵，微臣职在箴规。",
+    "侍䜩既过三爵，喧哗窃恐非仪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-b35fe792-9512-408f-a45b-3fb4bcd4f89c"
+}

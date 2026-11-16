@@ -1,0 +1,23 @@
+{
+  "id": "poem-c0666a05059ce0cb902b06ca",
+  "title": "夜月",
+  "author": "刘方平",
+  "dynasty": "唐",
+  "verses": [
+    "更深月色半人家，北斗阑干南斗斜。",
+    "今夜偏知春气暖，虫声新透绿窗纱。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "月亮",
+    "春天",
+    "田园",
+    "九年级上册(课外)",
+    "中秋",
+    "初中古诗",
+    "七言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-79e7ec6e-0d6c-4f95-8181-4671c42e1faf"
+}

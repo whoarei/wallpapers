@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e8a",
+  "script": "kai",
+  "character": "床",
+  "reading": "chuáng",
+  "description": "chuáng：(1)供人睡卧的家具～铺。木～。～榻。\n(2)像床的东西车～。机～∮～。\n(3)量词，用于被褥等两～被。\n(4)井上围栏后园凿井银作～，金瓶素绠汲寒浆”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-床"
+}

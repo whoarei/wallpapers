@@ -1,0 +1,14 @@
+{
+  "id": "poem-576449fe68b81879ddd4f94e",
+  "title": "凌云峰",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "烟萝高𪩘势凌云，影泻斜阳出海门。",
+    "曾与支公探隠去，夜寒雷雨上方闻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-dc0aacf6-3e95-4aae-b386-92b3e1cae59e"
+}

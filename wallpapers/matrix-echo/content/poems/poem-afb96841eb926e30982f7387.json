@@ -1,0 +1,16 @@
+{
+  "id": "poem-afb96841eb926e30982f7387",
+  "title": "菩萨蛮·绣帘高轴临塘看",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "绣帘高轴临塘看，雨翻荷芰真珠散。",
+    "残暑晚初凉，轻风渡水香。",
+    "无聊悲往事，怎奈牵情思。",
+    "光景暗相催，等闲秋又来。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-11"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-f9268f22e73f75c3678da9e5",
+  "title": "水调歌头·太白乃吾祖",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "太白乃吾祖，逸气薄青云。",
+    "开元有道，聊复乘兴一来宾。",
+    "天子呼来方醉，洒面清泉微醒，馀吐试龙巾。",
+    "词翰不加点，歌阕满宫春。",
+    "笔风雨，心锦绣，极清新。",
+    "大儿中令，神契兼有坐忘人。",
+    "不识将军高贵，醉里指污吾足，乃敢尚衣嗔。",
+    "千载已仙去，图象耸风神。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-573",
+  "tags": []
+}

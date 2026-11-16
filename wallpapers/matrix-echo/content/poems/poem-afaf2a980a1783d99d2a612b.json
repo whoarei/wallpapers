@@ -1,0 +1,14 @@
+{
+  "id": "poem-afaf2a980a1783d99d2a612b",
+  "title": "对早梅寄友人二首 二",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "忆得去年有遗恨，花前未醉到无花。",
+    "清芳一夜月通白，先脱寒衣送酒家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-d8351dd2-c045-42a4-ac5b-6ae504f541be"
+}

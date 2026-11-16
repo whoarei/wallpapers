@@ -1,0 +1,14 @@
+{
+  "id": "poem-5f96469f159bf73caa2db6b0",
+  "title": "山中避难作",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "山头烽火水边营，鬼哭人悲夜夜声。",
+    "唯有碧天无一事，日还西下月还明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-75dd09a5-71b9-47d8-9f49-593cfed39750"
+}

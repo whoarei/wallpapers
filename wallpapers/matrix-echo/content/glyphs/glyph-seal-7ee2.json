@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ee2",
+  "script": "seal",
+  "character": "绢",
+  "reading": "juàn",
+  "description": "麦青色的丝织物\n丝织品的通称\n手绢\n⒈一种薄的生丝织品，〈古〉多用作于书画、装璜等。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绢"
+}

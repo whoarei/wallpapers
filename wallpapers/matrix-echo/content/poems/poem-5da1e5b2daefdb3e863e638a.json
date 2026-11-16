@@ -1,0 +1,16 @@
+{
+  "id": "poem-5da1e5b2daefdb3e863e638a",
+  "title": "郊庙歌辞 武后大享拜洛乐章 昭和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "舒阴致养，合大资生。",
+    "德以恒固，功由永贞。",
+    "升歌荐序，垂币翘诚。",
+    "虹开玉照，凤引金声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6a86c51e-e062-44b9-bf59-a3f54c997775"
+}

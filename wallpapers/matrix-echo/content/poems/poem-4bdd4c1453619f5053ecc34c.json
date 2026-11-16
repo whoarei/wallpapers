@@ -1,0 +1,14 @@
+{
+  "id": "poem-4bdd4c1453619f5053ecc34c",
+  "title": "梧桐树",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(丑)官人听我言：世事只如此。",
+    "只重衣衫，那重人贤慧！如今只重钱和势，你恁贫寒识甚高低？一领布衫，比不得咱每的？何须共你争闲气！。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1848",
+  "tags": []
+}

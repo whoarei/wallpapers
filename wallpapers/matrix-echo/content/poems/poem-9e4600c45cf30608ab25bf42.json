@@ -1,0 +1,23 @@
+{
+  "id": "poem-9e4600c45cf30608ab25bf42",
+  "title": "静夜思",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "床前看月光，疑是地上霜。",
+    "举头望山月，低头思故乡。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "新乐府辞",
+    "思乡",
+    "中秋",
+    "一年级上册",
+    "月亮",
+    "五言绝句",
+    "小学古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-ca2c489a-e433-4c0f-8248-77d354f0665e"
+}

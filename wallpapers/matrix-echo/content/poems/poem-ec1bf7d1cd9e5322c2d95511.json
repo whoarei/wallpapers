@@ -1,0 +1,13 @@
+{
+  "id": "poem-ec1bf7d1cd9e5322c2d95511",
+  "title": "句",
+  "author": "豆卢岑",
+  "dynasty": "唐",
+  "verses": [
+    "隔门借问人谁在，一树桃花笑不应。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-f3e4c4ac-2277-4ca8-9e67-0e5d0012f9a4"
+}

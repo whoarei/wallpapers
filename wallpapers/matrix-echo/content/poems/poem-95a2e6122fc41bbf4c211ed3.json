@@ -1,0 +1,16 @@
+{
+  "id": "poem-95a2e6122fc41bbf4c211ed3",
+  "title": "送崔侍御入朝",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "十年犹执宪，万里独归春。",
+    "旧国逢芳草，青云见故人。",
+    "潘郎今发白，陶令本家贫。",
+    "相送临京口，停桡泪满巾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c1ebbb06-55b7-40d1-8f23-63491faa6fa7"
+}

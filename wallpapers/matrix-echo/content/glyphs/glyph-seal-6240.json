@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6240",
+  "script": "seal",
+  "character": "所",
+  "reading": "suǒ",
+  "description": "suǒ：(1)处，地方住～。哨～。场～。处～。\n(2)机关或其他办事的地方的名称研究～。派出～。\n(3)量词，指房屋一～四合院。\n(4)用在动词前，代表接受动作的事物～部（所率领的部队）。～谓（a.所说的；b.某些人所说的，含不承认意）。无～谓（不关紧要，不关心）。～有。各尽～能。～向无敌。有～不为而后可以有为。\n(5)用在动词前，与前面的为”或被”字相应，表示被动的意思为人～敬。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-所"
+}

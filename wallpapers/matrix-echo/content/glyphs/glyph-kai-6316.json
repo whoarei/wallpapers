@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6316",
+  "script": "kai",
+  "character": "挖",
+  "reading": "wā",
+  "description": "wā：(1)掘，掏～掘。～墙脚（喻拆台）。～空心思。\n(2)抓～破了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-挖"
+}

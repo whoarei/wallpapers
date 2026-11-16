@@ -1,0 +1,16 @@
+{
+  "id": "poem-0e01be001ec6b84b24ff990f",
+  "title": "菩萨蛮 其十三",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "雨暗夜合玲珑日，万枝香袅红丝拂。",
+    "闲梦忆金堂，满庭萱草长。",
+    "绣帘垂簏簌，眉黛远山绿。",
+    "春水渡溪桥，凭栏魂欲消。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-12",
+  "tags": []
+}

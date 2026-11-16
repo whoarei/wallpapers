@@ -1,0 +1,19 @@
+{
+  "id": "poem-c9423d9ad91cfab67dcc0a72",
+  "title": "调笑・调笑令·相误",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "相误。",
+    "空凝伫。",
+    "郑子江头逢二女。",
+    "霞衣曳玉非尘土。",
+    "笑解明珰轻付。",
+    "月从云堕劳相慕。",
+    "自有骖鸾仙侣。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-282",
+  "tags": []
+}

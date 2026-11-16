@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9512",
+  "script": "seal",
+  "character": "锒",
+  "reading": "láng",
+  "description": "锒铛\n锒铛入狱\n锒láng［锒铛］\n①铁锁链。\n②锁链等金属撞击时所发出的声音。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锒"
+}

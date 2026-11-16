@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5cc4",
+  "script": "seal",
+  "character": "峄",
+  "reading": "yì",
+  "description": "山名,又名邹山\n峄yì 峄县，在山东省,现划归枣庄市.\n峄yì山名，峄山又名邹山。在山东邹县东南。\n【峄县】旧县名。在山东省南部。1960年撤销，改设枣庄市。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-峄"
+}

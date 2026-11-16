@@ -1,0 +1,16 @@
+{
+  "id": "poem-a5b821182c04b869908fc1b8",
+  "title": "奉和池州杜员外南亭惜春",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "草雾辉辉柳色新，前山差掩黛眉频。",
+    "碧溪潮涨碁侵夜，红树花深醉度春。",
+    "几恨今年提已过，翻悲昨日事成尘。",
+    "可知屈转江南郡，还就封州咏白苹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-03348032-d1f9-40cf-b35a-29e297a52709"
+}

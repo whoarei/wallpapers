@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7a57",
+  "script": "kai",
+  "character": "穗",
+  "reading": "suì",
+  "description": "suì：(1)禾本植物聚生在茎的顶端的花和果实麦～。稻～。谷～。～轴。～状花序。\n(2)用丝线、布条或纸条等扎成的、挂起来往下垂的装饰品灯笼～儿。\n(3)中国广东省广州市的别称。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-穗"
+}

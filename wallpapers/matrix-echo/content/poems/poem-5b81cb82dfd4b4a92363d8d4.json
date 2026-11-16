@@ -1,0 +1,14 @@
+{
+  "id": "poem-5b81cb82dfd4b4a92363d8d4",
+  "title": "中峰亭",
+  "author": "朱景玄",
+  "dynasty": "唐",
+  "verses": [
+    "中峰上翠微，窗晓早霞飞。",
+    "几引登山屐，春风踏雪归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-51ad6094-adc2-4a1d-b5cd-986bb04e2032"
+}

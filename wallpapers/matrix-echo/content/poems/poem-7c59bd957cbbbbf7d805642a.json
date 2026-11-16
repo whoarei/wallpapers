@@ -1,0 +1,19 @@
+{
+  "id": "poem-7c59bd957cbbbbf7d805642a",
+  "title": "清平乐·添烟深漾",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "麝烟深漾。",
+    "人拥缑笙氅。",
+    "新恨暗随新月长。",
+    "不辨眉尖心上。",
+    "六花斜扑疏帘。",
+    "地衣红锦轻沾。",
+    "记取暖香如梦，耐他一晌寒岩。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-163"
+}

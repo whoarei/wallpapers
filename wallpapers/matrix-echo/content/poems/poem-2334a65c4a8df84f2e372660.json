@@ -1,0 +1,16 @@
+{
+  "id": "poem-2334a65c4a8df84f2e372660",
+  "title": "宛陵寓居上沈大夫二首 一",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "满耳歌谣满眼山，宛陵城郭翠微间。",
+    "人情已觉春长在，溪户仍将水共闲。",
+    "晓色入楼红蔼蔼，夜声寻砌碧潺潺。",
+    "幽云高鸟俱无事，晚伴西风醉客还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-7109d871-873f-4c45-a1a1-77e694702be5"
+}

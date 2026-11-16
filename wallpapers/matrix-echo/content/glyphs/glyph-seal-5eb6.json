@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5eb6",
+  "script": "seal",
+  "character": "庶",
+  "reading": "shù",
+  "description": "shù：(1)众多～务。～物。～绩。富～。\n(2)平民，百姓～民。～人。黎～。\n(3)宗法制度下家庭的旁支，与嫡”相对～子（妾生的儿子）。～母（嫡出子女称父亲的妾）。～姓（古代称与帝王没有亲属关系的异姓诸侯）。\n(4)表示希望发生或出现某事，进行推测；但愿，或许～竭驽钝，攘除奸凶”。～免于难。～几（ａ．也许可以，表示希望；ｂ．近似，差不多；ｃ．旧指贤者）。～乎可行。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-庶"
+}

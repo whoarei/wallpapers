@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-683d",
+  "script": "kai",
+  "character": "栽",
+  "reading": "zāi",
+  "description": "zāi：(1)移植～树。～植。～花。～培。\n(2)安上，插上～绒。～赃。\n(3)秧子，可以移植的植物的幼苗桃～。树～子。\n(4)跌倒～跟头。\n(5)指失败或出丑。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-栽"
+}

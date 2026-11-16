@@ -1,0 +1,16 @@
+{
+  "id": "poem-47d7c5df6a2e2444f0401c15",
+  "title": "送刘山阳",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "旧族知名士，朱衣宰楚城。",
+    "所嗟吾道薄，岂是主恩轻。",
+    "战鼓何时息，儒冠独自行。",
+    "此心多感激，相送若为情。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-c48f4ea5-666e-4f98-9511-5d841821c9ca"
+}

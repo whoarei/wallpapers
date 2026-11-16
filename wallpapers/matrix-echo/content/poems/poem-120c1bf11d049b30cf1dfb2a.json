@@ -1,0 +1,16 @@
+{
+  "id": "poem-120c1bf11d049b30cf1dfb2a",
+  "title": "题黄鹤楼",
+  "author": "江万里",
+  "dynasty": "宋",
+  "verses": [
+    "黄鹤楼高倚半天，楼中黄鹤去千年。",
+    "檐楹自是留真境，几席何妨得老仙。",
+    "云护山光秋驻马，日笼江影昼停船。",
+    "良工改写归图画，俯仰令人一慨然。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-661b417d-b5ac-4c98-983b-08613fae1c1e"
+}

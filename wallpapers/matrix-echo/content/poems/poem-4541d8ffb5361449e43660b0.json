@@ -1,0 +1,16 @@
+{
+  "id": "poem-4541d8ffb5361449e43660b0",
+  "title": "渔父",
+  "author": "史卫卿",
+  "dynasty": "宋",
+  "verses": [
+    "白头长是醉，湖海不知年。",
+    "活业惟耕纲，全家衹住船。",
+    "荷花同鹭宿，杨柳得鱼穿。",
+    "一笛吹明月，朱门谩管弦。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-4f36782e-4b43-40f9-a1de-5ef2b91d6ed8"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5dfb2f49efde68b585dbe90d",
+  "title": "中山别墅",
+  "author": "俞瑊",
+  "dynasty": "宋",
+  "verses": [
+    "村居何所乐，我爱读书堂。",
+    "阶草侵窗润，瓶花落砚香。",
+    "凭栏看水活，出岫笑云忙。",
+    "野客时相过，联吟坐夕阳。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-55dfe7ab-c108-40b2-aa21-217cbbee5024"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-627c",
+  "script": "kai",
+  "character": "扼",
+  "reading": "è",
+  "description": "è：(1)用力掐着，抓住～杀。～腕（用一只手握住另一只手，表示振奋、失意、惋惜等情绪）。力能～虎。\n(2)抓要点，简要～要。\n(3)把守，控制～制。～喉拊背（喻控制要害，制敌于死命）。\n(4)古同轭”，牛马等拉东西时架在脖子上的器具。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-扼"
+}

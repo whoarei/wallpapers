@@ -1,0 +1,19 @@
+{
+  "id": "poem-ea3f387a8ece2eed14c3e4d7",
+  "title": "隋宫",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "乘兴南游不戒严，九重谁省谏书函。",
+    "春风举国裁宫锦，半作障泥半作帆。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "咏史怀古",
+    "讽刺"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-91f95b30-c42f-470a-9df8-dd6284fca474"
+}

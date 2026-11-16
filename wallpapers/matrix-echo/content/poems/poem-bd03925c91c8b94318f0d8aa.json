@@ -1,0 +1,15 @@
+{
+  "id": "poem-bd03925c91c8b94318f0d8aa",
+  "title": "江城子·恩重娇多情易伤",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "恩重娇多情易伤，漏更长，解鸳鸯。",
+    "朱唇未动，先觉口脂香。",
+    "缓揭绣衾抽皓腕，移凤枕，枕潘郎。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-2"
+}

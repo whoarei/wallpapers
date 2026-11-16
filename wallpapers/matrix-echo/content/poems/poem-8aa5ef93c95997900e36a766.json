@@ -1,0 +1,15 @@
+{
+  "id": "poem-8aa5ef93c95997900e36a766",
+  "title": "江儿水",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "如来证明，鉴兹邕启：我双亲在途路不知如何的？仰惟菩萨大慈悲。",
+    "(合)龙天鉴知，龙天护持，护持他赞山渡水。",
+    "(净唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5201",
+  "tags": []
+}

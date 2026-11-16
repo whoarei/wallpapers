@@ -1,0 +1,16 @@
+{
+  "id": "poem-7840155a2a2a5189f0c9706b",
+  "title": "过梅里七首  家于无锡四十载今敝庐数堵犹存今列题于后 忆题惠山寺书堂",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "故山一别光阴改，秋露清风岁月多。",
+    "松下壮心年少去，池边衰影老人过。",
+    "白云生灭依岩岫，青桂荣枯托薜萝。",
+    "惟有此身长是客，又驱旌斾寄烟波。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e951ac7e-488c-4282-a368-a58852fc9f2f"
+}

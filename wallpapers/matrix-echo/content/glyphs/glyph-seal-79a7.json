@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-79a7",
+  "script": "seal",
+  "character": "禧",
+  "reading": "xǐ",
+  "description": "xǐ：(1)（旧读xī）福，吉祥年～。福～。\n(2)喜庆～贺。新～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-禧"
+}

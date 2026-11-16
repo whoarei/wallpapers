@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8087",
+  "script": "kai",
+  "character": "肇",
+  "reading": "zhào",
+  "description": "zhào：(1)开始，初始～始。～生。～端。～基（开始建立基础，打基础）。～造（开始建立）。\n(2)引发～事（a.引起事故；b.闲事）。～祸。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肇"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7962",
+  "script": "seal",
+  "character": "祢",
+  "reading": "mí",
+  "description": "奉祀死父的宗庙\n古代军旅之事,常载神主而行,随行神主称弥\n祢nǐ 1.亲庙;父庙。 2.父死，神主入庙后称祢。 3.随军的神主。 4.继承;崇奉。 5.古地名。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-祢"
+}

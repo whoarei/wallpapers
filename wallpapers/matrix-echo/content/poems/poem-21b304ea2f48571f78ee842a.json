@@ -1,0 +1,16 @@
+{
+  "id": "poem-21b304ea2f48571f78ee842a",
+  "title": "奉和九月九日登慈恩寺浮图应制",
+  "author": "张景源",
+  "dynasty": "唐",
+  "verses": [
+    "飞塔凌霄起，宸游一届焉。",
+    "金壶新泛菊，宝座即披莲。",
+    "就日摇香辇，凭云出梵天。",
+    "祥氛与佳色，相伴杂𬬻烟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-f2bd99a1-8616-4140-858a-00dc5578bfa7"
+}

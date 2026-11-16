@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7ed1",
+  "script": "kai",
+  "character": "绑",
+  "reading": "bǎng",
+  "description": "绑票\n绑带,绑带儿\n绑 bāng 用绳、带等缠或捆～腿。\n【绑架】用强力把人劫走。\n【绑票】匪徒把人劫走，强迫被绑架者的家属或有某种特殊关系的人用钱去赎。\n绑bǎng 1.用绳﹑带等缠绕或捆扎。 2.犹绑票。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绑"
+}

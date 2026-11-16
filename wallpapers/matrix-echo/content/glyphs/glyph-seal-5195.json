@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5195",
+  "script": "seal",
+  "character": "冕",
+  "reading": "miǎn",
+  "description": "miǎn：中国古代帝王及地位在大夫以上的官员们戴的礼帽，后专指帝王的皇冠冠～。加～。卫～（卫护帝王头上的皇冠，喻维护帝王的最高统治权力或保持体育竞赛中的上届冠军称号）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-冕"
+}

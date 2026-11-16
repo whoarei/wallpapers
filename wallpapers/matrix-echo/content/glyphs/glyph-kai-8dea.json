@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8dea",
+  "script": "kai",
+  "character": "跪",
+  "reading": "guì",
+  "description": "guì：(1)两膝着地，腰和股都伸直～拜。～叩。\n(2)足蟹六～而二螯”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-跪"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1533e562e117edf8a14e5e2d",
+  "title": "醉公子·漠漠秋云淡",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "漠漠秋云淡，红耦香侵槛。",
+    "枕欹小山屏，金铺向晚扃。",
+    "睡起横波慢，独望情何限。",
+    "衰柳数声蝉，魂消似去年。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-34"
+}

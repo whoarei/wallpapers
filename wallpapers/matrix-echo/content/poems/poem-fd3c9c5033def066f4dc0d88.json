@@ -1,0 +1,18 @@
+{
+  "id": "poem-fd3c9c5033def066f4dc0d88",
+  "title": "采桑子·楚山削玉云中碧",
+  "author": "谢逸",
+  "dynasty": "宋",
+  "verses": [
+    "楚山削玉云中碧，影落沙汀。",
+    "秋水澄凝。",
+    "一抹江天雁字横。",
+    "金钱满地西风急，红蓼烟轻。",
+    "帘外砧声。",
+    "惊起青楼梦不成。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-599",
+  "tags": []
+}

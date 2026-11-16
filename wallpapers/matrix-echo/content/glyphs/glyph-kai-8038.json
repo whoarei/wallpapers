@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8038",
+  "script": "kai",
+  "character": "耸",
+  "reading": "sǒng",
+  "description": "高起;矗立\n耸突出\n⒈高起，直立高～。～立。～入云霄。\n⒉惊动，震动～动。危言～听。～人听闻。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-耸"
+}

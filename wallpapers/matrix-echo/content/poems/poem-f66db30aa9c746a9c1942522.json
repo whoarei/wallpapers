@@ -1,0 +1,16 @@
+{
+  "id": "poem-f66db30aa9c746a9c1942522",
+  "title": "长宁公主东庄侍宴",
+  "author": "李峤",
+  "dynasty": "唐",
+  "verses": [
+    "别业临青甸，鸣銮降紫霄。",
+    "长筵鹓鹭集，仙管凤凰调。",
+    "树接南山近，烟含北渚遥。",
+    "承恩咸已醉，恋赏未还镳。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-長寧公主東莊侍宴"
+}

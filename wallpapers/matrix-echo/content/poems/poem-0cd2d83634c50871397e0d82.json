@@ -1,0 +1,16 @@
+{
+  "id": "poem-0cd2d83634c50871397e0d82",
+  "title": "楚江怀古三首 二",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "惊鸟去无际，寒蛩鸣我傍。",
+    "芦洲生早雾，兰隰下微霜。",
+    "列宿分穷野，空流注大荒。",
+    "看山候明月，聊自整云装。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-14060d28-d860-41d2-9583-27873f1e0ac8"
+}

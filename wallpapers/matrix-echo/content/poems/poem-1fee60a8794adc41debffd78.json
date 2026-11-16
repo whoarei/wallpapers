@@ -1,0 +1,15 @@
+{
+  "id": "poem-1fee60a8794adc41debffd78",
+  "title": "西溪子·金缕翠钿浮动",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "金缕翠钿浮动，妆罢小窗圆梦。",
+    "日高时，春已老，人来到，满地落花慵扫。",
+    "无语倚屏风，泣残红。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-46"
+}

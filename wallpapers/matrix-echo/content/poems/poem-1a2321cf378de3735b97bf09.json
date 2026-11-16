@@ -1,0 +1,18 @@
+{
+  "id": "poem-1a2321cf378de3735b97bf09",
+  "title": "对月二首 一",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "圆魄上寒空，皆言四海同。",
+    "安知千里外，不有雨兼风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "中秋节",
+    "哲理",
+    "月亮"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-aee4ebe2-0939-4c49-b8bd-d88471711e2a"
+}

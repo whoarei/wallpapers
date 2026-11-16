@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5bd2",
+  "script": "seal",
+  "character": "寒",
+  "reading": "hán",
+  "description": "hán：(1)冷，与暑”相对～冬。～色。～衣。～冽。～带。～战。～噤。～食（节名，在清明前一天。古人从这一天起不生火做饭，也有的地区把清明当作寒食”）。～喧。～来暑往。唇亡齿～。\n(2)害怕～心。\n(3)穷困，有时用作谦辞～门。～伧。～舍。～窗（喻艰苦的学习环境）。～酸。～士（旧指贫穷的读书人）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-寒"
+}

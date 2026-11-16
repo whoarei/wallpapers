@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5151",
+  "script": "seal",
+  "character": "兑",
+  "reading": "duì；ruì；yuè",
+  "description": "duì：(1)交换～换（用一种货币换另一种货币）。～现。汇～（两地通过信件或电报交换款项）。\n(2)液体从一个容器注入另一个容器，一种东西搀到另一种东西里去～点热水。\n(3)八卦之一，代表沼泽。\n(4)直松柏斯～”。\nruì：古同锐”，尖锐。\nyuè：古同悦”，喜悦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-兑"
+}

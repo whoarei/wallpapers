@@ -1,0 +1,14 @@
+{
+  "id": "poem-7ca62ce61e38d5a036305790",
+  "title": "送刘方石归旴江  其二",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "昨日新闻未忍听，忧时赢得鬓毛星。",
+    "归休高卧西江上，祗恐川原草木腥。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-9adcea7c-d08d-49da-a128-07efea296e20"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5be1",
+  "script": "seal",
+  "character": "寡",
+  "reading": "guǎ",
+  "description": "guǎ：(1)少，缺少～薄。～恩。～陋。～趣。优柔～断。～不敌众。孤陋～闻。～廉鲜（xiǎn）耻（不廉洁，不知耻）。清心～欲。\n(2)淡而无味～味。清汤～水。\n(3)妇女死了丈夫～妇。～母。～居。守～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-寡"
+}

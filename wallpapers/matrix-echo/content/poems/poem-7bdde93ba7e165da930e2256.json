@@ -1,0 +1,24 @@
+{
+  "id": "poem-7bdde93ba7e165da930e2256",
+  "title": "月夜",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "今夜鄜州月，闺中只独看。",
+    "遥怜小儿女，未解忆长安。",
+    "香雾云鬟湿，清辉玉臂寒。",
+    "何时倚虚幌，双照泪痕干。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "女子",
+    "五言律诗",
+    "高中古诗",
+    "月亮",
+    "三年级上册"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-59c7eaa9-3c05-4857-8cff-10376706ccb9"
+}

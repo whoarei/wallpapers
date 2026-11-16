@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5f71",
+  "script": "kai",
+  "character": "影",
+  "reading": "yǐng",
+  "description": "yǐng：(1)物体挡住光线时所形成的四周有光中间无光的形象，亦指不真切的形象或印象人～。花～。倒～。幻～。～壁。～响。～射（借甲指乙，或暗指某人其事）。无～无踪。～～绰绰（模凝糊，不真切）。捕风捉～‖沙射～（喻暗地里诽谤中伤）。\n(2)形象摄～（照相）。留～。剪～。～印。～像。\n(3)描摹～写。～抄。～宋本。\n(4)指电影”～评。～院。～片。～视（电影和电视）。～坛。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-影"
+}

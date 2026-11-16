@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62f1",
+  "script": "kai",
+  "character": "拱",
+  "reading": "gǒng",
+  "description": "gǒng：(1)两手抱拳上举，以表敬意～手。～揖。\n(2)两手合围～抱。～木。～璧。\n(3)环绕～卫。～护。～北（众星环卫北极星）。\n(4)耸起，隆起，弯曲成弧形～肩缩背。～顶。～门。～桥。\n(5)向上或向前推，顶动～芽。虫子～土。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拱"
+}

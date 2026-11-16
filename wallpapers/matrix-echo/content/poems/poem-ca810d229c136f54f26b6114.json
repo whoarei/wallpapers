@@ -1,0 +1,16 @@
+{
+  "id": "poem-ca810d229c136f54f26b6114",
+  "title": "咏史诗 姑苏台",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "吴王恃霸弃雄才，贪向姑苏醉醁醅。",
+    "不觉钱塘江上月，一宵西送越兵来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "钱塘江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-9264904f-0f2b-4532-bcdd-b2ac5414168e"
+}

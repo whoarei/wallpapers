@@ -1,0 +1,16 @@
+{
+  "id": "poem-7ad894198c740efc109d48eb",
+  "title": "挽汪约叟  其一",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "幸有灵光在，天乎作么亡。",
+    "生来最真实，病里亦康强。",
+    "和气留丹鼎，清尘凝笔床。",
+    "溪山呈秀处，风露悄凄凉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-6fcb241a-6036-47dc-98d2-247fe4bfc725"
+}

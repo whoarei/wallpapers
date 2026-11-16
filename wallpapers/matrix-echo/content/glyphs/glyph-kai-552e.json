@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-552e",
+  "script": "kai",
+  "character": "售",
+  "reading": "shòu",
+  "description": "shòu：(1)卖～货。～票。出～。销～。零～。\n(2)施展以～其奸。其计不～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-售"
+}

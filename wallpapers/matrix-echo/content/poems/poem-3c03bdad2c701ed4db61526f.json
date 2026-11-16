@@ -1,0 +1,16 @@
+{
+  "id": "poem-3c03bdad2c701ed4db61526f",
+  "title": "酬谢司直晦斋寄宋湖州见柬  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "春无十日好，又是去堂堂。",
+    "柳借鵞黄重，花消蝶粉香。",
+    "清和宜晚步，零落课残芳。",
+    "北牖华风煖，朝来尚宠光。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-6176717d-ba05-4505-8515-93c22b2af038"
+}

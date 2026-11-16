@@ -1,0 +1,24 @@
+{
+  "id": "poem-33f8e466f8393e0e8fbc52da",
+  "title": "长相思",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "长相思，在长安，络纬秋啼金井阑。",
+    "微霜凄凄簟色寒，孤灯不明思欲绝。",
+    "卷帷望月空长叹，美人如花隔云端。",
+    "上有青冥之长天，下有渌水之波澜。",
+    "天长路远魂飞苦，梦魂不到关山难。",
+    "长相思，摧心肝。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "杂曲歌辞",
+    "乐府",
+    "伤怀"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-3c1693fc-f4e6-43b7-a66f-6379c3a26eef"
+}

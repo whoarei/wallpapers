@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-674f",
+  "script": "kai",
+  "character": "杏",
+  "reading": "xìng",
+  "description": "xìng：落叶乔木，叶卵形，花白色或淡红色，果实称杏儿”、杏子”，酸甜，可食～仁儿。～黄。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杏"
+}

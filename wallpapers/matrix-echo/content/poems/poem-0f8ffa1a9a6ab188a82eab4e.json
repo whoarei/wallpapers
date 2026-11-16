@@ -1,0 +1,20 @@
+{
+  "id": "poem-0f8ffa1a9a6ab188a82eab4e",
+  "title": "临江仙·梦后楼台高锁",
+  "author": "晏几道",
+  "dynasty": "宋",
+  "verses": [
+    "梦后楼台高锁，酒醒帘幕低垂。",
+    "去年春恨却来时。",
+    "落花人独立，微雨燕双飞。",
+    "记得小苹初见，两重心字罗衣。",
+    "琵琶弦上说相思。",
+    "当时明月在，曾照彩云归。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-19"
+}

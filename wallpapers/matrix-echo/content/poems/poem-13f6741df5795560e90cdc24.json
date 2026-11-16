@@ -1,0 +1,14 @@
+{
+  "id": "poem-13f6741df5795560e90cdc24",
+  "title": "九三",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "吾有十亩田，种在南山坡。",
+    "青松四五树，绿豆西三窠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d744878a-dcd3-4d05-a253-e9fdfb613f28"
+}

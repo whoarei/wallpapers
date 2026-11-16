@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7c97",
+  "script": "kai",
+  "character": "粗",
+  "reading": "cū",
+  "description": "cū：(1)疏忽，不周密～心。～疏。～略。～率（shuài）。\n(2)不精致，工料毛糙～糙。～劣。～料。～纸。～粮。～制滥造。去～取精。\n(3)长条东西直径大的～大。～壮。～重。～实。～线条（ａ．指毛道粗的线条ｂ．喻粗率的性格、作风，亦喻文章的粗略的构思）。～枝大叶。\n(4)颗粒大的～沙子。\n(5)声音低而大～哑。～声～气。\n(6)鲁莽～鲁。～暴。～野。～犷。～俗。～笨。～人。～手～脚。\n(7)略微～略。～具规模。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-粗"
+}

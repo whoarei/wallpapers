@@ -1,0 +1,16 @@
+{
+  "id": "poem-57cb2f298f20d587e49603e9",
+  "title": "楚江怀古三首 三",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "野风吹蕙带，骤雨滴兰桡。",
+    "屈宋魂冥寞，江山思寂寥。",
+    "阴霓侵晚景，海树入回潮。",
+    "欲折寒芳荐，明神讵可招。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-44c18e0b-fd4a-42b5-a4fa-866ac8d74d54"
+}

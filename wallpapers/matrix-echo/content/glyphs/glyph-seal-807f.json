@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-807f",
+  "script": "seal",
+  "character": "聿",
+  "reading": "yù",
+  "description": "yù：(1)文言助词，无义，用于句首或句中。\n(2)古代称笔，用笔写文章。\n〔～皇〕轻疾的样子，如武骑～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-聿"
+}

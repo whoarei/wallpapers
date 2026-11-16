@@ -1,0 +1,18 @@
+{
+  "id": "poem-77c563ea97ad8636574ccdc0",
+  "title": "凭周况先辈于朝贤乞茶",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "道意勿乏味，心绪病无悰。",
+    "蒙茗玉花尽，越瓯荷叶空。",
+    "锦水有鲜色，蜀山饶芳藂。",
+    "云根才翦绿，印缝已霏红。",
+    "曾向贵人得，最将诗叟同。",
+    "幸为乞寄来，救此病劣躬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-95c9711d-cc5d-46f6-9d05-f0e27cd337b5"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5410",
+  "script": "seal",
+  "character": "吐",
+  "reading": "tǔ；tù",
+  "description": "tǔ：(1)使东西从口里出来～痰。吞～。～刚茹柔（吐出硬的，吃下软的；喻欺软怕硬）。\n(2)放出，露出高粱～穗。～故纳新。\n(3)说出～话。一～为快。\n吞；纳；咽；\ntù：(1)内脏里的东西从口里涌出呕～。上～下泻。\n(2)把吞没的东西退出来～还不义之财。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吐"
+}

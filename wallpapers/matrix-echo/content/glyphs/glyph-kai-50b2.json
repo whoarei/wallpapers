@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-50b2",
+  "script": "kai",
+  "character": "傲",
+  "reading": "ào",
+  "description": "ào：(1)自高自大骄～。～岸（形容性格高傲）。～骨。～慢（轻视别人，对人没有礼貌）。～视。高～。孤～。\n(2)藐视，不屈～然。～霜斗雪。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-傲"
+}

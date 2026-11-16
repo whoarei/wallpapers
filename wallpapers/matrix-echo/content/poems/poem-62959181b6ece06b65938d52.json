@@ -1,0 +1,15 @@
+{
+  "id": "poem-62959181b6ece06b65938d52",
+  "title": "春江花月夜二首 二",
+  "author": "张子容",
+  "dynasty": "唐",
+  "verses": [
+    "交甫怜瑶珮，仙妃难重期。",
+    "沈沈绿江晚，惆怅碧云姿。",
+    "初逢花上月，言是弄珠时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-b99dc5a8-4003-4bb0-9a4d-b088be0d8cb1"
+}

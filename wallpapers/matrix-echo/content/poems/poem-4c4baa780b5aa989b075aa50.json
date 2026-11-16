@@ -1,0 +1,14 @@
+{
+  "id": "poem-4c4baa780b5aa989b075aa50",
+  "title": "次韵和复古春日五绝句  其一",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "雪霜哀鬓拔还生，桃李新园长未成。",
+    "五十尚能胜六十，今年又灭去年情。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-d904bb79-c49f-4944-b9b9-057d3123480e"
+}

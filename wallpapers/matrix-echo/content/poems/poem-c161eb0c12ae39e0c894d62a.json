@@ -1,0 +1,16 @@
+{
+  "id": "poem-c161eb0c12ae39e0c894d62a",
+  "title": "杨夫人挽章二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "来嫔初卜凤和鸣，谁谓今闻薤露声。",
+    "妇道宜传青史笔，壸仪犹在锦官城。",
+    "承家早庆芝兰秀，主馈空余苹藻诚。",
+    "念旧二卿情意厚，可堪孤坐想平生。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-c2d84aa1-e82c-4967-889c-61b03b1d9a7b"
+}

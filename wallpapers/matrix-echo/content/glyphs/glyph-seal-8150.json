@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8150",
+  "script": "seal",
+  "character": "腐",
+  "reading": "fǔ",
+  "description": "fǔ：(1)朽烂，变质～烂。～朽。～败。～化。～蚀。～臭。陈～。流水不～。\n(2)思想陈旧过时～旧。～儒。迂～。\n(3)某些豆制食品豆～（腐”读轻声）。～乳。～竹。\n(4)古代指施以宫刑～刑。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-腐"
+}

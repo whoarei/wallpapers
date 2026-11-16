@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-78d4",
+  "script": "seal",
+  "character": "磔",
+  "reading": "zhé",
+  "description": "zhé：(1)古代分裂牲体以祭神。\n(2)古代一种酷刑，把肢体分裂～刑。\n(3)汉字笔形之一，即捺（nà）”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-磔"
+}

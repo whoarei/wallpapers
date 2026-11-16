@@ -1,0 +1,15 @@
+{
+  "id": "poem-ad3fe9bfb3f0cc5621f740b3",
+  "title": "无衣",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "岂曰无衣？与子同袍。王于兴师，修我戈矛。与子同仇！",
+    "岂曰无衣？与子同泽。王于兴师，修我矛戟。与子偕作！",
+    "岂曰无衣？与子同裳。王于兴师，修我甲兵。与子偕行！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-132"
+}

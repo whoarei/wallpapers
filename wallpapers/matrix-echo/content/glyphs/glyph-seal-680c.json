@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-680c",
+  "script": "seal",
+  "character": "栌",
+  "reading": "lú",
+  "description": "柱头承托栋梁的短木。即欂栌、斗栱\n黄栌\n⒈柱顶上承托栋梁的方木，即\"斗拱\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-栌"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-59c6",
+  "script": "kai",
+  "character": "姆",
+  "reading": "mǔ",
+  "description": "mǔ：〔保～〕a.受雇为人照管儿童或料理家务的妇女；b.保育员的旧称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-姆"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-df382d29529862625713bc0a",
+  "title": "送人征蛮",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "七纵七擒处，君行事可攀。",
+    "亦知磨一劒，不独定诸蛮。",
+    "树尽低铜柱，潮常沸火山。",
+    "名须麟阁上，好去及瓜还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-517cc330-aad1-4218-bf53-27cd8314a62f"
+}

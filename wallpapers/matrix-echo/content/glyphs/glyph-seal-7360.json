@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7360",
+  "script": "seal",
+  "character": "獠",
+  "reading": "liáo",
+  "description": "liáo：(1)面貌凶恶～面。～牙（露在嘴外面的长牙）。\n(2)夜间打猎于是乃相与～于蕙圃”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-獠"
+}

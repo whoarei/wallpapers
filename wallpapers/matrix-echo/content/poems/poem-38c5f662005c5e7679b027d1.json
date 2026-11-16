@@ -1,0 +1,17 @@
+{
+  "id": "poem-38c5f662005c5e7679b027d1",
+  "title": "浣溪沙·绿绕红围宋玉墙",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "绿绕红围宋玉墙。",
+    "幽兰林下正芬芳。",
+    "桃花气暖玉生香。",
+    "谁道广平心似铁，艳妆高韵两难忘。",
+    "苏州老矣不能狂。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-131",
+  "tags": []
+}

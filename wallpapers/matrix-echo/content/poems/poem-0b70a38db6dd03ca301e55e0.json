@@ -1,0 +1,16 @@
+{
+  "id": "poem-0b70a38db6dd03ca301e55e0",
+  "title": "寿州裴中丞出柘枝",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "青娥十五柘枝人，玉鳯双翘翠帽新。",
+    "罗带却翻柔紫袖，锦靴前踏没红茵。",
+    "深情记处常低眼，急拍来时旋折身。",
+    "愁见曲终如梦觉，又迷烟水汉江滨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d799a1de-5f30-47a3-8090-d735ccc9b90d"
+}

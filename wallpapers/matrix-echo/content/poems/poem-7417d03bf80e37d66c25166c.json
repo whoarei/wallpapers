@@ -1,0 +1,14 @@
+{
+  "id": "poem-7417d03bf80e37d66c25166c",
+  "title": "叙事献同州侍御三首 二",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "平生望断云层层，紫府杳是他人登。",
+    "却应归访溪边寺，说向当时同社僧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-c3b2b5f8-01d0-4af1-ac31-d5263defb7c9"
+}

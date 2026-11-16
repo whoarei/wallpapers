@@ -1,0 +1,18 @@
+{
+  "id": "poem-77e49d599e66db831db49ae4",
+  "title": "赋月",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "月，光辉，皎洁。",
+    "耀乾坤，静空阔。",
+    "圆满中秋，玩争诗哲。",
+    "玉兔镝难穿，桂枝人共折。",
+    "万象照乃无私，琼台岂遮君谒。",
+    "抱琴对弹别鹤声，不得知音声不切。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-5ca211d7-18e4-41d4-a754-c72c28e846d6"
+}

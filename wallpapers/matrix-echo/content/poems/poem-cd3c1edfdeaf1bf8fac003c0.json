@@ -1,0 +1,24 @@
+{
+  "id": "poem-cd3c1edfdeaf1bf8fac003c0",
+  "title": "过晋阳宫",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "缅想封唐处，实惟建国初。",
+    "俯察伊晋野，仰观乃参虚。",
+    "井邑龙斯跃，城池凤翔余。",
+    "林塘犹沛泽，台榭宛旧居。",
+    "运革祚中否，时迁命兹符。",
+    "顾循承丕构，怵惕多忧虞。",
+    "尚恐威不逮，复虑化未孚。",
+    "岂徒劳辙迹，所期训戎车。",
+    "习俗问黎人，亲巡慰里闾。",
+    "永言念成功，颂德临康衢。",
+    "长怀经纶日，叹息履庭隅。",
+    "艰难安可忘，欲去良踟蹰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d0337427-89fa-44ca-8f08-6f989572feb6"
+}

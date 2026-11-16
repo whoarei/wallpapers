@@ -1,0 +1,16 @@
+{
+  "id": "poem-b7fa11ca845f52071bba2796",
+  "title": "别孙䜣",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "离人去复留，白马黑貂裘。",
+    "屈指论前事，停鞭惜旧游。",
+    "帝乡那可忘，旅馆日堪愁。",
+    "谁念无知己，年年睢水流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-2e65c105-017c-4b5c-b899-6ace25d18507"
+}

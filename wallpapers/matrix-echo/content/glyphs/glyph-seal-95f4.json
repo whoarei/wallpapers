@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-95f4",
+  "script": "seal",
+  "character": "间",
+  "reading": "jiān",
+  "description": "中间;内\n一会儿,顷刻\n⒈夹缝门～窥视。\n⒉当中，两种事物之中或相互的关系中～。两山之～。朋友之～。\n⒊一定的时期、地方或人群等范围时～。午～。地～。大人～。\n⒋房屋，屋子房～。洗澡～。\n⒌量词，多指房屋两～房子。三～店铺。安得广厦千万～。\n⒈空隙工作～隙。\n⒉隔开，不连结～隔。～断。〈引〉断断续续地时时而～进。\n⒊隔阂，疏远亲密无～。〈引〉离间赵王信秦之～。\n⒋更迭寒热～作。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-间"
+}

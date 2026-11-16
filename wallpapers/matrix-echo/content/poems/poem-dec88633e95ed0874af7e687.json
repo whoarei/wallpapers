@@ -1,0 +1,14 @@
+{
+  "id": "poem-dec88633e95ed0874af7e687",
+  "title": "漫书",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "乐退安贫知是分，成家报国亦何惭。",
+    "到还僧院心期在，瑟瑟澄鲜百丈潭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-aa67069a-e4c0-4249-948b-a2e29418896e"
+}

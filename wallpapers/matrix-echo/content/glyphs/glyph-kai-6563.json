@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6563",
+  "script": "kai",
+  "character": "散",
+  "reading": "sàn；sǎn",
+  "description": "sàn：(1)分开，由聚集而分离分～。解～。涣～。～落。～失。～逸。\n(2)分布，分给～布。～发（fā）。天女～花。\n(3)排遣～心。～闷（mèn）。\n(4)解雇他干的不好，让那家饭店给～了。\n集；聚；\nsǎn：(1)没有约束，松开松～。～漫。懒～。～曲。～记。～板。～文。披～头发。\n(2)分开的，分离的～居。～乱。～座。～兵游勇。\n(3)零碎的～碎。～装。～页。\n(4)中医称药末～剂。丸～膏丹。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-散"
+}

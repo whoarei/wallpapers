@@ -1,0 +1,16 @@
+{
+  "id": "poem-64e7b1662333c51972c1aa4f",
+  "title": "谒金门·留不得",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "留不得！留得也应无益。",
+    "白纻春衫如雪色，扬州初去日。",
+    "轻别离，甘抛掷，江上满帆风疾。",
+    "却羡彩鸳三十六，孤鸾还一只。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-38"
+}

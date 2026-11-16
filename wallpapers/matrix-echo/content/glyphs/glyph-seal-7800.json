@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7800",
+  "script": "seal",
+  "character": "砀",
+  "reading": "dàng",
+  "description": "有花纹的石头\n砀,文石也。从石,?\n突然\n砀dàng 1.有花纹的石头。 2.荡漾;荡溢。 3.广大。 4.突;闯。 5.见\"砀极\"。 6.山名。在安徽省砀山县东南。 7.古地名。本战国楚邑，秦置县，隋改砀山。今安徽\n省砀山县。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-砀"
+}

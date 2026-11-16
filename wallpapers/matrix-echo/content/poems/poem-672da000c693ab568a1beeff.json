@@ -1,0 +1,16 @@
+{
+  "id": "poem-672da000c693ab568a1beeff",
+  "title": "临江仙·素洛春光潋滟平",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "素洛春光潋滟平，千重媚脸初生。",
+    "凌波罗袜势轻轻，烟笼日照，珠翠半分明。",
+    "风引宝衣疑欲舞，鸾回凤翥堪惊。",
+    "也知心许无恐成，陈王辞赋，千载有声名。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-37"
+}

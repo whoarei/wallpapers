@@ -1,0 +1,16 @@
+{
+  "id": "poem-4c6d83dae8a383994cd20556",
+  "title": "和元宗元日大雪登楼",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "一宿东林正气和，便随仙仗放春华。",
+    "散飘白絮惟分影，轻缀青旗始见花。",
+    "落砌更依宫舞转，入楼偏向御衣斜。",
+    "严徐共待金门诏，愿布尧言贺万家。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-f761e78a-66fd-4965-867c-cf9c345f3454"
+}

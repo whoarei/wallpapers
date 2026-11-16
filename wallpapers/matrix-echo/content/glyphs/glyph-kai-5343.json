@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5343",
+  "script": "kai",
+  "character": "千",
+  "reading": "qiān",
+  "description": "千 〈形〉\n比喻数甚大;许许多多\n⒈数目十个百为一～。\n⒉〈表〉众多，极大～军万马。～辛万苦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-千"
+}

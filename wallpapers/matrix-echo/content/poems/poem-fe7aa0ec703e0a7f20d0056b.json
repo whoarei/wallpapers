@@ -1,0 +1,15 @@
+{
+  "id": "poem-fe7aa0ec703e0a7f20d0056b",
+  "title": "好姐姐",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "告禀龙图大尹，状告那孙华孙荣。",
+    "昨夜三更，悄然来叩门，道杀人命，要教我两人偷埋殡。",
+    "望乞恩官详事因。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1944",
+  "tags": []
+}

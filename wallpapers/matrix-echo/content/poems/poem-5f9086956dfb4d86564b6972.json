@@ -1,0 +1,14 @@
+{
+  "id": "poem-5f9086956dfb4d86564b6972",
+  "title": "天宝禁中",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "外庭班退寿王归，别有骄儿侍禁闱。",
+    "解事老奴宁及远，君恩如许政忘机。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-1af2473a-e9c2-4819-ba0a-482be3e88d4d"
+}

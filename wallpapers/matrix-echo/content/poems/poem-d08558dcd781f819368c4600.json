@@ -1,0 +1,14 @@
+{
+  "id": "poem-d08558dcd781f819368c4600",
+  "title": "惜花",
+  "author": "张佖",
+  "dynasty": "宋",
+  "verses": [
+    "蝶散鶑啼尚数枝，日斜风定更离披。",
+    "看多记得伤心事，金谷楼前委地时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-a475850b-b959-4324-a1b9-0e9686399be1"
+}

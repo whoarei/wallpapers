@@ -1,0 +1,16 @@
+{
+  "id": "poem-40d8be6f87db8b2e9433347c",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(小旦)只见数点寒鸦，投林乱鸣，晚烟宿雾冥冥。",
+    "迢迢古岸水澄澄，野渡无人舟自横。",
+    "不忍听，不美听，听得孤鸿天外两三声。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2972",
+  "tags": []
+}

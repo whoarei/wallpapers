@@ -1,0 +1,16 @@
+{
+  "id": "poem-d27a4d06a12a01e7d62de59b",
+  "title": "送赵法师还蜀因名山奠简",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "道家奠灵简，自昔仰神仙。",
+    "真子今将命，苍生福可传。",
+    "江山寻故国，城郭信依然。",
+    "二室遥相望，云回洞里天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d9cf7b72-41cc-4e86-a5ff-b3b142fc2f1f"
+}

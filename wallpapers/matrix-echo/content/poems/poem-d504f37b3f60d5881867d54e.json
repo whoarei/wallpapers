@@ -1,0 +1,16 @@
+{
+  "id": "poem-d504f37b3f60d5881867d54e",
+  "title": "自蒲圻临湘趋岳阳道中作十首  其七",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "远谪三湘欲卜居，试从詹尹拂占书。",
+    "昂昂愿作云间鹤，泛泛宁为波底鱼。",
+    "咿喔突梯真得计，洁亷正直却成疏。",
+    "益坚节操行吾志，龟策从来自不如。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-d9dfb8d9-12ea-4e3e-9ee1-28e1ffc4c0c9"
+}

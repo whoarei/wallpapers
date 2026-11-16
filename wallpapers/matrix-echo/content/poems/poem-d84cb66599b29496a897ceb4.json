@@ -1,0 +1,20 @@
+{
+  "id": "poem-d84cb66599b29496a897ceb4",
+  "title": "巫山高",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "碧丛丛，高插天，大江翻澜神曳烟。",
+    "楚魂寻梦风飔然，晓风飞雨生苔钱。",
+    "瑶姬一去一千年，丁香筇竹啼老猨。",
+    "古祠近月蟾桂寒，椒花坠红湿云间。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "写山",
+    "写景",
+    "描写山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-05184315-6703-4e60-b85a-57b887c2b7c0"
+}

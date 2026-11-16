@@ -1,0 +1,16 @@
+{
+  "id": "poem-c485b06604ac5955d09830ba",
+  "title": "生查子·远山眉黛横",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "远山眉黛横，媚柳开青眼。",
+    "楼阁断霞明，帘幕春寒浅。",
+    "杯延玉漏迟，烛怕金刀剪。",
+    "明月忽飞来，花影和帘卷。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-344",
+  "tags": []
+}

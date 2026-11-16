@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c5e",
+  "script": "kai",
+  "character": "属",
+  "reading": "shǔ",
+  "description": "种类。亦特指牲类\n亲属\n侪辈。指同一类人\n若属皆且为所\n⒈类，同一类型的种～。金～。非金～。\n⒉同一家族的亲～。家～。\n⒊有管辖关系的直～。隶～。归～。附～。\n⒋是事～可行。经查～实。\n⒌归类～于医学。\n⒍为谁所有那支笔～你的。\n⒈连接，跟着前后相～。\n⒉编写，连缀～文。～辞。\n⒊专注～意。～望。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-属"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-70e4",
+  "script": "kai",
+  "character": "烤",
+  "reading": "kǎo",
+  "description": "kǎo：(1)把东西放在火的周围使干或使熟～炙。～面包。～肉℃～。\n(2)挨近火取暖～火。～一～手。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-烤"
+}

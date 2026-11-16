@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-54c1",
+  "script": "seal",
+  "character": "品",
+  "reading": "pǐn",
+  "description": "pǐn：(1)物件物～。产～。赠～。战利～。\n(2)等级，种类～名。～类。～色。～位。\n(3)性质～质。～行（xíng）。～节（指人的品行节操）。人～。\n(4)体察出好坏、优劣等～评。～第（品评优劣而定其等级）。～味（品尝）。\n(5)指吹弄乐器～箫。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-品"
+}

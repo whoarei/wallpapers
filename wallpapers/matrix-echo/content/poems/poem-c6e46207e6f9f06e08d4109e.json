@@ -1,0 +1,16 @@
+{
+  "id": "poem-c6e46207e6f9f06e08d4109e",
+  "title": "鹳雀楼晴望",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "尧女楼西望，人怀太古时。",
+    "海波通禹凿，山木闭虞祠。",
+    "鸟道残虹挂，龙潭返照移。",
+    "行云如可驭，万里赴心期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-26234f56-e269-46e5-bcf0-25b3b422a3dd"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-dff27c4f04985cd648d0f2a8",
+  "title": "杂曲歌辞 长相思三首 二",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "日色已尽花含烟，月明欲素愁不眠。",
+    "赵瑟初停凤凰柱，蜀琴欲奏鸳鸯弦。",
+    "此曲有意无人传，愿随春风寄燕然，忆君迢迢隔青天。",
+    "昔日横波目，今成流泪泉。",
+    "不信妾肠断，归来看取明镜前。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-caa023cf-9f55-450c-9638-1cf5c0223cc1"
+}

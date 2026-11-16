@@ -1,0 +1,16 @@
+{
+  "id": "poem-dbf68f11327e430498638f69",
+  "title": "逍遥四章呈钦之尧夫  其一",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "结髪读经史，疲精非一朝。",
+    "于今成濩落，所幸得逍遥。",
+    "不韪狂心息，难平客气消。",
+    "巢林易为足，窃敢比鹪鹩。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-7aaf8e6f-6930-42cf-9679-084056dc5ddc"
+}

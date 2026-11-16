@@ -1,0 +1,14 @@
+{
+  "id": "poem-e193eb873702c664d85f77eb",
+  "title": "繙书见舍弟去年自寿归郓道中诗怅然怀想久不作诗因集句为答用渭城体可歌也  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "春深逐客一浮萍，何处淹留白发生。",
+    "山城过雨百花尽，野渡无人舟自横。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-ef790a85-7515-4226-8059-8d12f6227eda"
+}

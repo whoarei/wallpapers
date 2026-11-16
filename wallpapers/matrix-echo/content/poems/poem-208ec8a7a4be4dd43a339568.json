@@ -1,0 +1,14 @@
+{
+  "id": "poem-208ec8a7a4be4dd43a339568",
+  "title": "高司马移竹",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "丛居堂下幸君移，翠掩灯窗露叶垂。",
+    "莫羡孤生在山者，无人看著拂云枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e40d606c-4c5f-4217-a0e4-939aee655c0a"
+}

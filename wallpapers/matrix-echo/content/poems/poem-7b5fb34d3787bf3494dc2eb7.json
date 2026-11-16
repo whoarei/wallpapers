@@ -1,0 +1,14 @@
+{
+  "id": "poem-7b5fb34d3787bf3494dc2eb7",
+  "title": "偈 九",
+  "author": "契此",
+  "dynasty": "唐",
+  "verses": [
+    "圆觉灵明超太虚，目前万物不差殊。",
+    "十方法界都包尽，惟有真如也太迂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-b5089859-5bec-4d0b-ae5f-94efe8342e2a"
+}

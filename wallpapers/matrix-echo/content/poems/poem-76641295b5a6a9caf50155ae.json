@@ -1,0 +1,16 @@
+{
+  "id": "poem-76641295b5a6a9caf50155ae",
+  "title": "幸秦川上梓潼山",
+  "author": "后主衍",
+  "dynasty": "唐",
+  "verses": [
+    "乔岩簇冷烟，幽径上寒天。",
+    "下瞰峨眉岭，上窥华岳巅。",
+    "驱驰非取乐，按幸为忧边。",
+    "此去如登陟，歌楼路几千。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e66421b4-5322-4aa9-a64c-1bf8707decb7"
+}

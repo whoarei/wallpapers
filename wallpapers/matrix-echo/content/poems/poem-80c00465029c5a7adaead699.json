@@ -1,0 +1,16 @@
+{
+  "id": "poem-80c00465029c5a7adaead699",
+  "title": "题刘相公光德里新搆茅亭",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "野色迷亭晓，龙墀待押班。",
+    "带涎移海木，兼雪写湖山。",
+    "月白吟床冷，河清直印闲。",
+    "唐封三万里，人偃翠微间。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-dff982ae-5bd7-437a-868d-02accbf13d5f"
+}

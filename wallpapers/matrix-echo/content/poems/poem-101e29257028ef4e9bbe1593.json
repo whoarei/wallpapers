@@ -1,0 +1,17 @@
+{
+  "id": "poem-101e29257028ef4e9bbe1593",
+  "title": "浣溪沙·青杏园林著酒香",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "青杏园林著酒香。",
+    "佳人初试薄罗裳。",
+    "柳丝无力燕飞忙。",
+    "乍雨乍晴花自落，闲愁闲闷日偏长。",
+    "为谁消瘦减容光。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-434",
+  "tags": []
+}

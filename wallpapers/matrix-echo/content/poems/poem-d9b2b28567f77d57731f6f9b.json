@@ -1,0 +1,16 @@
+{
+  "id": "poem-d9b2b28567f77d57731f6f9b",
+  "title": "三年冬大礼五首 一",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "皇帝斋心洁素诚，自朝真祖报升平。",
+    "华山秋草多归马，沧海寒波绝洗兵。",
+    "银箭水残河势断，玉炉烟尽日华生。",
+    "千官整肃三天夜，劒佩初闻入太清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-2693a9bf-a0ba-44bd-b308-4de0b9925856"
+}

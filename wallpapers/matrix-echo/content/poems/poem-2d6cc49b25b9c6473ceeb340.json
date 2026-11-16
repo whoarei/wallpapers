@@ -1,0 +1,18 @@
+{
+  "id": "poem-2d6cc49b25b9c6473ceeb340",
+  "title": "临江仙·万里凉风收积雨",
+  "author": "倪偁",
+  "dynasty": "宋",
+  "verses": [
+    "万里凉风收积雨，一天晴碧新开。",
+    "暮云归尽绝纤埃。",
+    "金波明静夜，玉露湿苍苔。",
+    "坐有霜髯诗酒客，平生见月衔杯。",
+    "传闻丹诏日边来。",
+    "莫辞通夕醉，对景且徘徊。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-448",
+  "tags": []
+}

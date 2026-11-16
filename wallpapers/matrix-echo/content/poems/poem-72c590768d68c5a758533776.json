@@ -1,0 +1,16 @@
+{
+  "id": "poem-72c590768d68c5a758533776",
+  "title": "登鄱阳寺阁",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "寺楼闲纵望，不觉到斜晖。",
+    "故国在何处，多年未得归。",
+    "寒江平楚外，细雨一鸿飞。",
+    "终𢽾於陵子，吴山有绿薇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f95e49cd-8338-42a1-ac92-e89688fe4b3a"
+}

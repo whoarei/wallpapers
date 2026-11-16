@@ -1,0 +1,16 @@
+{
+  "id": "poem-797e9fc644f9c999cceef952",
+  "title": "时充之访盘溪有诗次韵",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "圣贤不出此心公，有为为之未必充。",
+    "绝学当归三洞左，正源欲障百川东。",
+    "坐春立雪谁能继，弄月吟风岂浪从。",
+    "方己乌头力应鲜，因循又过一年终。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-2cf885c5-9b5b-4cf8-baf8-67f74ec46a96"
+}

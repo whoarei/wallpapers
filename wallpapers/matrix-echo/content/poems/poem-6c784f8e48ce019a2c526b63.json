@@ -1,0 +1,16 @@
+{
+  "id": "poem-6c784f8e48ce019a2c526b63",
+  "title": "和孙秀才与弟醉饮",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "醺酣归至乐，曲糵古来贤。",
+    "荆树同株日，萧斋欲雪天。",
+    "倾颓叔夜玉，臬兀季真船。",
+    "熟览新诗意，依稀识道筌。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-77fd65b6-038e-42fd-87a2-9c977efa3309"
+}

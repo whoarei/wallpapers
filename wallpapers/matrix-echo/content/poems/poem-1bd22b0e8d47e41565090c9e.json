@@ -1,0 +1,18 @@
+{
+  "id": "poem-1bd22b0e8d47e41565090c9e",
+  "title": "徐州试反舌无声",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "夏木多好鸟，偏知反舌名。",
+    "林幽仍共宿，时过即无声。",
+    "竹外天空晓，谿头雨自晴。",
+    "居人宜寂寞，深院益凄清。",
+    "入雾暗相失，当风闲易惊。",
+    "来年上林苑，知尔最先鸣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-35100df3-5470-494b-b237-f5a010690ede"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-89f679d39accdf22f86c20ed",
+  "title": "送襄阳李尚书",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "天寒发梅柳，忆昔到襄州。",
+    "树暖然红烛，江清展碧油。",
+    "风烟临岘首，云水接昭丘。",
+    "俗尚春秋学，词称文选楼。",
+    "都门送旌节，符竹领诸侯。",
+    "汉沔分戎寄，黎元减圣忧。",
+    "时追山简兴，本自习家流。",
+    "莫废思康乐，诗情满沃洲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-b22cb818-b07a-4024-855d-c3734cd1d237"
+}

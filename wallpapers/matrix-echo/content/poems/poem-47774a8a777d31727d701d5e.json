@@ -1,0 +1,17 @@
+{
+  "id": "poem-47774a8a777d31727d701d5e",
+  "title": "偈颂（幷序○序为南岳齐己撰） 七十二",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "唯念门前树，能容鸟泊栖（《景德传灯录》卷二九作「飞」）。",
+    "来者无心唤，腾身不慕归。",
+    "若人心似树，与道不相违。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-7f0a38a7-f9c0-49d8-8e0a-d5c1e2ec3f18"
+}

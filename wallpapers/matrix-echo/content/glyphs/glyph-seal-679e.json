@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-679e",
+  "script": "seal",
+  "character": "枞",
+  "reading": "cōng",
+  "description": "枞树。常绿乔木,又叫冷杉\n枞阳",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-枞"
+}

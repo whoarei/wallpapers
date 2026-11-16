@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-76f2",
+  "script": "kai",
+  "character": "盲",
+  "reading": "máng",
+  "description": "máng：瞎，看不见东西，对事物不能辨认～从。～动。～目。～人。～区（指雷达、探照灯、胃镜等探测或观察不到的区域）。～流。～人瞎马（喻处境非常危险）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-盲"
+}

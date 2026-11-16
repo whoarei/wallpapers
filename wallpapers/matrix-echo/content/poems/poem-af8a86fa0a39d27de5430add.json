@@ -1,0 +1,14 @@
+{
+  "id": "poem-af8a86fa0a39d27de5430add",
+  "title": "依韵赠南安方处士五首 二",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "休把羸蹄蹋霜雪，书成何处献君王。",
+    "嵩山好与浮丘约，三十六峰云外乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-0ef07fbb-9021-4200-9b1a-1a07f721f004"
+}

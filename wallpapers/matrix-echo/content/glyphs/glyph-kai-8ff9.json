@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8ff9",
+  "script": "kai",
+  "character": "迹",
+  "reading": "jì",
+  "description": "jì：(1)脚印踪～。足～。血～。笔～。\n(2)物体遗留下的印痕印～。\n(3)前人遗留下的事物古～。实～。\n(4)追寻踪迹汉求将军急，～且至臣家”。\n(5)据实迹考知～汉功臣，亦皆割符世爵”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-迹"
+}

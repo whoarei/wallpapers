@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7898",
+  "script": "kai",
+  "character": "碘",
+  "reading": "diǎn",
+  "description": "diǎn：一种非金属元素，供制医药、染料等用。人体中缺少碘会引起甲状腺肿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-碘"
+}

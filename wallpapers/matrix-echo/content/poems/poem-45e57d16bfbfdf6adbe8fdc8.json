@@ -1,0 +1,18 @@
+{
+  "id": "poem-45e57d16bfbfdf6adbe8fdc8",
+  "title": "临江仙·瘦损东阳缘底事",
+  "author": "向",
+  "dynasty": "宋",
+  "verses": [
+    "瘦损东阳缘底事，离愁别恨难禁。",
+    "夜长谁共拥孤衾。",
+    "来时青鬓在，今已二毛侵。",
+    "流水青山依旧是，兰桡往事空寻。",
+    "一番风雨又春深。",
+    "桃花都落尽，赢得是清阴。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-188",
+  "tags": []
+}

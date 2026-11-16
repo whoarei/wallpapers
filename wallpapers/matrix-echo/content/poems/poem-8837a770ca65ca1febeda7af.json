@@ -1,0 +1,18 @@
+{
+  "id": "poem-8837a770ca65ca1febeda7af",
+  "title": "题终南山白鹤观",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "上彻炼丹峰，求玄意未穷。",
+    "古坛青草合，往事白云空。",
+    "仙境日月外，帝乡烟雾中。",
+    "人间足烦署，欲去恋松风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "终南山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-314ee84c-a03c-409b-b13e-fb0a6daeb283"
+}

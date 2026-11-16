@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ab3",
+  "script": "seal",
+  "character": "窳",
+  "reading": "yǔ",
+  "description": "yǔ：(1)（事物）恶劣，粗劣～劣。～败（腐败；败坏）。～陋（粗劣，质量很差）。良～（优劣）。\n(2)懒～惰。\n(3)瘦弱。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-窳"
+}

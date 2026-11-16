@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7aa8",
+  "script": "seal",
+  "character": "窨",
+  "reading": "xūn；yìn",
+  "description": "yìn：(1)地下室地～子。～井（为便于检查、疏通地下管线而设置的井状构筑物）。\n(2)藏在地窨里。～藏。\nxūn：同熏”，用于窨茶叶”（把茉莉花等放在茶叶中，使茶叶染上花的香味）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-窨"
+}

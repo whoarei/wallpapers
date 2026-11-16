@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5178",
+  "script": "kai",
+  "character": "典",
+  "reading": "diǎn",
+  "description": "diǎn：(1)可以作为标准的书籍～籍。字～。词～。经～。引经据～。\n(2)标准，法则～章。～制。～故（a.典制和掌故；b.诗文里引用的古书中的故事或词句）。～范。～雅。～礼。～型。\n(3)指典礼盛～。大～。\n(4)主持，主管～试（主持科举考试之事）。～狱。\n(5)活买活卖，到期可以赎～卖。～押。～契。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-典"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-8a9959a6745d2811cf26e4df",
+  "title": "奉赠宣抚孟参政二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "赤子潢池学弄兵，柄臣仗节到闽城。",
+    "布宣威德雷霆奋，慰抚烝黎雨泽倾。",
+    "鏖战指踪烦妙略，凯旋铙鼓震驩声。",
+    "灵旗径向江湖去，早定艰难底太平。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-a1a65692-e1a5-47ff-90fc-90b78e9d7592"
+}

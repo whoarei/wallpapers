@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7960",
+  "script": "seal",
+  "character": "祠",
+  "reading": "cí",
+  "description": "cí：(1)封建制度下供奉祖宗、鬼神或有功德的人的房屋～堂。～庙。宗～。\n(2)古代指春祭（品物少，多文词）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-祠"
+}

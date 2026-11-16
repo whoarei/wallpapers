@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-846b",
+  "script": "kai",
+  "character": "葫",
+  "reading": "hú",
+  "description": "hú：大蒜的别称。\n〔～芦〕ａ．一年生草本植物，果实像大小两个球连在一起，可以盛酒或供观赏；ｂ．这种植物的果实。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-葫"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-66e86a7d8327b35b7c2fa07e",
+  "title": "宿天竺寺寄灵隐寺僧",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "夜向灵溪息此身，风泉竹露净衣尘。",
+    "月明石上堪同宿，那作山南山北人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-89d241bf-37ef-4ce6-9230-1354cb508faa"
+}

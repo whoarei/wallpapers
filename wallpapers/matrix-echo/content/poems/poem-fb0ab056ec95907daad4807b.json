@@ -1,0 +1,16 @@
+{
+  "id": "poem-fb0ab056ec95907daad4807b",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "婆婆暗自喜，得你嫁夫婿。",
+    "图它此去时，早攀月桂枝。",
+    "金冠霞帔，有分妆束你。",
+    "我称孺人，。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2595",
+  "tags": []
+}

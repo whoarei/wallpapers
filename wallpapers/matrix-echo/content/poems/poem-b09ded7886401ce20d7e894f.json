@@ -1,0 +1,18 @@
+{
+  "id": "poem-b09ded7886401ce20d7e894f",
+  "title": "鹧鸪天·闲立飞虹远兴长",
+  "author": "张镃",
+  "dynasty": "宋",
+  "verses": [
+    "闲立飞虹远兴长。",
+    "一方云锦荐疏凉。",
+    "翻风翠盖无尘土，出水红妆有艳香。",
+    "携靓侣，泛轻航。",
+    "棹歌惊起野鸳鸯。",
+    "同过清夏看新月，茉莉花园小象床。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-361",
+  "tags": []
+}

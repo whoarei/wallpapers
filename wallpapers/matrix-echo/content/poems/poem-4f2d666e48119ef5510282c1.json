@@ -1,0 +1,14 @@
+{
+  "id": "poem-4f2d666e48119ef5510282c1",
+  "title": "元日领客登北高",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "云绕簷楹扫不开，阑干直下是飞来。",
+    "笑看白玉芬陁利，领略风烟又一回。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-224f42a8-e2f3-45ea-8a8f-c0b8825563db"
+}

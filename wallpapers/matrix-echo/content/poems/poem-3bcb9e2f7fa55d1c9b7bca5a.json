@@ -1,0 +1,15 @@
+{
+  "id": "poem-3bcb9e2f7fa55d1c9b7bca5a",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "觑着爹颜衰鬓星，痛点点教别泪暗零。",
+    "爹爹，我左难右难：误了公婆，被人讥评；撇了亲爹，又没人看承。",
+    "(合前)(生唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5253",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd925688c98427110a3bd973",
+  "title": "萧宅二三子赠答诗二十首 客许石",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "石公说道理，句句出凡格。",
+    "相知贵知心，岂恨主为客。",
+    "过须归去来，旦晚上无厄。",
+    "主人诚贤人，多应不相责。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-f905ae5b-7950-494f-88b4-44b5d4041f2c"
+}

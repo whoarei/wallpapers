@@ -1,0 +1,18 @@
+{
+  "id": "poem-d0390871a06c92d96ca88774",
+  "title": "西江月·竹寺青灯永夜",
+  "author": "向",
+  "dynasty": "宋",
+  "verses": [
+    "竹寺青灯永夜，江城黄叶高秋。",
+    "当时文物尽交游。",
+    "更为笛声怀旧。",
+    "牢落一生羁思，风流万斛诗愁。",
+    "强邀从事到青州。",
+    "酒病绵绵越瘦。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-195",
+  "tags": []
+}

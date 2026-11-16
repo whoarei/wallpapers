@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5428",
+  "script": "kai",
+  "character": "吨",
+  "reading": "dūn",
+  "description": "质量和重量的单位\n船舶装载容积的单位, 通\n②指'登记吨'，计算船只容积的单位，1登记吨等于2.83立方米。\n【吨位】\n①车、船等规定的最大载重量。船舶的吨位为满载排水量与空船排水量之差。\n②计算船舶载重量时按船的容积计算，以登记吨为一吨位。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吨"
+}

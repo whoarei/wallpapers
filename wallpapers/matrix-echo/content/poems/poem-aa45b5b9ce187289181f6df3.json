@@ -1,0 +1,18 @@
+{
+  "id": "poem-aa45b5b9ce187289181f6df3",
+  "title": "春江夕望",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "洞庭芳草遍，楚客莫思归。",
+    "经难人空老，逢春鴈自飞。",
+    "东西兄弟远，存没友朋稀。",
+    "独立还垂泪，天南一布衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-31b1a00e-1ae0-42d5-9996-e5bf8beecbb6"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9759",
+  "script": "seal",
+  "character": "静",
+  "reading": "jìng",
+  "description": "jìng：(1)停止的，与动”相对～止。～态。～物。平～。风平浪～。\n(2)没有声音安～。寂～。僻～。冷～。肃～。～悄悄。～穆。～谧。～默。～观。～听。\n(3)安详，闲雅～心。～坐。\n(4)古同净”，清洁。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-静"
+}

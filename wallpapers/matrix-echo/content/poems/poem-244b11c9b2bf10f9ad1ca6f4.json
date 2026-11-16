@@ -1,0 +1,16 @@
+{
+  "id": "poem-244b11c9b2bf10f9ad1ca6f4",
+  "title": "常州韦郎中泛舟见饯",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "主人冯轼贵，送客泛舟稀。",
+    "逼岸随芳草，回桡背落晖。",
+    "映花双节驻，临水伯劳飞。",
+    "醉与群公狎，春塘露冕归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-6a1dfe28-4e40-488a-844d-5dbf5f3023e8"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6978",
+  "script": "seal",
+  "character": "楸",
+  "reading": "qiū",
+  "description": "qiū：落叶乔木，干高叶大，木材质地致密，耐湿，可造船，亦可做器具～局。～枰（棋盘。古代多用楸木做成）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-楸"
+}

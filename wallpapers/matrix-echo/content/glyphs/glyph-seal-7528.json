@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7528",
+  "script": "seal",
+  "character": "用",
+  "reading": "yòng",
+  "description": "yòng：(1)使人或物发挥其功能使～。～心。～兵。～武。\n(2)可供使用的～品。～具。\n(3)进饭食的婉辞～饭。\n(4)花费的钱财费～。～项。～资。\n(5)物质使用的效果功～。有～之才。\n(6)需要（多为否定）不～多说。\n(7)因此～此。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-用"
+}

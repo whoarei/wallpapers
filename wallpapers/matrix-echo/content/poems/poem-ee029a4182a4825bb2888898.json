@@ -1,0 +1,16 @@
+{
+  "id": "poem-ee029a4182a4825bb2888898",
+  "title": "地僻",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "地僻逢迎少，吾生信杳冥。",
+    "清谈养生论，兀坐太玄经。",
+    "性拙贫逾乐，神清梦数灵。",
+    "亭亭岁寒友，相对眼终青。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-837f73d0-4585-453e-9a46-1b8826888059"
+}

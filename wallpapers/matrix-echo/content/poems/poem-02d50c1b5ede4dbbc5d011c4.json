@@ -1,0 +1,18 @@
+{
+  "id": "poem-02d50c1b5ede4dbbc5d011c4",
+  "title": "西江月·楼上风生白羽",
+  "author": "陈师道",
+  "dynasty": "宋",
+  "verses": [
+    "楼上风生白羽，尊前笑出青春。",
+    "破红展翠恰如今。",
+    "把酒如何不饮。",
+    "绣幕灯深绿暗，画帘人语黄昏。",
+    "晚云将雨不成阴。",
+    "竹月风窗弄影。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-297",
+  "tags": []
+}

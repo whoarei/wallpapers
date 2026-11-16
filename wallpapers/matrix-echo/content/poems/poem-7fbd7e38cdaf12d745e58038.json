@@ -1,0 +1,16 @@
+{
+  "id": "poem-7fbd7e38cdaf12d745e58038",
+  "title": "仲子生日",
+  "author": "孙介",
+  "dynasty": "宋",
+  "verses": [
+    "寻常得子要佳晨，何幸生朝在仲春。",
+    "乐事赏心随处处，仁风和气似亲亲。",
+    "天恩有庇容团聚，家训无须旋卜邻。",
+    "杯酒献酬更祝颂，不须黄老拱星辰。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-cf92b4c1-452f-4a69-af66-56168e07e66d"
+}

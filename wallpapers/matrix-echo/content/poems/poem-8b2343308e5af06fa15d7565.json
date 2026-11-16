@@ -1,0 +1,14 @@
+{
+  "id": "poem-8b2343308e5af06fa15d7565",
+  "title": "咏史诗 居延",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "漠漠平沙际碧天，问人云此是居延。",
+    "停骖一顾犹魂断，苏武争禁十九年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-046d4c27-7171-4f85-88e7-5923a7808afa"
+}

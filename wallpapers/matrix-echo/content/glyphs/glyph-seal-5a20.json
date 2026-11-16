@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5a20",
+  "script": "seal",
+  "character": "娠",
+  "reading": "shēn",
+  "description": "shēn：胎儿在母体中微动，泛指怀孕妊～（怀孕）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-娠"
+}

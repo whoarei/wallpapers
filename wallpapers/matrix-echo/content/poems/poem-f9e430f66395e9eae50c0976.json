@@ -1,0 +1,18 @@
+{
+  "id": "poem-f9e430f66395e9eae50c0976",
+  "title": "送周郎中还司",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "忆在庐山始识君，当时惟拟共眠云。",
+    "那知身计关前定，却向人间逐世纷。",
+    "紫阁峰前欣独往，银台门里叹离群。",
+    "青囊旧有登真诀，莫遣闲人取次闻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-7cd1cc4c-e7d5-4449-b615-e1f0d8ffc57e"
+}

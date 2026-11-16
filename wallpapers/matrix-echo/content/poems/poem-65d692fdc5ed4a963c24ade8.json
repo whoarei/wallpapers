@@ -1,0 +1,16 @@
+{
+  "id": "poem-65d692fdc5ed4a963c24ade8",
+  "title": "五六",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "有钱莫掣⿰忄霍，（「⿰忄霍」，伯三七一六、伯三六五六卷作「攉」。",
+    "）不得是（一本作「事」。",
+    "）奢华。",
+    "乡里人儜恶，差科必破家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-7b579402-909a-4aa6-bec6-fac43e2e9143"
+}

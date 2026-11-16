@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-74f6",
+  "script": "seal",
+  "character": "瓶",
+  "reading": "píng",
+  "description": "píng：(1)口小腹大的器皿，多为瓷或玻璃做成，通常用来盛液体～子。酒～。花～。\n(2)量词，用于瓶装的东西两～啤酒。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瓶"
+}

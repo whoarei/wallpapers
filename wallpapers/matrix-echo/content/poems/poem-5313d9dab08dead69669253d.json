@@ -1,0 +1,16 @@
+{
+  "id": "poem-5313d9dab08dead69669253d",
+  "title": "耒阳杜工部祠堂",
+  "author": "孟宾于",
+  "dynasty": "宋",
+  "verses": [
+    "南游何感思，更甚叶缤纷。",
+    "一夜耒江雨，百年工部文。",
+    "青山当日见，白酒至今闻。",
+    "惟有为诗者，经过时吊君。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-c73b151d-2012-41aa-bcd9-6705ff87d52d"
+}

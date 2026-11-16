@@ -1,0 +1,19 @@
+{
+  "id": "poem-c9ed416eaa712d55155d94fd",
+  "title": "送谏议十六叔至孝义渡后奉寄",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "晓渡明镜中，霞衣相飘飖。",
+    "浪凫惊亦双，蓬客将谁僚。",
+    "别饮孤易醒，离忧壮难销。",
+    "文清虽无敌，儒贵不敢骄。",
+    "江吏捧紫泥，海旗剪红蕉。",
+    "分明太守礼，跨蹑毗陵桥。",
+    "伊洛去未回，遐瞩空寂寥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-2e6bfc9a-9e1a-42e6-bf59-89566c0b1932"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-997c",
+  "script": "kai",
+  "character": "饼",
+  "reading": "bǐng",
+  "description": "形状像饼的东西\n做饼\n饼铛\n饼肥\n饼干\n饼子\n用玉米面、小米面等贴在锅上\n①烤熟或蒸熟的面食的总称。形状多扁且圆～干、烤～。\n②形状像饼的东西铁～、柿～。\n【饼饵】饼类食品的泛称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-饼"
+}

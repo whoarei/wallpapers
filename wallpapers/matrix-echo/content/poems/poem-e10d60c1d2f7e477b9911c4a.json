@@ -1,0 +1,16 @@
+{
+  "id": "poem-e10d60c1d2f7e477b9911c4a",
+  "title": "寄太白隐者",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "开辟已来雪，为山长欠春。",
+    "高遮辞碛雁，寒噤入川人。",
+    "栈阁交冰柱，耕樵隔日轮。",
+    "此中栖息者，不识两京尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-4c180b32-7be1-49fa-b26e-fc184487b4e5"
+}

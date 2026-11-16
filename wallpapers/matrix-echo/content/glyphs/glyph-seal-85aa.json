@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-85aa",
+  "script": "seal",
+  "character": "薪",
+  "reading": "xīn",
+  "description": "xīn：柴火～苏（打柴割草）。～尽火传（chuán）（柴火烧完，又引燃了后一根柴，火永远不灭。原指人形骸有尽而精神未死，后亦用以喻思想学问、技艺代代相传）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-薪"
+}

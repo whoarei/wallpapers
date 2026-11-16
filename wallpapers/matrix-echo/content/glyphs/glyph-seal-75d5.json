@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75d5",
+  "script": "seal",
+  "character": "痕",
+  "reading": "hén",
+  "description": "hén：创伤痊愈后留下的疤，亦泛指斑迹～印。～迹。～瘕（疤痕。喻曾犯有罪案的人）。伤～。泪～。裂～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-痕"
+}

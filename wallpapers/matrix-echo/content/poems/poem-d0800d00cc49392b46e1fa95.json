@@ -1,0 +1,14 @@
+{
+  "id": "poem-d0800d00cc49392b46e1fa95",
+  "title": "上行杯·白马玉鞭金辔",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "白马玉鞭金辔，少年郎，离别容易，迢递去程千万里。",
+    "惆怅异乡云水，满酌一杯劝和泪，须愧珍重意，莫辞醉。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-19"
+}

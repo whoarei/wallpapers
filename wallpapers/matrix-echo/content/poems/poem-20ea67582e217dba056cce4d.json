@@ -1,0 +1,14 @@
+{
+  "id": "poem-20ea67582e217dba056cce4d",
+  "title": "渭阳",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "我送舅氏，曰至渭阳。何以赠之？路车乘黄。",
+    "我送舅氏，悠悠我思。何以赠之？琼瑰玉佩。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-133"
+}

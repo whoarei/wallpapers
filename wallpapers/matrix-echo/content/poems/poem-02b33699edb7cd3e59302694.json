@@ -1,0 +1,16 @@
+{
+  "id": "poem-02b33699edb7cd3e59302694",
+  "title": "送友入关",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "闻君帝城去，西望一沾巾。",
+    "落日见秋草，暮年逢故人。",
+    "非才长作客，有命懒谋身。",
+    "近更婴衰疾，空思老汉滨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-afb2ce80-73ac-47b6-bc68-bbcb083c31a3"
+}

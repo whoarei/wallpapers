@@ -1,0 +1,16 @@
+{
+  "id": "poem-6043905e571e0ebf0b8d723e",
+  "title": "送僧归华山",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "心枯衲亦枯，归岳揭空盂。",
+    "七贵留不住，孤云出更孤。",
+    "烧灰犹汤足，雪片似黏须。",
+    "他日如相觅，还应道到吴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-ed50c044-aa14-4cee-a88e-de5772498fd1"
+}

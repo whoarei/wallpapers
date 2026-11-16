@@ -1,0 +1,16 @@
+{
+  "id": "poem-e89725ae88b331ae41bb9e0d",
+  "title": "题贾岛吟诗台",
+  "author": "归仁",
+  "dynasty": "唐",
+  "verses": [
+    "此台如可废，此恨有谁平。",
+    "纵使迷青草，终难没旧名。",
+    "天悲朝雨色，岳哭夜猨声。",
+    "不是心偏苦，应关自古情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-e59aed37-0336-4982-96bd-a1bd468312ed"
+}

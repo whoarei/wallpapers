@@ -1,0 +1,14 @@
+{
+  "id": "poem-a5c9bf783662a72a7f427f9b",
+  "title": "赠道者",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "深居白云穴，静注赤松经。",
+    "往往龙潭上，焚香礼斗星。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-5d5c1773-a552-4415-8c5a-c303a7f13260"
+}

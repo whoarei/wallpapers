@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-50fb",
+  "script": "seal",
+  "character": "僻",
+  "reading": "pì",
+  "description": "pì：(1)偏，距离中心地区远的偏～。～静。～陋。～野。～远。穷乡～壤。\n(2)不常见的冷～。生～。\n(3)性情古怪，不合群孤～。怪～。乖～。～戾。～性。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-僻"
+}

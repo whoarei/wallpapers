@@ -1,0 +1,18 @@
+{
+  "id": "poem-7920fa9bff2d144b4bd92204",
+  "title": "临江仙·千顷翠围遮绿净",
+  "author": "王质",
+  "dynasty": "宋",
+  "verses": [
+    "千顷翠围遮绿净，菱花影落波中。",
+    "看看红锦漾清风。",
+    "此时催入觐，烟浪拍云空。",
+    "伫见觚棱栖宝爵，旌旗全仗飞龙。",
+    "赭黄一点现真容。",
+    "御麻宣未毕，云镜上天东。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-334",
+  "tags": []
+}

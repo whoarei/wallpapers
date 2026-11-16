@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-67ab",
+  "script": "kai",
+  "character": "枫",
+  "reading": "fēng",
+  "description": "落叶乔木,春季开花,黄褐色。叶子掌状三裂,秋季变成红色\n槭属植物俗也称枫\n枫 fēng 枫树，也叫\"香枫\"。落叶乔木。春季开花。叶掌状三裂，秋季变红色。木材供建筑、制家具等用。果实和树脂可供药用。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-枫"
+}

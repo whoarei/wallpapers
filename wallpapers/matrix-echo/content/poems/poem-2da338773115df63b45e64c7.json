@@ -1,0 +1,14 @@
+{
+  "id": "poem-2da338773115df63b45e64c7",
+  "title": "春秋战国门 王后",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "连环要解解非难，忽碎瑶堦一旦间。",
+    "两国相持兵不解，会应俱碎似连环。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-b19d41a5-acf2-4cc1-9370-c71ba340b29f"
+}

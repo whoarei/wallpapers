@@ -1,0 +1,19 @@
+{
+  "id": "poem-f38123d800a490d14afa05b4",
+  "title": "除夜作",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "旅馆寒灯独不眠，客心何事转凄然。",
+    "故乡今夜思千里，愁鬓明朝又一年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "岁月",
+    "孤独",
+    "思乡",
+    "春节"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-26d3dbf4-bc0f-4b19-ab8d-fce4d9e2af10"
+}

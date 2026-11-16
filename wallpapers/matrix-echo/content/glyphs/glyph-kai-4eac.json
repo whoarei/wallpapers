@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4eac",
+  "script": "kai",
+  "character": "京",
+  "reading": "jīng",
+  "description": "jīng：(1)国都（现特指中国首都北京）～城。～都。～华（因京都是文物、人才汇集的地方，所以称京都为京华”）。～畿（国都和国都附近的地方）。～剧。～师（首都的旧称）。～绣。～菜。\n(2)大。\n(3)古代数名，指一千万，亦指一亿兆。\n(4)中国少数民族，主要分布于广西壮族自治区～族。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-京"
+}

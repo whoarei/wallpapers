@@ -1,0 +1,19 @@
+{
+  "id": "poem-3dc6ccb0d10fa0b400abad8e",
+  "title": "清平调词三首 二",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "一枝秾艳露凝香，云雨巫山枉断肠。",
+    "借问汉宫谁得似，可怜飞燕倚新妆。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "女子",
+    "近代曲辞",
+    "唐诗三百首",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-99167d13-8e2c-4b75-bf93-62b0682dfdd0"
+}

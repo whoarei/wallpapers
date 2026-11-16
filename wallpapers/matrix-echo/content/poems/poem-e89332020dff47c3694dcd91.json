@@ -1,0 +1,14 @@
+{
+  "id": "poem-e89332020dff47c3694dcd91",
+  "title": "书补之梅",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "玉质敷腴宫样妆，风流终媿水云乡。",
+    "一邨飞落人间世，添却逃禅百倍香。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-9efc7a11-2cfc-4917-94d5-9ed91388e7e1"
+}

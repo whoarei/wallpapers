@@ -1,0 +1,16 @@
+{
+  "id": "poem-50e2091cf6b9d16ccc359889",
+  "title": "下第日书情寄上叔父",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "微才空觉滞京师，末学曾为叔父知。",
+    "雪里题诗偏见赏，林间饮酒独令随。",
+    "游客尽伤春色老，贫居还惜暮阴移。",
+    "欲归江海寻山去，愿报何人得桂枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-0d8d840d-1f94-44da-9b52-18a01cf8ed82"
+}

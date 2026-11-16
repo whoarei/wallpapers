@@ -1,0 +1,18 @@
+{
+  "id": "poem-0d05192913da2b89f4dcc7b1",
+  "title": "玉楼春·尊前拟把归期说",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "尊前拟把归期说。",
+    "未语春容先惨咽。",
+    "人生自是有情痴，此恨不关风与月。",
+    "离歌且莫翻新阕。",
+    "一曲能教肠寸结。",
+    "直须看尽洛城花，始共春风容易别。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-669",
+  "tags": []
+}

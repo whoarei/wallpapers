@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8471",
+  "script": "kai",
+  "character": "葱",
+  "reading": "cōng",
+  "description": "cōng：(1)多年生草本植物，叶圆筒状，中空，茎叶有辣味，是常用的蔬菜或调味品，兼作药用，品种很多大～。小～。\n(2)青色～翠。～白。～绿。～茏（形容草木青翠茂盛）。～郁。郁郁～～。\n〔～头〕ａ．多年生草本植物，地下有扁球形鳞，白色或略带紫红色，可食；ｂ．这种植物的鳞茎。亦称洋葱”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-葱"
+}

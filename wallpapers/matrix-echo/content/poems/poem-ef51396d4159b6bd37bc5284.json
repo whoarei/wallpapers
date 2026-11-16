@@ -1,0 +1,16 @@
+{
+  "id": "poem-ef51396d4159b6bd37bc5284",
+  "title": "和立斋抱膝吟三章  其一",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "帝腹加顽足，上干天象速。",
+    "造膝论当世，从容金殿旭。",
+    "人生莫不有行藏，谁把行藏较短长。",
+    "要识行藏无所为，时哉出处总辉光。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-a12322d6-f43f-45cb-b696-3b62cfacf06e"
+}

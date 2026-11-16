@@ -1,0 +1,14 @@
+{
+  "id": "poem-dfde3559f4b1890d20ee675b",
+  "title": "新水令",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "朔风凛冽云垂地，见长空六花飞坠。",
+    "踏雪归来也，仗一点灯儿，伴岑寂。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2498",
+  "tags": []
+}

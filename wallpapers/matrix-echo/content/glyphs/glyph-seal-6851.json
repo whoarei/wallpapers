@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6851",
+  "script": "seal",
+  "character": "桑",
+  "reading": "sāng",
+  "description": "sāng：(1)落叶灌木，叶子可以喂蚕，果穗味甜可食，木材可制家具或农具，皮可造纸，叶、果均可入药。中国大部分地区都有种植～葚。～农。～梓（喻乡里，故乡）。沧海～田（形容世事变迁很大）。～榆暮景。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-桑"
+}

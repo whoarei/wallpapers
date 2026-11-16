@@ -1,0 +1,16 @@
+{
+  "id": "poem-1ddec73a46bcce9df789c374",
+  "title": "郊庙歌辞 享节愍太子庙乐章 登歌酌鬯",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "灼灼重明，仰承元首。",
+    "既贤且哲，惟孝与友。",
+    "惟孝虽遥，灵规不朽。",
+    "礼因诚致，备絜玄酒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-79ddee12-c5fd-4c8d-a46b-eb1d6649d850"
+}

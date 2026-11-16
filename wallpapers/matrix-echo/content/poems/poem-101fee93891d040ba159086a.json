@@ -1,0 +1,19 @@
+{
+  "id": "poem-101fee93891d040ba159086a",
+  "title": "生查子·繁灯夺霁华",
+  "author": "刘克庄",
+  "dynasty": "宋",
+  "verses": [
+    "繁灯夺霁华。",
+    "戏鼓侵明发。",
+    "物色旧时同，情味中年别。",
+    "浅画镜中眉，深拜楼西月。",
+    "人散市声收，渐入愁时节。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-52"
+}

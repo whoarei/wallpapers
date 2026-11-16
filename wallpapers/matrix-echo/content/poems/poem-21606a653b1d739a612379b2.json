@@ -1,0 +1,19 @@
+{
+  "id": "poem-21606a653b1d739a612379b2",
+  "title": "往丹阳寻陆处士不遇",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "远客殊未归，我来几惆怅。",
+    "叩关一日不见人，绕屋寒花笑相向。",
+    "寒花寂寂徧荒阡，柳色萧萧愁暮蝉。",
+    "行人无数不相识，独立云阳古驿边。",
+    "凤翅山中思本寺，鱼竿村口望归船。",
+    "归船不见见寒烟，离心远水共悠然。",
+    "他日相期那可定，闲僧著处即经年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f8e32064-bcb3-41ca-ad12-5a40f34bb4a0"
+}

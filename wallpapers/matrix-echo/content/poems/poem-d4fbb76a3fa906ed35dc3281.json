@@ -1,0 +1,14 @@
+{
+  "id": "poem-d4fbb76a3fa906ed35dc3281",
+  "title": "杨柳枝·两两黄鹂色似金",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "两两黄鹂色似金，袅枝啼露动芳音。",
+    "春来幸自长如线，可惜牵缠荡子心。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-34",
+  "tags": []
+}

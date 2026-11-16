@@ -1,0 +1,16 @@
+{
+  "id": "poem-b6e6791583ea2ed52abc56f7",
+  "title": "游仙窟诗 游后园",
+  "author": "张文成",
+  "dynasty": "唐",
+  "verses": [
+    "昔时过小苑，今朝戏后园。",
+    "两岁梅花匝，三春柳色繁。",
+    "水明鱼影静，林翠鸟歌喧。",
+    "何须杏树岭，即是桃花源。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-2eecc300-b3e9-4168-b8b3-27a6f6e3c54c"
+}

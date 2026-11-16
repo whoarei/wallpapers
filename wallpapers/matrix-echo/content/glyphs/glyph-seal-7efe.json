@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7efe",
+  "script": "seal",
+  "character": "绾",
+  "reading": "wǎn",
+  "description": "盘绕,系结\n卷起\n系念;挂念\n控制\n总管\n奉阳君\n⒈系，盘结～个结。～头发。\n⒉卷把裤脚～起。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绾"
+}

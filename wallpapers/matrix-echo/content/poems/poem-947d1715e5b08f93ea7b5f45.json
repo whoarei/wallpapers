@@ -1,0 +1,16 @@
+{
+  "id": "poem-947d1715e5b08f93ea7b5f45",
+  "title": "韩魏公生于泉南州宅故未有祠于典为阙郡圃有庵名大隠即之以祠八月戊子率同僚祀之",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "天开我宋太平基，紫府真人下应期。",
+    "河朔魁梧出真相，泉南葱鬰产奇儿。",
+    "梦符蚌腹生珠夜，事应台躔捧日时。",
+    "紫帽清源发光采，郡园深处立新祠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-c0f2e48d-060d-4723-9b6d-7a9ab5926013"
+}

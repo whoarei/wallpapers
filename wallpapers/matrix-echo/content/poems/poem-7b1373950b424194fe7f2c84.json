@@ -1,0 +1,14 @@
+{
+  "id": "poem-7b1373950b424194fe7f2c84",
+  "title": "题故僧影堂",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "香消云锁旧僧家，僧刹残形半壁斜。",
+    "日暮松烟寒漠漠，秋风吹破纸莲花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-e979ddc0-7d65-46c3-bb3a-10a65869481c"
+}

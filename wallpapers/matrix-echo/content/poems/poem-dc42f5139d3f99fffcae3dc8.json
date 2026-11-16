@@ -1,0 +1,20 @@
+{
+  "id": "poem-dc42f5139d3f99fffcae3dc8",
+  "title": "归去来·一夜狂风雨",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "一夜狂风雨。",
+    "花英坠、碎红无数。",
+    "垂杨漫结黄金缕。",
+    "尽春残、萦不住。",
+    "蝶稀蜂散知何处。",
+    "𣨼尊酒、转添愁绪。",
+    "多情不惯相思苦。",
+    "休惆怅、好归去。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-249",
+  "tags": []
+}

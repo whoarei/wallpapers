@@ -1,0 +1,15 @@
+{
+  "id": "poem-9684b49a445412467790ea16",
+  "title": "泗水行",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "泗水流急石纂纂，鲤鱼上下红尾短。",
+    "春冰销散日华满，行舟往来浮桥断。",
+    "城边鱼市人早行，水烟漠漠多棹声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-4453d037-74ce-434d-8db0-1c63b6cc62b8"
+}

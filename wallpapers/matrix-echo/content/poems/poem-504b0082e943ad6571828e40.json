@@ -1,0 +1,16 @@
+{
+  "id": "poem-504b0082e943ad6571828e40",
+  "title": "临江仙·渭阙宫城秦树凋",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "渭阙宫城秦树凋，玉楼独上无聊。",
+    "含情不语自吹箫，调情和恨，天路逐风飘。",
+    "何事乘龙入忽降，似知深意相招。",
+    "三清携手路非遥，世间屏障，彩笔画娇娆。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-35"
+}

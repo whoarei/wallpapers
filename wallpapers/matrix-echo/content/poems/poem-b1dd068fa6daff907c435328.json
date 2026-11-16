@@ -1,0 +1,16 @@
+{
+  "id": "poem-b1dd068fa6daff907c435328",
+  "title": "木兰花·掩朱扉",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "掩朱扉，钩翠箔，满院莺声春寂寞。",
+    "匀粉泪，恨檀郎，一去不归花又落。",
+    "对斜晖，临小阁，前事岂堪重想着。",
+    "金带冷，画屏幽，宝帐慵熏兰麝薄。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-4"
+}

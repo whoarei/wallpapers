@@ -1,0 +1,15 @@
+{
+  "id": "poem-61ef7856da9daf0d4fceed41",
+  "title": "新水令",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)一从科第凤鸾飞，被奸谋有书空寄。",
+    "幸萱堂无祸危，痛兰房受岑寂。",
+    "挨不过凌逼，身沈在浪涛里。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8269",
+  "tags": []
+}

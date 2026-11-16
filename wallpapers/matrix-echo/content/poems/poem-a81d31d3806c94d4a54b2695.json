@@ -1,0 +1,21 @@
+{
+  "id": "poem-a81d31d3806c94d4a54b2695",
+  "title": "自淇涉黄河途中作十三首 十",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "茫茫浊河注，怀古临河滨。",
+    "禹功本豁达，汉迹方因循。",
+    "坎德昔滂沱，冯夷胡不仁。",
+    "激潏陵堤防，东郡多悲辛。",
+    "天子忽惊悼，从官皆负薪。",
+    "畚筑岂无谋，祈祷如有神。",
+    "宣房今安在，高岸空嶙峋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-cea51298-9d8e-468f-a075-8e843c97e018"
+}

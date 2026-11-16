@@ -1,0 +1,22 @@
+{
+  "id": "poem-641c836da70f891993ec8d6f",
+  "title": "游子吟",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "慈母手中线，游子身上衣。",
+    "临行密密缝，意恐迟迟归。",
+    "谁言寸草心，报得三春晖。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-22923091-18da-429d-9ef1-6b367fd74b1a",
+  "tags": [
+    "杂曲歌辞",
+    "唐诗三百首",
+    "乐府",
+    "母爱",
+    "三年级下册",
+    "赞颂"
+  ]
+}

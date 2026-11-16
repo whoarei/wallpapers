@@ -1,0 +1,16 @@
+{
+  "id": "poem-bd16ad6d2ed227f604d1fe12",
+  "title": "思平泉树石杂咏一十首 二猿",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "钓濑水涟漪，富春山合沓。",
+    "松上夜猿鸣，谷中清响合。",
+    "冲网忽见羁，故山从此辞。",
+    "无由碧潭饮，争接绿萝枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-edcec266-bb0e-463e-a84c-849192e218a9"
+}

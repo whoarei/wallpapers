@@ -1,0 +1,14 @@
+{
+  "id": "poem-99d28e867d508cc2062c48da",
+  "title": "漫兴",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "糁径杨花铺白毡，点溪荷叶叠青钱。",
+    "笋根稚子无人见，沙上凫雏傍母眠。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-漫興"
+}

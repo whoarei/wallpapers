@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5915",
+  "script": "seal",
+  "character": "夕",
+  "reading": "xī",
+  "description": "xī：(1)日落的时候～阳。～照。朝（zhāo）～相处（chǔ）。\n(2)泛指晚上前～。除～。一～谈。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-夕"
+}

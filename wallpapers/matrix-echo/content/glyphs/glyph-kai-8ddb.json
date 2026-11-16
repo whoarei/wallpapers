@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8ddb",
+  "script": "kai",
+  "character": "跛",
+  "reading": "bǒ",
+  "description": "bǒ：腿或脚有病，走路时身体不平衡，瘸～脚。～子。～行。～鳖千里（喻本身条件再差，只要不懈努力，终能获得成功）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-跛"
+}

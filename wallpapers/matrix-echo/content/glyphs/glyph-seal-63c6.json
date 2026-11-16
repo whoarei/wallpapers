@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-63c6",
+  "script": "seal",
+  "character": "揆",
+  "reading": "kuí",
+  "description": "kuí：(1)度（duó），揣测～度。～策。～古察今。\n(2)道理，准则千载一～。\n(3)事务百～。\n(4)管理，掌管～百事。\n(5)旧称总揽政务的人，如宰相等阁～。～席（宰相之位）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-揆"
+}

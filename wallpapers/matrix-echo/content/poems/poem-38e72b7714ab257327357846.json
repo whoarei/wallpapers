@@ -1,0 +1,16 @@
+{
+  "id": "poem-38e72b7714ab257327357846",
+  "title": "闻徐师川自京师还豫章",
+  "author": "林之奇",
+  "dynasty": "宋",
+  "verses": [
+    "九衢尘里无停舟，君居陋巷不出游。",
+    "满城恶少弋凫雁，对面故人风马牛。",
+    "别后天寒灯火夜，归来眠冷江湖秋。",
+    "冯驩老大食不饱，起视八荒徒蒯缑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-813e790e-8d6e-43f7-b099-55bfbc91fa8e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-02a6409249c1d895919a5ff3",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(小旦)奴今拜贺椿萱，念奴家生居陋室微贱，想前世共结良缘非浅。",
+    "人妻美少年。",
+    "双双拜谢天。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8925",
+  "tags": []
+}

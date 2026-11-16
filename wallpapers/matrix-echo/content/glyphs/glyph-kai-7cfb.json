@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7cfb",
+  "script": "kai",
+  "character": "系",
+  "reading": "xì；ji",
+  "description": "拴;系结\n约束;羁绊\n拘囚\n留意;挂念\n牵涉;关连\n⒈结，缚，扣～鞋带。\n⒉见xì。\n⒈有联属、有条理的～统。水～。世～。派～。一～列。\n⒉高等学校中按学科设置的教学单位哲学～。数学～。生物～。\n⒊是确～真情。\n⒋关联，联结关～。联～。\n⒍带子袜～。鞋～。\n⒎拴，绑，捆着送达～马。～绊其足。将车上的东西～着拿下来。〈引〉拘囚，拘束～狱。～于习俗。\n⒏挂，悬～念。群言～于口。\n⒐地层系统分类的第二级，比界小，相当于地质年代的纪。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-系"
+}

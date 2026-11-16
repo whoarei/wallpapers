@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9f9b",
+  "script": "seal",
+  "character": "龛",
+  "reading": "kān",
+  "description": "小窟或小屋\n供奉佛像或神位的石室或小阁\n盛放神圣物品的盒子\n塔,塔下室\n容纳;盛\n⒈迷信的人供奉佛像、神像的石室或小阁子神～已成古物。\n⒉佛塔。\n⒊〈古〉通\"戡\"。平定。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-龛"
+}

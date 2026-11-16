@@ -1,0 +1,16 @@
+{
+  "id": "poem-4abdbd47ad96737eb22b755e",
+  "title": "河传·春晚",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "春晚，风暖，锦城花满。",
+    "狂杀游人，玉鞭金勒，寻胜驰骤轻尘，惜良晨。",
+    "翠娥争劝临邛酒，纤纤手，拂面垂丝柳。",
+    "归时烟里，钟鼓正是黄昏，暗销魂。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-5"
+}

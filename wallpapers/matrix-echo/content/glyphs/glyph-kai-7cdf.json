@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7cdf",
+  "script": "kai",
+  "character": "糟",
+  "reading": "zāo",
+  "description": "zāo：(1)做酒剩下的渣子酒～。～粕（亦喻无价值的东西）。～蛋。～糠之妻（指贫穷时共患难的妻子）。\n(2)腐朽，腐烂～烂。～朽。\n(3)坏事情办～了。～糕。\n(4)作践，损害～蹋。～践（践”读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-糟"
+}

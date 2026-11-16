@@ -1,0 +1,16 @@
+{
+  "id": "poem-1744f38043cbae8605fd5245",
+  "title": "宿长安苏雍主簿厅",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "县对数峰云，官清主簿贫。",
+    "听更池上鹤，伴值岳阳人。",
+    "井锁煎茶水，厅关捣药尘。",
+    "往来多屣步，同舍即诸邻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-b4829580-dddf-4cec-8191-e08d9bc3b17d"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-64d8",
+  "script": "seal",
+  "character": "擘",
+  "reading": "bò；bāi",
+  "description": "bò：大拇指～画（计划，布置。亦作擘划”）。～窠（指在印章或石碑上用直线划出来的方格子，以使刻写的字整齐）。巨～（喻杰出的人物）。～肌分理（喻分析事理很缜密）。\nbāi：同掰”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-擘"
+}

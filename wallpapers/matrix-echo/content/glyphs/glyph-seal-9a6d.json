@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9a6d",
+  "script": "seal",
+  "character": "驭",
+  "reading": "yù",
+  "description": "控制,制约\n统治;治理\n⒈驾驭车马～车。又指驾驭车马的人～手。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-驭"
+}

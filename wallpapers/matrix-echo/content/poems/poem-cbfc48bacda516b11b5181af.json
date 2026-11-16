@@ -1,0 +1,18 @@
+{
+  "id": "poem-cbfc48bacda516b11b5181af",
+  "title": "郊庙歌辞 封泰山乐章 太和",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "孝敬中发，和容外彰。",
+    "腾华照宇，如升太阳。",
+    "贞璧就奠，玄灵垂光。",
+    "礼乐具举，济济洋洋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "泰山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-22c07619-9423-4f39-be66-e5380527651b"
+}

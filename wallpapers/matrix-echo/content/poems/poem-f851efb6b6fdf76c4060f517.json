@@ -1,0 +1,14 @@
+{
+  "id": "poem-f851efb6b6fdf76c4060f517",
+  "title": "潭上作",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "竹岛残阳映翠微，雪翎禽过碧潭飞。",
+    "人间未有关身事，每到渔家不欲归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-2617d2ea-5a0f-4485-b0cf-07203461453d"
+}

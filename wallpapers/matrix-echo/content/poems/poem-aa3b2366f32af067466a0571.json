@@ -1,0 +1,16 @@
+{
+  "id": "poem-aa3b2366f32af067466a0571",
+  "title": "歌 三",
+  "author": "契此",
+  "dynasty": "唐",
+  "verses": [
+    "万法何殊心何异，何劳更用寻经义。",
+    "心王本自绝多知，智者只明无学地。",
+    "（以上三首又见《宗镜录》卷十八。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-4968a968-2c4b-4421-81d1-99163fed2475"
+}

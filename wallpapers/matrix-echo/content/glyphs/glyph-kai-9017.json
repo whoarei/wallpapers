@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9017",
+  "script": "kai",
+  "character": "逗",
+  "reading": "dòu",
+  "description": "dòu：(1)停留～留。～号。\n(2)引，惹弄～哏。～引。～人。～笑儿。\n(3)同读2”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-逗"
+}

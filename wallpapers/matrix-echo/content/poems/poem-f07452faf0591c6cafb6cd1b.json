@@ -1,0 +1,14 @@
+{
+  "id": "poem-f07452faf0591c6cafb6cd1b",
+  "title": "春秋战国门 郭开",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "秦袭邯郸岁月深，何人沾赠郭开金。",
+    "廉颇还国李牧在，安得赵王为尔擒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-84e7dad7-4cb9-448b-bbb7-d7e543859aa4"
+}

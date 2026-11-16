@@ -1,0 +1,16 @@
+{
+  "id": "poem-18c3b2a4f88a8cecbeba4116",
+  "title": "越中寺居",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "迟客疎林下，斜溪小艇通。",
+    "野桥连寺月，高竹半楼风。",
+    "水静鱼吹浪，枝闲鸟下空。",
+    "数峰相向绿，日夕郡城东。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-9ccc71df-4c60-40d5-ae79-ff570ff78bc2"
+}

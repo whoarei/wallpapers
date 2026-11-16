@@ -1,0 +1,14 @@
+{
+  "id": "poem-f82fd954723a94a13af94afd",
+  "title": "偈颂十二首  其一一",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "学道如初不变心，千魔万难愈惺惺。",
+    "直须敲出虚空髓，拔却金刚脑后钉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-9ce58cf7-3c2a-4faf-bb56-f0bd4ff3ae14"
+}

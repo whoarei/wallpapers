@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-86a4",
+  "script": "seal",
+  "character": "蚤",
+  "reading": "zǎo",
+  "description": "zǎo：(1)昆虫，赤褐色，善跳跃，寄生在人和畜的身体上，吸血液，能传染鼠疫等疾病。通称跳蚤”、虼蚤”。\n(2)古同早”。\n(3)古同爪”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蚤"
+}

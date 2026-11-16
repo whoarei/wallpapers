@@ -1,0 +1,19 @@
+{
+  "id": "poem-acd7f643b309eb7964e6775c",
+  "title": "题李员外厅",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "石砌蛩吟响，草堂人语稀。",
+    "道孤思绝唱，年长渐知非。",
+    "名利终成患，烟霞亦可依。",
+    "高丘松盖古，闲地药苗肥。",
+    "猨鸟啼嘉景，牛羊傍晚晖。",
+    "幽栖还自得，清啸坐忘机。",
+    "爱彼人深处，白云相伴归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-bae339d2-44f7-45d5-8a12-e26198f3a9c1"
+}

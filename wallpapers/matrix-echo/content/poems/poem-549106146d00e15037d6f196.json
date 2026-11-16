@@ -1,0 +1,18 @@
+{
+  "id": "poem-549106146d00e15037d6f196",
+  "title": "老夫采玉歌",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "采玉采玉须水碧，琢作步摇徒好色。",
+    "老夫饥寒龙为愁，蓝溪水气无清白。",
+    "夜雨冈头食蓁子，杜鹃口血老夫泪。",
+    "蓝溪之水厌生人，身死千年恨溪水。",
+    "斜山柏风雨如啸，泉脚挂绳青褭褭。",
+    "村寒白屋念娇婴，古台石磴悬肠草。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c8ca253f-7981-4bcc-a6dc-b7444401d39f"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-8f79649c772f0ff3529eb841",
+  "title": "鼓吹曲辞 巫山高",
+  "author": "皇甫冉",
+  "dynasty": "唐",
+  "verses": [
+    "巫峡见巴东，迢迢半出空。",
+    "云藏神女馆，雨到楚王宫。",
+    "朝暮泉声落，寒暄树色同。",
+    "清猨不可听，偏在九秋中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e607091f-25b1-4d3b-96f0-f5e8fa16bea1"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-4a397f7914b3f614156c3e8c",
+  "title": "题广爱寺楞伽山",
+  "author": "李琪",
+  "dynasty": "唐",
+  "verses": [
+    "善高天外远，方丈海中遥。",
+    "自有山神护，应无劫火烧。",
+    "坏文侵古壁，飞剑出寒霄。",
+    "何似苍苍色，严妆十七朝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ea069414-3057-4b62-ace3-b1258ed5c167"
+}

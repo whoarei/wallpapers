@@ -1,0 +1,16 @@
+{
+  "id": "poem-2d12c7ecc4600795ea8c70ca",
+  "title": "次分宜",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "分得宜春地，东偏一画屏。",
+    "洪阳仙洞古，龙姥故祠灵。",
+    "雨过溪痕长，春回草意青。",
+    "道傍聊下马，剔藓读碑铭。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-a13f8ebf-fe5a-4b23-a8fa-5c12267167f1"
+}

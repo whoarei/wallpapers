@@ -1,0 +1,16 @@
+{
+  "id": "poem-a4bfa3d2d917c876f47e9ece",
+  "title": "题子敬范新妇唐摹帖三首  其一",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "贞观款书丈二纸，不许儿奇专父美。",
+    "何为寥寥宝是似，遭乱真归火兼水。",
+    "千年谁人能继趾，不自名家殊未智。",
+    "嗟尔方来眼须洗，玉躞金题半归米。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-e778cb02-79d5-496d-b3a4-dce265d7709a"
+}

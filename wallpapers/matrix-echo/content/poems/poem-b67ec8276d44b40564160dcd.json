@@ -1,0 +1,18 @@
+{
+  "id": "poem-b67ec8276d44b40564160dcd",
+  "title": "桃花夫人庙",
+  "author": "徐熙",
+  "dynasty": "唐",
+  "verses": [
+    "一树桃花发，桃花即是君。",
+    "空祠临野水，何处觅闲云。",
+    "事迹樵人说，炉香过客焚。",
+    "雨添碑上藓，难读古时文。",
+    "（见陆心源《宋诗纪事补遗》卷二引《续辑汉阳县志》。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-4b2b93b1-948f-45fa-96d2-51f3f0bc6374"
+}

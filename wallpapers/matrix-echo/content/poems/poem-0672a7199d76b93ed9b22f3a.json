@@ -1,0 +1,20 @@
+{
+  "id": "poem-0672a7199d76b93ed9b22f3a",
+  "title": "蝶恋花·美盼低迷情宛转",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "美盼低迷情宛转。",
+    "爱雨怜云，渐觉宽金钏。",
+    "桃李香苞秋不展。",
+    "深心黯黯谁能见。",
+    "宋玉墙高才一觇。",
+    "絮乱丝繁，苦隔春风面。",
+    "歌板未终风色便。",
+    "梦为蝴蝶留芳甸。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-511",
+  "tags": []
+}

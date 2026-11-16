@@ -1,0 +1,19 @@
+{
+  "id": "poem-9fbbeeadd458a88e2d490ab1",
+  "title": "奉酬燕公见归田赋垂赠之作",
+  "author": "赵冬曦",
+  "dynasty": "唐",
+  "verses": [
+    "穷鸟婴笼缀，孤飞任播迁。",
+    "鹪鹩王佐用，复此挫冲天。",
+    "楚云何掩郁，湘水亦回邅。",
+    "怀哉愧木鴈，忽尔枉兰荃。",
+    "愈疾同枚叔，销忧比仲宣。",
+    "归途书可畏，弱操石犹坚。",
+    "覆载虽云广，涔阳直块然。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-8173fbc6-3427-4723-a388-d974fd193c60"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-8a3c58fa51a94cba606c965b",
+  "title": "横吹曲辞 出塞",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "居延城外猎天骄，白草连天野火烧。",
+    "暮云空碛时驱马，秋日平原好射雕。",
+    "护羌校尉朝乘障，破虏将军夜渡辽。",
+    "玉靶角弓珠勒马，汉家将赐霍嫖姚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "边塞"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e4fdb460-0944-4976-85a9-527bc87f7d7a"
+}

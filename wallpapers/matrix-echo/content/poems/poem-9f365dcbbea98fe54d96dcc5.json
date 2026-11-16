@@ -1,0 +1,16 @@
+{
+  "id": "poem-9f365dcbbea98fe54d96dcc5",
+  "title": "安居",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "穷通岂在苦劳神，且作安居懒散人。",
+    "买地种花多种竹，煮茶邀客也邀邻。",
+    "求名岂识书三上，得兴无过醉一巡。",
+    "喜得满𥰭收芋栗，杜陵应未笑全贫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-a4584f90-3036-4fea-b800-ca5b3d1551af"
+}

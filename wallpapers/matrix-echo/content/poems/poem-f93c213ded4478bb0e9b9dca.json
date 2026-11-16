@@ -1,0 +1,16 @@
+{
+  "id": "poem-f93c213ded4478bb0e9b9dca",
+  "title": "酬从叔听夜泉见寄",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "梦罢更开户，寒泉声隔云。",
+    "共谁寻最远，独自坐偏闻。",
+    "岩际和风滴，溪中泛月分。",
+    "岂知当此夜，流念到江𣸣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-bfc964a8-833a-4adf-9adf-d985da800e8c"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-1927b8a8a910b1d6e38d7eb7",
+  "title": "赋蕃子牧马",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "碛净山高见极边，孤烽引上一条烟。",
+    "蕃落多晴尘扰扰，天军猎到䴙鹈泉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-75d190fd-838a-4d42-a10b-cb5e0e514fbf"
+}

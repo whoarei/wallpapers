@@ -1,0 +1,18 @@
+{
+  "id": "poem-4953064d19293e69f7729872",
+  "title": "鹧鸪天·楼观青红倚快晴",
+  "author": "范成大",
+  "dynasty": "宋",
+  "verses": [
+    "楼观青红倚快晴。",
+    "惊看陆地涌蓬瀛。",
+    "南园花影笙歌地，东岭松风鼓角声。",
+    "山绕水，水萦城。",
+    "柳边沙外古今情。",
+    "坐中更有挥豪客，一段风流画不成。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-261",
+  "tags": []
+}

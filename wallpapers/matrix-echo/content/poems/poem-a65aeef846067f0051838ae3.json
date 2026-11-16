@@ -1,0 +1,16 @@
+{
+  "id": "poem-a65aeef846067f0051838ae3",
+  "title": "紫骝马",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "青玉紫骝鞍，骄多影屡盘。",
+    "荷君能剪拂，躞蹀喷桑干。",
+    "踠足追奔易，长鸣遇赏难。",
+    "𪭢金一万里，霜露不辞寒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-17e061a9-a122-419c-aa21-215d37c4e3e1"
+}

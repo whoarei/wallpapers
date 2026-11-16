@@ -1,0 +1,14 @@
+{
+  "id": "poem-2d2f37eac2e4788fcc7fb4d9",
+  "title": "戏题诸判官厅壁",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "六十老翁无所取，二三君子不相遗。",
+    "愿留今日交欢意，直到隳官谢病时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-9b7c07da-1c88-4ce4-8576-fd922f78d183"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd707d090a1fb6f3aa53bf69",
+  "title": "海边见罗邺",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "清世诗声出，谁人得似君。",
+    "命通须有日，天未丧斯文。",
+    "楚木寒连寺，修江碧入云。",
+    "相思喜相见，庭叶正纷纷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-25318673-4aef-42c4-89d9-7aed97ab6781"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-a579783387bcf328edafa1e2",
+  "title": "夏日金陵制幕即事  其五",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "入夏边烽渐报安，不妨拄笏共观山。",
+    "西风易把江涛涌，整暇规摹肯放闲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-bcecb025-51fe-4258-8cbb-b6e56026eff6"
+}

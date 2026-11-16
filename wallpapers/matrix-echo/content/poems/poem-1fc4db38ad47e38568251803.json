@@ -1,0 +1,16 @@
+{
+  "id": "poem-1fc4db38ad47e38568251803",
+  "title": "次韵王省干  其三",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "王侯文振奇，人作高山仰。",
+    "世学方波颓，渠独不流荡。",
+    "诸生畏雄骜，六艺厚涵养。",
+    "遥知落诗笔，高像寄逸想。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-50affd9d-cdcc-42dc-9d5c-a9c2bacd0d49"
+}

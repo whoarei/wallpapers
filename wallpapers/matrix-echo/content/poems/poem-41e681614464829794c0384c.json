@@ -1,0 +1,18 @@
+{
+  "id": "poem-41e681614464829794c0384c",
+  "title": "感讽五首 二",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "奇俊无少年，日车何躃躃。",
+    "我待纡双绶，遗我星星发。",
+    "都门贾生墓，青蝇久断绝。",
+    "寒食摇扬天，愤景长肃杀。",
+    "皇汉十二帝，唯帝称睿哲。",
+    "一夕信竖儿，文明永沦歇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-4210ab0f-985d-4ca2-bc11-037cee0d3d73"
+}

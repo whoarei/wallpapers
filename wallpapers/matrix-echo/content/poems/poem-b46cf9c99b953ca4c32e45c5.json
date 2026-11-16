@@ -1,0 +1,16 @@
+{
+  "id": "poem-b46cf9c99b953ca4c32e45c5",
+  "title": "光穆皇后挽歌三首  其三",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "隠隠阊门路，烟云晓更愁。",
+    "空瞻金辂出，非是濯龙游。",
+    "德感人伦正，风行内职修。",
+    "还随偶物化，同此畏轩丘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-73dd5bba-3cfe-48cf-b2d5-079f4061264c"
+}

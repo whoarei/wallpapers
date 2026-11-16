@@ -1,0 +1,16 @@
+{
+  "id": "poem-cc9b10c7db951e55127ee87b",
+  "title": "伯兮",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "伯兮朅兮，邦之桀兮。伯也执殳，为王前驱。",
+    "自伯之东，首如飞蓬。岂无膏沐？谁适为容！",
+    "其雨其雨，杲杲出日。愿言思伯，甘心首疾。",
+    "焉得谖草？言树之背。愿言思伯。使我心痗。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-61"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-3a82f4df9f598a82e1f84291",
+  "title": "金陵怀古",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "古来无此战争功，日日戈船卷海风。",
+    "一遇灵鼇开睡眼，六朝灰尽九江空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-a51bce6a-da65-43b3-9841-65a5e81830de"
+}

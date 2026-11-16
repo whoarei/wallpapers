@@ -1,0 +1,14 @@
+{
+  "id": "poem-cfafeeaddd4aca396be51d84",
+  "title": "头陀寺看竹",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "寺前新笋已成竿，策马重来独自看。",
+    "可惜班皮空满地，无人解取作头冠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1bd22d03-97d2-4f6f-8f08-11fe9302c109"
+}

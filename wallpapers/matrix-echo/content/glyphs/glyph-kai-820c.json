@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-820c",
+  "script": "kai",
+  "character": "舌",
+  "reading": "shé",
+  "description": "shé：(1)人或动物嘴里辨别滋味、帮助咀嚼和发音的器官～头。～耕（ａ．指读书勤奋；ｂ．旧时学者授徒，依口说谋生，好像农夫耕田得粟）。唇枪～剑。\n(2)语言辩论的代称～战（激烈议论）。\n(3)像舌头的东西帽～。火～。\n(4)铃或释中的锤。\n(5)指箭靶两旁上下伸出的部分。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舌"
+}

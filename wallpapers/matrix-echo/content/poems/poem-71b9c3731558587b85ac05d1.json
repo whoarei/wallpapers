@@ -1,0 +1,16 @@
+{
+  "id": "poem-71b9c3731558587b85ac05d1",
+  "title": "奉同颜使君真卿送李侍御萼赋得荻塘路",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "落日车遥遥，客心在归路。",
+    "细草暗回塘，春泉萦古渡。",
+    "遗踪叹芜没，远道悲去住。",
+    "寂寞荻花空，行人别无数。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-87a7ee00-8b78-4550-8957-93f9d006b994"
+}

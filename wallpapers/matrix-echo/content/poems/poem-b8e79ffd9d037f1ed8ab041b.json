@@ -1,0 +1,16 @@
+{
+  "id": "poem-b8e79ffd9d037f1ed8ab041b",
+  "title": "郊庙歌辞 祭方丘乐章 顺和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "坤厚载物，德柔垂祉。",
+    "九域咸雍，四溟为纪。",
+    "敬因良节，虔修阴祀。",
+    "广乐式张，灵其降止。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-a5616d09-2763-4ec5-9f72-1eb3992c6bff"
+}

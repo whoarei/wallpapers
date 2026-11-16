@@ -1,0 +1,14 @@
+{
+  "id": "poem-fa0d4324106bcbaa4ffef1f3",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "卑人欲往京畿，从早间等到今时。",
+    "妇人爱酒贪欢喜，终久后又成何济？想起，这妇人害了我家计。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2581",
+  "tags": []
+}

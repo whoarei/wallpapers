@@ -1,0 +1,18 @@
+{
+  "id": "poem-a4c6b36915fd7810b4f3e571",
+  "title": "残丝曲",
+  "author": "卢郢",
+  "dynasty": "唐",
+  "verses": [
+    "春风骀荡吹人衣，残丝罥花曳空飞。",
+    "闲愁十丈断不得，雄蜂雌蝶相因依。",
+    "高楼夹路凌云起，琐窗鸾柱弹《流水》。",
+    "莺声啼老杨柳烟，香梦蒙蒙隔千里。",
+    "（见清朱绪曾编《金陵诗徴》卷五。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-34f83ff9-7162-481f-878b-966850561c70"
+}

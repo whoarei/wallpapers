@@ -1,0 +1,16 @@
+{
+  "id": "poem-f0bdedeb1822d573814ed85d",
+  "title": "石人",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "面冷如水瘦，心刚笑竹虚。",
+    "痕云衣不浣，晕藓髻难梳。",
+    "七凿混沌死，十成山泽癯。",
+    "谷城山下路，谁复理残书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-1a867255-e8cd-420a-a6c2-72fc3f5fb37f"
+}

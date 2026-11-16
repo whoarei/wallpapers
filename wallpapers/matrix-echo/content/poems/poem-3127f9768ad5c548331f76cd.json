@@ -1,0 +1,14 @@
+{
+  "id": "poem-3127f9768ad5c548331f76cd",
+  "title": "浣溪沙·碧玉冠轻袅燕钗",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "碧玉冠轻袅燕钗，捧心无语步香阶，缓移弓底绣罗鞋。",
+    "暗想欢娱何计好，岂堪期约有时乖，日高深院正忘怀。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-38"
+}

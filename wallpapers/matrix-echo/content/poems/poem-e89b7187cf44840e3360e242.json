@@ -1,0 +1,20 @@
+{
+  "id": "poem-e89b7187cf44840e3360e242",
+  "title": "菩萨蛮·曲门南与鸣珂接",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "曲门南与鸣珂接。",
+    "小园绿径飞胡蝶。",
+    "下马访婵娟。",
+    "笑迎妆阁前。",
+    "鹧鸪声几叠。",
+    "艳艳金蕉叶。",
+    "未许被香鞯。",
+    "月生楼外天。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-16",
+  "tags": []
+}

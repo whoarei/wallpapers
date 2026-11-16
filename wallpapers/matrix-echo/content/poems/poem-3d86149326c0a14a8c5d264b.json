@@ -1,0 +1,18 @@
+{
+  "id": "poem-3d86149326c0a14a8c5d264b",
+  "title": "望江南・忆江南·玄珠降",
+  "author": "陈朴",
+  "dynasty": "宋",
+  "verses": [
+    "玄珠降，丹窟在中宫。",
+    "九候息调重九数，赤波忽迸太阳东。",
+    "心肾始交通。",
+    "逢六变，重六息阴功。",
+    "火自海门朝帝坐，水从莲沼佐丁公。",
+    "紫电透玲珑。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-961",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-76652093d30d093463373ba7",
+  "title": "江城子·髻鬟狼藉黛眉长",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "髻鬟狼藉黛眉长，出兰房，别檀郎。",
+    "角声呜咽，星斗渐微茫。",
+    "露冷月残人未起，留不住，泪千行。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-3"
+}

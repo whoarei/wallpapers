@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-786b",
+  "script": "kai",
+  "character": "硫",
+  "reading": "liú",
+  "description": "liú：一种非金属元素，普通称硫磺”或硫黄”，可用以制火药、火柴、杀虫剂等，亦可用来治皮肤病。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-硫"
+}

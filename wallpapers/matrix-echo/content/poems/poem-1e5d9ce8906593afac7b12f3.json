@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e5d9ce8906593afac7b12f3",
+  "title": "夜吟",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "除却闲吟外，人间事事慵。",
+    "更深成一句，月冷上孤峰。",
+    "穷理多瞑目，含毫静倚松。",
+    "终篇浑不寐，危坐到晨钟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-fd54e990-4f28-4d16-9cbd-1ce909e3247a"
+}

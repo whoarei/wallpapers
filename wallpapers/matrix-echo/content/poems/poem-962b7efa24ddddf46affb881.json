@@ -1,0 +1,17 @@
+{
+  "id": "poem-962b7efa24ddddf46affb881",
+  "title": "黍苗",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "芃芃黍苗，阴雨膏之。悠悠南行，召伯劳之。",
+    "我任我辇，我车我牛。我行既集，盖云归哉。",
+    "我徒我御，我师我旅。我行既集，盖云归处。",
+    "肃肃谢功，召伯营之。烈烈征师，召伯成之。",
+    "原隰既平，泉流既清。召伯有成，王心则宁。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-226"
+}

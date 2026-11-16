@@ -1,0 +1,16 @@
+{
+  "id": "poem-11e0846be7d3908fcb5eba72",
+  "title": "雪晴",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "冰箸垂簷滴渐多，眼花眩目气初和。",
+    "功成尺瑞追前赋，喜兆千箱可预歌。",
+    "坐看嫩黄滋柳色，遥知新绿涨湖波。",
+    "闭门积玉浑消尽，却有儿童整雀罗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-76d2a951-cbbe-48b1-8d4f-48294ed4b829"
+}

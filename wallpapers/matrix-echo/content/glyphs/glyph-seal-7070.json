@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7070",
+  "script": "seal",
+  "character": "灰",
+  "reading": "huī",
+  "description": "huī：(1)物体燃烧后剩下的东西，经烧制后形成的产品纸～。～烬。洋～。～飞烟灭。\n(2)尘土～尘。\n(3)特指石灰”～墙。～膏。\n(4)黑白之间的颜色～色。～质（脑和脊髓的灰色部分）。～沉沉。\n(5)志气消沉心～意懒。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-灰"
+}

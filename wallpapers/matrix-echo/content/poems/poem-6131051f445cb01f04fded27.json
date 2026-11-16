@@ -1,0 +1,14 @@
+{
+  "id": "poem-6131051f445cb01f04fded27",
+  "title": "桂林叹鴈",
+  "author": "李渤",
+  "dynasty": "唐",
+  "verses": [
+    "三朝四黜倦遐征，往复皆愁万里程。",
+    "尔解分飞却回去，我方从此向南行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-770594bc-7922-4ac1-b7b6-38f972d20ae1"
+}

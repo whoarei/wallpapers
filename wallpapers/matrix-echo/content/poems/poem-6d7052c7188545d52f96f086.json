@@ -1,0 +1,14 @@
+{
+  "id": "poem-6d7052c7188545d52f96f086",
+  "title": "右军墨池",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "永嘉人事尽归空，逸少遗居蔓草中。",
+    "至今池水涵余墨，犹共诸泉色不同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-0083f12c-2f19-4008-bf97-41445b57ab40"
+}

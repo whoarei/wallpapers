@@ -1,0 +1,27 @@
+{
+  "id": "poem-4ed9b4ac4f5063ca034ecb1d",
+  "title": "夜雨寄北",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "君问归期未有期，巴山夜雨涨秋池。",
+    "何当共剪西窗烛，却话巴山夜雨时。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "写雨",
+    "写景",
+    "景中情",
+    "初中古诗",
+    "高中古诗",
+    "七言绝句",
+    "爱情",
+    "三年级上册",
+    "雨",
+    "七年级上册(课外)"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-75db753d-e7da-48a1-a6c0-6ed9147e58db"
+}

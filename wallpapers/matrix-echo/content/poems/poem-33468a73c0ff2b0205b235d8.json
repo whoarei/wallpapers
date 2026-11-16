@@ -1,0 +1,16 @@
+{
+  "id": "poem-33468a73c0ff2b0205b235d8",
+  "title": "送卢孟明还上都",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "江臯北风至，归客独伤魂。",
+    "楚水逢乡雁，平陵忆故园。",
+    "征骖嘶别馆，落日隐寒原。",
+    "应及秦川望，春华满国门。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-743b9ff6-ef74-4619-a1fb-8b677a3baa9d"
+}

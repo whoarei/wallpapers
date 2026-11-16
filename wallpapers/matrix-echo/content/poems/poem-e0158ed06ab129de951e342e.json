@@ -1,0 +1,20 @@
+{
+  "id": "poem-e0158ed06ab129de951e342e",
+  "title": "金莲绕凤楼·绛烛朱笼相随映",
+  "author": "赵佶",
+  "dynasty": "宋",
+  "verses": [
+    "绛烛朱笼相随映。",
+    "驰绣毂、尘清香衬。",
+    "万金光射龙轩莹。",
+    "绕端门、瑞雷轻振。",
+    "元宵为开圣景。",
+    "严敷坐、观灯锡庆。",
+    "帝家华英乘春兴。",
+    "搴珠帘、望尧瞻舜。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-538",
+  "tags": []
+}

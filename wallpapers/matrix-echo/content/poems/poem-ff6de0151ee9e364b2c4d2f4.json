@@ -1,0 +1,21 @@
+{
+  "id": "poem-ff6de0151ee9e364b2c4d2f4",
+  "title": "葛巾歌",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "一片白葛巾，潜夫自能结。",
+    "篱边折枯蒿，聊用簪华发。",
+    "有时醉倒长松侧，酒醒不见心还忆。",
+    "谷鸟衔将却趁来，野风吹去还寻得。",
+    "十年紫竹溪南住，迹同玄豹依深雾。",
+    "草堂窗底漉春醅，山寺门前逢暮雨。",
+    "临汝袁郎得相见，闲云引到东阳县。",
+    "鲁性将他类此身，还拈野物赠傍人。",
+    "空留棁杖犊鼻裈，蒙蒙烟雨归山村。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b862611f-7390-4eae-b8e4-0a31e57d6993"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ed1",
+  "script": "seal",
+  "character": "仑",
+  "reading": "lún",
+  "description": "自我反省检讨\n见昆仑”\n⒈条理，次序。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-仑"
+}

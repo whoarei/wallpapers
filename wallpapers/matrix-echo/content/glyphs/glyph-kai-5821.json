@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5821",
+  "script": "kai",
+  "character": "堡",
+  "reading": "bǎo；bǔ；pù",
+  "description": "bǎo：(1)军事上防守用的建筑物～垒。城～。桥头～。\n(2)古代指土筑的小城徐嵩、胡空各聚众五千，据险筑～以自固”。\nbǔ：有城墙的村镇，泛指村庄（多用于地名）～子。马家～。\npù：古同铺”，驿站（今用于地名）十里～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-堡"
+}

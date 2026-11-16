@@ -1,0 +1,18 @@
+{
+  "id": "poem-edc64324e16456d632a7a9f8",
+  "title": "过金鸡石",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "金鸡自天来，桑麻列青眼。",
+    "群耳无一聪，昂冠复飞返。",
+    "遗音此寂然，千秋意何限。",
+    "所幸一片石，犹在田中坂。",
+    "我来抚弄之，襟怀日以散。",
+    "寄语埘中禽，尔徒博飧饭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-80463774-9228-48dd-8cc9-bc56bf43278a"
+}

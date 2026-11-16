@@ -1,0 +1,20 @@
+{
+  "id": "poem-2fda30d638084ab6b66fd740",
+  "title": "焦山普济禅院碑赞",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "古佛留法度大心，种种威摄现胜相。",
+    "大心众生摄威德，求度倾身及众宝。",
+    "冥阳咸会精诚通，正法是归大缘集。",
+    "我今稽首佛陀僧，永奠海山作津筏。",
+    "我今稽首明应公，永护宝车炳威德。",
+    "悉化大心依浄住，一世咸如今佛日。",
+    "三光不愆四序调，主圣臣忠载万亿。",
+    "五谷蕃生土地肥，万灵常跻仁寿域。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-e9136b48-ad39-42d3-a142-142749fc5c3e"
+}

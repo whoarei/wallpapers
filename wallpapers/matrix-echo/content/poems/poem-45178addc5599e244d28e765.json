@@ -1,0 +1,17 @@
+{
+  "id": "poem-45178addc5599e244d28e765",
+  "title": "眼儿媚·花近清明晚风寒",
+  "author": "曾觌",
+  "dynasty": "宋",
+  "verses": [
+    "花近清明晚风寒。",
+    "锦幄兽香残。",
+    "醺醺醉里，匆匆相见，重听哀弹。",
+    "春情入指莺声碎，危柱不胜弦。",
+    "十分得意，一场轻梦，淡月阑干。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-368",
+  "tags": []
+}

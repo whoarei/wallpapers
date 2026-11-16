@@ -1,0 +1,16 @@
+{
+  "id": "poem-e05ebb053f62fe114d247473",
+  "title": "永明山居诗（六十九首） 六十",
+  "author": "延寿",
+  "dynasty": "唐",
+  "verses": [
+    "独行独坐任天然，幽隐难逢世网牵。",
+    "一志直教齐大道，万般总是涉因缘。",
+    "水磨涧石平如镜，春引岩藤直似弦。",
+    "虚幻已知休更续，蹄轮应不到山前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-f7f6dbe3-1142-408b-b1b2-be122007194e"
+}

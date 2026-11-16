@@ -1,0 +1,14 @@
+{
+  "id": "poem-cb8f34e9ef43c497b817d83c",
+  "title": "经王先生故居",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "晚波东去海茫茫，谁识蓬山不死乡。",
+    "弄玉已归萧史去，碧楼红树倚斜阳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-94f49863-1b47-4373-b109-3833d2626a41"
+}

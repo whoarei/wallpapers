@@ -1,0 +1,16 @@
+{
+  "id": "poem-8b52524fbbb78b7d1cd35d19",
+  "title": "题化城寺",
+  "author": "应物",
+  "dynasty": "唐",
+  "verses": [
+    "平高选处创莲宫，一水萦流处处通。",
+    "画阁昼开迟日畔，禅房夜掩碧云中。",
+    "平川不见龙行雨，幽谷遥闻虎啸风。",
+    "偶与游人论法要，真元浩浩理无穷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-aee480d4-8058-4cfa-8a2a-639b70a39deb"
+}

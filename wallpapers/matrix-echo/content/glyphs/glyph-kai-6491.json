@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6491",
+  "script": "kai",
+  "character": "撑",
+  "reading": "chēng",
+  "description": "chēng：(1)支着，支持～竿跳。支～。～持（勉强支持）。～腰（喻给予有力支持）。～拒。～门面。\n(2)用篙使船前进～船。\n(3)使张开～伞。～口袋。\n(4)使保持张开状态的器物～子。～圈（quān）。\n(5)饱胀到容不下的程度吃～着了。口袋～破了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撑"
+}

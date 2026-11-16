@@ -1,0 +1,16 @@
+{
+  "id": "poem-b80a676981d64a38c02014b6",
+  "title": "折杨柳",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "青柳映红颜，黄云蔽紫关。",
+    "忽闻边使出，枝叶为君攀。",
+    "舞腰愁欲断，春心望不还。",
+    "风花滚成雪，罗绮乱斑斑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-de8e32f9-2b0c-48e2-89a6-7ef1db382ee2"
+}

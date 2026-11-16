@@ -1,0 +1,16 @@
+{
+  "id": "poem-66a8d9b9a89dd4d481606afe",
+  "title": "润州送师弟自江夏往台州",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "远客乘流去，孤帆向夜开。",
+    "春风江上使，前日汉阳来。",
+    "别路犹千里，离心重一杯。",
+    "剡溪木未落，羡尔过天台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-4f0f738a-0f5a-4646-8f7e-21f4a86c763d"
+}

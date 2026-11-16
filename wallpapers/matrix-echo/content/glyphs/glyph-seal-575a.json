@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-575a",
+  "script": "seal",
+  "character": "坚",
+  "reading": "jiān",
+  "description": "⒈硬，结实，牢固～硬。结构～固。～不可摧。〈引〉不动摇，决不改变更～决。意志～强。～持到底。～守阵地。～贞不屈。\n⒉牢固的，艰难的～冰。攻～不畏难。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-坚"
+}

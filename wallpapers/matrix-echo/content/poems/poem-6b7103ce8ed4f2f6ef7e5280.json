@@ -1,0 +1,14 @@
+{
+  "id": "poem-6b7103ce8ed4f2f6ef7e5280",
+  "title": "鹑之奔奔",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "鹑之奔奔，鹊之彊彊。人之无良，我以为兄！",
+    "鹊之彊彊，鹑之奔奔。人之无良，我以为君！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-48"
+}

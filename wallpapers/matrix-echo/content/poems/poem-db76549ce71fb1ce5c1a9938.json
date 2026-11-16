@@ -1,0 +1,20 @@
+{
+  "id": "poem-db76549ce71fb1ce5c1a9938",
+  "title": "哭刘言史",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "诗人业孤峭，饿死良已多。",
+    "相悲与相笑，累累其奈何。",
+    "精异刘言史，诗肠倾珠河。",
+    "取次抱置之，飞过东溟波。",
+    "可惜大国谣，飘为四夷歌。",
+    "常于众中会，颜色两切[磋]。",
+    "今日果成死，葬襄之洛河。",
+    "洛岸远相吊，洒泪双滂沱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-346f34e0-5943-44bb-b4ec-3370c166a187"
+}

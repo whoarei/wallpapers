@@ -1,0 +1,16 @@
+{
+  "id": "poem-630eaa528998e869693f5732",
+  "title": "曲江二首 一",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "南山低对紫云楼，翠影红阴瑞气浮。",
+    "一种是春长富贵，大都为水也风流。",
+    "争攀柳带千千手，间插花枝万万头。",
+    "独向江边最惆怅，满衣尘土避王侯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-2a81130f-f5d8-42cb-aa0e-aed0adec9531"
+}

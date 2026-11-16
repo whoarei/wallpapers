@@ -1,0 +1,14 @@
+{
+  "id": "poem-f44c52e14fd07eb8b946259c",
+  "title": "戏张道人不饮酒",
+  "author": "颜荛",
+  "dynasty": "唐",
+  "verses": [
+    "言自云山访我来，每闻奇秘觉叨陪。",
+    "吾师不饮人间酒，应待流霞即举杯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-dafcc512-e764-422d-9b9a-e6f12ef1b23b"
+}

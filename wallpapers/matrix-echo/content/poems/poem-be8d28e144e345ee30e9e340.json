@@ -1,0 +1,20 @@
+{
+  "id": "poem-be8d28e144e345ee30e9e340",
+  "title": "幽渚云",
+  "author": "丘为",
+  "dynasty": "唐",
+  "verses": [
+    "漠漠云在渚，无心去何从。",
+    "（「何」下原卷衍「疑」字。",
+    "）青连晚湖色，澹起秋烟客（容）[一]。",
+    "（「客」，原卷作「容」，与王校合。",
+    "）渡水上下白，归山深浅重，来为巫峡女，去逐葛川龙。",
+    "勿为长幽滞，当飞第一峰。",
+    "（[一]依王仲闻先生校。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-4752656e-b251-4f41-bc2c-f0ebbc5171f0"
+}

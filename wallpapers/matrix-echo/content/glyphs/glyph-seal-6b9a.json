@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b9a",
+  "script": "seal",
+  "character": "殚",
+  "reading": "dān",
+  "description": "殚 dān,用尽；竭尽～力、～心。\n【殚精竭虑】用尽心思谋虑。瘅 dān又见dàn。\n【瘅疟】一种疟疾。主要症状是发高烧，烦躁，口渴，呕吐等。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-殚"
+}

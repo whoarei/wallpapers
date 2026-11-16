@@ -1,0 +1,22 @@
+{
+  "id": "poem-b01dc64e22023b58a1e5d1ce",
+  "title": "凤栖梧・蝶恋花·伫倚危楼风细细",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "伫倚危楼风细细。",
+    "望极春愁，黯黯生天际。",
+    "草色烟光残照里。",
+    "无言谁会凭阑意。",
+    "拟把疏狂图一醉。",
+    "对酒当歌，强乐还无味。",
+    "衣带渐宽终不悔。",
+    "为伊消得人憔悴。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-144"
+}

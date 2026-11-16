@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6982",
+  "script": "kai",
+  "character": "概",
+  "reading": "gài",
+  "description": "gài：(1)大略，总括大～。～论。～述。～貌。梗～。～要。～算。～括。～念（反映对象的本质属性的思维形式）。～率（概率论的基本概念。用来表示随机事件发生可能性大小的量称为此事件的概率”。亦称或然率”、几率”）。以偏～全。\n(2)情况，景象胜～（胜景，美丽的景色）。\n(3)一律一～而论。\n(4)气度，节操；气～。\n(5)刮平斗、斛用的小木板。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-概"
+}

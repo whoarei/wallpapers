@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7230",
+  "script": "seal",
+  "character": "爰",
+  "reading": "yuán",
+  "description": "yuán：(1)于是～书其事以告。\n(2)改易，更换～田。\n(3)曰，为（wéi）水曰润下，火曰炎上，木曰曲直，金曰从革，土～稼穑”。\n(4)古代的一种重量单位或货币单位。\n(5)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-爰"
+}

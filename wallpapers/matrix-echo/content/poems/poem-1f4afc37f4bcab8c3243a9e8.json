@@ -1,0 +1,14 @@
+{
+  "id": "poem-1f4afc37f4bcab8c3243a9e8",
+  "title": "为李魏公赋谢汧公",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "白雪高吟际，青霄远望中。",
+    "谁言路遐旷，宫征暗相通。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d8474ce5-372b-49a0-bdf2-0fe91fdd5c73"
+}

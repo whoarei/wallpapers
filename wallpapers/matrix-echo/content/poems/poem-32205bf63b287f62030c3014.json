@@ -1,0 +1,16 @@
+{
+  "id": "poem-32205bf63b287f62030c3014",
+  "title": "送友人",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "青山横北郭，白水绕东城。",
+    "此地一为别，孤篷万里征。",
+    "浮云游子意，落日故人情。",
+    "挥手自兹去，萧萧斑马鸣。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-送友人"
+}

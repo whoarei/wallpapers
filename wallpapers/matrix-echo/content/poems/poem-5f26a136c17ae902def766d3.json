@@ -1,0 +1,17 @@
+{
+  "id": "poem-5f26a136c17ae902def766d3",
+  "title": "古意九首 六",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "古交如真金，百炼色不回。",
+    "今交如暴流，儵忽生尘埃。",
+    "我愿君子气，散为青松栽。",
+    "我恐荆棘花，只为小人开。",
+    "伤心复伤心，吟上高高台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-0cdc8483-10f9-43d1-a125-e400ac468bf6"
+}

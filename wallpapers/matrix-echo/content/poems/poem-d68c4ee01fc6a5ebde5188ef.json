@@ -1,0 +1,14 @@
+{
+  "id": "poem-d68c4ee01fc6a5ebde5188ef",
+  "title": "寄桂帅",
+  "author": "刘崇龟",
+  "dynasty": "唐",
+  "verses": [
+    "碧幢仁施合洪钧，桂树林前倍得春。",
+    "莫恋此时好风景，磻溪不是钓渔人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ebd38359-8583-4024-8d49-8c9d24b4e945"
+}

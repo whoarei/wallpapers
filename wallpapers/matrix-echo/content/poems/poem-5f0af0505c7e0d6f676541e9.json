@@ -1,0 +1,18 @@
+{
+  "id": "poem-5f0af0505c7e0d6f676541e9",
+  "title": "捣练子·红粉里",
+  "author": "李石",
+  "dynasty": "宋",
+  "verses": [
+    "红粉里，绛金裳。",
+    "一卮仙酒艳晨妆。",
+    "醉温柔，别有乡。",
+    "清暑殿，藕风凉。",
+    "鸡头擘破误君王。",
+    "泣梨花，春梦长。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-281",
+  "tags": []
+}

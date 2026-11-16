@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fa9",
+  "script": "seal",
+  "character": "侩",
+  "reading": "kuài",
+  "description": "牙侩。两伙人之间的中间人或代理人等\n撮合。说合买卖之间的价钱以成交",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-侩"
+}

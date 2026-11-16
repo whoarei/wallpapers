@@ -1,0 +1,16 @@
+{
+  "id": "poem-e853d016bf7ff7a8aa1c60e4",
+  "title": "金山  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "不占南徐地，遥分北固天。",
+    "削琼标巨浸，坚壁下长川。",
+    "城柝偏遥夜，淮烽直近壖。",
+    "建炎天子圣，翠辇到层颠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-1e837cc9-5d74-445e-a7ad-8fded08a3df2"
+}

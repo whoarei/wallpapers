@@ -1,0 +1,19 @@
+{
+  "id": "poem-f73309fc7df816182cac58d7",
+  "title": "香迳分韵得江字",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "一亭寒碧中，四面空无窗。",
+    "种荷未有花，清意已满腔。",
+    "小坐梅树下，我亦青油幢。",
+    "晚来蝉声歇，静境热自降。",
+    "清风与明月，造物无对桩。",
+    "闲者恣吟取，如瓢分大江。",
+    "欲归尚未肯，雨湿烟钟撞。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-5f310fe4-5257-4c9b-8645-f82f1fd89db5"
+}

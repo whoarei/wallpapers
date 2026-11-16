@@ -1,0 +1,14 @@
+{
+  "id": "poem-c51f72104aca7f3ba2f96c46",
+  "title": "怨词二首 一",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "妾有罗衣裳，秦王在时作。",
+    "为舞春风多，秋来不堪著。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-2483104b-9d1a-4376-b4af-a864212d0c9d"
+}

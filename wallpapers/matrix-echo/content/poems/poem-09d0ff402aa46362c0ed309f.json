@@ -1,0 +1,14 @@
+{
+  "id": "poem-09d0ff402aa46362c0ed309f",
+  "title": "题周奉御",
+  "author": "马云奇",
+  "dynasty": "唐",
+  "verses": [
+    "明王道得腹心臣，百万人中独一人。",
+    "阶下往来三迳迹，门前桃李四时春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-18db8c47-4cb2-4d42-b518-4e16537fee34"
+}

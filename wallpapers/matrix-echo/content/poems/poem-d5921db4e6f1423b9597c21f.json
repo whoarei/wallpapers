@@ -1,0 +1,14 @@
+{
+  "id": "poem-d5921db4e6f1423b9597c21f",
+  "title": "春晦送客",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "野酌乱无巡，送君兼送春。",
+    "明年春色至，莫作未归人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-0fe7c75d-41bb-461c-984c-bbcbd4756045"
+}

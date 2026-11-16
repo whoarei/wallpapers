@@ -1,0 +1,14 @@
+{
+  "id": "poem-fdb9ab4b9031fdfc5e89f2c2",
+  "title": "小游仙诗九十八首 八",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "风满涂山玉蕊稀，赤龙闲卧鹤东飞。",
+    "紫棃烂尽无人吃，何事韩君去不归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c25f6713-1db4-410c-9567-47f7d6a74c5f"
+}

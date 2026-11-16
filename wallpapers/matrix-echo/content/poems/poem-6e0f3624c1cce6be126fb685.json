@@ -1,0 +1,18 @@
+{
+  "id": "poem-6e0f3624c1cce6be126fb685",
+  "title": "西江月·对镜不须强灭",
+  "author": "张伯端",
+  "dynasty": "宋",
+  "verses": [
+    "对镜不须强灭，假名权立菩提。",
+    "色空明暗本来齐。",
+    "真妄体分两种。",
+    "悟则便名静土，更无天竺曹溪。",
+    "谁言极乐在天西。",
+    "了则弥陀出世。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-987",
+  "tags": []
+}

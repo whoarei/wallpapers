@@ -1,0 +1,16 @@
+{
+  "id": "poem-6cb55524d8201d538660cf77",
+  "title": "代书寄泗州钱侍郎",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "起部纡两绶，恢恢刃有余。",
+    "既为侍中郎，又复专城居。",
+    "无久恋铃阁，早应还直庐。",
+    "浚川春水满，珍重寄双鱼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-2e60b63b-514c-4a85-baba-ffcd70b49463"
+}

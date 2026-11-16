@@ -1,0 +1,17 @@
+{
+  "id": "poem-6c04caa46fbd63a31dc73fea",
+  "title": "织妇女",
+  "author": "苏拯",
+  "dynasty": "唐",
+  "verses": [
+    "伊余尽少女，一种饰螓首。",
+    "徒能事机杼，与之作歌舞。",
+    "歌舞片时间，黄金翻袖取。",
+    "秪看舞者乐，岂念织者苦。",
+    "感此尝忆古人言，一妇不织天下寒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-bffd0608-68af-4b82-9f2f-b5539066a68d"
+}

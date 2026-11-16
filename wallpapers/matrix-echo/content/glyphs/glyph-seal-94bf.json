@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94bf",
+  "script": "seal",
+  "character": "钿",
+  "reading": "diàn",
+  "description": "以金银珠宝介壳镶嵌器物\n衬垫\n钿头\n①用金翠珠宝等制成的花朵形的首饰。\n②把金银贝壳之类镶嵌在器物上。\n⒈〈方〉钱，硬币铜～。银～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钿"
+}

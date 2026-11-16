@@ -1,0 +1,17 @@
+{
+  "id": "poem-c80bd6e7466a4694eca9f213",
+  "title": "销金帐",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(老旦)黄昏悄悄，助冷风儿起。",
+    "想今朝，思向日，曾对这般时节，这般天气。",
+    "羊羔美酒，美酒销金帐里。",
+    "兵乱人慌，远远离乡里。",
+    "如今怎生，怎生街头上睡？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3025",
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-b93de4d43a4e0cb6cbeb71e6",
+  "title": "东风解冻省试",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "暖气飘苹末，冻痕销水中。",
+    "扇冰初觉泮，吹海旋成空。",
+    "入律三春照，朝宗万里通。",
+    "岸分天影阔，色照日光融。",
+    "波起轻摇绿，鳞游乍跃红。",
+    "殷勤排弱羽，飞翥趂和风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-4ed3fb07-b56a-44d5-ab3e-a53ace3f1316"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80de",
+  "script": "seal",
+  "character": "胞",
+  "reading": "bāo",
+  "description": "bāo：同一父母所生的～兄。～妹。同～（ａ．同父母所生的；ｂ．同一个国家或民族的人）。～波（缅语同胞和亲戚的意思，缅甸人习惯用来称呼中国人，以表示亲切）。\n〔细～〕生物体的基本结构和功能单位，主要由细胞核、细胞质、细胞膜等构成，有运动、营养和繁殖等机能。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胞"
+}

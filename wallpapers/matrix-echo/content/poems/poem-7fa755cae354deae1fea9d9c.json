@@ -1,0 +1,14 @@
+{
+  "id": "poem-7fa755cae354deae1fea9d9c",
+  "title": "三十",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "欲得儿孙孝，无过教及身。",
+    "一朝千度打，有罪更须嗔。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-ccd476fd-193d-4ddf-b089-0aad483a8164"
+}

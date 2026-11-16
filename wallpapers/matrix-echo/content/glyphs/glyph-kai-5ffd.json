@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5ffd",
+  "script": "kai",
+  "character": "忽",
+  "reading": "hū",
+  "description": "hū：(1)粗心，不注意～视。疏～。～略。玩～职守。\n(2)迅速，突然～而。～然。～地。～高～低。\n(3)长度和重量单位（十忽为一丝，十丝为一毫）～微（极言细微）。微～其微。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-忽"
+}

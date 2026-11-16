@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f32",
+  "script": "seal",
+  "character": "缲",
+  "reading": "qiāo",
+  "description": "缝纫方法,做衣服边或带子时把布边儿往里头卷进去,然后藏着针脚缝\n缲sāo将蚕茧放在滚水里抽丝～丝。\n⒈一种缝纫法，将布边卷在里面缝，使不露针脚～边。～带子。\n缲zǎo 1.深青带红色之帛。 2.冕旒的绳子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缲"
+}

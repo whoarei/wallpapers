@@ -1,0 +1,18 @@
+{
+  "id": "poem-49adaacc994540f333894fa7",
+  "title": "玄都坛歌寄元逸人",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "故人昔隐东蒙峰，已佩含景苍精龙。",
+    "故人今居子午谷，独在阴崖结茅屋。",
+    "屋前太古玄都坛，青石漠漠常风寒。",
+    "子规夜啼山竹裂，王母昼下云旗翻。",
+    "知君此计成长往，芝草琅玕日应长。",
+    "铁鏁高垂不可攀，致身福地何萧爽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-bb6d1c12-1eb1-4ee7-aacd-a3f7f6edec37"
+}

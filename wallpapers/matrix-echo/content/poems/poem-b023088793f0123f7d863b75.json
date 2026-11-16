@@ -1,0 +1,16 @@
+{
+  "id": "poem-b023088793f0123f7d863b75",
+  "title": "更漏子 其四",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "相见稀，相忆久，眉浅淡烟如柳。",
+    "垂翠幕，结同心，待郎熏绣衾。",
+    "城上月，白如雪，蝉鬓美人愁绝。",
+    "宫树暗，鹊桥横，玉签初报明。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-17",
+  "tags": []
+}

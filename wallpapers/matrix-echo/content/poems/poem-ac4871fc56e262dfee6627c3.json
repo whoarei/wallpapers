@@ -1,0 +1,17 @@
+{
+  "id": "poem-ac4871fc56e262dfee6627c3",
+  "title": "酒泉子·三月暖风",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "三月暖风，开却好花无限了，当年丛下落纷纷。",
+    "最愁人。",
+    "长安多少利名身。",
+    "若有一杯香桂酒，莫辞花下醉芳茵。",
+    "且留春。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-479",
+  "tags": []
+}

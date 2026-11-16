@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9f3b",
+  "script": "seal",
+  "character": "鼻",
+  "reading": "bí",
+  "description": "bí：嗅觉器官，亦是呼吸的孔道～子。～窦。～孔。～腔。～涕。～音。～烟（由鼻孔吸入的粉末状的烟）。仰人～息。嗤之以～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鼻"
+}

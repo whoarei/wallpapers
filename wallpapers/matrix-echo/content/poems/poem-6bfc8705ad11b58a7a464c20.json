@@ -1,0 +1,22 @@
+{
+  "id": "poem-6bfc8705ad11b58a7a464c20",
+  "title": "和张仆射塞下曲",
+  "author": "钱起",
+  "dynasty": "唐",
+  "verses": [
+    "月黑雁飞高，单于夜遁逃。",
+    "欲将轻骑逐，大雪满弓刀。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "战争",
+    "冬天",
+    "将军",
+    "乐府",
+    "边塞",
+    "赞美"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c8210485-a1f4-4c76-a1f6-2f5e57d39d29"
+}

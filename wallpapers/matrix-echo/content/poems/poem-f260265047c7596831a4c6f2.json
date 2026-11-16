@@ -1,0 +1,14 @@
+{
+  "id": "poem-f260265047c7596831a4c6f2",
+  "title": "仙源即事三首  其二",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "开试丹头采异方，归来洗药井中香。",
+    "松花酒后黄精饭，卧看青山到夕阳。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-77b43814-e3b0-433b-b7c6-4c90528b4b46"
+}

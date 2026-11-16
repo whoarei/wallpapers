@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9165",
+  "script": "kai",
+  "character": "酥",
+  "reading": "sū",
+  "description": "sū：(1)酪，用牛羊奶制成的食物～酪。～油。\n(2)松脆，多指食物～脆。～糖。桃～。\n(3)柔腻松软～胸。～松。\n(4)身体酸软无力～软。～麻。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-酥"
+}

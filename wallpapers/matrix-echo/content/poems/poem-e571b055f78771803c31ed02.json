@@ -1,0 +1,16 @@
+{
+  "id": "poem-e571b055f78771803c31ed02",
+  "title": "拜中岳命作  其一",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "云水心常结，风尘面久卢。",
+    "重寻钓鼇客，初入选仙图。",
+    "鼠雀真官耗，龙蛇与众俱。",
+    "却怀闲禄厚，不敢著潜夫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-e84aaeb8-a526-476a-8884-09766e402dc1"
+}

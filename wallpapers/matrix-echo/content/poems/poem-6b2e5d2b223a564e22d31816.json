@@ -1,0 +1,14 @@
+{
+  "id": "poem-6b2e5d2b223a564e22d31816",
+  "title": "小游仙诗九十八首 十七",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "玉诏新除沈侍郎，便分茅土镇东方。",
+    "不知今夕游何处，侍从皆骑白凤凰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-e5ca2871-c1e9-4956-9187-830d37b1399e"
+}

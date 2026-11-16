@@ -1,0 +1,16 @@
+{
+  "id": "poem-288d3278ffe23ad6240c677e",
+  "title": "颂古七十六首  其一二",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "胡乱三十年，不曾少盐酱。",
+    "江西马大师，南岳让和尚。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-338e5ff7-ee81-42c0-a7e2-8115d1533032"
+}

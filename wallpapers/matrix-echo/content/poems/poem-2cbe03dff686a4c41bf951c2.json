@@ -1,0 +1,16 @@
+{
+  "id": "poem-2cbe03dff686a4c41bf951c2",
+  "title": "送邓器先赴罗田尉五首  其四",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "古郡有奇观，祖祖灯相传。",
+    "子来后往哲，青山古依然。",
+    "纷纷簿领中，深观常安然。",
+    "但使内外尽，饥餐困须眠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-953da322-65f5-415d-92a4-be9b1dbfcaca"
+}

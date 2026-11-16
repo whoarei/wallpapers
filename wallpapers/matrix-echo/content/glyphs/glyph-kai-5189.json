@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5189",
+  "script": "kai",
+  "character": "冉",
+  "reading": "rǎn",
+  "description": "rǎn：(1)龟甲的边。\n(2)姓。\n〔～～〕a.毛、枝条等柔软下垂；如柳枝～～”；b.慢慢地，如月亮～～升起”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-冉"
+}

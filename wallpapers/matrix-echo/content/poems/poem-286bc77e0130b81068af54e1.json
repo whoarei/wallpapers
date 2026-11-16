@@ -1,0 +1,14 @@
+{
+  "id": "poem-286bc77e0130b81068af54e1",
+  "title": "初春小雨",
+  "author": "韩愈",
+  "dynasty": "宋",
+  "verses": [
+    "天街小雨润如酥，草色遥看近却无。",
+    "最是一年春好处，绝胜烟柳满皇都。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-初春小雨"
+}

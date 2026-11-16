@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8e0f",
+  "script": "seal",
+  "character": "踏",
+  "reading": "tà",
+  "description": "tà：(1)用脚踩～步。～板。～青（春天到郊外散步。亦称踏春”）。～雪。～月。践～。糟～。脚～实地。\n(2)亲自到现场去～看。～勘。～查。～访。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-踏"
+}

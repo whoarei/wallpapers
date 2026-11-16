@@ -1,0 +1,14 @@
+{
+  "id": "poem-51f4f19acef8cd67b61ea4e6",
+  "title": "金钱花",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "也无棱郭也无神，露洗还同铸出新。",
+    "青帝若教花里用，牡丹应是得钱人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-0b823010-6edb-4594-8db7-98b47827647c"
+}

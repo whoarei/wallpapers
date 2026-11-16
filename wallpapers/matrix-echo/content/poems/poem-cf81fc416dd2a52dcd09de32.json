@@ -1,0 +1,16 @@
+{
+  "id": "poem-cf81fc416dd2a52dcd09de32",
+  "title": "新楼诗二十首 望海亭",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "乌盈兔缺天涯迥，鹤背松梢拂槛低。",
+    "湖镜坐隅看匣满，海涛生处辨云齐。",
+    "夕岚明灭江帆小，烟树苍茫客思迷。",
+    "萧索感心俱是梦，九天应共草萋萋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-66ca7165-e0a8-4532-93f9-b2835385daae"
+}

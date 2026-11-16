@@ -1,0 +1,16 @@
+{
+  "id": "poem-d7f3e3dc777c9ef858e5eefa",
+  "title": "送戴征士还山",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "柔桑锦臆雉，相送到烟霞。",
+    "独隐空山里，闲门几树花。",
+    "草生杨柳岸，鸟啭竹林家。",
+    "不是谋生拙，无为末路赊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-3adb71b6-f985-49f8-8c0d-cda8ddd64891"
+}

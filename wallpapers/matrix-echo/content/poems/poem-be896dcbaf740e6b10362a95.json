@@ -1,0 +1,14 @@
+{
+  "id": "poem-be896dcbaf740e6b10362a95",
+  "title": "南园十三首 一",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "花枝草蔓眼中开，小白长红越女腮。",
+    "可怜日暮嫣香落，嫁与春风不用媒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-6766c804-9532-42e3-b85d-d0d4d8bccecf"
+}

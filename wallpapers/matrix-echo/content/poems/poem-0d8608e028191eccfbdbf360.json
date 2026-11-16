@@ -1,0 +1,16 @@
+{
+  "id": "poem-0d8608e028191eccfbdbf360",
+  "title": "郊庙歌辞 享太庙乐章 保大舞",
+  "author": "郭子仪",
+  "dynasty": "唐",
+  "verses": [
+    "於穆文考，圣神昭章。",
+    "肃勺群慝，含光远方。",
+    "万物茂遂，九夷宾王。",
+    "愔愔云韶，德音不忘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-1700afdb-215f-4a06-b555-c4b3fb9e9375"
+}

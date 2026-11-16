@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-59cb",
+  "script": "seal",
+  "character": "始",
+  "reading": "shǐ",
+  "description": "shǐ：(1)起头，最初，与终”相对开～。～终。～祖。～创。周而复～。\n(2)才，刚才方～。～悟（才觉悟到）。春蚕到死丝方尽，蜡炬成灰泪～干。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-始"
+}

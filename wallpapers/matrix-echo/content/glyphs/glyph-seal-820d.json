@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-820d",
+  "script": "seal",
+  "character": "舍",
+  "reading": "shě；shè",
+  "description": "shè：(1)居住的房子宿～。旅～。校～。\n(2)居住，休息～于山麓。\n(3)谦辞，多指亲属中比自己年纪小或辈分低的～弟。～侄。～亲。\n(4)古代行军一宿或三十里为一舍退避三～（喻对人让步）。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舍"
+}

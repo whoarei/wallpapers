@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c60",
+  "script": "kai",
+  "character": "池",
+  "reading": "chí",
+  "description": "chí：(1)水塘，多指人工挖的～子。水～。～鱼之殃（喻因牵连而受到的灾祸。亦称池鱼之祸”）。\n(2)湖～盐（从咸水湖采取的盐，成分和海盐相同）。\n(3)像水池的浴～。花～。乐（yuè）～。舞～。\n(4)护城河城～。金城汤～。\n(5)旧时指剧场中正厅前部～座。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-池"
+}

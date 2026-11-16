@@ -1,0 +1,16 @@
+{
+  "id": "poem-bf300cd99231e9fecb6d8c55",
+  "title": "宿邯郸馆寄马磁州",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "孤客到空馆，夜寒愁卧迟。",
+    "虽沽主人酒，不似在家时。",
+    "几宿得欢笑，如今成别离。",
+    "明朝行更远，回望隔山陂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c05cbcb0-dd20-4466-945d-160774bc39bf"
+}

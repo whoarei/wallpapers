@@ -1,0 +1,14 @@
+{
+  "id": "poem-3f290fb26039d34097d23805",
+  "title": "击瓯楼",
+  "author": "邵叶",
+  "dynasty": "宋",
+  "verses": [
+    "驻旌元帅遗风在，击缶高人逸兴酣。",
+    "水转巴文清溜急，山连蒙岫翠光涵。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-4b6112b1-65d4-4bf3-b738-b4c8fe511558"
+}

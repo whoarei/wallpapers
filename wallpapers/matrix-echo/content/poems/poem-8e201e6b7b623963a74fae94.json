@@ -1,0 +1,16 @@
+{
+  "id": "poem-8e201e6b7b623963a74fae94",
+  "title": "江南杂题三十首 其二十",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "余生唯爱酒，师长是山翁。",
+    "定葬槽丘下，须沉酿瓮中。",
+    "鹈鸪春作鸟，舂黍夏为虫。",
+    "会入醉乡去，为君成醉风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-ccaf5bb1-f4ef-41d7-908e-ece6b228524f"
+}

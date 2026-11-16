@@ -1,0 +1,14 @@
+{
+  "id": "poem-4b74e14c620e481365bbf3ed",
+  "title": "寄弟",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "函罢家音又拆看，添书绝句报平安。",
+    "丰溪渔叟生涯定，明月清风一钓竿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-01200a90-c853-442b-9718-e331b49a883f"
+}

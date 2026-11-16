@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-706b",
+  "script": "kai",
+  "character": "火",
+  "reading": "huǒ",
+  "description": "huǒ：(1)燃烧，物质燃烧时所发出的光和焰～力。～烛。～源。～焰。烟～。～中取栗（喻为别人冒险出力，而自己吃亏上当，毫无所获）。\n(2)紧急～速。十万～急。\n(3)指枪炮弹药等～药。～炮。\n(4)发怒，怒气～暴。～性。\n(5)中医指发炎、红肿、烦躁等的病因肝～。毒～攻心。\n(6)形容红色的～红。～腿。\n(7)古代军队组织，一火十个人。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-火"
+}

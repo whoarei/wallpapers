@@ -1,0 +1,14 @@
+{
+  "id": "poem-df13aacfbad330def24d6b91",
+  "title": "赏花时",
+  "author": "无名氏《宦门子弟错立身》",
+  "dynasty": "元",
+  "verses": [
+    "憔悴容颜只为你，每日在书房攻甚诗书！(生)闲话且休提，你把这时行的传奇，(旦白)看掌记。",
+    "(生连唱)你从头与我再温习。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-303",
+  "tags": []
+}

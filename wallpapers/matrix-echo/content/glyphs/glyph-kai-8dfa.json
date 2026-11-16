@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8dfa",
+  "script": "kai",
+  "character": "跺",
+  "reading": "duò",
+  "description": "duò：提起脚来用力踏地～脚。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-跺"
+}

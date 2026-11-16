@@ -1,0 +1,14 @@
+{
+  "id": "poem-2b966ad22e06f80f98b566ab",
+  "title": "酬施先辈",
+  "author": "孟简",
+  "dynasty": "唐",
+  "verses": [
+    "襄阳才子得声多，四海皆传古镜歌。",
+    "乐府正声三百首，[梨]园新入教青娥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-a4c79c77-63ae-4bf2-9f93-5c7132301dd5"
+}

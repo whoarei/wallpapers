@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8093",
+  "script": "seal",
+  "character": "肓",
+  "reading": "huāng",
+  "description": "huāng：中医指心下膈上的部位膏～（中国古代医学称心尖脂肪为膏”，心脏和膈膜之间为肓”，认为膏肓”是药力达不到的地方，所以病入～～”是指病重到无法医治了）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肓"
+}

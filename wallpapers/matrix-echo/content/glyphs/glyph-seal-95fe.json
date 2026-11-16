@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-95fe",
+  "script": "seal",
+  "character": "闾",
+  "reading": "lǘ；lv",
+  "description": "里巷\n⒈〈古〉一种居民组织，五家为比，五比为～。\n⒉里巷的门倚～而望。\n⒊里巷穷～漏屋。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-闾"
+}

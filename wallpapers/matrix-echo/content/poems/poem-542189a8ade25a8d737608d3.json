@@ -1,0 +1,15 @@
+{
+  "id": "poem-542189a8ade25a8d737608d3",
+  "title": "东瓯令",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦上)我那娘！心如醉，泪交流。",
+    "去远家尊绝信久，途中母子生离别。",
+    "这苦如何受？一重愁翻做两重愁，是我命合休。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2934",
+  "tags": []
+}

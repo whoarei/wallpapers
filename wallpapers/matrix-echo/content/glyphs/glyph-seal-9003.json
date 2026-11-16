@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9003",
+  "script": "seal",
+  "character": "逃",
+  "reading": "táo",
+  "description": "táo：(1)为躲避不利于自己的环境或事物而离开～跑。～敌。～匿。～遁。～逸。\n(2)躲开不愿意或不敢接触的事物～避。～难（nàn）。～汇。～税。～世（避世）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-逃"
+}

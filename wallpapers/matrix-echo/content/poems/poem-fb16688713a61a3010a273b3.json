@@ -1,0 +1,16 @@
+{
+  "id": "poem-fb16688713a61a3010a273b3",
+  "title": "谢盘野黄文昌  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "日课芳菲谱，归来手自栽。",
+    "有诗随意好，无日不花开。",
+    "鸥鹭论心事，云山入酒杯。",
+    "绮罗帘幕静，处处小蓬莱。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-2b3fc4b5-f4b7-4355-8799-826da1544321"
+}

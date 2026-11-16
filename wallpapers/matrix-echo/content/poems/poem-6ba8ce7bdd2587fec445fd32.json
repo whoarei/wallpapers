@@ -1,0 +1,16 @@
+{
+  "id": "poem-6ba8ce7bdd2587fec445fd32",
+  "title": "祭汾阴乐章",
+  "author": "源光裕",
+  "dynasty": "唐",
+  "verses": [
+    "方丘既膳，嘉飨载谧。",
+    "斋敬毕诚，陶匏贵质。",
+    "秀毕丰荐，芳俎盈实。",
+    "永永福流，其升如日。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d2ee20f6-53b2-4743-836e-518ab9abe749"
+}

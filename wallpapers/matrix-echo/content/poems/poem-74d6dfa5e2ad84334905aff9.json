@@ -1,0 +1,15 @@
+{
+  "id": "poem-74d6dfa5e2ad84334905aff9",
+  "title": "荷叶杯·金鸭香浓鸳被",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "金鸭香浓鸳被，枕腻。",
+    "小髻簇花钿，腰如细柳脸如莲。",
+    "怜么怜，怜么怜。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-27"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-76b1",
+  "script": "kai",
+  "character": "皱",
+  "reading": "zhòu",
+  "description": "衣、物等经折叠而显出痕迹\n收缩;紧蹙\n⒈皮肤上起的褶纹满脸～纹。〈引〉物体上的褶纹衣服～了。\n⒉使生褶纹紧～眉头。\n皱zhōu 1.栗蓬，包在栗子外面的多刺壳斗。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-皱"
+}

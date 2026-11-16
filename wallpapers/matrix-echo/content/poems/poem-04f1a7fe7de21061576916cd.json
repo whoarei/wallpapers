@@ -1,0 +1,14 @@
+{
+  "id": "poem-04f1a7fe7de21061576916cd",
+  "title": "朱湖",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "高低榉柳绿如苔，三两柴门傍竹开。",
+    "此处定无人挟弹，青青乳燕出溪来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-94498185-68c6-41fa-a608-212e6823c1f1"
+}

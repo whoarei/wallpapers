@@ -1,0 +1,16 @@
+{
+  "id": "poem-712b7fe3ac239b5c9eceb0f9",
+  "title": "哭萧渔所",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "于佛曾闻法，因诗遂得贫。",
+    "若为三尺喙，不了百年身。",
+    "在昔玄真子，如今主水神。",
+    "饭余茶又熟，不学泪沾巾。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-ef4ba6fe-2b12-4e6e-b84a-f7c910fbea82"
+}

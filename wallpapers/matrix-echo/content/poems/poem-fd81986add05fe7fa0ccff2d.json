@@ -1,0 +1,14 @@
+{
+  "id": "poem-fd81986add05fe7fa0ccff2d",
+  "title": "下第出春明门",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "曾和秋雨驱愁入，却向春风领恨回。",
+    "深谢灞陵堤畔柳，与人头上拂尘埃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-1e079c98-2067-4dd7-9665-8b84fdc7a7ad"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c40f6d6fc2449c9a781c4e89",
+  "title": "赠李杭州",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "仙郎白首未归朝，应为苍生领六条。",
+    "惠化州人尽清净，高情野鹤与逍遥。",
+    "竹间虚馆无朝讼，山畔青田长夏苗。",
+    "终日政声长独坐，开门长望浙江潮。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-01f4e76e-8cee-4b7e-a513-e1221a53300d"
+}

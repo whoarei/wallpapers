@@ -1,0 +1,15 @@
+{
+  "id": "poem-0be7ee2a8199eecc9ba90213",
+  "title": "十二月",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "他那里呱呱叫吼，我这里急急抽头。",
+    "将匣子轻抬手，近着这沙岸汀洲。",
+    "哭声哀猿闻肠断，匣影孤鱼见应愁。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-7953",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-14559c314e9f7a4ac7fab9c4",
+  "title": "酒泉子·紫陌青门",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "紫陌青门，三十六宫春色。",
+    "御沟辇路暗相通，杏园风。",
+    "咸阳沽酒宝钗空，笑指未央归去。",
+    "插花走马落残红，月明中。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-42"
+}

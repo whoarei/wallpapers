@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f9c70d97471211c61485f9f",
+  "title": "杂诗三首 二",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "妾家临渭北，春梦著辽西。",
+    "何苦朝鲜郡，年年事鼓鼙。",
+    "燕来红壁语，莺向绿窗啼。",
+    "为许长相忆，阑干玉筯齐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-12e099e7-7474-41c3-a332-76035325ef81"
+}

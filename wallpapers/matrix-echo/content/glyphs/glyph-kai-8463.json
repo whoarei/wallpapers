@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8463",
+  "script": "kai",
+  "character": "董",
+  "reading": "dǒng",
+  "description": "dǒng：(1)监督管理～统。～督。～正（督察纠正）。～理。～事（某些企业、学校的资产所有者推举出来代表自己监督和主持业务的人）。～其成。\n(2)正余将～道而不豫兮”。\n(3)深藏年六十已上，气当大～”。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-董"
+}

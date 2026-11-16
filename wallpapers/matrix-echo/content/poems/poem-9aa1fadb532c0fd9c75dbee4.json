@@ -1,0 +1,14 @@
+{
+  "id": "poem-9aa1fadb532c0fd9c75dbee4",
+  "title": "绝句漫兴",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "肠断春江欲尽头，杖藜徐步立芳洲。",
+    "颠狂柳絮随风舞，轻薄桃花逐水流。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-絕句漫興"
+}

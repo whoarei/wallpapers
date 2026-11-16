@@ -1,0 +1,16 @@
+{
+  "id": "poem-acfb6553a7a8e393cdcb178c",
+  "title": "秋风二首 二",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "秋风淅淅吹我衣，东流之外西日微。",
+    "天清小城捣练急，石古细路行人稀。",
+    "不知明月为谁好，早晚孤帆他夜归。",
+    "会将白发倚庭树，故园池台今是非。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-f1177b2a-c00f-4d1a-a8f8-95e33bd6c4f5"
+}

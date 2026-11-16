@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7b49",
+  "script": "kai",
+  "character": "等",
+  "reading": "děng",
+  "description": "děng：(1)古代指顿齐竹简（书）。\n(2)数量、程度相同，或地位一般高相～。平～。～于。～同。～值。～量齐观。\n(3)表示数量或程度的级别～级。～次。～第。～而下之。\n(4)特指台阶的级。\n(5)种，类这～事。\n(6)表示同一辈份的多数人我～。尔～。\n(7)表示列举未尽，或用于列举煞尾北京、上海～地。\n(8)候，待～候。～待。\n(9)待到～我写完。\n(10)同戥”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-等"
+}

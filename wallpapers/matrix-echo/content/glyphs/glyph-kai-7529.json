@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7529",
+  "script": "kai",
+  "character": "甩",
+  "reading": "shuǎi",
+  "description": "shuǎi：(1)抡，扔～手。～开膀子（形容使出全部力气）。\n(2)抛开，抛去～卖。～闲话。\n(3)虫类下卵蚕蛾～子儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-甩"
+}

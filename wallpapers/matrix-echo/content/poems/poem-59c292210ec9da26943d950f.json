@@ -1,0 +1,16 @@
+{
+  "id": "poem-59c292210ec9da26943d950f",
+  "title": "木兰花·小芙蓉",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "小芙蓉，香旖旎，碧玉堂深清似水。",
+    "闭宝匣，掩金铺，倚屏拖袖愁如醉。",
+    "迟迟好景烟花媚，曲渚鸳鸯眠锦翅。",
+    "凝然愁望静相思，一双笑靥嚬香蕊。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-1"
+}

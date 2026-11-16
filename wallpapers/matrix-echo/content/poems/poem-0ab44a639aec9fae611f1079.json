@@ -1,0 +1,16 @@
+{
+  "id": "poem-0ab44a639aec9fae611f1079",
+  "title": "颜丞开炉",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "鳞差云母著书窗，软火深炉晓自粧。",
+    "篆恰才消余桂馥，手终不暖为枨香。",
+    "小中天地何妨大，闲里工夫不欠忙。",
+    "莫向市朝寻大隠，二松环水自汤汤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-9dca188b-8cb7-4c13-9179-d77d9727df0b"
+}

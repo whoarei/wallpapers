@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7cd6",
+  "script": "seal",
+  "character": "糖",
+  "reading": "táng",
+  "description": "táng：(1)从甘蔗、甜菜、米、麦等提制出来的甜的物质白～§～。冰～。～浆。～稀。～膏。～瓜儿。～房（旧时制糖的作坊。亦称糖寮”、榨寮”）。～衣。\n(2)碳水化合物，有机化合物的一类，分为单糖”、双糖”三种，是人体内产生热能的主要物质～元。～尿病（因人体内胰岛素分泌不足所引起。是一种以体内糖代谢紊乱、血糖增高为主的慢性疾病）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-糖"
+}

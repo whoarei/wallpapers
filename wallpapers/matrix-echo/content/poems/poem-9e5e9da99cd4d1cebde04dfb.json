@@ -1,0 +1,14 @@
+{
+  "id": "poem-9e5e9da99cd4d1cebde04dfb",
+  "title": "江行无题一百首 四十六",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "土旷深耕少，江平远钓多。",
+    "平生皆弃本，金革竟如何。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3a2152cb-d73f-4ac5-9bc0-69b2b0685cbd"
+}

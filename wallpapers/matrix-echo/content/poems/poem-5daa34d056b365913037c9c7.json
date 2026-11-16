@@ -1,0 +1,20 @@
+{
+  "id": "poem-5daa34d056b365913037c9c7",
+  "title": "阮郎归·江南江北雪漫漫",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "江南江北雪漫漫。",
+    "遥知易水寒。",
+    "同云深处望三关。",
+    "断肠山又山。",
+    "天可老，海能翻。",
+    "消除此恨难。",
+    "频闻遣使问平安。",
+    "几时鸾辂还。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-114",
+  "tags": []
+}

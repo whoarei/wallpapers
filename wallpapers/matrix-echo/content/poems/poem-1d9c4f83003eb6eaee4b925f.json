@@ -1,0 +1,18 @@
+{
+  "id": "poem-1d9c4f83003eb6eaee4b925f",
+  "title": "读东坡和渊明贫士诗寄诸子姪云重九俯迩樽俎萧然今余亦有此叹因次其韵将录寄梁谿诸弟以发数千里一笑  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "凄凉寓僧舍，寂寞坐松轩。",
+    "虽辞万锺禄，尚未自灌园。",
+    "仲尼犹在陈，我厨晨有烟。",
+    "藜羮得一饱，滴露味自研。",
+    "寒窗写周易，更咏五千言。",
+    "儒生真可笑，饿隐称其贤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-0ff87c7a-20d7-4fbf-bd7f-ae7c8a111990"
+}

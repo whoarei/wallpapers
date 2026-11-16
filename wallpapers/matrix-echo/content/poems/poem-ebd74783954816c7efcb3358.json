@@ -1,0 +1,17 @@
+{
+  "id": "poem-ebd74783954816c7efcb3358",
+  "title": "峡哀 四",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "峡乱鸣清磬，产石为鲜鳞。",
+    "喷为腥雨涎，吹作黑井身。",
+    "怪光闪众异，饿劒唯待人。",
+    "老肠未曾饱，古齿崭岩嗔。",
+    "嚼齿三峡泉，三峡声龂龂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-1ed92763-9ec1-4a40-a4fc-13fd46f584c4"
+}

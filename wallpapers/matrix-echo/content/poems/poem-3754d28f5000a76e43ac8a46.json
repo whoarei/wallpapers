@@ -1,0 +1,16 @@
+{
+  "id": "poem-3754d28f5000a76e43ac8a46",
+  "title": "遣兴五首 三",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "漆有用而割，膏以明自煎。",
+    "兰摧白露下，桂折秋风前。",
+    "府中罗旧尹，沙道尚依然。",
+    "赫赫萧京兆，今为时所怜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-4cc0678f-1272-47ec-89ed-233fee07d436"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6de4",
+  "script": "kai",
+  "character": "淤",
+  "reading": "yū",
+  "description": "yū：(1)水道被泥沙阻塞～塞。～积。～滞。～埋。\n(2)河沟中沉积的泥沙～泥。～溉。\n(3)同瘀”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淤"
+}

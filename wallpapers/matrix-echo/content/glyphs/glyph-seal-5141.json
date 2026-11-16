@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5141",
+  "script": "seal",
+  "character": "允",
+  "reading": "yǔn",
+  "description": "yǔn：(1)答应，认可～许。～诺。不～。\n(2)公平得当～当。公～。\n(3)信，实～恭克让（诚信，谦逊能够忍让）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-允"
+}

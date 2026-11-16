@@ -1,0 +1,14 @@
+{
+  "id": "poem-bb1b96f36387859d8e37a25f",
+  "title": "南乡子·倾绿蚁",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "倾绿蚁，泛红螺，闲邀女伴簇笙歌。",
+    "避暑信船轻浪里，闲游戏，夹岸荔枝红蘸水。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-29"
+}

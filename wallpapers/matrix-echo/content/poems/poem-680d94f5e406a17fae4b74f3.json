@@ -1,0 +1,16 @@
+{
+  "id": "poem-680d94f5e406a17fae4b74f3",
+  "title": "移疾",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "移疾谢华省，问耕还弊舍。",
+    "扶持便疏慵，旷僻逃将迓。",
+    "昼棋莎径侧，暮粥梧阴下。",
+    "久矣澄清心，永愧桑弧射。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-4e7ee02c-2b4b-4ac4-ab9b-0f8359a3af58"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e9a7f0131be7f1710652873d",
+  "title": "送郭司仓",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "verses": [
+    "映门淮水绿，留骑主人心。",
+    "明月随良掾，春潮夜夜深。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-送郭司倉"
+}

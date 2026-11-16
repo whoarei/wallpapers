@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-67d3",
+  "script": "kai",
+  "character": "染",
+  "reading": "rǎn",
+  "description": "rǎn：(1)把东西放在颜料里使着色～料。～色。～坊。～缸。印～。\n(2)感受疾病或沾上坏习惯或接触到什么～病。感～。传～。沾～。一尘不～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-染"
+}

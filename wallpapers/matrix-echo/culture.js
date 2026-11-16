@@ -19,10 +19,18 @@
       }
     }
     catch { storageAvailable = false; initialWarning = '本地设置未能读取，已使用内置诗词；可导出文件保留本次修改。'; }
-    let clock = 0, due = 4, current = null, cursor = 0, serial = 0, editId = null;
+    let clock = 0, due = 4, current = null, serial = 0, editId = null;
     let selectedFloat = null;
     let viewport = { width: innerWidth, height: innerHeight, x: 0, y: 0, door: null };
     const verseCursors = new Map(), fontReady = new Set(), floats = [];
+    const poemDeck = MatrixLibrary.deck(), floatDecks = new Map(scripts.map(s => [s.id, MatrixLibrary.deck()]));
+    const poemViewer = MatrixLibrary.create('poem', { render: renderManager, editable: !options.readOnly,
+      excluded: () => settings.excludedPoemCollections,
+      toggle: name => {
+        const groups = settings.excludedPoemCollections;
+        settings.excludedPoemCollections = groups.includes(name) ? groups.filter(s => s !== name) : [...groups, name];
+        mutate('已更新诗词选集。');
+      } });
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
     $('culture-panel').dataset.hostManaged = String(options.readOnly === true);
     $('host-settings-notice').hidden = options.readOnly !== true;
@@ -47,9 +55,9 @@
       save(); if (reset) resetVerse(); renderManager(); wake(); paint(); redraw();
     }
     function next() {
-      const active = library().filter(p => p.enabled);
+      const active = library().filter(p => p.enabled && !settings.excludedPoemCollections.includes(MatrixLibrary.collection(p)));
       if (!settings.poems || !active.length) { resetVerse(); return; }
-      const poem = active[cursor++ % active.length];
+      const poem = poemDeck.next(active);
       const verseIndex = (verseCursors.get(poem.id) || 0) % poem.verses.length;
       verseCursors.set(poem.id, verseIndex + 1);
       const verse = poem.verses[verseIndex];
@@ -158,7 +166,7 @@
         const fontSize = 24 * settings.scale * (f.i % 3 === 0 ? 1.2 : 1);
         if (cycle !== f.cycle || fontSize !== f.fontSize) {
           f.cycle = cycle; f.fontSize = fontSize;
-          f.entry = entries[(f.i * 7 + cycle * 3) % entries.length];
+          f.entry = floatDecks.get(f.script.id).next(entries);
           f.el.textContent = f.entry.character;
           f.el.setAttribute('aria-label', `${f.script.name} ${f.el.textContent}，查看注释`);
           f.el.style.fontSize = `${fontSize}px`;
@@ -192,9 +200,10 @@
       const merged = new Map(settings.overrides.map(p => [p.id, p]));
       poems.forEach(p => merged.set(p.id, p));
       const all = new Set([...original.keys(), ...merged.keys()]);
-      if (all.size > P.limits.poems) throw new Error('诗词库最多保存 500 首，请先删除部分个人诗词。');
-      settings.overrides = [...merged.values()];
+      if (all.size > P.limits.poems) throw new Error('诗词库最多保存 100000 首，请先删除部分个人诗词。');
+      settings.overrides = [...merged.values()].filter(p => !original.has(p.id) || JSON.stringify(original.get(p.id)) !== JSON.stringify(p));
       const incoming = new Set(poems.map(p => p.id));
+      if (poems.length === 1) poemViewer.reveal(poems[0].id);
       settings.removed = settings.removed.filter(id => !incoming.has(id));
     }
     function editor(poem = null) {
@@ -218,12 +227,13 @@
       $('floating-size').textContent = `字号 · ${settings.scale} 倍`;
       document.querySelectorAll('[data-script]').forEach(el => { el.checked = settings.scripts.includes(el.dataset.script); });
       const poems = library(), list = $('poem-list'); list.replaceChildren();
-      $('poem-count').textContent = `${poems.filter(p => p.enabled).length} / ${poems.length} 首启用`;
-      for (const poem of poems) {
+      $('poem-count').textContent = `${poems.filter(p => p.enabled && !settings.excludedPoemCollections.includes(MatrixLibrary.collection(p))).length} / ${poems.length} 首启用`;
+      for (const poem of poemViewer.page(poems)) {
         const row = document.createElement('div'); row.className = 'poem-row'; row.dataset.poemId = poem.id;
         const summary = document.createElement('div'), title = document.createElement('b'), detail = document.createElement('p');
         title.textContent = poem.title;
-        detail.textContent = `${poem.author} · ${poem.verses.length} 条 · ${original.has(poem.id) ? '内置' : '个人'}`;
+        detail.textContent = `${poem.dynasty} ${poem.author} · ${poem.verses.length} 条 · ${MatrixLibrary.collection(poem)} · ${original.has(poem.id) ? '内置' : '个人'}`;
+        summary.title = poem.source || '';
         summary.append(title, detail);
         if (options.readOnly) { row.append(summary); list.append(row); continue; }
         const actions = document.createElement('div'); actions.className = 'row-actions';
@@ -263,7 +273,7 @@
       event.preventDefault(); if (!runtime.capabilities.keyboard || options.readOnly) return;
       try {
         const old = library().find(p => p.id === editId);
-        const poem = P.normalize({ ...(editId ? { id: editId } : {}), title: $('poem-title').value,
+        const poem = P.normalize({ ...old, ...(editId ? { id: editId } : {}), title: $('poem-title').value,
           author: $('poem-author').value, dynasty: $('poem-dynasty').value,
           verses: $('poem-verses').value.split(/\r?\n/).filter(v => v.trim()), enabled: old?.enabled ?? true });
         if (!editId && library().some(p => p.id === poem.id)) throw new Error('相同篇名和作者的诗词已存在，请直接编辑或使用 JSON 导入更新。');
@@ -273,7 +283,7 @@
     $('restore-poems').addEventListener('click', () => { $('restore-confirm').hidden = false; });
     $('cancel-restore').addEventListener('click', () => { $('restore-confirm').hidden = true; });
     $('confirm-restore').addEventListener('click', () => {
-      settings.overrides = settings.overrides.filter(p => !original.has(p.id)); settings.removed = [];
+      settings.overrides = settings.overrides.filter(p => !original.has(p.id)); settings.removed = []; settings.excludedPoemCollections = [];
       $('restore-confirm').hidden = true; $('poem-editor').hidden = true; editId = null; mutate('已恢复内置诗词，个人新增诗词已保留。');
     });
     function download(blob, name) {
@@ -299,7 +309,7 @@
       const files = [...event.target.files]; event.target.value = '';
       if (!files.length) return;
       try {
-        if (files.length > 500 || files.reduce((n, f) => n + f.size, 0) > P.limits.bytes) throw new Error('一次最多导入 500 个文件，总大小不超过 2 MiB。');
+        if (files.length > P.limits.poems || files.reduce((n, f) => n + f.size, 0) > P.limits.bytes) throw new Error('一次最多导入 100000 首作品，总大小不超过 32 MiB。');
         const poems = [], ids = new Set();
         for (const file of files) {
           let entries;
@@ -318,17 +328,18 @@
       const b = $('export-wallpaper'), snapshot = JSON.parse(JSON.stringify(settings));
       b.disabled = true; notify('正在打包诗词、文字、设置与离线字体…');
       try {
-        const names = ['index.html', 'matrix.css', 'matrix.js', 'culture.js', 'culture-config.js', 'settings.html', 'settings.template.html', 'settings-page.js', 'settings-page.css', 'glyphs.js', 'glyphs.generated.js', 'glyph-library.js', 'poetry.js', 'archive.js', 'wallpaper-runtime.js',
+        const names = ['index.html', 'matrix.css', 'matrix.js', 'culture.js', 'culture-config.js', 'settings.html', 'settings.template.html', 'settings-page.js', 'settings-page.css', 'settings-base.css', 'glyphs.js', 'glyphs.generated.js', 'glyph-library.js', 'poetry.js', 'poems.generated.js', 'archive.js', 'wallpaper-runtime.js', 'content-loader.js', 'library-tools.js',
           'module.json', 'cover.jpg', 'fonts/Seal.woff', 'fonts/WenKai.woff', 'fonts/Yi.woff', 'fonts/Tibetan.woff',
-          'fonts/Seal-OFL.txt', 'fonts/Seal-NOTICE.md', 'fonts/WenKai-OFL.txt', 'fonts/Noto-OFL.txt', 'fonts/NOTICE.md'];
+          'fonts/Seal-OFL.txt', 'fonts/Seal-NOTICE.md', 'fonts/WenKai-OFL.txt', 'fonts/Noto-OFL.txt', 'fonts/NOTICE.md',
+          'content/SOURCES.md', 'content/import-report.json', 'content/common-hanzi.txt', 'content/licenses/chinese-poetry-MIT.txt', 'content/licenses/chinese-xinhua-MIT.txt',
+          'content/licenses/Unicode-license.txt',
+          ...(window.MatrixContent?.files || [])];
         const files = await Promise.all(names.map(async name => {
           const response = await fetch(new URL(name, location.href));
           if (!response.ok) throw new Error(`无法读取 ${name}`);
           return { name, data: new Uint8Array(await response.arrayBuffer()) };
         }));
-        files.push({ name: 'settings.js', data: 'window.MATRIX_DEFAULTS = ' + json({ ...snapshot, importSeed: 'configured-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 8) }) + ';\n' },
-          { name: 'poems.generated.js', data: 'window.MATRIX_POEMS = ' + json(builtins).replace(/</g, '\\u003c') + ';\nwindow.MATRIX_POEM_FILES = ' + json(Object.fromEntries(builtins.map(p => [p.id, filename(p)]))) + ';\n' },
-          ...builtins.map(p => ({ name: `content/poems/${filename(p)}`, data: json(p) })), ...glyphLibrary.builtinFiles());
+        files.push({ name: 'settings.js', data: 'window.MATRIX_DEFAULTS = ' + json({ ...snapshot, importSeed: 'configured-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 8) }) + ';\n' });
         download(MatrixArchive.zip(files), 'matrix-echo-configured.zip');
         notify('已导出已配置壁纸。在壁纸盒子的「设置 → 导入壁纸」中导入此 ZIP 即可。');
       } catch (error) { notify(`导出失败：${error.message}。请在独立预览或本地网页服务中重试。`); }
@@ -359,14 +370,15 @@
         }
         return false;
       }
-      const reset = JSON.stringify([settings.poems, settings.overrides, settings.removed]) !== JSON.stringify([next.poems, next.overrides, next.removed]);
+      const reset = JSON.stringify([settings.poems, settings.overrides, settings.removed, settings.excludedPoemCollections]) !== JSON.stringify([next.poems, next.overrides, next.removed, next.excludedPoemCollections]);
       Object.assign(settings, next); if (reset) resetVerse();
       editId = null; $('poem-editor').hidden = true; $('restore-confirm').hidden = true;
       glyphLibrary.reload(); rebuildFloats(); renderManager(); paint(); redraw(); return true;
     }
     return Object.freeze({ update, togglePanel, finishVerse, applySettings, getVerse: () => fontReady.has('kai') && settings.poems ? current : null,
-      getState: () => ({ clock, current: current ? { ...current } : null,
-      settings: JSON.parse(JSON.stringify(settings)), poems: library(), glyphs: glyphLibrary.list(), fontReady: [...fontReady],
+      getState: ({ includeLibrary = true } = {}) => ({ clock, current: current ? { ...current } : null,
+      settings: includeLibrary ? JSON.parse(JSON.stringify(settings)) : { poems: settings.poems, floating: settings.floating, scale: settings.scale, scripts: [...settings.scripts] },
+      ...(includeLibrary ? { poems: library(), glyphs: glyphLibrary.list() } : {}), fontReady: [...fontReady],
       floatingCount: floats.length, annotation: selectedFloat ? { script: selectedFloat.script.id, character: selectedFloat.el.textContent } : null,
       storageAvailable, panelOpen: !$('culture-panel').hidden }) });
   }

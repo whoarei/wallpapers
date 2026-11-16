@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51e4",
+  "script": "kai",
+  "character": "凤",
+  "reading": "fèng",
+  "description": "古时比喻有圣德的人\n【凤毛麟角】凤凰的毛，麒麟的角。〈喻〉稀罕、珍贵的事物，也指难得的人才。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-凤"
+}

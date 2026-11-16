@@ -1,0 +1,14 @@
+{
+  "id": "poem-dd3a4dc19f6497c90dee0c81",
+  "title": "扇",
+  "author": "陆畅",
+  "dynasty": "唐",
+  "verses": [
+    "宝扇持来入禁宫，本教花下动香风。",
+    "姮娥须逐彩云降，不可通宵在月中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-fcb671fa-4d77-4dd4-859a-40d8be9d1e4c"
+}

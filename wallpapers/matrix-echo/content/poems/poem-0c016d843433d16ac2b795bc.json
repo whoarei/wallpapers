@@ -1,0 +1,14 @@
+{
+  "id": "poem-0c016d843433d16ac2b795bc",
+  "title": "省超偈（题拟）",
+  "author": "道怤",
+  "dynasty": "唐",
+  "verses": [
+    "省超之时不守住，更须腾身后前机。",
+    "太虚不㝵金乌运，霄汉宁妨玉兔飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-14eb8222-c819-419d-9d01-405c370edda5"
+}

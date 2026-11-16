@@ -1,0 +1,16 @@
+{
+  "id": "poem-fcbda3784c4173c9dca96749",
+  "title": "卜算子·梦里不知眠",
+  "author": "陈瓘",
+  "dynasty": "宋",
+  "verses": [
+    "梦里不知眠，觉后眠何在。",
+    "试问眠身与梦身，那个能祗对。",
+    "醉后有人醒，醒了无人醉。",
+    "要识三千与大千，不在微尘外。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-551",
+  "tags": []
+}

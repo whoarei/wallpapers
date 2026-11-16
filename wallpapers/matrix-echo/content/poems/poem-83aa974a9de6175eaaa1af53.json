@@ -1,0 +1,16 @@
+{
+  "id": "poem-83aa974a9de6175eaaa1af53",
+  "title": "寄呈东甽先生曹侍郎",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "芝书催觐已多时，底事归班似嬾归。",
+    "诸老正缘无定说，先生只得暗知机。",
+    "柳花樽俎春千点，竹屋云山绿四围。",
+    "东甽东边行乐遍，不妨款曲上黄扉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-ccd0ff11-db36-4c2d-8662-6c69d1b5a172"
+}

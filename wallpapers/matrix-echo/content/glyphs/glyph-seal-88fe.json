@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-88fe",
+  "script": "seal",
+  "character": "裾",
+  "reading": "jū；jv",
+  "description": "jū：(1)衣服的大襟。\n(2)衣服的前后部分。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-裾"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-2b7a783b922c80a0e108116f",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(外)不必泪涟涟，这相逢非偶然。",
+    "同临任所为姻眷，聊附寸笺，饶州报传，管教你夫妇重相见。",
+    "(合)免忧煎，夫妻有日，重得遇椿萱。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8219",
+  "tags": []
+}

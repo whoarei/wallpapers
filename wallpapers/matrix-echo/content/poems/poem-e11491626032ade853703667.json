@@ -1,0 +1,16 @@
+{
+  "id": "poem-e11491626032ade853703667",
+  "title": "读杜工部集二首 一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "造化拾无遗，唯应杜甫诗。",
+    "岂非玄域橐，夺得古人旗。",
+    "日月精华薄，山川气概卑。",
+    "古今吟不尽，惆怅不同时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-908f68ec-e7d3-4d08-9564-19f4b10d12ba"
+}

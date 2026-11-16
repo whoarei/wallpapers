@@ -1,0 +1,14 @@
+{
+  "id": "poem-956bdbf9a58a6323f99d48bc",
+  "title": "发成都  其二",
+  "author": "刘望之",
+  "dynasty": "宋",
+  "verses": [
+    "欲洗羁愁只自醒，郫筒酒好信虚名。",
+    "江阳春色论千户，价比西州却未轻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-be16ad35-9ebc-4b87-9810-0841446c7b87"
+}

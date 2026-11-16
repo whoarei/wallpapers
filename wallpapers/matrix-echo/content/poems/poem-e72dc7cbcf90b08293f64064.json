@@ -1,0 +1,16 @@
+{
+  "id": "poem-e72dc7cbcf90b08293f64064",
+  "title": "挽丁知县",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "蚤识北平贵，从游五十年。",
+    "迟迟登虎榜，急急到凫仙。",
+    "振起非无地，荣枯自有天。",
+    "老成雕落尽，一壑锁苍烟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-1f2c2c95-0497-4ab2-b1b7-5fd5b9098e2d"
+}

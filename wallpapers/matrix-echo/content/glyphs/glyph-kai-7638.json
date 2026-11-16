@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7638",
+  "script": "kai",
+  "character": "瘸",
+  "reading": "qué",
+  "description": "qué：腿脚有毛病，行步时身体不平衡～腿。一～一拐。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瘸"
+}

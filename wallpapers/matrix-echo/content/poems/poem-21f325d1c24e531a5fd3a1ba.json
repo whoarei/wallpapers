@@ -1,0 +1,16 @@
+{
+  "id": "poem-21f325d1c24e531a5fd3a1ba",
+  "title": "送宗密上人",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "门前九陌尘，石上定中身。",
+    "近放辽天鹤，曾为南岳人。",
+    "腊高松叶换，雪尽茗芽新。",
+    "一自传香后，名山愿卜邻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-2f54aaba-e725-497f-bd5b-1d0cf1f330e1"
+}

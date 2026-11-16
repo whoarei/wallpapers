@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-53d9",
+  "script": "seal",
+  "character": "叙",
+  "reading": "xù",
+  "description": "xù：(1)述说～说。～事。～话。～亲。～旧。\n(2)同序”①②③。\n(3)评议等级次第～功。～奖。～用（分级进用）。～擢（分级提拔，授予宜职）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-叙"
+}

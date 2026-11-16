@@ -1,0 +1,16 @@
+{
+  "id": "poem-89ec05455ef8a7ab445abb45",
+  "title": "寄孙洛阳格",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "久持刑宪声名远，好是中朝正直臣。",
+    "赤县上来应足事，青山老去未离身。",
+    "常思从省连归马，乍觉同班少旧人。",
+    "遥爱南桥秋日晚，雨边杨柳映天津。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0f26e21c-78b1-4f24-be65-7e27ae0d3be0"
+}

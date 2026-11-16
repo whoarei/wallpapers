@@ -1,0 +1,14 @@
+{
+  "id": "poem-d883c872ce52bb6e5256e405",
+  "title": "襄阳曲",
+  "author": "子兰",
+  "dynasty": "唐",
+  "verses": [
+    "为忆南游人，移家大堤住。",
+    "千帆万帆来，尽过门前去。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-b68b9b6b-5e96-411e-8804-8943f8d2ae10"
+}

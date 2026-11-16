@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-584c",
+  "script": "kai",
+  "character": "塌",
+  "reading": "tā",
+  "description": "tā：(1)倒（dǎo），下陷倒～。～方。～台。～架。～陷。\n(2)下垂～秧。\n(3)安定，镇定～下心来。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-塌"
+}

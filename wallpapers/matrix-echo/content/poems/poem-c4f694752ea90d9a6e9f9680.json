@@ -1,0 +1,14 @@
+{
+  "id": "poem-c4f694752ea90d9a6e9f9680",
+  "title": "河满子",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "系马宫槐老，持杯店菊黄。",
+    "故交今不见，流恨满川光。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-c1651595-e5a0-4960-a1ce-3373f5e3726b"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-14c6f0c0d0961945fa4c1478",
+  "title": "浣溪沙·湓浦从君已十年",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "湓浦从君已十年。",
+    "京江仍许借归船。",
+    "相逢此地有因缘。",
+    "十万貔貅环武帐，三千珠翠入歌筵。",
+    "功成去作地行仙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-363",
+  "tags": []
+}

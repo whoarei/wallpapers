@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b8b",
+  "script": "seal",
+  "character": "宋",
+  "reading": "sòng",
+  "description": "sòng：(1)中国周代诸侯国名，在今河南省商丘市一带。\n(2)中国朝代名南～。～代。～词。\n(3)响度单位，一宋约相当于人耳刚能听到的声音响度的一千倍，等于1000毫宋。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宋"
+}

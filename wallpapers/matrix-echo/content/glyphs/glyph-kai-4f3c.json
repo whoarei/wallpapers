@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f3c",
+  "script": "kai",
+  "character": "似",
+  "reading": "sì；shì",
+  "description": "sì：(1)相类，像相（xiāng）～。类～。～是而非。\n(2)好像，表示不确定～乎。～应如此。\n(3)表示比较，有超过的意思一个高～一个。\nshì：〔～的〕跟某种情况或事物相似，如他乐得什么～～”。亦作是的”（的”均读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-似"
+}

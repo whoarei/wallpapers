@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-68f5",
+  "script": "kai",
+  "character": "棵",
+  "reading": "kē",
+  "description": "kē：量词，用于植物一～树。一～草。几～白菜。\n〔棵儿（kēr）〕植物的大小，如树～～很大”，拣～～大的菜拔”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-棵"
+}

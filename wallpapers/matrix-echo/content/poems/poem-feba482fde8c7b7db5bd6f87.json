@@ -1,0 +1,20 @@
+{
+  "id": "poem-feba482fde8c7b7db5bd6f87",
+  "title": "阮郎归·儿童嬉戏杏花堤",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "儿童嬉戏杏花堤。",
+    "春归不解悲。",
+    "重来草露湿人衣。",
+    "无花空绕枝。",
+    "曾学道，久望机。",
+    "一尊甘若饴。",
+    "平生鱼鸟与同归。",
+    "临风心自知。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-198",
+  "tags": []
+}

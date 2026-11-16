@@ -1,0 +1,20 @@
+{
+  "id": "poem-d112d4a0f30f35bf88d7147a",
+  "title": "菩萨蛮·山亭水榭秋方半",
+  "author": "朱淑真",
+  "dynasty": "宋",
+  "verses": [
+    "山亭水榭秋方半。",
+    "凤帏寂寞无人伴。",
+    "愁闷一番新。",
+    "双蛾只旧颦。",
+    "起来临绣户。",
+    "时有疏萤度。",
+    "多谢月相怜。",
+    "今宵不忍圆。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-873",
+  "tags": []
+}

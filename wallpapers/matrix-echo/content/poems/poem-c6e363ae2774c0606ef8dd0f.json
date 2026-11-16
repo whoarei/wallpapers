@@ -1,0 +1,20 @@
+{
+  "id": "poem-c6e363ae2774c0606ef8dd0f",
+  "title": "水调歌头",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "秋灯明翠巾莫，夜案览芸编。",
+    "今来古往，其间故事几多般。",
+    "少甚佳人才子，也有神仙幽怪，琐碎不堪观。",
+    "正是：不关风化体，纵好也徒然。",
+    "论传奇，乐人易，动人难。",
+    "知音君子，这般另做眼儿看。",
+    "休论插科打诨，也不寻宫数调，只看子孝与妻贤。",
+    "骅骝方独步，万马敢争先？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4907",
+  "tags": []
+}

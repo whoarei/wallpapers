@@ -1,0 +1,18 @@
+{
+  "id": "poem-53378018c2ba7180c4623e13",
+  "title": "鹧鸪天·金节平分院落凉",
+  "author": "谢逸",
+  "dynasty": "宋",
+  "verses": [
+    "金节平分院落凉。",
+    "黄昏帘幕卷西厢。",
+    "冰轮碾碎粼粼碧，玉斧修成练练光。",
+    "低照户，巧侵床。",
+    "锦袍起舞谪仙狂。",
+    "鹊飞影里觥筹乱，桂子风前笑语香。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-636",
+  "tags": []
+}

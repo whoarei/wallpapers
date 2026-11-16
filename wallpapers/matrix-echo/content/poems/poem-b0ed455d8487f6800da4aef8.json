@@ -1,0 +1,16 @@
+{
+  "id": "poem-b0ed455d8487f6800da4aef8",
+  "title": "拟寒山 四",
+  "author": "泰钦",
+  "dynasty": "唐",
+  "verses": [
+    "闲步游南陌，唯便野兴多。",
+    "傍花看蝶舞，近柳听莺歌。",
+    "稚子捞溪莱，山翁携蕨萝。",
+    "问渠何处住，回首指前坡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-200995ae-d00d-4114-be20-37ea235cea03"
+}

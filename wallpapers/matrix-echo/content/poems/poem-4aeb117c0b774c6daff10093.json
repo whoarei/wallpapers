@@ -1,0 +1,17 @@
+{
+  "id": "poem-4aeb117c0b774c6daff10093",
+  "title": "河传·湖上",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "湖上，闲望。",
+    "雨萧萧，烟浦花桥路遥。",
+    "谢娘翠蛾愁不消，终朝，梦魂迷晚潮。",
+    "荡子天涯归棹远，春已晚，莺语空肠断。",
+    "若耶溪，溪水西，柳堤，不闻郎马嘶。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-9",
+  "tags": []
+}

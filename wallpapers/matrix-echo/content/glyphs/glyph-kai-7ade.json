@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7ade",
+  "script": "kai",
+  "character": "竞",
+  "reading": "jìng",
+  "description": "争辩\n⒈争逐，比赛，互相争胜～走。～赛。～争。\n⒉强劲南风不～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-竞"
+}

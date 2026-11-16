@@ -1,0 +1,15 @@
+{
+  "id": "poem-4e99ac1fb332c8c697632121",
+  "title": "鸡鸣",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "鸡既鸣矣，朝既盈矣。匪鸡则鸣，苍蝇之声。",
+    "东方明矣，朝既昌矣。匪东方则明，月出之光。",
+    "虫飞薨薨，甘与子同梦。会且归矣，无庶予子憎。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-95"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-778389c5f678054333049692",
+  "title": "河渎神·孤庙对寒潮",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "孤庙对寒潮，西陵风雨萧萧。",
+    "谢娘惆怅倚兰桡，泪流玉箸千条。",
+    "暮天愁听思归乐，早梅香满山郭。",
+    "回首两情萧索，离魂何处飘泊。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-45",
+  "tags": []
+}

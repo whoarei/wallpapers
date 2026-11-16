@@ -1,0 +1,18 @@
+{
+  "id": "poem-e1fb071fe7691c66c4f7a5eb",
+  "title": "鹧鸪天·领客携尊花底开",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "领客携尊花底开。",
+    "薄寒初送雨声来。",
+    "一声未弄林间笛，几片低飞阁下梅。",
+    "酬的皪，少迟回。",
+    "不妨春雪撒银杯。",
+    "玉肌莫放清香散，更待晴时赏一回。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-683",
+  "tags": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "poem-688f18395594725a7d15c32f",
+  "title": "早发白帝城",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "朝辞白帝彩云间，千里江陵一日还。",
+    "两岸猨声啼不尽，轻舟已过万重山。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "长江",
+    "山",
+    "喜悦",
+    "七言绝句",
+    "描写山",
+    "写山",
+    "带有地名",
+    "地名"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-9525f99d-39cb-4d04-8650-263493d223e0"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8236",
+  "script": "kai",
+  "character": "舶",
+  "reading": "bó",
+  "description": "bó：航海的大船船～（对船的通称）。巨～。～。～来品（指外国输入的货物）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舶"
+}

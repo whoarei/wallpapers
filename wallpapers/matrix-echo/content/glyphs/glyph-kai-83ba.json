@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-83ba",
+  "script": "kai",
+  "character": "莺",
+  "reading": "yīng",
+  "description": "黄莺\n⒈鸟名。种类很多。常见的有树～、柳～、鹪～等。身体多比麻雀小，羽毛绿褐色或灰褐色，嘴尖短，鸣声清脆。主食昆虫，是益鸟，要保护，禁止猎杀。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-莺"
+}

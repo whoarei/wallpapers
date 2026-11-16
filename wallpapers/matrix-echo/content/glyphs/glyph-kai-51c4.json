@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51c4",
+  "script": "kai",
+  "character": "凄",
+  "reading": "qī",
+  "description": "qī：(1)寒冷风雨～～。～风苦雨。～清。～寒。\n(2)悲伤～惨。～恻。～楚。～怆。～然。～切。～怨。～厉。～咽。～婉。\n(3)冷落静寂～凉。～寂。～艳。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-凄"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-3e8d62dde4e55a4a7959a46c",
+  "title": "鹧鸪天·枕簟溪堂冷欲秋",
+  "author": "辛弃疾",
+  "dynasty": "宋",
+  "verses": [
+    "枕簟溪堂冷欲秋。",
+    "断云依水晚来收。",
+    "红莲相倚浑如醉，白鸟无言定自愁。",
+    "书咄咄，且休休。",
+    "一丘一壑也风流。",
+    "不知筋力衰多少，但觉新来懒上楼。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-210"
+}

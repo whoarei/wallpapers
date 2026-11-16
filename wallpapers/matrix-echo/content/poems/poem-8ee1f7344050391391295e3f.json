@@ -1,0 +1,18 @@
+{
+  "id": "poem-8ee1f7344050391391295e3f",
+  "title": "醉太平",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "蹉跎，光阴易谢。",
+    "纵归来已晚，归计无暇。",
+    "名牵利锁，奔走在海角天涯。",
+    "知么？多应我老死在京华，孝情事一笔都勾罢。",
+    "这般摧锉，伤情万感，泪珠偷随。",
+    "(贴唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5182",
+  "tags": []
+}

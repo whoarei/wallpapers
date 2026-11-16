@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5d4c",
+  "script": "kai",
+  "character": "嵌",
+  "reading": "qiàn；kàn",
+  "description": "qiàn：把东西填镶在空隙里～入。镶～。\nkàn：〔赤～〕地名，在中国台湾省。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嵌"
+}

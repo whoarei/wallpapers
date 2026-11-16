@@ -1,0 +1,14 @@
+{
+  "id": "poem-488d855e01cbbdb2ac3df3e3",
+  "title": "江行无题一百首 二十二",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "带舟维古岸，还似阻西陵。",
+    "箕伯无多怒，回头讵不能。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-4bd471e6-b92f-42a0-82ce-d56228ad0cf3"
+}

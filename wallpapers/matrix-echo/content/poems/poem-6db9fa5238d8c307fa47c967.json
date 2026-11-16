@@ -1,0 +1,16 @@
+{
+  "id": "poem-6db9fa5238d8c307fa47c967",
+  "title": "好事近·丝管闹南湖",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "丝管闹南湖，湖上醉游时晚。",
+    "独看小桥官柳，泪无言偷满。",
+    "坐中谁唱解愁辞，红妆劝金盏。",
+    "物是奈人非是，负东风心眼。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-195",
+  "tags": []
+}

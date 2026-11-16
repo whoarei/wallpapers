@@ -1,0 +1,14 @@
+{
+  "id": "poem-514235c1f1f1d7e461631063",
+  "title": "和秉国芙蓉五章  其五",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "但见涉江求水际，岂知胜木采霜中。",
+    "微红未肯全衰歇，正似酡颜鸖髪翁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-ccb7ffe8-b414-43b8-bf2e-fb84ca8d8772"
+}

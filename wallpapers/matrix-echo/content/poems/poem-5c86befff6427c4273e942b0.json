@@ -1,0 +1,18 @@
+{
+  "id": "poem-5c86befff6427c4273e942b0",
+  "title": "盐井",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "卤中草木白，青者官盐烟。",
+    "官作既有程，煮盐烟在川。",
+    "汲井岁榾榾，出车日连连。",
+    "自公斗三百，转致斛六千。",
+    "君子慎止足，小人苦喧阗。",
+    "我何良叹嗟，物理固自然。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-e19f6e14-e964-4d21-a5c7-e9e1a607ed16"
+}

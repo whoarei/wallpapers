@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5077",
+  "script": "kai",
+  "character": "偷",
+  "reading": "tōu",
+  "description": "tōu：(1)窃取，趁人不知时拿人东西～窃。～吃。小～儿（tōur）。\n(2)行动瞒着人～～。～看。～听。～渡。～袭。～税。～天换日（喻暗中改变重大事物的真相以欺骗别人）。\n(3)抽出时间～空儿。～暇。～闲。\n(4)苟且～安。～生。～幸。～合苟容（苟且迎合别人的意思以求容身。亦称偷合取容”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-偷"
+}

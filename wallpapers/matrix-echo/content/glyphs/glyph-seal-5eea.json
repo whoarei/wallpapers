@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5eea",
+  "script": "seal",
+  "character": "廪",
+  "reading": "lǐn",
+  "description": "lǐn：(1)米仓，亦指储藏的米仓～。～生（即廪膳生员”，中国明、清两代称由府、州、县按时发给银子和补助生活的生员）。～饩（旧指由官府供给的粮食）。\n(2)积聚，郁结～于肠胃”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-廪"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1f236b0a5801aa123884e75",
+  "title": "春晚东园晓思",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "劒外春余日更长，东园留醉乐高张。",
+    "松杉露滴无情泪，桃杏风飘不语香。",
+    "莺恋叶深啼绿树，燕窥巢稳坐雕梁。",
+    "也知留滞年华晚，争那罇前乐未央。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-5dc7a7a3-27ed-4b56-b96d-1167b1279057"
+}

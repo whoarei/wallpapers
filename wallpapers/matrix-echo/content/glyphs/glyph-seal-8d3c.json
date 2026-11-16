@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d3c",
+  "script": "seal",
+  "character": "贼",
+  "reading": "zéi",
+  "description": "⒈匪盗，偷东西的人盗～。窃～。\n⒉严重桅国家和人民的坏人乱臣～子。卖国～。\n⒊伤害戕～。\n⒋邪的，不正派～眉～眼。～头～脑。\n⒌对敌人的蔑称已破～。\n⒍〈方〉狡猾老鼠太～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-贼"
+}

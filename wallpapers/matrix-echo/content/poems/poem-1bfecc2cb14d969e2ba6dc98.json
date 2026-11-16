@@ -1,0 +1,14 @@
+{
+  "id": "poem-1bfecc2cb14d969e2ba6dc98",
+  "title": "赠邓郎将四弟",
+  "author": "马云奇",
+  "dynasty": "唐",
+  "verses": [
+    "把袂相欢意最浓，十年言笑得朋从。",
+    "怜君节操曾无易，只是青山一树松。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-6b29bf83-e81c-4821-8000-6ba3b18cd626"
+}

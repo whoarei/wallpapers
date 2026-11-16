@@ -1,0 +1,16 @@
+{
+  "id": "poem-2696fb6a23ebd3f104b77ff4",
+  "title": "晚秋登城之作 二",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "东山日色片光残，西岭云各暝草寒。",
+    "谷口穹庐遥逦迤，磎边牛马暮盘跚。",
+    "目前愁见川至窄，望处心迷兴不宽。",
+    "乡国未知何所在，路逢相识问看看。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-ced75eb6-a564-44db-b0e6-a4bbdffb7485"
+}

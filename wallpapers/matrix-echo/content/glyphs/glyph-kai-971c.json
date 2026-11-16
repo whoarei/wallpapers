@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-971c",
+  "script": "kai",
+  "character": "霜",
+  "reading": "shuāng",
+  "description": "shuāng：(1)附着在地面或植物上面的微细冰粒，是接近地面的水蒸气冷至摄氏零度以下凝结而成的～降。～冻。～序（指深秋季节）。～秋。～期。～天。\n(2)像霜一样的东西柿～。西瓜～。\n(3)形容白色～鬓。～刃。～锋。\n(4)喻高洁～操（高洁的节操）。～骨。～情。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-霜"
+}

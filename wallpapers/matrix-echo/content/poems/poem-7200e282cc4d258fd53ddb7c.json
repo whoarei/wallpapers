@@ -1,0 +1,22 @@
+{
+  "id": "poem-7200e282cc4d258fd53ddb7c",
+  "title": "客至",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "舍南舍北皆春水，但见群鸥日日来。",
+    "花径不曾缘客扫，蓬门今始为君开。",
+    "盘餐市远无兼味，樽酒家贫只旧醅。",
+    "肯与邻翁相对饮，隔篱呼取尽余桮。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "喜悦",
+    "写景",
+    "友情",
+    "待客"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-9da0cbe5-52d4-4efc-8be2-2f78f1a8f097"
+}

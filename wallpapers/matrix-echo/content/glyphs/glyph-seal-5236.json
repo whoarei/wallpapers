@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5236",
+  "script": "seal",
+  "character": "制",
+  "reading": "zhì",
+  "description": "制定,用文字规定\n泽上有水,节,君子以制数度,议德行。╠\n⒈规定，拟定～定。～订。因地～宜。\n⒉禁止，限定，约束，管束～止。～约。限～。控～。遏～。管～。\n⒊规章，法度，法则～度。法～。民主集中～。\n⒋造，作～造。～作。～版。～图。\n①用强力使驯服、服从。也作\"制伏\"。\n②按规定样式做的服装学生～服。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-制"
+}

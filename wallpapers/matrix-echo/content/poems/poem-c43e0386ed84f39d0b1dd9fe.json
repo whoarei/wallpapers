@@ -1,0 +1,16 @@
+{
+  "id": "poem-c43e0386ed84f39d0b1dd9fe",
+  "title": "友人见访不值因寄",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "门户寒江近，篱墙野树深。",
+    "晚风摇竹影，斜日转山阴。",
+    "砌觉披秋草，床惊倒古琴。",
+    "更闻邻舍说，一只鹤来寻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-f1613ad5-4202-4972-9131-47bc15f4f193"
+}

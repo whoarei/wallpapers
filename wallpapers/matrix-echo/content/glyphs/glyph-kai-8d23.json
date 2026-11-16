@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d23",
+  "script": "kai",
+  "character": "责",
+  "reading": "zé",
+  "description": "责一头。\n以塞官责。\n责备\n⒈分内应做的事～任。负～。尽职尽～。人人有～。\n⒊质问，诘问～问。\n⒋指摘斥～。谴～。\n⒌惩罚～罚。鞭～。杖～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-责"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-9e5f5d155baa97327d86655c",
+  "title": "萤",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "月坠西楼夜影空，透帘穿幕达房栊。",
+    "流光堪在珠玑列，为火不生榆柳中。",
+    "一一照通黄卷字，轻轻化出绿芜丛。",
+    "欲知应候何时节，六月初迎大暑风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ba1b61cb-3102-490f-babe-eca519dd4aed"
+}

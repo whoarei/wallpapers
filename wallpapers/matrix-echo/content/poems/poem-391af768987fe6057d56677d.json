@@ -1,0 +1,16 @@
+{
+  "id": "poem-391af768987fe6057d56677d",
+  "title": "秋莺",
+  "author": "后主煜",
+  "dynasty": "唐",
+  "verses": [
+    "残莺何事不知秋，横过幽林尚独游。",
+    "老舌百般倾耳听，深黄一点入烟流。",
+    "栖迟背世同悲鲁，浏亮如笙碎在缑。",
+    "莫更留连好归去，露华凄冷蓼花愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-05d03b46-d786-4acf-995e-a20721f16583"
+}

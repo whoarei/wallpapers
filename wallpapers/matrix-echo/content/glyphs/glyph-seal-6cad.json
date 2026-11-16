@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6cad",
+  "script": "seal",
+  "character": "沭",
+  "reading": "shù",
+  "description": "shù：〔～河〕水名，源于中国山东省，流经江苏省入新沂河。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沭"
+}

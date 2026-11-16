@@ -1,0 +1,18 @@
+{
+  "id": "poem-a45f87d5c2e417024b71df2c",
+  "title": "自河南经乱关内阻饥兄弟离散各在一处因望月有感聊书所怀寄上浮梁大兄於潜七兄乌江十五兄兼示符离及下邽弟妹",
+  "author": "白居易",
+  "dynasty": "唐",
+  "verses": [
+    "时难年饥世业空，弟兄羇旅各西东。",
+    "田园寥落干戈后，骨肉流离道路中。",
+    "吊影分为千里鴈，辞根散作九秋蓬。",
+    "共看明月应垂泪，一夜乡心五处同。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a2aed629-465d-412c-a68d-780068488725"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9ca0",
+  "script": "seal",
+  "character": "鲠",
+  "reading": "gěng",
+  "description": "病患,祸害\n假借为骾”。鱼刺卡在喉咙里\n阻塞;堵塞\n通哽”\n⒈鱼骨，鱼刺。\n⒉骨头卡在喉咙里。\n鲠biān 1.鳊鱼。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲠"
+}

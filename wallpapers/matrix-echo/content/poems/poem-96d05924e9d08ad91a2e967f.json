@@ -1,0 +1,16 @@
+{
+  "id": "poem-96d05924e9d08ad91a2e967f",
+  "title": "兵后寻边三首 二",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "旗头指处见黄埃，万马横驰鹘翅回。",
+    "劒戟远腥凝血在，山河先暗阵云来。",
+    "角声恶杀悲于哭，鼓势争强怒若雷。",
+    "日暮却登寒垒望，饱鸱清啸伏尸堆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-cf73cabf-0d1b-4231-b0b4-ab22e1c96135"
+}

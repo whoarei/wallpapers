@@ -1,0 +1,16 @@
+{
+  "id": "poem-94c47b819eb2821ebfa1e306",
+  "title": "赋得浮桥",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "岸曲非千里，桥斜异七星。",
+    "暂低逢辇度，还高值浪惊。",
+    "水摇文鹢动，缆转锦花萦。",
+    "远近随轮影，轻重应人行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-0c1d43ec-220c-4983-a6f9-e4e55631ad44"
+}

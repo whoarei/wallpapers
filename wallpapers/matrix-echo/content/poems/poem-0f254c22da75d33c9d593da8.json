@@ -1,0 +1,14 @@
+{
+  "id": "poem-0f254c22da75d33c9d593da8",
+  "title": "浣溪沙·红蓼渡头秋正雨",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "红蓼渡头秋正雨，印沙鸥迹自成行，整鬟飘袖野风香。",
+    "不语含颦深浦里，几回愁煞棹船郎，燕归帆尽水茫茫。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-26"
+}

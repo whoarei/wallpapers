@@ -1,0 +1,16 @@
+{
+  "id": "poem-b9a9d6c3a9a15ebdcba4eda8",
+  "title": "前曲",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "你儿夫曾付托，我怎生违背？你无钱使用，我须当代。",
+    "交你把头发剪了，又跌倒在长街，都缘是我之罪。",
+    "(合)叹一家破坏，否极何时泰来？各出着泪。",
+    "(旦唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5127",
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-719295a9659e69f7aa6804ec",
+  "title": "春坊正字劒子歌",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "先辈匣中三尺水，曾入吴潭斩龙子。",
+    "隙月斜明刮露寒，练带平铺吹不起。",
+    "蛟胎皮老蒺藜刺，䴙鹈淬花白鹇尾。",
+    "直是荆轲一片心，莫教照见春坊字。",
+    "挼丝团金悬䍡𦌉，神光欲截蓝田玉。",
+    "提出西方白帝惊，嗷嗷鬼母秋郊哭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-14bb787d-e384-4568-a9b7-d6dd6a447125"
+}

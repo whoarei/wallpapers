@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8331",
+  "script": "seal",
+  "character": "茱",
+  "reading": "zhū",
+  "description": "zhū：〔～萸〕ａ．落叶小乔木，结长椭圆形核果，红色，味酸，可入药。通称山茱萸”；ｂ．落叶乔木，果实红色，可入药。通称吴茱萸”；ｃ．落叶乔木，枝上有刺，羽状复叶，果实红色、球形，可入药，可提制芳香油。通称食茱萸”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茱"
+}

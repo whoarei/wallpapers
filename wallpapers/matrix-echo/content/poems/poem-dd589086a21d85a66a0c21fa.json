@@ -1,0 +1,13 @@
+{
+  "id": "poem-dd589086a21d85a66a0c21fa",
+  "title": "咏李",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "问李树，如何意不同？应来主毛里，翻入客怀中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c4e3d658-5ce8-4e5a-a9de-00f5d77dbed4"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-a28047f83f833ca1677f3a91",
+  "title": "送韦判官赴闽中",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "孤棹闽中客，双旌海上军。",
+    "路人从北少，海水向南分。",
+    "野鹤伤秋别，林猨忌夜闻。",
+    "汉家崇亚相，知子远邀勋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-ffe2114c-a56d-4f43-bae4-49a13ec043e3"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "poem-f1704d265e02612151f2ec0b",
+  "title": "千秋岁·数声𫛸鴂",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "数声𫛸鴂。",
+    "又报芳菲歇。",
+    "惜春更把残红折。",
+    "雨轻风色暴，梅子青时节。",
+    "永丰柳，无人尽日飞花雪。",
+    "莫把幺弦拨。",
+    "怨极弦能说。",
+    "天不老，情难绝。",
+    "心似双丝网，中有千千结。",
+    "夜过也，东窗未白凝残月。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-157"
+}

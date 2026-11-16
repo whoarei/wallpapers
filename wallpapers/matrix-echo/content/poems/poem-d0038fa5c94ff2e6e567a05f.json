@@ -1,0 +1,14 @@
+{
+  "id": "poem-d0038fa5c94ff2e6e567a05f",
+  "title": "颂古三十一首  其六",
+  "author": "释玿",
+  "dynasty": "宋",
+  "verses": [
+    "大雄山下老狐精，千古丛林恼杀人。",
+    "若遇金毛师子子，看伊无处著浑身。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-533060c4-d84e-43c5-bee2-dcf7771f9922"
+}

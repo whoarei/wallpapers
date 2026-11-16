@@ -1,0 +1,16 @@
+{
+  "id": "poem-8341152f002147bc912b0d33",
+  "title": "石上丛竹",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "斗石森微干，杯泓托茂林。",
+    "不多犹绝俗，虽小亦虚心。",
+    "风噎纤纤玉，蟾低琐琐金。",
+    "胸中渺千亩，尺许对曾阴。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-fdc885ee-bb87-4201-9930-2846c2ae45fb"
+}

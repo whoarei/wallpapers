@@ -1,0 +1,16 @@
+{
+  "id": "poem-11951fea6f5d5750c8dcc52e",
+  "title": "送夏侯审参军游江东",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "袖中多丽句，未遣世人闻。",
+    "醉夜眠江月，闲时逐海云。",
+    "荻花寒漫漫，鸥鸟暮群群。",
+    "若到长沙苑，渔家更待君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-9c56b83a-34f3-4a30-a7fe-c0f7bb2fcac1"
+}

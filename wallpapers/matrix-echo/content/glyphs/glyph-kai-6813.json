@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6813",
+  "script": "kai",
+  "character": "栓",
+  "reading": "shuān",
+  "description": "shuān：(1)器物上可以开关的机件枪～。\n(2)塞子或作用跟塞子相仿的东西～塞。血～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-栓"
+}

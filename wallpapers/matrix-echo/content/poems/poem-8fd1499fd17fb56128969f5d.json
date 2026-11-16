@@ -1,0 +1,16 @@
+{
+  "id": "poem-8fd1499fd17fb56128969f5d",
+  "title": "古苑杏花",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "废苑杏花在，行人愁到时。",
+    "独开新堑底，半露旧烧枝。",
+    "晚色连荒辙，低阴覆折碑。",
+    "茫茫古陵下，春尽又谁知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0872f854-66eb-44bb-b652-da68abad8429"
+}

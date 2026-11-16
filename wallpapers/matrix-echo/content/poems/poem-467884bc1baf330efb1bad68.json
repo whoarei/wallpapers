@@ -1,0 +1,17 @@
+{
+  "id": "poem-467884bc1baf330efb1bad68",
+  "title": "宇文秀才斋中海柳咏",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "玉缕青葳蕤，结为芳树姿。",
+    "忽惊明月钩，钩出珊瑚枝。",
+    "灼灼不死花，蒙蒙长生丝。",
+    "饮栢泛仙味，咏兰拟古词。",
+    "霜风清飕飕，与君长相思。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-942d1b0c-771a-46c9-b66a-bf00da520b83"
+}

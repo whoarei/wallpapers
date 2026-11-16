@@ -1,0 +1,14 @@
+{
+  "id": "poem-ec728dcd4eb72223c1f97028",
+  "title": "颂古三十一首  其一九",
+  "author": "释安永",
+  "dynasty": "宋",
+  "verses": [
+    "见兔放鹰，因邪打正。",
+    "脚未跨门，直须猛省。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-2f20d295-79ca-4ce6-bc1d-75cbe6ffa4e7"
+}

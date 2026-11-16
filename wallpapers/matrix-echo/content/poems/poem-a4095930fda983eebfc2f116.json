@@ -1,0 +1,16 @@
+{
+  "id": "poem-a4095930fda983eebfc2f116",
+  "title": "生查子·月姊倚秋风",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "月姊倚秋风，香度青林杪。",
+    "吹堕酒杯中，笑靥撩人小。",
+    "芗林万事休，独此情未了。",
+    "醉里又题诗，不觉花前老。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-136",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-68dd77eef3af5a9918ab23d3",
+  "title": "郊庙歌辞 明皇祀圜丘乐章 寿和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "六变爰阕，八阶载虔。",
+    "祐我皇祚，于万斯年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6bb0f308-c254-4a99-9204-638f271b76cd"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d49",
+  "script": "seal",
+  "character": "赉",
+  "reading": "lài",
+  "description": "赠送\n⒈［癩病］即\"麻风病\"。\n⒉生癣疥等皮肤病，以致毛发脱落～皮狗。\n⒊表面凹凸不平或有斑点的～蛤蟆。～南瓜。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赉"
+}

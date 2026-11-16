@@ -1,0 +1,16 @@
+{
+  "id": "poem-7010df49ffa3ec202e72a380",
+  "title": "傅家林",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "樵斧响晴雷，平林顷刻摧。",
+    "兔亡三穴徙，猿吊一枝哀。",
+    "桑梓思前辈，松杉惜上林。",
+    "养林如养德，万木盍重栽。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-90be5793-82fe-4689-b810-b30bf0f1178e"
+}

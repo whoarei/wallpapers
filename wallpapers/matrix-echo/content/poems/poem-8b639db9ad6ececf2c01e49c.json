@@ -1,0 +1,14 @@
+{
+  "id": "poem-8b639db9ad6ececf2c01e49c",
+  "title": "水底鱼",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［生上］天下贤良，赴选临帝乡。",
+    "白衣卿相，暮登天子堂。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8138",
+  "tags": []
+}

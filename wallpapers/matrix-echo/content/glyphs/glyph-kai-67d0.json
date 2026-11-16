@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-67d0",
+  "script": "kai",
+  "character": "某",
+  "reading": "mǒu",
+  "description": "mǒu：(1)代替不明确指出的人、地、事、物等～人。～处。～国。\n(2)自称（代替我”或名字）～姓李。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-某"
+}

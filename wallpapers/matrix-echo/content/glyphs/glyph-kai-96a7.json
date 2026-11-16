@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-96a7",
+  "script": "kai",
+  "character": "隧",
+  "reading": "suì",
+  "description": "suì：(1)道路，特指门内当中的路。\n(2)郊外的地方鲁人三郊三～”。\n(3)古同燧”，边塞设置的守望烽火的亭子。\n(4)旋转若磨石之～”。\n〔～道〕在山中或地下凿成的通路。亦称隧洞”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-隧"
+}

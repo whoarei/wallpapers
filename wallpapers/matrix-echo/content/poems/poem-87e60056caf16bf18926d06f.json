@@ -1,0 +1,16 @@
+{
+  "id": "poem-87e60056caf16bf18926d06f",
+  "title": "百丈山",
+  "author": "宣宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "大雄真迹枕危峦，梵宇层楼耸万般。",
+    "日月每从肩上过，山河长在掌中看。",
+    "仙峰不间三春秀，灵境何时六月寒？",
+    "更有上方人罕到，暮钟朝磬碧云端。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-3cc12092-e338-458d-a730-5ee07b08d888"
+}

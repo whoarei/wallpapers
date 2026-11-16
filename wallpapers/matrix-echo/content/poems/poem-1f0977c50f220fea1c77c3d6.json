@@ -1,0 +1,16 @@
+{
+  "id": "poem-1f0977c50f220fea1c77c3d6",
+  "title": "敦煌廿咏（并序） 九、瑟瑟咏[二○]",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "瑟瑟焦山下，悠悠采几年。",
+    "为珠悬宝髻[二一]，作璞间金钿。",
+    "色入青霄里，光浮黑碛边。",
+    "世人偏重此，谁念楚材贤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c6fc1403-cc00-4c66-8f59-4b030005dd9f"
+}

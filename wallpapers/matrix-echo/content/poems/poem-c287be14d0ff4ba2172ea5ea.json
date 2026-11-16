@@ -1,0 +1,14 @@
+{
+  "id": "poem-c287be14d0ff4ba2172ea5ea",
+  "title": "书菊磵屏兰",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "欲酬天问些灵均，九畹归来活写真。",
+    "采笔不知春去后，自芳元不为无人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-7119d83d-aceb-47ec-8dbe-226daacc9d81"
+}

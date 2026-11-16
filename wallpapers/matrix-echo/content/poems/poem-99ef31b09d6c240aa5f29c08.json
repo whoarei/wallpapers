@@ -1,0 +1,16 @@
+{
+  "id": "poem-99ef31b09d6c240aa5f29c08",
+  "title": "送贺监归四明应制",
+  "author": "李林甫",
+  "dynasty": "唐",
+  "verses": [
+    "挂冠知止足，岂独汉疏贤。",
+    "入道求真侣，辞恩访列仙。",
+    "睿文含日月，宸翰动云烟。",
+    "鹤驾吴乡远，遥遥南斗边。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-5b18b761-a4fe-4ccb-b1e2-978566267463"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-b24b10396383160c4f17cc6f",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "今后洁可奈守，算古往今来似奴稀有。",
+    "孩儿一去，到如今杳不回头。",
+    "十六年来音信杳莫有，父子同欢不念母。",
+    "休休，猛听得孤雁叫过南楼。",
+    "神思困倦，就在井栏边少睡片时则个。",
+    "(旦作睡介)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8983",
+  "tags": []
+}

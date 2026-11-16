@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-809d",
+  "script": "seal",
+  "character": "肝",
+  "reading": "gān",
+  "description": "gān：(1)人或动物体内最大的消化腺，有合成与贮存养料、分泌胆汁、解毒等功能～脏。～炎。～胆。～肠。心～。\n(2)中医学指五脏之一～火。～气。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肝"
+}

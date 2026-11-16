@@ -1,0 +1,16 @@
+{
+  "id": "poem-234d19be9fa1a32720a2b176",
+  "title": "怀白阁道侣",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "寒思白阁层，石屋两三僧。",
+    "斜雪扫不尽，饥猨唤得应。",
+    "香然一字火，磬过数潭冰。",
+    "终必相寻去，孤怀久不胜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-88626846-4a90-4f2e-8582-d2d17ed3eb29"
+}

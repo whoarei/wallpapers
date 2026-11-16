@@ -1,0 +1,23 @@
+{
+  "id": "poem-3b4dbc218c86ed5c127f260c",
+  "title": "赋得暮雨送李胄",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "verses": [
+    "楚江微雨里，建业暮钟时。",
+    "漠漠帆来重，冥冥鸟去迟。",
+    "海门深不见，浦树远含滋。",
+    "相送情无限，沾襟比散丝。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写雨",
+    "友情",
+    "送别",
+    "五言律诗",
+    "雨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-83dcb67c-ccbc-4592-b232-368a6b5275ce"
+}

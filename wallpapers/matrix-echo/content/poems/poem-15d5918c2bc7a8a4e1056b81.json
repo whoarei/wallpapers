@@ -1,0 +1,14 @@
+{
+  "id": "poem-15d5918c2bc7a8a4e1056b81",
+  "title": "咏史诗 西园",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "月满西园夜未央，金风不动邺天凉。",
+    "高情公子多秋兴，更领诗人入醉乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-cc265090-847e-4105-9fa3-5e40a93c715f"
+}

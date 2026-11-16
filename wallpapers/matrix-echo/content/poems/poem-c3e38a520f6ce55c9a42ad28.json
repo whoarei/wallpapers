@@ -1,0 +1,16 @@
+{
+  "id": "poem-c3e38a520f6ce55c9a42ad28",
+  "title": "油葫芦",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "你道是万事无过酒破除，你不曾读《大禹谟》？禹恶旨酒而好善言，进来的美酒禁入皇都。",
+    "你今日白衣应举思高步，恰便似黄鹂出谷迁乔木。",
+    "今日受三品职，全凭你满腹书。",
+    "布衣中跳到洪州路，倒不如借住在步兵厨。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-7938",
+  "tags": []
+}

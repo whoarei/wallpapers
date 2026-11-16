@@ -1,0 +1,16 @@
+{
+  "id": "poem-0a19c5cba8a637ed885530be",
+  "title": "郊庙歌辞 武后明堂乐章 皇帝行",
+  "author": "武则天",
+  "dynasty": "唐",
+  "verses": [
+    "仰膺历数，俯顺讴歌。",
+    "远安迩肃，俗阜时和。",
+    "化光玉镜，讼息金科。",
+    "方兴典礼，永戢干戈。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f5880c05-dba3-4d43-984e-11173bd45c36"
+}

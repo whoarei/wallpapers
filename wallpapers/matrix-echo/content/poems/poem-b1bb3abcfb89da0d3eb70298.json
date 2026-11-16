@@ -1,0 +1,14 @@
+{
+  "id": "poem-b1bb3abcfb89da0d3eb70298",
+  "title": "鼓吹曲辞 凯歌六首 三",
+  "author": "岑参",
+  "dynasty": "唐",
+  "verses": [
+    "鸣笳擂鼓拥回军，破国平蕃昔未闻。",
+    "大夫鹊印摇边月，天将龙旗掣海云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fd06ba1d-9d8e-4b20-884b-bcf4c93507a6"
+}

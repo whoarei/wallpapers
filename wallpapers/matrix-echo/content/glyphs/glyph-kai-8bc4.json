@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8bc4",
+  "script": "kai",
+  "character": "评",
+  "reading": "píng",
+  "description": "评判\n评语;评论的话\n⒈议论，分析阐明道理～议。～论。短～。\n⒉判定，比高低优劣～判。～定。～选。～比。\n⒊［评价］对人或事物估定价值和作用。\n⒋［评介］评论介绍。\n⒌［评阅］对试卷、作品等阅览及评定。\n⒍［评剧］也叫\"评戏\"。戏曲的一种，流行于华北、东北等地。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-评"
+}

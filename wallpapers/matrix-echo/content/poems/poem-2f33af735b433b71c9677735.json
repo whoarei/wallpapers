@@ -1,0 +1,16 @@
+{
+  "id": "poem-2f33af735b433b71c9677735",
+  "title": "秋晚霁后野望忆夏侯审",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "天晴禾黍平，畅目亦伤情。",
+    "野店云日丽，孤庄砧杵鸣。",
+    "川原唯寂寞，岐路自纵横。",
+    "前后无俦侣，此怀谁与呈。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-90fc2eea-4a5c-4bca-8720-23c04d7f523d"
+}

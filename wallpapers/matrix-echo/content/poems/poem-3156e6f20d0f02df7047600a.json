@@ -1,0 +1,14 @@
+{
+  "id": "poem-3156e6f20d0f02df7047600a",
+  "title": "村醉",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "昨夜村饮归，健倒三四五。",
+    "摩挲青莓苔，莫嗔惊著汝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0a2ac536-d749-4430-b92c-aa82369da683"
+}

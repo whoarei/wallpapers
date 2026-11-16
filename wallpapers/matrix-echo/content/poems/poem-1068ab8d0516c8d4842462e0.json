@@ -1,0 +1,16 @@
+{
+  "id": "poem-1068ab8d0516c8d4842462e0",
+  "title": "梅花二首  其二",
+  "author": "林宪",
+  "dynasty": "宋",
+  "verses": [
+    "池边石陂陀，水光上梅梢。",
+    "石上古隶字，藓剥风萧骚。",
+    "树老花秀发，冰生香动摇。",
+    "只恐字磨灭，不愁花寂寥。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-cfe6887c-a36c-46e4-a55a-3a3719623bfc"
+}

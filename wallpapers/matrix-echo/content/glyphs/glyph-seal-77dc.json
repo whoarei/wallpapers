@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-77dc",
+  "script": "seal",
+  "character": "矜",
+  "reading": "jīn；qín；guān",
+  "description": "jīn：(1)怜悯，怜惜～悯（怜悯）。～惜。～恤。\n(2)自尊，自大，自夸～夸。～伐。～恃。骄～。\n(3)庄重，拘谨～持。～重（zhòng）。\nqín：矛柄。\nguān：古同鳏”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-矜"
+}

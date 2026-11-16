@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f68",
+  "script": "seal",
+  "character": "轨",
+  "reading": "guǐ",
+  "description": "车轮的痕迹,车辙\n法则、法度\n⒈车子两轮之间的距离车同～。〈喻〉车轮的痕迹城门之～。\n⒉轨道，一定的线路五星循～而行。有～电车。特指铺设轨道的钢铁条铺铁～。架钢～。〈喻〉法度，规则，办法，秩序等纳入正～。制止越～行为。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-轨"
+}

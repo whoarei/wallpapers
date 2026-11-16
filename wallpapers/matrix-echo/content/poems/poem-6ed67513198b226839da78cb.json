@@ -1,0 +1,14 @@
+{
+  "id": "poem-6ed67513198b226839da78cb",
+  "title": "昔年二首  其二",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "少年如此已成枯，我亦重来白鬓须。",
+    "正使冥冥有知识，不知还认阿兄无。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-c5b7a448-84bf-478e-b710-d32d8be6eb76"
+}

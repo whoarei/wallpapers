@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-85b0",
+  "script": "seal",
+  "character": "薰",
+  "reading": "xūn",
+  "description": "xūn：(1)同熏”。\n(2)古书上说的一种香草，又泛指花草的香气～莸不同器（香草和臭草不能放在一个器物里，喻好和坏不能共存。亦称薰莸异器”）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-薰"
+}

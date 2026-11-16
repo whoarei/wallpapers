@@ -1,0 +1,13 @@
+{
+  "id": "poem-e3709b0124ffe568477c8071",
+  "title": "临江仙",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(生、旦)一十六年不见面，今朝又得再相逢。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8985",
+  "tags": []
+}

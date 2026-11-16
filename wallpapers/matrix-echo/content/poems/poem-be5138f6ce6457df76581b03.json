@@ -1,0 +1,14 @@
+{
+  "id": "poem-be5138f6ce6457df76581b03",
+  "title": "千秋岭下",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "知有岩前万树桃，未逢摇落思空劳。",
+    "年年盛发无人见，三十六溪春水高。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-41a1eea7-0cd8-415f-9dec-91638ecaa5b4"
+}

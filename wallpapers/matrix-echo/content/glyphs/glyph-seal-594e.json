@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-594e",
+  "script": "seal",
+  "character": "奎",
+  "reading": "kuí",
+  "description": "kuí：(1)星名，二十八宿之一。\n(2)姓。\n〔～宁〕药名，白色结晶或无定形粉末，是治疗疟疾的特效药。亦称金鸡纳碱”、金鸡纳霜”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-奎"
+}

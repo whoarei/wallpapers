@@ -1,0 +1,16 @@
+{
+  "id": "poem-f6bb37b23b8f94951a78788d",
+  "title": "更漏子·旧欢娱",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "旧欢娱，新怅望，拥鼻含颦楼上。",
+    "浓柳翠，晚霞微，江鸥接翼飞。",
+    "帘半卷，屏斜掩，远岫参差迷眼。",
+    "歌满耳，酒盈樽，前非不要论。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-36"
+}

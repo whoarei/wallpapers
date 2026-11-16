@@ -1,0 +1,16 @@
+{
+  "id": "poem-ee19635b6cf1b22cd16bb5a0",
+  "title": "迁村居二首 一",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "移居入村宇，树阙见城隍。",
+    "云水虽堪画，恩私不可忘。",
+    "猿涎滴鹤氅，麈尾拂僧床。",
+    "弃逐随樵牧，何由报稻粱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9097e41b-17a5-4c09-b333-9b151c31dec8"
+}

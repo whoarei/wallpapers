@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f8a",
+  "script": "seal",
+  "character": "羊",
+  "reading": "yáng；xiáng",
+  "description": "yáng：(1)哺乳动物，反刍类，一般头上有一对角，品种很多绵～。黄～。羚～。～羔。～毫。～肠线。～肠小道。\n(2)姓。\nxiáng：古同祥”，吉祥。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-羊"
+}

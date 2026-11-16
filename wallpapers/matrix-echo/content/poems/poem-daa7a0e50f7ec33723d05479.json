@@ -1,0 +1,20 @@
+{
+  "id": "poem-daa7a0e50f7ec33723d05479",
+  "title": "行宫",
+  "author": "元稹",
+  "dynasty": "唐",
+  "verses": [
+    "寥落古行宫，宫花寂寞红。",
+    "白头宫女在，闲坐说玄宗。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "隋・唐・五代",
+    "怀古",
+    "宫怨",
+    "唐诗三百首",
+    "五言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-02943f6d-2c91-4d9c-9690-247eab9ae3ec"
+}

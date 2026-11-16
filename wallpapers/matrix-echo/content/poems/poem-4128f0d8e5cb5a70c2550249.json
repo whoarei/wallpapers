@@ -1,0 +1,15 @@
+{
+  "id": "poem-4128f0d8e5cb5a70c2550249",
+  "title": "赠皇甫侍御赴都八首 二",
+  "author": "元希声",
+  "dynasty": "唐",
+  "verses": [
+    "猗嗟众珍，以况君子。",
+    "公侯之胄，必复其始。",
+    "利器长材，温仪峻峙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-56a904d9-d977-44b0-be67-1cce4b11e5bc"
+}

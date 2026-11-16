@@ -1,0 +1,14 @@
+{
+  "id": "poem-4c9a98218690aa1e2e7ac600",
+  "title": "仙吕/赏花时",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "一纸书缄万种愁，数日忧成两鬓秋。",
+    "疾忙去莫迟留，休误了鸾交凤友，且跳过短墙头。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4493",
+  "tags": []
+}

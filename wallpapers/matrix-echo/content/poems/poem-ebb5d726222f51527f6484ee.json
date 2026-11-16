@@ -1,0 +1,16 @@
+{
+  "id": "poem-ebb5d726222f51527f6484ee",
+  "title": "新楼诗二十首 水寺",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "烟波野寺经过处，水国苍茫梦想中。",
+    "云散浦间江月迥，日曛洲渚海潮通。",
+    "坐看鱼鸟沈浮远，静见楼台上下同。",
+    "闻道化城方便喻，只应从此到龙宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-3875128a-b5d2-4d34-810b-d54f54f8fb56"
+}

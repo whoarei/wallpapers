@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-87bd",
+  "script": "seal",
+  "character": "螽",
+  "reading": "zhōng",
+  "description": "zhōng：〔～斯〕昆虫，身体绿色或褐色，善跳跃，对农作物有害。\n〔阜～〕即蚱蜢”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-螽"
+}

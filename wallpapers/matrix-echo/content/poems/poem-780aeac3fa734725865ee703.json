@@ -1,0 +1,16 @@
+{
+  "id": "poem-780aeac3fa734725865ee703",
+  "title": "郊庙歌辞 祭神州乐章 送神",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "神州阴祀，洪恩广济。",
+    "草树沾和，飞沈沐惠。",
+    "礼修鼎俎，奠歆瑶币。",
+    "送乐有章，灵轩其逝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d70c3690-62ad-4004-b45e-6bb39c53f844"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-af8c5098ae209c9243d5a4f7",
+  "title": "春秋战国门 宋子罕",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "子怜温润欲归仁，吾贵坚廉是宝身。",
+    "自有不贪身内宝，玉人徒献外来珍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-f5d184fc-ff85-46a1-877d-95bca6ecab45"
+}

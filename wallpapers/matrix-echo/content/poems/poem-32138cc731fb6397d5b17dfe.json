@@ -1,0 +1,14 @@
+{
+  "id": "poem-32138cc731fb6397d5b17dfe",
+  "title": "范真传侍御累有寄因奉酬十首 六",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "红袂歌声起，因君始得闻。",
+    "黄昏小垂手，与我驻浮云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-5c0c4358-ade3-427e-80b9-e5e3dc0494a6"
+}

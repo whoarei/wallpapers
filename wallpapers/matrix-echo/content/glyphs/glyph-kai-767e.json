@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-767e",
+  "script": "kai",
+  "character": "百",
+  "reading": "bǎi",
+  "description": "bǎi：(1)数名，十个十（在钞票和单据上常用大写佰”代）～步穿杨。～儿八十。～分比。\n(2)喻很多～草。～货。～姓（人民）。～般。～炼成钢。～无聊赖。～废俱兴（xīng）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-百"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5ad67ed01a6e790b9e21b981",
+  "title": "闲居寄陈山人",
+  "author": "谭用之",
+  "dynasty": "宋",
+  "verses": [
+    "闲居何处得闲名，坐掩衡茅损性灵。",
+    "破梦晓钟闻竹寺，沁心秋雨浸莎庭。",
+    "瓮边难负千杯绿，海上终眠万仞青。",
+    "珍重先生全太古，应看名利似浮云。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-7a650ab2-c09f-4573-9bb9-febc1173b0ff"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-50b4e72550f64c4e65ce474d",
+  "title": "二子乘舟",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "二子乘舟，泛泛其景。愿言思子，中心养养！",
+    "二子乘舟，泛泛其逝。愿言思子，不瑕有害？"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-43"
+}

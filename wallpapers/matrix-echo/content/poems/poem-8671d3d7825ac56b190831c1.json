@@ -1,0 +1,16 @@
+{
+  "id": "poem-8671d3d7825ac56b190831c1",
+  "title": "送僧",
+  "author": "可止",
+  "dynasty": "唐",
+  "verses": [
+    "四海无拘系，行心兴自浓。",
+    "百年三事衲，万里一枝筇。",
+    "夜减当晴影，春消过雪踪。",
+    "白云深处去，知宿在何峰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-fc170b63-78c7-413b-b7d1-83179175a4a1"
+}

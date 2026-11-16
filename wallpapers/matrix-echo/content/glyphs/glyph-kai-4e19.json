@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e19",
+  "script": "kai",
+  "character": "丙",
+  "reading": "bǐng",
+  "description": "bǐng：(1)天干的第三位，用作顺序第三的代称。\n(2)火的代称（五行中丙”、丁”属火）付～（把信件等烧掉）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丙"
+}

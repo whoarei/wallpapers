@@ -1,0 +1,14 @@
+{
+  "id": "poem-a1433093342feff09ab5333e",
+  "title": "天仙子·踯躅花开红照水",
+  "author": "皇甫松",
+  "dynasty": "唐",
+  "verses": [
+    "踯躅花开红照水，鹧鸪飞绕青山觜。",
+    "行人经岁始归来，千万里，错相倚，懊恼天仙应有以。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-17",
+  "tags": []
+}

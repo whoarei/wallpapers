@@ -1,0 +1,13 @@
+{
+  "id": "poem-e0843c5ab10915dce5aabb42",
+  "title": "句",
+  "author": "李伯良",
+  "dynasty": "唐",
+  "verses": [
+    "风向银灯花烬落，月临珠箔玉钩垂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-7cd6d166-f4f3-4403-bcb6-466d83411a1e"
+}

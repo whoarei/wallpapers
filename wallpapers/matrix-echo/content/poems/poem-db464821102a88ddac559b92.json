@@ -1,0 +1,16 @@
+{
+  "id": "poem-db464821102a88ddac559b92",
+  "title": "次韵林茂南参谋观阅水战之作",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "习战楼船章水滨，机轮运转若无人。",
+    "旌麾耀日惊飞鹭，金鼓翻波跃锦鳞。",
+    "四坐纵观聊举白，一阳潜动欲回春。",
+    "羽书正报淮淝捷，想见胪传设九宾。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-2a6d19ae-4fc3-4142-887b-8fba1c9ef1c7"
+}

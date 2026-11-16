@@ -1,0 +1,27 @@
+{
+  "id": "poem-e57412302dd7931f2bc6001f",
+  "title": "春望",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "国破山河在，城春草木深。",
+    "感时花溅泪，恨别鸟惊心。",
+    "烽火连三月，家书抵万金。",
+    "白头搔更短，浑欲不胜簪。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "战争",
+    "忧国忧民",
+    "爱国",
+    "五言律诗",
+    "初中古诗",
+    "八年级上册(课内)",
+    "思乡",
+    "写鸟",
+    "鸟"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-e9e6425c-6c14-4f69-8694-87a8b96a43de"
+}

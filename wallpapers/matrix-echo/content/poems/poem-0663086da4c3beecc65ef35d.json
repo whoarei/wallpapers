@@ -1,0 +1,15 @@
+{
+  "id": "poem-0663086da4c3beecc65ef35d",
+  "title": "三韵三篇 三",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "烈士恶多门，小人自同调。",
+    "名利苟可取，杀身傍权要。",
+    "何当官曹清，尔辈堪一笑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-73368692-b14f-4e13-a388-ff5acccf9a12"
+}

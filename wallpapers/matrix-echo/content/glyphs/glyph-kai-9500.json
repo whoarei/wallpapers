@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9500",
+  "script": "kai",
+  "character": "销",
+  "reading": "xiāo",
+  "description": "溶化;消融\n通消”。清失;消除;\n⒈熔化金属，泛指熔化～金。～炼。\n⒉除去，解除～假。撤～。\n⒊售，出卖供～。推～。畅～。\n⒋消费开～。\n⒌通\"消\"。消失，消灭～声匿迹。\n⒎将销子推上把窗子～好。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-销"
+}

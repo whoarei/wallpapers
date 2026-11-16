@@ -1,0 +1,14 @@
+{
+  "id": "poem-ba49ebaa6aaff73279199b93",
+  "title": "嘉祐寺留别丕上人",
+  "author": "皮公弼",
+  "dynasty": "宋",
+  "verses": [
+    "两年无惠及编氓，蜀道天难六月行。",
+    "深羡高僧捐世累，竹风湖处听泉声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-5de36452-1fcd-4250-8b09-1fd0b5d6f40d"
+}

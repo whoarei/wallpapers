@@ -1,0 +1,14 @@
+{
+  "id": "poem-f85fdb463f175a5c5732b2d2",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)告娘行听咨启，望娘行免泪零。",
+    "若不娶绣英，怎得我身荣？将彩凰冠来取你，取你到京中做一品夫人。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8992",
+  "tags": []
+}

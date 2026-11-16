@@ -1,0 +1,14 @@
+{
+  "id": "poem-a0c3987853e53dc1e1d174b3",
+  "title": "杨柳枝·金缕毵毵碧瓦沟",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "金缕毵毵碧瓦沟，六宫眉黛惹香愁。",
+    "晚来更带龙池雨，半拂栏干半入楼。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-32",
+  "tags": []
+}

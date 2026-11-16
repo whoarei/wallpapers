@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80ea",
+  "script": "seal",
+  "character": "胪",
+  "reading": "lú",
+  "description": "肚腹\n额头\n陈述\n报告\n⒉传达～传。\n⒊腹前。\n胪lǚ 1.祭名。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胪"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f8b87ad2b43a5eec2c8ea6d9",
+  "title": "送耿拾遗𣲗充括图书使往江淮",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "传令收遗籍，诸儒喜饯君。",
+    "孔家唯有地，禹穴但生云。",
+    "编简知还续，虫鱼亦自分。",
+    "如逢北山隐，一为谢移文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-02bb777a-fa66-4121-9551-be32bea452df"
+}

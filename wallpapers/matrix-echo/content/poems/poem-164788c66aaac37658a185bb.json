@@ -1,0 +1,14 @@
+{
+  "id": "poem-164788c66aaac37658a185bb",
+  "title": "韦轩游山遇雨",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "踏碎羊山黄叶堆，天飞细雨相车回。",
+    "二皇应讶来何晚，不忍听君话别杯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-72561afa-aedc-4ee1-ac93-06d9fd380a9b"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6b37d99b93978f95164f4eb4",
+  "title": "闻瀑布冰折",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "万仞冰峭折，寒声投白云。",
+    "光摇山月堕，我向石床闻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-eb8ca915-d8a4-4468-bfb3-2a657e5551d4"
+}

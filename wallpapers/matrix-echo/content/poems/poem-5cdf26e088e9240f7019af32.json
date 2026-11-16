@@ -1,0 +1,18 @@
+{
+  "id": "poem-5cdf26e088e9240f7019af32",
+  "title": "上达奚舍人",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "北山少日月，草木苦风霜。",
+    "贫士在重坎，食梅有酸肠。",
+    "万俗皆走圆，一身犹学方。",
+    "常恐众毁至，春叶成秋黄。",
+    "大贤秉高鉴，公烛无私光。",
+    "暗室晓未及，幽行涕空行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-d975de03-a422-47c9-b4a1-30768576d816"
+}

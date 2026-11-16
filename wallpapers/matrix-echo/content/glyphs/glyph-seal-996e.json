@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-996e",
+  "script": "seal",
+  "character": "饮",
+  "reading": "yǐn",
+  "description": "⒈喝～茶。～酒。～水思源。水浊不可～。\n⒉可以喝的东西～料。冷～。\n⒊含，忍～泣。～恨。\n饮yìn给牲口喝水～马渭水。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-饮"
+}

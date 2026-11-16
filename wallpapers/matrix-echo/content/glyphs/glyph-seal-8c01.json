@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c01",
+  "script": "seal",
+  "character": "谁",
+  "reading": "shuí",
+  "description": "哪个人或哪些人\n某人\n每个人\n表示疑问。指事物,相当于什么”\n⒈疑问代词。什么人～在说话？\n⒉任何人这件事～都能做。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谁"
+}

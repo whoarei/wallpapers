@@ -1,0 +1,16 @@
+{
+  "id": "poem-fe34be503449e43becc7c47a",
+  "title": "李粹伯对月见怀次韵",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "初收雨脚万丝悬，妙手谁人补漏天。",
+    "佳月素华迷夜旦，好诗余味满中边。",
+    "裴徊无奈谢希逸，齁䶎总输边孝先。",
+    "见说百篇酬一斗，高门重见酒中仙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-cbbd25ff-53fb-4493-9b67-98b9a2160e55"
+}

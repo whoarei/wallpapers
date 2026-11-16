@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-821b",
+  "script": "seal",
+  "character": "舛",
+  "reading": "chuǎn",
+  "description": "chuǎn：(1)错误，错乱～错（ａ．错误；ｂ．意外的事；ｃ．参差不齐，交错）。～驳。命途多～。\n(2)违背～迕。伦常乖～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舛"
+}

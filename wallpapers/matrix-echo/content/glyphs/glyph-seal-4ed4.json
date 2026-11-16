@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ed4",
+  "script": "seal",
+  "character": "仔",
+  "reading": "zǎi；zī；zǐ",
+  "description": "zī：〔～肩〕所担负的职务。\nzǐ：幼小的（多指家畜）～鸡。～猪。\n〔～细〕周密，细致，如办事～～”。\nzǎi：同崽”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-仔"
+}

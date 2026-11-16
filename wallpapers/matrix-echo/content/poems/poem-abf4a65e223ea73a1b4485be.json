@@ -1,0 +1,16 @@
+{
+  "id": "poem-abf4a65e223ea73a1b4485be",
+  "title": "送侯山人赴会稽",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "仙客辞萝月，东来就一官。",
+    "且归沧海住，犹向白云看。",
+    "猨呌江天暮，虫声野浦寒。",
+    "时游镜湖里，为我把鱼竿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-651ebe46-5927-4e46-8cec-68edf7f09fa8"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-a4f82b06a8ec4e747265aeda",
+  "title": "减字木兰花·多情被恼",
+  "author": "向",
+  "dynasty": "宋",
+  "verses": [
+    "多情被恼。",
+    "枉了东君无限巧。",
+    "真个愁人。",
+    "一片轻飞减却春。",
+    "阑干凭暖。",
+    "目断彩云肠也断。",
+    "两岸青山。",
+    "隐隐孤舟浪接天。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-202",
+  "tags": []
+}

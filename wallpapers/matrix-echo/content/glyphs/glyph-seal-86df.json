@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-86df",
+  "script": "seal",
+  "character": "蛟",
+  "reading": "jiāo",
+  "description": "jiāo：(1)古代传说中一种能发洪水的龙～龙得水。\n(2)指鼍、鳄之类的动物。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蛟"
+}

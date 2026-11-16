@@ -1,0 +1,16 @@
+{
+  "id": "poem-870f64fce974d76f67eaaa90",
+  "title": "长沙郡丞丁君挽词",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "廉吏今尤重，朝家诏举频。",
+    "方看千里驾，忽尽百年身。",
+    "职业忧劳甚，游从笑语真。",
+    "空令行路叹，没后见清贫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-8fcf344f-39e6-4ece-adc4-59964577a8fa"
+}

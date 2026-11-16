@@ -1,0 +1,16 @@
+{
+  "id": "poem-ab4536ee2dc32150b3c1b3c0",
+  "title": "西湖晚归  其二",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "风力尖纤酒力微，重添脱下薄绵衣。",
+    "心忙愈觉苏堤远，趁得渔船载得归。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-df1afb31-ab3a-40c0-b408-96552e76b4a3"
+}

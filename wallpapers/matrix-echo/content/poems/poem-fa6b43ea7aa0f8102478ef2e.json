@@ -1,0 +1,20 @@
+{
+  "id": "poem-fa6b43ea7aa0f8102478ef2e",
+  "title": "秋夜闻郑山人弹楚妃怨",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "明月摇落夜，深堂清净弦。",
+    "中间楚妃奏，十指哀婵娟。",
+    "寥寥夜含风，荡荡意如泉。",
+    "寂寞物无象，依稀语空烟。",
+    "旅人多西望，客鴈难南前。",
+    "由来感神事，岂为无情传。",
+    "容华能几时，不再来者年。",
+    "此夕河汉上，双星含凄然。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ba88d0d2-683d-4e0d-904d-98dc638afa1e"
+}

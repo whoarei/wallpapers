@@ -1,0 +1,16 @@
+{
+  "id": "poem-45888b4d6edbb5645c80667d",
+  "title": "寓兴",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "又近重阳节，伤心事可嗟。",
+    "塞鸿河洛志，篱菊古今花。",
+    "苦雨床俱漏，颠风扇莫遮。",
+    "渔船如一叶，快活似侬家。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-90c3fd31-f2f6-4357-9f7b-64646f5d39fa"
+}

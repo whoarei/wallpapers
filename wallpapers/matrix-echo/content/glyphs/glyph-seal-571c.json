@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-571c",
+  "script": "seal",
+  "character": "圜",
+  "reading": "huán；yuán",
+  "description": "huán：围绕转（zhuǎn）～。～流九十里。\nyuán：(1)同圆”。\n(2)指天体～则九重，孰营度之？”",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-圜"
+}

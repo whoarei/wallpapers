@@ -1,0 +1,16 @@
+{
+  "id": "poem-e28ee5a51acbfa1161359734",
+  "title": "幸蜀回至剑门",
+  "author": "李隆基",
+  "dynasty": "唐",
+  "verses": [
+    "剑阁横云峻，銮舆出狩回。",
+    "翠屏千仞合，丹嶂五丁开。",
+    "灌木萦旗转，仙云拂马来。",
+    "乘时方在德，嗟尔勒铭才。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-幸蜀回至劍門"
+}

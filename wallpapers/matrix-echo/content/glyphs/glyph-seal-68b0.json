@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-68b0",
+  "script": "seal",
+  "character": "械",
+  "reading": "xiè",
+  "description": "xiè：(1)器物，家伙器～。机～。\n(2)武器～斗。军～。缴～投降。\n(3)木枷和镣铐之类的刑具～系。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-械"
+}

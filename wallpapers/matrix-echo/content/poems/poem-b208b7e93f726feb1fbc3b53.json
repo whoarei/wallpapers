@@ -1,0 +1,16 @@
+{
+  "id": "poem-b208b7e93f726feb1fbc3b53",
+  "title": "次韵宣州使君陈中书见寄",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "听紫芝歌问绮园，橘中果有几何天。",
+    "试原雪夜玉堂梦，更了江春符竹缘。",
+    "新涨溢池荷叶小，煖风掠面柳花鲜。",
+    "大邦屏翰风骚地，应有诗人受一廛。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-daf9d91a-a449-4bb4-918d-d435b0cca136"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-0137b27273e9106a3fe84f10",
+  "title": "高宗皇帝挽词  其一",
+  "author": "林栗",
+  "dynasty": "宋",
+  "verses": [
+    "仓猝扶宗社，艰危启圣神。",
+    "英雄归驾御，狂狡愿和亲。",
+    "泛扫妖氛净，恢张治化新。",
+    "倦勤三纪外，头白尽遗民。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-f9147519-66e9-4ba2-b31b-a223098485a0"
+}

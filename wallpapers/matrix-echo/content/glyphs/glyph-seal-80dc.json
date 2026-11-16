@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80dc",
+  "script": "seal",
+  "character": "胜",
+  "reading": "shèng",
+  "description": "言讫,?\n战胜,打败\n胜,克\n⒈赢，跟\"败\"、\"负\"相对～利。～仗。～不骄。\n⒊超过～过。～似。～于。略～一筹。\n⒋优美的，盛大的～地。～景。～会。\n①能担当得起或承受得住～任愉快。不～其烦。\n②尽不可～数。\n③又叫\"肽\"。见肽。\n胜xīng 1.同\"腥\"。 2.瘦。参见\"膌胜\"。\n胜qìng 1.见\"胜遇\"。\n胜shèng 1.能够承受，禁得起。 2.尽。 3.陵，欺凌。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胜"
+}

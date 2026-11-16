@@ -1,0 +1,16 @@
+{
+  "id": "poem-d6566c5b848aec6ee89f4cd3",
+  "title": "山上寒夜呈进士许棠",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "山寒草堂暖，寂夜有良朋。",
+    "读易分高烛，煎茶取折冰。",
+    "庭垂河半角，窗露月微棱。",
+    "俱入论心地，争无俗者憎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-08dcdae3-ed35-4cc2-9d88-20c75ed9a219"
+}

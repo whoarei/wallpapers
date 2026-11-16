@@ -1,0 +1,16 @@
+{
+  "id": "poem-1eda739e50d493358904954e",
+  "title": "同前",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "今日除名字，皆是我恩德。",
+    "(旦)人非土木的，不敢忘恩义。",
+    "(和)幸然脱得花门去，心欢喜鸳鸯情，免沉迷。",
+    "如花貌，绝风雨(外)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8592",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-793c",
+  "script": "kai",
+  "character": "礼",
+  "reading": "lǐ",
+  "description": "⒈尊敬或客气的态度、动作～貌。敬～。\n⒉适应社会的道德观念和习俗形成的仪式、仪节典～。婚～。\n⒊〈表〉庆贺或敬意的事物～物。～品。国庆献～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-礼"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-60bedf4a35466500e9ba73bf",
+  "title": "送唐介南迁  其五",
+  "author": "谢景初",
+  "dynasty": "宋",
+  "verses": [
+    "谏逐古今有，例为朝政疵。",
+    "况与廊庙臣，世复恶其私。",
+    "安危治乱迹，此事姑置之。",
+    "傥未监谤者，失得何须悲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-4d77dcb3-40ef-4817-bd67-01f4d449753d"
+}

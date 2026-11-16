@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-83e9",
+  "script": "seal",
+  "character": "菩",
+  "reading": "pú",
+  "description": "pú：〔～提〕ａ．佛教指豁然开朗的彻悟境界，又指觉悟的智慧和途径；ｂ．常绿乔木，树上的汁液可制硬性橡胶。原产于印度。\n〔～萨〕ａ．佛教指释迦牟尼修行尚未成佛时的称号，后指修行到一定程度，地位仅次于佛的人；ｂ．泛指佛和某些神；ｃ．喻慈善的人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-菩"
+}

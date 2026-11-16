@@ -1,0 +1,16 @@
+{
+  "id": "poem-c3772f26118b9dca61935155",
+  "title": "清平乐·青陵蝶梦",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "青陵蝶梦，倒挂怜么凤。",
+    "退粉收香情一种，栖傍玉钗偷共。",
+    "愔愔镜阁飞蛾，谁传锦字秋河。",
+    "莲子依然隐雾，菱花暗惜横波。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-162"
+}

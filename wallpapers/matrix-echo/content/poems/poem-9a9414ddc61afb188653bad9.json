@@ -1,0 +1,16 @@
+{
+  "id": "poem-9a9414ddc61afb188653bad9",
+  "title": "人日",
+  "author": "林滋",
+  "dynasty": "唐",
+  "verses": [
+    "春辉新入碧烟开，芳院初将穆景来。",
+    "共向花前图瑞胜，试看池上动轻苔。",
+    "林香半落沾罗幌，蕙色微含近酒桮。",
+    "闻道宸游方命赏，应随恩赉喜昭回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b3c9c567-cd90-4a43-b10c-9e1769ed0ee0"
+}

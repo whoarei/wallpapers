@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6863",
+  "script": "kai",
+  "character": "档",
+  "reading": "dàng",
+  "description": "档案,排列或分类过的卡片或文件卷宗\n存放案卷用的带格子的橱\n按重要性、质量或价值排列的级别\n指曲艺、杂技表演一个节目\n①存放案卷用的带格子的架子或橱柜归～。\n②档案，分类保存的文件、材料等查～。\n【档案】具有使用价值、分类保存的各种文件材料。中国从夏、商起，就有了档案。\n【档案学】揭示档案和档案工作的本质和发展规律，研究档案的管理、利用的原则和方法的学科。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-档"
+}

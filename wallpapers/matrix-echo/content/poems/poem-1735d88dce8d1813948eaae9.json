@@ -1,0 +1,16 @@
+{
+  "id": "poem-1735d88dce8d1813948eaae9",
+  "title": "玉楼春·柳映玉楼春日晚",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "柳映玉楼春日晚，雨细风轻烟草软。",
+    "画堂鹦鹉语雕笼，金粉小屏犹半掩。",
+    "香灭绣帷人寂寂，倚槛无言愁思远。",
+    "恨郎何处纵疏狂，长使含啼眉不展。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-47"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6518",
+  "script": "seal",
+  "character": "攘",
+  "reading": "rǎng",
+  "description": "rǎng：(1)侵夺，偷窃～羊（指暴露亲人的过失，语出《论语??子路》中的耳父～～，而子证之”）。～夺。～窃。～善（掠人之美）。\n(2)推，排斥～斥。～除。～夷（抵御外国侵略）。\n(3)烦乱～～（纷乱）。扰～。\n(4)捋～袂。～臂。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-攘"
+}

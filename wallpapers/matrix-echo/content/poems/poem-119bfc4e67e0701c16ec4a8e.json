@@ -1,0 +1,16 @@
+{
+  "id": "poem-119bfc4e67e0701c16ec4a8e",
+  "title": "奉和幸白鹿观应制",
+  "author": "武平一",
+  "dynasty": "唐",
+  "verses": [
+    "玉府凌三曜，金坛驻六龙。",
+    "彩旒悬倒景，羽盖偃乔松。",
+    "玄圃灵芝秀，华池瑞液浓。",
+    "谬因沾舜渥，长愿奉尧封。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a6d93978-0137-4de2-ba3d-ed5fbbc61917"
+}

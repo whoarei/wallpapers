@@ -1,0 +1,16 @@
+{
+  "id": "poem-d6b138d4ea2f819bcc371ddb",
+  "title": "游春",
+  "author": "邢巨",
+  "dynasty": "唐",
+  "verses": [
+    "海岳三峰古，春皇二月寒。",
+    "绿潭渔子钓，红树美人攀。",
+    "弱蔓环沙屿，飞花点石关。",
+    "谿山游未厌，琴酌弄晴湾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-88512e94-1be0-4b4f-b65c-8f5890afd0b8"
+}

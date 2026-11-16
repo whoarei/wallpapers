@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f2f",
+  "script": "seal",
+  "character": "弯",
+  "reading": "wān",
+  "description": "折,使弯曲\n停船靠岸,停泊\n大爷吩咐急急收了口\n⒈屈曲，不直～曲。～腰。\n⒉曲折的部分～道。拐个～子。转左～儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-弯"
+}

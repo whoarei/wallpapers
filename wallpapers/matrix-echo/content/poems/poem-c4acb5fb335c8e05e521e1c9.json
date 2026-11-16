@@ -1,0 +1,16 @@
+{
+  "id": "poem-c4acb5fb335c8e05e521e1c9",
+  "title": "酒泉子·曲槛小楼",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "曲槛小楼，正是莺花二月。",
+    "思无聊，愁欲绝，郁离襟。",
+    "展屏空对潇湘水，眼前千万里。",
+    "泪掩红，眉敛翠，恨沉沉。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-17"
+}

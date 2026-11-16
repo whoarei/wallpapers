@@ -1,0 +1,16 @@
+{
+  "id": "poem-d541d9524414364c0f0102b5",
+  "title": "寿阳罢郡日有诗十首与追怀不殊今编于后兼纪瑞物",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "南山白额同驯扰，亦变仁心去杀机。",
+    "不竞牛甘令买患，免遭狐假妄凭威。",
+    "渡河岂适他邦害，据谷终无暴物非。",
+    "尔效驺虞护生草，岂徒柔伏在淮淝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-0baf4974-11e6-4c7a-82d2-b58d174cf01e"
+}

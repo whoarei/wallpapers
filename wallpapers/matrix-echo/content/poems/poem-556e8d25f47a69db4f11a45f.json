@@ -1,0 +1,16 @@
+{
+  "id": "poem-556e8d25f47a69db4f11a45f",
+  "title": "次韵柳郎中二咏  其二",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "百幅敲冰密属连，寝甘谁复诮便便。",
+    "心闲好隠忘言几，官冷宜铺坐客毡。",
+    "乌布任宽忘道韵，绛纱徒侈怯霜天。",
+    "休嗟抛掷缣绫贵，据榻犹胜枕杫眠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8df77877-da87-4aa3-bcd7-02284ecbdd96"
+}

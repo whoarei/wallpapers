@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-64b7",
+  "script": "seal",
+  "character": "撷",
+  "reading": "xié",
+  "description": "同襭”。把衣襟掖在腰带上以兜东西\n⒈摘取采～。\n⒉使用衣襟兜东西。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撷"
+}

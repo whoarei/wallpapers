@@ -1,0 +1,16 @@
+{
+  "id": "poem-910ff80e9af95987d0a93a8b",
+  "title": "旧国里",
+  "author": "卿云",
+  "dynasty": "唐",
+  "verses": [
+    "旧居梨岭下，风景近炎方。",
+    "地暖生春早，家贫觉岁长。",
+    "石房云过湿，杉径雨余香。",
+    "日夕竟无事，诗书聊自强。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-e55f3f89-6ae3-400c-8f90-5288a425c01e"
+}

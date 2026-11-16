@@ -1,0 +1,18 @@
+{
+  "id": "poem-dea6dcb392790dfbbd41f9cc",
+  "title": "古别离",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "欲别牵郎衣，问郎游何处。",
+    "不恨归日迟，莫向临邛去。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "送别",
+    "女子",
+    "情郎"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-02c52bf9-7672-44a1-a618-92b26b91fde1"
+}

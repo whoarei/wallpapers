@@ -1,0 +1,14 @@
+{
+  "id": "poem-7b263da2c2df0de5b068d030",
+  "title": "王成之太博寄诗病中未能和谩书二十字以酬",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "老病欲纳禄，君恩许奉祠。",
+    "已为三径计，误辱广文诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-4c466f19-dcea-496f-b3fc-86840642a607"
+}

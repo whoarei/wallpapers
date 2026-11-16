@@ -1,0 +1,18 @@
+{
+  "id": "poem-2d03d1483625fa3bfe96b057",
+  "title": "蓦山溪·凋红减翠",
+  "author": "曾觌",
+  "dynasty": "宋",
+  "verses": [
+    "凋红减翠，正是清秋杪。",
+    "深院袅香风，看梨花、一枝开早。",
+    "珑璁映面，依约认娇颦，天淡淡，月溶溶，春意知多少。",
+    "清明池馆，芳信年年好。",
+    "更向五侯家，把江梅、风光占了。",
+    "休教寂寞，辜负向人心，檀板响，宝杯倾，潘鬓从他老。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-375",
+  "tags": []
+}

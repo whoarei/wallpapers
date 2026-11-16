@@ -1,0 +1,20 @@
+{
+  "id": "poem-5032875040a6c604cafe3c96",
+  "title": "题池州杜员外弄水新亭",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "广厦光奇辈，恢材卓不群。",
+    "夏天平岸水，春雨近山云。",
+    "婉衍榱甍揭，端完柱石分。",
+    "孤帆惊乍驻，一叶动初闻。",
+    "晚槛余清景，凉轩启碧氛。",
+    "宾筵习主簿，诗版鲍参军。",
+    "露洒新篁滴，风含秀落叶松薰。",
+    "何劳思岘岭，虚望汉江滨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-119155b5-27ae-4d3a-9123-a9697b04bf06"
+}

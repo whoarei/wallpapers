@@ -1,0 +1,14 @@
+{
+  "id": "poem-0c72ebc9fb3f14557b82eec2",
+  "title": "六桥春望",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "美人娇醉落花钿，船载笙歌出柳边。",
+    "春满六桥调马路，香风飘趁玉丝鞭。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-02a112b3-5319-4a21-9ce8-7bd3fc527c8d"
+}

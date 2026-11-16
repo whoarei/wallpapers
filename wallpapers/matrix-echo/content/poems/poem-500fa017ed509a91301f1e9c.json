@@ -1,0 +1,16 @@
+{
+  "id": "poem-500fa017ed509a91301f1e9c",
+  "title": "菩萨蛮·陇云暗合秋天白",
+  "author": "尹鹗 六首",
+  "dynasty": "五代",
+  "verses": [
+    "陇云暗合秋天白，俯窗独坐窥烟陌。",
+    "楼际角重吹，黄昏方醉归。",
+    "荒唐难共语，明日还应去。",
+    "上马出门时，金鞭莫与伊。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-32"
+}

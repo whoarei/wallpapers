@@ -1,0 +1,16 @@
+{
+  "id": "poem-633e090f860dbe994963eb14",
+  "title": "西江月",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "香径里扳残草色，雕阑畔折损花容。",
+    "又无巧艺动王公，枉费了工夫何用？惊起娇莺语燕，打开浪蝶狂烽。",
+    "若还寻得并头红，早把你芳心引动。",
+    "(净丑)打秋千耍。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4921",
+  "tags": []
+}

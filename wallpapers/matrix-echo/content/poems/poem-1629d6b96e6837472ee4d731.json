@@ -1,0 +1,16 @@
+{
+  "id": "poem-1629d6b96e6837472ee4d731",
+  "title": "寄贯休",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "忆昔与吾师，山中静论时。",
+    "总无方是法，难得始为诗。",
+    "冻犬眠干叶，饥禽啄病梨。",
+    "他年白莲社，犹许重相期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-618ec44f-ba5c-4aa7-8ab6-1c26b7f97774"
+}

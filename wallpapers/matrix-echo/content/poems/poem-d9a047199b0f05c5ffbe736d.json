@@ -1,0 +1,14 @@
+{
+  "id": "poem-d9a047199b0f05c5ffbe736d",
+  "title": "郊庙歌辞 仪坤庙乐章 寿和",
+  "author": "徐坚",
+  "dynasty": "唐",
+  "verses": [
+    "於穆清庙，肃雍严祀。",
+    "合福受厘，介以繁[祉]。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d95c1136-9489-4d8b-a72e-22d1b0e7f1a3"
+}

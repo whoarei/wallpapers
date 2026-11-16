@@ -1,0 +1,16 @@
+{
+  "id": "poem-cf994c0a28b84574b9750bba",
+  "title": "人日侍䜩大明宫应制",
+  "author": "赵彦昭",
+  "dynasty": "唐",
+  "verses": [
+    "宝契无为属圣人，雕舆出幸玩芳辰。",
+    "平楼半入南山雾，飞合旁临东墅春。",
+    "夹路秾花千树发，垂轩弱柳万条新。",
+    "处处风光今日好，年年愿奉属车尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6f3e2276-e5f0-48e4-946e-c0febd9b9e0c"
+}

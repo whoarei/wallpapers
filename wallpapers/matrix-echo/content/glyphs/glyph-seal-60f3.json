@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-60f3",
+  "script": "seal",
+  "character": "想",
+  "reading": "xiǎng",
+  "description": "xiǎng：(1)动脑筋，思索感～。思～。～法。～象（配置组合而创造出新形象的心理过程）。～入非非。异～天开。幻～。\n(2)推测，认为～必。～见（由推想而知道）。～来（表示只是根据推测，不敢完全肯定）。～当然（凭主观推测，认为事情应该是这样）。不堪设～。\n(3)希望，打算休～。理～。～望。妄～。\n(4)怀念，惦记～念。朝思暮～。\n(5)像云～衣裳花～容。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-想"
+}

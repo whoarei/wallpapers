@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d9f",
+  "script": "kai",
+  "character": "趟",
+  "reading": "tàng；tāng",
+  "description": "tàng：(1)来往的次数走一～。\n(2)行（háng），行列两～桌子。\n〔～马〕戏曲中表演骑着马走或跑的一套程式动作。\n〔赶～儿〕ａ．赶得上，来得及，如明天早上再走也～～～”；ｂ．凑热闹，如桃树、杏树、梨树，你不让我，我不让你，都开满了花～～～”。\ntāng：(1)从浅水里走过去～水过河。\n(2)用犁、锄等把土翻开，除去杂草并给苗培土～地。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-趟"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d28",
+  "script": "kai",
+  "character": "质",
+  "reading": "zhì",
+  "description": "援疑质理\n⒉朴实～朴。\n⒊抵押，抵押品典～。人～。\n⒋问，责问～疑。～问。\n⒌评判，核对而欲～天之有无。对～。\n①物理学上指物体所含物质的量。常用单位为克、公斤等。\n②指产品或工作的优劣程度产品～量。教学～量。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-质"
+}

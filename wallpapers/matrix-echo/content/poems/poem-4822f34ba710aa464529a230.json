@@ -1,0 +1,14 @@
+{
+  "id": "poem-4822f34ba710aa464529a230",
+  "title": "柳枝·狂雪随风扑马飞",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "狂雪随风扑马飞，惹烟无力被春欺。",
+    "莫教移入灵和殿，宫女三千又妒伊。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-48"
+}

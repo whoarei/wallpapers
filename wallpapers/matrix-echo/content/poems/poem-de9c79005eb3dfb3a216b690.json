@@ -1,0 +1,16 @@
+{
+  "id": "poem-de9c79005eb3dfb3a216b690",
+  "title": "重题",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "晚日临寒渚，微风发櫂讴。",
+    "凤池波自阔，鱼水运难留。",
+    "亭古思宏栋，川长忆夜舟。",
+    "想公高世志，祗似冶城游。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b63a96f9-e226-4ef7-a0fb-6970d0f8465e"
+}

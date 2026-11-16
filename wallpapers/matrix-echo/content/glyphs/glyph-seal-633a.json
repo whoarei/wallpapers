@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-633a",
+  "script": "seal",
+  "character": "挺",
+  "reading": "tǐng",
+  "description": "tǐng：(1)笔直，突出笔～。～进。～拔。～立。～秀。～括（guā）（衣服、衣料等平整）。～劲（jìng）。\n(2)伸直，凸出～直。～起腰。\n(3)支撑～节（坚持节操）。\n(4)很～好。～香。\n(5)量词，用于挺直物一～机关枪。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-挺"
+}

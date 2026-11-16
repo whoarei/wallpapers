@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-97f3",
+  "script": "kai",
+  "character": "音",
+  "reading": "yīn",
+  "description": "yīn：(1)声，亦特指有节奏的声声～。～乐（yuè）。～律。～色。～量。～区。～韵。～像。～容（声音、容貌）。弦外之～。\n(2)信息，消息～信。佳～。～讯。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-音"
+}

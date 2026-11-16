@@ -1,0 +1,14 @@
+{
+  "id": "poem-72e6729ab07a61e5e81073c2",
+  "title": "题北村六首  其一",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "陆轴呕哑麦上场，讴歌声韵满村坊。",
+    "茅斋病叟安闲久，帝力民欢殆两忘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-4368e441-7a1a-4e10-8f2b-d90d78676e44"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-728d",
+  "script": "seal",
+  "character": "犍",
+  "reading": "jiān；qián",
+  "description": "jiān：公牛，特指骟去睾丸的公牛。\nqián：〔～为（wéi）〕地名，在中国四川省。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-犍"
+}

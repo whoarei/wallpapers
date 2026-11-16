@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7f13",
+  "script": "kai",
+  "character": "缓",
+  "reading": "huǎn",
+  "description": "慢;不急迫。与急”相对\n柔软\n⒈慢，跟\"急\"相对～慢。～步。～急轻重。～ ～来迟。\n⒉迟，推迟～期。～办。～刑。～兵之计。\n⒊宽松，平和已～和。～冲地带。\n⒋苏醒，恢复他昏过去了，刚～过来。休息一会儿，～ ～气。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缓"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-72ce",
+  "script": "seal",
+  "character": "狎",
+  "reading": "xiá",
+  "description": "xiá：(1)亲近而态度不庄重～侮。～弄。～昵。～客（嫖客）。\n(2)习惯。\n(3)更替。\n(4)拥挤车骑并～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-狎"
+}

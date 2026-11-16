@@ -1,0 +1,19 @@
+{
+  "id": "poem-3837154ee222a38377f1dec9",
+  "title": "相见欢·十年湖海扁舟",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "十年湖海扁舟。",
+    "几多愁。",
+    "白发青灯今夜、不宜秋。",
+    "中庭树。",
+    "空阶雨。",
+    "思悠悠。",
+    "寂寞一生心事、五更头。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-903",
+  "tags": []
+}

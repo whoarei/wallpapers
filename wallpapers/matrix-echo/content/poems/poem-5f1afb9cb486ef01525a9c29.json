@@ -1,0 +1,16 @@
+{
+  "id": "poem-5f1afb9cb486ef01525a9c29",
+  "title": "灞上逢故人",
+  "author": "喻坦之",
+  "dynasty": "唐",
+  "verses": [
+    "花落杏园枝，驱车问路岐。",
+    "人情谁可会，身事自堪疑。",
+    "岳雨狂雷送，溪槎涨水吹。",
+    "家山如此景，几处不相随。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2064ae72-e606-4bbb-88e8-31e61194cadc"
+}

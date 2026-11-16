@@ -1,0 +1,16 @@
+{
+  "id": "poem-c34e07c727a5684f812db98c",
+  "title": "挽傅仲温",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "人是南州老，家传北地雄。",
+    "忽骑箕尾去，不待大丹功。",
+    "华屋闲歌席，长杨惨暮风。",
+    "已符同穴契，宁复念孤桐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-b52347f9-9f61-4421-92b1-b5cb115dbc12"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5abe",
+  "script": "seal",
+  "character": "媾",
+  "reading": "gòu",
+  "description": "gòu：(1)连合，结合婚～。\n(2)交合～合。交～。\n(3)交好～和。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-媾"
+}

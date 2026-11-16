@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8bde",
+  "script": "kai",
+  "character": "诞",
+  "reading": "dàn",
+  "description": "虚妄;荒唐\n①出生～生。\n②生日～辰、华～。\n③荒唐的；不合情理的荒～、怪～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诞"
+}

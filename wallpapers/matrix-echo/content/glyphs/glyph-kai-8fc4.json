@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8fc4",
+  "script": "kai",
+  "character": "迄",
+  "reading": "qì",
+  "description": "qì：(1)到，至起～。～今。\n(2)始终（用于未”或无”前）～未成功。～无音信。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-迄"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62f3",
+  "script": "kai",
+  "character": "拳",
+  "reading": "quán",
+  "description": "quán：(1)屈指卷（juǎn）握起来的手～头（头”读轻声）。\n(2)徒手的武术～术。打～。太极～。～谱。～脚。\n(3)肢体弯曲～曲。～起腿来。\n(4)量词，用于拳头打人的动作打他几～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拳"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ecb",
+  "script": "kai",
+  "character": "介",
+  "reading": "jiè",
+  "description": "jiè：(1)在两者中间～于两者之间。～词（用在名词、代词之前，合起来表示地点、时间、方向、方式等关系的词，如从”、向”、在”、以”、对于”等）。～入。\n(2)这样，这么像煞有～事（好像真有这么回事似的，多指大模大样，好像有什么了不起）。\n(3)放在心里～意。～怀。\n(4)耿直耿～。\n(5)甲～胄。～壳。\n(6)个（用于人）一～书生。\n(7)大～圭（大玉）。\n(8)传统戏曲脚本里表示情态动作的词笑～。饮酒～。\n(9)助～寿。\n(10)姓。\n(11)古同芥”，芥菜。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-介"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-9f5f7c05af1963f8fc12d482",
+  "title": "咏史诗 巨桥",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "积粟成尘竟不开，谁知拒谏剖贤才。",
+    "武王兵起无人敌，遂作商郊一聚灰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-e202e2ce-5825-4c84-b2fd-5f7ebbb28a52"
+}

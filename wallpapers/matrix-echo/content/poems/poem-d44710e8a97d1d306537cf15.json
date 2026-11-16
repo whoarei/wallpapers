@@ -1,0 +1,14 @@
+{
+  "id": "poem-d44710e8a97d1d306537cf15",
+  "title": "偈 六",
+  "author": "契此",
+  "dynasty": "唐",
+  "verses": [
+    "由贪沦堕世波中，拾却贪嗔礼大雄。",
+    "直截凡情无所得，圆明寂照汝心宗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-6d044fd2-b910-4415-a253-1d8173ae0177"
+}

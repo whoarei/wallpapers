@@ -1,0 +1,14 @@
+{
+  "id": "poem-5bbc7a4d18591be5639b6c9d",
+  "title": "游长宁公主流杯池二十五首 十四",
+  "author": "上官昭容",
+  "dynasty": "唐",
+  "verses": [
+    "攀藤招逸客，偃桂协幽情。",
+    "水中看树影，风里听松声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-75cab210-6be6-4de7-905e-4ca56e574ac5"
+}

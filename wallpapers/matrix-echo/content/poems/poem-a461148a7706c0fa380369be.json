@@ -1,0 +1,16 @@
+{
+  "id": "poem-a461148a7706c0fa380369be",
+  "title": "题果斋集后",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "童髽及侍果斋贤，白璧沈埋二十年。",
+    "师道倦为莲幕客，诗魂蜚伴雪堂僊。",
+    "同游诸老无人在，所幸斯文有子传。",
+    "读到徐卿珠玉句，抚膺三叹愧遗编。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-dc799227-cd5c-4c73-931f-349ff31e0785"
+}

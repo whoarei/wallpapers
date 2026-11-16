@@ -1,0 +1,14 @@
+{
+  "id": "poem-619c7b1b4717aeee24cc6acb",
+  "title": "自诮",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "每到花时恨道穷，一生光景半成空。",
+    "只应抱璞非良玉，岂得年年不至公。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c8c492ce-b641-4f65-9b0d-ef79257e63f8"
+}

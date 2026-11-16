@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8671",
+  "script": "seal",
+  "character": "虱",
+  "reading": "shī",
+  "description": "虱（蝨）shī寄生在人、畜身上，吸食血液的一种昆虫。有头～。体～子、阴～子等。能传播斑疹伤寒、回归热等疾病讲卫生，爱清洁，消灭～子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-虱"
+}

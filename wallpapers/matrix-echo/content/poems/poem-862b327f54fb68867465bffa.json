@@ -1,0 +1,23 @@
+{
+  "id": "poem-862b327f54fb68867465bffa",
+  "title": "李端公",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "故关衰草遍，离别自堪悲。",
+    "路出寒云外，人归暮雪时。",
+    "少孤为客早，多难识君迟。",
+    "掩泪空相向，风尘何处期。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "冬天",
+    "友情",
+    "送别",
+    "唐诗三百首",
+    "五言律诗",
+    "伤怀"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-f4301f96-e872-4eae-aa51-0d12328059d1"
+}

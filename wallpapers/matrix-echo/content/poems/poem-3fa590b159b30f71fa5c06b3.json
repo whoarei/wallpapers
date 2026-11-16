@@ -1,0 +1,16 @@
+{
+  "id": "poem-3fa590b159b30f71fa5c06b3",
+  "title": "送客归新罗",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "君家沧海外，一别见何因。",
+    "风土虽知教，程途自致贫。",
+    "浸天波色晚，横笛鸟行春。",
+    "明发千樯下，应无更远人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-902a9264-d23b-412d-83a9-704718ac5bf5"
+}

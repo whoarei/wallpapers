@@ -1,0 +1,21 @@
+{
+  "id": "poem-284fec74e933ceaa6550a501",
+  "title": "寒食",
+  "author": "韩翃",
+  "dynasty": "唐",
+  "verses": [
+    "春城无处不飞花，寒食东风御柳斜。",
+    "日暮汉宫传蜡烛，轻烟散入五侯家。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "清明",
+    "寒食节",
+    "典故",
+    "七言绝句",
+    "讽刺"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-77ac62ee-6396-4ac0-a3ab-cb84ba2e5cd0"
+}

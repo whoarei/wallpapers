@@ -1,0 +1,15 @@
+{
+  "id": "poem-d145a8bafcb59c1ca5dfa6bf",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［净］才貌兼全，亲老家贫囊又艰，羞杀荆钗裙布，绣褥金屏，绮席华筵。",
+    "好姻缘番做恶姻缘，富亲眷强似穷亲眷。",
+    "［合前］。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8072",
+  "tags": []
+}

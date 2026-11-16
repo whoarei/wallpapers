@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5373",
+  "script": "seal",
+  "character": "即",
+  "reading": "jí",
+  "description": "jí：(1)就是知识～力量。\n(2)当时或当地～日。～刻。～席。～景。在～。～兴（xìng）。\n(3)就，便黎明～起。\n(4)假如，倘若～使。～便（biàn）。～或。～令。\n(5)靠近不～不离。\n(6)到，开始从事～位。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-即"
+}

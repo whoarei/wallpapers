@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8611",
+  "script": "kai",
+  "character": "蘑",
+  "reading": "mó",
+  "description": "mó：〔～菇〕a.食用蕈（xùn）类，如口蘑”、松蘑”等，特指口蘑”；b.借指纠缠。c.借指拖延（菇”均读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蘑"
+}

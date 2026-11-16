@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-56db",
+  "script": "kai",
+  "character": "四",
+  "reading": "sì",
+  "description": "sì：(1)数名，三加一（在钞票和单据上常用大写肆”代）～方。～边。～序（即四季”）。～体（ａ．指人的四肢；ｂ．指楷、草、隶、篆四种字体）。～库（古籍经、史、子、集四部的代称。亦称四部”）。～君子（中国画中对梅、兰、竹、菊四种花卉题材的总称）。\n(2)中国古代乐谱的记音符号，相当于简谱6”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-四"
+}

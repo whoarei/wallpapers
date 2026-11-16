@@ -1,0 +1,15 @@
+{
+  "id": "poem-2a924b6c890ead26e6e301b4",
+  "title": "隰有苌楚",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "隰有苌楚，猗傩其枝，夭之沃沃，乐子之无知。",
+    "隰有苌楚，猗傩其华，夭之沃沃。乐子之无家。",
+    "隰有苌楚，猗傩其实，夭之沃沃。乐子之无室。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-147"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-34061580b38fe92073802fdd",
+  "title": "郊庙歌辞 汉宗庙乐舞辞 章庆舞",
+  "author": "张昭",
+  "dynasty": "唐",
+  "verses": [
+    "罘罳晓唱鸡人，三牲八簋斯陈。",
+    "雾集瑶阶琐闼，香生绮席华茵。",
+    "珠佩貂珰熠爚，羽旄干戚纷纶。",
+    "酌鬯既终三献，凝旒何止千春。",
+    "阿阁长栖彩凤，郊宫叠奏祥麟。",
+    "赤伏英灵未泯，玄圭运祚重新。",
+    "玉斝牺樽潋滟，龙旗凤辖逡巡。",
+    "瞻望月游冠冕，犹疑苍野回轮。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-792ab2c6-7baf-427b-bccf-e9e58537de8e"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6e560a29e54f9a39c4b55aef",
+  "title": "春秋战国门 庄辛",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "庄辛正谏谓妖词，兵及鄢陵始悔思。",
+    "见兔必能知顾犬，亡羊补栈未为迟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2521ab0b-cd2a-4a41-8b3b-d5c157729d83"
+}

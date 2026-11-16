@@ -1,0 +1,16 @@
+{
+  "id": "poem-ccfa44d647ae6d51447f25a6",
+  "title": "送默然上人归天台",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "孤云不定心，持钵度寒林。",
+    "野饭青蒲洁，秋程黄叶深。",
+    "海风潮水发，山雨晓烟沉。",
+    "归到石桥日，应看瀑布吟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-0760ab2a-2fa9-4dde-9847-a13ad3fe1720"
+}

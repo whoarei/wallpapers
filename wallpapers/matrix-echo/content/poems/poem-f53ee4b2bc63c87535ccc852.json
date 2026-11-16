@@ -1,0 +1,16 @@
+{
+  "id": "poem-f53ee4b2bc63c87535ccc852",
+  "title": "润州水楼",
+  "author": "杨凌",
+  "dynasty": "唐",
+  "verses": [
+    "归心不可留，雪桂一丛秋。",
+    "叶雨空江月，萤飞白露洲。",
+    "野蝉依独树，水郭带孤楼。",
+    "遥望山川路，相思万里游。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-61b7672c-004e-42c9-815d-6b311e1492b6"
+}

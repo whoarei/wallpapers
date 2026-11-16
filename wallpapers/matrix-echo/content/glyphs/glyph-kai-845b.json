@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-845b",
+  "script": "kai",
+  "character": "葛",
+  "reading": "gě；gé",
+  "description": "gé：(1)多年生草本植物，茎可编篮做绳，纤维可织布，块根肥大，称葛根”，可制淀粉，亦可入药（通称葛麻”）～布。～巾（葛布做的头巾，古人不分贵贱常服）。～履。\n(2)表面有花纹的纺织品，用丝做经，棉线或麻线等做纬。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-葛"
+}

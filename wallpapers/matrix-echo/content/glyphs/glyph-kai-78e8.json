@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-78e8",
+  "script": "kai",
+  "character": "磨",
+  "reading": "mó；mò",
+  "description": "mó：(1)摩擦～刀。～墨。～练。～砺（摩擦使锐利，喻经受磨练）。～合。研～。～漆画。\n(2)阻碍，困难～难（nàn）∶事多～。\n(3)消耗，消灭～损。～耗。～灭。\n(4)拖延，耗时间～缠。～功夫。\nmò：(1)粉碎粮食的工具石～。电～。～盘。～坊（亦作磨房”）。推～。\n(2)用磨将粮食加工成所需的状态～面。～米。～豆腐。\n(3)掉转这个胡同太窄，～不过车来。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-磨"
+}

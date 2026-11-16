@@ -1,0 +1,16 @@
+{
+  "id": "poem-74a3309d97ea0078d8d82466",
+  "title": "使辽作十四首  其一三",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "王春今日是，虏历自相忘。",
+    "厌食干羊味，如闻生菜香。",
+    "陇梅浑破腊，燕雁正随阳。",
+    "时节催归兴，凭陵天际翔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-3029bb91-2092-4d62-a646-88bd81f4ebea"
+}

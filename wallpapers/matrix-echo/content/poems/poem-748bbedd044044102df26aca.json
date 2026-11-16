@@ -1,0 +1,13 @@
+{
+  "id": "poem-748bbedd044044102df26aca",
+  "title": "临江仙",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生)被打出门珠泪流，教人羞耻向谁投？哥哥因甚赶无休？在他檐下过，怎敢不低头！。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1718",
+  "tags": []
+}

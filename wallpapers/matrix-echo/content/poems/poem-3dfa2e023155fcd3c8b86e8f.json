@@ -1,0 +1,14 @@
+{
+  "id": "poem-3dfa2e023155fcd3c8b86e8f",
+  "title": "寄友人",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "风飒沈思眼忽开，尘埃污得是庸才。",
+    "那堪更见巢松鹤，飞入青云不下来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-8ae6c860-b5be-4270-ad3b-a57fcf7be7b0"
+}

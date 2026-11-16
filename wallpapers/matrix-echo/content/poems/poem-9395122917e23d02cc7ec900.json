@@ -1,0 +1,16 @@
+{
+  "id": "poem-9395122917e23d02cc7ec900",
+  "title": "清源夫人赵氏挽词  其一",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "全节忠臣配，崇宁宰相家。",
+    "哀能变国俗，贵不御铅华。",
+    "学佛穷三昧，然松教五车。",
+    "遗芳载彤管，名寿两俱遐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-f37b4ee3-8cfe-44c3-87a0-94fe1627e176"
+}

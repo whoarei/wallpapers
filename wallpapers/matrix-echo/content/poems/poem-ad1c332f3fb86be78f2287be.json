@@ -1,0 +1,16 @@
+{
+  "id": "poem-ad1c332f3fb86be78f2287be",
+  "title": "山居诗  其四○",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "遁迹无图匿姓名，万重山后葺茅亭。",
+    "随情因事搜新偈，探妙穷微阅古经。",
+    "与道交时心绝念，从缘感处物通灵。",
+    "应须长远存高节，屹屹乔松老更青。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-e13be8f5-d458-4957-8f20-bfed13df59eb"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-9c223ef8289b474c993ee2b6",
+  "title": "山居四感 吟蛩",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "月露凄清湿草根，寒蛩偏向夜深闻。",
+    "随时感气成悲怨，不是来销逐客魂。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-c8d7a875-1a4c-4747-ad67-e728adc56871"
+}

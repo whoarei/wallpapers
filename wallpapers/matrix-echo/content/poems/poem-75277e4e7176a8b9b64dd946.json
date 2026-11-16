@@ -1,0 +1,16 @@
+{
+  "id": "poem-75277e4e7176a8b9b64dd946",
+  "title": "更漏子·星渐稀",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "星渐稀，漏频转，何处轮台声怨。",
+    "香阁掩，杏花红，月明杨柳风。",
+    "挑锦字，记情事，惟愿两心相似。",
+    "收泪语，背灯眠，玉钗横枕边。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-10"
+}

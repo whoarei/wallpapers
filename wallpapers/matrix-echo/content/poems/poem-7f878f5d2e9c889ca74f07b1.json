@@ -1,0 +1,19 @@
+{
+  "id": "poem-7f878f5d2e9c889ca74f07b1",
+  "title": "送客游荆州",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "草色随骢马，悠悠共出秦。",
+    "水传云梦晓，山接洞庭春。",
+    "帆影连三峡，猨声在四隣。",
+    "青门一分首，难见杜陵人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖",
+    "送别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-1a3d9214-9963-48a6-bb04-ce3cb73e07b3"
+}

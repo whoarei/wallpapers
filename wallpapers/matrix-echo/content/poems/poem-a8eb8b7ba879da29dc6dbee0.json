@@ -1,0 +1,16 @@
+{
+  "id": "poem-a8eb8b7ba879da29dc6dbee0",
+  "title": "送李喻之处士洪州谒曹王",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "独思贤王府，遂作豫章行。",
+    "雄镇庐霍秀，高秋江汉清。",
+    "见闻惊苦节，艰故伤远情。",
+    "西邸延嘉士，遗才得正平。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-ce2d35e0-f4b0-4409-971e-f7c02826fb65"
+}

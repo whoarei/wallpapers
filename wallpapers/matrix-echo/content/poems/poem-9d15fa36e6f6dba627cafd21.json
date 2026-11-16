@@ -1,0 +1,18 @@
+{
+  "id": "poem-9d15fa36e6f6dba627cafd21",
+  "title": "钱塘江",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "凉丝疏柳条，秋满石阑桥。",
+    "吴越兴亡事，晨昏来去潮。",
+    "云开天日近，水接海山遥。",
+    "望到西陵渡，风帆影自飘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "钱塘江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-559e78ae-c2d4-43bb-bfd1-e9add8c04a40"
+}

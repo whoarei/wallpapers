@@ -1,0 +1,17 @@
+{
+  "id": "poem-2a24eaec660c1f2061f41c47",
+  "title": "盘石",
+  "author": "无名氏",
+  "dynasty": "唐",
+  "verses": [
+    "海阳泉上山，巉巉尽殊状。",
+    "忽然有平石，盘薄千峰上。",
+    "寒泉匝石流，悬注几千丈。",
+    "有时厌泉湖，爱临一长望。",
+    "意出天地间，因为逸民唱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-ad2c9baa-86e8-46d6-bed1-b67032d5c2e9"
+}

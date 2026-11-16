@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fc5",
+  "script": "seal",
+  "character": "俅",
+  "reading": "qiú",
+  "description": "qiú：〔～～〕恭顺的样子。\n〔～人〕中国少数民族独龙族的旧称。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-俅"
+}

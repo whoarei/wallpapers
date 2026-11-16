@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-68d2",
+  "script": "kai",
+  "character": "棒",
+  "reading": "bàng",
+  "description": "bàng：(1)棍子木～。～子（ａ．棍子；ｂ．玉米的别称）。～槌。～冰。～球。～喝（hè）。\n(2)体力强，能力大，成绩好，水平高功课～。身体～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-棒"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7bc6",
+  "script": "seal",
+  "character": "篆",
+  "reading": "zhuàn",
+  "description": "zhuàn：(1)汉字的一种书体大～。小～。～体。～书。\n(2)书写篆字～额。\n(3)印章多用篆文，故为官印的代称，又为对别人名字的敬称～刻。摄～。次～。台～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-篆"
+}

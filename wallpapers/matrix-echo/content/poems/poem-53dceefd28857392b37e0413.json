@@ -1,0 +1,16 @@
+{
+  "id": "poem-53dceefd28857392b37e0413",
+  "title": "赠施都正三首  其一",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "严严神仙居，不受世尘涴。",
+    "栖身白玉壶，眼净讵容唾。",
+    "主人敬爱客，马秣仆不饿。",
+    "洗心炉薰前，容了旧经课。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-52d47aeb-e046-4d70-8240-4d674cbb95c7"
+}

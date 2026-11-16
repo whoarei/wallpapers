@@ -1,0 +1,16 @@
+{
+  "id": "poem-8c8f695beae8b77b03ea4cf6",
+  "title": "喜入兰陵望紫阁峰呈宣上人",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "薙草开三径，巢林喜一枝。",
+    "地宽留种竹，泉浅欲开池。",
+    "紫阁当疎牖，青松入坏篱。",
+    "从今安僻陋，萧相是吾师。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-566b6a8b-7a12-4b35-a277-f9b4a530c908"
+}

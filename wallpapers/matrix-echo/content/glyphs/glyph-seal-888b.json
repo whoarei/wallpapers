@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-888b",
+  "script": "seal",
+  "character": "袋",
+  "reading": "dài",
+  "description": "dài：(1)用布或皮做的盛东西的器物～子。布～。衣～。口～。旅行～。\n(2)量词，用于袋装的东西和水烟、旱烟一～儿面粉。一～烟。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-袋"
+}

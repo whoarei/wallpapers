@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5348",
+  "script": "seal",
+  "character": "午",
+  "reading": "wǔ",
+  "description": "wǔ：(1)地支的第七位，属马。\n(2)用于计时～时（白天十一点到一点）。～间。～饭。～睡。～休。～夜（半夜、子夜）。\n(3)古同忤”、迕”，逆，背。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-午"
+}

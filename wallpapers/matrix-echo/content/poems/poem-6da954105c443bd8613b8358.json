@@ -1,0 +1,16 @@
+{
+  "id": "poem-6da954105c443bd8613b8358",
+  "title": "神功盛德诗  其二○",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "天命靡常，惟德惟功。",
+    "神圣有作，历数在躬。",
+    "正位东朝，遂成大宗。",
+    "协和万邦，万邦以雍。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-b6a7135b-4ae3-45ad-af76-5e6c2acbc5f7"
+}

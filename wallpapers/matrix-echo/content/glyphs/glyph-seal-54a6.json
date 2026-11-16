@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-54a6",
+  "script": "seal",
+  "character": "咦",
+  "reading": "yí",
+  "description": "yí：叹词，表示惊讶～！这是怎么回事？",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咦"
+}

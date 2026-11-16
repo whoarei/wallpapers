@@ -1,0 +1,16 @@
+{
+  "id": "poem-b7cbaf9548a5a9aa7222a89a",
+  "title": "玉台观",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "浩劫因王造，平台访古游。",
+    "彩云萧史驻，文字鲁恭留。",
+    "宫阙通群帝，乾坤到十洲。",
+    "人传有笙鹤，时过北山头。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-玉臺觀"
+}

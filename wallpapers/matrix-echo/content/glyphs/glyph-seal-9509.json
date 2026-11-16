@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9509",
+  "script": "seal",
+  "character": "锉",
+  "reading": "cuò",
+  "description": "用钢制成的磨铜、铁等表面的或竹本的满布细突起的工具\n用锉刀磨平、磨光、切断\n挫折;挫伤\n①锉刀。\n②用锉刀锉。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锉"
+}

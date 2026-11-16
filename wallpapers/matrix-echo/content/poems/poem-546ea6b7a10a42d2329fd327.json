@@ -1,0 +1,14 @@
+{
+  "id": "poem-546ea6b7a10a42d2329fd327",
+  "title": "去涟水",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "长日开闲境，春风美鼻雷。",
+    "黄䌷依旧暖，牙鼓莫相催。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-833d48e3-2a12-4b48-8d88-d466737a6231"
+}

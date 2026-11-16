@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e475c785fdc6e4b77aa087a",
+  "title": "冬夜与蔡校书宿无可上人院",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "儒释偶同宿，夜窗寒更清。",
+    "忘机于世久，晤语到天明。",
+    "月倒高松影，风旋一磬声。",
+    "真门犹是幻，不用觉浮生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-785c49d3-7be0-4b4d-a7ea-6175a4d58ea2"
+}

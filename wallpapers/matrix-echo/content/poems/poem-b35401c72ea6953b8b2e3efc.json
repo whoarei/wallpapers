@@ -1,0 +1,14 @@
+{
+  "id": "poem-b35401c72ea6953b8b2e3efc",
+  "title": "春日早朝",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "晓陌春寒朝骑来，瑞云深处见楼台。",
+    "夜来新雨沙堤湿，东上合门应未开。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ce70861d-2ec3-4224-a989-c20b98b7c2c9"
+}

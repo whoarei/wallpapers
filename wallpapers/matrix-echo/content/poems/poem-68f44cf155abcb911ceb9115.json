@@ -1,0 +1,16 @@
+{
+  "id": "poem-68f44cf155abcb911ceb9115",
+  "title": "思平泉树石杂咏一十首 海鱼骨",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "昔日任公子，期年钓此鱼。",
+    "无由见成岳，聊喜识专车。",
+    "皎皎连霜月，高高映碧渠。",
+    "陶潜虽好事，观海只披图。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b2afed80-f205-46c2-9c85-70ed40845509"
+}

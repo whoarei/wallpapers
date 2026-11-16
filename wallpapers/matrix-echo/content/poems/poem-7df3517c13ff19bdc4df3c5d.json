@@ -1,0 +1,19 @@
+{
+  "id": "poem-7df3517c13ff19bdc4df3c5d",
+  "title": "冬日游览",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "步出城东门，试骋千里目。",
+    "青山横苍林，赤日团平陆。",
+    "渭北走邯郸，关东出函谷。",
+    "秦地万方会，来朝九州牧。",
+    "鸡鸣咸阳中，冠盖相追逐。",
+    "丞相过列侯，群公饯光禄。",
+    "相如方老病，独归茂陵宿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d0e4fe3e-e066-4dfb-97d3-ec55f756c172"
+}

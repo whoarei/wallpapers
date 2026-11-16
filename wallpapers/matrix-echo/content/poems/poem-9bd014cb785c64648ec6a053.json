@@ -1,0 +1,14 @@
+{
+  "id": "poem-9bd014cb785c64648ec6a053",
+  "title": "答人问仁者安仁",
+  "author": "林光朝",
+  "dynasty": "宋",
+  "verses": [
+    "千年古道万年堤，老牯循循不解迷。",
+    "牧子不知何处在，乱山荒草鹧鸪啼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-01b29a58-a8e7-4992-817f-bb72c10d3586"
+}

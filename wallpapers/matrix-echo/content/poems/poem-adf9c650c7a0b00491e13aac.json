@@ -1,0 +1,15 @@
+{
+  "id": "poem-adf9c650c7a0b00491e13aac",
+  "title": "江儿水",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(老旦)听说罢衷肠喜只为伊，却元来不从招赘生奸计，恼恨娘行生恶意，凌逼你奸没存济。",
+    "母子虔诚遥祭来，望鉴微忱，早赐灵魂来至。",
+    "看酒来。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8272",
+  "tags": []
+}

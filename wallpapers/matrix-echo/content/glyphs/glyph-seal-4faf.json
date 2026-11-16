@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4faf",
+  "script": "seal",
+  "character": "侯",
+  "reading": "hòu；hóu",
+  "description": "hóu：(1)封建制度五等爵位的第二等～爵。～门。公～。封～。诸～。\n(2)古代用作士大夫之间的尊称。\n(3)姓。\nhòu：〔闽～〕地名，在中国福建省。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-侯"
+}

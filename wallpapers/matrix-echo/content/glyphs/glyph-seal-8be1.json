@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8be1",
+  "script": "seal",
+  "character": "诡",
+  "reading": "guǐ",
+  "description": "违反,自相矛盾\n⒈欺诈，奸滑～计。～辩。\n⒉奇异，怪异，出乎平常～谲。～殊。～秘。～异。\n⒊违反，违背～于常理。言行相～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诡"
+}

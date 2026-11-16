@@ -1,0 +1,14 @@
+{
+  "id": "poem-cc56fd847b69f4954a4082bd",
+  "title": "瀑布",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "青天隠隠响晴雷，绝顶流来不知处。",
+    "巨灵怒擘两山开，飞下玉龙归海去。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-d7da3308-565a-4c3e-b485-5621da9e0582"
+}

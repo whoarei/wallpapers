@@ -1,0 +1,19 @@
+{
+  "id": "poem-4ae796046da32ab9d6d554f8",
+  "title": "无题（伯三一九七）",
+  "author": "卢茂钦",
+  "dynasty": "唐",
+  "verses": [
+    "躺游仙院覩灵台，罗绮分明塑匠裁。",
+    "高绾绿鬟{髟/云}（云）髻重，手垂罗袖牡丹开。",
+    "（「手垂」，项目疑当作「平垂」，与「高绾」为对。",
+    "）容仪一见情难舍，玉貌重看意嬾回。",
+    "若表恳成（诚）心所志，愿将恣貌梦中来。",
+    "（「恣」，蒋、项皆云当作「姿」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-e7e4d2f0-31ec-4781-8a6c-1708f7fe618a"
+}

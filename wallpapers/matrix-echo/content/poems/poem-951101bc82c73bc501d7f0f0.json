@@ -1,0 +1,14 @@
+{
+  "id": "poem-951101bc82c73bc501d7f0f0",
+  "title": "扶病春亭",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "强梳稀发著纶巾，舍杖空行试病身。",
+    "花间自欲裴回立，穉子牵衣不许人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-96827e11-bc6c-4705-b95c-64c46f9f1ea8"
+}

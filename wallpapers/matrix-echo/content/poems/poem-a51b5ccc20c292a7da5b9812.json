@@ -1,0 +1,20 @@
+{
+  "id": "poem-a51b5ccc20c292a7da5b9812",
+  "title": "贡院图",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "陈君少年登甲科，红莲首泛清源波。",
+    "清源贡宇高嵳峩，同僚宣力陈君多。",
+    "鞭朴不施成不日，首夏上梁秋半毕。",
+    "一点灵台轮奂飞，十幅生绡画图出。",
+    "苍苍嘉木森千株，新堤步步穿芙蕖。",
+    "移下蟾宫古丹桂，飞来海上真蓬壶。",
+    "他年君来作地主，记得亲曾视斤斧。",
+    "雁过山中寄我书，要知多少新龙虎。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-61c7ec0d-55d3-4d48-9d82-2ac590b62ba4"
+}

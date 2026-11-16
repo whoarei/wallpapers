@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9b41",
+  "script": "kai",
+  "character": "魁",
+  "reading": "kuí",
+  "description": "kuí：(1)为首的，居第一位的～首。～星（ａ．北斗星中第一星，又第一星至第四星的总称；ｂ．中国神话中所说的主宰文章兴衰的神）。～元。罪～祸首。夺～。\n(2)高大身～力壮。～梧。～伟。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-魁"
+}

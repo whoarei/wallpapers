@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e89",
+  "script": "kai",
+  "character": "争",
+  "reading": "zhēng",
+  "description": "zhēng：(1)力求获得，互不相让～夺。竞～。～长论短。\n(2)力求实现～取。～气。～胜。\n(3)方言，差，欠总数还～多少？\n(4)怎么，如何（多见于诗、词、曲）～不。～知。～奈。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-争"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-0602848e9bac4b240820ada5",
+  "title": "忆江西幷悼亡友",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "前心奈兵阻，悔作豫章分。",
+    "芳草未归日，故人多是坟。",
+    "帆行出岫雨，马践过江云。",
+    "此地一罇酒，当时皆以文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ff2789f2-da3b-47e1-803b-a1f9840a5516"
+}

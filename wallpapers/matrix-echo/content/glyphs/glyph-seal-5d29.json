@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5d29",
+  "script": "seal",
+  "character": "崩",
+  "reading": "bēng",
+  "description": "bēng：(1)倒塌～塌。～坍。～毁。～解（jiě）。～溃。～决。～颓。分～离析。\n(2)破裂～裂。把气球吹～了。\n(3)崩裂的东西击中放爆竹～了手。\n(4)败坏礼坏乐（yuè）～。\n(5)称枪毙拉出去～了。\n(6)君主时代称帝王死驾～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-崩"
+}

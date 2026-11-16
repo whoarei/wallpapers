@@ -1,0 +1,16 @@
+{
+  "id": "poem-9ac0f08a6464cba4d503fae4",
+  "title": "古栢",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "手植知何代，年齐偃盖松。",
+    "结根生别树，吹子落邻峰。",
+    "古干经龙嗅，高烟过雁冲。",
+    "可佳繁叶尽，声不碍秋钟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8582267f-f885-4180-9db3-5eb53f5eeb68"
+}

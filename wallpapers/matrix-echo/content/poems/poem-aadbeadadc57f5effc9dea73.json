@@ -1,0 +1,14 @@
+{
+  "id": "poem-aadbeadadc57f5effc9dea73",
+  "title": "汉宫词",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "汉室长陵小市东，珠帘绣户对春风。",
+    "君王昨日移仙仗，玉辇将迎入汉中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-03aceab2-1bbe-4c0f-850b-b98d3760e35a"
+}

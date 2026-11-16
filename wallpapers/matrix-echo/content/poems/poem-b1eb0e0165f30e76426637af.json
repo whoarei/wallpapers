@@ -1,0 +1,14 @@
+{
+  "id": "poem-b1eb0e0165f30e76426637af",
+  "title": "括浙江潮候",
+  "author": "释赞宁",
+  "dynasty": "宋",
+  "verses": [
+    "午未未未申，申卯卯辰辰。",
+    "巳巳巳午午，朔望一般轮。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-b8498238-27a7-4743-9212-67c2f19db29b"
+}

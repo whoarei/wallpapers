@@ -1,0 +1,14 @@
+{
+  "id": "poem-6d33cf72d165c6bbb01b0d61",
+  "title": "贞元八年十二月谒先主庙绝句三首 三",
+  "author": "张俨",
+  "dynasty": "唐",
+  "verses": [
+    "雄名垂竹帛，荒陵压阡陌。",
+    "终古更何闻，悲风入松栢。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1bf291c4-1fe4-4a1c-93e9-638a3330c7d6"
+}

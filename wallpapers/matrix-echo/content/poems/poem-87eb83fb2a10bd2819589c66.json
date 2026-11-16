@@ -1,0 +1,19 @@
+{
+  "id": "poem-87eb83fb2a10bd2819589c66",
+  "title": "听弹琴",
+  "author": "刘长卿",
+  "dynasty": "唐",
+  "verses": [
+    "泠泠七丝上，静听松风寒。",
+    "古调虽自爱，今人多不弹。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "抒情",
+    "音乐",
+    "五言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-72aab9ef-65a9-4a8a-b36b-61932c09ce85"
+}

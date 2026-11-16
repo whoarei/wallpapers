@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5fd9",
+  "script": "kai",
+  "character": "忙",
+  "reading": "máng",
+  "description": "máng：(1)事情多，没空闲～乱。～活。～碌。手～脚乱。\n(2)急迫，急速地做～于（忙着做某方面的事情）。不慌不～。\n(3)旧时田赋分期征收称分忙”，有上～”、下～”之称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-忙"
+}

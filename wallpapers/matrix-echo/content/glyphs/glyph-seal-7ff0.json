@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ff0",
+  "script": "seal",
+  "character": "翰",
+  "reading": "hàn",
+  "description": "hàn：(1)长而坚硬的羽毛理翩振～。\n(2)借指毛笔和文字、书信等～苑。～墨（笔墨，借指诗文书画）。～藻。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-翰"
+}

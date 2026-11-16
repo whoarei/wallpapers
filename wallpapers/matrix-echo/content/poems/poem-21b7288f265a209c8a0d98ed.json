@@ -1,0 +1,20 @@
+{
+  "id": "poem-21b7288f265a209c8a0d98ed",
+  "title": "阮郎归·西城北渚旧追随",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "西城北渚旧追随。",
+    "荒台今是非。",
+    "白苹无主绿蒲迷。",
+    "停舟忆旧时。",
+    "双鸭戏，乱鸥飞。",
+    "人家烟雨西。",
+    "不成携手折芳菲。",
+    "兰绕惆怅归。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-196",
+  "tags": []
+}

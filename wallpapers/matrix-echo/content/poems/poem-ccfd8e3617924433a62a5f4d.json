@@ -1,0 +1,18 @@
+{
+  "id": "poem-ccfd8e3617924433a62a5f4d",
+  "title": "玉楼春·华堂夜宴连清晓",
+  "author": "吴文英",
+  "dynasty": "宋",
+  "verses": [
+    "华堂夜宴连清晓。",
+    "醉里笙歌云窈袅。",
+    "酿来千日酒初尝，过却重阳秋更好。",
+    "阿儿早晚成名了。",
+    "玉树阶前春满抱。",
+    "天边金镜不须磨，长与妆楼悬晚照。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-454",
+  "tags": []
+}

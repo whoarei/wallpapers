@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9a7f",
+  "script": "seal",
+  "character": "驿",
+  "reading": "yì",
+  "description": "即孟子置郵,所谓遽也。\n馹为传车,驿为马骑。\n驿站",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-驿"
+}

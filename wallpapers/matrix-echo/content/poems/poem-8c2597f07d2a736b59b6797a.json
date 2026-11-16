@@ -1,0 +1,16 @@
+{
+  "id": "poem-8c2597f07d2a736b59b6797a",
+  "title": "赠吏部孙员外济",
+  "author": "张谔",
+  "dynasty": "唐",
+  "verses": [
+    "天子爱贤才，星郎入拜来。",
+    "明光朝半下，建礼直初回。",
+    "名带含香发，文随绮幕开。",
+    "披云自有镜，从此照仙台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-b9b88e5e-5909-4b37-9c3d-8a5c3641f396"
+}

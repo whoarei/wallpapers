@@ -1,0 +1,16 @@
+{
+  "id": "poem-af45c7317a7fcfd5795fe607",
+  "title": "中秋",
+  "author": "李朴",
+  "dynasty": "宋",
+  "verses": [
+    "皓魄当空宝镜升，云间仙籁寂无声。",
+    "平分秋色一轮满，长伴云衢千里明。",
+    "狡兔空从弦外落，妖蟆休向眼前生。",
+    "灵槎拟约同携手，更待银河澈底清。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-中秋"
+}

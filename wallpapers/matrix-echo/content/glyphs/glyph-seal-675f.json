@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-675f",
+  "script": "seal",
+  "character": "束",
+  "reading": "shù",
+  "description": "shù：(1)捆住，系～缚。～装（整理行装）。～发（fà）。～之高阁。～手无策。\n(2)量词，用于捆在一起的东西～修（十条干肉，原指学生送给老师的礼物，后指给老师的报酬）。\n(3)聚集成一条的东西光～。电子～。\n(4)控制，限制～身。无拘无～。\n(5)事情的结末收～。结～。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-束"
+}

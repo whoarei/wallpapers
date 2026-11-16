@@ -1,0 +1,16 @@
+{
+  "id": "poem-60f8d1cf8b89cc7a252ce2ab",
+  "title": "陆川道中偶成",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "峤南江北本来同，往返纷纷一梦中。",
+    "旧事销磨那复有，新愁缭绕亦成空。",
+    "天边山色浮浓翠，溪上云光拂淡红。",
+    "我把浮生如梦看，云山元是小屏风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-1c3330c0-dd1c-48fc-a26d-4b28b0ed50a9"
+}

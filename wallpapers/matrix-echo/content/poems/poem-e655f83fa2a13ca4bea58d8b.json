@@ -1,0 +1,16 @@
+{
+  "id": "poem-e655f83fa2a13ca4bea58d8b",
+  "title": "送友人使夷陵",
+  "author": "崔翘",
+  "dynasty": "唐",
+  "verses": [
+    "猨鸣三峡里，行客旧沾裳。",
+    "复道从兹去，思君不暂忘。",
+    "开襟春叶短，分手夏条长。",
+    "独有幽庭桂，年年空自芳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-72c5f082-92d4-4edf-9578-6b0d9188f80c"
+}

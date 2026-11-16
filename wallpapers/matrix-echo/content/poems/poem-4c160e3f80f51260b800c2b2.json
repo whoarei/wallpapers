@@ -1,0 +1,16 @@
+{
+  "id": "poem-4c160e3f80f51260b800c2b2",
+  "title": "送毛伯温",
+  "author": "明世宗",
+  "dynasty": "明",
+  "verses": [
+    "大将南征胆气豪，腰横秋水雁翎刀。",
+    "风吹鼍鼓山河动，电闪旌旗日月高。",
+    "天上麒麟原有种，穴中蝼蚁岂能逃。",
+    "太平待诏归来日，朕与先生解战袍。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-送毛伯溫"
+}

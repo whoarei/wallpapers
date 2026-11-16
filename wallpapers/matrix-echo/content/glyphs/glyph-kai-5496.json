@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5496",
+  "script": "kai",
+  "character": "咖",
+  "reading": "kā；gā",
+  "description": "kā：〔～啡〕常绿灌木或小乔木，产在热带，叶长卵形，花白色，果实红色，种子可制饮料。\ngā：〔～喱〕用胡椒、姜黄、香椒等的粉末做成的调味品。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咖"
+}

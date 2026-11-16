@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-91ce",
+  "script": "kai",
+  "character": "野",
+  "reading": "yě",
+  "description": "yě：(1)郊外，村外～外。～景。～游。～趣。～餐。～战。四～。郊～。\n(2)界限，范围分～。视～。\n(3)指不当政的地位，与朝（cháo）”相对朝～。下～。在～。～史。\n(4)不讲情理，没有礼貌～蛮。粗～。\n(5)巨大而非分的欲望～心。\n(6)不受约束心玩儿～了。\n(7)不是人工驯养或栽培的（动物或植物）～生。～兽。～味。～花。～菜。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-野"
+}

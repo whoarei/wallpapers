@@ -1,0 +1,17 @@
+{
+  "id": "poem-622761d591761fe6580f0770",
+  "title": "小院",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "小院无经过，虚庭窈深幽。",
+    "高堂昼晴永，朱箔上银钩。",
+    "文砌桐花落，碧瓦烟光流。",
+    "交疏静丹绮，飞梁架青虬。",
+    "流鶑自𪾢睆，好音暂迟留。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-fd60aa29-2812-4d05-8e79-89932c82c5c6"
+}

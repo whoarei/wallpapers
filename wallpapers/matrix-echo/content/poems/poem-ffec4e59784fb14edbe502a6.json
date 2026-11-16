@@ -1,0 +1,14 @@
+{
+  "id": "poem-ffec4e59784fb14edbe502a6",
+  "title": "十二咏 菖蒲涧",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "寸根九节结孤芳，青剑凌波日日长。",
+    "幸有仙方辨真赝，医师休更进菖阳。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-26cc93a0-a783-466e-8545-9c2db23ab27e"
+}

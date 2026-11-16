@@ -1,0 +1,14 @@
+{
+  "id": "poem-4b576723e88b2b3ff87e8173",
+  "title": "雨霁登北岸寄友人",
+  "author": "卢殷",
+  "dynasty": "唐",
+  "verses": [
+    "稻黄扑扑黍油油，野树连山涧自流。",
+    "忆得年时冯翊部，谢郎相引上楼头。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-9cca0a6d-cc6b-4465-846b-5e3b4ff39470"
+}

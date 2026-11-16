@@ -1,0 +1,16 @@
+{
+  "id": "poem-a0fdb44c76e00381bafe9032",
+  "title": "句",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "昔见漳滨卧，言将人事违。",
+    "今逢庆诞日，犹谓学仙归。",
+    "棠棣花重发，鸰原鸟再飞。",
+    "德比代云布，心如晋水清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-63e5f845-6aac-4453-9bc0-23b81643aebd"
+}

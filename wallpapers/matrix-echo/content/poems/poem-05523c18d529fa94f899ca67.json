@@ -1,0 +1,19 @@
+{
+  "id": "poem-05523c18d529fa94f899ca67",
+  "title": "瑶池",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "瑶池阿母绮窗开，黄竹歌声动地哀。",
+    "八骏日行三万里，穆王何事不重来。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "神话",
+    "讽刺"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-2161a569-6250-4886-9500-2168821b62be"
+}

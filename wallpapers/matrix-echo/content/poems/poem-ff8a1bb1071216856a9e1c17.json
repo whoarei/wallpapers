@@ -1,0 +1,16 @@
+{
+  "id": "poem-ff8a1bb1071216856a9e1c17",
+  "title": "望巫山",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "溪叠云深转谷迟，暝投孤店草虫悲。",
+    "愁连远水波涛夜，梦断空山雨雹时。",
+    "边海故园荒后买，入关玄髪夜来衰。",
+    "东归未必胜羁旅，况是东归未有期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-9079d2a2-4ca7-440f-90c0-fbb73330e997"
+}

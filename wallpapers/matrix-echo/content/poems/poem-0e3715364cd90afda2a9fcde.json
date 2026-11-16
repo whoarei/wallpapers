@@ -1,0 +1,14 @@
+{
+  "id": "poem-0e3715364cd90afda2a9fcde",
+  "title": "从宴桃花园咏桃花应制",
+  "author": "赵彦伯",
+  "dynasty": "唐",
+  "verses": [
+    "红萼竞燃春苑曙，䒠茸新吐御筵开。",
+    "长年愿奉西王䜩，近侍惭无东朔才。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ab6b9019-8e9e-4c78-9b41-8870ad5c9d30"
+}

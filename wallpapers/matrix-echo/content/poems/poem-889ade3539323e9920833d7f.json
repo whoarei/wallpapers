@@ -1,0 +1,14 @@
+{
+  "id": "poem-889ade3539323e9920833d7f",
+  "title": "客亭对月",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "游子离魂陇上花，风飘浪卷遶天涯。",
+    "一年十二度圆月，十一回圆不在家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ad66e2cd-4bd3-4ca9-ac5b-4b6b69892d50"
+}

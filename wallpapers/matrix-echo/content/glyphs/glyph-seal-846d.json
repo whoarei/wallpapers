@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-846d",
+  "script": "seal",
+  "character": "葭",
+  "reading": "jiā",
+  "description": "jiā：(1)初生的芦苇～芦。～莩（ａ．芦苇中的薄膜；ｂ．喻关系疏远的亲戚，如～～之亲”）。\n(2)古同笳”，一种乐器。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-葭"
+}

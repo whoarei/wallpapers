@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-641e",
+  "script": "kai",
+  "character": "搞",
+  "reading": "gǎo",
+  "description": "gǎo：做，弄，干，办～好。～通。～鬼。～小动作。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-搞"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-535d6f526860b8abb69391bb",
+  "title": "六叹 二",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "深院梧桐夹金井，上有辘轳青丝索。",
+    "美人清昼汲寒泉，寒泉欲上银缾落。",
+    "迢迢碧甃千余尺，竟日倚阑空叹息。",
+    "惆怅不来照明镜，却掩洞房抱寂寂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-3724d7b6-b2a4-4325-9adb-ab513afbed22"
+}

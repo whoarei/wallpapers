@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-67e2",
+  "script": "seal",
+  "character": "柢",
+  "reading": "dǐ",
+  "description": "dǐ：树木的根；引申为基础根深～固。他的英文很有根～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-柢"
+}

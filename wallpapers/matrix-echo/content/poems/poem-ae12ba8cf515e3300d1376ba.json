@@ -1,0 +1,19 @@
+{
+  "id": "poem-ae12ba8cf515e3300d1376ba",
+  "title": "题南岳山七言（直在江南）",
+  "author": "李存勗",
+  "dynasty": "唐",
+  "verses": [
+    "融峰绝顶九霄边，独立孤峦势近天。",
+    "北眺洞庭千里浪，南观石{石禀}万坡烟。",
+    "云藏碧涧泉声远，僧迫金乌耳伴喧。",
+    "唯有此山侵上界，姮娥吹瑟古松前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山",
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-a34be74a-6063-454f-85e1-61826724f40b"
+}

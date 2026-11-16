@@ -1,0 +1,14 @@
+{
+  "id": "poem-95908584995fa64b7106c8a7",
+  "title": "洋州三十景 菡萏亭",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "夏绿分照水，秋香仍满地。",
+    "吴宫谁教战，一一尽妖媚。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-a81214f8-d984-4fce-9140-08f1c6e890f6"
+}

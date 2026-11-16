@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-60b2",
+  "script": "seal",
+  "character": "悲",
+  "reading": "bēi",
+  "description": "bēi：(1)伤心，哀痛～哀。～伤。～怆。～痛。～切。～惨。～凉。～愤。～凄。～恸。～吟。～壮。～观。～剧。乐极生～。\n(2)怜悯～天悯人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-悲"
+}

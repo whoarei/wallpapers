@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-51b7",
+  "script": "seal",
+  "character": "冷",
+  "reading": "lěng",
+  "description": "lěng：(1)温度低，与热”相对～天。～藏。～冻。～涩。～飕飕。\n(2)寂静，不热闹～落。～寂。～静。～清。\n(3)生僻，少见的～僻。～字。\n(4)不热情，不温和～遇。～淡。～峻。～漠。～嘲热讽。～若冰霜。～酷无情。\n(5)不受欢迎的，没有人过问的～货。～门儿。\n(6)突然，意料以外的～然。～不防。～枪。～战。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-冷"
+}

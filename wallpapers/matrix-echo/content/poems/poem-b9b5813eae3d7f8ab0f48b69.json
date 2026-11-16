@@ -1,0 +1,18 @@
+{
+  "id": "poem-b9b5813eae3d7f8ab0f48b69",
+  "title": "题终南山隐者居",
+  "author": "姚鹄",
+  "dynasty": "唐",
+  "verses": [
+    "开门绝壑旁，蹑藓过花梁。",
+    "路入峰峦影，风来芝术香。",
+    "夜吟明雪牖，春梦闭云房。",
+    "尽室更何有，一琴兼一觞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "终南山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-77e275cf-2879-446f-92a4-4a57e69f819a"
+}

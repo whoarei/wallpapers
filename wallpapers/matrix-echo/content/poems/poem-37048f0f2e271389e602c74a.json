@@ -1,0 +1,14 @@
+{
+  "id": "poem-37048f0f2e271389e602c74a",
+  "title": "宫词  其一三",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "仙籞梅开淡淡春，夜来微雨渗轻尘。",
+    "风和日暖难凋落，不怕倚楼吹笛人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-d3d71fd6-1d25-4569-951f-98da29b1dfa7"
+}

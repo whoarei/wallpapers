@@ -1,0 +1,14 @@
+{
+  "id": "poem-34c1b457974c64036d67fea0",
+  "title": "读贾太傅传  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "诸老先生总未言，一言中的已先闻。",
+    "守成天子恭沉默，不妬多功重少文。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-6bd58be6-69ab-456f-8227-d1c010a45571"
+}

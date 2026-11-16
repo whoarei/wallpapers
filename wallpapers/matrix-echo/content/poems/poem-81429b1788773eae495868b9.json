@@ -1,0 +1,19 @@
+{
+  "id": "poem-81429b1788773eae495868b9",
+  "title": "和渊眀拟古九首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "惊心如伤禽，衰质若凋柳。",
+    "百年能几时，处世安得久。",
+    "寤寐若有失，哀我泉下友。",
+    "平生不识面，况复衘杯酒。",
+    "知心乃如斯，此意岂可负。",
+    "管鲍贫时交，于古亦云厚。",
+    "范张久已亡，今人那复有。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-05261232-f79a-41bb-9d5c-7b800878d381"
+}

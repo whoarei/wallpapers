@@ -1,0 +1,16 @@
+{
+  "id": "poem-6c67ebda973532ccfc8eceae",
+  "title": "吊建州李员外",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "铭旌归故里，猿鸟亦凄然。",
+    "已葬桐江月，空廻建水船。",
+    "客传为郡日，僧说读书年。",
+    "恐有吟魂在，深山古木边。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e0f13058-08c4-43b1-bfd7-6208b6800009"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-501f",
+  "script": "kai",
+  "character": "借",
+  "reading": "jiè",
+  "description": "jiè：(1)暂时使用别人的财物等～用。～阅。～账。～据。～条。\n(2)暂时把财物等给别人使用～钱给人。\n(3)假托～口。～端。～故。～代。～景。～喻。～题发挥。\n(4)依靠凭～。～势。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-借"
+}

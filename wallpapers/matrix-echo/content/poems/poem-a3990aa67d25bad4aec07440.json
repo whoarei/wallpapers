@@ -1,0 +1,16 @@
+{
+  "id": "poem-a3990aa67d25bad4aec07440",
+  "title": "送窦拾遗赴朝因寄中书十七弟",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "自叹未沾黄纸诏，那堪远送赤墀人。",
+    "老为侨客偏相恋，素是诗家倍益亲。",
+    "妻儿共载无羁思，鸳鹭同行不负身。",
+    "凭尔将书通令弟，唯论华发愧头巾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-2ce226b7-ea64-4eff-8070-de1fefab65b3"
+}

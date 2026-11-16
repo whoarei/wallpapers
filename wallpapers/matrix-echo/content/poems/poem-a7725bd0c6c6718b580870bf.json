@@ -1,0 +1,14 @@
+{
+  "id": "poem-a7725bd0c6c6718b580870bf",
+  "title": "法雄寺东楼",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "汾阳旧宅今为寺，犹有当时歌舞楼。",
+    "四十年来车马绝，古槐深巷暮蝉愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-42a7ef88-90f5-4f79-abbf-bf05bd87bc9e"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-525d6e797a314ed4e8a9a63d",
+  "title": "邹律",
+  "author": "苏拯",
+  "dynasty": "唐",
+  "verses": [
+    "邹律暖燕谷，青史徒编录。",
+    "人心不变迁，空吹闲草木。",
+    "世患有三惑，尔律莫能抑。",
+    "边苦有长征，尔律莫能息。",
+    "斯术未济时，斯律亦何益。",
+    "争如至公一开口，吹起贤良霸邦国。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9e1ca461-7267-41ca-b2ef-d8bbe5df888c"
+}

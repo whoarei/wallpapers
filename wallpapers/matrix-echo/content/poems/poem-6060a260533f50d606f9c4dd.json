@@ -1,0 +1,20 @@
+{
+  "id": "poem-6060a260533f50d606f9c4dd",
+  "title": "念奴娇·断虹霁雨",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "断虹霁雨，净秋空，山染修眉新绿。",
+    "桂影扶疏，谁便道，今夕清辉不足。",
+    "万里青天，姮娥何处，驾此一轮玉。",
+    "寒光零乱，为谁遍照醽醁。",
+    "年少从我追游，晚凉幽径，绕张园森木。",
+    "共倒金荷家万里，难得尊前相属。",
+    "老子平生，江南江北，最爱临风曲。",
+    "孙郎微笑，坐来声喷霜竹。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-648",
+  "tags": []
+}

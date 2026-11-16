@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-541b",
+  "script": "seal",
+  "character": "君",
+  "reading": "jūn",
+  "description": "jūn：(1)封建时代指帝王、诸侯等～主。～子（ａ．旧指贵族、统治者及其代言人；ｂ．指品行好的人，如正人～～”）。～王。～上。国～。～权。～临。～侧。\n(2)古代的封号商～。平原～。信陵～。长安～。\n(3)对对方的尊称张～。诸～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-君"
+}

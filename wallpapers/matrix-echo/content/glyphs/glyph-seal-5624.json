@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5624",
+  "script": "seal",
+  "character": "嘤",
+  "reading": "yīng",
+  "description": "哽塞;哽咽。多含有抽泣、哭鼻子之意\n嘤鸣\n嘤鸣相召\n嘤yīng鸟叫声鸟鸣～ ～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嘤"
+}

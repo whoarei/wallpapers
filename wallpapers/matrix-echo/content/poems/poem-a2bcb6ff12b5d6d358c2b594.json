@@ -1,0 +1,15 @@
+{
+  "id": "poem-a2bcb6ff12b5d6d358c2b594",
+  "title": "驷驖",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "驷驖孔阜，六辔在手。公之媚子，从公于狩。",
+    "奉时辰牡，辰牡孔硕。公曰左之，舍拔则获。",
+    "游于北园，四马既闲。𬨎车鸾镳，载猃歇骄。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-126"
+}

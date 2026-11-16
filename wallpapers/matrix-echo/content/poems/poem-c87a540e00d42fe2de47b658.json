@@ -1,0 +1,18 @@
+{
+  "id": "poem-c87a540e00d42fe2de47b658",
+  "title": "踏莎行·衾凤犹温",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "衾凤犹温，笼鹦尚睡。",
+    "宿妆稀淡眉成字。",
+    "映花避月上行廊，珠裙折折轻垂地。",
+    "翠幕成波，新荷贴水。",
+    "纷纷烟柳低还起。",
+    "重墙绕院更重门，春风无路通深意。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-270",
+  "tags": []
+}

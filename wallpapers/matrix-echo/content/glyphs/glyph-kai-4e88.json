@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e88",
+  "script": "kai",
+  "character": "予",
+  "reading": "yǔ；yú",
+  "description": "yú：同余”，我～智自雄（自夸聪明，妄自夸大）。～取～求（原指从我这里取，从我这里求；后指任意索取）。\n夺；取；\nyǔ：给与～以。赐～。赋～。给～。生杀～夺（亦作生杀与夺”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-予"
+}

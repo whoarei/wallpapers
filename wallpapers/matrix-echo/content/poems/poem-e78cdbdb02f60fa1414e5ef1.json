@@ -1,0 +1,14 @@
+{
+  "id": "poem-e78cdbdb02f60fa1414e5ef1",
+  "title": "庾岭  其二",
+  "author": "高吉",
+  "dynasty": "宋",
+  "verses": [
+    "江水悠悠去莫追，个中造道有深机。",
+    "我来岂为观鱼说，人笑无钩钓傍矶。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-bdba8044-e45b-4cda-b281-ac3f9b3aa451"
+}

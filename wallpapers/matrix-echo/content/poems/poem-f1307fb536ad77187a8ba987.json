@@ -1,0 +1,14 @@
+{
+  "id": "poem-f1307fb536ad77187a8ba987",
+  "title": "鹭鸶",
+  "author": "无则",
+  "dynasty": "唐",
+  "verses": [
+    "白苹红蓼碧江涯，日暖双双立睡时。",
+    "愿揭金笼放归去，却随沙鹤鬬轻丝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-085b5c16-f6f9-4495-8b0c-c404dda4d477"
+}

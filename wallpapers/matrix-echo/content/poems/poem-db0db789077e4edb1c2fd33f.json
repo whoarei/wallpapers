@@ -1,0 +1,18 @@
+{
+  "id": "poem-db0db789077e4edb1c2fd33f",
+  "title": "九日侍宴应制",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "运偶千年圣，时传九日神。",
+    "尧樽列钟鼓，汉阙辟钩陈。",
+    "金箓三清降，琼筵五老巡。",
+    "始惊兰佩出，复咏柏梁新。",
+    "云鴈楼前晚，霜花酒里春。",
+    "欢娱无限极，书劒太平人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-81588847-ae7f-410b-91b7-56441ccdb81a"
+}

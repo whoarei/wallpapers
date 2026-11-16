@@ -1,0 +1,14 @@
+{
+  "id": "poem-a7778eedba5a43ce105dc86b",
+  "title": "李夫人二首 二",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "招得香魂爵少翁，九华灯烛晓还空。",
+    "汉王不及吴王乐，且与西施死处同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-411f1c67-19e7-4de2-8843-c4bb63f2ef2e"
+}

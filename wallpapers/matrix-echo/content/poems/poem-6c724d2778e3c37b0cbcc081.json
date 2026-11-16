@@ -1,0 +1,16 @@
+{
+  "id": "poem-6c724d2778e3c37b0cbcc081",
+  "title": "古柏",
+  "author": "刘望之",
+  "dynasty": "宋",
+  "verses": [
+    "草木长生亦偶然，不须闻此便谈仙。",
+    "烧枝竞说丹飞日，举世宁知手种年。",
+    "双鹤不归秋自冷，万牛回首句空传。",
+    "相逢一饮清阴下，与子前生定有缘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-00721e15-6e6e-4b2f-9e2c-407f0cb6c972"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51f9",
+  "script": "kai",
+  "character": "凹",
+  "reading": "āo；wā",
+  "description": "āo：周围高，中间低，与凸”相对～凸不平。～透镜。～版印刷（印刷术之一，与凸版印刷”相反）。\n凸；\nwā：同洼”（用于地名）核桃～（在中国山西省）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-凹"
+}

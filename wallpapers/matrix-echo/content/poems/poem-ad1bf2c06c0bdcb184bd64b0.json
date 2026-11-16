@@ -1,0 +1,16 @@
+{
+  "id": "poem-ad1bf2c06c0bdcb184bd64b0",
+  "title": "忆平泉杂咏 忆初暖",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "今日初春暖，山中事若何。",
+    "雪开喧鸟至，澌散跃鱼多。",
+    "幽翠生松栝，轻烟起薜萝。",
+    "柴扉常昼掩，惟有野人过。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-691e9ad8-895a-4613-95f9-a006846938e6"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-55afe4b3816bf5b599b77645",
+  "title": "连州吟 一",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "春风朝夕起，吹绿日日深。",
+    "试为连州吟，泪下不可禁。",
+    "连山何连连，连天碧岑岑。",
+    "哀猿哭花死，子规裂客心。",
+    "兰芷结新佩，潇湘遗旧音。",
+    "怨声能翦弦，坐抚零落琴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-12bda257-d0ec-425b-ae82-044bc5bd5252"
+}

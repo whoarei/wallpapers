@@ -1,0 +1,14 @@
+{
+  "id": "poem-9e4b97237523d7389b88b76c",
+  "title": "青山",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "一园松竹冷阴森，犹得桓公叹可临。",
+    "却叵刘琨看左传，玉壶徒缺误雄心。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-461a89e9-a21c-4809-98e3-42620ec64dd4"
+}

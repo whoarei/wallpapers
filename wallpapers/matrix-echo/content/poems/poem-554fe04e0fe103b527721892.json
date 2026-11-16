@@ -1,0 +1,14 @@
+{
+  "id": "poem-554fe04e0fe103b527721892",
+  "title": "题武陵洞五首 五",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "渡水傍山寻绝壁，白云飞处洞天开。",
+    "仙人来往无行迹，石迳春风长绿苔。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-f3f37780-9663-48cf-9404-57f7e320d453"
+}

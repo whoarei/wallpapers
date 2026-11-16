@@ -1,0 +1,14 @@
+{
+  "id": "poem-02582c3bce69913f2cce23df",
+  "title": "葛屦",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "纠纠葛屦，可以履霜？掺掺女手，可以缝裳？要之襋之，好人服之。",
+    "好人提提，宛然左辟，佩其象揥。维是褊心，是以为刺。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-106"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-fbe9a864c926676308cdde62",
+  "title": "高僧石",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "柏根翻动一炉香，白足高僧礼梵王。",
+    "还了十方行脚债，却来山顶放圆光。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-a47090ea-7b42-439f-b9e2-9af09c001804"
+}

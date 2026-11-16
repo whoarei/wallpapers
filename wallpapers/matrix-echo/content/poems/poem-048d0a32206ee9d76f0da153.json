@@ -1,0 +1,15 @@
+{
+  "id": "poem-048d0a32206ee9d76f0da153",
+  "title": "前腔",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)奴试听君说元因，心下添忧闷。",
+    "回言三省，若到官时，先且捉亲邻，唤问凶身。",
+    "君不认，遭打讯，你怎禁？急早商量，莫待祸生。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1894",
+  "tags": []
+}

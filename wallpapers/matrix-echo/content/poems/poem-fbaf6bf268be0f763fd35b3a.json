@@ -1,0 +1,16 @@
+{
+  "id": "poem-fbaf6bf268be0f763fd35b3a",
+  "title": "郊庙歌辞 梁郊祀乐章 庆和 三",
+  "author": "赵光逢、张衮",
+  "dynasty": "唐",
+  "verses": [
+    "开九门，怀百神。",
+    "通肸蚃，接氤氲。",
+    "明粢荐，广乐陈。",
+    "奠嘉璧，燎芳薪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-c83d6fd3-b533-4f81-8274-cfc77d39ce77"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c3cec765f2d6fae4c3dcbf5e",
+  "title": "次王彦昭寄苏景谟青社园亭韵二首  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "丞掾分曹付旧规，翩翩文彩妙当时。",
+    "何人误读雌霓赋，他日真成幼妇碑。",
+    "曲水流觞如故事，平山行乐有新诗。",
+    "春来想见棠阴盛，可但诗人别后思。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-00d6e6a6-9c9f-416c-b45f-52c002dff425"
+}

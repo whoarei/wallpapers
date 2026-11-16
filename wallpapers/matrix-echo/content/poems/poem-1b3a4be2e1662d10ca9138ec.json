@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b3a4be2e1662d10ca9138ec",
+  "title": "积雨辋川庄作",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "积雨空林烟火迟，蒸藜炊黍饷东菑。",
+    "漠漠水田飞白鹭，阴阴夏木啭黄鹂。",
+    "山中习静合朝槿，松下清斋折露葵。",
+    "野老与人争席罢，海鸥何事更相疑。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-積雨輞川莊作"
+}

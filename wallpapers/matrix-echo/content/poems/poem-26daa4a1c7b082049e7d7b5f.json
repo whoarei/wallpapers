@@ -1,0 +1,16 @@
+{
+  "id": "poem-26daa4a1c7b082049e7d7b5f",
+  "title": "十月初三四雪",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "霰集三秋后，花飞十月初。",
+    "更添两度白，并作一年书。",
+    "稻疃齐生耳，麰田烂弗鉏。",
+    "寒敲君子竹，压折怕林疎。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-0922897f-4cf1-4825-936b-b3cf2ba256e9"
+}

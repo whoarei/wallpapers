@@ -1,0 +1,19 @@
+{
+  "id": "poem-8b9c7f3a4d35f7625b77cca3",
+  "title": "忆昔二首 一",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "忆昔先皇巡朔方，千乘万骑入咸阳。",
+    "阴山骄子汗血马，长驱东胡胡走藏。",
+    "邺城反复不足怪，关中小儿坏纪纲，张后不乐上为忙。",
+    "至今今上犹拨乱，劳身焦思补四方。",
+    "我昔近侍叨奉引，出兵整肃不可当。",
+    "为留猛士守未央，致使岐雍防西羌。",
+    "犬戎直来坐御床，百官跣足随天王愿见北地傅介子，老儒不用尚书郎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-5cee205e-5c59-46e5-b060-9b0916c64a3f"
+}

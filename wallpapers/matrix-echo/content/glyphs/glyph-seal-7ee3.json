@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ee3",
+  "script": "seal",
+  "character": "绣",
+  "reading": "xiù",
+  "description": "著我绣夹裙。\n朝绣夹裙。\n⒈用彩色的丝线、棉线等在布、绸等上面刺成花纹、图象、文字等刺～。～花。～图。～字。\n⒉刺绣品苏～。湘～。蜀～。绒～。〈引〉华丽，精美，漂亮花梁～柱。～羽衔花他自得。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绣"
+}

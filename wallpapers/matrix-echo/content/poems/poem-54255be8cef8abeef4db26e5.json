@@ -1,0 +1,16 @@
+{
+  "id": "poem-54255be8cef8abeef4db26e5",
+  "title": "酒泉子·花映柳条",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "花映柳条，闲向绿萍池上。",
+    "凭栏干，窥细浪，雨萧萧。",
+    "近来音信两疏索，洞房空寂寞。",
+    "掩银屏，垂翠箔，度春宵。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-22",
+  "tags": []
+}

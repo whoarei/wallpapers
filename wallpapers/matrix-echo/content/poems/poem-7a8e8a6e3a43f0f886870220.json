@@ -1,0 +1,15 @@
+{
+  "id": "poem-7a8e8a6e3a43f0f886870220",
+  "title": "蓟门行五首 五",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "黯黯长城外，日没更烟尘。",
+    "胡骑虽凭陵，汉兵不顾身。",
+    "古树满空塞，黄云愁杀人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-6145d02d-f6db-4a7e-be04-03535abd63c3"
+}

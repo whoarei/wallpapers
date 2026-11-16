@@ -1,0 +1,14 @@
+{
+  "id": "poem-1f1afddd8dc23ee4adb091fe",
+  "title": "句",
+  "author": "李侍御",
+  "dynasty": "唐",
+  "verses": [
+    "尽日不归花路晚，绿杨楼下醉如泥。",
+    "月上西陵千里阔，渔舟夜火隔沙明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-40a659c0-3ae2-4bbe-b9ab-7bb019b8a895"
+}

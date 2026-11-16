@@ -1,0 +1,14 @@
+{
+  "id": "poem-5c90b848288afa6b2fa60916",
+  "title": "株林",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "胡为乎株林？从夏南！匪适株林，从夏南！",
+    "驾我乘马，说于株野。乘我乘驹，朝食于株！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-143"
+}

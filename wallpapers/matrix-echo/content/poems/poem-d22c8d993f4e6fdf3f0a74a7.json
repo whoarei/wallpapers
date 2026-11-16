@@ -1,0 +1,18 @@
+{
+  "id": "poem-d22c8d993f4e6fdf3f0a74a7",
+  "title": "生查子·关山魂梦长",
+  "author": "晏几道",
+  "dynasty": "宋",
+  "verses": [
+    "关山魂梦长，鱼雁音尘少。",
+    "两鬓可怜青，只为相思老。",
+    "归梦碧纱窗，说与人人道。",
+    "真个别离难，不似相逢好。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-24"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-aa8555dc9b36dc322d715fe7",
+  "title": "昆明池侍宴应制",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "武帝伐昆明，穿池习五兵。",
+    "水同河汉在，馆有豫章名。",
+    "我后光天德，垂衣文教成。",
+    "黩兵非帝念，劳物岂皇情。",
+    "春仗过鲸沼，云旗出凤城。",
+    "灵鱼衔宝跃，仙女废机迎。",
+    "柳拂旌门暗，兰依帐殿生。",
+    "还如流水曲，日晚棹歌清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-aa53e079-7b40-4f59-bffd-3f6b1841afa7"
+}

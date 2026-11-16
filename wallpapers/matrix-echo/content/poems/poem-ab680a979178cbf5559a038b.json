@@ -1,0 +1,15 @@
+{
+  "id": "poem-ab680a979178cbf5559a038b",
+  "title": "梧叶儿",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "锡仗金环重，袈裟玉璧偏，两耳似垂肩。",
+    "有佛祖心间印，少如来足下莲。",
+    "心一似铁石坚，全不避山遥路远。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3390",
+  "tags": []
+}

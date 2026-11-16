@@ -1,0 +1,16 @@
+{
+  "id": "poem-b025f9e2939381251c173640",
+  "title": "题清彻上人院",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "古寺临坛久，松间别起堂。",
+    "看添浴佛水，自合读经香。",
+    "爱养无家客，多传得效方。",
+    "过斋长不出，坐卧一绳床。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a4fbbd3e-4001-421f-9a95-b300d522bada"
+}

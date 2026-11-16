@@ -1,0 +1,14 @@
+{
+  "id": "poem-eed0c4dcc1cf3aecc7f41031",
+  "title": "东门之杨",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "东门之杨，其叶牂牂。昏以为期，明星煌煌。",
+    "东门之杨，其叶肺肺。昏以为期，明星晢晢。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-139"
+}

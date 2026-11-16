@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7c27",
+  "script": "kai",
+  "character": "簧",
+  "reading": "huáng",
+  "description": "huáng：(1)乐器里用金属或其他材料制成的发声薄片～片。笙～。双～管。巧舌如～。\n(2)器物里有弹力的机件弹（tán）～。锁～。\n〔双～〕ａ．曲艺的一种；ｂ．喻一方出面，一方背后操纵的活动。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-簧"
+}

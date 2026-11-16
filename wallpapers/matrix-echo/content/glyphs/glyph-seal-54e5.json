@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-54e5",
+  "script": "seal",
+  "character": "哥",
+  "reading": "gē",
+  "description": "gē：(1)兄，同父母（或只同父，只同母）或同族同辈而年龄比自己大的男子～～。\n(2)称呼年龄跟自己差不多的男子李二～。\n(3)古同歌”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哥"
+}

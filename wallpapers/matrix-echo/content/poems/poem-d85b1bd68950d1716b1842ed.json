@@ -1,0 +1,16 @@
+{
+  "id": "poem-d85b1bd68950d1716b1842ed",
+  "title": "寄紫阁隐者",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "积翠藏一叟，常思未得游。",
+    "不知在岩下，为复在峰头。",
+    "苔上枯藤笐，泉淋破石楼。",
+    "伊余更何事，不学此翁休。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-ef62eaac-02c0-48eb-a6a1-23c45c4fe25e"
+}

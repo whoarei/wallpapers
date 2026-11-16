@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-867d",
+  "script": "kai",
+  "character": "虽",
+  "reading": "suī",
+  "description": "即使…也;纵使\n仅,只\n原本,本\n你那里休夸口,你虽是一人为害,\n⒈连词。即使，纵然～然。麻雀～小，肝胆俱全。为人民的利益而死，～死犹生。会议～短，但可解决问题。\n⒉只，仅有～有。\n虽wèi 1.兽名。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-虽"
+}

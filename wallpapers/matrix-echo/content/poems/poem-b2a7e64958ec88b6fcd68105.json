@@ -1,0 +1,16 @@
+{
+  "id": "poem-b2a7e64958ec88b6fcd68105",
+  "title": "立春日宁州行营因赋朔风吹飞雪",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "边声日夜合，朔风惊复来。",
+    "龙山不可望，千里一裴回。",
+    "捐扇破谁执，素纨轻欲裁。",
+    "非时妬桃李，自是舞阳台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-17e7a317-f30f-4f25-ac0f-d43111ce9da1"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-273c2e6be3ebfec8f1c31156",
+  "title": "过钟陵",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "龙沙江尾抱钟陵，水郭村桥晚景澄。",
+    "江对楚山千里月，郭连渔浦万家灯。",
+    "省抛双斾辞荣宠，遽落丹霄起爱憎。",
+    "惆怅旧游同草露，却思恩顾一沾膺。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1963d69d-9c2f-4385-8665-5c134cbeee92"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6392",
+  "script": "kai",
+  "character": "排",
+  "reading": "pái；pǎi",
+  "description": "pái：(1)除去，推开～出。～斥。～水。～外。～挤。～山倒海。～忧解难。\n(2)摆成行列～列。～队。～字。～印。～笔。～场。\n(3)排成的行列～头。前～。\n(4)军队的编制单位，班”的上一级。\n(5)练习演戏～戏。\n(6)竹或木平摆着编扎成的水上交通工具木～。竹～。～运。\npǎi：〔～子车〕用人力拉运东西的一种车，多用于运货。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-排"
+}

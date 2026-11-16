@@ -1,0 +1,14 @@
+{
+  "id": "poem-2a1d69ea4bed2a4355c8e4fe",
+  "title": "同李中丞洪水亭夜集",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "佳人但莫吹参差，正怜月色生酒巵。",
+    "山公取醉不关我，为爱尊前白鹭鹚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-28b7720d-a738-4d2b-b713-20e395c0de75"
+}

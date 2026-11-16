@@ -1,0 +1,21 @@
+{
+  "id": "poem-49369a1af97fac729b1c827a",
+  "title": "在岳咏蝉",
+  "author": "骆宾王",
+  "dynasty": "唐",
+  "verses": [
+    "西陆蝉声唱，南冠客思侵。",
+    "那堪玄鬓影，来对白头吟。",
+    "露重飞难进，风多响易沈。",
+    "无人信高洁，谁为表予心。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "咏物",
+    "咏物诗",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c65539db-4e2b-4ce4-a22b-563b6ef3f4f1"
+}

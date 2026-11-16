@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-54fd",
+  "script": "seal",
+  "character": "哽",
+  "reading": "gěng",
+  "description": "gěng：(1)声气阻塞～咽（yè）。～结。～塞（sè）。\n(2)食物阻塞在喉不能下咽～阻。～噎。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哽"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-6ec6138c924b5f20cd88123b",
+  "title": "生查子·近似月当怀",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "近似月当怀，远似花藏雾。",
+    "好是月明时，同醉花深处。",
+    "看花不自持，对月空相顾。",
+    "愿学月频圆，莫作花飞去。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-777",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-4db087367b253b598ba05128",
+  "title": "河南府试十二月乐词 闰月",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "帝重光，年重时。",
+    "七十二候回环推，天官玉琯灰剩飞。",
+    "今岁何长来岁迟，王母移桃献天子。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-851219e8-5993-4d52-868a-8dfe431c0ddb"
+}

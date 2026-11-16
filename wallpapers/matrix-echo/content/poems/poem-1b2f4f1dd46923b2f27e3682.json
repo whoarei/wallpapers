@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b2f4f1dd46923b2f27e3682",
+  "title": "边游",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "古镇门前去，长安路在东。",
+    "天寒明堠火，日晚裂旗风。",
+    "塞馆皆无事，儒装亦有弓。",
+    "防秋故乡卒，暂喜语音同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-22b58924-a27b-449a-b0fd-9f224646c2e5"
+}

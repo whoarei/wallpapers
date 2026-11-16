@@ -1,0 +1,14 @@
+{
+  "id": "poem-23b866ec4ceaccfcabc9dbed",
+  "title": "湖上",
+  "author": "徐元杰",
+  "dynasty": "宋",
+  "verses": [
+    "花开红树乱莺啼，草长平湖白鹭飞。",
+    "风日晴和人意好，夕阳箫鼓几船归。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-湖上"
+}

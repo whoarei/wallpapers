@@ -1,0 +1,14 @@
+{
+  "id": "poem-6a846ee5462d4df49923da56",
+  "title": "花枕",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "席上沈香枕，楼中荡子妻。",
+    "那堪一夜里，长湿两行啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-01bcddd1-4f13-4740-9e1f-d2c510188ab7"
+}

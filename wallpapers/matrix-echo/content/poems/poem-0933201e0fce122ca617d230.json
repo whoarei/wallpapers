@@ -1,0 +1,15 @@
+{
+  "id": "poem-0933201e0fce122ca617d230",
+  "title": "贺新郎",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(净、丑)夜来因吃酒，大雪中跌倒孙兄，让他落后。",
+    "拿了他靴中两锭钞，又把玉环拐走。",
+    "怎知今日跌破，我两个如蓝提水走归家，篮内何曾有？干呕气，惹场羞。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1783",
+  "tags": []
+}

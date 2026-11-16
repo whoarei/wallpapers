@@ -1,0 +1,21 @@
+{
+  "id": "poem-4744d24a28cf7afa88bd9330",
+  "title": "春泛若耶溪",
+  "author": "綦毋潜",
+  "dynasty": "唐",
+  "verses": [
+    "幽意无断绝，此去随所偶。",
+    "晚风吹行舟，花路入溪口。",
+    "际夜转西壑，隔山望南斗。",
+    "潭烟飞溶溶，林月低向后。",
+    "生事且弥漫，愿为持竿叟。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "抒情",
+    "五言古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-6290b8f0-48de-407f-be2c-629140d91f83"
+}

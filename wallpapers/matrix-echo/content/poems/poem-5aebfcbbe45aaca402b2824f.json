@@ -1,0 +1,16 @@
+{
+  "id": "poem-5aebfcbbe45aaca402b2824f",
+  "title": "诸季招客游东山置酒赋诗以病不果往次其韵",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "衰病年来百事阑，禅居环绕尽青山。",
+    "登髙选胜从君乐，隐几忘言输我闲。",
+    "一枕清风销永日，三杯浊酒发酡颜。",
+    "雀罗可设从来事，东阁常开不是悭。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-77346bf3-e449-49d3-9828-dbec343832dc"
+}

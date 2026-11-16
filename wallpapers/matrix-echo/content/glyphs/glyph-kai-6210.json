@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6210",
+  "script": "kai",
+  "character": "成",
+  "reading": "chéng",
+  "description": "chéng：(1)做好，做完～功。完～。～就。～事。～交。～立。～婚。～仁（儒家主张的成就仁德）。～人之美。玉～其事。\n(2)事物发展到一定的形态或状况～形。～性。～人。自学～才。蔚然～风。\n(3)变为长～。变～。\n(4)可以，能行～，就这么办。\n(5)称赞人能力强他办事麻利，真～。\n(6)够，达到一定数量～年累（lěi）月。\n(7)已定的，定形的～规。～俗。～见。～例。～竹在胸。\n(8)十分之一增产三～。\n(9)平定，讲和会于稷，以～宋乱”。\n(10)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-成"
+}

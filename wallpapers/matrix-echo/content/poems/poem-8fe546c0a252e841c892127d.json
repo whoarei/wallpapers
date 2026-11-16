@@ -1,0 +1,16 @@
+{
+  "id": "poem-8fe546c0a252e841c892127d",
+  "title": "次雷州",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "华夷图上看雷州，万里孤城据海陬。",
+    "萍迹飘流遽如许，骚辞拟赋畔牢愁。",
+    "沧溟浩荡烟云晓，鼓角凄悲风露秋。",
+    "莫笑炎荒地遐僻，万安更在海南头。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-d968dfb7-7b2f-4be5-be57-2fecd05d0c74"
+}

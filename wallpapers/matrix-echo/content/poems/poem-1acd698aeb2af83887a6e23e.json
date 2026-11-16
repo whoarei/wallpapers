@@ -1,0 +1,16 @@
+{
+  "id": "poem-1acd698aeb2af83887a6e23e",
+  "title": "迁村居二首 二",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "歌乐听常稀，茅亭静掩扉。",
+    "槎来垂钓次，月落问安归。",
+    "远客传烧研，幽禽看衲衣。",
+    "眼前无俗事，松雨蜀山辉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2a6939fb-2fee-4449-b77c-92a68aa8a848"
+}

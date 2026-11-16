@@ -1,0 +1,16 @@
+{
+  "id": "poem-5fbde247b9f66c083068e7df",
+  "title": "燕",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "从待衔泥溅客衣，百禽灵性比他稀。",
+    "何嫌何恨秋须去，无约无期春自归。",
+    "雕鹗不容应不怪，栋梁相庇愿相依。",
+    "吴王宫女娇相袭，合整双毛预奋飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-7e90f29e-1ec0-4b6f-b0b5-27b6fe4838d6"
+}

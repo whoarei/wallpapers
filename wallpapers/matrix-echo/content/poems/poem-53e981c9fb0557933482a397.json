@@ -1,0 +1,16 @@
+{
+  "id": "poem-53e981c9fb0557933482a397",
+  "title": "听夜泉",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "静里层层石，潺湲到鹤林。",
+    "流回出几洞，源远历千岑。",
+    "寒助空山月，清兼此夜心。",
+    "幽人听达曙，相和藓床吟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-1e51c2e4-da56-4b03-a51c-efd01ac12d4e"
+}

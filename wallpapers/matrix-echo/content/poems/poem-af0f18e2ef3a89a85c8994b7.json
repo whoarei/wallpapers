@@ -1,0 +1,16 @@
+{
+  "id": "poem-af0f18e2ef3a89a85c8994b7",
+  "title": "九华观废月池",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "曾发箫声水槛前，夜蟾寒沼两婵娟。",
+    "微波有恨终归海，明月无情却上天。",
+    "白鸟带将林外雪，绿荷枯尽渚中莲。",
+    "荣华不肯人间住，须读庄生第一篇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-6f35d619-7910-4914-82cc-1ee193b68b2e"
+}

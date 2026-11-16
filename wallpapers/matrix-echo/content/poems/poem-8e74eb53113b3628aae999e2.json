@@ -1,0 +1,16 @@
+{
+  "id": "poem-8e74eb53113b3628aae999e2",
+  "title": "清平乐·春愁南陌",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "春愁南陌，故国音书隔。",
+    "细雨霏霏梨花白，燕拂画帘金额。",
+    "尽日相望王孙，尘满衣上泪痕。",
+    "谁向桥边吹笛，驻马西望销魂。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-45"
+}

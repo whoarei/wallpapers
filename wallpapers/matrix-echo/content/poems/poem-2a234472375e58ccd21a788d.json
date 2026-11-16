@@ -1,0 +1,14 @@
+{
+  "id": "poem-2a234472375e58ccd21a788d",
+  "title": "句",
+  "author": "释可遵",
+  "dynasty": "宋",
+  "verses": [
+    "掣电引狂雷，昼天忽成暮。",
+    "万里泻银河，四簷垂瀑布。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-9e10fa40-a7bf-4a76-842f-362c0d5b4a94"
+}

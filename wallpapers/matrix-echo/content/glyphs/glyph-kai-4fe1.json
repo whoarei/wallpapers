@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4fe1",
+  "script": "kai",
+  "character": "信",
+  "reading": "xìn；shēn",
+  "description": "xìn：(1)诚实，不欺骗～用。～守。～物。～货。～誓旦旦。\n(2)不怀疑，认为可靠～任。～托。～心。～念。\n(3)崇奉～仰。～徒。\n(4)消息～息。杳无音～。\n(5)函件～件。～笺。～鸽。～访。\n(6)随便，放任～手（随手）。～步（随意走动，散步）。～笔。～意。\n(7)同芯2”。\n(8)姓。\n疑；\nshēn：(1)古同伸”，舒展开。\n(2)古同伸”，表白。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-信"
+}

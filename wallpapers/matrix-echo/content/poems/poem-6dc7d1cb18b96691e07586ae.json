@@ -1,0 +1,17 @@
+{
+  "id": "poem-6dc7d1cb18b96691e07586ae",
+  "title": "八九",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "闻钟身须侧，卧转莫前眠。",
+    "（「前」，伯三六五六卷作「缠」。",
+    "）万一无常去，免至狱门边。",
+    "（「边」，伯三六五六卷作「前」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-551dce14-03f9-4506-876f-4b6f93afdae9"
+}

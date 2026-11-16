@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e4d",
+  "script": "seal",
+  "character": "乍",
+  "reading": "zhà",
+  "description": "zhà：(1)忽然～冷～热。～暧还寒。\n(2)刚，起初新来～到。\n(3)张开，鼓起～着胆子（勉强鼓起勇气）。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-乍"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-e3e39467d8290909bcc3373c",
+  "title": "春宫曲",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "verses": [
+    "昨夜风开露井桃，未央前殿月轮高。",
+    "平阳歌舞新承宠，帘外春寒赐锦袍。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "宫怨",
+    "女子"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-d0fa1454-f337-4343-ab4a-2a42dfdf4e8f"
+}

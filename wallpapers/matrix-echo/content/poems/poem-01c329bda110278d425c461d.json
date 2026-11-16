@@ -1,0 +1,16 @@
+{
+  "id": "poem-01c329bda110278d425c461d",
+  "title": "秋思",
+  "author": "陆游",
+  "dynasty": "宋",
+  "verses": [
+    "利欲驱人万火牛，江湖浪迹一沙鸥。",
+    "日长似岁闲方觉，事大如天醉亦休。",
+    "砧杵敲残深巷月，梧桐摇落故园秋。",
+    "欲舒老眼无高处，安得元龙百尺楼。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-秋思"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-d452bf5d1d78e154d84ec989",
+  "title": "奉和圣制送张说上集贤学士赐宴",
+  "author": "李暠",
+  "dynasty": "唐",
+  "verses": [
+    "偃武尧风接，崇文汉道恢。",
+    "集贤更内殿，清选自中台。",
+    "佐命留侯业，词华博物才。",
+    "天厨千品降，御酒百壶催。",
+    "鹓鹭方成列，神仙喜暂陪。",
+    "复欣同拜首，叨此颂良哉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6c5b6a30-130d-4f9a-9e85-c3e5bc9522be"
+}

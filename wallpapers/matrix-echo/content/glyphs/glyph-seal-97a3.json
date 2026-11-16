@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-97a3",
+  "script": "seal",
+  "character": "鞣",
+  "reading": "róu",
+  "description": "róu：制造皮革时，用栲胶、鱼油等使兽皮柔软～制。～皮子。\n〔～酸〕有机化合物，淡黄色粉末，有微臭。工业上用来制墨水和鞣皮革，可入药。亦称单宁”、单宁酸”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鞣"
+}

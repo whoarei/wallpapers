@@ -1,0 +1,14 @@
+{
+  "id": "poem-71d69fceb7508d99cf3a3b28",
+  "title": "乱中偷路入故乡",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "愁看贼火起诸烽，偷得余程怅望中。",
+    "一国半为亡国烬，数城俱作古城空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2d37902f-1d76-4551-9b1a-a78ea50a0400"
+}

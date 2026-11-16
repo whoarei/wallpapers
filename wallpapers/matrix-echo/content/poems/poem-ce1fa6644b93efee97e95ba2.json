@@ -1,0 +1,17 @@
+{
+  "id": "poem-ce1fa6644b93efee97e95ba2",
+  "title": "一封书",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(末)婿百拜岳父前：自离膝下已数年。",
+    "因奸相不见怜，改调潮阳路八千。",
+    "今喜升为吉安守，遣仆相迎到任间。",
+    "匆匆的奉寸笺，仗乞尊颜照不宣。",
+    "(外)我听此书呵，。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8295",
+  "tags": []
+}

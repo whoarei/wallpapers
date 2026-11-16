@@ -1,0 +1,16 @@
+{
+  "id": "poem-f03d9103e805ce0431ab5944",
+  "title": "茂陵山行陪韦金部",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "宿雨朝来歇，空山秋气清。",
+    "盘云双鹤下，隔水一蝉鸣。",
+    "古道黄花落，平芜赤烧生。",
+    "茂陵虽有病，犹得伴君行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6805e578-f4a7-4cf3-9010-6aa77700dd2c"
+}

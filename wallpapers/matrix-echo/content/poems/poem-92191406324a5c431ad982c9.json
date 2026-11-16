@@ -1,0 +1,14 @@
+{
+  "id": "poem-92191406324a5c431ad982c9",
+  "title": "谣俗词",
+  "author": "曹操",
+  "dynasty": "汉",
+  "verses": [
+    "瓮中无斗储，发箧无尺缯。",
+    "友来从我贷，不知所以应。"
+  ],
+  "enabled": true,
+  "collection": "曹操诗集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/曹操诗集/caocao.json#record-24"
+}

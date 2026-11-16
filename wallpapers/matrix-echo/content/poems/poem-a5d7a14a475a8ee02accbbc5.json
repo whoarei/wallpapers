@@ -1,0 +1,14 @@
+{
+  "id": "poem-a5d7a14a475a8ee02accbbc5",
+  "title": "地藏塔",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "八十四级山头石，五百余年地藏坟。",
+    "风撼塔铃天半语，众人都向梦中闻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-37f62573-f188-4e53-be32-1c53537a75b8"
+}

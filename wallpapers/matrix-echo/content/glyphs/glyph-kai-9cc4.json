@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9cc4",
+  "script": "kai",
+  "character": "鳄",
+  "reading": "è",
+  "description": "鳄鱼\n钝吻鳄的俗称\n宽吻鳄的俗称\n鳄鱼扳手\n鳄鱼夹\n鳄 è一种凶猛的爬行动物。头部扁平，吻和尾很长，四肢短，体被有角质鳞。善于游泳，捕食鱼、蛙、鸟类。多产于热带或亚热带。俗称鳄鱼。\n【鳄鱼的眼泪】古代西方传说，鳄鱼一边吞食人畜，一边落泪。比喻坏人的假慈悲。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鳄"
+}

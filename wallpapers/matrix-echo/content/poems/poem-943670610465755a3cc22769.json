@@ -1,0 +1,14 @@
+{
+  "id": "poem-943670610465755a3cc22769",
+  "title": "山中酬人",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "山中日暖春鸠鸣，逐水看花任意行。",
+    "向晚归来石窗下，菖蒲叶上见题名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-042adab4-fd33-403a-81fb-9facc9416757"
+}

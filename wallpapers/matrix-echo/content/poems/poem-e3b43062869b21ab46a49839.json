@@ -1,0 +1,16 @@
+{
+  "id": "poem-e3b43062869b21ab46a49839",
+  "title": "菩萨蛮·回塘起波纹细",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "回塘起波纹细，剌桐花里门斜闭。",
+    "残日照平芜，双双飞鹧鸪。",
+    "征帆何处客，相见还相隔。",
+    "不语欲魂消，望中烟水遥。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-43"
+}

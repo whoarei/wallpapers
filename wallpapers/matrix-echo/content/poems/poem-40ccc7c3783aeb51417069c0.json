@@ -1,0 +1,16 @@
+{
+  "id": "poem-40ccc7c3783aeb51417069c0",
+  "title": "春日留别",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "春路逶迤花柳前，孤舟晚泊就人烟。",
+    "东山白云不可见，西陵江月夜娟娟。",
+    "春江夜尽潮声度，征帆遥从此中去。",
+    "越国山川看渐无，可怜愁思江南树。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-0565e377-860d-4848-abfe-ff6420c9409f"
+}

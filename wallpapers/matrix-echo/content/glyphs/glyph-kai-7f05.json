@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7f05",
+  "script": "kai",
+  "character": "缅",
+  "reading": "miǎn",
+  "description": "缅甸的简称\n遥远\n尽貌\n缅miǎn遥远～想。～怀故土。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缅"
+}

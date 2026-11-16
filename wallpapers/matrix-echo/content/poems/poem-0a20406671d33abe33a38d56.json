@@ -1,0 +1,17 @@
+{
+  "id": "poem-0a20406671d33abe33a38d56",
+  "title": "偈颂（幷序○序为南岳齐己撰） 三十九",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "万般施设不如常，又不惊人又久长。",
+    "如常恰似秋风至，无意凉人人自凉。",
+    "（又见《祖堂集》卷八）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-1b520b74-9df2-4855-a898-f4169b1c0fa9"
+}

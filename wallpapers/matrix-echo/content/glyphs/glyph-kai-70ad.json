@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-70ad",
+  "script": "kai",
+  "character": "炭",
+  "reading": "tàn",
+  "description": "tàn：(1)把木材和空气隔绝，加高热烧成的一种黑色燃料木～。～素。～笔。～画。\n(2)像炭的东西山楂～。\n(3)煤石～。焦～。泥～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-炭"
+}

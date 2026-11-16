@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-76b2",
+  "script": "seal",
+  "character": "皲",
+  "reading": "jūn",
+  "description": "手足的皮肤冻裂\n皲裂\n皲jūn皮肤因寒冷或干燥而破裂。也作\"龟\"～裂。又指物体开裂田地～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-皲"
+}

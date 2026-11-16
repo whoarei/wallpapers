@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6749",
+  "script": "kai",
+  "character": "杉",
+  "reading": "shān；shā",
+  "description": "shān：常绿乔木，树干很高很直。木材白色，质轻，有香味，可供建筑和制器具用。\nshā：义同（一）～木。～篙。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杉"
+}

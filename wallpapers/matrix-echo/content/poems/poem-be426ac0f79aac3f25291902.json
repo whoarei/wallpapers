@@ -1,0 +1,19 @@
+{
+  "id": "poem-be426ac0f79aac3f25291902",
+  "title": "题通明堂",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "世儒困墙面，窒外由蔽中。",
+    "一理有朝澈，八窗自玲珑。",
+    "公无末俗病，人识古贤风。",
+    "照物鉴绝尘，与世云行空。",
+    "似闻虚白室，略与公心同。",
+    "彼哉坏陂老，史语宁所蒙。",
+    "吾知泚笔意，千载端为公。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-b97a9a9d-ebba-4ea0-8a78-d7f080d6fade"
+}

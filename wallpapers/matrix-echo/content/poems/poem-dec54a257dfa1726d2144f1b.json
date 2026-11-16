@@ -1,0 +1,14 @@
+{
+  "id": "poem-dec54a257dfa1726d2144f1b",
+  "title": "闻春雷",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "水国春雷早，阗阗若众车。",
+    "自怜迁逐者，犹滞蛰藏余。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d2f4fe85-03f9-467c-a6f9-8d9a435fdbf2"
+}

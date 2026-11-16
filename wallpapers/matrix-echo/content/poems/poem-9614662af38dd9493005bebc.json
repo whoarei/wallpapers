@@ -1,0 +1,19 @@
+{
+  "id": "poem-9614662af38dd9493005bebc",
+  "title": "和宋之问寒食题临江驿",
+  "author": "胡皓",
+  "dynasty": "唐",
+  "verses": [
+    "闻道山阴会，仍为火忌辰。",
+    "途中甘弃日，江上苦伤春。",
+    "流水飜催泪，寒灰更伴人。",
+    "丹心终不改，白发为谁新。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "寒食节",
+    "感伤"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-0603e48a-3ed6-465a-ab42-6a89e8d198dd"
+}

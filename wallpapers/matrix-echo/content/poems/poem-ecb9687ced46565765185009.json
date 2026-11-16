@@ -1,0 +1,16 @@
+{
+  "id": "poem-ecb9687ced46565765185009",
+  "title": "洛阳春望",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "五凤楼南望洛阳，龙门回合抱苍苍。",
+    "受朝前殿云霞煗，封岳行宫草木香。",
+    "四海为家知德盛，二京有宅卜年长。",
+    "东人犹忆时巡礼，愿觐元和日月光。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1a1692c9-24e3-447f-a7e8-0e4d50eeedab"
+}

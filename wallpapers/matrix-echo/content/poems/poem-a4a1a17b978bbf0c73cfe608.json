@@ -1,0 +1,16 @@
+{
+  "id": "poem-a4a1a17b978bbf0c73cfe608",
+  "title": "好事近·今古满胸中",
+  "author": "仲并",
+  "dynasty": "宋",
+  "verses": [
+    "今古满胸中，韬略一时人杰。",
+    "高卧溪山好处，迟十年斋钺。",
+    "朱轓休傍武陵溪，梅花记曾别。",
+    "早晚殿前归侍，总周庐千列。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-185",
+  "tags": []
+}

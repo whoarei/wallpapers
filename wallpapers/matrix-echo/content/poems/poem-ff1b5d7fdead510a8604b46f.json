@@ -1,0 +1,16 @@
+{
+  "id": "poem-ff1b5d7fdead510a8604b46f",
+  "title": "赠梦英大师",
+  "author": "杨昭俭",
+  "dynasty": "宋",
+  "verses": [
+    "纪赠歌诗数百人，序师多艺各求新。",
+    "未言篆隶飞龙凤，且说风骚感鬼神。",
+    "琴有古声清耳目，鹤无凡态惹埃尘。",
+    "英公所学还如此，不错承恩近紫宸。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-d72c4c7a-0073-446b-b17c-829201177e6f"
+}

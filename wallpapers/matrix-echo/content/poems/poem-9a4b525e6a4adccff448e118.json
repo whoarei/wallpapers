@@ -1,0 +1,17 @@
+{
+  "id": "poem-9a4b525e6a4adccff448e118",
+  "title": "添撰享太庙乐章 文宗庙奏",
+  "author": "张连",
+  "dynasty": "唐",
+  "verses": [
+    "赫尔昭代，显应元亨。",
+    "祥符史牒，德振文明。",
+    "风调雨顺，海晏河清。",
+    "应延大宝，千秋化成。",
+    "（同前）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-235ee47e-f1da-4064-ae77-17b3b7f8f27e"
+}

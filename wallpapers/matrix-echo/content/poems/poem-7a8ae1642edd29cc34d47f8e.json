@@ -1,0 +1,17 @@
+{
+  "id": "poem-7a8ae1642edd29cc34d47f8e",
+  "title": "前腔换头",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "今后，方信你彻底澄清，我好没来由。",
+    "(贴白)你怎的不收拾了心下？(丑唱)想象暮云，分付东风，情到不堪回首。",
+    "(贴白)你怎不学我？(丑唱)听剖：你是蕊宫琼苑神仙，不比尘凡相诱。",
+    "(贴白)恁地，自随我习些女工便了。",
+    "(丑唱)谨随侍，窗下拈针挑绣。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4928",
+  "tags": []
+}

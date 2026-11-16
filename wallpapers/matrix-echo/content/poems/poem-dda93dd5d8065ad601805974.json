@@ -1,0 +1,16 @@
+{
+  "id": "poem-dda93dd5d8065ad601805974",
+  "title": "送谢著作之濠梁",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "谢客乘轺去，清和景物初。",
+    "淮流宜映月，濠上好观鱼。",
+    "吏事应微挠，吟情自有余。",
+    "偏州莫留滞，东观待繙书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-f98cf741-4399-496a-bf1d-468c62c195f5"
+}

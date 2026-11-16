@@ -1,0 +1,14 @@
+{
+  "id": "poem-a636377fbcfdd4cefe46653d",
+  "title": "春日会饮怀丘思同林成之作四首 次林韵",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "二月中和气序均，酒酣偏觉长精神。",
+    "之人欢会何稀阔，惆怅尊前更惜春。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-bfb3efcd-23e0-4d87-8ca3-54cac5717818"
+}

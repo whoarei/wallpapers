@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-81ed",
+  "script": "seal",
+  "character": "臭",
+  "reading": "chòu；xiù",
+  "description": "chòu：(1)不好闻的气味，与香”相对～味儿。～氧。恶～。\n(2)香气左佩刀，右备容～，烨然若神人”。\n(3)惹人厌恶的～钱。～美。～架子。～名远扬。\n(4)狠狠地～骂一通。\n(5)指子弹、炮弹坏，失效～火。\n香；\nxiù：(1)气味的总称无声无～。\n(2)同嗅”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-臭"
+}

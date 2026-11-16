@@ -1,0 +1,16 @@
+{
+  "id": "poem-5c02dd4ae022ff33ab28ba47",
+  "title": "感恩多·两条红粉泪",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "两条红粉泪，多少香闺意。",
+    "强攀桃李枝，敛愁眉。",
+    "陌上莺啼蝶舞，柳花飞。",
+    "柳花飞，愿得郎心，忆家还早归。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-6"
+}

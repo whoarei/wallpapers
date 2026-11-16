@@ -1,0 +1,16 @@
+{
+  "id": "poem-d37b3aafc8d956ee9640d466",
+  "title": "送礼部潘尚书致仕还建安",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "名遂功成累复轻，鲈鱼因起旧乡情。",
+    "履声初下金华省，帆影看离石首城。",
+    "化剑津头寻故老，同亭会上问仙卿。",
+    "冥鸿高举真难事，相送何须泪满缨。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-0c29f3cb-9cbd-49fe-90df-74be8d7a9c36"
+}

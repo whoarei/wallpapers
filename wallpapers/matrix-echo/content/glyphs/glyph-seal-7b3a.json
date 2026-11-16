@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7b3a",
+  "script": "seal",
+  "character": "笺",
+  "reading": "jiān",
+  "description": "注释的文字\n中国古代写给帝王的书信\n⒈精美的或小幅的纸张手～。便～。信～。〈引〉书信来～已阅。\n⒉注释～注。\n⒊〈古〉一种文体，写给尊贵者的书信投～求归。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-笺"
+}

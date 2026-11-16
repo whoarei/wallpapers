@@ -1,0 +1,18 @@
+{
+  "id": "poem-cbf797b81a67608ae73a86c7",
+  "title": "望江南・忆江南·临川好",
+  "author": "谢逸",
+  "dynasty": "宋",
+  "verses": [
+    "临川好，柳岸转平沙。",
+    "门外澄江丞相宅，坛前乔木列仙家。",
+    "春到满城花。",
+    "行乐处，舞袖卷轻纱。",
+    "谩摘青梅尝煮酒，旋煎白雪试新茶。",
+    "明月上檐牙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-654",
+  "tags": []
+}

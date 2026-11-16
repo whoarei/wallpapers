@@ -1,0 +1,14 @@
+{
+  "id": "poem-8413b8287804e099f25d9923",
+  "title": "留别南溪二首 一",
+  "author": "李渤",
+  "dynasty": "唐",
+  "verses": [
+    "常叹春泉去不回，我今此去更难来。",
+    "欲知别后留情处，手种岩花次第开。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-8f00a135-544d-4360-9988-a8bea3fe943a"
+}

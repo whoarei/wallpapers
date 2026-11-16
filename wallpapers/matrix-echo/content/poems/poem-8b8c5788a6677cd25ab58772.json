@@ -1,0 +1,20 @@
+{
+  "id": "poem-8b8c5788a6677cd25ab58772",
+  "title": "连州吟 三",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "朝亦连州吟，暮亦连州吟。",
+    "连州果有信，一纸万里心。",
+    "开缄白云断，明月堕衣襟。",
+    "南风嘶舜琯，苦竹动猿音。",
+    "万里愁一色，潇湘雨淫淫。",
+    "两劒忽相触，双蛟恣浮沈。",
+    "鬬水正回斡，倒流安可禁。",
+    "空愁江海信，惊浪隔相寻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-b6c96e59-7b85-441f-9dd6-eccdf167757c"
+}

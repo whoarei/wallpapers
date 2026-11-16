@@ -1,0 +1,16 @@
+{
+  "id": "poem-e94d94f688fea544a575e4d0",
+  "title": "对雨书怀走邀许十一簿公",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "东岳云峰起，溶溶满太虚。",
+    "震雷飜幕燕，骤雨落河鱼。",
+    "座对贤人酒，门听长者车。",
+    "相邀媿泥泞，骑马到阶除。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-fea6e004-d905-4fa0-9f6c-c813af7862e6"
+}

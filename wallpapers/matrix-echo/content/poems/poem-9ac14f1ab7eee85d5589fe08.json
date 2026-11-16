@@ -1,0 +1,23 @@
+{
+  "id": "poem-9ac14f1ab7eee85d5589fe08",
+  "title": "鹤冲天·黄金榜上",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "黄金榜上。",
+    "偶失龙头望。",
+    "明代暂遗贤，如何向。",
+    "未遂风云便，争不恣狂荡。",
+    "何须论得丧。",
+    "才子词人，自是白衣卿相。",
+    "烟花巷陌，依约丹青屏障。",
+    "幸有意中人，堪寻访。",
+    "且恁偎红翠，风流事、平生畅。",
+    "青春都一饷。",
+    "忍把浮名，换了浅斟低唱。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-242",
+  "tags": []
+}

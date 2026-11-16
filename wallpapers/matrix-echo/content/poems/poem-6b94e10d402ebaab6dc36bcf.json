@@ -1,0 +1,18 @@
+{
+  "id": "poem-6b94e10d402ebaab6dc36bcf",
+  "title": "酬陆少府",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "朝临淇水岸，还望卫人邑。",
+    "别意在山阿，征途背原隰。",
+    "萧萧前村口，唯见转蓬入。",
+    "水渚人去迟，霜天雁飞急。",
+    "固应不远别，所与路未及。",
+    "欲济川上舟，相思空伫立。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-cb1ed1bb-9a23-42f5-94b7-fb065fa6d411"
+}

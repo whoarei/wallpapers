@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7167",
+  "script": "seal",
+  "character": "照",
+  "reading": "zhào",
+  "description": "zhào：(1)光线射在物体上日～。～耀。～射。\n(2)对着镜子或其他反光的东西看自己或其他人物的影像～镜子。\n(3)摄影～相。拍～。\n(4)画像或相片小～。写～。\n(5)看顾～管。～顾。\n(6)按着，依着依～。遵～。～搬。～本宣科。\n(7)凭证护～。牌～。执～。\n(8)知晓心～不宣。肝胆相～。\n(9)通知，通告知～。～会。\n(10)对着，向着～壁。～敌人开枪。\n(11)查对对～。查～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-照"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-abd60ac40d9a5805d86872b8",
+  "title": "太乙宫即事  其二",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "绿阴密处著危亭，佳气葱葱王武林。",
+    "一片红尘飞不入，杜鹃啼处白云深。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-0face657-feeb-4abd-85b7-3077634d4300"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-e5fa5c8d9ab1e62d1e2a4ba7",
+  "title": "九日陪越州元相燕龟山寺",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "佳晨何处泛花游，丞相筵开水上头。",
+    "双影斾摇山雨霁，一声歌动寺云秋。",
+    "林光静带高城晚，湖色寒分半槛流。",
+    "共贺万家逢此节，可怜风物似荆州。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-d654208b-ae8d-4b62-8c21-d2b81192685f"
+}

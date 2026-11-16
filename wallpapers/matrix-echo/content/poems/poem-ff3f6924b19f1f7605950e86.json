@@ -1,0 +1,22 @@
+{
+  "id": "poem-ff3f6924b19f1f7605950e86",
+  "title": "楚江怀古三首 一",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "露气寒光集，微阳下楚丘。",
+    "猨啼洞庭树，人在木兰舟。",
+    "广泽生明月，苍山夹乱流。",
+    "云中君不降，竟夕自悲秋。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "洞庭湖",
+    "写景",
+    "五言律诗",
+    "怀古"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7456691c-636e-46d7-9093-edc778b0a7ea"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-a0927193812a6c2c68901f65",
+  "title": "郊庙歌辞 后唐宗庙乐舞辞 武成舞",
+  "author": "崔居俭、卢文纪",
+  "dynasty": "唐",
+  "verses": [
+    "艰难王业，返正皇唐。",
+    "先天再造，却日重光。",
+    "汉绍世祖，夏资少康。",
+    "功成德茂，率祀无疆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6efdeafd-8fbd-40a2-83f3-7a570f43a2e8"
+}

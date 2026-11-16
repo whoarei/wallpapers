@@ -1,0 +1,16 @@
+{
+  "id": "poem-9d0733b2735b5eff63b22013",
+  "title": "帝京篇十首 二",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "岩廊罢机务，崇文聊驻辇。",
+    "玉匣启龙图，金绳披凤篆。",
+    "韦编断仍续，缥帙舒还卷。",
+    "对此乃淹留，欹案观坟典。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-13e72581-968b-457f-b381-a3b7d95b8b7c"
+}

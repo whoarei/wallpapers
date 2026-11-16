@@ -1,0 +1,16 @@
+{
+  "id": "poem-c1d07b2cddcc1935e6da82f1",
+  "title": "八声甘州",
+  "author": "无名氏《宦门子弟错立身》",
+  "dynasty": "元",
+  "verses": [
+    "子规两三声，劝道不如归去，羁旅伤情。",
+    "花残莺老，虚度几多芳春。",
+    "家乡万里，烟水万重，奈隔断鳞鸿无处寻。",
+    "一身，似雪里杨花飞轻。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-317",
+  "tags": []
+}

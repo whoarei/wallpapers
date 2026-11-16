@@ -1,0 +1,18 @@
+{
+  "id": "poem-8f84b1e9fd3de78607edf710",
+  "title": "古歌",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "落叶流风向玉台，夜寒秋思洞房开。",
+    "水晶帘外金波下，云母窗前银汉回。",
+    "玉阶阴阴苔藓色，君王屡綦难再得。",
+    "璇闺窈窕秋夜长，绣户徘徊明月光。",
+    "燕姬彩帐芙蓉色，秦女金炉兰麝香。",
+    "北斗七星横夜半，清歌一曲断君肠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-01b06a31-10d7-448a-9207-04096ca4610a"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-25eb760466d1fdc2d323855f",
+  "title": "不了语",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "浮名世利知多少，朝市喧喧尘扰扰。",
+    "车马交驰往复来，钟鼓相催天又晓。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-400113e1-554d-4b53-9b8b-1bd1fb79f975"
+}

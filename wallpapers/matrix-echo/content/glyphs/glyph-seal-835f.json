@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-835f",
+  "script": "seal",
+  "character": "荟",
+  "reading": "huì",
+  "description": "聚集\n遮掩;隐翳\n⒈草木茂盛。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-荟"
+}

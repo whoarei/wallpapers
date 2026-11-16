@@ -1,0 +1,17 @@
+{
+  "id": "poem-ec604628b21882b7fc9c28d4",
+  "title": "古意九首 三",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "美人如游龙，被服金鸳鸯。",
+    "手把古刀尺，在彼白玉堂。",
+    "文章深掣曳，珂珮鸣丁当。",
+    "好风吹桃花，片片落银床。",
+    "何妨学羽翰，远逐朱鸟翔。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-68c2b127-eda7-498d-828e-46271de7d98f"
+}

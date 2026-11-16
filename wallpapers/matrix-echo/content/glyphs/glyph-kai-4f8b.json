@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f8b",
+  "script": "kai",
+  "character": "例",
+  "reading": "lì",
+  "description": "lì：(1)可以做依据的事物～证。～题。举～。～句。～如。\n(2)规定～外（不按规定的，和一般情况不同的）。体～。凡～。条～。破～。发凡起～。\n(3)按规定的，照成规进行的～会。～假。～行公事。\n(4)调查或统计时指合于某种条件的具有代表性的事情事～。病～。案～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-例"
+}

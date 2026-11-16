@@ -1,0 +1,17 @@
+{
+  "id": "poem-fd423aaf04e2caa7cc493533",
+  "title": "咏木槿树题武进文明府厅",
+  "author": "刘庭琦",
+  "dynasty": "唐",
+  "verses": [
+    "物情良可见，人事不胜悲。",
+    "莫恃朝荣好，君看暮落时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "咏物诗",
+    "咏物"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-476908f1-15ce-4d83-a8b8-178a866d9f39"
+}

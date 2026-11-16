@@ -1,0 +1,18 @@
+{
+  "id": "poem-68b13e4d69dd53ffea768fd0",
+  "title": "送岳州司马弟之任",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "岳阳天水外，念尔一帆过。",
+    "野墅人烟逈，山城雁影多。",
+    "有时巫峡色，终日洞庭波。",
+    "丞相今为郡，应无劳者歌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-ccd8a969-3713-4066-b890-ead4d4fb7b6e"
+}

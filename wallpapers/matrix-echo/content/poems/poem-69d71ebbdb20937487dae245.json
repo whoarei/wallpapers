@@ -1,0 +1,14 @@
+{
+  "id": "poem-69d71ebbdb20937487dae245",
+  "title": "读庄子六绝句  其三",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "养生有主卫生经，神守全时岂废形。",
+    "游刃有余刀不挫，解牛须是学庖丁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-910f9f00-96b0-42e6-9a1b-bce2f504f2d4"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-0beaf06d4f2ba7ab01c94966",
+  "title": "山居诗  其二四",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "危岭如登百尺楼，千般异景望中收。",
+    "浮生但向忙时过，万事须从静处休。",
+    "道直岂教容鬼怪，理平唯祇使魔愁。",
+    "空门莫说无知己，满目松萝是我俦。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-f11eea14-3026-41e3-a3ad-dc07b22de2cf"
+}

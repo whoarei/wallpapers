@@ -1,0 +1,16 @@
+{
+  "id": "poem-43e981ba5f295daa087c3074",
+  "title": "和主司王起",
+  "author": "孟球",
+  "dynasty": "唐",
+  "verses": [
+    "当年门下化龙成，今日余波进后生。",
+    "仙籍共知推丽藻，禁垣同得荐嘉名。",
+    "桃蹊早茂夸新萼，菊圃初开耀晚英。",
+    "谁料羽毛方出谷，许教齐和九臯鸣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-450da1d8-8fdd-473d-ad15-85b7aabfcdb2"
+}

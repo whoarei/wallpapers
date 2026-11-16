@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6b66",
+  "script": "kai",
+  "character": "武",
+  "reading": "wǔ",
+  "description": "wǔ：(1)关于军事或技击的，与文”相对～装。～器。～警。～林。～坛。～生。～旦。～丑。～净。～举。\n(2)勇猛，猛烈英～。威～。～断。～士。～夫。\n(3)半步，泛指脚步步～。踵～。行（xíng）不数～。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-武"
+}

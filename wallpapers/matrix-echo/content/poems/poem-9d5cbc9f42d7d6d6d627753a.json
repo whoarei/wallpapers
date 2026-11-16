@@ -1,0 +1,13 @@
+{
+  "id": "poem-9d5cbc9f42d7d6d6d627753a",
+  "title": "句",
+  "author": "卢秀才",
+  "dynasty": "唐",
+  "verses": [
+    "长醉金陵前殿酒，偏闻玉树后庭花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-0a3953f0-cfc3-4205-aef1-b0098d20153c"
+}

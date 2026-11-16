@@ -1,0 +1,15 @@
+{
+  "id": "poem-00ddb90203d75baf265b6a24",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "心荒步紧，想着皇恩，已到寒门。",
+    "披袍秉笏更垂绅，冠和帔，一番新。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5278",
+  "tags": []
+}

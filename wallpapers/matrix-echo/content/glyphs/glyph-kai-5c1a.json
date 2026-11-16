@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c1a",
+  "script": "kai",
+  "character": "尚",
+  "reading": "shàng",
+  "description": "shàng：(1)还（hái），仍然～小。～未。～不可知。\n(2)尊崇，注重～武。～贤（a.崇尚贤人；b.《墨子》篇名，内容阐述墨子的一种政治主张）。\n(3)社会上共同遵从的风俗、习惯等风～。时～。\n(4)矜夸，自负自～其功。\n(5)古，久远故乐之所由来者～矣，非独为一世之所造也”。\n(6)庶几，差不多～飨（希望死者来享用祭品之意）。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-尚"
+}

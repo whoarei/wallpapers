@@ -1,0 +1,14 @@
+{
+  "id": "poem-b3b121e101184c820e55bf95",
+  "title": "唐大飨拜洛乐章 归和",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "言旋云洞兮蹑烟涂，永宁中宇兮安下都。",
+    "包涵动植兮顺荣枯，长贻宝贶兮赞璇图。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-8d12c520-fd3c-4db1-ac44-f8475130ab63"
+}

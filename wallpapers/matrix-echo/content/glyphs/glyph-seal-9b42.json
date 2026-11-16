@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9b42",
+  "script": "seal",
+  "character": "魂",
+  "reading": "hún",
+  "description": "hún：(1)迷信的人指附在人体上主宰人，又可离开肉体而独立存在的实体～灵。鬼～。～不附体。\n(2)指精神或情绪～飞魄散（形容极度惊恐）。～不守舍。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-魂"
+}

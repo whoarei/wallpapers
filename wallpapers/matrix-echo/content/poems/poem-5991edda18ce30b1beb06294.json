@@ -1,0 +1,22 @@
+{
+  "id": "poem-5991edda18ce30b1beb06294",
+  "title": "杨生青花紫石砚歌",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "端州石工巧如神，踏天磨刀割紫云。",
+    "佣刓抱水含满唇，暗洒苌弘冷血痕。",
+    "纱帷昼暖墨花春，轻沤漂沫松麝薰。",
+    "干腻薄重立脚匀，数寸光秋无日昏。",
+    "圆毫促点声静新，孔砚宽顽何足云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "咏物诗",
+    "咏物",
+    "赞美",
+    "砚石"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-dadedde0-d4fd-44e4-8805-586ed3717ef7"
+}

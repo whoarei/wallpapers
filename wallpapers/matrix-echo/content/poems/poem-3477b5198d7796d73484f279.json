@@ -1,0 +1,16 @@
+{
+  "id": "poem-3477b5198d7796d73484f279",
+  "title": "所居即事六首（原注：丹阳闲居寄郑明府如范上人。） 其一",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "南下丹阳一水湾，陋居瓢饮是希颜。",
+    "来为野鸟入春郭，去作溪云归夜山。",
+    "蓬鬓已衰言必贱，竹门虽立意无关。",
+    "陶潜惠远如相爱，朝访遗民暮却还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-fbf4e269-503d-4bf9-8e21-a0958f3aa92a"
+}

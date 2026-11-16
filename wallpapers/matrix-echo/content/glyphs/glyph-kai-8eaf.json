@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8eaf",
+  "script": "kai",
+  "character": "躯",
+  "reading": "qū",
+  "description": "身孕\n躯口”的省称。宋元时代女真族和蒙古族称被俘获并强迫服劳役的汉族人为躯口”\n指生命",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-躯"
+}

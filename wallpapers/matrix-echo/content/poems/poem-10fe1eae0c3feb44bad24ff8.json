@@ -1,0 +1,19 @@
+{
+  "id": "poem-10fe1eae0c3feb44bad24ff8",
+  "title": "马诗二十三首 二十三",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "武帝爱神仙，烧金得紫烟。",
+    "廐中皆肉马，不解上青天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "寓人",
+    "马",
+    "借古讽今",
+    "写马"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-2fe1085b-c5a4-4dd5-a9e0-286066b0d923"
+}

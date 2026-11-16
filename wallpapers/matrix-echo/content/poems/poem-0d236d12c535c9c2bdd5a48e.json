@@ -1,0 +1,20 @@
+{
+  "id": "poem-0d236d12c535c9c2bdd5a48e",
+  "title": "酹江月",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "玉楼绛气，卷霞绡云浪寒光澄澈。",
+    "丹桂飘香清思爽，人在瑶台银阙。",
+    "(生)影透空帏，光窥罗帐，露冷蛩声切。",
+    "关山今夜，照人几处离别。",
+    "(净)须信离合悲欢，还如玉兔，有阴晴圆缺。",
+    "便做人生长宴会，几见冰轮皎洁？(丑)此夜明多，隔生期远，莫放金樽歇。",
+    "(合)但愿人长久，年年同赏明月。",
+    "(贴唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5152",
+  "tags": []
+}

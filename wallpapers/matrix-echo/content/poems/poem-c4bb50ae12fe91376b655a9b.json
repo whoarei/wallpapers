@@ -1,0 +1,16 @@
+{
+  "id": "poem-c4bb50ae12fe91376b655a9b",
+  "title": "村中夜归",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "风报轻寒入暮天，滞行多被酒留连。",
+    "花村无月路全黑，竹屋有灯人未眠。",
+    "云气苍茫沉远树，春心浩荡怯啼鹃。",
+    "忽晴又雨都无准，泥污吟衫亦懒湔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-649bc948-53c6-465b-8de8-017174a12e66"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e05491ce3a48f9159938d746",
+  "title": "双溪",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "二水来从翠岭头，相逢涧谷却同流。",
+    "冷光如镜清人骨，探借山间六月秋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-5f3b3102-2df7-4b19-b112-e7c816e3cbe1"
+}

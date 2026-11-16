@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-56b7",
+  "script": "kai",
+  "character": "嚷",
+  "reading": "rǎng；rāng",
+  "description": "rǎng：(1)喊叫叫～。大叫大～。\n(2)吵闹大吵大～。\nrāng：〔～～〕a.叫嚷；吵闹，如别人在午休，别大声～～。”b.声张，传扬，如这事儿别～～出去让人知道”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嚷"
+}

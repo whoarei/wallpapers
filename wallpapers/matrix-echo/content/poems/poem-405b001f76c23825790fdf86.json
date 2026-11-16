@@ -1,0 +1,18 @@
+{
+  "id": "poem-405b001f76c23825790fdf86",
+  "title": "玉树后庭花・后庭花·宝床香重春眠觉",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "宝床香重春眠觉。",
+    "魫窗难晓。",
+    "新声丽色千人，歌后庭清妙。",
+    "青骢一骑来飞鸟。",
+    "靓妆难好。",
+    "至今落日寒蟾，照台城秋草。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-387",
+  "tags": []
+}

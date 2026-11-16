@@ -1,0 +1,19 @@
+{
+  "id": "poem-311da6235aa090dc4f742365",
+  "title": "送别",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "山中相送罢，日暮掩柴扉。",
+    "春草明年绿，王孙归不归。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言绝句",
+    "送别",
+    "友情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c8a4faa6-8666-44f9-b4c9-df78d7af844d"
+}

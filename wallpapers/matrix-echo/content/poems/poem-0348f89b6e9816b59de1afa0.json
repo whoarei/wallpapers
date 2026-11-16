@@ -1,0 +1,22 @@
+{
+  "id": "poem-0348f89b6e9816b59de1afa0",
+  "title": "汲斋吟",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "我有一泓水，清明如鉴开。",
+    "妍丑自来往，曾不留纤埃。",
+    "静而涵万古，动时濡九垓。",
+    "人与我同得，是名为灵台。",
+    "胡乃忍芜秽，漂沦良可哀。",
+    "当知克己如汲井，汲去污浊清自回。",
+    "洙泗渊源初不息，河洛流派空争猜。",
+    "为学工夫孰大此，莫翻波浪惊儿孩。",
+    "昌黎修绠志徒苦，瘦岛辘轳用未该。",
+    "请观朱子方塘喻，要识源头活水来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-c7dbc68b-de61-4a3d-9797-bb63a840f6b3"
+}

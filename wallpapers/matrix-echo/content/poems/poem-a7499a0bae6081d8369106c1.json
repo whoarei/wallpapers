@@ -1,0 +1,20 @@
+{
+  "id": "poem-a7499a0bae6081d8369106c1",
+  "title": "凤栖梧・蝶恋花·惆怅留春留不住",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "惆怅留春留不住。",
+    "欲到清和，背我堂堂去。",
+    "飞絮落花和细雨。",
+    "凄凉庭院流莺度。",
+    "更被闲愁相赚误。",
+    "梦断高唐，回首桃源路。",
+    "一饷沈吟无意绪。",
+    "分明往事今何处。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-910",
+  "tags": []
+}

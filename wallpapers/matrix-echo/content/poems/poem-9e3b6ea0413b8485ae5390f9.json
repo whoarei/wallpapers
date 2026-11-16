@@ -1,0 +1,19 @@
+{
+  "id": "poem-9e3b6ea0413b8485ae5390f9",
+  "title": "清平乐·翠蛾雪柳",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "翠蛾雪柳。",
+    "鬓影春风透。",
+    "灯火千门辉绮绣。",
+    "移下一天星斗。",
+    "剩拚连夜欢游。",
+    "金波欲上迟留。",
+    "且看香梅影底，双鸾舞彻梁州。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-125",
+  "tags": []
+}

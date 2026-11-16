@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8ffd",
+  "script": "seal",
+  "character": "追",
+  "reading": "zhuī；duī",
+  "description": "zhuī：(1)赶，紧跟着～逐。～逼。～随。～光。～剿。～捕。～奔逐北。\n(2)回溯过去，补做过去的事～溯。～悼。～加。～认。\n(3)竭力探求，寻求～问。～寻。～究。～索。\n逃；\nduī：(1)雕琢～琢（雕刻）。\n(2)古代乐器钟上用以悬挂的钮眼。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-追"
+}

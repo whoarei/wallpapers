@@ -1,0 +1,14 @@
+{
+  "id": "poem-e9d9652ca1cdf4c81a9ea66c",
+  "title": "题招隐寺即戴颙旧宅",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "两崖古树千般色，一井寒泉数丈冰。",
+    "欲问前朝戴居士，野烟秋色是丘陵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-76e3723a-45f4-4321-bbe8-7c11b533870b"
+}

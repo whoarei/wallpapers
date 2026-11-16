@@ -1,0 +1,16 @@
+{
+  "id": "poem-8b9e669a50a28442dc523f28",
+  "title": "定西番·细雨晓莺春晚",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "细雨晓莺春晚。",
+    "人似玉，柳如眉，正相思。",
+    "罗幕翠帘初卷，镜中花一枝。",
+    "肠断塞门消息，雁来稀。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-28",
+  "tags": []
+}

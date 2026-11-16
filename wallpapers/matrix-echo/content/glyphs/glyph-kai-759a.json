@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-759a",
+  "script": "kai",
+  "character": "疚",
+  "reading": "jiù",
+  "description": "jiù：(1)长期生病。\n(2)忧苦，特指因自己过失而造成的心内痛苦负～。内～。愧～。歉～。内省（xǐng）不～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疚"
+}

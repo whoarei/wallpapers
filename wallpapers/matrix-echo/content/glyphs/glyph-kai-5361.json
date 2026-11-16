@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5361",
+  "script": "kai",
+  "character": "卡",
+  "reading": "kǎ；qiǎ",
+  "description": "qiǎ：(1)在交通要道设置的检查或收税的地方关～。～子。\n(2)夹东西的器具发（fà）～。领带～。\n(3)夹在中间，堵塞～壳。鱼刺～在嗓子里。\nkǎ：(1)用手的虎口紧紧按住～脖子。\n(2)把人阻挡住～住敌人的退路。\n(3)机械工程的专用工具～钳。～尺。～规。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卡"
+}

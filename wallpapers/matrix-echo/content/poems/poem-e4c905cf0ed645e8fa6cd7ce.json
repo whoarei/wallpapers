@@ -1,0 +1,14 @@
+{
+  "id": "poem-e4c905cf0ed645e8fa6cd7ce",
+  "title": "临江仙·酥胸露出白皑皑",
+  "author": "邢俊臣",
+  "dynasty": "宋",
+  "verses": [
+    "酥胸露出白皑皑。",
+    "遥知不是雪，为有暗香来。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-842",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-730de56260b4329d2afe0918",
+  "title": "送别",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "樽酒邮亭暮，云帆驿使归。",
+    "野鸥寒不起，川雨冻难飞。",
+    "吴会家移遍，轩辕梦去稀。",
+    "姓杨皆足泪，非是强沾衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d6ad68da-ff7c-4611-a38f-e49d2bace84d"
+}

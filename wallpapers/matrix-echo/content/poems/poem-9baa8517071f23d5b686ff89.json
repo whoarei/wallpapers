@@ -1,0 +1,17 @@
+{
+  "id": "poem-9baa8517071f23d5b686ff89",
+  "title": "普天乐",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(小旦上)我那哥哥。",
+    "叫得我气全无，哭得我声难语。",
+    "只教我两头来往到千百步。",
+    "兄安在？妾是何如？真个是逆旅穷途。",
+    "哥哥，须念我，念我爹娘身故，须是一蒂一瓜儿和女，怎割得断兄妹肠肚，将奴闪下在这里？进无门，退也还又无所。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2946",
+  "tags": []
+}

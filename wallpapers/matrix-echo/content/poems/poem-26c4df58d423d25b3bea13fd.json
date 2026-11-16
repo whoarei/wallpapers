@@ -1,0 +1,16 @@
+{
+  "id": "poem-26c4df58d423d25b3bea13fd",
+  "title": "三棒鼓",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(外王尚书、丑六儿引众上。",
+    "外)一鞭行色塑南京，喜得两国通和也无战争。",
+    "边疆罢征，边烽罢惊，不暂停。",
+    "(合)如今海晏河清也，重逢太平，重乐太平。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2992",
+  "tags": []
+}

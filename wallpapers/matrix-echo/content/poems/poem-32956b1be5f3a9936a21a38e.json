@@ -1,0 +1,16 @@
+{
+  "id": "poem-32956b1be5f3a9936a21a38e",
+  "title": "访友人不遇",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "出门无至友，动即到君家。",
+    "空掩一庭竹，去看何寺花。",
+    "短童应捧杖，稚女学擎茶。",
+    "吟罢留题处，苔阶日影斜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-51c51f72-e949-436f-a59b-7f8d0ddb8b8b"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-49c67b15a51cd05918395986",
+  "title": "祀雨师乐章 亚献终献",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "奠既备，献将终。",
+    "神行令，瑞飞空。",
+    "迎干德，祈岁功。",
+    "乘烟燎，俨从风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d09d1609-8bf2-4982-82e3-83cce2ef2a91"
+}

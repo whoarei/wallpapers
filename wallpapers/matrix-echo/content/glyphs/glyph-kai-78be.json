@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-78be",
+  "script": "kai",
+  "character": "碾",
+  "reading": "niǎn",
+  "description": "niǎn：(1)把东西轧碎或压平的器具～子。石～。汽～。\n(2)轧～米。～坊（亦作碾房”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-碾"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e03b1cd0dd4f390c77cc0ff1",
+  "title": "宛陵望月寄沈学士",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "一川如画敬亭东，待诏闲游处处同。",
+    "天竺山前镜湖畔，何如今日庾楼中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-a3e20bc3-b48a-4439-8c12-da9489021df5"
+}

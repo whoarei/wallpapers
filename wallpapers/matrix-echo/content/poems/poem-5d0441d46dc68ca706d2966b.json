@@ -1,0 +1,14 @@
+{
+  "id": "poem-5d0441d46dc68ca706d2966b",
+  "title": "浣溪沙·江馆清秋缆客船",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "江馆清秋缆客船，故人相送夜开筵，麝烟兰焰簇花钿。",
+    "正是断魂迷楚雨，不堪离恨咽湘弦，月高霜白水连天。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-31"
+}

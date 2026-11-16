@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5782",
+  "script": "seal",
+  "character": "垂",
+  "reading": "chuí",
+  "description": "chuí：(1)东西一头挂下～杨柳。～钓。～直。～线。～手（ａ．表示容易；ｂ．表示恭敬）。～泪。～髫（头发下垂，指儿童）。～头丧气。\n(2)敬辞，用于别人（多是长辈或上级）对自己的行动～爱。～怜。～询。\n(3)传下去，传留后世～范。永～不朽。\n(4)接近，快要～危。～老。～成。功败～成。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-垂"
+}

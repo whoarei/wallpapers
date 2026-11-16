@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f11",
+  "script": "seal",
+  "character": "休",
+  "reading": "xiū；xù",
+  "description": "xiū：(1)歇息～整。～假。～闲。离～。\n(2)停止～业。\n(3)完结（多指失败或死亡）。\n(4)旧指丈夫把妻子赶回母家，断绝夫妻关系～妻。\n(5)不要～想。～提。\n(6)吉庆，美善，福禄～咎（吉凶）。\n(7)助词，用于语末，与罢”、了”等用法相当归～。\n(8)辞去官职～官。\n戚；\nxù：古同煦”，温暖。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-休"
+}

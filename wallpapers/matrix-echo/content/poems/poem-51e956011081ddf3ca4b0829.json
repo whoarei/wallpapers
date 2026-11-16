@@ -1,0 +1,14 @@
+{
+  "id": "poem-51e956011081ddf3ca4b0829",
+  "title": "古瑟怨",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "破瑟悲秋已减弦，湘灵沈怨不知年。",
+    "感君拂拭遗音在，更奏新声明月天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-699800d5-6ce3-4f34-8f68-78b6c32f7202"
+}

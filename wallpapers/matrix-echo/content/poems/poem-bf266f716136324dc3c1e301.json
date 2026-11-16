@@ -1,0 +1,16 @@
+{
+  "id": "poem-bf266f716136324dc3c1e301",
+  "title": "菩萨蛮·罗裾薄薄秋波染",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "罗裾薄薄秋波染，眉间画时山两点。",
+    "相见绮筵时，深情暗共知。",
+    "翠翘云鬓动，敛态弹金凤。",
+    "宴罢入兰房，邀入解佩珰。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-48"
+}

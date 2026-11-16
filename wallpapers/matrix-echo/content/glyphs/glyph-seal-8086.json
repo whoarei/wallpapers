@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8086",
+  "script": "seal",
+  "character": "肆",
+  "reading": "sì",
+  "description": "sì：(1)放纵，任意行事～口。～虐。～意。放～。～无忌惮。\n(2)尽，极～力（尽力）。～目。～勤。\n(3)陈列，陈设～筵。\n(4)古代指人处死刑后暴尸示众～诸市朝。\n(5)店铺市～。茶坊酒～。\n(6)四”的大写。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肆"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-d08ff5bfca776c3641beaf9d",
+  "title": "女曰鸡鸣",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "女曰鸡鸣，士曰昧旦。子兴视夜，明星有烂。将翱将翔，弋凫与雁。",
+    "弋言加之，与子宜之。宜言饮酒，与子偕老。琴瑟在御，莫不静好。",
+    "知子之来之，杂佩以赠之。知子之顺之，杂佩以问之。知子之好之，杂佩以报之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-81"
+}

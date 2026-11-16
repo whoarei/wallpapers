@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-64ad",
+  "script": "kai",
+  "character": "播",
+  "reading": "bō",
+  "description": "bō：(1)撒种～种（zhǒng）。～种（zhòng）（用撒布种子的方式种植）。～撒。夏～。春～。\n(2)传扬，传布广～。传～。～音。～发。～弄。～扬（a.宣扬，传扬；b.发动）。～放。～映。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-播"
+}

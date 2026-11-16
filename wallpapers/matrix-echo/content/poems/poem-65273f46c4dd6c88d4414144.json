@@ -1,0 +1,16 @@
+{
+  "id": "poem-65273f46c4dd6c88d4414144",
+  "title": "唐明堂乐章 登歌",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "礼崇宗祀，志表严禋。",
+    "笙镛合奏，文物惟新。",
+    "敬遵茂典，敢择良辰。",
+    "絜诚斯著，奠谒方申。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e50e0711-540a-4496-a911-8118d2cb7250"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7faf",
+  "script": "seal",
+  "character": "羯",
+  "reading": "jié",
+  "description": "jié：(1)公羊，特指骟过的～羊。摩～。\n(2)中国古代北方的民族，匈奴的一个分支～族。～鼓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-羯"
+}

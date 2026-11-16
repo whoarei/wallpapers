@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9526",
+  "script": "kai",
+  "character": "锦",
+  "reading": "jǐn",
+  "description": "古指锦袍\n旧时书信中的敬词\n⒈带有彩色花纹的丝织品蜀～。～旗。～标。～绣。～缎。\n⒉色彩鲜艳华丽～霞。～羽。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锦"
+}

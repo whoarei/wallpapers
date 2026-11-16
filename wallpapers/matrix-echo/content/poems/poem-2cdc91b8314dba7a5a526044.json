@@ -1,0 +1,16 @@
+{
+  "id": "poem-2cdc91b8314dba7a5a526044",
+  "title": "人日剪彩",
+  "author": "徐延寿",
+  "dynasty": "唐",
+  "verses": [
+    "闺妇持刀坐，自怜裁剪新。",
+    "叶催情缀色，花寄手成春。",
+    "帖燕留妆户，黏鸡待饷人。",
+    "擎来问夫壻，何处不如真。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-8d7bd64d-8899-4188-80fe-58b3a0063af2"
+}

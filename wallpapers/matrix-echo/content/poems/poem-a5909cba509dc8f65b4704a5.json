@@ -1,0 +1,20 @@
+{
+  "id": "poem-a5909cba509dc8f65b4704a5",
+  "title": "送王牧往吉州谒王使君叔",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "细草绿汀洲，王孙耐薄游。",
+    "年华初冠带，文体旧弓裘。",
+    "野渡花争发，春塘水乱流。",
+    "使君怜小阮，应念倚门愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "送别",
+    "春天",
+    "惜别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c03ba182-6545-4ebb-8758-ecb1989b981b"
+}

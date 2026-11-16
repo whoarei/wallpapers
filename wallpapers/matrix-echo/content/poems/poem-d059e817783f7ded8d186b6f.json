@@ -1,0 +1,13 @@
+{
+  "id": "poem-d059e817783f7ded8d186b6f",
+  "title": "宝鼎儿",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "小门深巷里，春到芳草，人闲清昼。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4911",
+  "tags": []
+}

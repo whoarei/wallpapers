@@ -1,0 +1,18 @@
+{
+  "id": "poem-e2826afbde87e475d609c4bb",
+  "title": "游子吟",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "女羞夫壻薄，客耻主人贱。",
+    "遭遇同众流，低回媿相见。",
+    "君非青铜镜，何事空照面。",
+    "莫以衣上尘，不谓心如练。",
+    "人生当荣盛，待士勿言倦。",
+    "君看白日驰，何异弦上箭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-c50617c3-db50-4e02-a04f-c875072e9a89"
+}

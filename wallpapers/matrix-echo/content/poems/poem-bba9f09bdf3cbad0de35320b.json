@@ -1,0 +1,16 @@
+{
+  "id": "poem-bba9f09bdf3cbad0de35320b",
+  "title": "淮上逢故人",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "故园离乱后，十载始逢君。",
+    "长恨南熏奏，寻常只自闻。",
+    "荒窗秋见岳，赤地夜生云。",
+    "莫叹谋身晚，中兴正用文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3ec8c54b-2eda-48f6-b177-99b116d27b07"
+}

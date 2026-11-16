@@ -1,0 +1,14 @@
+{
+  "id": "poem-06f45ba1bae2698c9fbaa68a",
+  "title": "寄王侍御",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "爱君紫阁峰前好，新作书堂药灶成。",
+    "见欲移居相近住，有田多与种黄精。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-afb264e3-d77f-4320-8a74-99504f66893a"
+}

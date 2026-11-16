@@ -1,0 +1,14 @@
+{
+  "id": "poem-5d0c5022bb150e0c215f5996",
+  "title": "杨柳枝·根柢虽然傍浊河",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "根柢虽然傍浊河，无妨终日近笙歌。",
+    "骖骖金带谁堪比，还共黄莺不较多。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-43"
+}

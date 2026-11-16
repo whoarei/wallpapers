@@ -1,0 +1,14 @@
+{
+  "id": "poem-7936e5be08273e164528f3bc",
+  "title": "村居即事",
+  "author": "范成大",
+  "dynasty": "宋",
+  "verses": [
+    "绿遍山原白满川，子规声里雨如烟。",
+    "乡村四月闲人少，才了蚕桑又插田。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-村居即事"
+}

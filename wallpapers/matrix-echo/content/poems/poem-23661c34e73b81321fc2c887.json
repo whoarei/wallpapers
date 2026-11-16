@@ -1,0 +1,22 @@
+{
+  "id": "poem-23661c34e73b81321fc2c887",
+  "title": "江南行",
+  "author": "许昼",
+  "dynasty": "唐",
+  "verses": [
+    "江南萧洒地，本自与君宜。",
+    "固节还同我，虚心欲待谁。",
+    "涧泉傍借响，山木共含滋。",
+    "粉腻虫难篆，丛疎鸟易窥。",
+    "尽应逢野渡，中忽见村祠。",
+    "叶扫秋空静，根横古堑危。",
+    "影迷寒霭里，声出夜风时。",
+    "客棹深深过，人家远远移。",
+    "游边曾结念，到此数题诗。",
+    "莫恨成龙晚，成龙会有期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-15a8ebcd-bd40-495a-8d32-f2a4730d64e5"
+}

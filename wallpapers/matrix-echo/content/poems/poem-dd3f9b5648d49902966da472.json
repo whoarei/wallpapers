@@ -1,0 +1,22 @@
+{
+  "id": "poem-dd3f9b5648d49902966da472",
+  "title": "园人送瓜",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "江间虽炎瘴，瓜熟亦不早。",
+    "柏公镇夔国，滞务兹一埽。",
+    "食新先战士，共少及溪老。",
+    "倾筐蒲鸽青，满眼颜色好。",
+    "竹竿接嵌窦，引注来鸟道。",
+    "沈浮乱水玉，爱惜如芝草。",
+    "落刃嚼冰霜，开怀慰枯槁。",
+    "许以秋蔕除，仍看小童抱。",
+    "东陵迹芜绝，楚汉休征讨。",
+    "园人非故侯，种此何草草。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-15c01eb1-1eb8-4d68-b25e-ae244c049afc"
+}

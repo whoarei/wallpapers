@@ -1,0 +1,14 @@
+{
+  "id": "poem-fc0bd47e87a139c929e44ec9",
+  "title": "题十三弟竹园",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "绕屋扶疎耸翠茎，苔滋粉漾有幽情。",
+    "丹阳万户春光静，独自君家秋雨声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ab5d3922-f997-44f7-8cc7-72b017e320f8"
+}

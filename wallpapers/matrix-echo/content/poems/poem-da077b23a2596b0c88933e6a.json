@@ -1,0 +1,14 @@
+{
+  "id": "poem-da077b23a2596b0c88933e6a",
+  "title": "杨柳枝寿杯词十八首 十",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "游人莫叹易凋衰，长乐荣枯自有期。",
+    "看取明年春意动，更于何处最先知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3e107fb7-ce0e-4935-9f20-39f90087ed35"
+}

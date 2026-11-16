@@ -1,0 +1,15 @@
+{
+  "id": "poem-8357b394e7b4f0897bc9fbe5",
+  "title": "醉扶归",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦上)好苦切甘生受，只得到此且藏羞。",
+    "奴与哥哥有甚冤仇，只得慌忙便走，裙儿破忙把饭来兜。",
+    "(合)泪湿透衣衫袖。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8874",
+  "tags": []
+}

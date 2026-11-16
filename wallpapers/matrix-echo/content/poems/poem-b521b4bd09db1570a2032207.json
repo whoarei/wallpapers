@@ -1,0 +1,14 @@
+{
+  "id": "poem-b521b4bd09db1570a2032207",
+  "title": "十无诗寄桂府杨中丞 六",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "望断南云日已晡，便应凭梦过重湖。",
+    "不知自古登龙者，曾有因诗泥得无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-9ba15920-f15e-4d0f-a239-6ac06fd075eb"
+}

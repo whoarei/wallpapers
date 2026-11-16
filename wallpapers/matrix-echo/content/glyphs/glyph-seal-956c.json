@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-956c",
+  "script": "seal",
+  "character": "镬",
+  "reading": "huò",
+  "description": "形如大盆,用以煮食物的铁器\n指烹人的刑具\n锅子\n⒈〈古〉大锅。镬与鼎常用作残酷的刑具。\n⒉〈方〉锅铁～子。～子盖。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镬"
+}

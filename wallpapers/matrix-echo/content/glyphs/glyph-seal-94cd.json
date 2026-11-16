@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94cd",
+  "script": "seal",
+  "character": "铍",
+  "reading": "pí",
+  "description": "中医用的长针\n兵器。双刃刀。一说是大矛\n假借为颇”。偏,不平正\n通\"披\"。纷乱。\n铍pí 1.金属元素。符号be。浅灰色，是最轻的金属之一。透x射线的能力最强，可用来制造x射线管。铍铝合金质坚硬而轻，应用于飞机﹑火箭制造业中。铍和青铜的合金弹性\n很强，用来制弹簧。金属铍也用在原子能工业中。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铍"
+}

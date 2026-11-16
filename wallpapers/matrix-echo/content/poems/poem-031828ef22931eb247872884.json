@@ -1,0 +1,16 @@
+{
+  "id": "poem-031828ef22931eb247872884",
+  "title": "冬景",
+  "author": "刘克庄",
+  "dynasty": "宋",
+  "verses": [
+    "晴窗早觉爱朝曦，竹外秋声渐作威。",
+    "命仆安排新暖阁，呼童熨贴旧寒衣。",
+    "叶浮嫩绿酒初熟，橙切香黄蟹正肥。",
+    "蓉菊满园皆可羡，赏心从此莫相违。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-冬景"
+}

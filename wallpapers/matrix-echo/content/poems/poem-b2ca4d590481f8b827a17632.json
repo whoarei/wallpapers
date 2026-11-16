@@ -1,0 +1,14 @@
+{
+  "id": "poem-b2ca4d590481f8b827a17632",
+  "title": "柳十首 五",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "弱带低垂可自由，傍他门户倚他楼。",
+    "金风不解相擡举，露压烟欺直到秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6106b1bf-bf97-4f80-956e-199203ab3384"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-c0220a3288bbcdc57ee284d0",
+  "title": "促织",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "念尔无机自有情，迎寒辛苦弄梭声。",
+    "椒房金屋何曾识，偏向贫家壁下鸣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-dfa1699d-1936-42d7-bb1c-716ced12fdb2"
+}

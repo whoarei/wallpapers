@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6ec2",
+  "script": "seal",
+  "character": "滂",
+  "reading": "pāng",
+  "description": "pāng：形容水涌出～流。～沱。～沛。～濞（pì）（ａ．形容水流相击的声音；ｂ．形容雨水量多；ｃ．形容众多）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-滂"
+}

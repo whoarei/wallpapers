@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6f7a",
+  "script": "seal",
+  "character": "潺",
+  "reading": "chán",
+  "description": "chán：〔～～〕ａ．水缓流的样子；ｂ．象声词，溪水、泉水流动的声音。\n〔～湲〕ａ．河水慢慢流的样子；ｂ．涕泪横流的样子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-潺"
+}

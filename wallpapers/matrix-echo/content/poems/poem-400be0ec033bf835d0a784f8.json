@@ -1,0 +1,16 @@
+{
+  "id": "poem-400be0ec033bf835d0a784f8",
+  "title": "经仙人渚即沈山下古人沈义白日升仙处",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "日月人间短，何时此得仙。",
+    "古山春已尽，遗渚事空传。",
+    "不见腾云驾，徒临洗药泉。",
+    "如今成逝水，翻使恨流年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-00148577-1689-4ef2-ae7f-9bc484345c53"
+}

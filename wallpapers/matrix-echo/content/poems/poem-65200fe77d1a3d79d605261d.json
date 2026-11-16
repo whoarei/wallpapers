@@ -1,0 +1,16 @@
+{
+  "id": "poem-65200fe77d1a3d79d605261d",
+  "title": "怀缪竹林",
+  "author": "张汝勤",
+  "dynasty": "宋",
+  "verses": [
+    "东风日日恼吟魂，相与论心客在门。",
+    "雨洗花光红透骨，风摇野烧翠留痕。",
+    "荣枯过眼归春梦，醒醉从人付酒尊。",
+    "输与先生专一壑，闲来得看竹生孙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-a6ccd0ab-4da6-475e-b137-07efa15a95a5"
+}

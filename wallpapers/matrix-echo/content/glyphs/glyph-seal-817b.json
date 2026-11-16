@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-817b",
+  "script": "seal",
+  "character": "腻",
+  "reading": "nì",
+  "description": "粘糊\n亲昵\n细腻\n厌烦\n见了别\n⒈食品油脂过多油～。肥肉太多，～人。\n⒉滋润，光滑细～。滑～。\n⒊因过多而厌烦～烦。看～了。耍～了。\n⒋污垢尘～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-腻"
+}

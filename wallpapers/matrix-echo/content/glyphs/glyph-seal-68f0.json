@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-68f0",
+  "script": "seal",
+  "character": "棰",
+  "reading": "chuí",
+  "description": "chuí：(1)短木棍一尺之～，日取其半，万世不竭”。\n(2)用棍子打，杖刑笞～暴国，齐一天下”。\n(3)鞭子，鞭打士以马～击亭长”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-棰"
+}

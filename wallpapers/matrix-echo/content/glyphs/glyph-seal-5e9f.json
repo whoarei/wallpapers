@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e9f",
+  "script": "seal",
+  "character": "废",
+  "reading": "fèi",
+  "description": "泛指倾圮,倒塌\n废弃;废除\n停止; 中\n⒈停止，放弃～止。～用。～除。作～。～寝忘食。切莫半途而～。〈引〉没有用的，失去功效的～物。～纸。～话连篇。变～为宝。\n⒉荒芜，衰败荒～。～屋。～墟。\n⒊残疾残～。无手足则肢体～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-废"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-60f8fb6eba853bab02abc0b5",
+  "title": "寓意漫成",
+  "author": "蔡必荐",
+  "dynasty": "宋",
+  "verses": [
+    "东邻老翁富钜万，每日关门常独饭。",
+    "西邻少年居钱不满百，每日开筵延上客。",
+    "老翁回头问少年，君家宾客何骈阗。",
+    "少年答曰翁不知，人生许得几何时。",
+    "翁看日月如流水，牢锁黄金与阿谁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-8d00681c-6b3f-4fdc-ae44-35004dd30140"
+}

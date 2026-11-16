@@ -1,0 +1,14 @@
+{
+  "id": "poem-f97e219be063795ee5e59669",
+  "title": "赠张敬微",
+  "author": "蔡希寂",
+  "dynasty": "唐",
+  "verses": [
+    "大河东北望桃林，杂树冥冥结翠阴。",
+    "不知君作神仙尉，特讶行来云雾深。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-210e4b4a-f6b8-4761-8dba-9e3ff50293d8"
+}

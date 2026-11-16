@@ -1,0 +1,14 @@
+{
+  "id": "poem-002a11f8c8685f6b3c044352",
+  "title": "浣溪沙·晚起红房醉欲消",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "晚起红房醉欲消，绿鬟云散袅金翘，雪香花语不胜娇。",
+    "好是向人柔弱处，玉纤时急绣裙腰，春心牵惹转无聊。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-35"
+}

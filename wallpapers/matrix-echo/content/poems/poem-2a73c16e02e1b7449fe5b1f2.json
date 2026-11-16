@@ -1,0 +1,16 @@
+{
+  "id": "poem-2a73c16e02e1b7449fe5b1f2",
+  "title": "塞上行",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "上将拥黄须，安西逐指呼。",
+    "离乡俱少壮，到碛减肌肤。",
+    "风雪夜防塞，腥膻朝系胡。",
+    "为君乐战死，谁喜作征夫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-4c1c0647-10d7-48b0-a4a4-bd88242b0354"
+}

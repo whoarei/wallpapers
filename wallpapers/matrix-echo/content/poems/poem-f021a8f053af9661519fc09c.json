@@ -1,0 +1,21 @@
+{
+  "id": "poem-f021a8f053af9661519fc09c",
+  "title": "贼平后送人北归",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "世乱同南去，时清独北还。",
+    "他乡生白发，旧国见青山。",
+    "晓月过残垒，繁星宿故关。",
+    "寒禽与衰草，处处伴愁颜。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "酬赠",
+    "感伤",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-4c745990-657a-41fe-ba2c-d9cf371ca563"
+}

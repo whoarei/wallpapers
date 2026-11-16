@@ -1,0 +1,21 @@
+{
+  "id": "poem-a9f564cbefdfcf8afb36ae99",
+  "title": "九月九日忆山东兄弟",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "独在异乡为异客，每逢佳节倍思亲。",
+    "遥知兄弟登高处，遍插茱萸少一人。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "思乡",
+    "三年级上册",
+    "重阳节",
+    "小学古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-6bbd1c2c-8c43-4ffb-b7b3-506d74266cee"
+}

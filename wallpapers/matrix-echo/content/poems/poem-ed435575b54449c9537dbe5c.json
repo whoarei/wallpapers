@@ -1,0 +1,16 @@
+{
+  "id": "poem-ed435575b54449c9537dbe5c",
+  "title": "应天长·别来半岁音书绝",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "别来半岁音书绝，一寸离肠千万结。",
+    "难相见，易相别，又是玉楼花似雪。",
+    "暗相思，无处说，惆怅夜来烟月。",
+    "想得此时情切，泪沾红袖黦。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-42"
+}

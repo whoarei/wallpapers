@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5bfb",
+  "script": "kai",
+  "character": "寻",
+  "reading": "xún",
+  "description": "精巧,寻仞皆以两臂度之,故仞亦或言八尺,\n⒈找，探求～找。～觅。～访。～求。～根究底。\n⒉随即，不久～即。\n⒊〈古〉长度单位。八尺为～，十六尺为常◇来用\"寻常\"〈表〉平常、普通的意思。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-寻"
+}

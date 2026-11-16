@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f5cbe821bb4d392102c1e17",
+  "title": "江行夜雨",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "江风木落天，游子感流年。",
+    "万里波连蜀，三更雨到船。",
+    "梦残灯影外，愁积苇业边。",
+    "不及樵渔客，全家住岛田。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a57286cf-5bc2-4dc1-ab2c-2ef9b08686a1"
+}

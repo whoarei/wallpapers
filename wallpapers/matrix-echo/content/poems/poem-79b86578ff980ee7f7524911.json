@@ -1,0 +1,21 @@
+{
+  "id": "poem-79b86578ff980ee7f7524911",
+  "title": "汲水诗",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "汲水苦绠短，低回就清浅。",
+    "绠短傥有续，重渊良不远。",
+    "清浅本无源，其涸易见𪾢。",
+    "重渊酌愈出，流波被沟畎。",
+    "膏肓苟愿治，会须好俞扁。",
+    "所之在万里，庸可策驽蹇。",
+    "白茅满原隰，刈之何不勉。",
+    "缉索绠乃长，单极恣舒卷。",
+    "寄声汲引者，功微利亦鲜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-5cf01bf8-e1d5-4654-a61c-119275afaf10"
+}

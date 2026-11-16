@@ -1,0 +1,20 @@
+{
+  "id": "poem-9313d71809122279df6d64bc",
+  "title": "摊破诉衷情・诉衷情·夕阳低户水当楼",
+  "author": "蔡楠",
+  "dynasty": "宋",
+  "verses": [
+    "夕阳低户水当楼。",
+    "风烟惨淡秋。",
+    "乱云飞尽碧山留。",
+    "寒沙卧海鸥。",
+    "浑似画，只供愁。",
+    "相看空泪流。",
+    "故人如欲问安不。",
+    "病来今白头。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-849",
+  "tags": []
+}

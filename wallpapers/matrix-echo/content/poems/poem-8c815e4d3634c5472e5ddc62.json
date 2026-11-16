@@ -1,0 +1,14 @@
+{
+  "id": "poem-8c815e4d3634c5472e5ddc62",
+  "title": "早过湖",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "唤得航船傍采菱，柳桥竹榭曙烟深。",
+    "船头惊起蜻蜓睡，欲立还飞到涌金。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-5124d4e9-ef57-42fb-b61e-518794d75194"
+}

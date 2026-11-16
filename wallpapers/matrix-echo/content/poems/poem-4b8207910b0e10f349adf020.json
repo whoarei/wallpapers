@@ -1,0 +1,24 @@
+{
+  "id": "poem-4b8207910b0e10f349adf020",
+  "title": "泊秦淮",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "烟笼寒水月笼沙，夜泊秦淮近酒家。",
+    "商女不知亡国恨，隔江犹唱后庭花。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "爱国",
+    "写景",
+    "初中古诗",
+    "七言绝句",
+    "抒怀",
+    "咏史怀古",
+    "七年级上册(课外)"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-8de30193-fba7-4aef-9ff9-c3726a22104d"
+}

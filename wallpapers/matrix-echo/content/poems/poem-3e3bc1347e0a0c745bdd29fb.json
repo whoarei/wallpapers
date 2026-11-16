@@ -1,0 +1,16 @@
+{
+  "id": "poem-3e3bc1347e0a0c745bdd29fb",
+  "title": "赠雍陶博士",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "腹是群书笥，官为六义师。",
+    "情高少尘事，朝下足闲时。",
+    "有句同人伏，无私胄子知。",
+    "汉庭公议在，正与触邪宜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-671f169b-74f0-4341-9794-b56981663920"
+}

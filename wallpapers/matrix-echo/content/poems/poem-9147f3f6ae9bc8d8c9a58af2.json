@@ -1,0 +1,22 @@
+{
+  "id": "poem-9147f3f6ae9bc8d8c9a58af2",
+  "title": "横吹曲辞 出关",
+  "author": "魏征",
+  "dynasty": "唐",
+  "verses": [
+    "中原还逐鹿，投笔事戎轩。",
+    "纵横计不就，慷慨志犹存。",
+    "策杖谒天子，驱马出关门。",
+    "请缨羁南越，凭轼下东藩。",
+    "郁纡陟高岫，出没望平原。",
+    "古木吟寒鸟，空山啼夜猨。",
+    "既伤千里目，还惊九折魂。",
+    "岂不惮艰险，深怀国士恩。",
+    "季布无二诺，侯嬴重一言。",
+    "人生感意气，功名谁复论。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ed0d4f1c-f300-48b1-8139-706fb3a1aa2c"
+}

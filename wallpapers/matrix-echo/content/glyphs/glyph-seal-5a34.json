@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5a34",
+  "script": "seal",
+  "character": "娴",
+  "reading": "xián",
+  "description": "⒈文雅，雅静～雅。～丽。\n⒉熟练～熟。～于辞令。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-娴"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-4e95858cdf4263f65763d57a",
+  "title": "三代门 太公",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "昌猎关西纣猎东，纣怜崇虎弃非熊。",
+    "危邦自谓多麟凤，肯把王纲取钓翁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3c5fdfab-f430-4d11-ac34-7a1e0304f0d7"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-e55b406210e77916b31d22a5",
+  "title": "洞庭湖",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "东西南北各连空，波上唯留小朵峰。",
+    "长与岳阳翻鼓角，不离云梦转鱼龙。",
+    "吸廻日月过千顷，铺尽星河剩一重。",
+    "直到劫余还作陆，是时应有羽人逢。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-52aacc69-47b6-499a-94a5-3b66eed1b276"
+}

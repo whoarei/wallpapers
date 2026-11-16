@@ -1,0 +1,17 @@
+{
+  "id": "poem-c6e1c1fde17380b344e3c3fb",
+  "title": "少年游·芙蓉花发去年枝",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "芙蓉花发去年枝。",
+    "双燕欲归飞。",
+    "兰堂风软，金炉香暖，新曲动帘帷。",
+    "家人拜上千春寿，深意满琼卮。",
+    "绿鬓朱颜，道家装束，长似少年时。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-477",
+  "tags": []
+}

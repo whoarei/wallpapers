@@ -1,0 +1,14 @@
+{
+  "id": "poem-c43e6e8fe852119f98e7be8f",
+  "title": "小游仙诗九十八首 六十九",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "笑擎云液紫瑶觥，共请云和碧玉笙。",
+    "花下偶然吹一曲，人间因织董双成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-e8d6113a-85cf-49b1-a2d5-2f20aef89ae5"
+}

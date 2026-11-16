@@ -1,0 +1,13 @@
+{
+  "id": "poem-6f53356be58cef14056cec48",
+  "title": "清庙",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "于穆清庙，肃雍显相。济济多士，秉文之德。对越在天，骏奔走在庙。不显不承，无射于人斯。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-265"
+}

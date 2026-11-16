@@ -1,0 +1,14 @@
+{
+  "id": "poem-222fb002a6082dfc13c0603f",
+  "title": "对月二首 二",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "盈缺青冥外，东风万古吹。",
+    "何人种丹桂，不长出轮枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-87a6e89f-5d94-4d06-921a-539f5f057611"
+}

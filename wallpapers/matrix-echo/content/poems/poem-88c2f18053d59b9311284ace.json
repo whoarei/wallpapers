@@ -1,0 +1,16 @@
+{
+  "id": "poem-88c2f18053d59b9311284ace",
+  "title": "用韵谢越帅程给事",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "大屏元侯重荐论，自惭蹇浅匪多闻。",
+    "已当壮齿逢清世，敢向南山恋白云。",
+    "宴以笙簧终永日，宠将珠玉焕新文。",
+    "愿凭陶铸冲天去，黄阁门前拜使君。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-e628ea55-f6f8-484e-9afc-95a1784b80bd"
+}

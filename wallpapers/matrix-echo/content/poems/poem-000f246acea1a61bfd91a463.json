@@ -1,0 +1,14 @@
+{
+  "id": "poem-000f246acea1a61bfd91a463",
+  "title": "南乡子·袖敛鲛绡",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "袖敛鲛绡，采香深洞笑相邀。",
+    "藤杖枝头芦酒滴，铺葵席，豆蔻花间趖晚日。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-6"
+}

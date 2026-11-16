@@ -1,0 +1,14 @@
+{
+  "id": "poem-b4f0b7d76e1553e2512cc632",
+  "title": "赋得路傍一株柳送邢校书赴延州使府",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "路傍一株柳，此路向延州。",
+    "延州在何处，此路起悠悠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-2571f14e-0c02-4fa0-a52c-f3b75069e0b6"
+}

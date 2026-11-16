@@ -1,0 +1,16 @@
+{
+  "id": "poem-acd0667fa685db3ee183923b",
+  "title": "冬日书情",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "殊乡寂寞使人悲，异域留连不暇归。",
+    "万里山河非旧国，一川戎俗是新知。",
+    "寒天落景光阴促，雪海穹庐物色稀。",
+    "为客终朝长下泣，谁怜晓夕老容仪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-84c1a0b9-9ed3-469a-9743-7505cd200201"
+}

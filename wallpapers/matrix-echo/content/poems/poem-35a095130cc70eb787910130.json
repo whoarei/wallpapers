@@ -1,0 +1,18 @@
+{
+  "id": "poem-35a095130cc70eb787910130",
+  "title": "南歌子·庭下新生月",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "庭下新生月，凭君把酒看。",
+    "不须直待素团团。",
+    "恰似那人眉样、秀弯环。",
+    "冷射鸳鸯瓦，清欺翡翠帘。",
+    "数枝烟竹小桥寒。",
+    "渐见风吹疏影、过阑干。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-774",
+  "tags": []
+}

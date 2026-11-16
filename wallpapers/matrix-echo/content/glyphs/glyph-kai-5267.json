@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5267",
+  "script": "kai",
+  "character": "剧",
+  "reading": "jù；jv",
+  "description": "繁多;繁忙\n⒈极，猛烈，厉害～变。～烈。～疼。\n⒉指戏剧。一种文艺形式，依照剧本，由演员扮演角色，当众演出演～。歌～。川～。独幕～。\n⒊复杂，繁难事～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-剧"
+}

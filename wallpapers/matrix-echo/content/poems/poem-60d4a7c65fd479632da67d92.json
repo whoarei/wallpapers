@@ -1,0 +1,16 @@
+{
+  "id": "poem-60d4a7c65fd479632da67d92",
+  "title": "九日陪颜使君真卿登水楼",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "重阳荆楚尚，高会此难陪。",
+    "偶见登龙客，同游戏马台。",
+    "风文向水叠，云态拥歌回。",
+    "持菊烦相问，扪襟媿不才。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-039f75f6-1973-49c0-9e88-35f0b4882d4f"
+}

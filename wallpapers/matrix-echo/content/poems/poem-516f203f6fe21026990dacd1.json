@@ -1,0 +1,14 @@
+{
+  "id": "poem-516f203f6fe21026990dacd1",
+  "title": "颂古三十一首  其二三",
+  "author": "释安永",
+  "dynasty": "宋",
+  "verses": [
+    "问处分明答处亲，纵横有路惯反身。",
+    "相如夺得连城璧，秦主安然致太平。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-84c2aa26-479f-4b40-8777-f566ba29e558"
+}

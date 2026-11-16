@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6599",
+  "script": "kai",
+  "character": "料",
+  "reading": "liào",
+  "description": "liào：(1)估计，猜想～想。预～。\n(2)可供制造其他东西的物质材～。～子。备～。\n(3)喂牲口用的谷物草～。\n(4)一种熔点较低的玻璃，用来制造器皿或工艺品～器。\n(5)烹调时的调味品调～。\n(6)整理，处理～理。\n(7)量词，用于中药配制丸药，处方剂量的全份配一～药。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-料"
+}

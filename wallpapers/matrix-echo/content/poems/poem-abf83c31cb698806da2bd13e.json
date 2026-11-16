@@ -1,0 +1,14 @@
+{
+  "id": "poem-abf83c31cb698806da2bd13e",
+  "title": "秋日金陵制幕书事  其三",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "哨马纷纷一水间，渡头分戍要防奸。",
+    "可怜生计渔舟者，官给旗牌禁往还。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b6d62407-0a44-464c-9d0b-261a931479de"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-08c1edfa92dddf037018b808",
+  "title": "浣溪沙·一向年光有限身",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "一向年光有限身。",
+    "等闲离别易消魂。",
+    "酒筵歌席莫辞频。",
+    "满目山河空念远，落花风雨更伤春。",
+    "不如怜取眼前人。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-160"
+}

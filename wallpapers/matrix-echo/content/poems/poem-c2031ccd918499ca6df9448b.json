@@ -1,0 +1,16 @@
+{
+  "id": "poem-c2031ccd918499ca6df9448b",
+  "title": "幸蜀西至劒门",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "劒阁横云峻，銮舆出狩回。",
+    "翠屏千仞合，丹嶂五丁开。",
+    "灌木萦旗转，仙云拂马来。",
+    "乘时方在德，嗟尔勒铭才。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-1373b7fb-a34d-468f-8bc3-127bce69027e"
+}

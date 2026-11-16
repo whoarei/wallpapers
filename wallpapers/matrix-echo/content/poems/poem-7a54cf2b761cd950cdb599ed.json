@@ -1,0 +1,16 @@
+{
+  "id": "poem-7a54cf2b761cd950cdb599ed",
+  "title": "寄江都路员外",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "吾兄失意在东都，闻说襟怀任所如。",
+    "已纵乖慵为傲吏，有何关键制豪胥。",
+    "县斋晓闭多移病，南亩秋荒忆遂初。",
+    "知道故人相忆否，嵇康不得懒修书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-c77b5693-bb2c-4918-81dd-fbb191b04ea2"
+}

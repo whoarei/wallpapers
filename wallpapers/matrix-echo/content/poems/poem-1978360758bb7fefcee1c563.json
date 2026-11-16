@@ -1,0 +1,20 @@
+{
+  "id": "poem-1978360758bb7fefcee1c563",
+  "title": "浪淘沙·帘外微风",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "帘外微风。",
+    "云雨回踪。",
+    "银釭烬冷锦帏中。",
+    "枕上深盟，年少心事，陡顿成空。",
+    "岭外白头翁。",
+    "到没由逢。",
+    "一床鸳被叠香红。",
+    "明月满庭花似绣，闷不见虫虫。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-913",
+  "tags": []
+}

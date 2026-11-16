@@ -1,0 +1,16 @@
+{
+  "id": "poem-f631a2098e0b21bca294dbab",
+  "title": "和长历赋纸阁用王介甫韵",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "顶还平直得中方，肯作僧庵半夜床。",
+    "脱帽不忧风栗烈，炽炉仍助日苍凉。",
+    "赏音正自鸣琴便，宴坐何辞问疾妨。",
+    "我有陟厘三百幅，御冬真欲倒归囊。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-da6e56ee-bff8-4acd-a960-88e609e84b8a"
+}

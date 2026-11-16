@@ -1,0 +1,14 @@
+{
+  "id": "poem-11f4747e19a94c93c439c283",
+  "title": "浣溪沙·揽镜无言泪欲流",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "揽镜无言泪欲流，凝情半日懒梳头，一庭疏雨湿春愁。",
+    "杨柳只知伤离别，杏花应信损娇羞，泪沾魂断轸离忧。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-40"
+}

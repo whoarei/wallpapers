@@ -1,0 +1,16 @@
+{
+  "id": "poem-53e3f71d22ab2d6e8f4de34a",
+  "title": "项别驾讣临",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "清约筋骸别，云泥俗肺肠。",
+    "酌贪廉不污，鉴正丑难藏。",
+    "贵药无钱买，沉疴有死偿。",
+    "若为千驷马，得似蕨薇香。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-c4a6f4f8-4552-4c5e-859e-a08750c310ba"
+}

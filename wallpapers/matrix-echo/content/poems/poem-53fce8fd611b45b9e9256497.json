@@ -1,0 +1,14 @@
+{
+  "id": "poem-53fce8fd611b45b9e9256497",
+  "title": "春秋战国门 荆轲",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "反刃相酬是匹夫，安知突骑驾群胡。",
+    "有心为报怀权畧，可在于期与地图。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-51dd0d1a-01d4-434b-8257-a15d7f9c218b"
+}

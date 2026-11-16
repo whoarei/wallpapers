@@ -1,0 +1,14 @@
+{
+  "id": "poem-9cd2b24bd9f6a18a0e1786df",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［末上］为功名纸半张，引得吾辈忙。",
+    "人人都想，要登龙虎榜。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8139",
+  "tags": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-044ca58ed17572427686a4f5",
+  "title": "马嵬坡",
+  "author": "郑畋",
+  "dynasty": "唐",
+  "verses": [
+    "[玄]宗回马杨妃死，云雨虽亡日月新。",
+    "终是圣明天子事，景阳宫井又何人。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "带有地名",
+    "咏史",
+    "地名"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7e75853a-bf7a-4d8d-b3e9-0537f4ed913a"
+}

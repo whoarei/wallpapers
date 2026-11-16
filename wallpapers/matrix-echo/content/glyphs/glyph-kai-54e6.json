@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-54e6",
+  "script": "kai",
+  "character": "哦",
+  "reading": "ò；ó；é",
+  "description": "ó：叹词，表示疑问、惊奇等～，是怎么回事？\nò：叹词，表示领会、醒悟～，我明白了。\né：〔吟～〕有节奏地诵读诗文。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哦"
+}

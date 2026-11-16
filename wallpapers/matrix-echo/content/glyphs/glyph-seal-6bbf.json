@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6bbf",
+  "script": "seal",
+  "character": "殿",
+  "reading": "diàn",
+  "description": "diàn：(1)高大的房屋，特指帝王所居和朝会的地方，或供奉神佛的地方宫～。宝～。金銮～。～堂。～阁。～上虎（喻敢谏之臣）。～试。\n(2)在最后～后。～军。\n〔～下〕对亲王或太子的敬称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-殿"
+}

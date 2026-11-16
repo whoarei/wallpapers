@@ -1,0 +1,13 @@
+{
+  "id": "poem-b95abbc78133461f3f71e191",
+  "title": "丰年",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "丰年多黍多稌，亦有高廪，万亿及秭。为酒为醴，烝畀祖妣。以洽百礼，降福孔皆。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-278"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5773",
+  "script": "seal",
+  "character": "坳",
+  "reading": "ào",
+  "description": "ào：山间的平地山～。～口（山或丘陵间的较低处，多为穿过山岭的通道）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-坳"
+}

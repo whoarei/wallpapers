@@ -1,0 +1,16 @@
+{
+  "id": "poem-69fafd98f87982d3d082ccbe",
+  "title": "题河中鹳雀楼",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "高楼怀古动悲歌，鹳雀今无野燕过。",
+    "树隔五陵秋色早，水连三晋夕阳多。",
+    "渔人遗火成寒烧，牧笛吹风起夜波。",
+    "十载重来值摇落，天涯归计欲如何。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c0af0529-265c-4969-9acc-0d9bec5cf709"
+}

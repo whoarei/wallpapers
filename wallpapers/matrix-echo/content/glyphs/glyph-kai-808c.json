@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-808c",
+  "script": "kai",
+  "character": "肌",
+  "reading": "jī",
+  "description": "jī：人或动物体内附着在骨头上或构成内脏的柔软物质，由许多纤维组成（通称肌肉”）～肤。～理。心～。随意～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肌"
+}

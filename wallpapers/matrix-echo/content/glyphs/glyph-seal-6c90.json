@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c90",
+  "script": "seal",
+  "character": "沐",
+  "reading": "mù",
+  "description": "mù：(1)洗头发～浴。栉风～雨（喻辛苦奔波，饱经风雨）。\n(2)润泽，或受润泽～恩。\n(3)古代官员休假～日。休～。\n(4)整治助之～椁。\n(5)米汁。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沐"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1304bb028bf4ecbd72700c0e",
+  "title": "题方公院寄夏侯明府",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "银地有余光，方公道益芳。",
+    "谁分修藏力，顶有剃头霜。",
+    "经勘松风燥，簷垂坞茗香。",
+    "终须结西社，此县似柴桑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-522876a2-be3b-4275-a0ea-b3238c20e796"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2e87b7addae49215e5a551dc",
+  "title": "偶登苏州重玄阁",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "飞阁层层茂苑间，夏凉秋晚屙登攀。",
+    "万家前后皆临水，四槛高低尽见山。",
+    "何事越王侵敌国，不妨辽鹤唁人寰。",
+    "五湖直下须归去，自笑身闲迹未闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-cca1a5fb-0c2c-4d93-807d-94bfc7ef1383"
+}

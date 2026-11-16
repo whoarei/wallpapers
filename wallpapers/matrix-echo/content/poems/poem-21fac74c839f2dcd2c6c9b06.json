@@ -1,0 +1,16 @@
+{
+  "id": "poem-21fac74c839f2dcd2c6c9b06",
+  "title": "隰桑",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "隰桑有阿，其叶有难。既见君子，其乐如何。",
+    "隰桑有阿，其叶有沃。既见君子，云何不乐。",
+    "隰桑有阿，其叶有幽。既见君子，德音孔胶。",
+    "心乎爱矣，遐不谓矣？中心藏之，何日忘之！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-227"
+}

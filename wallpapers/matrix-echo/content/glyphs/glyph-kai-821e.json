@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-821e",
+  "script": "kai",
+  "character": "舞",
+  "reading": "wǔ",
+  "description": "wǔ：(1)按一定的节奏转动身体表演各种姿势～蹈。～技。～姿。～会。～剑。～女。～曲。～台。\n(2)耍弄～弊。～文弄墨。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舞"
+}

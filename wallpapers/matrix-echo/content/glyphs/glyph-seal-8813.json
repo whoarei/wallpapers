@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8813",
+  "script": "seal",
+  "character": "蠓",
+  "reading": "měng",
+  "description": "měng：昆虫的一科，比蚊子小，褐色或黑色。雌蠓吸人畜的血。能传染疾病。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蠓"
+}

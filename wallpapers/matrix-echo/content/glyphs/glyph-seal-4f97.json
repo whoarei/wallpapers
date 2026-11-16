@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f97",
+  "script": "seal",
+  "character": "侗",
+  "reading": "dòng；tóng；tǒng",
+  "description": "dòng：(1)中国少数民族，主要分布于贵州、湖南等省和广西壮族自治区～族。～剧。\n(2)诚实的样子。\n〔～胴〕形状。\ntóng：幼稚，无知。\ntǒng：同统”③。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-侗"
+}

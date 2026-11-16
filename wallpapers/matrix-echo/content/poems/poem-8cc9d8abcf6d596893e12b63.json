@@ -1,0 +1,17 @@
+{
+  "id": "poem-8cc9d8abcf6d596893e12b63",
+  "title": "浣溪沙·叶底青青杏子垂",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "叶底青青杏子垂。",
+    "枝头薄薄柳绵飞。",
+    "日高深院晚莺啼。",
+    "堪恨风流成薄幸，断无消息道归期。",
+    "托腮无语翠眉低。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-741",
+  "tags": []
+}

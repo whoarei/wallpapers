@@ -1,0 +1,16 @@
+{
+  "id": "poem-777c86e40ea7644c9910e85d",
+  "title": "梅花二首  其一",
+  "author": "林宪",
+  "dynasty": "宋",
+  "verses": [
+    "凌晨汲山泉，盥洗甫云暇。",
+    "徐行修竹间，小立疏梅罅。",
+    "尖风耿薄日，色影寒相射。",
+    "幽香定有无，纹禽踏花卸。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-5d28efec-1099-4793-a2ff-13381841fe32"
+}

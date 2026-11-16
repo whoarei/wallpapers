@@ -1,0 +1,18 @@
+{
+  "id": "poem-c3dc62684eadb13f96612dd3",
+  "title": "油葫芦",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "王母仙衣无分着，金灿烂光闪烁，多管是天孙巧织紫霞绡。",
+    "(行者云)银丝帽子，丑的带了便可喜。",
+    "(金女云)大圣，你且先戴一戴。",
+    "你去玉皇宫偷得银丝帽，抵多少琼林宴颁赐金花诰。",
+    "(行者云)左右的，与我照管前后洞门，休放闲神上来。",
+    "(金女唱)他耍性儿乖，劣性儿乔，则恐怕筵间引得天兵到，因此上摆布一周遭。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-10302",
+  "tags": []
+}

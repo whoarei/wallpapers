@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-74aa",
+  "script": "seal",
+  "character": "璪",
+  "reading": "zǎo",
+  "description": "⒈〈古〉用五彩丝线贯穿玉片做成的冕绳。\n⒉刻在玉上或画在衣服上的水藻花纹。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-璪"
+}

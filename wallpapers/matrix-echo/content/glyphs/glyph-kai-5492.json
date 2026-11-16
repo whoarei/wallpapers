@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5492",
+  "script": "kai",
+  "character": "咒",
+  "reading": "zhòu",
+  "description": "zhòu：(1)某些宗教或巫术中的密语～语。符～。念～。\n(2)说希望人不顺利的话～骂。诅～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咒"
+}

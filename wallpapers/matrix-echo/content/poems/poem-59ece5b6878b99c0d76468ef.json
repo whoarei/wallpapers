@@ -1,0 +1,17 @@
+{
+  "id": "poem-59ece5b6878b99c0d76468ef",
+  "title": "孝顺歌",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "呕得我肝肠痛，珠泪垂，喉咙尚兀自牢嗄住。",
+    "糠！遭砻被舂杵，筛你簸扬你，吃尽控持。",
+    "悄似奴家身狼狈，千辛万苦皆经历。",
+    "苦人吃着苦味，两苦相逢，可知道欲吞不去。",
+    "(吃吐介)(唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5073",
+  "tags": []
+}

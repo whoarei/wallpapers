@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-78ec",
+  "script": "seal",
+  "character": "磬",
+  "reading": "qìng",
+  "description": "qìng：(1)古代打击兵器，形状像曲尺，用玉、石制成，可悬挂。\n(2)佛寺中使用的一种钵状物，用铜铁铸成，既可作念经时的打击乐器，亦可敲响集合寺众。\n(3)缢杀公族其有死罪，则～于甸人”。\n(4)古同罄”，空，尽。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-磬"
+}

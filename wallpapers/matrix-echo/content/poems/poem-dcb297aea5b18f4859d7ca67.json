@@ -1,0 +1,22 @@
+{
+  "id": "poem-dcb297aea5b18f4859d7ca67",
+  "title": "题清溪鬼谷先生旧居",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "翠壁开天池，青崖列云树。",
+    "冰容不可状，杳若清河雾。",
+    "常闻先生教，指示秦仪路。",
+    "二子才不同，逞词过尺度。",
+    "偶因从吏役，远到冥栖处。",
+    "松月想旧山，烟霞了如故。",
+    "未遑炼金鼎，日觉容光暮。",
+    "万虑随境生，何由返真素。",
+    "寂寞天籁息，清逈鸟声曙。",
+    "回首望重重，无期挹风驭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1f4f0ec0-15a2-405b-a0c0-b29328a660a1"
+}

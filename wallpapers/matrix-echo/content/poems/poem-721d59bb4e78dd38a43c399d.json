@@ -1,0 +1,16 @@
+{
+  "id": "poem-721d59bb4e78dd38a43c399d",
+  "title": "出峡",
+  "author": "胡皓",
+  "dynasty": "唐",
+  "verses": [
+    "巴东三峡尽，旷望九江开。",
+    "楚塞云中出，荆门水上来。",
+    "鱼龙潜啸雨，凫雁动成雷。",
+    "南国秋风晚，客思几悠哉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-75d52b0f-5f08-493c-ad13-74e8ca3a2a95"
+}

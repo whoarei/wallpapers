@@ -1,0 +1,18 @@
+{
+  "id": "poem-c9879e591879e216b7302807",
+  "title": "木兰花・玉楼春·翦裁用尽春工意",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "翦裁用尽春工意。",
+    "浅蘸朝霞千万蕊。",
+    "天然淡泞好精神，洗尽严妆方见媚。",
+    "风亭月榭闲相倚。",
+    "紫玉枝梢红蜡蒂。",
+    "假饶花落未消愁，煮酒杯盘催结子。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-243",
+  "tags": []
+}

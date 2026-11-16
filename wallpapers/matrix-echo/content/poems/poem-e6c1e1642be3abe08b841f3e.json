@@ -1,0 +1,16 @@
+{
+  "id": "poem-e6c1e1642be3abe08b841f3e",
+  "title": "和梁签判颍州西湖十三题 飞盖桥",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "朱桥矗矗两园间，湖水平时柳可攀。",
+    "车马等闲湖上去，游人常踏月中还。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-5829b919-33bb-4d82-96e6-1b2727093be2"
+}

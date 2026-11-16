@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51e0",
+  "script": "kai",
+  "character": "几",
+  "reading": "jǐ",
+  "description": "⒈疑问词。问数量～本书？～点钟？\n⒉〈表〉不定数她才二十～岁。只有～件衣服。\n①多少曾～何时？\n⒋见jī。\n几jì 1.通\"冀\"。期望，希望。 2.通\"纪\"。年岁。\n几qí 1.沂鄂。器物上的凹凸线纹。沂，凹纹;鄂，凸纹。 2.通\"颀\"。身长貌。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-几"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b64",
+  "script": "seal",
+  "character": "孤",
+  "reading": "gū",
+  "description": "gū：(1)幼年死去父亲或父母双亡～儿。遗～。托～。～寡鳏独（孤儿，寡妇，无妻或丧妻的人，年老无子女的人）。\n(2)单独～单。～独。～立。～僻。～傲。～茕（单独无依然）。～介。～身。～危。～芳自赏。～苦伶仃。～掌难鸣。～云野鹤（喻闲逸逍遥的人）。\n(3)古代帝王的自称～家。～王。\n(4)古同辜”，辜负。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-孤"
+}

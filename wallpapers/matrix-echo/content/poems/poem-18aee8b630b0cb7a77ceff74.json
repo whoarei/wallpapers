@@ -1,0 +1,16 @@
+{
+  "id": "poem-18aee8b630b0cb7a77ceff74",
+  "title": "台州郡治十二诗太守尤延之命赋 参云亭",
+  "author": "林宪",
+  "dynasty": "宋",
+  "verses": [
+    "孤云不可攀，浩气相与遥。",
+    "著亭翠微顶，飞簷侵泬寥。",
+    "紫麟迂远驾，黄鹄回扶摇。",
+    "云收天籁息，亭影摩重霄。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-60b8e3af-d35e-4f0e-8d1f-ea7c767780b4"
+}

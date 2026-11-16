@@ -1,0 +1,17 @@
+{
+  "id": "poem-66fda7bc4df32cbeb27440b6",
+  "title": "浣溪沙·无恙年年汴水流",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "无恙年年汴水流。",
+    "一声水调短亭秋。",
+    "旧时明月照扬州。",
+    "曾是长堤牵锦缆，绿杨清瘦至今愁。",
+    "玉钩斜路近迷楼。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-51"
+}

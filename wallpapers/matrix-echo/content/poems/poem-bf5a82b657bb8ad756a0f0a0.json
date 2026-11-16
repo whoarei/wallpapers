@@ -1,0 +1,18 @@
+{
+  "id": "poem-bf5a82b657bb8ad756a0f0a0",
+  "title": "尚书郎上直闻春漏",
+  "author": "周彻",
+  "dynasty": "唐",
+  "verses": [
+    "建礼通华省，含香直紫宸。",
+    "静闻铜史漏，暗识桂宫春。",
+    "滴沥疑将绝，清泠发更新。",
+    "寒声临鴈沼，疎韵应鸡人。",
+    "迥入千门彻，行催五夜频。",
+    "高台闲自听，非是驻征轮。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-c0837426-530d-494d-aa6f-65251b567723"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-73e5",
+  "script": "seal",
+  "character": "珥",
+  "reading": "ěr",
+  "description": "ěr：(1)用珠子或玉石做的耳环。\n(2)剑柄上端像两耳的突出部分。\n(3)插戴～笔（古代史官、谏官入朝插笔于冠侧，以便随时记录、写作）。～貂。\n(4)日、月两旁的光晕日～。月～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-珥"
+}

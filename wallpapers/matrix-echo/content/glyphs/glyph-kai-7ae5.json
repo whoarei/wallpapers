@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7ae5",
+  "script": "kai",
+  "character": "童",
+  "reading": "tóng",
+  "description": "tóng：(1)小孩子儿～。～工。～谣。～话。～心。～趣。～真。\n(2)旧时未成年的仆人书～儿。\n(3)没有结婚的～男。～女。～贞。\n(4)未长成的～牛（没长角的小牛）。\n(5)秃～山。头～（喻人秃顶，如～～齿豁”）。\n(6)古同瞳”，瞳孔。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-童"
+}

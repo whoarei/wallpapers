@@ -1,0 +1,16 @@
+{
+  "id": "poem-b22fb9bcce5fd17f302503a5",
+  "title": "思山居一十首 清明后忆山中",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "遥思寒食后，野老林下醉。",
+    "月照一山明，风吹百花气。",
+    "飞泉与万籁，髣髴疑箫吹。",
+    "不待曙华分，已应喧鸟至。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-30c05ba0-1740-48fc-9e3f-11936702d76d"
+}

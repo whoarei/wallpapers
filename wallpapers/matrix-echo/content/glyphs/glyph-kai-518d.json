@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-518d",
+  "script": "kai",
+  "character": "再",
+  "reading": "zài",
+  "description": "zài：(1)表示又一次，有时专指第二次，有时又指多次～次。～衰三竭。\n(2)表示重复或继续，多指未然～说。\n(3)表示更，更加～勇敢一点。\n(4)表示承接前一个动作想好了～写。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-再"
+}

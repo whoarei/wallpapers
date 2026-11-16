@@ -1,0 +1,16 @@
+{
+  "id": "poem-3d471e6982ebb3d288f72f21",
+  "title": "奉和御制烟",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "春晴纤霭映斜阳，羃羃偏能覆水乡。",
+    "浓似庆云同馥郁，薄如轻素自飞扬。",
+    "堤横新柳真成画，楼对遥山正好望。",
+    "谁见朝元香案上，龙旗交影共腾骧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-91d1e460-ed78-4a00-a257-5f974bc7a74b"
+}

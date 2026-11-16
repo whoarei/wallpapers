@@ -1,0 +1,23 @@
+{
+  "id": "poem-7fb908a72d79b8ec024ee769",
+  "title": "鼓吹曲辞 君马黄",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "君马黄，我马白。",
+    "马色虽不同，人心本无隔。",
+    "共作游冶盘，双行洛阳陌。",
+    "长劒既照曜，高冠何赩赫。",
+    "各有千金裘，俱为五侯客。",
+    "猛虎落陷穽，壮夫时屈厄。",
+    "相知在急难，独好亦何益。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "知己",
+    "鼓吹曲辞",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d4c03bc1-0596-4177-88ba-e42a97b0a7d9"
+}

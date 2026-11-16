@@ -1,0 +1,16 @@
+{
+  "id": "poem-1c0b8b69f4613e324eb6e5da",
+  "title": "菩萨蛮·劝君今夜须沉醉",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "劝君今夜须沉醉，樽前莫话明朝事。",
+    "珍重主人心，酒深情亦深。",
+    "须愁春漏短，莫诉金杯满。",
+    "遇酒且呵呵，人生能几何。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-36"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8ba8",
+  "script": "kai",
+  "character": "讨",
+  "reading": "tǎo",
+  "description": "讨伐;诛戮\n⒈征伐，发动攻击～伐。征～。声～。\n⒉查究，整治检～。～军纪。\n⒊探求，研究探～。研～。\n⒋索取～债。～价还价。\n⒌求，请求，乞求～饶。～教。～饭。\n⒍招惹，引起～人厌恶。自～苦吃。～人喜欢。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-讨"
+}

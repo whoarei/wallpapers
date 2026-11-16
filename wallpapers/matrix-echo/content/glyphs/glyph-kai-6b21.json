@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6b21",
+  "script": "kai",
+  "character": "次",
+  "reading": "cì",
+  "description": "cì：(1)第二～日。～子。～等。～要。\n(2)质量、品质较差的～品。～货。\n(3)等第，顺序～第。～序。名～。\n(4)化学上指酸根或化合物中少含两个氧原子的～氯酸。\n(5)中间胸～。\n(6)量词，回～数（shù）。初～。三番五～。\n(7)旅行所居止之处所旅～。舟～。～所。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-次"
+}

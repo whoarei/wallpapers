@@ -1,0 +1,14 @@
+{
+  "id": "poem-2fbf6057142603b6d942769a",
+  "title": "一江风",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "绣房中，袅袅香烟喷，翦翦轻风送；但晨昏问寝高堂，须把椿萱奉。",
+    "忙梳早整容，忙梳早整容，惟勤针指功，怕窗外花影日移动。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8075",
+  "tags": []
+}

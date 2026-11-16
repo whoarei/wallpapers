@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62bd",
+  "script": "kai",
+  "character": "抽",
+  "reading": "chōu",
+  "description": "chōu：(1)把中间的取出把信～出。\n(2)从事物中提出一部分～签。～调（diào）。～查。～头。～薪止沸。\n(3)吸～烟。～水。～泣。～咽。\n(4)概括～象。～演。\n(5)减缩～缩。\n(6)引出，长出～青。～芽。～穗。～纱。\n(7)用细长的、软的东西打用鞭子～。\n(8)痉挛～搐。～风。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抽"
+}

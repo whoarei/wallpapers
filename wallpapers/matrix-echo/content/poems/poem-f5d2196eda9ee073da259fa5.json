@@ -1,0 +1,16 @@
+{
+  "id": "poem-f5d2196eda9ee073da259fa5",
+  "title": "送友人下第归省",
+  "author": "殷遥",
+  "dynasty": "唐",
+  "verses": [
+    "君此卜行日，高堂应梦归。",
+    "莫将和氏泪，滴著老莱衣。",
+    "岳雨连河细，田禽出麦飞。",
+    "到家调膳后，吟好送斜晖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-88a6a7aa-6a5b-4ce9-9b51-9187cf3a5a76"
+}

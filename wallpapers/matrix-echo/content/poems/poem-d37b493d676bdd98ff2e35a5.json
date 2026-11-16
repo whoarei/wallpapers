@@ -1,0 +1,14 @@
+{
+  "id": "poem-d37b493d676bdd98ff2e35a5",
+  "title": "秋日",
+  "author": "耿𣲗",
+  "dynasty": "唐",
+  "verses": [
+    "返照入闾巷，忧来谁共语。",
+    "古道少人行，秋风动禾黍。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-秋日"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-52aa",
+  "script": "kai",
+  "character": "努",
+  "reading": "nǔ",
+  "description": "nǔ：(1)尽量地使出力量～力。\n(2)突出，撅着～着嘴。～嘴。\n(3)因用力太过，身体内部受伤用力不要太猛，别～着。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-努"
+}

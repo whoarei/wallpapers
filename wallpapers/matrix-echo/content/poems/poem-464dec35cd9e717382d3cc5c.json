@@ -1,0 +1,14 @@
+{
+  "id": "poem-464dec35cd9e717382d3cc5c",
+  "title": "游仙窟诗 答文成",
+  "author": "崔十娘",
+  "dynasty": "唐",
+  "verses": [
+    "天涯地角知何处，玉体红颜难再遇。",
+    "但令翅羽为人生，会些高飞共君去。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-52a31a6f-766d-416e-aca8-9cfad2acade3"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-8320b0ebe6b3d6876ffa27e7",
+  "title": "奉和李右相中书壁画山水",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "庙堂多暇日，山水契中情。",
+    "欲写高深趣，还因藻绘成。",
+    "九江临户牖，三峡绕檐楹。",
+    "花柳穷年发，烟云逐意生。",
+    "能令万里近，不觉四时行。",
+    "气染荀香馥，光含乐镜清。",
+    "咏歌齐出处，图画表冲盈。",
+    "自保千年遇，何论八载荣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-e3cb24d4-7cc5-47af-bcc5-1cfb41c03f3d"
+}

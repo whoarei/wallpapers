@@ -1,0 +1,17 @@
+{
+  "id": "poem-468b56a39ae4d3ddd4d772e4",
+  "title": "插花三台令",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(众舞)打和鼓乔妆三教，舞狮豹间着大旗。",
+    "小二哥敲罗击鼓，使牛儿萧笛乱吹，浪猪娘先呈百戏，驷马勒妆神跳鬼。",
+    "牛筋引鼠哥一队，忙行走竹马似飞。",
+    "(舞下。",
+    "外、老旦、旦)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8804",
+  "tags": []
+}

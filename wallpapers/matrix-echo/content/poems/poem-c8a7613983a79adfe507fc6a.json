@@ -1,0 +1,18 @@
+{
+  "id": "poem-c8a7613983a79adfe507fc6a",
+  "title": "卜算子·临镜笑春风",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "临镜笑春风，生怕梅花妒。",
+    "疑是西湖处士家，疏影横斜处。",
+    "江静竹娟娟，绿绕青无数。",
+    "独许幽人子细看，全胜墙东路。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-169",
+  "tags": [
+    "西湖"
+  ]
+}

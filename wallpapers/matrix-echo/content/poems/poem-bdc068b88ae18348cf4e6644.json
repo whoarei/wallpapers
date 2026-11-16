@@ -1,0 +1,16 @@
+{
+  "id": "poem-bdc068b88ae18348cf4e6644",
+  "title": "舟中贻赵野云之官三衢",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "笑君吟似饮中歌，船贴清溪翠卷罗。",
+    "梦枕熟时忺昼永，午阴团影得凉多。",
+    "官非奉礼宁如贺，家岂杨州旧姓何。",
+    "试问柯山棋一局，不知曾烂几人柯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-359c5f42-0273-4b20-9e8d-23d1b7104374"
+}

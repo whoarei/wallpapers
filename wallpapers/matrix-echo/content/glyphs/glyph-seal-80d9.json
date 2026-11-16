@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80d9",
+  "script": "seal",
+  "character": "胙",
+  "reading": "zuò",
+  "description": "zuò：(1)古代祭祀时供的肉。\n(2)福佑天地所～。”\n(3)古同祚”，指君位。\n(4)赐予～土（帝王以土地赐封功臣，酬其勋绩）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胙"
+}

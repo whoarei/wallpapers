@@ -1,0 +1,18 @@
+{
+  "id": "poem-a29b2abfec86e138f388be6b",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)男儿赎药。",
+    "把衣衫典当偿。",
+    "我不能够觑，我不能够觑得你身体康。",
+    "(生)我和你再。",
+    "我和你再得成双，怕死后一灵儿到你行。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3014",
+  "tags": []
+}

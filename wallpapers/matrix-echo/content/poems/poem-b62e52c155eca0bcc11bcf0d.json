@@ -1,0 +1,13 @@
+{
+  "id": "poem-b62e52c155eca0bcc11bcf0d",
+  "title": "秋夜月",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "蒙见招，打扮十分俏，走到门前人都道，道奴奴脸上胭脂少，搽些又好，抹些又俏。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8064",
+  "tags": []
+}

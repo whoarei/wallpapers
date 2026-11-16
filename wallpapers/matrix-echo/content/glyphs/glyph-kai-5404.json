@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5404",
+  "script": "kai",
+  "character": "各",
+  "reading": "gè；gě",
+  "description": "gè：每个，彼此不同～别。～得其所。～尽所能。～有千秋。～自为政。\ngě：方言，特别这个人真～。\n〔自～儿（gěr）〕自己，亦作自个儿”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-各"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e13b8a3697614804da50f06e",
+  "title": "重画知识壁",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "幸自十方无壁落，谁将五彩画虚空。",
+    "善财眼里生花翳，去却一重添一重。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-11ab9f5d-2c4c-4bda-be2f-3e973666db19"
+}

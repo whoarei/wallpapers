@@ -1,0 +1,14 @@
+{
+  "id": "poem-8c5ec7b428d695f66572a066",
+  "title": "海上得孔雀六鹦鹉十余携归遗童稚辈戏成二绝句  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "绿衣绀趾已能飞，学语交交末转时。",
+    "不是蓬莱花鸟使，携归聊与调群儿。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-aa3ed2df-6753-4b7f-a2b6-eeb58e34950e"
+}

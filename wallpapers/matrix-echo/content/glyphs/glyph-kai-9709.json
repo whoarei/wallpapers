@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9709",
+  "script": "kai",
+  "character": "霉",
+  "reading": "méi",
+  "description": "méi：(1)低等植物，真菌的一类，常寄生在食物和衣服的表面，呈细丝状，有分枝，没有叶绿素～菌。白～。青～。\n(2)食品、衣物等受了潮热长霉菌发～。～烂。～变。～气。～豆腐。\n〔倒（dǎo）～〕遇事不利，遭遇不好。亦作倒楣”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-霉"
+}

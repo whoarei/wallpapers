@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7a91",
+  "script": "seal",
+  "character": "窑",
+  "reading": "yáo",
+  "description": "yáo：(1)烧砖、瓦、陶瓷器的构筑物砖～。瓷～。\n(2)为采煤而凿的洞煤～。\n(3)在坡上特为住人挖的洞～洞。～葬。\n(4)旧时称妓院～子。～姐（妓女）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-窑"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b9b0cb86ec6f7e7cf3e633da",
+  "title": "赴南中留别褚七少府湖上林亭",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "种田东郭傍春陂，万事无情把钓丝。",
+    "绿竹放侵行迳里，青山常对卷帘时。",
+    "纷纷花发门空闭，寂寂莺啼日更迟。",
+    "从此别君千万里，白云流水忆佳期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-a8b615ec-00f5-4b3c-bcb7-8435e10014aa"
+}

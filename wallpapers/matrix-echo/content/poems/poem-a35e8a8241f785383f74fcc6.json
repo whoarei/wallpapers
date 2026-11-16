@@ -1,0 +1,16 @@
+{
+  "id": "poem-a35e8a8241f785383f74fcc6",
+  "title": "玉交枝",
+  "author": "无名氏《宦门子弟错立身》",
+  "dynasty": "元",
+  "verses": [
+    "只因痴迷，与王金榜同谐比翼。",
+    "谁知被我爹捉住，拆散了鸳侣。",
+    "情人去也不见踪，我如今在此无依倚。",
+    "免不得寻个死处，免不得寻个死处。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-314",
+  "tags": []
+}

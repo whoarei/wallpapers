@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9614",
+  "script": "kai",
+  "character": "阔",
+  "reading": "kuò",
+  "description": "宽横的距离大\n有江千里阔。╠\n⒈宽广宽～。广～。辽～〓～三十里。〈引〉时间或距离长～别五十年。\n⒉疏略，不切实～略。迂～。\n⒊宽缓，放宽～其租赋。\n⒋富有的，奢侈的～人。～气。～绰。摆～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阔"
+}

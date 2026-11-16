@@ -1,0 +1,16 @@
+{
+  "id": "poem-b1a44d617e96cd0a388bdae4",
+  "title": "和上巳连寒食有怀京洛",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "天津御柳碧遥遥，轩骑相从半下朝。",
+    "行乐光辉寒食借，太平歌舞晚春饶。",
+    "红妆楼下东郊道，青草洲边南渡桥。",
+    "坐见司空扫西第，看君侍从落花朝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-3887366a-5ca5-4e31-a43a-276ecef05990"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-65e6",
+  "script": "kai",
+  "character": "旦",
+  "reading": "dàn",
+  "description": "dàn：(1)早晨～暮。通宵达～。枕戈待～。\n(2)表示某一天，亦指农历的初一日～望（农历的初一和十五日）。元～。～日（ａ．明天ｂ．白天）。\n(3)传统戏剧里扮演女子的角色老～。花～。\n(4)纤度单位，九千米长的纤维重量为多少克，它的纤度就是多少旦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-旦"
+}

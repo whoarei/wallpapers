@@ -1,0 +1,16 @@
+{
+  "id": "poem-3b01a1ca3f38993046d81712",
+  "title": "峥嵘岭",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "疏凿顺高下，结构横烟霞。",
+    "坐啸郡斋肃，玩奇石路斜。",
+    "古树浮绿气，高门结朱华。",
+    "始见峥嵘状，仰止逾可嘉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-d3397817-5ef2-43e9-9b0f-cb96e8bab224"
+}

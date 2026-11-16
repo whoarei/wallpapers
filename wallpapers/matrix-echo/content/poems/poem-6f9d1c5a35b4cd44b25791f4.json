@@ -1,0 +1,21 @@
+{
+  "id": "poem-6f9d1c5a35b4cd44b25791f4",
+  "title": "新年作",
+  "author": "宋之问",
+  "dynasty": "唐",
+  "verses": [
+    "乡心新岁切，天畔独澘然。",
+    "老至居人下，春归在客先。",
+    "岭猨同旦暮，江柳共风烟。",
+    "已似长沙傅，从今又几年。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言律诗",
+    "春节",
+    "思乡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-368fc6bb-1636-419e-8ddb-cdc1dd07a1ca"
+}

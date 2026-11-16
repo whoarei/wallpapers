@@ -1,0 +1,14 @@
+{
+  "id": "poem-9eaec9ce063469916a7e8ef1",
+  "title": "河梁晚望二首 二",
+  "author": "子兰",
+  "dynasty": "唐",
+  "verses": [
+    "雨添一夜秋涛阔，极目茫茫似接天。",
+    "不知龙物潜何处，鱼跃蛙鸣满槛前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-abc03614-423e-45b0-80a0-499d2ce6cca9"
+}

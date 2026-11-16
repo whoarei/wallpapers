@@ -1,0 +1,14 @@
+{
+  "id": "poem-861694da998445e408adff3d",
+  "title": "江楼旧感",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "独上江楼思渺然，月光如水水如天。",
+    "同来望月人何处，风景依稀似去年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-244610b1-65f6-41fb-a29a-490e3a75d3ce"
+}

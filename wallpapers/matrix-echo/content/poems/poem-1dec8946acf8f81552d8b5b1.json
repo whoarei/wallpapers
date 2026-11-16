@@ -1,0 +1,16 @@
+{
+  "id": "poem-1dec8946acf8f81552d8b5b1",
+  "title": "遥伤茅山县孙尊师三首 三",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "空宇留丹灶，层霞被羽衣。",
+    "旧山闻鹿化，遗舃尚凫飞。",
+    "数日奇香在，何年白鹤归。",
+    "想君旋下泪，方欵里闾扉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-11f38d5e-78f2-42cb-aaff-a5146e980d4d"
+}

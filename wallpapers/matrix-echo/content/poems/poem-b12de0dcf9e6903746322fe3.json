@@ -1,0 +1,14 @@
+{
+  "id": "poem-b12de0dcf9e6903746322fe3",
+  "title": "三月晦日送春",
+  "author": "贾岛",
+  "dynasty": "唐",
+  "verses": [
+    "三月正当三十日，风光别我苦吟身。",
+    "共君今夜不须睡，未到晓钟犹是春。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-三月晦日送春"
+}

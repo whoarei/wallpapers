@@ -1,0 +1,14 @@
+{
+  "id": "poem-cb45921df9b5efb073417a8f",
+  "title": "君子行",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "君子慎所履，小人多所疑。",
+    "尼甫至圣贤，犹为匡所縻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-b28c27f1-881e-416c-8da4-78cfa97903fd"
+}

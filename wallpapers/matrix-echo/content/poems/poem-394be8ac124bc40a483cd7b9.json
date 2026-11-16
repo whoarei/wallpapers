@@ -1,0 +1,16 @@
+{
+  "id": "poem-394be8ac124bc40a483cd7b9",
+  "title": "题玄武禅师屋壁",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "何年顾虎头，满壁画沧州。",
+    "赤日石林气，青天江海流。",
+    "锡飞常近鹤，杯渡不惊鸥。",
+    "似得庐山路，真随惠远游。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-題玄武禪師屋壁"
+}

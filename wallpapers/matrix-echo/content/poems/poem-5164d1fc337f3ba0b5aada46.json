@@ -1,0 +1,18 @@
+{
+  "id": "poem-5164d1fc337f3ba0b5aada46",
+  "title": "临江仙·雪壁歌词题尚湿",
+  "author": "葛胜仲",
+  "dynasty": "宋",
+  "verses": [
+    "雪壁歌词题尚湿，春风又见轻红。",
+    "一枝斜插映头峰。",
+    "不辞连夜赏，银烛透纱笼。",
+    "白发欺人今老矣，尊前羞见繁秾。",
+    "清香尤嫪虎溪风。",
+    "海棠须避席，佳种谩蚕丛。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-34",
+  "tags": []
+}

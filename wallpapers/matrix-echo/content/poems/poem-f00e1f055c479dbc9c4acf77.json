@@ -1,0 +1,19 @@
+{
+  "id": "poem-f00e1f055c479dbc9c4acf77",
+  "title": "访羊尊师",
+  "author": "孙革",
+  "dynasty": "唐",
+  "verses": [
+    "松下问童子，言师采药去。",
+    "只在此山中，云深不知处。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言绝句",
+    "写人",
+    "寻访"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-162eb552-a496-4979-87e2-e441847d4e6f"
+}

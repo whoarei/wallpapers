@@ -1,0 +1,22 @@
+{
+  "id": "poem-034cf7973305c2601715e822",
+  "title": "闻官军收河南河北",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "劒外忽传收蓟北，初闻涕泪满衣裳。",
+    "却看妻子愁何在，漫卷诗书喜欲狂。",
+    "白日放歌须纵酒，青春作伴好还乡。",
+    "即从巴峡穿巫峡，便下襄阳向洛阳。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言律诗",
+    "思归",
+    "六年级下册",
+    "小学古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-22e90c0d-2b59-4500-8e5d-80d38ec4692c"
+}

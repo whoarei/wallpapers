@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7d2f",
+  "script": "kai",
+  "character": "累",
+  "reading": "lèi；léi；lěi",
+  "description": "léi：〔～～〕a.连续成串，如果实～～”；b.颓丧的样子，如～～若丧家之犬”。\n〔～赘〕a.多余，不简洁，如文字～～”；b.使人感到多余或麻烦的事物，如负重登高，不胜～～”（赘”均读轻声）。\n乏；\nlěi：(1)连续，重叠，堆积～计。～日。～积。～～。日积月～。连篇～牍。\n(2)照原数目多少而递增～进税。\n(3)连及，连带～及。牵～。拖～。\n乏；\nlèi：(1)疲乏，过劳劳～。～乏。\n(2)使疲劳病刚好，别再～着。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-累"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8f90",
+  "script": "kai",
+  "character": "辐",
+  "reading": "fú",
+  "description": "聚集如辐\n⒈车轮上一条一条的直条，从轮边连结到轮的中心。\n【辐射】光、热、电波等向四周发散的现象。\n【辐辏】\n【辐凑】车辐会聚于车轮的中心。〈喻〉人或物的聚集四方～辏。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辐"
+}

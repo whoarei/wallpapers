@@ -1,0 +1,16 @@
+{
+  "id": "poem-64581d428b250ed62fe6daf7",
+  "title": "梅花一首",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "生来幽意酷怜梅，醉眼愁眉见即开。",
+    "案上欲教终日在，林梢令折数枝来。",
+    "轻匀素色欺鱼网，潇洒清香压麝煤。",
+    "一嗅一观情一倍，熙熙不啻上春台。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-9a9b24c9-76cc-4ef3-b163-f945640c8ecc"
+}

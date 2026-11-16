@@ -1,0 +1,20 @@
+{
+  "id": "poem-a390ed55add7299db6bf11d7",
+  "title": "凤栖梧・蝶恋花·狂滥生涯今几许",
+  "author": "蔡楠",
+  "dynasty": "宋",
+  "verses": [
+    "狂滥生涯今几许。",
+    "敕赐湖天，万顷烟波主。",
+    "约我小舟同老去。",
+    "要前一叶风掀舞。",
+    "邂逅同寻溪上路。",
+    "淡墨题诗，正在云深处。",
+    "别后作书频寄语。",
+    "无忘林下萧萧雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-851",
+  "tags": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-6d6862c9d7dd8b72d3ba527d",
+  "title": "咏怀古迹五首 一",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "支离东北风尘际，漂泊西南天地间。",
+    "三峡楼台淹日月，五溪衣服共云山。",
+    "羯胡事主终无赖，词客衰时且未还。",
+    "庾信平生最萧瑟，暮年诗赋动江关。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "七言律诗",
+    "感叹",
+    "怀古"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-03eb4001-023a-4920-bbc7-a0fc52b2836d"
+}

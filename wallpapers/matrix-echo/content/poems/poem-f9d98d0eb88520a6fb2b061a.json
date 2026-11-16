@@ -1,0 +1,14 @@
+{
+  "id": "poem-f9d98d0eb88520a6fb2b061a",
+  "title": "乌夜啼",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "众鸟各归枝，乌乌尔不栖。",
+    "还应知妾恨，故向绿窗啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-f7763540-977d-4290-8d99-2e0ad16af9d6"
+}

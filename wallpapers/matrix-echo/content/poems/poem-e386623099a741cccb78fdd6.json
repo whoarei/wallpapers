@@ -1,0 +1,16 @@
+{
+  "id": "poem-e386623099a741cccb78fdd6",
+  "title": "残丝曲",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "垂杨叶老莺哺儿，残丝欲断黄蜂归。",
+    "绿鬓年少金钗客，缥粉壶中沈琥珀。",
+    "花台欲暮春辞去，落花起作回风舞。",
+    "榆荚相催不知数，沈郎青钱夹城路。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-60f418f1-447d-4916-b885-1cbab41f3bb8"
+}

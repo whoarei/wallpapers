@@ -1,0 +1,16 @@
+{
+  "id": "poem-071ac6cde1cbd7f8526c7e5e",
+  "title": "赠宾贡",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "惟君怀至业，万里信悠悠。",
+    "路向东[溟]出，枝来北阙求。",
+    "家无一夜梦，帆挂隔年秋。",
+    "鬓发争禁得，孤舟往复愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-1084793e-4e3a-41b7-9808-259e0be11113"
+}

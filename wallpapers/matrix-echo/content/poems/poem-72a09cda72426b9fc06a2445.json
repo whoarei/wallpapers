@@ -1,0 +1,18 @@
+{
+  "id": "poem-72a09cda72426b9fc06a2445",
+  "title": "喜雪",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "日观卜先征，时巡顺物情。",
+    "风行未备礼，云密遽飘霙。",
+    "委树寒花发，萦空落絮轻。",
+    "朝如玉已会，庭似月犹明。",
+    "既覩肤先合，还欣尺有盈。",
+    "登封何以报？因此谢功成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-20bfd036-c115-4eef-9a08-927a697c870c"
+}

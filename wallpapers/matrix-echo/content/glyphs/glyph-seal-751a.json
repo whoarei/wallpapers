@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-751a",
+  "script": "seal",
+  "character": "甚",
+  "reading": "shèn；shén",
+  "description": "shèn：(1)很，极～好。～快。\n(2)超过日～一日。\n(3)方言，什么～事？\n(4)表示进一层的意思～至。～或。\nshén：同什2”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-甚"
+}

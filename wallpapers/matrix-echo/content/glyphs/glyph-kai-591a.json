@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-591a",
+  "script": "kai",
+  "character": "多",
+  "reading": "duō",
+  "description": "duō：(1)数量大，与少”、寡”相对人～。～年。～姿。～层次。～角度。～难（nàn）兴（xīng）邦。～～益善。～行不义必自毙。\n(2)数目在二以上～年生草。～项式。～义词。～元论。\n(3)有余，比一定的数目大～余。一年～。\n(4)过分，不必要的～嘴。～心。～此一举。\n(5)相差的程度大好得～。\n(6)表示惊异、赞叹～好。\n(7)表示某种程度有～大劲儿使～大劲儿。\n(8)表疑问有～大呢？～会儿？\n(9)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-多"
+}

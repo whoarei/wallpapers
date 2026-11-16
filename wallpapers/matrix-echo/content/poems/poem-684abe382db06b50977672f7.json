@@ -1,0 +1,18 @@
+{
+  "id": "poem-684abe382db06b50977672f7",
+  "title": "奉纪",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "八座近黄扉，三公宜黑发。",
+    "用舍岂自谋，机缄何翕忽。",
+    "一麾遽出守，双溪厌风月。",
+    "江海今就闲，议论犹英发。",
+    "大厦终须材，虚舟聊应物。",
+    "胜览莫辞频，君驺宁久歇。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-d4e4452f-0bed-414c-b9b0-858a0e1fdbc2"
+}

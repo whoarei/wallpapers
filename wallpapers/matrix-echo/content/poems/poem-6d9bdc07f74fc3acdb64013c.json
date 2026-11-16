@@ -1,0 +1,19 @@
+{
+  "id": "poem-6d9bdc07f74fc3acdb64013c",
+  "title": "赠安道士",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "吴罝传世皆妙语，善升乃近崔遵度。",
+    "丝桐造妙诗疑神，古来多属方外人。",
+    "羡君矫矫云山客，子墨桐君生莫逆。",
+    "此人此艺吾了然，锦囊杰句多时贤。",
+    "月斧云斤且游戏，缠声鹿鸣莫经意。",
+    "古人进艺道与俱，如君不应古与殊。",
+    "谒帝行如稷丘子，莫谩瓜芋嗤侯喜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-d0066048-505e-4380-90fb-a3cd682c1f58"
+}

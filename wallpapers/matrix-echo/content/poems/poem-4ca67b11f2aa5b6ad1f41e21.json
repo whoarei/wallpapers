@@ -1,0 +1,13 @@
+{
+  "id": "poem-4ca67b11f2aa5b6ad1f41e21",
+  "title": "句",
+  "author": "张牙",
+  "dynasty": "唐",
+  "verses": [
+    "看看舞罢轻云去，应赴襄王梦里期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-97e0ea68-3531-4203-9a23-9c2971612d63"
+}

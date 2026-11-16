@@ -1,0 +1,16 @@
+{
+  "id": "poem-cbc6e99005c16755dd139754",
+  "title": "和伯常自郢州见寄",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "西郊去歳揖行人，柳暗花浓又一春。",
+    "坐想高风清入骨，沉吟佳句健生神。",
+    "潺湲杳霭烟波古，散诞逍遥兴趣新。",
+    "应笑洛阳车马道，缁衣未免化红尘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-f71d1748-9f8a-4f92-b490-682e6517be47"
+}

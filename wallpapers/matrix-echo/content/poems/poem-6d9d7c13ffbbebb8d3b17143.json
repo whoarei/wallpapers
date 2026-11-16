@@ -1,0 +1,14 @@
+{
+  "id": "poem-6d9d7c13ffbbebb8d3b17143",
+  "title": "豪家夏冰咏",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "金错银盘贮赐冰，清光如耸玉山棱。",
+    "无论尘客闲停扇，直到消时不见蝇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-dd0df055-d7b9-4fae-b979-ec07e0608cc4"
+}

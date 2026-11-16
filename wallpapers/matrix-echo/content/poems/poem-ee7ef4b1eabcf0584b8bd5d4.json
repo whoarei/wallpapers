@@ -1,0 +1,18 @@
+{
+  "id": "poem-ee7ef4b1eabcf0584b8bd5d4",
+  "title": "边城独望",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "聊凭危堞望，倍起异乡情。",
+    "霜落蒹葭白，山昏雾露生。",
+    "河滩胡鴈下，戎垒汉鼙惊。",
+    "独树残秋色，狂歌泪满缨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "思乡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-0e88cd12-cf15-4c60-8963-1fa3ea435686"
+}

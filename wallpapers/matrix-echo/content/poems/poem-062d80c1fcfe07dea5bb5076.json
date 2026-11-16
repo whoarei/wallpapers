@@ -1,0 +1,18 @@
+{
+  "id": "poem-062d80c1fcfe07dea5bb5076",
+  "title": "戏赠无本 一",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "长安秋声干，木叶相号悲。",
+    "瘦僧卧冰凌，嘲咏含金痍。",
+    "金痍非战痕，峭病方在兹。",
+    "诗骨耸东野，诗涛涌退之。",
+    "有时踉跄行，人惊鹤阿师。",
+    "可惜李杜死，不见此狂痴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-22107002-3bdc-478c-a488-2aa99acc3f8b"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9716",
+  "script": "seal",
+  "character": "霖",
+  "reading": "lín",
+  "description": "lín：久下不停的雨～雨。～沥。～～。甘～（ａ．对农作物有利的雨；ｂ．喻恩泽）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-霖"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-4241d0dd99c315674abde343",
+  "title": "甘州子·曾如刘阮访仙踪",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "曾如刘阮访仙踪，深洞客，此时逢。",
+    "绮筵散后绣衾同，款曲见韶容。",
+    "山枕上，长是怯晨钟。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-43"
+}

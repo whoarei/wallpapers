@@ -1,0 +1,19 @@
+{
+  "id": "poem-d9ed5776f10003fcda993af6",
+  "title": "思远人·红叶黄花秋意晚",
+  "author": "晏几道",
+  "dynasty": "宋",
+  "verses": [
+    "红叶黄花秋意晚，千里念行客。",
+    "飞云过尽，归鸿无信，何处寄书得。",
+    "泪弹不尽临窗滴。",
+    "就砚旋研墨。",
+    "渐写到别来，此情深处，红笺为无色。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-35"
+}

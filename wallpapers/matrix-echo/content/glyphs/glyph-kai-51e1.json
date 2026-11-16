@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51e1",
+  "script": "kai",
+  "character": "凡",
+  "reading": "fán",
+  "description": "fán：(1)平常的，不出奇的平～。～庸。～夫俗子。\n(2)指人世间（宗教或迷信的说法）～尘。～心。\n(3)所有的～年满十八岁的公民，都有选举权与被选举权。～是。\n(4)总共全书～二十八卷。\n(5)大概，要略大～。～例。发～（陈述全书或某一学科的要旨）。\n(6)中国古代乐谱的记音符号，相当于简谱4”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-凡"
+}

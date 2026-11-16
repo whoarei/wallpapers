@@ -1,0 +1,16 @@
+{
+  "id": "poem-a8af8230d85c436046161abb",
+  "title": "和梁签判颍州西湖十三题 撷芳亭",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "春来何处最花繁，湖水西头百亩园。",
+    "无限游人折红蕊，可怜桃李自无言。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-242806ad-dd23-40f2-a816-73e76f1aca01"
+}

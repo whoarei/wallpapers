@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ede",
+  "script": "seal",
+  "character": "仞",
+  "reading": "rèn",
+  "description": "rèn：(1)古代计量单位一～（周尺八尺或七尺。周尺一尺约合二十三厘米）。山高万～。\n(2)测量深度。\n(3)古同韧”，坚韧。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-仞"
+}

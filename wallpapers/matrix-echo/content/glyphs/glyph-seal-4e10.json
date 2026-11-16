@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e10",
+  "script": "seal",
+  "character": "丐",
+  "reading": "gài",
+  "description": "gài：(1)乞求。\n(2)讨饭的人乞～。\n(3)给与、施与沾～后人多矣”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丐"
+}

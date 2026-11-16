@@ -1,0 +1,14 @@
+{
+  "id": "poem-77ed345241f78afe79ba2c2d",
+  "title": "墨竹",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "搜搅微茫到物初，解衣盘礴便扶疎。",
+    "岁寒节节曾参透，不负刚明一寸虚。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-3d7691b1-0de8-4b7a-867b-855b5c4f9370"
+}

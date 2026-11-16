@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-68af",
+  "script": "seal",
+  "character": "梯",
+  "reading": "tī",
+  "description": "tī：(1)登高用的器具、设备～子。楼～。木～。软～。电～。云～。阶～。\n(2)形状或作用像梯子的～田。～级。～形。～队（亦泛指工作中层层递补的力量）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梯"
+}

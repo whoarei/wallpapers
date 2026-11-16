@@ -1,0 +1,16 @@
+{
+  "id": "poem-691d1346882b5c4d955615bc",
+  "title": "颜提举之官",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "兰陵曾颂隣州政，除却龚黄总不如。",
+    "又似澄江千尺练，只传陋巷一编书。",
+    "坐令季子昌遗俗，尽道丹山更好雏。",
+    "老我林泉散樗栎，守愚终不与贤疎。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-6e8b3921-2d80-478e-8105-668bc71de66f"
+}

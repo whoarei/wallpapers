@@ -1,0 +1,16 @@
+{
+  "id": "poem-b0d0b777221302100bf0ce82",
+  "title": "雪",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "集霰夜才分，缤霏晓更零。",
+    "未乘风洒洒，先挟雨冥冥。",
+    "窗失三更黑，山无一寸青。",
+    "有船非剡櫂，谁去扣吟扃。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-6036ac20-e1b3-4025-af2c-6cfdccd554fb"
+}

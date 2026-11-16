@@ -1,0 +1,14 @@
+{
+  "id": "poem-a8fdf0f988640b232e1e333b",
+  "title": "苑中人日遇雪应制",
+  "author": "赵彦昭",
+  "dynasty": "唐",
+  "verses": [
+    "始见青云干律吕，俄逢瑞雪应阳春。",
+    "今日回看上林树，梅花柳絮一时新。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6ea04e5b-c451-4f23-9914-a5dd163bc169"
+}

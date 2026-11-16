@@ -1,0 +1,14 @@
+{
+  "id": "poem-77ec4e5afe8281dbe9bfaaef",
+  "title": "杨柳枝·有池有榭即蒙蒙",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "有池有榭即蒙蒙，浸润翻成长养功。",
+    "恰似有人长点检，着行排立向春风。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-42"
+}

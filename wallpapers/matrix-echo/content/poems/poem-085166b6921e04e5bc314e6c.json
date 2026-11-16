@@ -1,0 +1,14 @@
+{
+  "id": "poem-085166b6921e04e5bc314e6c",
+  "title": "洋州三十景 过溪亭",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "溪桥入庭下，杖履可忘忧。",
+    "谁识钓璜翁，有时抛直钩。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8b1541cb-66bc-4a18-ac1b-957aa444a060"
+}

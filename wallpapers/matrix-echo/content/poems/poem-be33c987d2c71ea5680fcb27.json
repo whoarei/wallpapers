@@ -1,0 +1,16 @@
+{
+  "id": "poem-be33c987d2c71ea5680fcb27",
+  "title": "同崔邠登鹳雀楼",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "鹳雀楼西百尺樯，汀洲云树共茫茫。",
+    "汉家箫鼓空流水，魏国山河半夕阳。",
+    "事去千年犹恨速，愁来一日即为长。",
+    "风烟倂起思归望，远目非春亦自伤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-2bf81ba1-a18f-4e42-9bad-ac68cae86da4"
+}

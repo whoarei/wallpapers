@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-67d4",
+  "script": "seal",
+  "character": "柔",
+  "reading": "róu",
+  "description": "róu：(1)植物初生而嫩～荑（初生嫩芽，喻女子白嫩的手）。\n(2)软，不硬～软。～韧。～嫩。～滑。\n(3)软弱，与刚”相对～懦。～弱。刚～相济。\n(4)温和～顺。～和。～曼（柔和妩媚）。～情。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-柔"
+}

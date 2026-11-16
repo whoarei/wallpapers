@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4fc3",
+  "script": "kai",
+  "character": "促",
+  "reading": "cù",
+  "description": "cù：(1)近，时间紧迫～膝。～席（坐近）。急～。短～。仓～。\n(2)催，推动～使。～进。敦～。督～。催～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-促"
+}

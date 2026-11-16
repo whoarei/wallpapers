@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6942",
+  "script": "seal",
+  "character": "楂",
+  "reading": "zhā；chá",
+  "description": "zhā：〔山～〕ａ．落叶乔木，果实球形，红色有白点，味酸，可食；ｂ．这种植物的果实。亦作山查”。\nchá：(1)同茬”。\n(2)水中木筏穷岸有盘～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-楂"
+}

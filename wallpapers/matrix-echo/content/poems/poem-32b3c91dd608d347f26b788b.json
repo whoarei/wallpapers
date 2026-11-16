@@ -1,0 +1,16 @@
+{
+  "id": "poem-32b3c91dd608d347f26b788b",
+  "title": "河传·秋雨",
+  "author": "阎选",
+  "dynasty": "五代",
+  "verses": [
+    "秋雨，秋雨，无昼无夜，滴滴霏霏。",
+    "暗灯凉簟怨分离，妖姬，不胜悲。",
+    "西风稍急喧窗竹，停又续，腻脸悬双玉。",
+    "几回邀约雁来时，违期，雁归，人不归。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-26"
+}

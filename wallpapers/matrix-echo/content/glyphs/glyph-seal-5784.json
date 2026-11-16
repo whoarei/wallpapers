@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5784",
+  "script": "seal",
+  "character": "垄",
+  "reading": "lǒng",
+  "description": "土埂\n田埂\n成行种植农作物的土埂\n高丘,高地\n⒈田埂，也指田间的高地～土。\n⒉农作物的行或行间的土埂麦～。田～。\n⒊像垄的东西瓦～。\n⒋坟墓丘～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-垄"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-4efe47e9813d53de9eb0e3bf",
+  "title": "插花吟",
+  "author": "邵雍",
+  "dynasty": "宋",
+  "verses": [
+    "头上花枝照酒卮，酒卮中有好花枝。",
+    "身经两世太平日，眼见四朝全盛时。",
+    "况复筋骸粗康健，那堪时节正芳菲。",
+    "酒涵花影红光溜，争忍花前不醉归。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-插花吟"
+}

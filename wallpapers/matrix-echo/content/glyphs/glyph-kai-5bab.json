@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5bab",
+  "script": "kai",
+  "character": "宫",
+  "reading": "gōng",
+  "description": "gōng：(1)房屋（封建时代专指帝王的住所）～室。～廷。～殿。～观（guàn）（ａ．供帝王游乐的离宫；ｂ．道教的庙宇）。～禁。～苑。～刑。\n(2)神话中神仙居住的房屋天～。龙～。蟾～。\n(3)庙宇的名称雍和～。\n(4)一些文化娱乐场所少年～。文化～。\n(5)天文上黄道分为十二宫，每一宫三十度。\n(6)中国古代五音之一，相当于简谱1”。\n(7)指子宫”（妇女生殖器官）。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宫"
+}

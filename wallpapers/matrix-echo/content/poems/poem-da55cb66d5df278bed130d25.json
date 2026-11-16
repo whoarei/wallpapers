@@ -1,0 +1,14 @@
+{
+  "id": "poem-da55cb66d5df278bed130d25",
+  "title": "寒塘",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "晓发梳临水，寒塘坐见秋。",
+    "乡心正无限，一雁度南楼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e1064aa9-4b66-4a1a-9f95-8675b1141fb7"
+}

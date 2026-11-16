@@ -1,0 +1,16 @@
+{
+  "id": "poem-9d01a8b30614b6dccedbb3d9",
+  "title": "南有嘉鱼",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "南有嘉鱼，烝然罩罩。君子有酒，嘉宾式燕以乐。",
+    "南有嘉鱼，烝然汕汕。君子有酒，嘉宾式燕以衎。",
+    "南有樛木，甘瓠累之。君子有酒，嘉宾式燕绥之。",
+    "翩翩者鵻，烝然来思。君子有酒，嘉宾式燕又思。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-170"
+}

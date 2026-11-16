@@ -1,0 +1,14 @@
+{
+  "id": "poem-06d55d9e96c6ce844857afdb",
+  "title": "汉宫词",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "独诏胡衣出，天花落殿堂。",
+    "他人不敢妬，垂泪向君王。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2a815db8-4abd-4219-aeeb-02be5d657b19"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6ee8",
+  "script": "kai",
+  "character": "滨",
+  "reading": "bīn",
+  "description": "湖、河、海的水边陆地\n古州名\n通濒”。靠近;临近\n①水边；近水的地方东海之～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-滨"
+}

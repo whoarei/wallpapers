@@ -1,0 +1,20 @@
+{
+  "id": "poem-ee35e45da42194a548b3f2c2",
+  "title": "菩萨蛮·归鸿声断残云碧",
+  "author": "李清照",
+  "dynasty": "宋",
+  "verses": [
+    "归鸿声断残云碧。",
+    "背窗雪落炉烟直。",
+    "烛底凤钗明。",
+    "钗头人胜轻。",
+    "角声催晓漏。",
+    "曙色回牛斗。",
+    "春意看花难。",
+    "西风留旧寒。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-688",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-0116d11e8229688a7bfb80e8",
+  "title": "送杨皞东归",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "登楼掩泣话归期，楚树荆云发远思。",
+    "日里扬帆闻戍鼓，舟中酹酒见山祠。",
+    "西江风浪何时尽，北客音书欲寄谁。",
+    "若说湓城杨司马，知君望国有新诗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-a7eef0a3-b6c6-41bf-9943-ac00dc60f57a"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-8241d8dabd9cb41af21bd951",
+  "title": "送崔琦赴宣州幕",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "五马临流待幕宾，羡君谈笑出风尘。",
+    "身闲就养宁辞远，世难移家莫厌贫。",
+    "天际晓山三峡路，津头腊市九江人。",
+    "何处遥知最惆怅，满湖青草鴈声春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6d8d65c5-372c-4d4d-afae-5ada1d1ff2c7"
+}

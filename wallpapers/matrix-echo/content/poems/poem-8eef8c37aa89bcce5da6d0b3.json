@@ -1,0 +1,16 @@
+{
+  "id": "poem-8eef8c37aa89bcce5da6d0b3",
+  "title": "重忆山居六首 漏潭石",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "常疑六合外，未信漆园书。",
+    "及此闻溪漏，方欣验尾闾。",
+    "大哉天地气，呼吸有盈虚。",
+    "美石劳相赠，琼瑰自不如。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-805feea3-9669-4ea8-a097-d50534875e13"
+}

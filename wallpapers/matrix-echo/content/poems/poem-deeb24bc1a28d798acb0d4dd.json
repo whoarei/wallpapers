@@ -1,0 +1,14 @@
+{
+  "id": "poem-deeb24bc1a28d798acb0d4dd",
+  "title": "和前人韵  其一",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "名山终是欠徘徊，小队轻车决意来。",
+    "他日相思无觅处，殷勤先赠岭头梅。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b2222b34-659c-4fe0-a6d9-742af61c1035"
+}

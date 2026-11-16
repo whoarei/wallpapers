@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-89ef",
+  "script": "seal",
+  "character": "觯",
+  "reading": "zhì",
+  "description": "古时饮酒用的器皿。青铜制。形似尊而小,或有盖",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-觯"
+}

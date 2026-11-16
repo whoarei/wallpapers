@@ -1,0 +1,17 @@
+{
+  "id": "poem-e7b58ce896d7a91e099be75c",
+  "title": "传言玉女",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(外上)得睹天颜，真为主忧臣辱。",
+    "(老旦上)皇恩深沐，享千钟重禄。",
+    "(旦、小旦上)如今幸得再整银屏金屋。",
+    "(合)皇朝重见，太严重睹。",
+    "(外)尽日笙歌按玉楼，(老旦)忽朝军马犯皇州，(旦、小旦)但知会取非常乐，(合)须是提防不测忧。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3047",
+  "tags": []
+}

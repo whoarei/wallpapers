@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9f22",
+  "script": "seal",
+  "character": "鼢",
+  "reading": "fén",
+  "description": "fén：〔～鼠〕哺乳动物，在地下打洞，损害农作物的根及牧草，甚至桅河堤。亦称盲鼠”、地羊”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鼢"
+}

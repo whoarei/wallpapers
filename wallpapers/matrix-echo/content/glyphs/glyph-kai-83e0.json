@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-83e0",
+  "script": "kai",
+  "character": "菠",
+  "reading": "bō",
+  "description": "bō：〔～菜〕一年生或二年生草本植物，叶子略呈三角形，根红色，含甜味，根和茎、叶均可食。\n〔～萝〕ａ．多年生草本植物。果实密集在一起，外部呈麟片状，果肉甜酸，产于热带；ｂ．这种植物的果实，亦称凤梨”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-菠"
+}

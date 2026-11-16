@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9686",
+  "script": "seal",
+  "character": "隆",
+  "reading": "lóng",
+  "description": "lóng：(1)盛大，厚，程度深～冬。～重（zhòng）。\n(2)兴（xīng）盛兴～。～盛（shèng）。\n(3)高，高起～起。～穹。～准（高鼻梁）。\n(4)尊崇～师。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-隆"
+}

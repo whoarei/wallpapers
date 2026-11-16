@@ -1,0 +1,16 @@
+{
+  "id": "poem-a42c0ae780fde8fe54d75081",
+  "title": "送皎然上人归山",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "适来世上岂缘名，适去人间岂为情。",
+    "古寺山中几日到，高松月下一僧行。",
+    "云阴鸟道苔方合，雪映龙潭水更清。",
+    "法主欲归须有说，门人流泪厌浮生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-9b9e4720-2ced-46a8-8cd2-be4575f67658"
+}

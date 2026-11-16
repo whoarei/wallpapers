@@ -1,0 +1,18 @@
+{
+  "id": "poem-82ed9b1e39b4803cc4014afb",
+  "title": "题石窟寺",
+  "author": "宋昱",
+  "dynasty": "唐",
+  "verses": [
+    "梵宇开金地，香龛凿铁围。",
+    "影中群象动，空里众灵飞。",
+    "簷牖笼朱旭，房廊挹翠微。",
+    "瑞莲生佛步，瑶树挂天衣。",
+    "邀福功虽在，兴王代久非。",
+    "谁知云朔外，更覩化胡归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-700474d8-74f7-49ba-934c-bf5e02d2c469"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62f7",
+  "script": "kai",
+  "character": "拷",
+  "reading": "kǎo",
+  "description": "kǎo：打～打。～问。～掠（泛指刑讯）。三～六问。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拷"
+}

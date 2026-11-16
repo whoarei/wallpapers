@@ -1,0 +1,18 @@
+{
+  "id": "poem-afe04ca19dc8f7bc0fe3c9b0",
+  "title": "后宫词",
+  "author": "白居易",
+  "dynasty": "唐",
+  "verses": [
+    "泪湿罗巾梦不成，夜深前殿按歌声。",
+    "红颜未老恩先断，斜倚薰笼坐到明。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "宫怨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-549a5a94-a8f5-436e-bc9c-1253d01c1940"
+}

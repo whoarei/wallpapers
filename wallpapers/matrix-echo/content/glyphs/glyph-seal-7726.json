@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7726",
+  "script": "seal",
+  "character": "眦",
+  "reading": "zì",
+  "description": "zì：眼角，上下眼睑的接合处，靠近鼻子的称内眦”，靠近两鬓的称外眦”～裂（形容愤怒到极点）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-眦"
+}

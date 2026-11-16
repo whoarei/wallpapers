@@ -1,0 +1,16 @@
+{
+  "id": "poem-f804187a78e0ec09b17f1b82",
+  "title": "郊庙歌辞 祀九宫贵神乐章 肃和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "歌工既奏，神位既秩。",
+    "天符众星，运行太一。",
+    "声和十管，气应中律。",
+    "肃肃明廷，介兹元吉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e46ff4fd-f74e-4df3-81dd-5268b6ca2507"
+}

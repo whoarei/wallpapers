@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-654c",
+  "script": "kai",
+  "character": "敌",
+  "reading": "dí",
+  "description": "抵抗;抵挡\n攻击\n①仇敌～人、抗～。\n②对抗；抵拒所向无～。\n③同等；相当势均力～。\n【敌敌畏】〈外〉一种有机磷杀虫剂，为稍带芳香臭体的无色透明液体。\n【敌酋】敌人的头子。\n【敌人】敌对的人或敌对的方面。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-敌"
+}

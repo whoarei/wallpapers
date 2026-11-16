@@ -1,0 +1,16 @@
+{
+  "id": "poem-7babe4d41015f2d78b2cdd45",
+  "title": "破山寺后禅院",
+  "author": "常建",
+  "dynasty": "唐",
+  "verses": [
+    "清晨入古寺，初日照高林。",
+    "曲径通幽处，禅房花木深。",
+    "山光悦鸟性，潭影空人心。",
+    "万籁此俱寂，惟闻钟磬音。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-破山寺後禪院"
+}

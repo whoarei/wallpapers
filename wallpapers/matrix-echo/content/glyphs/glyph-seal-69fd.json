@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-69fd",
+  "script": "seal",
+  "character": "槽",
+  "reading": "cáo",
+  "description": "cáo：(1)一种长方形或正方形的较大的盛东西的器具～子。水～。酒～。～坊。\n(2)特指用来盛饲料喂牲畜的器具马～。猪食～。～头。\n(3)槽状的～钢。～铁。～牙。\n(4)两边高起，中间凹下物体的凹下部分河～。在石头上凿个～儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-槽"
+}

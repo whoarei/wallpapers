@@ -1,0 +1,20 @@
+{
+  "id": "poem-4a22e7f4905cd2ca5fcc4464",
+  "title": "台城",
+  "author": "韦庄",
+  "dynasty": "唐",
+  "verses": [
+    "江雨霏霏江草齐，六朝如梦鸟空啼。",
+    "无情最是台城柳，依旧烟笼十里堤。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "写景",
+    "抒情",
+    "咏史怀古"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-9154fc22-5e19-45b7-a506-435298bb26fc"
+}

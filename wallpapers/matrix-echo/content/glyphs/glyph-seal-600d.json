@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-600d",
+  "script": "seal",
+  "character": "怍",
+  "reading": "zuò；zhà",
+  "description": "zuò：(1)惭愧渐～。愧～。仰不愧于天，俯不～于人。\n(2)（脸色）改变将即席，容毋～。”\nzhà：〔??（yà）～〕心多奸诈。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怍"
+}

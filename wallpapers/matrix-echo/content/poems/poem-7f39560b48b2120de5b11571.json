@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f39560b48b2120de5b11571",
+  "title": "送吴冯游京",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "北期何意促，蕙草夜来繁。",
+    "清月思淮水，春风望国门。",
+    "此时休旋逸，万里忽飞翻。",
+    "若忆山阴会，孤琴为我援。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4a4243ce-d7ea-4524-b1bc-afdbccb75945"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-8f0fde1e04e16fdb3bc85917",
+  "title": "驻马听",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生、旦上)一路里奔驰，多少艰辛，来到这里。",
+    "且喜略时才肃静，渐次平安，稍而宁息。",
+    "恨悠悠千里旅情悲，苦恹恹一片乡心碎。",
+    "感叹咨嗟，伤情满眼关山泪。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2976",
+  "tags": []
+}

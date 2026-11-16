@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9162",
+  "script": "seal",
+  "character": "酢",
+  "reading": "zuò",
+  "description": "zuò：客人用酒回敬主人酬～（主客相互敬酒，引申为朋友交往应酬）。～爵（回敬主人用的酒器）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-酢"
+}

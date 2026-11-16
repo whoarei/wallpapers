@@ -1,0 +1,18 @@
+{
+  "id": "poem-18370fad0afd53dcb454e3f7",
+  "title": "送日本使还",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "绝国将无外，扶桑更有东。",
+    "来朝逢圣日，归去及秋风。",
+    "夜泛潮回际，晨征苍莽中。",
+    "鲸波腾水府，蜃气壮仙宫。",
+    "天眷何期远，王文久已同。",
+    "相望杳不见，离恨托飞鸿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-c2c273aa-9617-4100-bbca-193f58f31d5f"
+}

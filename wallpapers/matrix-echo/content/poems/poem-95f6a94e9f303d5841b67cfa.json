@@ -1,0 +1,14 @@
+{
+  "id": "poem-95f6a94e9f303d5841b67cfa",
+  "title": "加颂蜀僧雪颂  其七",
+  "author": "释印肃",
+  "dynasty": "宋",
+  "verses": [
+    "浄人若信平常事，穿过髑髅连孔鼻。",
+    "多中一了一中多，城东老母难回避。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-f99860ec-f11e-420e-8d78-e2f99020f43c"
+}

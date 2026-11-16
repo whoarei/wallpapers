@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f88",
+  "script": "kai",
+  "character": "侈",
+  "reading": "chǐ",
+  "description": "chǐ：(1)浪费，用财物过度～糜。奢～。穷奢极～。\n(2)夸大～谈。\n(3)邪行放辟邪～”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-侈"
+}

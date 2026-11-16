@@ -1,0 +1,14 @@
+{
+  "id": "poem-880c954a6481a4ea3875674f",
+  "title": "祈雨坛",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "万感生于一念间，炷香惊起老龙蟠。",
+    "今年人协嘉鱼梦，荒却池前古石坛。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-52986587-32bc-41d2-93c8-e276b304f399"
+}

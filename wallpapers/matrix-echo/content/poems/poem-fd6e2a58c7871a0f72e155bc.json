@@ -1,0 +1,16 @@
+{
+  "id": "poem-fd6e2a58c7871a0f72e155bc",
+  "title": "友人亭松",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "俛仰不能去，如逢旧友同。",
+    "曾因春雪散，见在华山中。",
+    "何处有明月，访君听远风。",
+    "相将归未得，各占石岩东。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-183ffb29-cb99-4eb4-b349-db564ff8bd07"
+}

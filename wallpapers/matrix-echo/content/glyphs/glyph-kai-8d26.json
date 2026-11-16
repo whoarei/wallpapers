@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d26",
+  "script": "kai",
+  "character": "账",
+  "reading": "zhàng",
+  "description": "账簿\n⒈钱财出入的记载记～。现金日记～。\n⒉登记账目、户籍的本子或单子～簿。一本～。户籍～。一篇～单。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-账"
+}

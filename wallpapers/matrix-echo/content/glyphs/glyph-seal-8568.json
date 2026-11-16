@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8568",
+  "script": "seal",
+  "character": "蕨",
+  "reading": "jué",
+  "description": "jué：多年生草本植物，根茎长。嫩叶可食，根茎可制淀粉，其纤维可制绳缆，耐水。全株入药。\n〔～类植物〕植物的一大类，草本，很少木本，有根、茎和叶，用孢子繁殖，生长在森林和山野的阴湿地带，如蕨”、石松”等。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蕨"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-5d2fb2d1ed71cc2da9b07a6e",
+  "title": "蝶恋花·越女采莲秋水畔",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "越女采莲秋水畔。",
+    "窄袖轻罗，暗露双金钏。",
+    "照影摘花花似面。",
+    "芳心只共丝争乱。",
+    "㶉𫛶滩头风浪晚。",
+    "雾重烟轻，不见来时伴。",
+    "隐隐歌声归棹远。",
+    "离愁引著江南岸。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-636",
+  "tags": []
+}

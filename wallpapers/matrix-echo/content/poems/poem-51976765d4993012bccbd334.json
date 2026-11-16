@@ -1,0 +1,16 @@
+{
+  "id": "poem-51976765d4993012bccbd334",
+  "title": "祀风师乐章 迎神",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "太皞御气，句芒肇功。",
+    "苍龙青旗，爰候祥风。",
+    "律以和应，神以感通。",
+    "鼎俎修蚃，时惟礼崇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-28b2515e-49c3-49f9-8702-d7b63a8136f4"
+}

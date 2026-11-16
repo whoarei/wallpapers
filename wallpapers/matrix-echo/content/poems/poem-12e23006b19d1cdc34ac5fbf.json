@@ -1,0 +1,20 @@
+{
+  "id": "poem-12e23006b19d1cdc34ac5fbf",
+  "title": "哭翰林丁侍郎",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "相知出肺腑，非旧亦非亲。",
+    "每见云霄侣，多阳鄙拙身。",
+    "即期扶泰运，岂料哭贤人。",
+    "应是随先帝，依前作近臣。",
+    "平生任公直，爱弟尚风尘。",
+    "宅闭青松古，坟临赤水新。",
+    "官清仍齿壮，儿小复家贫。",
+    "惆怅天难问，空流泪满巾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-7b0c00e0-5f71-46a7-8733-8b1abed9354f"
+}

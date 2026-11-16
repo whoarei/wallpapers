@@ -1,0 +1,18 @@
+{
+  "id": "poem-a88bfa2ad406a54386d8c1e0",
+  "title": "西江月·天地才经否泰",
+  "author": "张伯端",
+  "dynasty": "宋",
+  "verses": [
+    "天地才经否泰，朝昏好识屯蒙。",
+    "辐来辏毂水朝宗。",
+    "妙在抽添运用。",
+    "得一万般皆毕，休分南北西东。",
+    "损之又损慎前功。",
+    "命宝不宜轻弄。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-976",
+  "tags": []
+}

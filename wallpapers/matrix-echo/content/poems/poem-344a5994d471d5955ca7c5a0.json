@@ -1,0 +1,15 @@
+{
+  "id": "poem-344a5994d471d5955ca7c5a0",
+  "title": "句",
+  "author": "陈知柔",
+  "dynasty": "宋",
+  "verses": [
+    "木落洞庭秋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-6412bde5-9e13-4a90-9b79-434d7fd51628"
+}

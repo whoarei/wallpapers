@@ -1,0 +1,14 @@
+{
+  "id": "poem-0ab2100ced83837858555247",
+  "title": "题泽翁小卷  其二",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "断岸江波阔，迢迢十里宽。",
+    "人烟藏处密，霁色媚寒滩。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-531ae989-fedb-4ecd-8c30-4c93a79bcf2c"
+}

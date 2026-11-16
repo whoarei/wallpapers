@@ -1,0 +1,15 @@
+{
+  "id": "poem-34ef101a1478c78781808ef0",
+  "title": "月出",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "月出皎兮。佼人僚兮。舒窈纠兮。劳心悄兮。",
+    "月出皓兮。佼人懰兮。舒忧受兮。劳心慅兮。",
+    "月出照兮。佼人燎兮。舒夭绍兮。劳心惨兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-142"
+}

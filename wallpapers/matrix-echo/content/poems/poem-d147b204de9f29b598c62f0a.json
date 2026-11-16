@@ -1,0 +1,16 @@
+{
+  "id": "poem-d147b204de9f29b598c62f0a",
+  "title": "渔歌子·草芊芊",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "草芊芊，波漾漾，湖边草色连波涨。",
+    "沿蓼岸，泊飘汀，天际玉轮初上。",
+    "扣舷歌，联极望，桨声伊轧知何向。",
+    "黄鹊叫，白鸥眠，谁似侬家疏旷。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-46"
+}

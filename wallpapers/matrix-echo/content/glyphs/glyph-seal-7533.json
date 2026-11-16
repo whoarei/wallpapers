@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7533",
+  "script": "seal",
+  "character": "申",
+  "reading": "shēn",
+  "description": "shēn：(1)地支的第九位，属猴。\n(2)用于记时～时（下午三点至五点）。\n(3)陈述，说明～述。～斥。～辩。～冤。三令五～。～请。～报。\n(4)重复，一再～之以盟誓，重之以昏姻”。\n(5)中国上海市的别称。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-申"
+}

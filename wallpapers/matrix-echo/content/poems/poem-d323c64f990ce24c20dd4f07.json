@@ -1,0 +1,14 @@
+{
+  "id": "poem-d323c64f990ce24c20dd4f07",
+  "title": "人日立春",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "春度春归无限春，今朝方始觉成人。",
+    "从今尅己应犹及，颜与梅花俱自新。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-920bb4e9-69cb-4226-a45c-04ba744e19c3"
+}

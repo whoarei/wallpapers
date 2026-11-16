@@ -1,0 +1,17 @@
+{
+  "id": "poem-82cbd619d0da7c5ba2f3101b",
+  "title": "峡口送友人",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "峡口花飞欲尽春，天涯去住泪沾巾。",
+    "来时万里同为客，今日飜成送故人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "离别",
+    "春天"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-ddf96d5e-ba4c-4bbc-9630-f4cc54d871a5"
+}

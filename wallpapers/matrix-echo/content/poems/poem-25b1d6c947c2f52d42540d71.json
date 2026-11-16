@@ -1,0 +1,18 @@
+{
+  "id": "poem-25b1d6c947c2f52d42540d71",
+  "title": "蜘蛛讽",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "万类皆有性，各各禀天和。",
+    "蚕身与汝身，汝身何太讹。",
+    "蚕身不为己，汝身不为佗。",
+    "蚕丝为衣裳，汝丝为网罗。",
+    "济物几无功，害物日已多。",
+    "百虫虽切恨，其将奈尔何。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-9a2c04d4-88ec-4029-ac1b-96a2c4d41a42"
+}

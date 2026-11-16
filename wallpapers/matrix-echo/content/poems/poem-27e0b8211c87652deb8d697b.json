@@ -1,0 +1,14 @@
+{
+  "id": "poem-27e0b8211c87652deb8d697b",
+  "title": "戏赠友人",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "湘阴直与地阴连，此日相逢忆醉年。",
+    "美酒非如平乐贵，十升不用一千钱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-00701b63-8026-4375-bb72-1163b291e5e3"
+}

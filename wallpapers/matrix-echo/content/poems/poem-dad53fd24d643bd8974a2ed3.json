@@ -1,0 +1,20 @@
+{
+  "id": "poem-dad53fd24d643bd8974a2ed3",
+  "title": "阮郎归·去年今日落花时",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "去年今日落花时。",
+    "依前又见伊。",
+    "淡匀双脸浅匀眉。",
+    "青衫透玉肌。",
+    "才会面，便相思。",
+    "相思无尽期。",
+    "这回相见好相知。",
+    "相知已是迟。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-798",
+  "tags": []
+}

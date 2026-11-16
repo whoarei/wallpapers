@@ -1,0 +1,16 @@
+{
+  "id": "poem-c0751a18143b90d0a9468c2b",
+  "title": "河传·何处",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "何处，烟雨，隋堤春暮。",
+    "柳色葱笼，画桡金缕，翠旗高飐香风，水光融。",
+    "青娥殿脚春妆媚，轻云里，绰约司花妓。",
+    "江都宫阙，清淮月映迷楼，古今愁。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-4"
+}

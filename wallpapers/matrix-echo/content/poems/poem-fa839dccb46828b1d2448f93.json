@@ -1,0 +1,15 @@
+{
+  "id": "poem-fa839dccb46828b1d2448f93",
+  "title": "幺",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "你若能尝佛子茶，胜参赵老惮。",
+    "休猜做金尊美酒斗十千，但得那世尊肯见。",
+    "恰敢着你即时回转，不须妙法再三言。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3393",
+  "tags": []
+}

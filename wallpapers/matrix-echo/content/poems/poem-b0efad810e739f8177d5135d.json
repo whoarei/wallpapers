@@ -1,0 +1,16 @@
+{
+  "id": "poem-b0efad810e739f8177d5135d",
+  "title": "菩萨蛮·人人尽说江南好",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "人人尽说江南好，游人只合江南老。",
+    "春水碧于天，画船听雨眠。",
+    "垆边人似月，皓腕凝双雪。",
+    "未老莫还乡，还乡须断肠。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-34"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-dbd493066e3e1c853263424b",
+  "title": "昊天有成命",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "昊天有成命，二后受之。成王不敢康，夙夜基命宥密。于缉熙！单厥心，四其靖之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-270"
+}

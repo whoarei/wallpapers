@@ -1,0 +1,16 @@
+{
+  "id": "poem-029f059a5ee176fa21c4cbdd",
+  "title": "荆南道中",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "十月荒郊雪气催，依稀愁色认阳台。",
+    "游秦分系三条烛，出楚心殊一寸灰。",
+    "高柳莫遮寒月落，空桑不放夜风廻。",
+    "如何住在猿声里，却被蝉吟引下来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-849ae158-1eb5-40e2-a2a8-6d57fcdec8b3"
+}

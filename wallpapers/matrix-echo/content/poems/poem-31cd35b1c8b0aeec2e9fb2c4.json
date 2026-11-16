@@ -1,0 +1,14 @@
+{
+  "id": "poem-31cd35b1c8b0aeec2e9fb2c4",
+  "title": "和元晦晚霞",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "早来雪意遮空碧，晚喜晴霞散绮红。",
+    "便可悬知明旦事，一轮明月快哉风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-5b4013df-f5a2-4045-bb09-6e41bd51b2ae"
+}

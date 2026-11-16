@@ -1,0 +1,14 @@
+{
+  "id": "poem-c5a06c01f29b48a953f167c4",
+  "title": "登游齐山",
+  "author": "许坚",
+  "dynasty": "宋",
+  "verses": [
+    "星使南驰入楚重，此山偏得驻行踪。",
+    "落花满地月华冷，寂寞旧山三四峰。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-431b1898-bd46-4601-86f7-da93cc3d6ee7"
+}

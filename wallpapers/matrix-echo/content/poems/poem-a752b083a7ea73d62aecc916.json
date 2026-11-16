@@ -1,0 +1,18 @@
+{
+  "id": "poem-a752b083a7ea73d62aecc916",
+  "title": "踏莎行·波湛横眸",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "波湛横眸，霞分腻脸。",
+    "盈盈笑动笼香靥。",
+    "有情未结凤楼欢，无憀爱把歌眉敛。",
+    "密意欲传，娇羞未敢。",
+    "斜偎象板还偷盰。",
+    "轻轻试问借人么，佯佯不觑云鬟点。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-271",
+  "tags": []
+}

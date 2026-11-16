@@ -1,0 +1,16 @@
+{
+  "id": "poem-4c0dbdc4be3b88fafeca276b",
+  "title": "郊庙歌辞 武后明堂乐章 皇嗣出入升降",
+  "author": "武则天",
+  "dynasty": "唐",
+  "verses": [
+    "至人光俗，大孝通神。",
+    "谦以表性，恭惟立身。",
+    "洪规载启，茂典方陈。",
+    "誉隆三善，祥开万春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f9975b6c-83a5-4d7d-be29-ae59be144e35"
+}

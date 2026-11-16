@@ -1,0 +1,14 @@
+{
+  "id": "poem-cf0219ede1136317567e9712",
+  "title": "伤清江上人",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "往年偏共仰师游，闻过流沙泪不休。",
+    "此身岂得多时住，更著尘心起外愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b9e48b05-aa39-47f8-a9d8-06c15fd385f1"
+}

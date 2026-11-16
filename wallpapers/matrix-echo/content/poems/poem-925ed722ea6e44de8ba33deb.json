@@ -1,0 +1,16 @@
+{
+  "id": "poem-925ed722ea6e44de8ba33deb",
+  "title": "姑熟杂咏 望夫山",
+  "author": "李赤",
+  "dynasty": "唐",
+  "verses": [
+    "颙望临碧空，怨情感离别。",
+    "芳草不知愁，岩花但争发。",
+    "云山万重隔，音信千里绝。",
+    "春去秋复来，相思几时歇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ed347645-de13-496a-9078-cea6912d3c1c"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8986",
+  "script": "seal",
+  "character": "覆",
+  "reading": "fù",
+  "description": "fù：(1)遮盖，蒙～盖。～溺。～蔽。～被（遮盖，喻恩荫）。～庇。\n(2)翻，倾倒，败，灭～舟。颠～。～灭。～辙（翻过车的道路，喻曾经失败的做法）。～没（mò）。～水难收。～巢无完卵（喻灭门之祸，无一得免，亦喻整体覆灭，个人不能幸存）。前车之～，后车之鉴。\n(3)同复”①②。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-覆"
+}

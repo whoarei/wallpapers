@@ -1,0 +1,16 @@
+{
+  "id": "poem-0575621a4a5dd095bd42f9f5",
+  "title": "吊江南老家人春梅",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "念尔筋力尽，违我衣食恩。",
+    "奈何粗犷儿，生鞭见死痕。",
+    "旧使常以礼，新怨将谁吞。",
+    "胡为乎泥中，消歇教义源。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-b4ab0057-6846-46fc-afce-1d641980509f"
+}

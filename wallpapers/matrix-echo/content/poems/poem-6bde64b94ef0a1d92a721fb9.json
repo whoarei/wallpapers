@@ -1,0 +1,16 @@
+{
+  "id": "poem-6bde64b94ef0a1d92a721fb9",
+  "title": "福马郎",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "李旺，你休说新婚在牛氏宅。",
+    "(外)孩儿，说便又待怎地？(贴)他须怨我相耽误；归未得，旁人闻，把奴责。",
+    "(合)若是到京国，相逢处作个好筵席。",
+    "(丑唱)，。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5191",
+  "tags": []
+}

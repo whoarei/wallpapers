@@ -1,0 +1,14 @@
+{
+  "id": "poem-6d4e44642b4b2e5f9044ed9c",
+  "title": "风入松",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生)你与哥哥结义胜嫡亲，敢恁的反面忘恩！我哥哥行使些糖蜜口，我根底刁唆休论。",
+    "我哥哥有眼何曾识好人？你只宜假不宜真。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1826",
+  "tags": []
+}

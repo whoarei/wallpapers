@@ -1,0 +1,14 @@
+{
+  "id": "poem-81b954d41b80789f299e7194",
+  "title": "梦江南·兰烬落",
+  "author": "皇甫松",
+  "dynasty": "唐",
+  "verses": [
+    "兰烬落，屏上暗红蕉。",
+    "闲梦江南梅熟日，夜船吹笛雨萧萧，人语驿边桥。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-24",
+  "tags": []
+}

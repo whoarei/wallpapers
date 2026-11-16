@@ -1,0 +1,16 @@
+{
+  "id": "poem-42fe28cb79f02caa56876f68",
+  "title": "送刘逖赴闽辟",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "离乱生涯尽，依刘是见机。",
+    "从来吟太苦，不得力还稀。",
+    "路入闽山熟，江浮瘴雨肥。",
+    "何须折杨柳，相送已依依。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-316bb760-a73a-4ae5-a498-a604d2526270"
+}

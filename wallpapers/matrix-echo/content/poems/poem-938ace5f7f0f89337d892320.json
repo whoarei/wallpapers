@@ -1,0 +1,13 @@
+{
+  "id": "poem-938ace5f7f0f89337d892320",
+  "title": "振鹭",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "振鹭于飞，于彼西雍。我客戾止，亦有斯容。在彼无恶，在此无斁。庶几夙夜，以永终誉。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-277"
+}

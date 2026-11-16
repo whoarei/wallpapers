@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8fe5",
+  "script": "seal",
+  "character": "迥",
+  "reading": "jiǒng",
+  "description": "jiǒng：远～异（相差很远）。～然（显然，清清楚楚，如～～不同”）。～乎。～殊。～若两人。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-迥"
+}

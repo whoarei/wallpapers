@@ -1,0 +1,17 @@
+{
+  "id": "poem-5f4a0e4ac6e4ef2f7bc90b0c",
+  "title": "皇皇者华",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "皇皇者华，于彼原隰。𬳽𬳽征夫，每怀靡及。",
+    "我马维驹，六辔如濡。载驰载驱，周爰咨诹。",
+    "我马维骐，六辔如丝。载驰载驱，周爰咨谋。",
+    "我马维骆，六辔沃若。载驰载驱，周爰咨度。",
+    "我马维骃，六辔既均。载驰载驱，周爰咨询。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-162"
+}

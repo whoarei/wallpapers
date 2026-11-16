@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5de8",
+  "script": "kai",
+  "character": "巨",
+  "reading": "jù；jv",
+  "description": "jù：(1)大，很大～大。～人（ａ．身材异常高的人；ｂ．童话里指比一般人高大，有神力的人；ｃ．喻有巨大影响和贡献的人）。～匠（泛称在科学或文艺上有极大成就的人）。～子（ａ．中国战国时墨家学派领袖的尊称；ｂ．在某方面卓有成就，有声望的人）。艰～。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-巨"
+}

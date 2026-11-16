@@ -1,0 +1,16 @@
+{
+  "id": "poem-b694be29e9058bed43f908fb",
+  "title": "女冠子·绿云高髻",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "绿云高髻，点翠匀红时世。月如眉。",
+    "浅笑含双靥，低声唱小词。",
+    "眼看唯恐化，魂荡欲相随。",
+    "玉趾回娇步，约佳期。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-0"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-59b9",
+  "script": "kai",
+  "character": "妹",
+  "reading": "mèi",
+  "description": "mèi：(1)称同父母（或只同父、只同母）而比自己年纪小的女子～～。兄～。弟～（a.弟弟和妹妹的合称；b.俗称弟妇）。～夫。\n(2)对比自己年纪小的同辈女性的称呼表～。师～。世～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-妹"
+}

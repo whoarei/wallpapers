@@ -1,0 +1,14 @@
+{
+  "id": "poem-8bb5b15229678a165e5e9cdf",
+  "title": "歌者十二首 九",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "白云深处寄生涯，岁暮生情赖此花。",
+    "蜂蝶绕来忙绕袖，似知教折送邻家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-98efd3fa-7d36-4b52-9025-98a1f819a074"
+}

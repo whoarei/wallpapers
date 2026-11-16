@@ -1,0 +1,14 @@
+{
+  "id": "poem-76988e71abaaf60c6337e154",
+  "title": "春秋战国门 庄公",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "齐甲强临力有余，鲁庄为战念区区。",
+    "鱼丽三鼓微曹刿，肉食安能暇远谟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e0bee03c-c04b-4c8f-9725-cf433a04a23f"
+}

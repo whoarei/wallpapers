@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-95fa",
+  "script": "seal",
+  "character": "闺",
+  "reading": "guī",
+  "description": "内室\n⒈上圆下方的小门。\n⒉旧称女子居住的卧室或内室～房。深～。\n①未结婚的女子。\n②女儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-闺"
+}

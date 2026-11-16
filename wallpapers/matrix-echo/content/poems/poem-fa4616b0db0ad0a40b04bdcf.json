@@ -1,0 +1,14 @@
+{
+  "id": "poem-fa4616b0db0ad0a40b04bdcf",
+  "title": "荔枝五首  其四",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "荔子蛮方也自丹，不如闽岭为微酸。",
+    "玉盘磊珂三千颗，犹忆甘芳绕齿寒。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-ec50e74c-3c68-4e65-b2e7-ab9b2e8e1793"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "poem-1bf8d5b590c57fa2cd4e0070",
+  "title": "水调歌头·江路晓来雨",
+  "author": "韩元吉",
+  "dynasty": "宋",
+  "verses": [
+    "江路晓来雨，残暑夜全消。",
+    "人言天上今夕，飞鹊渐成桥。",
+    "杳杳云车何处。",
+    "脉脉红蕖香度。",
+    "瓜果趁良宵。",
+    "推枕断虹卷，抚槛白鱼跳。",
+    "无湖客，临风露，倚兰苕。",
+    "云涛四起，极目人世有烟霄。",
+    "我送君舟西渡。",
+    "君望我帆南浦。",
+    "明日恨迢迢。",
+    "且醉吴淞月，重听浙江潮。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-827",
+  "tags": []
+}

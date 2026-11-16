@@ -1,0 +1,18 @@
+{
+  "id": "poem-cee1d2fd219b84c61d1018d6",
+  "title": "萧史图歌",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "霜绡数幅八月天，彩龙引凤堂堂然。",
+    "小载萧僊穆公女，随仙上归玉京去。",
+    "仙路迢遥烟几重，女衣清净云三素。",
+    "胡髯毵珊云髻光，翠蕤皎洁琼华凉。",
+    "露痕烟迹渍红貌，疑别秦宫初断肠。",
+    "此天每在西北上，紫霄洞客晓烟望。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-3e919f17-21ed-4f00-b331-78d9e2f39f36"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-bc5dc42bfe79858abef03b15",
+  "title": "幽州未得授戒",
+  "author": "义存",
+  "dynasty": "唐",
+  "verses": [
+    "一十出家未是时，二十出家正是时。",
+    "今遇官坛缘未合，𨀁踵且作老沙弥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-5c6c567c-326e-47a5-886a-35373db65bbc"
+}

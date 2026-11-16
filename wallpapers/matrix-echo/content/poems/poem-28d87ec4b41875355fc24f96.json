@@ -1,0 +1,16 @@
+{
+  "id": "poem-28d87ec4b41875355fc24f96",
+  "title": "奉同颜使君真卿开元寺经藏院会观树文殊碑",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "万国布殊私，千年降祖师。",
+    "雁门传法至，龙藏立言时。",
+    "故实刊周典，新声播鲁诗。",
+    "六铢那更拂，劫石尽无期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4ea14494-6cc2-4c8e-93c5-e1e83816dddc"
+}

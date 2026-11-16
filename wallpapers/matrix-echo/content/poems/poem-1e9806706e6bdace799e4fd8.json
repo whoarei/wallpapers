@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e9806706e6bdace799e4fd8",
+  "title": "杂诗二首 一",
+  "author": "卢象",
+  "dynasty": "唐",
+  "verses": [
+    "家居五原上，征战是平生。",
+    "独负山西勇，谁当塞下名。",
+    "死生辽海战，雨雪蓟门行。",
+    "诸将封侯尽，论功独不成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-5be96530-0656-42e0-bf69-a0c7a9c73a58"
+}

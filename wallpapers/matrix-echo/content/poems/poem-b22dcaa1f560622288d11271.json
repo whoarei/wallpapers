@@ -1,0 +1,14 @@
+{
+  "id": "poem-b22dcaa1f560622288d11271",
+  "title": "小诗并画卷奉送汾叟同年机宜奉议赴熙河幕府",
+  "author": "李公麟",
+  "dynasty": "宋",
+  "verses": [
+    "画出离筵已怆神，那堪真别渭城春。",
+    "渭城柳色休相恼，西出阳关有故人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-9d33be31-afc6-4774-936b-2949925cbae2"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3a64796e6a5729d79ec9c541",
+  "title": "立春后三日山行喜雨",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "穷冬阳为沴，旱气蒸黄埃。",
+    "春风三夜动，春雨随风来。",
+    "万类萌甲喜，愁人生意开。",
+    "我行竟何事，欣尔登崔嵬。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-6c5a4f29-3dc0-4ea3-9903-c90e486de133"
+}

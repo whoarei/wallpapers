@@ -1,0 +1,18 @@
+{
+  "id": "poem-5cd117db12d872bd2ab77d4d",
+  "title": "奉和圣制送张说上集贤学士赐宴",
+  "author": "程行谌",
+  "dynasty": "唐",
+  "verses": [
+    "圣主崇文化，锵锵得盛才。",
+    "相因归梦立，殿以集贤开。",
+    "象系微言阐，诗书至道该。",
+    "尧尊承帝泽，禹膳自天来。",
+    "礼洽欢逾长，风恬暑更回。",
+    "国朝将舜颂，同是一康哉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-337e560d-f0eb-489f-8b80-4ecca434391a"
+}

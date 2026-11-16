@@ -1,0 +1,22 @@
+{
+  "id": "poem-9d62aacad9884e3ba6b88ff4",
+  "title": "病柏",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "有柏生崇冈，童童状车盖。",
+    "偃蹙龙虎姿，主当风云会。",
+    "神明依正直，故老多再拜。",
+    "岂知千年根，中路颜色坏。",
+    "出非不得地，蟠据亦高大。",
+    "岁寒忽无凭，日夜柯叶改。",
+    "丹凤领九雏，哀鸣翔其外。",
+    "鸱鸮志意满，养子穿穴内。",
+    "客从何乡来，伫立久吁怪。",
+    "静求元精理，浩荡难倚赖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7b60930e-556e-433e-a978-8a175c33ee87"
+}

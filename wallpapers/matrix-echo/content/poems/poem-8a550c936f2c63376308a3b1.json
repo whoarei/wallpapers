@@ -1,0 +1,16 @@
+{
+  "id": "poem-8a550c936f2c63376308a3b1",
+  "title": "三君咏 郭代公",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "代公实英迈，津涯浩难识。",
+    "拥兵抗矫征，仗节归有德。",
+    "纵横负才智，顾盻安社稷。",
+    "流落勿重陈，怀哉为凄恻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-0c521179-7dd9-49a9-8b29-c7331d8870d0"
+}

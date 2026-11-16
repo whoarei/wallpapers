@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-76c6",
+  "script": "kai",
+  "character": "盆",
+  "reading": "pén",
+  "description": "pén：(1)盛放东西或洗涤的用具～景。～花。～栽。脸～。澡～。\n(2)中央凹入像盆状的东西～地。骨～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-盆"
+}

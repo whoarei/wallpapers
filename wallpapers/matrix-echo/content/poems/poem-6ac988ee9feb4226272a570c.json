@@ -1,0 +1,16 @@
+{
+  "id": "poem-6ac988ee9feb4226272a570c",
+  "title": "别离怨",
+  "author": "郑遂初",
+  "dynasty": "唐",
+  "verses": [
+    "荡子戍辽东，连年信不通。",
+    "尘生锦步障，花送玉屏风。",
+    "只怨红颜改，宁辞玉簟空。",
+    "系书春雁足，早晚到云中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-76089241-9c53-4d9d-9fdb-1bc79448b878"
+}

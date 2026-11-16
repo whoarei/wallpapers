@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5185",
+  "script": "kai",
+  "character": "内",
+  "reading": "nèi；nà",
+  "description": "nèi：(1)里面，与外”相对～部。～外。～定。～地。～阁。～行（háng）。～涵。\n(2)称妻子或妻子家的亲戚～人。～亲。～弟。\n(3)亲近～君子而外小人。\n外；\nnà：古同纳”，收入；接受。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-内"
+}

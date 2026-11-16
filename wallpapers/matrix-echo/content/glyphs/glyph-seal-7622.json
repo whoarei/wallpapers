@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7622",
+  "script": "seal",
+  "character": "瘢",
+  "reading": "bān",
+  "description": "bān：(1)疮痕，疤瘌，斑点刀～。疮～」～。雀～。\n(2)皮肤上的一点美玉可以减～。”\n(3)缺点或过失。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瘢"
+}

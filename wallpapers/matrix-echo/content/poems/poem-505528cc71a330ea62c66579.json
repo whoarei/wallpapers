@@ -1,0 +1,14 @@
+{
+  "id": "poem-505528cc71a330ea62c66579",
+  "title": "入蓝关",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "微烟已辨秦中树，远梦更依江上台。",
+    "看落晚花还怅望，鲤鱼时节入关来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-a0d995b3-6a67-4e5d-8fa4-a84d64e89b18"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-83c5c5372e7c456a8270b48e",
+  "title": "郊庙歌辞 享龙池乐章 第三章",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "龙池跃龙龙已飞，龙德[光]天天不违。",
+    "池开天汉分黄道，龙向天门入紫微。",
+    "邸第楼台多气色，君王凫雁有光辉。",
+    "为报寰中百川水，来朝此地莫东归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d291f734-2ec4-4eed-9c5e-8f14c4d11921"
+}

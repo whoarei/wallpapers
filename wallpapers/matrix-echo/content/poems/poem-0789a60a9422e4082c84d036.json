@@ -1,0 +1,16 @@
+{
+  "id": "poem-0789a60a9422e4082c84d036",
+  "title": "唐享昊天乐 第二",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "瞻紫极，望玄穹。",
+    "翘至恳，罄深衷。",
+    "听虽远，诚必通。",
+    "垂厚泽，降云宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d3715888-a6cc-4332-b3fe-d8fa4a2f27be"
+}

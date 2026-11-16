@@ -1,0 +1,22 @@
+{
+  "id": "poem-00431e177548b418f915aa89",
+  "title": "夜上受降城闻笛",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "回乐峰前沙似雪，受降城下月如霜。",
+    "不知何处吹芦管，一夜征人尽望乡。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "战争",
+    "冬天",
+    "边塞",
+    "七言绝句",
+    "月亮"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-992df222-c445-4925-a656-0caa4447d5bb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c84521c95338204f7959ef2d",
+  "title": "好事近·手种满阑花",
+  "author": "张镃",
+  "dynasty": "宋",
+  "verses": [
+    "手种满阑花，瑞露一枝先坼。",
+    "拄个杖儿来看，两三人门客。",
+    "今朝欢笑且衔杯，休更问明日。",
+    "此意悠然谁会，有湖边风月。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-339",
+  "tags": []
+}

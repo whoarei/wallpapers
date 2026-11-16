@@ -1,0 +1,16 @@
+{
+  "id": "poem-41a23833607c753b12d320a8",
+  "title": "十诗谢廖计使  其四",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "偓佺地上仙，笙鹤不我遐。",
+    "楚骚欲命仆，古诗无名家。",
+    "晋当泽帝范，小却侈国华。",
+    "本末计中外，倚须拜亨嘉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-8360f219-dc5c-4ca9-9822-2f25453318e0"
+}

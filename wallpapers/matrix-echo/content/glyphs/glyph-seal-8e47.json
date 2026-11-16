@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8e47",
+  "script": "seal",
+  "character": "蹇",
+  "reading": "jiǎn",
+  "description": "jiǎn：(1)跛，行走困难～足。～步。\n(2)迟钝，不顺利～涩。～滞。～拙。～运。时乖命～。\n(3)傲慢。\n(4)穷困。\n(5)驽马，亦指驴。\n(6)文言语助词～谁留兮中洲？\n(7)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蹇"
+}

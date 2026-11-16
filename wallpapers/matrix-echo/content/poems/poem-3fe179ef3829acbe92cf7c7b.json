@@ -1,0 +1,16 @@
+{
+  "id": "poem-3fe179ef3829acbe92cf7c7b",
+  "title": "再入道场纪事应制",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "南方归去再生天，内殿今年异昔年。",
+    "见辟乾坤新定位，看题日月更高悬。",
+    "行随香辇登仙路，坐近炉烟讲法筵。",
+    "自喜恩深陪侍从，两朝长在圣人前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7875082b-2898-40df-bfab-681426ed3a03"
+}

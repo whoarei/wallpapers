@@ -1,0 +1,16 @@
+{
+  "id": "poem-3e277ba1eb8695f90392975c",
+  "title": "菁菁者莪",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "菁菁者莪，在彼中阿。既见君子，乐且有仪。",
+    "菁菁者莪，在彼中沚。既见君子，我心则喜。",
+    "菁菁者莪，在彼中陵。既见君子，锡我百朋。",
+    "泛泛杨舟，载沉载浮。既见君子，我心则休。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-175"
+}

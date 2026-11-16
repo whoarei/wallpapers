@@ -1,0 +1,14 @@
+{
+  "id": "poem-756c95f0be7da1b36aa9a577",
+  "title": "宝峰亭",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "舟航日上下，车马不少闲。",
+    "近邑凑商贾，远峰自云烟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-a3ba4eca-69db-4935-80e8-603747077c11"
+}

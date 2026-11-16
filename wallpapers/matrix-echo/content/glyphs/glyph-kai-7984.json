@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7984",
+  "script": "kai",
+  "character": "禄",
+  "reading": "lù",
+  "description": "lù：(1)古代官吏的俸给～米。～位（借指官职）。～蠹（指追求官禄的人）。～食。俸～。无功受～。\n(2)福儿已薄～相，幸复得此妇”。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-禄"
+}

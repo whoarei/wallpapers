@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62d6",
+  "script": "kai",
+  "character": "拖",
+  "reading": "tuō",
+  "description": "tuō：(1)牵引，拉，拽～车。～船。～累（lěi）。～儿带女。\n(2)耷拉着～着辫子。\n(3)延长时间～延。～欠。～债。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拖"
+}

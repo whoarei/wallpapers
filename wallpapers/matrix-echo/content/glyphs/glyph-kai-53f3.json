@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53f3",
+  "script": "kai",
+  "character": "右",
+  "reading": "yòu",
+  "description": "yòu：(1)面向南时，西的一边，与左”相对～手。～边。\n(2)地理上指西方山～。江～。\n(3)指政治思想上保守或反动的～倾。～派。～翼。\n(4)古代称等级高的～族。～职。无出其～（没有高过它的）。\n(5)崇尚，重视窃以～文兴化，乃致治之所先”。\n(6)古同侑”，劝酒，劝食。\n(7)古同佑”，帮助，偏袒。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-右"
+}

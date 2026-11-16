@@ -1,0 +1,16 @@
+{
+  "id": "poem-6a26d3a1178a316eef3b8a9c",
+  "title": "春日旅泊桂州",
+  "author": "张佖",
+  "dynasty": "宋",
+  "verses": [
+    "暖风芳草竟芊绵，多病多愁负少年。",
+    "弱柳未胜寒食雨，好花争奈夕阳天。",
+    "溪边物色堪图画，林畔鶑声似管弦。",
+    "独有离人开泪眼，强凭杯酒亦潸然。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-d19c7efb-2d4c-4eca-bbff-e25012fbaf93"
+}

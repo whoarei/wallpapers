@@ -1,0 +1,16 @@
+{
+  "id": "poem-1ddf01326aa55a75c60f5ed5",
+  "title": "九日送人",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "送人冠獬豸，值节佩茱萸。",
+    "均覆征三壤，登车出五湖。",
+    "水风凄落日，岸叶飒衰芜。",
+    "自恨尘中使，何因在路隅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-402a706d-4568-471e-ac1f-e01a7f90f6cf"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-cd7439ae1e48c0a81875952c",
+  "title": "又泛西溪诗十首  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "溪小才容舴艋舟，一樽聊复寄春流。",
+    "纵横不用施篙棹，自在教随水上鸥。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-0b88df6c-1d12-4c8c-8a9d-4cbe2fe50913"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e73b32278936e41c2e6d6db",
+  "title": "续东野铜斗歌送平江张都承  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "老我名铜斗，可糁亦可糜。",
+    "旦旦数瓶粟，不饱亭午饥。",
+    "层冰十万钱，剖蚌黳鬓丝。",
+    "宏功厚斯享，毋使宏功隳。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-8782e4e8-d63c-49a8-9c79-500eba688343"
+}

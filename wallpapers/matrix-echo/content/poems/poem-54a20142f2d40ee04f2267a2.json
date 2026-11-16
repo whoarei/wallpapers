@@ -1,0 +1,16 @@
+{
+  "id": "poem-54a20142f2d40ee04f2267a2",
+  "title": "冬至",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "天时人事日相催，冬至阳生春又来。",
+    "刺绣五纹添弱线，吹葭六管动飞灰。",
+    "岸容待腊将舒柳，山意冲寒欲放梅。",
+    "云物不殊乡国异，教儿且覆掌中杯。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-冬至"
+}

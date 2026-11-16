@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5406",
+  "script": "kai",
+  "character": "吆",
+  "reading": "yāo",
+  "description": "yāo：〔～喝〕（大声）喊叫。多用于大声叫卖东西和大声驱赶牲畜，如大声喊号子等。亦单用，义同，如老姜头站在那里纹丝不动，～着号子。”",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吆"
+}

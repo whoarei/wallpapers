@@ -1,0 +1,20 @@
+{
+  "id": "poem-70529462116f6e075e056f97",
+  "title": "水调歌头·天地有英气",
+  "author": "熊以宁",
+  "dynasty": "宋",
+  "verses": [
+    "天地有英气，锺秀在人间。",
+    "流虹甫近华旦，维岳预生贤。",
+    "千载明良会遇，三世勋庸忠烈，谁得似家传。",
+    "高论排风俗，抗志遏狂澜。",
+    "记年时，胡尘外，拥朱幡。",
+    "洪枢紫府功业，指日复青毡。",
+    "拭目泥封飞下，趁取梅花消息，去去簉朝班。",
+    "骨相元不老，何必颂南山。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-309",
+  "tags": []
+}

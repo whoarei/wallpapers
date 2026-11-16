@@ -1,0 +1,16 @@
+{
+  "id": "poem-0129470cd8453499b9c4c7d6",
+  "title": "故南阳夫人樊氏挽歌",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "石窌恩荣重，金吾车骑盛。",
+    "将朝每赠言，入室还相敬。",
+    "叠鼓秋城动，悬旌寒日映。",
+    "不言长不归，环珮犹将听。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-44b2376c-e68d-4b0d-a57a-564d868445cc"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8fab",
+  "script": "seal",
+  "character": "辫",
+  "reading": "biàn",
+  "description": "交织,编结。也作编”\n发辫。分股编紧的头发\n像辫子一样的条状物\n①辫子。把头发分股交叉编成的条条梳小～。\n②指像辫子的东西蒜～子。\n【辫子军】对张勋所属军队的通称。武昌起义后，江南提督张勋率部继续效忠清王朝，禁止部下剪辫子，被称为'辫子军'。在张勋率领下，于1917年6月进驻北京，企图复辟帝\n制。在全国人民强烈的反对下，复辟闹剧仅仅10天便告失败。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辫"
+}

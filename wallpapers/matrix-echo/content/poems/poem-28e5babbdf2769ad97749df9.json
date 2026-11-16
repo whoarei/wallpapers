@@ -1,0 +1,16 @@
+{
+  "id": "poem-28e5babbdf2769ad97749df9",
+  "title": "一络索·野火拂云微绿",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "野火拂云微绿，西风夜哭。",
+    "苍茫雁翅列秋空，忆写向、屏山曲。",
+    "山海几经翻覆，女墙斜矗。",
+    "看来费尽祖龙心，毕竟为、谁家筑。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-64"
+}

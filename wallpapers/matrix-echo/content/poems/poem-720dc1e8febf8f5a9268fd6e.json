@@ -1,0 +1,14 @@
+{
+  "id": "poem-720dc1e8febf8f5a9268fd6e",
+  "title": "感旧三首  其二",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "交契绸缪事未磨，月窗再得共婆娑。",
+    "君今有子全无恨，顾我伶俜奈老何。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-675fb68f-6767-4995-b9be-0b75fdbce4b0"
+}

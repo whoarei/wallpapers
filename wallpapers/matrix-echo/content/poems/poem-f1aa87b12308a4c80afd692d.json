@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1aa87b12308a4c80afd692d",
+  "title": "偈颂十二首  其九",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "封却拄杖头，结却布袋口。",
+    "禁在铁围山，枷上重增杻。",
+    "有中拷出无，无中拷出有。",
+    "痛楚百千般，不离者窠臼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-cb0a45b9-c765-422f-92b5-37a2279512aa"
+}

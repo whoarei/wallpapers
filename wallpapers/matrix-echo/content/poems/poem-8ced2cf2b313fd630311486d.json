@@ -1,0 +1,16 @@
+{
+  "id": "poem-8ced2cf2b313fd630311486d",
+  "title": "送潍州詹倅五首  其五",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "人生乐知己，见遇况国士。",
+    "吾身不激昂，孰为报恩子。",
+    "荐达有往来，登门愿谁始。",
+    "寄谢魏王孙，丹心亦如此。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-470e485d-dfdc-4dd0-9761-ee72c3eb37b4"
+}

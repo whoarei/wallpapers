@@ -1,0 +1,15 @@
+{
+  "id": "poem-5a1f486347197533b9ac7da5",
+  "title": "殷其雷",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "殷其雷，在南山之阳。何斯违斯，莫敢或遑？振振君子，归哉归哉！",
+    "殷其雷，在南山之侧。何斯违斯，莫敢遑息？振振君子，归哉归哉！",
+    "殷其雷，在南山之下。何斯违斯，莫或遑处？振振君子，归哉归哉！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-18"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-839e",
+  "script": "seal",
+  "character": "莞",
+  "reading": "wǎn；guān；guǎn",
+  "description": "guān：指水葱一类的植物，亦指用其编的席。\nguǎn：〔东～〕地名，在中国广东省。\nwǎn：〔～尔〕形容微笑，如～～一笑”、不觉～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-莞"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-ed5d2f02323ff6371e53892b",
+  "title": "山居",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "一从身世两相遗，往往关门到午时。",
+    "想得俗流应大笑，不知年老识便宜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-d02e730c-f618-46e8-9441-0f2f38b50878"
+}

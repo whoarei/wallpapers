@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6886",
+  "script": "kai",
+  "character": "梆",
+  "reading": "bāng",
+  "description": "bāng：象声词，敲打木头的声音～～～的敲门声。\n〔～子〕ａ．打更用的响器；ｂ．打击乐器，用于戏曲、乐曲伴奏；ｃ．戏曲声腔之一，如河北～～”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梆"
+}

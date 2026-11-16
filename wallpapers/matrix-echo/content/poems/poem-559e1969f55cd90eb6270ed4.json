@@ -1,0 +1,18 @@
+{
+  "id": "poem-559e1969f55cd90eb6270ed4",
+  "title": "南柯子・南歌子·腻颈凝酥白",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "腻颈凝酥白，轻衫淡粉红。",
+    "碧油凉气透帘栊。",
+    "指点庭花低映，云母屏风。",
+    "恨逐瑶琴写，书劳玉指封。",
+    "等闲赢得瘦仪容。",
+    "何事不教云雨，略下巫峰。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-520",
+  "tags": []
+}

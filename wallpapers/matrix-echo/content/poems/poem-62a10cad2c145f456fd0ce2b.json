@@ -1,0 +1,16 @@
+{
+  "id": "poem-62a10cad2c145f456fd0ce2b",
+  "title": "恭禧皇太后挽歌词三首 二",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "月落娥兼隐，宫空后岂还。",
+    "衔哀穷地界，亲莅泣天颜。",
+    "旧住留丹药，新陵在碧山。",
+    "国人伤莫及，应只咏关关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-45c6e213-cc43-4c89-a21e-95f3a90fcb7e"
+}

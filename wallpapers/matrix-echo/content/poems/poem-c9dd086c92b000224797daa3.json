@@ -1,0 +1,14 @@
+{
+  "id": "poem-c9dd086c92b000224797daa3",
+  "title": "寄海峤丈人",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "万丈只愁沧海浅，一身谁测岁华遥。",
+    "自言来此云边住，曾看秦王树石桥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ae58f860-dc11-42d4-8654-ca8c355a3434"
+}

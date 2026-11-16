@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-82a9",
+  "script": "seal",
+  "character": "芩",
+  "reading": "qín",
+  "description": "qín：古书上指芦苇一类的植物。\n〔黄～〕多年生草本植物，叶对生，花淡紫色，或带青白色，根长大，色深黄，可入药。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芩"
+}

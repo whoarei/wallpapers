@@ -1,0 +1,16 @@
+{
+  "id": "poem-26f232dd8028373ec6cb6ec9",
+  "title": "菩萨蛮 其六",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "玉楼明月长相忆，柳丝袅娜春无力。",
+    "门外草萋萋，送君闻马嘶。",
+    "画罗金翡翠，香烛消成泪。",
+    "花落子规啼，绿窗残梦迷。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-5",
+  "tags": []
+}

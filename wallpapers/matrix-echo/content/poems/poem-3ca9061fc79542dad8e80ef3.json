@@ -1,0 +1,16 @@
+{
+  "id": "poem-3ca9061fc79542dad8e80ef3",
+  "title": "达道场与城阴行者颂",
+  "author": "智闲",
+  "dynasty": "唐",
+  "verses": [
+    "理奥绝思量，根寻径路长。",
+    "因兹知隔濶，无那被封疆。",
+    "人生须特达，起坐觉馨香。",
+    "清净如来子，安然坐道场。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-98b03d81-40e0-4db4-9390-e85dbeaaa859"
+}

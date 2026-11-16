@@ -1,0 +1,20 @@
+{
+  "id": "poem-9ec4fb9022cacd742763883b",
+  "title": "菩萨蛮·花飞零乱随风舞",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "花飞零乱随风舞。",
+    "花梢犹带虚檐雨。",
+    "帘幕映黄昏。",
+    "江天日暮云。",
+    "有人楼上望。",
+    "生怕褰虚幌。",
+    "冷落对炉薰。",
+    "一春常怨春。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-194",
+  "tags": []
+}

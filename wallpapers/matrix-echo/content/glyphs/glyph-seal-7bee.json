@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7bee",
+  "script": "seal",
+  "character": "篮",
+  "reading": "lán",
+  "description": "篮球架上供投球用的带网的铁圈\n竹轿\n⒈用竹、藤、柳条、塑料带等编成的上有提梁的盛物器竹～子。提～买菜。\n⒉指一种体育用品及体育活动～球。～架。～网。投～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-篮"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b606ea263166debc4c11c264",
+  "title": "春秋战国门 冯讙",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "兔窟穿成主再兴，辈流狐伏敢骄矜。",
+    "冯讙不是无能者，要试君心欲展能。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-4d0328d2-9a89-40a5-bf72-987c5820211b"
+}

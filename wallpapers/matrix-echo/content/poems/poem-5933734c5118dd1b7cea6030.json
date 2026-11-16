@@ -1,0 +1,14 @@
+{
+  "id": "poem-5933734c5118dd1b7cea6030",
+  "title": "柳枝·袅翠笼烟拂暖波",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "袅翠笼烟拂暖波，舞裙新染麹尘罗。",
+    "章华台畔隋堤上，傍得春风尔许多。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-49"
+}

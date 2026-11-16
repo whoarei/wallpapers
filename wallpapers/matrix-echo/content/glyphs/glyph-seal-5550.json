@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5550",
+  "script": "seal",
+  "character": "啐",
+  "reading": "cuì；qi",
+  "description": "cuì：(1)用力从嘴里吐出来～一口痰。\n(2)唾人以表示鄙斥。\n(3)尝，小饮不～酒。”\nqi：表示轻蔑的声音～，这有什么了不起！",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-啐"
+}

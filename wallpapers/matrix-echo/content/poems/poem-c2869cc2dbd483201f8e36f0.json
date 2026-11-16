@@ -1,0 +1,18 @@
+{
+  "id": "poem-c2869cc2dbd483201f8e36f0",
+  "title": "怨情",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "美人卷珠帘，深坐颦蛾眉。",
+    "但见泪痕湿，不知心恨谁。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言绝句",
+    "女子"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-22e72306-f41c-4621-a925-83bab7f9d76e"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9753",
+  "script": "seal",
+  "character": "靓",
+  "reading": "liàng；jing",
+  "description": "召见;邀请。也作请”\n妆饰艳丽\n淑静\n艳丽;美好\n幽静。通静”\n澹虖若深渊\n⒈〈方〉好看，漂亮～女孩。\n⒈装饰，打扮～装。\n⒉〈古〉通\"静\"。安静。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-靓"
+}

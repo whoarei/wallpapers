@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-866c",
+  "script": "seal",
+  "character": "虬",
+  "reading": "qiú",
+  "description": "qiú：(1)古代传说中有角的小龙～龙。\n(2)拳曲～曲（盘绕弯曲）。～须。～髯（拳曲的胡须，特指两腮上的胡须）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-虬"
+}

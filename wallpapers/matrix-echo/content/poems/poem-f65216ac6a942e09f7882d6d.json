@@ -1,0 +1,20 @@
+{
+  "id": "poem-f65216ac6a942e09f7882d6d",
+  "title": "醉落魄・一斛珠·无言哽噎",
+  "author": "赵佶",
+  "dynasty": "宋",
+  "verses": [
+    "无言哽噎。",
+    "看灯记得年时节。",
+    "行行指月行行说。",
+    "愿月常圆，休要暂时缺。",
+    "今年华市灯罗列。",
+    "好灯争柰人心别。",
+    "人前不敢分明说。",
+    "不忍抬头，羞见旧时月。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-529",
+  "tags": []
+}

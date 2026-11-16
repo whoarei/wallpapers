@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-788d",
+  "script": "seal",
+  "character": "碍",
+  "reading": "ài",
+  "description": "遮蔽;掩盖\n妨害，阻挡～事。阻～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-碍"
+}

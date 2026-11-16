@@ -1,0 +1,16 @@
+{
+  "id": "poem-5b902bbb73e5c74db2b4ea06",
+  "title": "赠徐山人",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "徐生何代降坤维，曾伴园公采紫芝。",
+    "瓦砾变黄忧世换，髭须放白怕人疑。",
+    "山房古竹麄于树，海岛灵童寿等龟。",
+    "知叹有唐三百载，光阴未抵一先棋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-5db6190c-5a02-426f-882e-68c044218069"
+}

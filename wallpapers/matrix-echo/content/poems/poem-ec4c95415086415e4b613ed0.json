@@ -1,0 +1,16 @@
+{
+  "id": "poem-ec4c95415086415e4b613ed0",
+  "title": "腊茶并三诗送李元诚  其一",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "池鱼千里磨蚁旋，人生出处俱可怜。",
+    "束书结邻晏溪侧，淮安一寤三十年。",
+    "积今成古阅飞电，我与昔人同此叹。",
+    "悲欢离合置勿论，且喜重逢各彊健。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-e96d1a6f-1291-435c-8e8f-73ee646a3016"
+}

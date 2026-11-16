@@ -1,0 +1,14 @@
+{
+  "id": "poem-5e13a304a0636d9b2fe628db",
+  "title": "大夫松",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "五树旌封许岁寒，挽柯攀叶也无端。",
+    "争如涧底凌霜节，不受秦皇乱世官。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3a4ee675-2158-4a82-a8ba-0b922b96f20c"
+}

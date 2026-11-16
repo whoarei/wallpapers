@@ -1,0 +1,16 @@
+{
+  "id": "poem-64c9f2e946ad8e154e001def",
+  "title": "送薛大入洛（伯三七七一下同）",
+  "author": "房元阳",
+  "dynasty": "唐",
+  "verses": [
+    "惊年嗟未极，别绪复相依。",
+    "雁随春北度，人共水东归。",
+    "夜月临轩尽，残灯入晓微。",
+    "哀怨一罢曲，幽桂徒芳菲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-245de53e-c50c-45a6-ad1d-9b702eb51178"
+}

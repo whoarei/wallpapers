@@ -1,0 +1,15 @@
+{
+  "id": "poem-9e821fa8d2b560a7336b3295",
+  "title": "摇柳",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "弱弱本易惊，看看势难定。",
+    "因风似醉舞，尽日不能正。",
+    "时邀咏花女，笑辍春妆镜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a00bc423-d9df-47a9-9ac1-cabcaeb5d5bb"
+}

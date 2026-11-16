@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9006",
+  "script": "seal",
+  "character": "逆",
+  "reading": "nì",
+  "description": "nì：(1)方向相反，与顺”相对～流。～行。～风。～转（zhuǎn）（局势恶化）。莫～之交。\n(2)抵触，不顺从忤～。忠言～耳。\n(3)背叛，背叛者或背叛者的叛～。～产。\n(4)迎接～旅（旅店）。\n(5)预先～料（预料）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-逆"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-cf019344bde70ef49d70d7d0",
+  "title": "江行无题一百首 九十八",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "万木已清霜，江边村事忙。",
+    "故溪黄稻熟，一夜梦中香。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c2bb01ed-11bf-4919-8c6d-15f019e79e17"
+}

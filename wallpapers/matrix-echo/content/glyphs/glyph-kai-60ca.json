@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-60ca",
+  "script": "kai",
+  "character": "惊",
+  "reading": "jīng",
+  "description": "惊动;震惊\n⒈骡、马等因受吓而发狂乱奔控制～马。〈引〉害怕，精神紧张～骇。～慌失措。～心动魄。～恐万状。\n⒉意料以外的感觉～喜交集。倍感～奇。\n⒊扰乱，震动～扰。～动。～天动地。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-惊"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-2b16d483527e75bc45a6a15d",
+  "title": "送寒岩归士",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "不挂丝纩衣，归向寒岩栖。",
+    "寒岩风雪夜，又过岩前溪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-16f7c052-7358-4b2d-996f-ea11c6f60009"
+}

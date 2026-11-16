@@ -1,0 +1,20 @@
+{
+  "id": "poem-127f4c05d4d5d604ae9ca470",
+  "title": "水调歌头·屋下疏流水",
+  "author": "赵鼎",
+  "dynasty": "宋",
+  "verses": [
+    "屋下疏流水，屋上列青山。",
+    "先生跨鹤何处，窈窕白云间。",
+    "采药当年三径，只有长松绿竹，霜吹晚萧然。",
+    "举酒高台上，彷佛揖群仙。",
+    "转银汉，飞宝鉴，溢清寒。",
+    "金波万顷不动，人在玉壶宽。",
+    "我唱君须起舞，要把嫦娥留住，相送一杯残。",
+    "醉矣拂衣去，一笑渺人寰。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-953",
+  "tags": []
+}

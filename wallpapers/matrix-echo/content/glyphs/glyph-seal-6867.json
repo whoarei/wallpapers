@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6867",
+  "script": "seal",
+  "character": "桧",
+  "reading": "guì；hui",
+  "description": "即圆柏\n⒈桧树，也叫\"桧柏\"、\"圆柏\"。常绿乔木，叶有针状或鳞片两种，果实球形。木质桃红色，坚实，有香味，可供建筑及制造器具、铅笔杆等。\n⒉见huì㈥。\n⒈秦桧，人名。南宋奸臣。\n⒉见guì。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-桧"
+}

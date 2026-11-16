@@ -1,0 +1,20 @@
+{
+  "id": "poem-db0780fd5b394d4201be6491",
+  "title": "更漏子·玉狻猊",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "玉狻猊，金叶暖。",
+    "馥馥香云不断。",
+    "长下著，绣帘重。",
+    "怕随花信风。",
+    "傍蔷薇，摇露点。",
+    "衣润得香长远。",
+    "双枕凤，一衾鸾。",
+    "柳烟花雾间。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-820",
+  "tags": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-93aba1fd2fb34638a0cc93c6",
+  "title": "念奴娇·海云四敛",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "海云四敛，太清楼、极目一天秋色。",
+    "明月飞来云雾尽，城郭山川历历。",
+    "良夜悠悠，西风袅袅，银汉冰轮侧。",
+    "云霓三弄，广寒宫殿长笛。",
+    "偏照紫府瑶台，香笼玉座，翠霭迷南北。",
+    "天上人间凝望处，应有乘风归客。",
+    "露滴金盘，凉生玉宇，满地新霜白。",
+    "壶中清赏，画檐高挂虚碧。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-369",
+  "tags": []
+}

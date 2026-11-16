@@ -1,0 +1,16 @@
+{
+  "id": "poem-0e777d705e5dfdc02edf0efd",
+  "title": "晦日湖塘",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "吉日初成晦，方塘遍是春。",
+    "落花迎二月，芳树历三旬。",
+    "公子能留客，巫阳好解神。",
+    "夜还何虑暗，秉烛向城𬮱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-67866d08-d669-45e3-b804-ec3192aaf75f"
+}

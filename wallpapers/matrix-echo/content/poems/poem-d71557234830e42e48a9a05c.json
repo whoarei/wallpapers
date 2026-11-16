@@ -1,0 +1,16 @@
+{
+  "id": "poem-d71557234830e42e48a9a05c",
+  "title": "卫公堂二首  其一",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "卫公精爽故依然，陈迹凄凉不记年。",
+    "亭远谩传曾起草，楼高无复见筹边。",
+    "新铭初勒风烟上，旧观都忘岁月迁。",
+    "从此南徐矜胜概，美谈留与后生传。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-5a326f7c-b3fa-449c-ae4d-02ccb5cda07c"
+}

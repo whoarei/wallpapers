@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7fdf",
+  "script": "seal",
+  "character": "翟",
+  "reading": "zhái；dí",
+  "description": "dí：(1)长尾山雉（野鸡）。\n(2)古代乐舞用的雉羽。\n(3)古同狄”，称中国北方的民族。\nzhái：姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-翟"
+}

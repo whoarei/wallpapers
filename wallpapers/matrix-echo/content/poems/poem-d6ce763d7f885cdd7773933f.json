@@ -1,0 +1,16 @@
+{
+  "id": "poem-d6ce763d7f885cdd7773933f",
+  "title": "御筵送邓王",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "禁里秋光似水清，林烟池影共离情。",
+    "暂移黄阁只三载，却望紫垣都数程。",
+    "满座清风天子送，随车甘雨郡人迎。",
+    "绮霞阁上诗题在，从此还应有颂声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-3c050942-e64c-4e31-b5c0-45ae1acb79ca"
+}

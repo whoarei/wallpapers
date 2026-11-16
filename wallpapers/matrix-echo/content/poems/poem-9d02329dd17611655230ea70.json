@@ -1,0 +1,13 @@
+{
+  "id": "poem-9d02329dd17611655230ea70",
+  "title": "句",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "闲庭草色能留马，当路杨花不避人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-37ab7b24-b25e-4492-88de-16a5eb4c2008"
+}

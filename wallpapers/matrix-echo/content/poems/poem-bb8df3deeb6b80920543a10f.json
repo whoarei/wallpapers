@@ -1,0 +1,18 @@
+{
+  "id": "poem-bb8df3deeb6b80920543a10f",
+  "title": "西江月·席上酒杯难减",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "席上酒杯难减，鼎中药味频加。",
+    "老人争得脸如霞。",
+    "镜里衰容人怕。",
+    "檐溜尽成冰柱，前村变却梅花。",
+    "琼瑶破碎为行车。",
+    "冻雀盈枝堪画。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-771",
+  "tags": []
+}

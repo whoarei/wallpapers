@@ -1,0 +1,16 @@
+{
+  "id": "poem-d7599378ef20c970523cead1",
+  "title": "战城南",
+  "author": "徐九臯",
+  "dynasty": "唐",
+  "verses": [
+    "塞北狂胡旅，城南敌汉围。",
+    "巉岩一鼓气，拔利五兵威。",
+    "虏骑瞻山哭，王师拓地飞。",
+    "不应须宠战，当遂勒金徽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-2f37ab92-d8ed-43f3-ba85-eff243e94cc9"
+}

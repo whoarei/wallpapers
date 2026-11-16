@@ -1,0 +1,16 @@
+{
+  "id": "poem-35682a19affd54f950a92883",
+  "title": "生查子·东风不解愁",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "东风不解愁，偷展湘裙衩。",
+    "独夜背纱笼，影著纤腰画。",
+    "𦶟尽水沉烟，露滴鸳鸯瓦。",
+    "花骨冷宜香，小立樱桃下。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-7"
+}

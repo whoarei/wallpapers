@@ -1,0 +1,16 @@
+{
+  "id": "poem-cdfbf7ab2b269d384b91cf1f",
+  "title": "叙旧游寄栖白",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "老着重袍坐石房，竺经休讲白眉长。",
+    "省冲鼍没投江岛，曾看鱼飞倚海樯。",
+    "晓炙冻盂原日气，夜挑莲椀禁灯光。",
+    "吟诗五岭寻无可，倏忽如今四十霜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-28d46479-8ac0-44cf-befa-8d8c7ac61307"
+}

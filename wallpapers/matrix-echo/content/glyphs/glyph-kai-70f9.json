@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-70f9",
+  "script": "kai",
+  "character": "烹",
+  "reading": "pēng",
+  "description": "pēng：(1)煮～调（tiáo）（烹炒调制）。～饪。～茶。\n(2)一种做菜的方法，先用热油略炒之后，再加入液体调味品，迅速搅拌，随即盛出～对虾。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-烹"
+}

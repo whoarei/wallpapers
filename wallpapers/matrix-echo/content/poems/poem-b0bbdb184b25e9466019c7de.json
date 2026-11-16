@@ -1,0 +1,15 @@
+{
+  "id": "poem-b0bbdb184b25e9466019c7de",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "我东人尽日，常怀忧虑。",
+    "只愁二亲在途路里，孝思情意真个感神祗。",
+    "(合前)(丑唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5203",
+  "tags": []
+}

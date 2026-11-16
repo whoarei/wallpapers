@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5951",
+  "script": "kai",
+  "character": "契",
+  "reading": "qì；qiè；xiè",
+  "description": "qì：(1)证券，证明买卖、抵押、租赁等关系的文书～约。～据。房～。\n(2)相合，相投相～。～合。默～。～友。～分（fèn）（投合无间的情分）。～厚。\n(3)用刀雕刻～刻。～舟求剑。\n(4)刻的文字，近代称甲骨文书～。～文（甲骨文）。\n〔～机〕指事物转化的关键。\nqiè：古同锲”，用刀子刻。\nxiè：古人名，中国商朝的祖先，传说是舜的臣，助禹治水有功而封于商。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-契"
+}

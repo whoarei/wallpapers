@@ -1,0 +1,16 @@
+{
+  "id": "poem-334a22eec73fc17d631159cb",
+  "title": "嵩山十志十首 其五",
+  "author": "卢鸿一",
+  "dynasty": "唐",
+  "verses": [
+    "水攒冲兮石丛耸，焕云锦兮喷汹涌。",
+    "苔駮荦兮草夤缘，芳幂幂兮濑溅溅。",
+    "石攒丛兮云锦淙，波连珠兮文沓綘。",
+    "有洁冥者媚此幽，漱灵液兮乐天休，实获我心兮夫何求。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-64d377ec-aa69-468e-8c30-2ccc80b3fbd2"
+}

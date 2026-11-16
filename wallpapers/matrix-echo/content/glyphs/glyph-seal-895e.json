@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-895e",
+  "script": "seal",
+  "character": "襞",
+  "reading": "bì",
+  "description": "bì：(1)衣服和肠、胃等内部器官上的褶子皱～。胃～。\n(2)摺叠衣裙。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-襞"
+}

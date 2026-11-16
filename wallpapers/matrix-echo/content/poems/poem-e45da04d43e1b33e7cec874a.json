@@ -1,0 +1,17 @@
+{
+  "id": "poem-e45da04d43e1b33e7cec874a",
+  "title": "江南杂题三十首 其八",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "村桥路不端，数里就回湍。",
+    "积壤连泾脉，高林上笋竿。",
+    "早尝甘蔗淡，生摘琵琶酸。",
+    "（「琵琶」，严寿澄校《张祜诗集》云：疑「枇杷」之误。",
+    "）好是去尘俗，烟花长一栏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-7f4564e4-ccb7-47b0-9bf9-d87dc5c022f8"
+}

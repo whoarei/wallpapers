@@ -1,0 +1,18 @@
+{
+  "id": "poem-355a359497006fda847cabba",
+  "title": "奉和韦侍御陪相公游开义五言六韵",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "羊公追胜概，兹地暂逍遥。",
+    "风景同南岘，丹青见北朝。",
+    "石渠清夏气，高树激鲜飙。",
+    "念法珍禽集，闻轻醉象调。",
+    "偶分甘露味，偏觉众香饶。",
+    "为问毘城内，余薰几日销。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-f835c483-7870-4846-b4c7-138ec4af57d1"
+}

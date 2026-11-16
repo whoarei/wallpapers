@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e1d",
+  "script": "seal",
+  "character": "丝",
+  "reading": "sī",
+  "description": "⒈蚕吐出的纤维。它是绸、缎等的原料新～。\n⒉像丝的东西蛛～。铁～。肉～儿。\n⒊细微，极少，细致一～不苟。～毫不差。～ ～入扣。\n⒋计量单位十～为一毫。百～为一厘。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丝"
+}

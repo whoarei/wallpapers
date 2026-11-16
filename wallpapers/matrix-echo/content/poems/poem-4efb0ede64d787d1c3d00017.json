@@ -1,0 +1,14 @@
+{
+  "id": "poem-4efb0ede64d787d1c3d00017",
+  "title": "咏史诗 河梁",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "汉家英杰出皇都，携手河梁话入胡。",
+    "不是子卿全大节，也应低首拜单于。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-5bf02c5c-abc0-41d0-a0f2-a8105a351b6e"
+}

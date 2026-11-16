@@ -1,0 +1,18 @@
+{
+  "id": "poem-8be40b184e33b41d96f8bbc9",
+  "title": "罔象得玄珠",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "赤水今何处，遗珠已渺然。",
+    "离娄徒肆目，罔象乃通玄。",
+    "皎洁因成性，圆明不在泉。",
+    "暗中看夜色，尘外照晴田。",
+    "无胫真难掬，怀疑实易迁。",
+    "今朝搜择得，应免媚晴川。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-79f27efe-fb2a-4e22-b7ec-a30d9a0cfd1b"
+}

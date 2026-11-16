@@ -1,0 +1,16 @@
+{
+  "id": "poem-a20c37f6fe9f5e01f72261be",
+  "title": "送僧之湖外",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "去旨趣非常，春风尔莫狂。",
+    "惟擎一铁钵，旧亦讲金刚。",
+    "午饭孤烟里，宵禅大石旁。",
+    "羡师终不及，湘浪渌茫茫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-e484cc34-6bcd-463b-ae30-f8415b448932"
+}

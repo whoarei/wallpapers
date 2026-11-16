@@ -1,0 +1,16 @@
+{
+  "id": "poem-012c6bdba2b05acb1b860fc2",
+  "title": "忆春日曲江宴后许至芙蓉园",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "春风上苑开桃李，诏许看花入御园。",
+    "香径草中回玉勒，凤皇池畔泛金樽。",
+    "绿丝垂柳遮风暗，红药低丛拂砌繁。",
+    "归绕曲江烟景晚，未央明月锁千门。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-f38153c7-0c90-4503-b578-f68aa067b156"
+}

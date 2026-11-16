@@ -1,0 +1,18 @@
+{
+  "id": "poem-b38b9bf5e15330c80e14dc92",
+  "title": "和陶渊明二十首  其一六",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "细阅史氏书，宛若身所经。",
+    "梦录以命之，过影纪亏成。",
+    "一尧间十秦，寒暑倏变更。",
+    "我起千岁后，游心于大庭。",
+    "俛仰海尘扬，鼓舞天籁鸣。",
+    "纷纷阅过前，表立俱志情。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-42e9b3bb-5662-4158-a167-d262628cc87f"
+}

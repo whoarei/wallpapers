@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-620e",
+  "script": "seal",
+  "character": "戎",
+  "reading": "róng",
+  "description": "róng：(1)古代兵器的总称。\n(2)军队，军事兵～。投笔从～（指文人从军）。～装。～马。\n(3)古代称兵车御～。\n(4)大～功。\n(5)称（方言，音如农”）～有良翰”。\n(6)中国古代称西部民族西～。～狄。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-戎"
+}

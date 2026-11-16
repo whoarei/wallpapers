@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c07",
+  "script": "seal",
+  "character": "谇",
+  "reading": "suì",
+  "description": "劝告;谏诤\n责问;用责备的口气问\n古乐章的尾声。相当于乱”\n⒈骂，责怪。\n⒉直言规劝。\n⒊问。\n⒋告知。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谇"
+}

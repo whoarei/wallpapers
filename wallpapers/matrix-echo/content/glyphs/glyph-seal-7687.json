@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7687",
+  "script": "seal",
+  "character": "皇",
+  "reading": "huáng",
+  "description": "huáng：(1)君主，亦指神话传说中的神～帝。～后。～宫。～储（已确定的皇位继承人）。～权。\n(2)大～～巨著。冠冕堂～。\n(3)对先代的敬称～考（对亡父的尊称）。\n(4)古同遑”，闲遐。\n(5)古同惶”，恐惧。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-皇"
+}

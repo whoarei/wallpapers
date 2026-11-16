@@ -1,0 +1,16 @@
+{
+  "id": "poem-b2ac1cd57eda41a376914066",
+  "title": "虎丘寺赠渔处士",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "兰若云深处，前年客重过。",
+    "岩空秋色动，水阔夕阳多。",
+    "早负江湖志，今如鬓发何。",
+    "唯思闲胜我，钓艇在烟波。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b9191631-5a5a-40b4-b7fc-a24dc25e1fb5"
+}

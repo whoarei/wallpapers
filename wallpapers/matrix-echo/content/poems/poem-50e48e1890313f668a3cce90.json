@@ -1,0 +1,14 @@
+{
+  "id": "poem-50e48e1890313f668a3cce90",
+  "title": "瀑布联句",
+  "author": "宣宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "千岩万壑不辞劳，远看方知出处高。",
+    "溪涧岂能留得住，终归大海作波涛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-79b4be2b-65d5-412f-82ed-48d8b804fabc"
+}

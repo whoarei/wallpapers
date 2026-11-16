@@ -1,0 +1,16 @@
+{
+  "id": "poem-7ed9dffabd186a7201911e06",
+  "title": "柳条边",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "是处垣篱防绝塞，角端西来画疆界。",
+    "汉使今行虎落中，秦城合筑龙荒外。",
+    "龙荒虎落两依然，护得当时饮马泉。",
+    "若使春风知别苦，不应吹到柳条边。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-229"
+}

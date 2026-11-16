@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-608d",
+  "script": "kai",
+  "character": "悍",
+  "reading": "hàn",
+  "description": "hàn：(1)勇猛，勇敢强～。精～。～勇。\n(2)凶暴～然。凶～。～吏。～戾。\n(3)强劲，急暴湍～。急～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-悍"
+}

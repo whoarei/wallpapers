@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6052",
+  "script": "seal",
+  "character": "恒",
+  "reading": "héng",
+  "description": "héng：(1)持久～心。～久。～定。～齿。永～。～星。～温。\n(2)经常的，普通的～言。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-恒"
+}

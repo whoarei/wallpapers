@@ -1,0 +1,25 @@
+{
+  "id": "poem-baad4c6e635dba0cc38016f7",
+  "title": "登高",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "风急天高猨啸哀，渚清沙白鸟飞回。",
+    "无边落木萧萧下，不尽长江衮衮来。",
+    "万里悲秋常作客，百年多病独登台。",
+    "艰难苦恨繁霜鬓，潦倒新停浊酒桮。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "长江",
+    "七言律诗",
+    "写景",
+    "忧国忧民",
+    "秋天",
+    "登高",
+    "抒情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a4d718ee-c020-42b4-97df-499cd0076f7b"
+}

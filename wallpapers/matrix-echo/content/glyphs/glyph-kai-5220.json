@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5220",
+  "script": "kai",
+  "character": "删",
+  "reading": "shān",
+  "description": "shān：削除文辞中的某些字句～除。～改。～减。～定。～节。～夷（亦作删刈”）。～繁就简。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-删"
+}

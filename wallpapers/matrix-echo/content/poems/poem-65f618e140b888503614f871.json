@@ -1,0 +1,20 @@
+{
+  "id": "poem-65f618e140b888503614f871",
+  "title": "小重山·门外东风糁玉尘",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "门外东风糁玉尘。",
+    "曲房花气蔼，博山春。",
+    "小槽珠滴桂椒芬。",
+    "梅蕊绽，谁共醉中闻。",
+    "睡起静无人。",
+    "曲屏横远翠，锦为邻。",
+    "十年旧事梦如新。",
+    "红蕤枕，犹暖楚峰云。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-750",
+  "tags": []
+}

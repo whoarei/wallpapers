@@ -1,0 +1,16 @@
+{
+  "id": "poem-a6628c203e218e08ceccbe46",
+  "title": "书梅福殿壁二首 一",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "梅真从羽化，万古是须臾。",
+    "此地名空在，西山云亦孤。",
+    "井痕平野水，坛级上春芜。",
+    "纵有双飞鹤，年多松已枯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-68ee25ca-ce4a-45ac-83bc-70f0ca0679cb"
+}

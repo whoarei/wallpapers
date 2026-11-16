@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8102",
+  "script": "kai",
+  "character": "脂",
+  "reading": "zhī",
+  "description": "zhī：(1)动物体内或油料植物种子内的油质～肪。～膏。松～。～油。香～。\n(2)指胭脂”～粉。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-脂"
+}

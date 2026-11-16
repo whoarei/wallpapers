@@ -1,0 +1,15 @@
+{
+  "id": "poem-a85aea7ace006b85bbbf46d8",
+  "title": "下山虎",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "见鞍思马，睹物伤情。",
+    "触起关心事，怎不泪零？如今我婿得沐圣朝宠荣，我女一身成画饼。",
+    "他取我到吉城，值此寒冬，怎出外境？(合)天寒地冷，未可离乡背井，且待春和款款行。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8296",
+  "tags": []
+}

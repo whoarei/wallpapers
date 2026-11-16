@@ -1,0 +1,14 @@
+{
+  "id": "poem-0cf01134ad06d164aac202b7",
+  "title": "送僧造普同塔",
+  "author": "释行机",
+  "dynasty": "宋",
+  "verses": [
+    "珊珊玉骨本玲珑，挂角羚羊不见踪。",
+    "特地作亭图甚么，为怜松竹引清风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-b2d4a017-6ad4-414e-b3ea-4b3715607e1c"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-8f794cf632101d8399cf1c58",
+  "title": "宛陵送李明府罢任归江州",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "菊花村晚雁来天，共把离觞向水边。",
+    "官满便寻垂钓侣，家贫已用卖琴钱。",
+    "浪生湓浦千层雪，云起炉峰一炷烟。",
+    "倘见吾乡旧知己，为言顦顇过年年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ac77a741-d6cc-4047-9e9e-e708f0f2d22e"
+}

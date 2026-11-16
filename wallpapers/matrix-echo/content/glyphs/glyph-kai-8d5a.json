@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d5a",
+  "script": "kai",
+  "character": "赚",
+  "reading": "zuàn；zhuan",
+  "description": "赢得;获得\n出错误\n⒈诳骗～得英雄咀头。\n⒈得利，挣得，占便宜～钱。有～头。外出参观还～，到处招待，～了不少，这是歪风邪气。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赚"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-0869e1a3cdfe3c190e0d14b3",
+  "title": "田家",
+  "author": "范成大",
+  "dynasty": "宋",
+  "verses": [
+    "昼出耘田夜绩麻，村庄儿女各当家。",
+    "童孙未解供耕织，也傍桑阴学种瓜。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-田家"
+}

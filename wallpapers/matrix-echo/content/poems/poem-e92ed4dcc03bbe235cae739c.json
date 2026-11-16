@@ -1,0 +1,14 @@
+{
+  "id": "poem-e92ed4dcc03bbe235cae739c",
+  "title": "答钟弱翁",
+  "author": "牧童",
+  "dynasty": "宋",
+  "verses": [
+    "草铺横野六七里，笛弄晚风三四声。",
+    "归来饱饭黄昏后，不脱蓑衣卧月明。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-答鍾弱翁"
+}

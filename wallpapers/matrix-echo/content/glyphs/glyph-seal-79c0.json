@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-79c0",
+  "script": "seal",
+  "character": "秀",
+  "reading": "xiù",
+  "description": "xiù：(1)植物吐穗开花，多指庄稼～穗。～而不实（喻人很聪明，却未做出实际成绩）。苗而不～（喻人早死或虚有其表）。\n(2)特别优异的，亦指特别优异的人～异。～才。优～◇起之～。\n(3)美丽而不俗气～丽。～劲。～俊。～拔（秀丽而挺拔）。清～。～外慧中（外貌俊美，内心聪明）。\n(4)中国元明两代称贵族、官僚、富室子弟（称平民子弟为郎”）不郎不～（喻不成材或没出息）。\n(5)茂盛佳木～而繁荫。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-秀"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-33973e91d10669336431686d",
+  "title": "北行留别",
+  "author": "杨凌",
+  "dynasty": "唐",
+  "verses": [
+    "日日山川烽火频，山河重起旧烟尘。",
+    "一生孤负龙泉劒，羞把诗书问故人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-5770b5d6-3ea9-443a-8159-14d2b05771f6"
+}

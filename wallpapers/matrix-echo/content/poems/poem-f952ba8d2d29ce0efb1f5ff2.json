@@ -1,0 +1,18 @@
+{
+  "id": "poem-f952ba8d2d29ce0efb1f5ff2",
+  "title": "送魏端公入朝",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "东洛尚淹玩，西京足芳妍。",
+    "大宾威仪肃，上客冠劒鲜。",
+    "岂惟空恋阙，亦以将朝天。",
+    "局促尘末吏，幽老病中弦。",
+    "徒怀青云价，忽至白发年。",
+    "何当补风教，为荐三百篇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ac0730d6-7a27-4321-83bd-f10fb7eda52c"
+}

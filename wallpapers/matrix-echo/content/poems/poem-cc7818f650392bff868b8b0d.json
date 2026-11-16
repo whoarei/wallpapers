@@ -1,0 +1,16 @@
+{
+  "id": "poem-cc7818f650392bff868b8b0d",
+  "title": "哭许崧老右丞二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "夫子相知一纪前，定交握手自忘年。",
+    "长松老鹤骨格古，粹玉精金操守坚。",
+    "出入三朝昭大节，漂流万里正华颠。",
+    "皇天不愸遗元老，空使苍生共黯然。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-b17f6c07-9436-4d50-8cfe-7221fd9db6e1"
+}

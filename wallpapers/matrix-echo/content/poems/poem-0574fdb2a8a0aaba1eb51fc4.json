@@ -1,0 +1,16 @@
+{
+  "id": "poem-0574fdb2a8a0aaba1eb51fc4",
+  "title": "中秋宿邓逸人居",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "偶与山僧宿，吟诗坐到明。",
+    "夜凉耽月色，秋渴漱泉声。",
+    "磵木如竿耸，窗云作片生。",
+    "白衣闲自贵，不揖汉公卿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-d446a0c0-81f4-42df-ab74-26a4575dd893"
+}

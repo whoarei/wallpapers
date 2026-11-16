@@ -1,0 +1,14 @@
+{
+  "id": "poem-22d5ea042ac36b81f58f0f73",
+  "title": "早行",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "鹎鴂初声戒趣装，强携瘦影度重冈。",
+    "畏途政尔吴牛喘，误把残蟾作夕阳。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-79290ed0-e0a3-4be2-a99b-c32c35e55035"
+}

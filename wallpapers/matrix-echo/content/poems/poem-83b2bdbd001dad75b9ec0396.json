@@ -1,0 +1,16 @@
+{
+  "id": "poem-83b2bdbd001dad75b9ec0396",
+  "title": "山居诗  其五八",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "养性摅情不记年，免寻云水更参禅。",
+    "有心用处还应错，无意看时却宛然。",
+    "析法尚嫌灰断果，烧丹堪愍地行仙。",
+    "欲知此理谁人会，水自朝东月自圆。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-2b0641af-63b7-4b29-a7c2-737f29b1c673"
+}

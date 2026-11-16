@@ -1,0 +1,16 @@
+{
+  "id": "poem-ffa2a3002eb678ed91641403",
+  "title": "途中逢友人",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "长大有南北，山川各所之。",
+    "相逢孤馆夜，共忆少年时。",
+    "烂醉百花酒，狂题几首诗。",
+    "来朝又分袂，后会鬓应丝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-090be84b-e0a2-4df5-9e93-8e4c57a5cec0"
+}

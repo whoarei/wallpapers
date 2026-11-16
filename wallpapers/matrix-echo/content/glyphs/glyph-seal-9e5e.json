@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e5e",
+  "script": "seal",
+  "character": "鹞",
+  "reading": "yào",
+  "description": "雀鹰的俗称。古名鹬子”、笼脱”,今通称鹞鹰”、鹞子\n鹰科,鹞属各种鸟的通称\n鹞鹰\n鹞子\n猎杀。\n鹞yáo 1.见\"鹞雉\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鹞"
+}

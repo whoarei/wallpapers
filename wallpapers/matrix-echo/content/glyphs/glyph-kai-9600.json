@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9600",
+  "script": "kai",
+  "character": "阀",
+  "reading": "fá",
+  "description": "功劳\n名门巨室,仕宦人家\n依靠权势在某一方面有特殊支配地位的人物或集团\n阀门\n⒈〈古〉有权势有地位的家庭或家族名～之家。\n⒉〈古〉凭借权势、财力而拥有特殊地位的个人、家族或集团军～。财～。\n【阀阅】\n①〈古〉记载功绩或经历的簿籍。〈引〉功勋。\n②封建社会时代的贵族、官僚，大门外立两柱，左称\"阀\"，右称\"阅\"，用来张榜\"功状\"。因而又称他们为\"阀阅之家\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阀"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6a90",
+  "script": "seal",
+  "character": "檐",
+  "reading": "yán",
+  "description": "yán：(1)房顶伸出墙壁的部分房～儿。廊～。飞～。前～。～沟。～头。～牙。\n(2)覆盖物的边沿或伸出的部分帽～儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-檐"
+}

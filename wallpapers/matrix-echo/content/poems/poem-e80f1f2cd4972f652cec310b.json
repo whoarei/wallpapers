@@ -1,0 +1,20 @@
+{
+  "id": "poem-e80f1f2cd4972f652cec310b",
+  "title": "遣悲怀三首 三",
+  "author": "元稹",
+  "dynasty": "唐",
+  "verses": [
+    "闲坐悲君亦自悲，百年都是几多时。",
+    "邓攸无子寻知命，潘岳悼亡犹费词。",
+    "同穴窅冥何所望，他生缘会更难期。",
+    "唯将终夜长开眼，报荅平生未展眉。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言律诗",
+    "悼亡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-82f57261-b608-4ee9-8d88-7fde20c49a7a"
+}

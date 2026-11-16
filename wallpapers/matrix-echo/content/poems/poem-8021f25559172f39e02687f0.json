@@ -1,0 +1,15 @@
+{
+  "id": "poem-8021f25559172f39e02687f0",
+  "title": "调笑令",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "师父，休妄想，那的是俺世尊强化出魔王将你心意降。",
+    "杜子春炼丹成虚诳，则为心不诚也有许多模样。",
+    "将一个小孩儿提起来石上撞，则一惊那金丹忒楞化粉蝶儿飞扬。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3401",
+  "tags": []
+}

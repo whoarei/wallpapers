@@ -1,0 +1,16 @@
+{
+  "id": "poem-05d4b2460a7d1a048995780e",
+  "title": "闲居",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "闲居谁似我，退迹理难过。",
+    "要势危身早，浮荣败德多。",
+    "雨催虫出穴，寒逼鸟移窠。",
+    "野迳无人翦，疏窗入薜萝。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-8026338a-472e-405a-a820-f9faacb60a61"
+}

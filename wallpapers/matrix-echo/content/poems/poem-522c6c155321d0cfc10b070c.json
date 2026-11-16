@@ -1,0 +1,17 @@
+{
+  "id": "poem-522c6c155321d0cfc10b070c",
+  "title": "哭秘书包大监",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "哲人卧病日，贱子泣玉年。",
+    "常恐宝镜破，明月难再圆。",
+    "文字未改素，声容忽归玄。",
+    "始知知音稀，千载一绝弦。",
+    "旧馆有遗琴，清风那复传。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-983d12ef-7554-4fcc-8bdb-3a5f18e57932"
+}

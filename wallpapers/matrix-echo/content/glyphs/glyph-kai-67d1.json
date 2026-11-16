@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-67d1",
+  "script": "kai",
+  "character": "柑",
+  "reading": "gān",
+  "description": "gān：常绿灌木，果实圆形，似橘而大，赤黄色，味甜或酸甜，种类很多。树皮、叶、花、种子均可入药～橘（柑”、橘”、柚”、橙”等类果树或其果实）。广～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-柑"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7707",
+  "script": "seal",
+  "character": "眇",
+  "reading": "miǎo",
+  "description": "miǎo：(1)瞎了一只眼，后亦指两眼俱瞎～视（ａ．用一只眼看；ｂ．轻视）。生而～者不识日”。\n(2)细小，微小～小。～～（ａ．微小，如～～之身”；ｂ．边远，高远，如路～～之默默”；ｃ．远看，如目～～兮愁予”）。～身（微小之身，古代帝王自称）。\n(3)古同渺”，远，高。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-眇"
+}

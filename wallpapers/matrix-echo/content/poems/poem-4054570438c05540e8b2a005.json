@@ -1,0 +1,16 @@
+{
+  "id": "poem-4054570438c05540e8b2a005",
+  "title": "灵岩",
+  "author": "姚辟",
+  "dynasty": "宋",
+  "verses": [
+    "泉石平生性所耽，谢公延我到东南。",
+    "红莲幕下烦佳客，文脊山中访旧岩。",
+    "剪竹扫花寻鸟道，扪萝随衲问龙潭。",
+    "图经未尽幽潜事，待向仙家起玉函。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-26cca302-8fd8-4fbe-93d4-be82a0769808"
+}

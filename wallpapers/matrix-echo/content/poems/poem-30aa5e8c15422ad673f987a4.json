@@ -1,0 +1,17 @@
+{
+  "id": "poem-30aa5e8c15422ad673f987a4",
+  "title": "葛生",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "葛生蒙楚，蔹蔓于野。予美亡此，谁与？独处？",
+    "葛生蒙棘，蔹蔓于域。予美亡此，谁与？独息？",
+    "角枕粲兮，锦衾烂兮。予美亡此，谁与？独旦？",
+    "夏之日，冬之夜。百岁之后，归于其居。",
+    "冬之夜，夏之日。百岁之后，归于其室。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-123"
+}

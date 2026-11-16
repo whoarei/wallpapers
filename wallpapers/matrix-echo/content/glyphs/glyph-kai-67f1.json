@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-67f1",
+  "script": "kai",
+  "character": "柱",
+  "reading": "zhù",
+  "description": "zhù：(1)建筑物中直立的起支撑作用的构件～子。～石。顶梁～。\n(2)形状像柱子的东西，或作用重要如柱子的水～。～臣（对国家有重要作用的臣子）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-柱"
+}

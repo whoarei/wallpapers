@@ -1,0 +1,17 @@
+{
+  "id": "poem-f21b9391e3160b8a336f8b3b",
+  "title": "同袁高使君送李判官使回",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "庾公欢此别，路远意犹赊。",
+    "为出塘边柳，荣归府中花。",
+    "驰阳照古堞，遥思凝寒笳。",
+    "延步下前渚，溯觞流浅沙。",
+    "湖光引行色，轻舸傍残霞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f3facf68-cd48-43d3-8e23-db28e701b9bd"
+}

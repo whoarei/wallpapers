@@ -1,0 +1,16 @@
+{
+  "id": "poem-c6818747627539fbb4abc5ef",
+  "title": "复吴秘正五诗  其四",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "作宰古尚教，宓齐但横琴。",
+    "唐吏犹易为，读书或松林。",
+    "一从来海濒，琴书暗尘侵。",
+    "俗有古今异，鞭扑违寸心。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-1d135141-7a2d-4c7b-9482-04591e1dec5c"
+}

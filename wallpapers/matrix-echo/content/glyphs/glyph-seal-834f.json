@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-834f",
+  "script": "seal",
+  "character": "荏",
+  "reading": "rěn",
+  "description": "rěn：(1)一年生草本植物，茎方形，叶椭圆形，有锯齿，开白色小花，种子通称苏子”，可榨油；嫩叶可食。亦称白苏”。\n(2)柔，软弱～弱。～染（柔弱的样子）。色厉内～。\n(3)古同戎”、壬”，大。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-荏"
+}

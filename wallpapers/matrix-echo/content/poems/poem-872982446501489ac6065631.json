@@ -1,0 +1,19 @@
+{
+  "id": "poem-872982446501489ac6065631",
+  "title": "点绛唇·回雁风微",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "回雁风微，养花浓淡天容好。",
+    "似春知道。",
+    "吉梦佳辰到。",
+    "共乐春台，携手蓬莱小。",
+    "同倾祷。",
+    "愿春不老。",
+    "岁岁寻芳草。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-244",
+  "tags": []
+}

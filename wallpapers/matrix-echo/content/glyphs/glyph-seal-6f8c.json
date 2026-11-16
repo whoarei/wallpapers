@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6f8c",
+  "script": "seal",
+  "character": "澌",
+  "reading": "sī",
+  "description": "sī：(1)尽～灭。\n(2)流水候吏还白，河水流～”。\n(3)古同嘶”，声音沙哑。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-澌"
+}

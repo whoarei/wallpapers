@@ -1,0 +1,14 @@
+{
+  "id": "poem-5718dadd6a14cc5d68694ccf",
+  "title": "题武关",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "来往悲欢万里心，多从此路计浮沈。",
+    "皆缘不得空门要，舜葬苍梧直至今。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-eee8425b-6325-4e66-a22b-13b7979564cc"
+}

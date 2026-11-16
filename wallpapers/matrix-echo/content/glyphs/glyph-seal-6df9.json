@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6df9",
+  "script": "seal",
+  "character": "淹",
+  "reading": "yān",
+  "description": "yān：(1)浸没（mò）水～。～没（mò）。～灌。\n(2)皮肤被汗液浸渍胳肢窝被汗～得又痛又痒。\n(3)广～博。～通。～贯（渊博而贯通）。～雅（渊博高雅）。\n(4)滞，久留～留。久～。～滞。～月（滞留一月）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淹"
+}

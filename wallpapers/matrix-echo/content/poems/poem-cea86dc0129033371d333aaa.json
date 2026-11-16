@@ -1,0 +1,23 @@
+{
+  "id": "poem-cea86dc0129033371d333aaa",
+  "title": "登金陵凤凰台",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "凤凰台上凤凰游，凤去台空江自流。",
+    "吴宫花草埋幽径，晋代衣冠成古丘。",
+    "三山半落青天外，二水中分白鹭洲。",
+    "总为浮云能蔽日，长安不见使人愁。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "七言律诗",
+    "一年级下册",
+    "高中古诗",
+    "咏史怀古"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-4af86c76-18b3-4069-be90-6d8cef430bc7"
+}

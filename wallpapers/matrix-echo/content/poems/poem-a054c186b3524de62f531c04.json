@@ -1,0 +1,16 @@
+{
+  "id": "poem-a054c186b3524de62f531c04",
+  "title": "和范秘书宿省中作",
+  "author": "喻坦之",
+  "dynasty": "唐",
+  "verses": [
+    "清省宜寒夜，仙才称独吟。",
+    "钟来宫转漏，月过合移阴。",
+    "鹤避灯前尽，芸高幄外深。",
+    "想知因此兴，暂动忆山心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-bdeeb316-5a01-432c-93f0-ef4bffe37469"
+}

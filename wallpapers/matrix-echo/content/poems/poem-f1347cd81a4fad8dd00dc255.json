@@ -1,0 +1,14 @@
+{
+  "id": "poem-f1347cd81a4fad8dd00dc255",
+  "title": "江南曲",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "长乐花枝雨点销，江城日暮好相邀。",
+    "春楼不闭葳蕤锁，绿水回连宛转桥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-3b28eace-a2e8-4627-a7ef-02e3b901be8f"
+}

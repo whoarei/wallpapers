@@ -1,0 +1,14 @@
+{
+  "id": "poem-cfb1e244e76bf838fec443a1",
+  "title": "旧同官张法曹",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "熬波同看楚天秋，多少艰难说未休。",
+    "今日共依湖柳住，梦中犹怕踏边头。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-e92aa381-9ca8-4bc2-a505-52c06b492cd1"
+}

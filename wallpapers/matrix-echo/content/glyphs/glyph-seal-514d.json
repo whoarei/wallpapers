@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-514d",
+  "script": "seal",
+  "character": "免",
+  "reading": "miǎn",
+  "description": "miǎn：(1)去掉，除掉～除。～税。～费。～官。～检。罢～。豁～。\n(2)不被某种事物所涉及避～。～疫。～不了。在所难～。\n(3)不可，不要闲人～进。\n(4)古同勉”，勉励。\n(5)古同娩”，分娩。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-免"
+}

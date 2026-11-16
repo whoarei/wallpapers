@@ -1,0 +1,16 @@
+{
+  "id": "poem-e118d14b87b4df8253fff292",
+  "title": "安国寺随驾幸兴唐观应制",
+  "author": "广宣",
+  "dynasty": "唐",
+  "verses": [
+    "东林何殿是西邻，禅客垣墙接羽人。",
+    "万乘游仙宗有道，三车引路本无尘。",
+    "初传宝诀长生术，已证金刚不坏身。",
+    "两地尽修天上事，共瞻銮驾重来巡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-76be28ad-f2ca-4efc-b6f1-a0a8660ce410"
+}

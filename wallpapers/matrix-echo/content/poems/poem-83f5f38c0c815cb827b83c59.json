@@ -1,0 +1,14 @@
+{
+  "id": "poem-83f5f38c0c815cb827b83c59",
+  "title": "权舆",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "于我乎，夏屋渠渠，今也每食无余。于嗟乎，不承权舆！",
+    "于我乎，每食四簋，今也每食不饱。于嗟乎，不承权舆！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-134"
+}

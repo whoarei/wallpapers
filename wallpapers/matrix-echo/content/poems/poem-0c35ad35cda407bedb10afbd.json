@@ -1,0 +1,20 @@
+{
+  "id": "poem-0c35ad35cda407bedb10afbd",
+  "title": "游干明分韵得山字",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "竹风清如水，浣我尘埃颜。",
+    "老禅贫无锥，小破蔬笋悭。",
+    "短辕下鸱夷，共此半日闲。",
+    "住笔讯鶑燕，把杯属江山。",
+    "老夫病止饮，苦语涩莫删。",
+    "揆予郊岛寒，著君季孟间。",
+    "江柳未遽折，园花且同攀。",
+    "后夜短亭梦，漫寄东风还。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-bce11135-6a1c-4705-91aa-85a72ccb2202"
+}

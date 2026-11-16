@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6e29",
+  "script": "seal",
+  "character": "温",
+  "reading": "wēn",
+  "description": "wēn：(1)不冷不热～带。保～。降～。～泉。～和。～床。\n(2)性情柔和～柔。～存（抚慰体贴）。～情。～顺。～静。～良。～文尔雅。\n(3)稍微加热把酒～一下。\n(4)复习～习。～故而知新。\n(5)古同瘟”。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-温"
+}

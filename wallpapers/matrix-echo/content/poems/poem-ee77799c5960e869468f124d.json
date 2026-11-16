@@ -1,0 +1,20 @@
+{
+  "id": "poem-ee77799c5960e869468f124d",
+  "title": "鼓笛令·见来两个宁宁地",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "见来两个宁宁地。",
+    "眼厮打、过如拳踢。",
+    "恰得尝些香甜底。",
+    "苦杀人、遭谁调戏。",
+    "腊月望州坡上地。",
+    "冻著你、影亸村鬼。",
+    "你但那些一处睡。",
+    "烧沙糖、管好滋味。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-782",
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-fd32c1332ab799acf3300cf2",
+  "title": "读陶诗  其一",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "端居洗尘虑，细读渊明诗。",
+    "畴昔慕此翁，寤寐忘调饥。",
+    "此翁非诗人，而有天然姿。",
+    "纷纷世事中，采采黄菊枝。",
+    "此语人共赏，此意畴复知。",
+    "知即翁之徒，高风接皇羲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-7e253c8f-2ff7-4d02-a952-a2c24df98def"
+}

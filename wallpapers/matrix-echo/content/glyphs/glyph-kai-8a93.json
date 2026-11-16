@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8a93",
+  "script": "kai",
+  "character": "誓",
+  "reading": "shì",
+  "description": "shì：(1)当众或共同表示决心，依照说的话实行～师。～词。～愿。～死。\n(2)表示决心的话发～。宣～。立～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-誓"
+}

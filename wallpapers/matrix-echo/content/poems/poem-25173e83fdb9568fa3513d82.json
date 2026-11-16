@@ -1,0 +1,16 @@
+{
+  "id": "poem-25173e83fdb9568fa3513d82",
+  "title": "立秋日",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "商风动叶初，萧索一贫居。",
+    "老性容茶少，羸肌与簟疎。",
+    "旧醅难重漉，新菜未胜鉏。",
+    "才薄无潘兴，便便画偃庐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-308cd53c-fc61-4dde-899e-a4db10cb3302"
+}

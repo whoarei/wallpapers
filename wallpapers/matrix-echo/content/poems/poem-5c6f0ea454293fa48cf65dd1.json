@@ -1,0 +1,14 @@
+{
+  "id": "poem-5c6f0ea454293fa48cf65dd1",
+  "title": "观邻老栽松",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "虽过老人宅，不解老人心。",
+    "何事残阳里，栽松欲待阴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-7a9e58d6-e9a2-4b7a-87b1-25f114878049"
+}

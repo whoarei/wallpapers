@@ -1,0 +1,16 @@
+{
+  "id": "poem-c09a4c94a147cfe03006f180",
+  "title": "陶使君挽歌二首  其一",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "太守今何在，行春去不归。",
+    "筵空收管吹，郊迥俨骖𬴂。",
+    "营外星才落，园中露已晞。",
+    "伤心梁上燕，犹解向人飞。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-19a4d427-64d3-4549-b762-313f4937ae81"
+}

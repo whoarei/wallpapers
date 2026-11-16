@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5de1",
+  "script": "seal",
+  "character": "巡",
+  "reading": "xún",
+  "description": "xún：(1)到各处去，来回走动查看～弋（指舰艇在海上巡逻）。～游。～天（指在天空巡游）。～回。～抚。～视。～幸（古代特指帝王出巡到达某地）。～逻。\n(2)酒席上给全座依次斟酒一遍～杯（主人在宴席上依次向客人劝酒）。酒过三～，菜过五味。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-巡"
+}

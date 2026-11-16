@@ -1,0 +1,14 @@
+{
+  "id": "poem-61f57b11e3e966b20fa93a3c",
+  "title": "与史朗中饮听黄鹤楼上吹笛",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "一为迁客去长沙，西望长安不见家。",
+    "黄鹤楼中吹玉笛，江城五月落梅花。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-與史朗中飲聽黃鶴樓上吹笛"
+}

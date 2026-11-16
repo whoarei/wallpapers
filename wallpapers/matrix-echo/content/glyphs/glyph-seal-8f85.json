@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f85",
+  "script": "seal",
+  "character": "辅",
+  "reading": "fǔ",
+  "description": "助手\n面颊\n⒈车轮外的两个直条，用以增强车辐的承载力。〈引〉帮助，协助～助。～导有方。相～相成。\n【辅音】 也叫\"子音\"。发音时，从肺里出来的气，经口腔或鼻腔受到障碍所成的音。拼音字母b、c、d、g等都是辅音。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辅"
+}

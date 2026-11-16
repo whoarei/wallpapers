@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f0b",
+  "script": "seal",
+  "character": "弋",
+  "reading": "yì",
+  "description": "yì：(1)用带绳子的箭射鸟～获。～人何篡（篡”，取，鸿雁飞得很高，射鸟的人无所施其技）。\n(2)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-弋"
+}

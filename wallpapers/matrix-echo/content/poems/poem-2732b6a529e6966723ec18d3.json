@@ -1,0 +1,16 @@
+{
+  "id": "poem-2732b6a529e6966723ec18d3",
+  "title": "和人见寄",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "江海同为客，山林不并居。",
+    "经时占喜鹊，今日剖双鱼。",
+    "拥鼻还成咏，撑肠未废书。",
+    "孤吟聊自遣，谁复借吹嘘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-c9b9f52e-c414-4f02-8819-06effa4ba25a"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-901d",
+  "script": "seal",
+  "character": "逝",
+  "reading": "shì",
+  "description": "shì：(1)过去，往～去。～川（逝去的流水，喻过去了的岁月或事物）。光阴易～。子在川上曰～者如斯夫！”\n(2)死，多用于对死者的敬意～世。长～。仙～。\n(3)古同誓”，表决心之词。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-逝"
+}

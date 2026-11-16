@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5a03",
+  "script": "seal",
+  "character": "娃",
+  "reading": "wá",
+  "description": "wá：(1)小孩子～子。胖～～。\n(2)旧称美女娇～。\n(3)某些幼小的动物猪～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-娃"
+}

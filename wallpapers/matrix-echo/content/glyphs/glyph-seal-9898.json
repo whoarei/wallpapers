@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9898",
+  "script": "seal",
+  "character": "题",
+  "reading": "tí",
+  "description": "物品的前端或顶端\n⒊练习、考试等要求解答的问问～。试～。数学～。\n⒋写上，签署～写。～名。～款。～词。\n⒌评议品～。\n题dì 1.通\"睇\"。视。 2.通\"匙\"。歃血器。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-题"
+}

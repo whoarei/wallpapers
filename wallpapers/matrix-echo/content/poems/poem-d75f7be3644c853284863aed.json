@@ -1,0 +1,24 @@
+{
+  "id": "poem-d75f7be3644c853284863aed",
+  "title": "送魏万之京",
+  "author": "李颀",
+  "dynasty": "唐",
+  "verses": [
+    "朝闻游子唱离歌，昨夜微霜初渡河。",
+    "鸿鴈不堪愁里听，云山况是客中过。",
+    "关城树色催寒近，御苑砧声向晚多。",
+    "莫见长安行乐处，空令岁月易蹉跎。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "叙事",
+    "七言律诗",
+    "写景",
+    "友情",
+    "抒情",
+    "送别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-6340ef19-35e2-4194-96a9-3ee0a667905b"
+}

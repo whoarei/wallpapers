@@ -1,0 +1,16 @@
+{
+  "id": "poem-afdfdd6b7ad71fee4766f519",
+  "title": "舟中寒食",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "寒食空江曲，孤舟渺水前。",
+    "鬬鸡沙鸟异，禁火岸花然。",
+    "日霁开愁望，波喧警醉眠。",
+    "因看数茎鬓，倍欲惜芳年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6367bd53-1d65-492f-afae-57db79e5c812"
+}

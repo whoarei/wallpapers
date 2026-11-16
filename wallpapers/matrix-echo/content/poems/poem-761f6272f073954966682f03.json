@@ -1,0 +1,18 @@
+{
+  "id": "poem-761f6272f073954966682f03",
+  "title": "后出塞五首 五",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "我本良家子，出师亦多门。",
+    "将骄益愁思，身贵不足论。",
+    "跃马二十年，恐辜明主恩。",
+    "坐见幽州骑，长驱河洛昏。",
+    "中夜间道归，故里但空邨。",
+    "恶名幸脱免，穷老无儿孙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-0fa40901-8543-407c-97dc-95d9e3201b85"
+}

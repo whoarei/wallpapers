@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d2c",
+  "script": "seal",
+  "character": "贬",
+  "reading": "biǎn",
+  "description": "降级\n特指降职并外放;贬谪\n其后\n②指出缺点，给予不好的评价，与'褒'相对有褒有～。\n【贬斥】\n①降低官级。\n②贬低并压制、排斥。\n【贬黜】降低或罢免官职。\n【贬低】有意降低对人或事物的评价。\n【贬义】言辞或字句里含有不赞成或坏的意思～词。\n【贬义词】含有厌恶、贬斥等感情色彩的词。\n【贬抑】贬低并压制。\n【贬责】指出过失、加以批评；责备横加～。\n【贬谪】封建时代指官吏降职，被派到边远地方做官。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-贬"
+}

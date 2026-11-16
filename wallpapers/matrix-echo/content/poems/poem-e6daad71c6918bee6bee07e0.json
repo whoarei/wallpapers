@@ -1,0 +1,20 @@
+{
+  "id": "poem-e6daad71c6918bee6bee07e0",
+  "title": "观《山海图》二首 其一",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "古色辨微茫，华夷在一堂。",
+    "云霞开藻井，天地出雕梁。",
+    "细草生毫末，轻风拂黛光。",
+    "夜山犹带景，秋树不凋霜。",
+    "隐竹才分翠，秾华欲堕香。",
+    "无风帆自起，度日鸟空翔。",
+    "舟势鲸吞久，楼形蜃吐长。",
+    "更看台上镜，造化落中央。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-886e5d0d-ae10-431e-adf8-d66636854b43"
+}

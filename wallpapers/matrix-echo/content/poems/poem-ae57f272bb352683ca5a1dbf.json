@@ -1,0 +1,16 @@
+{
+  "id": "poem-ae57f272bb352683ca5a1dbf",
+  "title": "岐王山亭",
+  "author": "张谔",
+  "dynasty": "唐",
+  "verses": [
+    "王家傍绿池，春色正相宜。",
+    "岂有楼台好，兼看草树奇。",
+    "石榴天上叶，椰子日南枝。",
+    "出入千门里，年年乐未移。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-eda88b0f-c62a-45ef-84f5-f60e86a5bc28"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-da6652af20ce3f74a2f2b6a4",
+  "title": "汾沮洳",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "彼汾沮洳，言采其莫。彼其之子，美无度。美无度，殊异乎公路。",
+    "彼汾一方，言采其桑。彼其之子，美如英。美如英，殊异乎公行。",
+    "彼汾一曲，言采其藚。彼其之子，美如玉。美如玉，殊异乎公族。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-107"
+}

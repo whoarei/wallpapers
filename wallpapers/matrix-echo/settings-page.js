@@ -26,6 +26,7 @@
       if (busy) return;
       busy = true; update(); $('config-error').hidden = true; feedback('正在读取主程序配置…');
       try {
+        await window.MatrixContent?.ready;
         if (!window.wallpaperSettings || typeof wallpaperSettings.load !== 'function') throw new Error('请在壁纸盒子 v0.12.0 或更新版本的「壁纸设置」中打开此页。');
         const snapshot = await wallpaperSettings.load();
         if (!Number.isSafeInteger(snapshot.revision) || snapshot.revision < 0) throw new Error('主程序返回的配置版本无效。');

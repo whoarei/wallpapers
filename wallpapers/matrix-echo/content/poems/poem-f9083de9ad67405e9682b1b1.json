@@ -1,0 +1,16 @@
+{
+  "id": "poem-f9083de9ad67405e9682b1b1",
+  "title": "示如梦禅人行脚",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "闲处休居静莫住，转入转深转幽固。",
+    "纵至深深尽底时，更须知有那一步。",
+    "昔日曹溪亲到来，今时往往多差互。",
+    "若非丧尽目前机，倒岳倾湫无觅处。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-ee6988be-0945-4694-999f-d87a3d740d40"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bba",
+  "script": "seal",
+  "character": "论",
+  "reading": "lùn",
+  "description": "论语\n议论, 分析和说明事理\n坐而论道。\n⒈商讨，判断，研究讨～。议～。评～。争～。就事～事。\n⒉主张，学说进化～。唯物～。\n⒊文体名。论述事物的内容、意义，阐明道理～文。社～。实践～。\n⒋衡量，评定～罪。\n⒌按照～件计酬。～质核价。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-论"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-e6c530332fb4d100a2590c07",
+  "title": "鹧鸪天·昼得游嬉夜得眠",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "昼得游嬉夜得眠。",
+    "农桑欲遍楚山川。",
+    "问看百姓知公否，馀子纷纷定不然。",
+    "思主眷，酌民言。",
+    "与民称寿拜公前。",
+    "只将心与天通处，合住人间五百年。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-239",
+  "tags": []
+}

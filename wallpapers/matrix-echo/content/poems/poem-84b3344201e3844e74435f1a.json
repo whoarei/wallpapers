@@ -1,0 +1,17 @@
+{
+  "id": "poem-84b3344201e3844e74435f1a",
+  "title": "偈颂（幷序○序为南岳齐己撰） 八十二",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "体得无生意，朝朝近古人。",
+    "若也更不会，虽乐苦临身。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-e3c6aa26-7557-4f68-959a-da6e0c04371f"
+}

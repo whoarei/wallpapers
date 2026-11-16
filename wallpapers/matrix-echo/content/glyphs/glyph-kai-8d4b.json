@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d4b",
+  "script": "kai",
+  "character": "赋",
+  "reading": "fù",
+  "description": "缴纳赋税\n给予;授予\n⒉授予，给予～于。\n⒋念诗或作诗临清流而～诗。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赋"
+}

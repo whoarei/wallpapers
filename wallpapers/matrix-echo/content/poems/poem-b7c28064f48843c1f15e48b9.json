@@ -1,0 +1,15 @@
+{
+  "id": "poem-b7c28064f48843c1f15e48b9",
+  "title": "江城子·碧栏干外小中庭",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "碧栏干外小中庭，雨初晴，晓莺声。",
+    "飞絮落花，时节近清明。",
+    "睡起卷帘无一事，匀面了，没心情。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-0"
+}

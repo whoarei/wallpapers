@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5080",
+  "script": "seal",
+  "character": "傀",
+  "reading": "guī；kuǐ",
+  "description": "kuǐ：〔～儡〕ａ．木偶戏里的木头人；ｂ．喻徒有虚名，被人操纵的人或组织，如～～政权”。\nguī：(1)怪异～奇（亦作瑰奇”）。\n(2)独立的样子～然独立。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-傀"
+}

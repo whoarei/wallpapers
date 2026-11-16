@@ -1,0 +1,14 @@
+{
+  "id": "poem-0777d1930551404d554ec7d1",
+  "title": "花港观鱼",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "桃花落尽杏花嫣，碧港红沉水底天。",
+    "山雨忽晴风亦退，钓鱼人在小湖船。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-80fed261-dab1-44a0-9b5d-60b28404680b"
+}

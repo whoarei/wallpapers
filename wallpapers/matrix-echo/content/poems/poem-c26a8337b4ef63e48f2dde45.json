@@ -1,0 +1,20 @@
+{
+  "id": "poem-c26a8337b4ef63e48f2dde45",
+  "title": "踏莎行·祖席离歌",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "祖席离歌，长亭别宴。",
+    "香尘已隔犹回面。",
+    "居人匹马映林嘶，行人去棹依波转。",
+    "画阁魂消，高楼目断。",
+    "斜阳只送平波远。",
+    "无穷无尽是离愁，天涯地角寻思遍。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-165"
+}

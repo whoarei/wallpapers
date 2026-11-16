@@ -1,0 +1,15 @@
+{
+  "id": "poem-8fc3e3617a305bf6fa6ad586",
+  "title": "卢令",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "卢令令，其人美且仁。",
+    "卢重环，其人美且鬈。",
+    "卢重鋂，其人美且偲。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-102"
+}

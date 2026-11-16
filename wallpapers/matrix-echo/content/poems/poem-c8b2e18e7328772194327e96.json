@@ -1,0 +1,16 @@
+{
+  "id": "poem-c8b2e18e7328772194327e96",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［老旦］蒙错爱，为眷属，这恩德深铭肺腑。",
+    "奈缘艰苦，迤逦不能勾参岳父。",
+    "到如今又蒙相呼，顿教娘心中犹豫。",
+    "试问我孩儿媳妇，怎生区处？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8117",
+  "tags": []
+}

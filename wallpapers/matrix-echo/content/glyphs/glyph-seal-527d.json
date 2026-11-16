@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-527d",
+  "script": "seal",
+  "character": "剽",
+  "reading": "piāo",
+  "description": "piāo：(1)抢劫，掠夺～掠。～窃。～袭。～贼。\n(2)轻捷～悍。～轻。～疾。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-剽"
+}

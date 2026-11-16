@@ -1,0 +1,14 @@
+{
+  "id": "poem-758bfbd4f423f65eee7514a6",
+  "title": "留别南溪二首 二",
+  "author": "李渤",
+  "dynasty": "唐",
+  "verses": [
+    "如云不厌苍梧远，似鴈逢春又北归。",
+    "惟有隐山溪上月，年年相望两依依。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-10719e77-ef12-475d-9f69-be8809c12649"
+}

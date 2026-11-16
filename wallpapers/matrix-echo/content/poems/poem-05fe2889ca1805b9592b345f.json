@@ -1,0 +1,16 @@
+{
+  "id": "poem-05fe2889ca1805b9592b345f",
+  "title": "秋夜听捣衣",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "砧杵闻秋夜，裁缝寄远方。",
+    "声微渐湿露，响细未经霜。",
+    "兰牖唯遮树，风帘不碍凉。",
+    "云中望何处，听此断人肠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-11c4239f-8784-43e5-87a7-3c2d2109dd22"
+}

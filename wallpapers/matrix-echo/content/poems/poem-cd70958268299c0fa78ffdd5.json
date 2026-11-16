@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd70958268299c0fa78ffdd5",
+  "title": "后庭花·石城依旧空江国",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "石城依旧空江国，故宫春色。",
+    "七尺青丝芳草碧，绝世难得。",
+    "玉英凋落尽，更何人识，野棠如织。",
+    "只是教人添怨忆，怅望无极。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-10"
+}

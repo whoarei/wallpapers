@@ -1,0 +1,19 @@
+{
+  "id": "poem-ab1b2365af8257e711390746",
+  "title": "宫词",
+  "author": "朱庆余",
+  "dynasty": "唐",
+  "verses": [
+    "寂寂花时闭院门，美人相并立琼轩。",
+    "含情欲说宫中事，鹦鹉前头不敢言。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "宫怨",
+    "写景"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-ab4b1a7f-4fbe-438b-817f-9e1ed2d39f4f"
+}

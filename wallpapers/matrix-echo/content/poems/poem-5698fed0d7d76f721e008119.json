@@ -1,0 +1,14 @@
+{
+  "id": "poem-5698fed0d7d76f721e008119",
+  "title": "赠奉律上人",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "知君学地厌多闻，广渡群生出世氛。",
+    "饭色不应殊宝器，树香皆遣入禅薰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-7be95130-83a9-468e-8ae0-358cacda75c7"
+}

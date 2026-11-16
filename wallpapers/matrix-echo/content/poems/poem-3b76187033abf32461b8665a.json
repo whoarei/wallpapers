@@ -1,0 +1,16 @@
+{
+  "id": "poem-3b76187033abf32461b8665a",
+  "title": "寄友生",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "交情应不变，何事久离群。",
+    "圆月思同步，寒泉忆共闻。",
+    "雪霜松色在，风雨雁行分。",
+    "每见人来说，窗前改旧文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-434606b8-d921-4fe0-95d9-2deaf7f1d2a4"
+}

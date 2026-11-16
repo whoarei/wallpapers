@@ -1,0 +1,16 @@
+{
+  "id": "poem-4f9dce0ccfde3928f514312e",
+  "title": "郊庙歌辞 享太庙乐章 凯安四章 一",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "瑟彼瑶爵，亚惟上公。",
+    "室如屏气，门不容躬。",
+    "礼殷其本，乐执其中。",
+    "圣皇永慕，天地幽通。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-9cc352d4-75fb-463a-9bda-f24ff3310cb4"
+}

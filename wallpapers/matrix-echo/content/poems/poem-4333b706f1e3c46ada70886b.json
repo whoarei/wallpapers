@@ -1,0 +1,16 @@
+{
+  "id": "poem-4333b706f1e3c46ada70886b",
+  "title": "罗浮山下书逸人壁",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "海上亭台山下烟，买时幽邃不争钱。",
+    "莫言白日催华发，自有丹砂驻少年。",
+    "渔钓未归深竹里，琴壶犹恋落花边。",
+    "可中更践无人境，知是罗浮第几天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ad43450a-e60d-4c45-8329-a5901ea0b063"
+}

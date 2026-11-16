@@ -1,0 +1,16 @@
+{
+  "id": "poem-45bf58e361f5919cee74375c",
+  "title": "山居杂兴  其一",
+  "author": "艾可翁",
+  "dynasty": "宋",
+  "verses": [
+    "老夫晨沐罢，还卧看云行。",
+    "发短便巾小，衰容怯镜明。",
+    "空林存竹意，破屋带泉声。",
+    "自喜诗棋外，无营梦亦清。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-5d95b9a5-30c4-4891-95d8-ad6415e2ede5"
+}

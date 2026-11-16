@@ -1,0 +1,16 @@
+{
+  "id": "poem-b23d269e1e470261ff5af0e5",
+  "title": "和孙秀才醉中二首  其二",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "吾邻有达士，时得问话言。",
+    "寄身杯酒间，万事不复论。",
+    "大嚼青精饭，高岸白纶巾。",
+    "愧非伯伦伴，辜此羲轩民。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-384b99df-76b2-4359-816d-90f6af838b2c"
+}

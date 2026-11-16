@@ -1,0 +1,20 @@
+{
+  "id": "poem-099b9df87e4296a9e1204dfc",
+  "title": "鹊踏枝・蝶恋花·斜日平山寒已薄",
+  "author": "宝月",
+  "dynasty": "宋",
+  "verses": [
+    "斜日平山寒已薄。",
+    "雪过松梢，犹有残英落。",
+    "晚色际天天似幕。",
+    "一尊先与东风约。",
+    "邀得红梅同宴乐。",
+    "酒面融春，春满纤纤萼。",
+    "客意为伊浑忘却。",
+    "归船且傍花阴泊。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-855",
+  "tags": []
+}

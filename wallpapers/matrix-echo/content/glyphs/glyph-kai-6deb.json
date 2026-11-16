@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6deb",
+  "script": "kai",
+  "character": "淫",
+  "reading": "yín",
+  "description": "yín：(1)过多，过甚～辞。～雨。～威。\n(2)渐浸，浸渍浸～。\n(3)迷惑富贵不能～。\n(4)在男女关系上态度或行为不正当奸～。～荡。～乱。～秽。～猥。～书。\n(5)放纵，沉溺～湎（沉溺于酒）。骄奢～逸。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淫"
+}

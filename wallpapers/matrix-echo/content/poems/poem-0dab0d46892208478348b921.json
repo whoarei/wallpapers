@@ -1,0 +1,14 @@
+{
+  "id": "poem-0dab0d46892208478348b921",
+  "title": "笔",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "摹画由来妙手知，彩笺落处直疑飞。",
+    "寸心用尽终何补，赢得霜毫秃后归。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-3afe8ff3-96b5-44f7-9b93-5bb12552f8eb"
+}

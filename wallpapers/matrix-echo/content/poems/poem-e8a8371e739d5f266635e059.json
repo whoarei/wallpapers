@@ -1,0 +1,18 @@
+{
+  "id": "poem-e8a8371e739d5f266635e059",
+  "title": "陌上桑",
+  "author": "曹操",
+  "dynasty": "汉",
+  "verses": [
+    "驾虹霓，乘赤云，登彼九疑历玉门。",
+    "济天汉，至昆仑，见西王母谒东君。",
+    "交赤松，及羡门，受要秘道爱精神。",
+    "食芝英，饮醴泉，柱杖桂枝佩秋兰。",
+    "绝人事，游浑元，若疾风游欻翩翩。",
+    "景未移，行数千，寿如南山不忘愆。"
+  ],
+  "enabled": true,
+  "collection": "曹操诗集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/曹操诗集/caocao.json#record-15"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b3f137c5fba18b4808356a95",
+  "title": "生查子·四月到盘洲",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "四月到盘洲，长是黄梅雨。",
+    "屐齿满莓苔，避湿开新路。",
+    "极望绿阴成，不见乌飞处。",
+    "云采列奇峰，绝胜看庐阜。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-722",
+  "tags": []
+}

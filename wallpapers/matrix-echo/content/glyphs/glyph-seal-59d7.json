@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-59d7",
+  "script": "seal",
+  "character": "姗",
+  "reading": "shān；shàn",
+  "description": "shān：〔～～〕形容走路缓缓从容的样子，如～～来迟”。\nshàn：古同讪”，讥讽。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-姗"
+}

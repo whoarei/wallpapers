@@ -1,0 +1,14 @@
+{
+  "id": "poem-06b4f9916fb86b8978bb7b81",
+  "title": "紫极宫",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "拜章台上月如霜，云湿阑干面面凉。",
+    "道士醮归秋夜浄，满身薰得紫藤香。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-6595877f-2437-4541-82a9-9f37c45bb4ed"
+}

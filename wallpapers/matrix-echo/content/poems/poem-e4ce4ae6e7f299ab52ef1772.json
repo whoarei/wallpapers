@@ -1,0 +1,16 @@
+{
+  "id": "poem-e4ce4ae6e7f299ab52ef1772",
+  "title": "上小楼",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "公吏人排列两边，不由我心惊胆战。",
+    "怎推这铁锁沉枷，麻捶撒子？受尽熬煎。",
+    "假若使心似铁，这官法如炉烧炼。",
+    "休悲我枉屈后，死而无怨。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8641",
+  "tags": []
+}

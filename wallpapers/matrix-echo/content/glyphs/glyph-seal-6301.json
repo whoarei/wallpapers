@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6301",
+  "script": "seal",
+  "character": "持",
+  "reading": "chí",
+  "description": "chí：(1)拿着，握住～笔。～枪。～牢（把稳）。\n(2)遵守不变坚～。～久。～操（保持节操）。～之以恒。\n(3)主张，掌管主～。～平。～国。～重。～之有故（立论有根据）。\n(4)对待，处理～身（对待自己）。～盈。～胜。\n(5)扶助支～。撑～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-持"
+}

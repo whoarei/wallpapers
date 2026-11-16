@@ -1,0 +1,18 @@
+{
+  "id": "poem-138f5ff34972a75c64861e2a",
+  "title": "玉楼春·玉琴虚下伤心泪",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "玉琴虚下伤心泪。",
+    "只有文君知曲意。",
+    "帘烘楼迥月宜人，酒暖香融春有味。",
+    "萋萋芳草迷千里。",
+    "惆怅王孙行未已。",
+    "天涯回首一销魂，二十四桥歌舞地。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-448",
+  "tags": []
+}

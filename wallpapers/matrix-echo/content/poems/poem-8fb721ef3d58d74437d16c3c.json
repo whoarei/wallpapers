@@ -1,0 +1,18 @@
+{
+  "id": "poem-8fb721ef3d58d74437d16c3c",
+  "title": "破阵子·燕子来时新社",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "燕子来时新社，梨花落后清明。",
+    "池上碧苔三四点，叶底黄鹂一两声。",
+    "日长飞絮轻。",
+    "巧笑东邻女伴，采桑径里逢迎。",
+    "疑怪昨宵春梦好，元是今朝斗草赢。",
+    "笑从双脸生。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-561",
+  "tags": []
+}

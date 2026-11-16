@@ -1,0 +1,23 @@
+{
+  "id": "poem-fd1ce67b72c3745c1ea80db6",
+  "title": "凉州词二首 一",
+  "author": "王之涣",
+  "dynasty": "唐",
+  "verses": [
+    "黄河远上白云间，一片孤城万仞山。",
+    "羌笛何须怨杨柳，春光不度玉门关。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "黄河",
+    "山水",
+    "写景",
+    "乐府",
+    "思乡",
+    "边塞",
+    "将士"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-526d4ecc-e123-4b9d-a213-958bb947593d"
+}

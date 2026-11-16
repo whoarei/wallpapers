@@ -1,0 +1,14 @@
+{
+  "id": "poem-dc48de5e5b687b2e01a20366",
+  "title": "赠商山东于岭僧",
+  "author": "李廓",
+  "dynasty": "唐",
+  "verses": [
+    "商岭东西路欲分，两间茅屋一溪云。",
+    "师言耳重知师意，人是人非不欲闻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-f954ad69-29d1-47de-975a-5b0118730758"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7b18ed694a7aad811266db43",
+  "title": "忆鹤",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "自尔归仙后，经秋又过春。",
+    "白云寻不得，紫府去无因。",
+    "此地空明月，何山伴羽人。",
+    "终期华表上，重见令威身。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-a239c65c-e5e0-4463-b314-ce56f0a3fac4"
+}

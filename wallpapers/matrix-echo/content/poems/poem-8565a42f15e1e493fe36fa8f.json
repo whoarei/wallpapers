@@ -1,0 +1,15 @@
+{
+  "id": "poem-8565a42f15e1e493fe36fa8f",
+  "title": "滚绣球",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "这扇子六丁神巧铸成，五道神细打磨，阎浮间并无二个，上秤称一千斤犹有余多。",
+    "管他二十四气风，吹灭八十一洞火，火焰山神见咱也胆破，恼着我呵登时间便起干戈。",
+    "我且着扇扇翻地狱门前树，卷起天河水波，我是第一洞妖魔。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2347",
+  "tags": []
+}

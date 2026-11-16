@@ -1,0 +1,16 @@
+{
+  "id": "poem-535b827cbec4c1db8979c10b",
+  "title": "菩萨蛮·小庭花落无人归",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "小庭花落无人归，疏香满地东风老。",
+    "春晚信沉沉，天涯何处寻。",
+    "晓堂屏六扇，眉共湘山远。",
+    "怎奈别离心，近来尤不禁。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-2"
+}

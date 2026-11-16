@@ -1,0 +1,18 @@
+{
+  "id": "poem-452419d0399191bb2cf08dc4",
+  "title": "武陵春·城上落梅风料峭",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "城上落梅风料峭，寒馥逼清尊。",
+    "爽兴天教属使君。",
+    "雪意压歌云。",
+    "插帽殷罗金缕细，燕燕早随人。",
+    "留取笙歌直到明。",
+    "莲漏已催春。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-846",
+  "tags": []
+}

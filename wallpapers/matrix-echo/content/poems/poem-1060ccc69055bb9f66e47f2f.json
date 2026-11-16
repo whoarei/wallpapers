@@ -1,0 +1,14 @@
+{
+  "id": "poem-1060ccc69055bb9f66e47f2f",
+  "title": "从吕扬州觅芍药栽",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "扬州风物故依然，梦想他时楚水边。",
+    "乞与灵根归自种，梢头茧栗看新年。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-e36e3f42-ad16-49a5-9c76-f8396782de64"
+}

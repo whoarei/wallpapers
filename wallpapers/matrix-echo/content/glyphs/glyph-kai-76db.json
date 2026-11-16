@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-76db",
+  "script": "kai",
+  "character": "盛",
+  "reading": "shèng；chéng",
+  "description": "shèng：(1)兴旺兴～。繁～。旺～。～世。～衰。茂～。全～时期。\n(2)炽烈年轻气～。～怒。～气凌人。\n(3)丰富，华美～产。～宴。～装。\n(4)热烈，规模大～大。～况。～典。～举。\n(5)广泛，程度深～传（chuán）。～行（xíng）。～赞。～名。～夏。\n(6)深厚～意。\n(7)姓。\n衰；\nchéng：(1)把东西放进去～饭。\n(2)容纳～器。小桶～不下多少东西。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-盛"
+}

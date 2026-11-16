@@ -1,0 +1,16 @@
+{
+  "id": "poem-d2fbe137e1ea6581fa22e41e",
+  "title": "清明日得家书四首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "去国三年久，离家万里余。",
+    "岂知戎马际，仍得棣华书。",
+    "金鼓震南国，松筠怀故庐。",
+    "寰区端若此，天意竟何如。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-75d3cb16-cfbe-4172-977e-93936122eb7f"
+}

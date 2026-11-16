@@ -1,0 +1,18 @@
+{
+  "id": "poem-a086750499eb34f82afa06df",
+  "title": "芳洲泊・踏莎行·露叶栖萤",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "露叶栖萤，风枝袅鹊。",
+    "水堂离燕褰珠箔。",
+    "一声横玉吹流云，厌厌凉月西南落。",
+    "江际吴边，山侵楚角。",
+    "兰桡明夜芳洲泊。",
+    "殷勤留语采香人，清尊不负黄花约。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-96",
+  "tags": []
+}

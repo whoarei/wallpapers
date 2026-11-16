@@ -1,0 +1,16 @@
+{
+  "id": "poem-a11d5abd47e7b55b50ec3ae9",
+  "title": "题麻姑山庙",
+  "author": "李翔",
+  "dynasty": "唐",
+  "verses": [
+    "险翠峨霄压上游，大仙曾向此幽求。",
+    "云埋三级坛空在，月照千寻水自流。",
+    "偃盖鹤还清露滴，古池龙睡碧莲秋。",
+    "桑田未必翻为海，香火何人解继修。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-67aaf6ce-ab3a-4b12-87b9-8cc998c5f223"
+}

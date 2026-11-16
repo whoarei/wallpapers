@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51b5",
+  "script": "kai",
+  "character": "况",
+  "reading": "kuàng",
+  "description": "kuàng：(1)情形情～。状～。近～。～味（境况和情味，如他的处境不好，～～难言”）。\n(2)比方比～。每～愈下。\n(3)文言连词，表示更进一层～且∥～。\n(4)姓。\n(5)古同贶”，赐予。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-况"
+}

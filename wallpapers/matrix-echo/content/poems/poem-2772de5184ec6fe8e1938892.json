@@ -1,0 +1,19 @@
+{
+  "id": "poem-2772de5184ec6fe8e1938892",
+  "title": "使至三姓咽面",
+  "author": "张宣明",
+  "dynasty": "唐",
+  "verses": [
+    "昔闻班家子，笔砚忽然投。",
+    "一朝抚长劒，万里入荒陬。",
+    "岂不服艰险，只思清国讐。",
+    "山川去何岁，霜露几逢秋。",
+    "玉塞已遐廓，铁关方阻修。",
+    "东都日窅窅，西海此悠悠。",
+    "卒使功名建，长封万里侯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-caf76db9-d31b-429e-b8f4-4364e68e8014"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1a0229fdd54864c8ace73ea",
+  "title": "首春",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "寒随穷律变，春逐鸟声开。",
+    "初风飘带柳，晚雪间花梅。",
+    "碧林青旧竹，绿沼翠新苔。",
+    "芝田初雁去，绮树巧鸎来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-75f1983d-2147-4028-a0d8-fdfc4c2d8244"
+}

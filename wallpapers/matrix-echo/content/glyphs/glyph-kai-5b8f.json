@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5b8f",
+  "script": "kai",
+  "character": "宏",
+  "reading": "hóng",
+  "description": "hóng：(1)广大，博大～大。～伟。～图。～愿。～论。～丽。～亮。～观。宽～。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宏"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-7e61121b803e7930db879ef5",
+  "title": "清平乐·彩舟双橹",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "彩舟双橹。",
+    "六月临平路。",
+    "小雨轻风消晚暑。",
+    "绕岸荷花无数。",
+    "玉人璨枕方床。",
+    "遥知待月西厢。",
+    "昨夜有情风月，今宵特地凄凉。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-989",
+  "tags": []
+}

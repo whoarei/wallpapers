@@ -1,0 +1,20 @@
+{
+  "id": "poem-fccadbbb376a7c0842f23d48",
+  "title": "忆朝阳峰前居",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "每忆闲眠处，朝阳最上峰。",
+    "溪僧来自远，林路出无踪。",
+    "败褐黏苔徧，新题出石重。",
+    "霞光侵曙发，岚翠近秋浓。",
+    "健羡机能破，安危道不逢。",
+    "雪残猨到阁，庭午鹤离松。",
+    "此地虚为别，人间久未容。",
+    "何时无一事，却去养疎慵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-bd11ab77-cdc3-45f4-9cf9-767ea00098d3"
+}

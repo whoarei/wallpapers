@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-785d",
+  "script": "kai",
+  "character": "硝",
+  "reading": "xiāo",
+  "description": "xiāo：(1)一些矿物盐的泛称～石。芒～。\n(2)用朴硝或芒硝加黄米面等处理毛皮，使皮板儿柔软～皮子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-硝"
+}

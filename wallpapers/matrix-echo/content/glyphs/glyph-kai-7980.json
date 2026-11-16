@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7980",
+  "script": "kai",
+  "character": "禀",
+  "reading": "bǐng",
+  "description": "bǐng：(1)承受，生成的～性。～赋。\n(2)指下对上报告～报。～复。回～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-禀"
+}

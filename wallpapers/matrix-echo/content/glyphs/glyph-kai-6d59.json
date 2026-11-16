@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6d59",
+  "script": "kai",
+  "character": "浙",
+  "reading": "zhè",
+  "description": "zhè：〔～江〕ａ．古水名，今中国钱塘江及其上流的总称。亦称渐江”、之江”、曲江”；ｂ．省名，位于中国东部。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-浙"
+}

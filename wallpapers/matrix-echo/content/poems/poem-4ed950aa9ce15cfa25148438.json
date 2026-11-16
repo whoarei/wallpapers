@@ -1,0 +1,14 @@
+{
+  "id": "poem-4ed950aa9ce15cfa25148438",
+  "title": "题禅堂壁间",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "水石相搏，风竹相吞。",
+    "炉烟方袅，草木自欣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-455b6d0e-a85f-4082-8517-0b039f72c293"
+}

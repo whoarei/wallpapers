@@ -1,0 +1,16 @@
+{
+  "id": "poem-f77ccb2cdeac604a9be5f536",
+  "title": "上元应制",
+  "author": "王淇",
+  "dynasty": "宋",
+  "verses": [
+    "雪消华月满仙台，万烛当楼宝扇开。",
+    "双凤云中扶辇下，六鳌海上驾山来。",
+    "镐京春酒沾周宴，汾水秋风陋汉才。",
+    "一曲升平人尽乐，君王又进紫霞杯。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-上元應制"
+}

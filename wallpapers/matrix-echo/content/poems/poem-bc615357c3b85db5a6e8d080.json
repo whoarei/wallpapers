@@ -1,0 +1,14 @@
+{
+  "id": "poem-bc615357c3b85db5a6e8d080",
+  "title": "咏史诗 杜邮",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "自古功成祸亦侵，武安冤向杜邮深。",
+    "五湖烟月无穷水，何事迁延到陆沈。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6d19a214-2fe2-4d97-8847-f2aa4e0eb652"
+}

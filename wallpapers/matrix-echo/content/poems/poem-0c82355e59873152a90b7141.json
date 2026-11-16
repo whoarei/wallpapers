@@ -1,0 +1,14 @@
+{
+  "id": "poem-0c82355e59873152a90b7141",
+  "title": "力疾山下吴邨看杏花十九首 三",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "镜留雪鬓暖消无，春到棃花日又晡。",
+    "移取扶桑堦下种，年年看长碍金乌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-083d4f1f-3033-44bd-a1df-c94e61e8bf87"
+}

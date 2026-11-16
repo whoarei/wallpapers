@@ -1,0 +1,16 @@
+{
+  "id": "poem-6b95737b079f73af988bc3e6",
+  "title": "敦煌廿咏（并序） 十三、墨池咏",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "昔人精篆素，尽妙许张芝。",
+    "草圣雄千古，芳名冠一时。",
+    "舒笺行鸟迹，研墨染鱼缁。",
+    "长想临池处，兴来聊咏诗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-41757dd8-3bbb-4763-b8a4-53ad001585c9"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2e00d14f025644f4f1899d36",
+  "title": "梅花",
+  "author": "林宪",
+  "dynasty": "宋",
+  "verses": [
+    "野梅空山中，正为照人开。",
+    "如何绿窗底，疏映带苍苔。",
+    "颇似古君子，无人自不谐。",
+    "竹径酒初醒，一信清香来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-e24b60ad-6893-4e45-820c-b8c1dda245f0"
+}

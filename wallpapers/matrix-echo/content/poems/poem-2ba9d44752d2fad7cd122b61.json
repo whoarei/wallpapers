@@ -1,0 +1,17 @@
+{
+  "id": "poem-2ba9d44752d2fad7cd122b61",
+  "title": "看缙云山图",
+  "author": "李翔",
+  "dynasty": "唐",
+  "verses": [
+    "谓见仙都二十年，（谓，项疑当作「未」。",
+    "）忽逢图画顿欣然。",
+    "云岩不似人间世，物象翻疑洞里天。",
+    "迥压鳌头当海眼，直侵鹏路倚星躔。",
+    "顶湖纵去无多地，空见霜流百丈泉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-45ebc19f-70f0-4e18-80d3-e66aa770dae8"
+}

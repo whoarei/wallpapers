@@ -1,0 +1,14 @@
+{
+  "id": "poem-ba7b748ae7b9c4af7a81a333",
+  "title": "赠兄",
+  "author": "何兆",
+  "dynasty": "唐",
+  "verses": [
+    "洛阳纸价因兄贵，蜀地红牋为弟贫。",
+    "南北东西九千里，除兄与弟更无人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d22f1a49-5ef6-4df6-b365-f9ba2fe2442c"
+}

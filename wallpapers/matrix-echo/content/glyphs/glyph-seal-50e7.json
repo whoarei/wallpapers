@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-50e7",
+  "script": "seal",
+  "character": "僧",
+  "reading": "sēng",
+  "description": "sēng：佛教指出家修行的人，梵语僧伽”的简称～侣。～尼。～人。～众。～俗。高～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-僧"
+}

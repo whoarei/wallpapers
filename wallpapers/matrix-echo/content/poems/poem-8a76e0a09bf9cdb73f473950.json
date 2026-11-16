@@ -1,0 +1,16 @@
+{
+  "id": "poem-8a76e0a09bf9cdb73f473950",
+  "title": "惜花",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "蒙蒙庭树花，坠地无颜色。",
+    "日暮东风起，飘扬玉阶侧。",
+    "残蘂在犹稀，青条耸复直。",
+    "为君结芳实，令君勿叹息。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-d8e69d3f-323e-4e7b-a49f-86254e40c644"
+}

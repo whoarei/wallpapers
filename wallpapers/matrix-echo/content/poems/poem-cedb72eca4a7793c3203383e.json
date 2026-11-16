@@ -1,0 +1,16 @@
+{
+  "id": "poem-cedb72eca4a7793c3203383e",
+  "title": "勗劒",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "古物神光雪见羞，未能擎出恐泉流。",
+    "暗临黑水蛟螭泣，潜倚空山鬼魅愁。",
+    "生怕雷霆号涧底，长闻风雨在床头。",
+    "垂情不用将闲气，恼乱司空犯斗牛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-cc1f27bd-d0da-43d9-adb3-c33c9c9b02c7"
+}

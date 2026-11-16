@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c3a",
+  "script": "seal",
+  "character": "尺",
+  "reading": "chǐ；chě",
+  "description": "chǐ：(1)中国市制长度单位（亦称市尺”。一尺等于十寸。西汉时一尺等于0.231米，今三尺等于一米）～素（a.一尺长的白绢，借指小画幅；b.书信）。～短寸长。～牍。\n(2)量长度的器具竹～。\n(3)像尺的东西铁～。仿～。戒～。\n(4)形容微少或短小～布。咫～天涯。\nchě：中国古代乐谱的记音符号，相当于简谱的2”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-尺"
+}

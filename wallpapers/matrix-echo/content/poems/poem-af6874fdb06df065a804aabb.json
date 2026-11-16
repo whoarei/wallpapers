@@ -1,0 +1,14 @@
+{
+  "id": "poem-af6874fdb06df065a804aabb",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "叫天不应地不闻，腹中遍身疼怎忍？料想分娩在今宵，没个人来问。",
+    "望祖宗阴显应，保母子两身轻。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8922",
+  "tags": []
+}

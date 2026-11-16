@@ -1,0 +1,17 @@
+{
+  "id": "poem-99a77563b67a5376f30de216",
+  "title": "海棠春·落红片片浑如雾",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "落红片片浑如雾，不教更觅桃源路。",
+    "香径晚风寒，月在花飞处。",
+    "蔷薇影暗空凝贮。",
+    "任碧飐轻衫萦住。",
+    "惊起早栖鸦，飞过秋千去。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-76"
+}

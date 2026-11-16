@@ -1,0 +1,16 @@
+{
+  "id": "poem-48268dc60ad65e2c0d6335c5",
+  "title": "柳梢青·惊世文章",
+  "author": "崔敦礼",
+  "dynasty": "宋",
+  "verses": [
+    "惊世文章，门户照人，外家衣钵。",
+    "多谢温存，相期宅相，此恩难说。",
+    "今朝祝寿樽前，共拜舞、诸孙下列。",
+    "但愿从今，一年强似，一年时节。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-403",
+  "tags": []
+}

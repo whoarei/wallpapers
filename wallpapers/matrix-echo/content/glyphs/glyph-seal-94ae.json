@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94ae",
+  "script": "seal",
+  "character": "钮",
+  "reading": "niǔ",
+  "description": "器物上面可以提携或系绳带的部分\n交互而成的扣结\n器物上用手操作、转动的部分\n钮niǔ扣合衣物的东西～扣子。塑料～扣。\n钮chǒu 1.刑具。枷锁镣铐之类。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钮"
+}

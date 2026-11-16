@@ -1,0 +1,14 @@
+{
+  "id": "poem-de9fbd7e0b42b205e3977930",
+  "title": "书怀",
+  "author": "刘幽求",
+  "dynasty": "唐",
+  "verses": [
+    "心为明时尽，君门尚不容。",
+    "田园迷径路，归去欲何从。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-25de451b-7c61-45d1-8291-061bdfc5e166"
+}

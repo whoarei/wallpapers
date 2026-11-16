@@ -1,0 +1,14 @@
+{
+  "id": "poem-d7e78fc6049b89ea42218880",
+  "title": "又游仙诗一绝",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "靖节先生几代孙，青娥曾接玉郎魂。",
+    "春风流水还无赖，偷放桃花出洞门。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-8ca3f847-34a1-46f4-ba4a-4c7cd0d8dc7e"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-67da",
+  "script": "seal",
+  "character": "柚",
+  "reading": "yòu；yóu",
+  "description": "yòu：常绿乔木，果实称柚子，皮粗而厚，色黄，肉白或粉红色，多汁，味酸甜，亦称文旦”。\nyóu：〔～木〕落叶乔木，木材暗褐色，坚硬耐腐蚀，适于制造船舰、车辆等，亦供建筑用。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-柚"
+}

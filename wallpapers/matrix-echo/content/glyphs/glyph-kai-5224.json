@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5224",
+  "script": "kai",
+  "character": "判",
+  "reading": "pàn",
+  "description": "pàn：(1)区别，分辨，断定～明。～辨。～据。～读（利用已知的视觉信息符号来判断新获得的视觉信息的含义）。～断。\n(2)分开，截然不同～然。～若两人。～若鸿沟。\n(3)评定裁～。谈～。～卷子。\n(4)司法机关对案件的裁决～词。～决。～案。\n(5)古代官名通～。～官（中国唐、宋两代辅助地方长官处理公事的人员，传说中借指阎王手下管生死簿的官）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-判"
+}

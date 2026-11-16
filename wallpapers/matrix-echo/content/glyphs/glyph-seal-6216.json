@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6216",
+  "script": "seal",
+  "character": "或",
+  "reading": "huò",
+  "description": "huò：(1)也许，有时，表示不定的词～许。～者（a.也许；b.连词，用在叙述句里，表示选择关系。均亦单用或”）。～然。～则。\n(2)某人，有的人～告之曰。\n(3)稍微不可～缓。不可～忽。不可～缺。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-或"
+}

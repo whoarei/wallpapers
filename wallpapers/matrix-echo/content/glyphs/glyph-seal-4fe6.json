@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fe6",
+  "script": "seal",
+  "character": "俦",
+  "reading": "chóu",
+  "description": "注俦,匹也。”\n同类,辈\n相比\n表示疑问,相当于谁”\n使见善不明,用心不刚,俦克尔\n俦dào 1.隐蔽。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-俦"
+}

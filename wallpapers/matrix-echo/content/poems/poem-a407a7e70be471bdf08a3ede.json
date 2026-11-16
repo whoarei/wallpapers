@@ -1,0 +1,16 @@
+{
+  "id": "poem-a407a7e70be471bdf08a3ede",
+  "title": "送苏修游上饶",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "爱尔无羁束，云山恣意过。",
+    "一身随远岫，孤棹任轻波。",
+    "世事关情少，渔家寄宿多。",
+    "芦花浅淡处，江月奈人何。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-58703b0a-258d-4de7-bb1e-c6587cb8bfea"
+}

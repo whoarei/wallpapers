@@ -1,0 +1,14 @@
+{
+  "id": "poem-350b734016885aee32cdb7de",
+  "title": "萧宅二三子赠答诗二十首 客赠石",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "竹下青莎中，细长三四片。",
+    "主人虽不归，长见主人面。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-59e3f594-bbfb-4574-ab2e-69b415d8468c"
+}

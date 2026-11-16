@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4fb5",
+  "script": "kai",
+  "character": "侵",
+  "reading": "qīn",
+  "description": "qīn：(1)（敌人）进入境内，（外来的或有害的事物）进入内部～害。～吞。～略。～染。～蚀。\n(2)渐近～晨。～晓。～早（破晓，天刚亮）。\n(3)古代称荒年五谷不生，谓之大～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-侵"
+}

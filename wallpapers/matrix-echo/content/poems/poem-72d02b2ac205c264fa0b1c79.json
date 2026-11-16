@@ -1,0 +1,16 @@
+{
+  "id": "poem-72d02b2ac205c264fa0b1c79",
+  "title": "送天师",
+  "author": "朱权",
+  "dynasty": "明",
+  "verses": [
+    "霜落芝城柳影疏，殷勤送客出鄱湖。",
+    "黄金甲锁雷霆印，红锦韬缠日月符。",
+    "天上晓行骑只鹤，人间夜宿解双凫。",
+    "匆匆归到神仙府，为问蟠桃熟也无。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-送天師"
+}

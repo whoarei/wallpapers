@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e76",
+  "script": "seal",
+  "character": "并",
+  "reading": "bìng；bīng",
+  "description": "bìng：(1)合在一起～拢∠～。兼～。\n(2)一齐，平排着～驾齐驱。～重（zhòng）。～行（xíng）。\n(3)连词，表平列或进一层～且。\n(4)用在否定词前，加强否定的语气，表不像预料的那样～不容易。\nbīng：中国山西省太原市的别称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-并"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-4042b9176f75c43ac3740060",
+  "title": "郊庙歌辞 德明兴圣庙乐章 登歌奠币",
+  "author": "李舒",
+  "dynasty": "唐",
+  "verses": [
+    "四时有典，百事来祭。",
+    "尊祖奉宗，严禋大帝。",
+    "礼先苍璧，奠币黝制。",
+    "于斯万年，熙成帝系。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ea9c019e-a6fb-4620-847b-130634b1b349"
+}

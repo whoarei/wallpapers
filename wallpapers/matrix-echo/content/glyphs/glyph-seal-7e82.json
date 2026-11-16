@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7e82",
+  "script": "seal",
+  "character": "纂",
+  "reading": "zuǎn",
+  "description": "zuǎn：(1)搜集材料编书～修（a.编纂，亦指做这方面工作的人；b.继承并加强修养、治理）。～绣（编织和刺绣）。～辑。编～。\n(2)古代指红色或彩色丝带。\n(3)妇女梳在头后边的发髻～儿。\n(4)古同缵”，继承。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-纂"
+}

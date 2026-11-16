@@ -1,0 +1,15 @@
+{
+  "id": "poem-0365a32167ed3b698eba7397",
+  "title": "小师智广请赞",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "泽广藏山，理能伏豹。",
+    "父既不慈，子亦不孝。",
+    "吉凶影象自分明，不用烧香求卦兆。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-075088b3-2e94-4808-bb9e-2c8fafd483d7"
+}

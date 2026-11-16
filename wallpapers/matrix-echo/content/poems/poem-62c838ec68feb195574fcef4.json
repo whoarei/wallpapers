@@ -1,0 +1,16 @@
+{
+  "id": "poem-62c838ec68feb195574fcef4",
+  "title": "题天台山石桥庵院",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "林麓阴森径屈盘，渐惊危步入重峦。",
+    "地分宝刹临空翠，天设飞梁跨激湍。",
+    "雾暗云蒸山气肃，雪翻雷辊水声寒。",
+    "我来不作多求想，试出神光变现看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-abf2d5b8-419d-4d53-a715-03d63054b7ce"
+}

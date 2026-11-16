@@ -1,0 +1,24 @@
+{
+  "id": "poem-4874dd155d98abd1ef6348ab",
+  "title": "观别者",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "青青杨柳陌，陌上别离人。",
+    "爱子游燕赵，高堂有老亲。",
+    "不行无可养，行去百忧新。",
+    "切切委兄弟，依依向四邻。",
+    "都门帐饮毕，从此谢亲宾。",
+    "挥涕逐前侣，含凄动征轮。",
+    "车徒望不见，时见起行尘。",
+    "吾亦辞家久，看之泪满巾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "离别",
+    "无奈",
+    "漂泊"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-82838e54-b4dc-4663-91e8-60e0d4f0e9a2"
+}

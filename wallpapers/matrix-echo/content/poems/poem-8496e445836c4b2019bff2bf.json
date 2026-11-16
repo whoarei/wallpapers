@@ -1,0 +1,14 @@
+{
+  "id": "poem-8496e445836c4b2019bff2bf",
+  "title": "识全",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "占得沙边柳外春，更专吟啸管阴晴。",
+    "延祥观后茅茨老，月旦工夫子细评。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-45405c03-1b21-4a87-920e-3af34c9e46a1"
+}

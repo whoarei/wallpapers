@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9676",
+  "script": "kai",
+  "character": "陶",
+  "reading": "táo",
+  "description": "táo：(1)用黏土烧制的器物～俑。～粒。～瓷。～管。～器。\n(2)制造陶器～冶。～铸。\n(3)喻教育、培养～化。～育。～染。熏～。\n(4)快乐的样子，使快乐～然。～醉。～～。\n(5)古同淘”，洗。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陶"
+}

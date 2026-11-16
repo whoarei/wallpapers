@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62ca",
+  "script": "seal",
+  "character": "拊",
+  "reading": "fǔ",
+  "description": "fǔ：(1)拍～掌大笑。\n(2)古同抚”，安抚，抚慰。\n(3)器物的柄。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拊"
+}

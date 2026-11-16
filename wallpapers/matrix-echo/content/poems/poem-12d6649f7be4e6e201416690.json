@@ -1,0 +1,18 @@
+{
+  "id": "poem-12d6649f7be4e6e201416690",
+  "title": "斗黑麻",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "自古姻缘事，非偶然，五百年前，赤绳系牵。",
+    "儿今去，听教言：我的儿，你到王门做媳妇，勿慢勿骄，必钦必敬。",
+    "孝顺姑嫜，数问寒暄。",
+    "［合］灯前泪涟，生离各一天。",
+    "他有日归宁，吾心始安。",
+    "我儿上轿去罢。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8095",
+  "tags": []
+}

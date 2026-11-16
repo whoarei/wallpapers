@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-79fd",
+  "script": "kai",
+  "character": "秽",
+  "reading": "huì",
+  "description": "弄脏,弄污\n杂乱\n⒈荒芜田地荒～。\n⒉污浊，肮脏污～。〈喻〉丑陋，丑恶形～。淫～。邪～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-秽"
+}

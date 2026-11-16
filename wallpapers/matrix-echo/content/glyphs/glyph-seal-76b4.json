@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-76b4",
+  "script": "seal",
+  "character": "皴",
+  "reading": "cūn",
+  "description": "cūn：(1)皮肤因受冻或受风吹而干裂～裂。～理（裂纹）。\n(2)皮肤上积存的泥垢和脱落的表皮手上全是～。\n(3)中国画技法之一，涂出物体纹理或阴阳向背～法。～笔。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-皴"
+}

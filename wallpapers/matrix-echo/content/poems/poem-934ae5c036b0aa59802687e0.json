@@ -1,0 +1,14 @@
+{
+  "id": "poem-934ae5c036b0aa59802687e0",
+  "title": "幽思",
+  "author": "张碧",
+  "dynasty": "唐",
+  "verses": [
+    "金炉烟霭微，锦釭残影灭。",
+    "出户独裴回，落花满明月。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-74002940-307e-4d52-940e-0aeadf86e0c1"
+}

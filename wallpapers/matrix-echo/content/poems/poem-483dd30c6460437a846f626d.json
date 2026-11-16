@@ -1,0 +1,16 @@
+{
+  "id": "poem-483dd30c6460437a846f626d",
+  "title": "寄春坊顾校书",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "宁因不得志，寂寞本相宜。",
+    "冥目冥心坐，花开花落时。",
+    "数畦蔬甲出，半梦鸟声移。",
+    "只恐龙楼吏，归山又见违。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4c73eb1e-1e2f-40de-90cd-2857e6935596"
+}

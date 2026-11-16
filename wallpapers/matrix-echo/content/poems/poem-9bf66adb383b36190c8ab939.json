@@ -1,0 +1,16 @@
+{
+  "id": "poem-9bf66adb383b36190c8ab939",
+  "title": "昔昔盐二十首 花飞桃李蹊",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "远期难可托，桃李自依依。",
+    "花径无容迹，戎裘未下机。",
+    "随风开又落，度日扫还飞。",
+    "欲折枝枝赠，那知归不归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-5c6cf3ab-1dcb-445f-b3b2-300ff32f67ae"
+}

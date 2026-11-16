@@ -1,0 +1,17 @@
+{
+  "id": "poem-e3c39d071e6d62da8942002a",
+  "title": "横吹曲辞 陇头",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "陇头已断人不行，胡骑夜入凉州城。",
+    "汉家处处格鬬死，一朝尽没陇西地。",
+    "驱我边人胡中去，散放牛羊食禾黍。",
+    "去年中国养子孙，今著毡裘学胡语。",
+    "谁能更使李轻车，收取凉州属汉家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-bde2cd8e-b62c-4b95-b396-94467a949e6b"
+}

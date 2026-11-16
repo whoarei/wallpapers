@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6f6d",
+  "script": "kai",
+  "character": "潭",
+  "reading": "tán",
+  "description": "tán：(1)水深之处深～。泥～。水～。\n(2)深～渊。～～（宽深，宽大）。～思（深思。亦作覃思”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-潭"
+}

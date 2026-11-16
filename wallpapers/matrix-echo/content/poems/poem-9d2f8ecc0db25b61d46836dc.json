@@ -1,0 +1,15 @@
+{
+  "id": "poem-9d2f8ecc0db25b61d46836dc",
+  "title": "草虫",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "喓喓草虫，趯趯阜螽。未见君子，忧心忡忡。亦既见止，亦既觏止，我心则降。",
+    "陟彼南山，言采其蕨。未见君子，忧心惙惙。亦既见止，亦既觏止，我心则说。",
+    "陟彼南山，言采其薇。未见君子，我心伤悲。亦既见止，亦既觏止，我心则夷。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-13"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-964d",
+  "script": "seal",
+  "character": "降",
+  "reading": "jiàng",
+  "description": "jiàng：(1)下落，落下下～。～旨。～临。～旗。空～。\n(2)减低，贬抑～低。～价。～职。～解（jiě）。～心相从（抵制自己心志以服从别人）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-降"
+}

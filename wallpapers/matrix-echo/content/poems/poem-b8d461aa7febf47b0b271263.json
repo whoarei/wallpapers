@@ -1,0 +1,16 @@
+{
+  "id": "poem-b8d461aa7febf47b0b271263",
+  "title": "寄严文炳  其四",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "乌墅两冯君，风霆蔼休问。",
+    "自昔从之游，诗力借余润。",
+    "夫君凛一敌，鸿笔上群俊。",
+    "旧坛今寻盟，得句毋我靳。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-65ed158e-893a-48e7-80da-0358153d028b"
+}

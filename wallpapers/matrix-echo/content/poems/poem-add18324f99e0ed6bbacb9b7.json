@@ -1,0 +1,14 @@
+{
+  "id": "poem-add18324f99e0ed6bbacb9b7",
+  "title": "游丝",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "游丝浩荡醉春光，倚頼微风故故长。",
+    "几度鶑声留欲住，又随飞絮过东墙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-a6471de1-a338-4feb-aaaa-af4cc6ee0243"
+}

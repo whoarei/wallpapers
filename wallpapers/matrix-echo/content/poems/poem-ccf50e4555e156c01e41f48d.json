@@ -1,0 +1,14 @@
+{
+  "id": "poem-ccf50e4555e156c01e41f48d",
+  "title": "峨眉",
+  "author": "杨徽之",
+  "dynasty": "宋",
+  "verses": [
+    "嘉州山水地，二蜀最为美。",
+    "翠岭叠峨眉，长澜涌锦水。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-93c4dadf-42f9-45c1-a45f-70e817318bb8"
+}

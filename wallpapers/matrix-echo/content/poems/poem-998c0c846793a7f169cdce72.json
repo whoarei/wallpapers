@@ -1,0 +1,14 @@
+{
+  "id": "poem-998c0c846793a7f169cdce72",
+  "title": "重阳四首 三",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "青娥懒唱无衣换，黄菊新开乞酒难。",
+    "长有长亭惆怅事，隔河更得对凭栏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-88003232-fd34-465e-a554-def43a11403d"
+}

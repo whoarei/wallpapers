@@ -1,0 +1,16 @@
+{
+  "id": "poem-001d67a0556bff585ebaaa67",
+  "title": "临江仙·霜拍井梧干叶堕",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "霜拍井梧干叶堕，翠帷雕槛初寒。",
+    "薄铅残黛称花冠，含情无语，延伫倚栏干。",
+    "杳杳征轮何处去，离愁别恨千般。",
+    "不堪心绪正多端，镜奁长掩，无意对孤鸾。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-14"
+}

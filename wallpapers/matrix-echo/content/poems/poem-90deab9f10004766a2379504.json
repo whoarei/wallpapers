@@ -1,0 +1,15 @@
+{
+  "id": "poem-90deab9f10004766a2379504",
+  "title": "荷叶杯·夜久歌声怨咽",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "夜久歌声怨咽，残月。",
+    "菊冷露微微，看看湿透缕金衣。",
+    "归么归，归么归。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-25"
+}

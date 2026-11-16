@@ -1,0 +1,18 @@
+{
+  "id": "poem-f9561289b442e2361936d6b5",
+  "title": "西江月·滴滴金盘露冷",
+  "author": "谢逸",
+  "dynasty": "宋",
+  "verses": [
+    "滴滴金盘露冷，萧萧玉宇风清。",
+    "长庚入梦晓窗明。",
+    "淡月微云耿耿。",
+    "松竹五峰秋色，笙歌三市欢声。",
+    "华堂开宴拥娉婷。",
+    "天上人间共庆。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-606",
+  "tags": []
+}

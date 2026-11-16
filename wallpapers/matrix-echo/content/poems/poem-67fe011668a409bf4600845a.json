@@ -1,0 +1,16 @@
+{
+  "id": "poem-67fe011668a409bf4600845a",
+  "title": "咏马鞭",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "龙竹养根凡几年，工人截之为长鞭。",
+    "一节一目皆天然，珠重重，星连连。",
+    "绕指柔，纯金坚，绳不直，规不圆。",
+    "把向空中捎一声，良马有心日驰千。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-b7c8a7fe-7ad4-44fe-9b71-3c085eb5e999"
+}

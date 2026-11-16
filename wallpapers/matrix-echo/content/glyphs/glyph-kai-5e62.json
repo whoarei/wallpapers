@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e62",
+  "script": "kai",
+  "character": "幢",
+  "reading": "zhuàng；chuáng",
+  "description": "chuáng：(1)古代原指支撑帐幕、伞盖、旌旗的木竿，后借指帐幕、伞盖、旌旗。\n(2)刻着佛号或经咒的石柱经～。石～。\n〔～～〕形容影子摇晃，如人影～～”。\nzhuàng：量词，指房屋一～大楼。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-幢"
+}

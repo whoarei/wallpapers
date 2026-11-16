@@ -1,0 +1,16 @@
+{
+  "id": "poem-a099303112bd7a4e3a58f26d",
+  "title": "句 一",
+  "author": "徐铉",
+  "dynasty": "唐",
+  "verses": [
+    "落月依楼阁，归云拥殿廊。",
+    "（《宿山寺》，见《宋诗纪事》引宋释文莹《玉壶野史》。",
+    "）（见《玉壶清话》卷八。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-99296779-2df5-4d76-b1b0-c87f0bfbd95b"
+}

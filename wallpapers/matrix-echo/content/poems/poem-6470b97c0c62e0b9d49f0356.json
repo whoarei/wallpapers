@@ -1,0 +1,15 @@
+{
+  "id": "poem-6470b97c0c62e0b9d49f0356",
+  "title": "苕之华",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "苕之华，芸其黄矣。心之忧矣，维其伤矣！",
+    "苕之华，其叶青青。知我如此，不如无生！",
+    "牂羊坟首，三星在罶。人可以食，鲜可以饱！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-232"
+}

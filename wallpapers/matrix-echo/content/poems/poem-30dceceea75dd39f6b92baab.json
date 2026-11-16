@@ -1,0 +1,14 @@
+{
+  "id": "poem-30dceceea75dd39f6b92baab",
+  "title": "积雨",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "积雨低田欲再车，经旬湿稼糵寒沙。",
+    "绝怜百念如焦谷，大浸稽天不复芽。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-b15f890c-53ea-40c6-a8b2-7884fae15624"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-988c",
+  "script": "seal",
+  "character": "颌",
+  "reading": "hé",
+  "description": "多数脊椎动物构成口腔上下部的骨骼和肌肉组织。上部称上颌;下部称下颌,俗称下巴”\n颔  ge\n⒈口。\n⒉见hé。\n⒈构成口腔上、下部的骨头和肌肉的统称，上部叫上～，下部叫下～。\n⒉见gé、hán、qīn。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-颌"
+}

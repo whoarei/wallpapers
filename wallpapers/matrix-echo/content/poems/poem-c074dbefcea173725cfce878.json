@@ -1,0 +1,16 @@
+{
+  "id": "poem-c074dbefcea173725cfce878",
+  "title": "酬友生早秋",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "彤云将欲罢，蝉柳响如秋。",
+    "雾散九霄近，日程三伏愁。",
+    "残阳宿雨霁，高浪碎沙沤。",
+    "袪足余旬后，分襟任自由。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c0aace3b-defb-4eb2-98bd-bc2dcb6968af"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b131a0a4b97a1dba8675f234",
+  "title": "读杜工部集二首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "甫也道亦丧，孤身出蜀城。",
+    "彩毫终不撅，白云更能轻。",
+    "命薄相如命，名齐李白名。",
+    "不知耒阳令，何以葬先生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-8e7c374d-32dc-449d-9f57-ee519658a459"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-2dcc73be45136f439490a172",
+  "title": "洞仙歌·月中丹桂",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "月中丹桂，自风霜难老。",
+    "阅尽人间盛衰草。",
+    "望中秋、才有几日，十分圆，霾风雨，云表常如永昼。",
+    "不得文章力，白首防秋，谁念云中上功守。",
+    "正注意，得人雄，静扫河山，应难纵、五湖归棹。",
+    "问持节冯唐几时来，看再策勋名，印窠如斗。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-654",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7d22",
+  "script": "kai",
+  "character": "索",
+  "reading": "suǒ",
+  "description": "suǒ：(1)大绳子或大链子～子。～道。钢～。绞～。线～。\n(2)搜寻，寻求～引。思～。搜～。探～。\n(3)讨取，要～还。～求。～取。勒～。\n(4)尽，毫无～然无味。\n(5)单独离群～居。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-索"
+}

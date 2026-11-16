@@ -1,0 +1,16 @@
+{
+  "id": "poem-a1d54bf50e957545cec4755e",
+  "title": "中秋风雨",
+  "author": "艾可叔",
+  "dynasty": "宋",
+  "verses": [
+    "一年佳节又虚逢，恼杀江湖白发翁。",
+    "滴梦欲残蕉叶雨，吹愁不断蓼花风。",
+    "阴晴明晦天无准，离合悲欢态不同。",
+    "聊买香醪作清赏，烛光闲对木犀红。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-83a07604-5326-49f0-ada7-26dcb3f7ac17"
+}

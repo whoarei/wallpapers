@@ -1,0 +1,14 @@
+{
+  "id": "poem-c81360d86203945ccdad13c7",
+  "title": "和史侍郎游澹岩韵六首  其一",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "底叹兹岩省见稀，惯居故国看山围。",
+    "应缘此日慰岑寂，聊遣清诗为发挥。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-1daf2b98-bc63-41ef-9b66-7b4098ea3758"
+}

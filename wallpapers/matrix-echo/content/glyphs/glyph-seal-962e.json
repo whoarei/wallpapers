@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-962e",
+  "script": "seal",
+  "character": "阮",
+  "reading": "ruǎn",
+  "description": "ruǎn：姓。\n〔～咸〕一种弦乐器，柄长而直，略象月琴，四根民弦，现亦有三根弦的。传说因中国晋代人阮咸善弹此乐器而得名。简称阮”。\n〔大小～〕中国晋代阮籍和他的侄儿阮咸并有盛名，同为竹林七贤”，世称大小阮”◇小阮”用作侄的代称，如贤阮”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阮"
+}

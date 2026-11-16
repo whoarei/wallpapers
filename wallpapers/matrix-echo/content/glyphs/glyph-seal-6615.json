@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6615",
+  "script": "seal",
+  "character": "昕",
+  "reading": "xīn",
+  "description": "xīn：太阳将要出来的时候。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昕"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-ea16c44aacd3145d45c72210",
+  "title": "答东坡居士",
+  "author": "释法泉",
+  "dynasty": "宋",
+  "verses": [
+    "指出明明是甚么，举头鹞子穿云过。",
+    "从来这碗最希奇，解问灯人能几个。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-31248840-b59f-4190-a051-bd124412f121"
+}

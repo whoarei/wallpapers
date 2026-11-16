@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51b2",
+  "script": "kai",
+  "character": "冲",
+  "reading": "chōng",
+  "description": "直上\n以水、酒等浇注调制\n使曝光过的照相材料显影\n用水或其他液体冲洗\n深远",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-冲"
+}

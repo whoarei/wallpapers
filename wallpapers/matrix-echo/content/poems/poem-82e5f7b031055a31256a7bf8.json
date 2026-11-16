@@ -1,0 +1,14 @@
+{
+  "id": "poem-82e5f7b031055a31256a7bf8",
+  "title": "访罗孟弼竹园  其三",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "江梅独立荫颓墙，苔藓封枝色老苍。",
+    "手剪荆榛增叹息，眼中春意满三湘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-6eba2959-30d5-4ed1-afda-d655bbf0ba08"
+}

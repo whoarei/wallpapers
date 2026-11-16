@@ -1,0 +1,19 @@
+{
+  "id": "poem-0a9395ddb0e7c36d962183f1",
+  "title": "鼓吹曲辞 雉子班",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "辟邪伎作鼓吹惊，雉子班之奏曲成。",
+    "喔咿振迅欲飞鸣，扇锦翼，雄风生。",
+    "双雌同饮啄，趫悍谁能争。",
+    "乍向草中耿介死，不求黄金笼下生。",
+    "天地至广大，何惜遂物情。",
+    "善卷让天子，务光亦逃名。",
+    "所贵旷士怀，朗然合太清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-0bfac3e5-6cc6-49c6-892e-e290aa5c5923"
+}

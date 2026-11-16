@@ -1,0 +1,13 @@
+{
+  "id": "poem-5f383010b6c5b9bb2f01dc06",
+  "title": "句",
+  "author": "戴之邵",
+  "dynasty": "宋",
+  "verses": [
+    "愁绝江梅开岭岸，不知失脚到南塘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-a450ef49-ae22-450b-b22f-dbe13230d3e0"
+}

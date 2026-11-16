@@ -1,0 +1,16 @@
+{
+  "id": "poem-c1d74737fe42c6db44e1f3da",
+  "title": "和江西萧少卿见寄二首  其一",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "亡羊岐路愧司南，二纪穷通聚散三。",
+    "老去何妨从笑傲，病来看欲懒朝参。",
+    "离肠似线常忧断，世态如汤不可探。",
+    "珍重加餐省思虑，时时斟酒压山岚。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-d0de5eba-2cd6-42c8-91b0-f3553a8eba76"
+}

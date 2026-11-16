@@ -1,0 +1,14 @@
+{
+  "id": "poem-d4f1e167e8709bf84636a2bc",
+  "title": "荆山",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "良工指君疑，真玉却非玉。",
+    "寄言怀宝人，不须伤手足。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-909092a6-5da8-4673-b9f7-19d714ae81b7"
+}

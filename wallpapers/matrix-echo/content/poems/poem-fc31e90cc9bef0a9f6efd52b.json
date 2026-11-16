@@ -1,0 +1,14 @@
+{
+  "id": "poem-fc31e90cc9bef0a9f6efd52b",
+  "title": "杏花",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "诗家偏为此伤情，品韵由来莫与争。",
+    "解笑亦应兼解语，只应慵语倩莺声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c8fd429d-5cdf-4bda-9d0f-e04f12f224af"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-a42bd425be47c41df98a1dc3",
+  "title": "西溪子·昨日西溪游赏",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "昨日西溪游赏，芳树奇花千样，锁春光。",
+    "金樽满，听弦管，娇妓舞衫香暖。",
+    "不觉到斜晖，马驮归。",
+    "中兴乐。",
+    "豆蔻花繁烟艳深，丁香软结同心。",
+    "翠鬟女，相与共淘金。",
+    "红蕉叶里猩猩语，鸳鸯浦，镜中鸾舞。",
+    "丝雨隔，荔枝阴。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-9"
+}

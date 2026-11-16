@@ -1,0 +1,16 @@
+{
+  "id": "poem-15d90c81051b9fd5de5d57f3",
+  "title": "菩萨蛮·天含残碧融春色",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "天含残碧融春色，五陵薄幸无消息。",
+    "尽日掩朱门，离愁暗断魂。",
+    "莺啼芳树暖，燕拂回塘满。",
+    "寂寞对屏山，相思醉梦间。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-12"
+}

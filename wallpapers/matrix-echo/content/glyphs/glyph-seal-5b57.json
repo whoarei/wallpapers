@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b57",
+  "script": "seal",
+  "character": "字",
+  "reading": "zì",
+  "description": "zì：(1)用来记录语言的符号文～『～。～符。～母。～典。～句。～里行（háng）间。～斟句酌。\n(2)文字的不同形式，书法的派别草～。篆～。颜～。柳～。欧～。赵～。\n(3)书法的作品～画。～幅。\n(4)字的音～正腔圆。\n(5)人的别名，亦称表～”，现多称号”；商店的名称，亦称～号”。\n(6)合同，契约～据。\n(7)旧时称女子出嫁待～闺中。\n(8)生子，乳，爱～乳（生育）。～孕（怀孕）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-字"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5964f154cf0fdc32a22ec1e7",
+  "title": "和徐先辈秋日游泾州南亭呈三二同年",
+  "author": "姚鹄",
+  "dynasty": "唐",
+  "verses": [
+    "多此欢情泛鹢舟，桂枝同折塞同游。",
+    "声喧岛上巢松鹤，影落杯中过水鸥。",
+    "送日暮钟交戍岭，呌云寒角动城楼。",
+    "酒酣笑语秋风里，谁道槐花更起愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-1f8ac12d-7aee-40e0-842b-1f37e00c53d2"
+}

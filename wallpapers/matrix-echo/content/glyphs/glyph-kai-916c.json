@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-916c",
+  "script": "kai",
+  "character": "酬",
+  "reading": "chóu",
+  "description": "chóu：(1)劝酒～酢。\n(2)用财物报答～劳。～谢。～金。报～。\n(3)交际往来应（yìng）～。～对。～和（hè）（用诗词应答）。～唱（用诗词互相赠答）。\n(4)实现愿望壮志未～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-酬"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-484fef0827b53e69b5d32f9f",
+  "title": "送杨敬之倅湖南",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "久嗟尘匣掩青萍，见说除书试一听。",
+    "闻君却作长沙傅，便逐秋风过洞庭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-95f586e7-f277-4eb0-ac7f-b9304458f354"
+}

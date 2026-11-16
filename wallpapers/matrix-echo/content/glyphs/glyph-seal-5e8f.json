@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e8f",
+  "script": "seal",
+  "character": "序",
+  "reading": "xù",
+  "description": "xù：(1)次第顺～。秩～。次～。工～。程～。～数。\n(2)排列次第～次。～列。\n(3)开头的，在正式内容之前的～言。～跋。～曲。～幕。～论。\n(4)古代指送别赠言的文字。\n(5)指季节四～。\n(6)古代地方办的学校庠～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-序"
+}

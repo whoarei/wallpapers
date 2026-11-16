@@ -1,0 +1,16 @@
+{
+  "id": "poem-b8dcf15fc07ae5878b725442",
+  "title": "太傅相公以梅圣俞寄和建茶诗垂示俾次前韵",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "近来不贵蜀吴茶，为有东溪早露芽。",
+    "二月制成输御府，经时犹未到人家。",
+    "太官供罢颁三吏，东合开时咏九华。",
+    "从此闽乡益珍尚，佳章奇品两相夸。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-0e9fc78e-ef60-44e3-85b5-bc5ecfd4074e"
+}

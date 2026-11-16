@@ -1,0 +1,16 @@
+{
+  "id": "poem-abd982bf50218fdcc7950c9d",
+  "title": "哭陈陶处士",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "园里先生冢，鸟啼春更伤。",
+    "空余八封树，尚对一茅堂。",
+    "白日埋杜甫，皇天无耒阳。",
+    "如何稽古力，报答甚茫茫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-1ef5d938-b410-448e-9349-0592d63d315f"
+}

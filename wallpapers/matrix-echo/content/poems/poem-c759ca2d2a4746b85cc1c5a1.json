@@ -1,0 +1,16 @@
+{
+  "id": "poem-c759ca2d2a4746b85cc1c5a1",
+  "title": "桐江闲居作十二首 十一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "忆在山中日，为僧鬓欲衰。",
+    "一灯常到晓，十载不离师。",
+    "水汲冰溪滑，钟撞雪阁危。",
+    "从来多自省，不学拟何为。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4c2b1379-b10f-401e-b172-8081c5044a01"
+}

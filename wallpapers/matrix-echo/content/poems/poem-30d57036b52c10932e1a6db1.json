@@ -1,0 +1,14 @@
+{
+  "id": "poem-30d57036b52c10932e1a6db1",
+  "title": "临江仙·巍峨万丈与天高",
+  "author": "邢俊臣",
+  "dynasty": "宋",
+  "verses": [
+    "巍峨万丈与天高。",
+    "物轻人意重，千里送鹅毛。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-838",
+  "tags": []
+}

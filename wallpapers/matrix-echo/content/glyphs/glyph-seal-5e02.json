@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e02",
+  "script": "seal",
+  "character": "市",
+  "reading": "shì",
+  "description": "shì：(1)做买卖或做买卖的地方开～。菜～。～井（街，市场）。～曹。～侩（旧指买卖的中间人、唯利是图的奸商；现泛指贪图私利的人）。\n(2)买～义。～恩（买好，讨好）。\n(3)人口密集的行政中心或工商业、文化发达的地方城～。都（dū）～。～镇。\n(4)一种行政区划，有中央直辖和省（自治区）辖等北京～。南京～。\n(5)中国人民习惯使用的度量衡单位～制。～尺。～斤。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-市"
+}

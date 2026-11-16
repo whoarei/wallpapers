@@ -1,0 +1,14 @@
+{
+  "id": "poem-98903be794466ce63ff6d645",
+  "title": "赠笔工",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "散捉紫毫新脱颖，玄泓渴饮淬锋寒。",
+    "将军翰墨场中老，避槊方知夺槊难。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-aac653d9-2d72-456c-b144-c0f6866e0aa3"
+}

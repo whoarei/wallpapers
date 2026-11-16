@@ -1,0 +1,19 @@
+{
+  "id": "poem-6c3e7d1495368c532212a1f0",
+  "title": "暮秋书怀",
+  "author": "崔湜",
+  "dynasty": "唐",
+  "verses": [
+    "首夏别京辅，杪秋滞三河。",
+    "沉沉蓬莱阁，日夕乡思多。",
+    "霜剪凉墀蕙，风捎幽渚荷。",
+    "岁芳坐沦歇，感此至微歌。",
+    "（〖1〗按这一首，《全唐诗》卷三一作为魏征的诗，而《珠英集》作崔湜；《珠英集》应可据，故仍补入崔湜名下。",
+    "第七句「沦歌」有误，依《全唐诗》应作歇。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-76a778ea-6aeb-46db-96dc-8cc5586ed23d"
+}

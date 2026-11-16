@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8db4",
+  "script": "kai",
+  "character": "趴",
+  "reading": "pā",
+  "description": "pā：(1)肚子向下卧倒～下。～虎儿（身体向前跌倒的姿势）。～窝（ａ．母鸡趴在窝里孵小鸡；ｂ．母畜生幼畜前趴在地上不动；ｃ．身体垮了；ｄ．机器和机动车等发生故障，不能开动）。\n(2)身体向前靠在东西上～在桌子上。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-趴"
+}

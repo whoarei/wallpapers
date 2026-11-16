@@ -1,0 +1,16 @@
+{
+  "id": "poem-41ea582d048d742ff766eba6",
+  "title": "偈颂（幷序○序为南岳齐己撰） 五十五",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "若教求道似求名，世上无人道不成。",
+    "心静道场何曾到，世间尘路等闲行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-89a17ab7-c57e-4faa-9e99-df9969a75d43"
+}

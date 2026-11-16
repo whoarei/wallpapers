@@ -1,0 +1,16 @@
+{
+  "id": "poem-c1276a0ddce89a56711466c8",
+  "title": "破阵子·四十年来家国",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "四十年来家国，三千里地山河。",
+    "凤阁龙楼连霄汉，玉树琼枝作烟萝，几曾识干戈？",
+    "一旦归为臣虏，沈腰潘鬓销磨。",
+    "最是仓皇辞庙日，教坊犹奏别离歌，垂泪对宫娥。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-35"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ef76abefc47424c7ca6c9c75",
+  "title": "古意",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "红荷楚水曲，彪炳烁晨霞。",
+    "未得两回摘，秋风吹却花。",
+    "时芳不待妾，玉珮无处夸。",
+    "悔不盛年时，嫁与青楼家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d324e92c-f390-46f6-805e-f1dcd7e81f71"
+}

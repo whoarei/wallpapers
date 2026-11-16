@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-847a",
+  "script": "seal",
+  "character": "葺",
+  "reading": "qì",
+  "description": "qì：(1)原指用茅草覆盖房子，后泛指修理房屋～墙。～屋（草屋）。修～。\n(2)累积，重叠～袭（重叠）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-葺"
+}

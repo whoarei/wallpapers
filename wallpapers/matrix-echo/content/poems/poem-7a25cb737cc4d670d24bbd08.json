@@ -1,0 +1,16 @@
+{
+  "id": "poem-7a25cb737cc4d670d24bbd08",
+  "title": "赠山翁",
+  "author": "李涛",
+  "dynasty": "宋",
+  "verses": [
+    "松萝深处住，闲野不生愁。",
+    "鸟语烟岚静，水声门户秋。",
+    "花间归洞路，山下钓鱼舟。",
+    "沐浴圣王化，自怜丝满头。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-0d10a855-4cdc-4064-a221-f95e554504c0"
+}

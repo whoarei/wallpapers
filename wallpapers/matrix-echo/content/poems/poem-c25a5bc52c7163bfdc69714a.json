@@ -1,0 +1,18 @@
+{
+  "id": "poem-c25a5bc52c7163bfdc69714a",
+  "title": "哭郎著作",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "诗礼康成学，文章贾谊才。",
+    "巳年人得梦，庚日鸟为灾。",
+    "书草藏天阁，琴声入夜台。",
+    "荒阶罗驳藓，虚座网浮埃。",
+    "白马宾徒散，青乌陇隧开。",
+    "空怜门下客，怀旧几迟回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-01c3c86a-f92b-4ec3-93e5-5251f52137c3"
+}

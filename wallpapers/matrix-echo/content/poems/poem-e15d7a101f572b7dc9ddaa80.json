@@ -1,0 +1,16 @@
+{
+  "id": "poem-e15d7a101f572b7dc9ddaa80",
+  "title": "秋日奉陪王丰甫许子大康平仲游贤沙宿凤池登升山偶成二首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "追陪杖屦极幽寻，共宿精庐上翠岑。",
+    "凤鸟不来空碧沼，仙人已去得黄金。",
+    "月林散影琼瑶碎，烟水澄光组练深。",
+    "欲把诗篇与收拾，登临谁会此时心。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-5f536219-ea0d-4a76-9f3d-2ad8f2ae905a"
+}

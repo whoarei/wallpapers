@@ -1,0 +1,14 @@
+{
+  "id": "poem-ce7efb100d7c7a00436b57cb",
+  "title": "题邸间壁",
+  "author": "郑会",
+  "dynasty": "宋",
+  "verses": [
+    "酴醿香梦怯春寒，翠掩重门燕子闲。",
+    "敲断玉钗红烛冷，计程应说到常山。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-題邸間壁"
+}

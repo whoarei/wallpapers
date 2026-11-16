@@ -1,0 +1,16 @@
+{
+  "id": "poem-ab6e62d2a3496fcfb81a18dc",
+  "title": "早朝",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "皎洁明星高，苍茫远天曙。",
+    "槐雾暗不开，城鸦鸣稍去。",
+    "始闻高阁声，莫辨更衣处。",
+    "银烛已成行，金门俨驺驭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-99c56ac4-c95e-4923-b0b8-b3809e62e1cf"
+}

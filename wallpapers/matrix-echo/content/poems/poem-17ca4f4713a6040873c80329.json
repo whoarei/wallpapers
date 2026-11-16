@@ -1,0 +1,14 @@
+{
+  "id": "poem-17ca4f4713a6040873c80329",
+  "title": "宫词 二",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "黄金捍拨紫檀槽，弦索初张调更高。",
+    "尽理昨来新上曲，内官帘外送樱桃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ac0ef485-8298-4910-92e3-45c941babf93"
+}

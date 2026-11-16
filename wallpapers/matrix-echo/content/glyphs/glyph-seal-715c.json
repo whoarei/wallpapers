@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-715c",
+  "script": "seal",
+  "character": "煜",
+  "reading": "yù",
+  "description": "yù：(1)照耀日以～乎昼，月以～乎夜”。\n(2)火焰飞烽戢～而泱漭”。～熠。\n〔～～〕明亮的样子，如岭上疏星明～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-煜"
+}

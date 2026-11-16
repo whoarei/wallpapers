@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51cc",
+  "script": "kai",
+  "character": "凌",
+  "reading": "líng",
+  "description": "líng：(1)冰冰～。～锥。滴水成～。\n(2)侵犯、欺压欺～。～逼。～辱。～侮。恃强～弱。\n(3)杂乱，交错～乱。～杂。\n(4)升，高出～云。～霄。～空。～虚。～驾。会当～绝顶，一览众山小”。\n(5)渡过，越过虽有江河之险则～之”。\n(6)迫近，逼近～晨。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-凌"
+}

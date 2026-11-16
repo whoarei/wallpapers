@@ -1,0 +1,14 @@
+{
+  "id": "poem-094d2d3cd8906ad8e31c0ea8",
+  "title": "洁泉",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "绝爱泓然一鉴渟，肯教尘土犯清泠。",
+    "祇缘较德先生似，不为争名陆羽经。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-7c46f7ff-3d28-4321-83ff-67978ab4df7a"
+}

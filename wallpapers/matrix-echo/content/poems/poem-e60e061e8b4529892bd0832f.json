@@ -1,0 +1,14 @@
+{
+  "id": "poem-e60e061e8b4529892bd0832f",
+  "title": "煎茶峰",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "缓火烘来活水煎，山头卓锡取清泉。",
+    "品茶嬾检茶经看，舌本无非有味禅。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-c2621627-b0e7-463d-a4be-ff0c1e0f7223"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-448ecd730acaef3c0776ff34",
+  "title": "柳枝·腻粉琼妆透碧纱",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "腻粉琼妆透碧纱，雪休夸。",
+    "金凤搔头堕鬓斜，发交加。",
+    "倚着云屏新睡觉，思梦笑。",
+    "红腮隐出枕函花，有些些。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-46"
+}

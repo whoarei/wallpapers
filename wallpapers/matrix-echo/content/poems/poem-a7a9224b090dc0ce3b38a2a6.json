@@ -1,0 +1,22 @@
+{
+  "id": "poem-a7a9224b090dc0ce3b38a2a6",
+  "title": "追凉历下古城西北隅此地有清泉乔木",
+  "author": "卢象",
+  "dynasty": "唐",
+  "verses": [
+    "谢朓出华省，王祥贻佩刀。",
+    "前贤真可慕，衰病意空劳。",
+    "贞悔不自卜，游随共尔曹。",
+    "未能齐得丧，时复诵离骚。",
+    "闲荫七贤地，醉餐三士桃。",
+    "苍苔虞舜井，乔木古城壕。",
+    "渔父偏相狎，尧年不可逃。",
+    "蝉鸣秋雨霁，云白晓山高。",
+    "咫尺传双鲤，吹嘘借一毛。",
+    "故人皆得路，谁肯念同袍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a351ea47-24d1-4371-99e1-9b67d41e6b92"
+}

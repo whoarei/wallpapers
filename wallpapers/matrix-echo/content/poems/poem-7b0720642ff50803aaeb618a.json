@@ -1,0 +1,14 @@
+{
+  "id": "poem-7b0720642ff50803aaeb618a",
+  "title": "答鄱阳客药名诗",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "江臯岁暮相逢地，黄叶霜前半夏枝。",
+    "子夜吟诗向松桂，心中万事喜君知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c0cbb0bd-9129-48c9-aef6-c116139328cc"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-02d3aaebf92e504f87160163",
+  "title": "后出塞五首 二",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "朝进东门营，暮上河阳桥。",
+    "落日照大旗，马鸣风萧萧。",
+    "平沙列万幕，部伍各见招。",
+    "中天悬明月，令严夜寂寥。",
+    "悲笳数声动，壮士惨不骄。",
+    "借问大将谁，恐是霍嫖姚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-0e981612-b3bb-4124-93a1-06e4abd82099"
+}

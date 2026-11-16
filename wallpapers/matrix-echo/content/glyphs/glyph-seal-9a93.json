@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9a93",
+  "script": "seal",
+  "character": "骓",
+  "reading": "zhuī",
+  "description": "毛色苍白相杂的马\n骓zhuī毛色青白混杂的马乌～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骓"
+}

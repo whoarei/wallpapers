@@ -1,0 +1,16 @@
+{
+  "id": "poem-c2b21323cf3409f95373d31a",
+  "title": "孤寝怨",
+  "author": "崔珪",
+  "dynasty": "唐",
+  "verses": [
+    "征戍动经年，含情拂玳筵。",
+    "花飞织锦处，月落捣衣边。",
+    "灯暗愁孤坐，床空怨独眠。",
+    "自君辽海去，玉匣闭春弦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-dfc7ba4a-f19d-48d3-8a9b-5b4f47a0b880"
+}

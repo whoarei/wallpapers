@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8272",
+  "script": "kai",
+  "character": "色",
+  "reading": "sè",
+  "description": "sè：(1)由物体发射、反射的光通过视觉而产生的印象颜～。～彩。～相（xiàng）。～调（diào）。\n(2)脸上表现出的神气、样子脸～。气～。～厉内荏。\n(3)情景，景象行～匆匆。景～宜人。\n(4)种类各～用品。\n(5)品质，质量音～。成～。足～纹银。\n(6)妇女美貌姿～。～艺。\n(7)情欲～情∶（hào）～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-色"
+}

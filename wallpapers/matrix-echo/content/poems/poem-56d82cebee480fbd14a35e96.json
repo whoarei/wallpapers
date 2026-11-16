@@ -1,0 +1,20 @@
+{
+  "id": "poem-56d82cebee480fbd14a35e96",
+  "title": "小重山·湖上秋来莲荡空",
+  "author": "沈晦",
+  "dynasty": "宋",
+  "verses": [
+    "湖上秋来莲荡空。",
+    "年华都付与，木芙蓉。",
+    "采菱舟子两相逢。",
+    "双媚靥，一笑与谁浓。",
+    "斜日落溟蒙。",
+    "鸳鸯飞起处，水无踪。",
+    "望湖楼上两三峰。",
+    "人不见，林外数声钟。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-935",
+  "tags": []
+}

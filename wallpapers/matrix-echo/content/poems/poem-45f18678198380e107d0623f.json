@@ -1,0 +1,14 @@
+{
+  "id": "poem-45f18678198380e107d0623f",
+  "title": "登巾山",
+  "author": "陈知柔",
+  "dynasty": "宋",
+  "verses": [
+    "司马胸中著云梦，杜陵眼底盖乾坤。",
+    "吾衰不复论兹事，饱看孤帆落远村。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-6e4ae72f-9313-448b-84bf-66b4ed796a4f"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-d5d3363d345666fed2f128bb",
+  "title": "凤鸣寺十八应真乃日本国所制密印僧典于沈氏沈施于凤鸣",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "木素上金泥，云衣整稻畦。",
+    "曾充僧典质，未到佛阶梯。",
+    "领众三韩北，分身两淛西。",
+    "一龛老风雨，谁与振幽栖。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-1120838c-8152-45fb-ab2c-bcf26e81f746"
+}

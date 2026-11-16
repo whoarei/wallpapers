@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-81ba",
+  "script": "seal",
+  "character": "膺",
+  "reading": "yīng",
+  "description": "yīng：(1)胸义愤填～。\n(2)接受，承当～选（当选）。～赏。～受。荣～。\n(3)讨伐，打击～惩。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-膺"
+}

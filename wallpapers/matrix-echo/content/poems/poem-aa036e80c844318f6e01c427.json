@@ -1,0 +1,19 @@
+{
+  "id": "poem-aa036e80c844318f6e01c427",
+  "title": "点绛唇·璧月香风",
+  "author": "曾觌",
+  "dynasty": "宋",
+  "verses": [
+    "璧月香风，万家帘幕烟如昼。",
+    "闹蛾雪柳。",
+    "人似梅花瘦。",
+    "行乐清时，莫惜笙歌奏。",
+    "更阑后。",
+    "满斟金斗。",
+    "且醉厌厌酒。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-356",
+  "tags": []
+}

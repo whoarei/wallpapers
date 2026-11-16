@@ -1,0 +1,14 @@
+{
+  "id": "poem-8a00a3655e13302a1fb10d15",
+  "title": "十无诗寄桂府杨中丞 九",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "僻爱江山俯坐隅，人间不是便为图。",
+    "尊前为问神仙伴，肯向三清慰荐无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-acd0c10e-587a-4b45-91a3-34ae63bd9658"
+}

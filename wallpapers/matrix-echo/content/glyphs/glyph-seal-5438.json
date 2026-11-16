@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5438",
+  "script": "seal",
+  "character": "吸",
+  "reading": "xī",
+  "description": "xī：(1)从口或鼻把气引入体内呼～。～气。～烟。\n(2)引取～引。～附。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吸"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-bdd24b409479c9d476046e38",
+  "title": "次韵无为使君尊兄见寄之什",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "江山接境相望近，风雨一春音问疎。",
+    "安得从公苕霅上，幅巾一叶卧看书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-0be92060-f7b9-469a-8b63-94df6b436d21"
+}

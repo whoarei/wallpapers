@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-634c",
+  "script": "kai",
+  "character": "捌",
+  "reading": "bā",
+  "description": "bā：(1)八”的大写。\n(2)古同扒”，破裂，分开。\n(3)古代一种聚拢谷物的没有齿的耙。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-捌"
+}

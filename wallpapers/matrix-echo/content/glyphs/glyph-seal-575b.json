@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-575b",
+  "script": "seal",
+  "character": "坛",
+  "reading": "tán",
+  "description": "像坛之物\n⒊壇、\n⒋壜、\n⒋罎、\n⒈〈古〉用于盟誓、祭祀等的土筑高台或建筑物为～而盟。天～。登～拜将。\n⒉庭院中的土台花～。〈引〉庭院腐鼠在～。\n⒊指文艺、体育界或舆论阵地文～。球～。讲～。论～。\n⒋肚大口小的一种陶器酒～子。泡菜～。\n坛dàn 1.平坦。\n坛shàn 1.厅堂。 2.庭院。 3.通\"墠\"。清除土地。亦泛指清除。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-坛"
+}

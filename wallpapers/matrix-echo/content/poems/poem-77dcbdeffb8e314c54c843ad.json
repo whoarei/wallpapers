@@ -1,0 +1,18 @@
+{
+  "id": "poem-77dcbdeffb8e314c54c843ad",
+  "title": "临江仙·遍地残花庭院静",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "遍地残花庭院静，流莺对对相过。",
+    "万条风柳间婆娑。",
+    "樱桃初弄色，萱草自成窠。",
+    "早是芳菲时节晚，追游期会无多。",
+    "眉山敛翠近秋波。",
+    "日长初睡起，愁与病相和。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-929",
+  "tags": []
+}

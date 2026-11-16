@@ -1,0 +1,16 @@
+{
+  "id": "poem-05bd8087a51cda744cd245a4",
+  "title": "赠梅处士",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "早闻声价满京城，头白江湖放旷情。",
+    "讲易自传新注义，题诗不著旧官名。",
+    "近移马迹山前住，多向牛头寺里行。",
+    "天子如今议封禅，应将束帛请先生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c637d249-8158-48b9-98ee-a2300c0acbde"
+}

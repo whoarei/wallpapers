@@ -1,0 +1,14 @@
+{
+  "id": "poem-f48934ec90efa4d022851a06",
+  "title": "燕雁",
+  "author": "汪宗臣",
+  "dynasty": "宋",
+  "verses": [
+    "秋来春去雁宾熟，秋去春来燕子忙。",
+    "寒暑自分人事信，不须禽类互炎凉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-76014e2c-3f07-4272-a4fe-9c23125c9291"
+}

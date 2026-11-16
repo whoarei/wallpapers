@@ -1,0 +1,15 @@
+{
+  "id": "poem-2b4778cca6272842ee7365f1",
+  "title": "九罭",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "九罭之鱼，鳟鲂。我觏之子，衮衣绣裳。",
+    "鸿飞遵渚，公归无所，于女信处。鸿飞遵六，公归不复，于女信宿。",
+    "是以有衮衣兮，无以我公归兮，无使我心悲兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-158"
+}

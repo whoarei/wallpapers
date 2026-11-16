@@ -1,0 +1,15 @@
+{
+  "id": "poem-aab51654166167eaecbbedbb",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "婆婆，你还死教奴家怎支吾？你若死教我怎生度？我千辛万苦回护丈夫，如今到此难回护。",
+    "我只愁母死难留父，况衣衫尽解，囊箧又无。",
+    "(外叫净介唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5079",
+  "tags": []
+}

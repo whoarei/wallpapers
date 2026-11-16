@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94c1",
+  "script": "seal",
+  "character": "铁",
+  "reading": "tiě",
+  "description": "铁制的器物\n⒈金属元素。符号fe。灰白色，质坚硬，有光泽，富于延伸性，在潮湿空气中易氧化生绣。在工业上用途很大，可以炼钢，制造各种机械、器具等。\n⒉〈喻〉坚固，坚硬、坚强，坚定铜墙～壁。～拳，～人。～姑娘队。\n⒊〈喻〉确定不移～证。～的纪律。\n⒋〈喻〉残暴或精锐～蹄。～骑。\n⒌兵器的代称手无寸～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铁"
+}

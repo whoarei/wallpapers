@@ -1,0 +1,20 @@
+{
+  "id": "poem-02e4f621d1cba4bdfb9cba09",
+  "title": "寻南溪常山道人隐居",
+  "author": "刘长卿",
+  "dynasty": "唐",
+  "verses": [
+    "一路经行处，莓苔见履痕。",
+    "白云依静渚，春草闭闲门。",
+    "过雨看松色，随山到水源。",
+    "溪花与禅意，相对亦忘言。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写景",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-04af557e-bac8-4fbf-92e7-d8a87fa11038"
+}

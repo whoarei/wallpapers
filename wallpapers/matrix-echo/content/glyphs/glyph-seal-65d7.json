@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65d7",
+  "script": "seal",
+  "character": "旗",
+  "reading": "qí",
+  "description": "qí：(1)用布、纸、绸子或其他材料做成的标识（zhì），多是长方形或方形～子。～帜。～号。～舰。～手。\n(2)中国清代满族的军队编制和户口编制（共分八旗，后又建立蒙古八旗，汉军八旗），特指属于满族的～人（满族人）。～籍。～袍。\n(3)中国内蒙古自治区的行政区划，相当于县。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-旗"
+}

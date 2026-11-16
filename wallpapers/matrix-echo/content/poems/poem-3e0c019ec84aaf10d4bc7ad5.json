@@ -1,0 +1,16 @@
+{
+  "id": "poem-3e0c019ec84aaf10d4bc7ad5",
+  "title": "旅次夏州",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "嘶马发相续，行次夏王台。",
+    "锁郡云阴暮，鸣笳烧色来。",
+    "霜繁边上宿，鬓改碛中回。",
+    "怅望胡沙晓，惊蓬朔吹催。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4ae2c08a-704a-4475-8b4b-55ed39167cc5"
+}

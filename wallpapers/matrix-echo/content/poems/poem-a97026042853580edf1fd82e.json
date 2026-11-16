@@ -1,0 +1,16 @@
+{
+  "id": "poem-a97026042853580edf1fd82e",
+  "title": "望海",
+  "author": "周繇",
+  "dynasty": "唐",
+  "verses": [
+    "苍茫空泛日，四顾绝人烟。",
+    "半浸中华岸，旁通异域船。",
+    "岛间应有国，波外恐无天。",
+    "欲作乘槎客，翻愁去隔年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-8bae582b-62ab-47f6-8d66-2f05b9594c1b"
+}

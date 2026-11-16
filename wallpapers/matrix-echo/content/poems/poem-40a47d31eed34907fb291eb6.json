@@ -1,0 +1,16 @@
+{
+  "id": "poem-40a47d31eed34907fb291eb6",
+  "title": "渔父词・渔父·谁云渔父是愚翁",
+  "author": "赵构",
+  "dynasty": "宋",
+  "verses": [
+    "谁云渔父是愚翁。",
+    "一叶浮家万虑空。",
+    "轻破浪，细迎风。",
+    "睡起篷窗日正中。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-223",
+  "tags": []
+}

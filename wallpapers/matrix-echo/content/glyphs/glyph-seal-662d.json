@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-662d",
+  "script": "seal",
+  "character": "昭",
+  "reading": "zhāo",
+  "description": "zhāo：(1)光明～明。～～（ａ．明亮的样子，如日月～～”；ｂ．明白事理。如贤者以其～～，使人～～”）。\n(2)明显，显著～著。～彰。～布。～雪（揭明真情，洗清冤枉）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昭"
+}

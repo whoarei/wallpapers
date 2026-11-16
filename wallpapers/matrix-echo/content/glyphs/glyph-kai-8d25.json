@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d25",
+  "script": "kai",
+  "character": "败",
+  "reading": "bài",
+  "description": "①失败残兵～将、成～在此一举。\n②打败大～敌军。\n④消除；解除～火。\n⑤破旧；腐烂；凋谢#草&开不#的鲜花。\n【败北】打败仗。\n【败笔】指写字写得不好的一笔。也指绘画中画得不好的部分或作文中写得不好～的词句。\n【败绩】指战争、事业等方面的失败。\n【败兴】正高兴时因遇到不希望发生的事而情绪低落；扫兴郊游时天下起了雨，真～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-败"
+}

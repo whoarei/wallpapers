@@ -1,0 +1,18 @@
+{
+  "id": "poem-a00b704c53d9091020e20c00",
+  "title": "白苎歌",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "经纱才上机，梭飞玉攕攕。",
+    "怕君寻春迟，落机宽裁衫。",
+    "春心乱如蓬，冉冉随春霏。",
+    "芳迳晓沾露，软尘红上衣。",
+    "归来恨尘污，湔衣浣纱处。",
+    "难湔芳露痕，易湔衣上尘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-37c7343c-b1b0-4d27-952d-7aea9c2d3de5"
+}

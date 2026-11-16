@@ -1,0 +1,14 @@
+{
+  "id": "poem-8983ca2a75354513ba998494",
+  "title": "宝陀岩",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "阴磴层崖洞室宽，奇花异草几多般。",
+    "彩云不动金光起，便作金莲法界看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-914ba9b9-16c1-41f9-8a02-eddac60ec4f6"
+}

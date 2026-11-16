@@ -1,0 +1,14 @@
+{
+  "id": "poem-0bc737fd95a3939d92e96e22",
+  "title": "竹枝歌  其九",
+  "author": "孙嵩",
+  "dynasty": "宋",
+  "verses": [
+    "峡山削出青嵯峨，峡水匀成绿不波。",
+    "顿平山林未能得，奈此猿声朝夕何。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-803e5005-b7f6-4b6d-be7b-ef66316c65fa"
+}

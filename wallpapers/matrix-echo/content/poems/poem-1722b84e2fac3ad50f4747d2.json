@@ -1,0 +1,16 @@
+{
+  "id": "poem-1722b84e2fac3ad50f4747d2",
+  "title": "寄处士梁烛",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "贤哉君子风，讽与古人同。",
+    "采药楚云里，移家湘水东。",
+    "星霜秋野阔，雨雹夜山空。",
+    "早晚相招隐，深耕老此中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6c9f6ef2-3e5b-49e9-ae32-b6fdf7b02f80"
+}

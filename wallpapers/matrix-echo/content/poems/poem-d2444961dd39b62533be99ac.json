@@ -1,0 +1,16 @@
+{
+  "id": "poem-d2444961dd39b62533be99ac",
+  "title": "眼儿媚·重见星娥碧海槎",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "重见星娥碧海槎，忍笑却盘鸦。",
+    "寻常多少，月明风细，今夜偏佳。",
+    "休笼彩笔闲书字，街鼓巳三挝。",
+    "烟丝欲袅，露光微泫，春在桃花。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-36"
+}

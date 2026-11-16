@@ -1,0 +1,18 @@
+{
+  "id": "poem-d75c4cb489fe44d11321f56e",
+  "title": "一络索·过尽遥山如画",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "过尽遥山如画。",
+    "短衣匹马。",
+    "萧萧落木不胜秋，莫回首、斜阳下。",
+    "别是柔肠萦挂。",
+    "待归才罢。",
+    "却愁拥髻向灯前，说不尽、离人话。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-160"
+}

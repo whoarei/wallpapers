@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-840d",
+  "script": "kai",
+  "character": "萍",
+  "reading": "píng",
+  "description": "píng：一年生草本植物，浮生水面，叶子扁平，表面绿色，背面紫红色，叶下生须根，开白花，称浮萍”，亦称青萍”、紫萍”，多用以喻不定的生活或行踪～泊。～踪。～水相逢。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-萍"
+}

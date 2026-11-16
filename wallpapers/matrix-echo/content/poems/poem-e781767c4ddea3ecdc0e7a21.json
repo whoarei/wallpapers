@@ -1,0 +1,16 @@
+{
+  "id": "poem-e781767c4ddea3ecdc0e7a21",
+  "title": "圣果寺",
+  "author": "释处默",
+  "dynasty": "唐",
+  "verses": [
+    "路自中峰上，盘回出薜萝。",
+    "到江吴地尽，隔岸越山多。",
+    "古木丛青蔼，遥天浸白波。",
+    "下方城郭近，钟磬杂笙歌。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-聖果寺"
+}

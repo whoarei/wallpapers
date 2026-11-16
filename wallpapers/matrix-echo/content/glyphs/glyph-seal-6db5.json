@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6db5",
+  "script": "seal",
+  "character": "涵",
+  "reading": "hán",
+  "description": "hán：(1)包容，包含～蓄。～容。～养（ａ．蓄积并保持，如～～水源”；ｂ．指修养，如他很有～～”）。包～。蕴～。～。\n(2)沉，潜～泳（水中潜行，喻深入体会）。～淹。～濡（浸渍，滋润）。\n(3)公路或铁路下面通沟渠的管道～洞。桥～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-涵"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-9173f7faf864024083ea80ce",
+  "title": "白马峰",
+  "author": "延寿",
+  "dynasty": "唐",
+  "verses": [
+    "湖外层峰泻危楼，天际阴阴长寒木。",
+    "南北行人望莫穷，秋云一片横幽谷。",
+    "（见南宋张淏《宝庆续会稽志》卷四「姜山」条。",
+    "《乾隆绍兴府志》卷四、《光绪余姚县志》卷二亦载此五首诗，字句颇有异同。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-70b94b19-79d5-40e5-bd8f-dae5e93cff40"
+}

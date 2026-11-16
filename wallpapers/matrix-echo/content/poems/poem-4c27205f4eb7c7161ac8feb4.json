@@ -1,0 +1,14 @@
+{
+  "id": "poem-4c27205f4eb7c7161ac8feb4",
+  "title": "苏小小墓",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "同心难结绣云长，红玉沉泥草亦香。",
+    "娇魄年年寒食节，定应湖上作鸳鸯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-4a7bb04a-1981-4826-98ea-6a687b69af95"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-96fe",
+  "script": "kai",
+  "character": "雾",
+  "reading": "wù",
+  "description": "接近地面的空气中的水蒸气\n像雾的许多小水滴\n比喻轻细的\n比喻浓密的\n昏晦,昏暗\n⒈飘浮在近地面空气中的大量小水滴或冰晶，主要是水蒸气遇冷后凝结而成大～弥江。\n⒉像雾的东西吐～。喷～洒水。\n雾méng 1.昏暗。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-雾"
+}

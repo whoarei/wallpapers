@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6d3b",
+  "script": "seal",
+  "character": "活",
+  "reading": "huó",
+  "description": "huó：(1)生存，有生命的，能生长，与死”相对～人。～体。～检。～物。\n(2)救活，使人活～人无数。\n(3)在活的状态下～埋。\n(4)逼真地～脱。～像。\n(5)不固定，可移动，或处在进去状态的～塞（sāi）。～扣。～页本。耳软心～（没主见）。\n(6)生动，不呆板，机灵，有生气～力。\n(7)工作或生产品～儿。～计。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-活"
+}

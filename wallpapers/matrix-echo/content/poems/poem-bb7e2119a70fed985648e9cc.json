@@ -1,0 +1,14 @@
+{
+  "id": "poem-bb7e2119a70fed985648e9cc",
+  "title": "入邑阻风  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "鬭风鹢退不忺飞，还似当年过宋时。",
+    "又似雪舟人兴尽，归时却是顺风吹。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-1aadc8b0-49df-4951-a5e4-4cc358618587"
+}

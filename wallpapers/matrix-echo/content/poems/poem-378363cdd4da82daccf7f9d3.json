@@ -1,0 +1,20 @@
+{
+  "id": "poem-378363cdd4da82daccf7f9d3",
+  "title": "小重山·绿树莺啼春正浓",
+  "author": "何大圭",
+  "dynasty": "宋",
+  "verses": [
+    "绿树莺啼春正浓。",
+    "钗头青杏小，绿成丛。",
+    "玉船风动酒鳞红。",
+    "歌声咽，相见几时重。",
+    "车马去匆匆。",
+    "路随芳草远，恨无穷。",
+    "相思只在梦魂中。",
+    "今宵月，偏照小楼东。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-216",
+  "tags": []
+}

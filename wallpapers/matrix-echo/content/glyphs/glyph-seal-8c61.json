@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c61",
+  "script": "seal",
+  "character": "象",
+  "reading": "xiàng",
+  "description": "xiàng：(1)哺乳动物，是地球上最大的动物，多产在印度、非洲等热带地区，门牙极长，可用于雕刻成器皿或艺术品～牙。～牙宝塔（喻脱离群众和生活的文学家、艺术家的小天地）。\n(2)形状，样子形～。景～。气～。现～。想～。～征。万～更新。～声。～形。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-象"
+}

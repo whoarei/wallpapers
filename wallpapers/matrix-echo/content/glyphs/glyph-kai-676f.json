@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-676f",
+  "script": "kai",
+  "character": "杯",
+  "reading": "bēi",
+  "description": "bēi：(1)盛酒、水、茶等的器皿～子。～盘狼藉。～中物（指酒）。\n(2)杯状的锦标奖～。～赛。夺～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杯"
+}

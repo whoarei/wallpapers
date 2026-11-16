@@ -1,0 +1,14 @@
+{
+  "id": "poem-7941d60d40250738c89b5780",
+  "title": "遇边使",
+  "author": "卢殷",
+  "dynasty": "唐",
+  "verses": [
+    "累年无的信，每夜梦边城。",
+    "袖掩千行泪，书封一尺情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-fa7f2085-67ca-4b38-b9ec-7153f430559d"
+}

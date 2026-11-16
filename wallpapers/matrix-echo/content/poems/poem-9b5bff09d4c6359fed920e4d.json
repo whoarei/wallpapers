@@ -1,0 +1,13 @@
+{
+  "id": "poem-9b5bff09d4c6359fed920e4d",
+  "title": "句",
+  "author": "周存孺",
+  "dynasty": "唐",
+  "verses": [
+    "指下黄金星未曙，七条弦上夜乌啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-8b933994-767b-4a3e-8b70-67b4c32cdb92"
+}

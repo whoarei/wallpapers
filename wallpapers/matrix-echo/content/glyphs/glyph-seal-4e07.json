@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e07",
+  "script": "seal",
+  "character": "万",
+  "reading": "wàn",
+  "description": "虫名。蝎。\n古代的一种舞名\n古州名\n⒈数目字十千为一～。\n⒉多，一切～般。～物。千家～户。千军～马。～象更新。\n⒊极，很，绝对～端。～难。～无一失。～全之策。\n①万分之一。\n②意外，意外的～一出错。防止～一。\n③倘若，如果～一他不干，就请别人干。\n①千秋万代，永远存在。\n②〈表〉欢呼或棕人民～岁。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-万"
+}

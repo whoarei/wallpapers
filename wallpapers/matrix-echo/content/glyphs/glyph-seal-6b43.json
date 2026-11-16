@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b43",
+  "script": "seal",
+  "character": "歃",
+  "reading": "shà",
+  "description": "shà：用嘴吸取。\n〔～血〕古人盟会时，嘴唇涂上牲畜的血，表示诚意，如～～为盟”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-歃"
+}

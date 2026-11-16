@@ -1,0 +1,20 @@
+{
+  "id": "poem-ee3ad0abff5ed4b7d2d3b834",
+  "title": "长相思·要相忘",
+  "author": "吕本中",
+  "dynasty": "宋",
+  "verses": [
+    "要相忘。",
+    "不相忘。",
+    "玉树郎君月艳娘。",
+    "几回曾断肠。",
+    "欲下床。",
+    "却上床。",
+    "上得床来思旧乡。",
+    "北风吹梦长。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-737",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6027",
+  "script": "seal",
+  "character": "性",
+  "reading": "xìng",
+  "description": "xìng：(1)人或事物的本身所具有的能力、作用等～质。～格。～命（生命）。～能。个～。属～。\n(2)性质，思想、感情等方面的表现典型～。开放～。指令～。\n(3)男女或雌雄的特质～别。男～。女～。\n(4)有关生物生殖的～交。～欲。～爱。～感。～解放。\n(5)表示名词（以及代词、形容词）的类别的语法范畴。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-性"
+}

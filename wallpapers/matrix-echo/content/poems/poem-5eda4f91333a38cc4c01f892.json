@@ -1,0 +1,20 @@
+{
+  "id": "poem-5eda4f91333a38cc4c01f892",
+  "title": "南乡子·何处可魂消",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "何处可魂消。",
+    "京口终朝两信潮。",
+    "不管离心千叠恨，滔滔。",
+    "催促行人动去桡。",
+    "记得旧江皋。",
+    "绿杨轻絮几条条。",
+    "春水一篙残照阔，遥遥。",
+    "有个多情立画桥。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-264",
+  "tags": []
+}

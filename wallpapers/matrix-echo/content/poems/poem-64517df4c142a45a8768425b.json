@@ -1,0 +1,15 @@
+{
+  "id": "poem-64517df4c142a45a8768425b",
+  "title": "五祖栽松六祖担柴赞  其三",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "夯担不担柴，通经不识字。",
+    "新州路上人，中书堂里事。",
+    "三更月照东禅寺。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-c8ea03fc-2f67-43c2-b6f6-5af7d9656f85"
+}

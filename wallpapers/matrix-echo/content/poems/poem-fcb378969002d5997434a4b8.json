@@ -1,0 +1,14 @@
+{
+  "id": "poem-fcb378969002d5997434a4b8",
+  "title": "咏史诗 李陵台",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "北入单于万里疆，五千兵败滞穷荒。",
+    "英雄不伏蛮夷死，更筑高台望故乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ff0bff12-da29-4555-ab92-725cf9f22420"
+}

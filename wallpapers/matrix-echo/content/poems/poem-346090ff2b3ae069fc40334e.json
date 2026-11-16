@@ -1,0 +1,21 @@
+{
+  "id": "poem-346090ff2b3ae069fc40334e",
+  "title": "念奴娇·水枫叶下",
+  "author": "仲殊",
+  "dynasty": "宋",
+  "verses": [
+    "水枫叶下，乍湖光清浅。",
+    "凉生商素。",
+    "西帝宸游罗翠盖，拥出三千宫女。",
+    "绛采娇春，铅华掩昼，占断鸳鸯浦。",
+    "歌声摇曳，浣沙人在何处。",
+    "别岸孤袅一枝，广寒宫殿，冷落栖愁苦。",
+    "雪艳冰肌羞淡泊，偷把胭脂匀注。",
+    "媚脸笼霞，芳心泣露，不肯为云雨。",
+    "金波影里，为谁长恁凝伫。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-900",
+  "tags": []
+}

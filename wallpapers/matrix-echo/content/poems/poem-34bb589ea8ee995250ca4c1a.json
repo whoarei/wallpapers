@@ -1,0 +1,16 @@
+{
+  "id": "poem-34bb589ea8ee995250ca4c1a",
+  "title": "秋日旅舍别司空文明",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "凉风飒穷巷，秋思满高云。",
+    "吏隐俱不就，此心仍别君。",
+    "素怀宗淡泊，羁旅念功勋。",
+    "转忆西林寺，江声月下闻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-4d79a7f2-2e3c-496a-b9bd-9f778aee26ee"
+}

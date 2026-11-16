@@ -1,0 +1,14 @@
+{
+  "id": "poem-699a1f7fcdf86b3c342b003d",
+  "title": "开元观",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "坏道哀湍鬼火青，山间留得观冲名。",
+    "仙宫分置玄真像，想见开元旧太平。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-8e594e9a-5cc7-40ad-889d-5b1019c3b0f6"
+}

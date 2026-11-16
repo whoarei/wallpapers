@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9c9c",
+  "script": "kai",
+  "character": "鲜",
+  "reading": "xiān",
+  "description": "假借为鱻。鲜鱼,活鱼\n鲜美的食物\n⒈新的，不干枯的～花。～鱼。～笋。～血。新～。尝～。\n⒉味美～汤。\n⒊鱼、虾等产品河～。～。\n⒋光彩，明亮～艳。～红。～明。\n鲜xiàn 1.通\"献\"。进献。 2.姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲜"
+}

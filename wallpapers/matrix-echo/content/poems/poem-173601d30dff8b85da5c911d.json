@@ -1,0 +1,16 @@
+{
+  "id": "poem-173601d30dff8b85da5c911d",
+  "title": "晚春花",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "阴洞日光薄，花开不及时。",
+    "当春无半树，经烧足空枝。",
+    "疎与香风会，细将泉影移。",
+    "此中人到少，开尽几人知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-17299dfe-e9be-43d4-a1f8-684d03c32655"
+}

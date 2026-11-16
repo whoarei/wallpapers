@@ -1,0 +1,14 @@
+{
+  "id": "poem-7d9e8085bfae3161192ed78a",
+  "title": "小游仙诗九十八首 四十九",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "采女平明受事回，暗交丹契锦囊开。",
+    "欲书密诏防人见，佯喝青虬使莫来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-67960cbc-c0e6-49f0-a82f-96ed3a4e949e"
+}

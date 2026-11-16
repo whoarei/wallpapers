@@ -1,0 +1,13 @@
+{
+  "id": "poem-3ef0107c34a6f78cd8b1825c",
+  "title": "句",
+  "author": "陆贽",
+  "dynasty": "唐",
+  "verses": [
+    "遶堦流㶁㶁，来砌树阴阴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-28503959-b22c-4839-bf8f-6afd22bd3842"
+}

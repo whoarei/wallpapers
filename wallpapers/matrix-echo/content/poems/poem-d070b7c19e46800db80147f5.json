@@ -1,0 +1,16 @@
+{
+  "id": "poem-d070b7c19e46800db80147f5",
+  "title": "关山曲二首 一",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "金甲耀兜鍪，黄金拂紫骝。",
+    "叛羌旗下戮，陷壁夜中收。",
+    "霜霰戎衣月，关河碛气秋。",
+    "箭疮殊未合，更遣击兰州。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-9ac46ba9-d263-4cc8-8ce3-d10e628ae8f7"
+}

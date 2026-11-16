@@ -1,0 +1,21 @@
+{
+  "id": "poem-fb70558541f0cee445f9f434",
+  "title": "夜泊牛渚怀古",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "牛渚西江夜，青天无片云。",
+    "登舟望秋月，空忆谢将军。",
+    "余亦能高咏，斯人不可闻。",
+    "明朝挂帆席，枫叶落纷纷。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "怀古",
+    "五言律诗",
+    "月亮"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7e1be9c9-fa2f-44c2-a6bc-3edcece745fe"
+}

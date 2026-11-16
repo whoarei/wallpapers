@@ -1,0 +1,16 @@
+{
+  "id": "poem-99fe3c6205883679b76d2c66",
+  "title": "露",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "鹤鸣先警雁来天，洗竹沾花处处鲜。",
+    "散彩几当蝉饮际，凝光宜对蚌胎前。",
+    "朝垂苑草烟犹重，夜滴宫槐月正圆。",
+    "怵惕与霜同降日，苹蘩思荐独凄然。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-5d6ae932-1ab4-4689-bf8a-279b4a398ad0"
+}

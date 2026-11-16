@@ -1,0 +1,17 @@
+{
+  "id": "poem-9b61e8689ad511ace8a92573",
+  "title": "郊庙歌辞 享太庙乐章 永和",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "眇嘉乐，授灵爽。",
+    "感若来，思如往。",
+    "休气散，回风上。",
+    "返寂寞，还惚恍。",
+    "怀灵驾，结空想。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e70176f2-53b1-4dbe-963c-ef6fc9e3e64d"
+}

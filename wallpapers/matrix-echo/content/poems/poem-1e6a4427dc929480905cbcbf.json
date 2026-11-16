@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e6a4427dc929480905cbcbf",
+  "title": "却到浙西",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "临平水竭蒹葭死，里社萧条旅馆秋。",
+    "尝叹晋郊无乞籴，岂忘吴俗共分忧。",
+    "野悲扬目称嗟食，林极翳桑顾所求。",
+    "苛政尚存犹惕息，老人偷拜拥前舟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1d5b8782-3afa-4a8b-8f97-acea92118d4e"
+}

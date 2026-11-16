@@ -1,0 +1,16 @@
+{
+  "id": "poem-31619c9d8eaba86f50dcfd2d",
+  "title": "菩萨蛮 其十",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "宝函钿雀金㶉𫛶，沉香阁上吴山碧。",
+    "杨柳又如丝，驿桥春雨时。",
+    "画楼音信断，芳草江南岸。",
+    "鸾镜与花枝，此情谁得知。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-9",
+  "tags": []
+}

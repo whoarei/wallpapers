@@ -1,0 +1,20 @@
+{
+  "id": "poem-f2a7fe68e1721d8baa788b29",
+  "title": "忆秦娥·湖光碧",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "湖光碧。",
+    "春花秋月无今昔。",
+    "无今昔。",
+    "十年往事，尽成陈迹。",
+    "玉箫声断云屏隔。",
+    "山遥水远长相忆。",
+    "长相忆。",
+    "一生怀抱，为君牵役。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-987",
+  "tags": []
+}

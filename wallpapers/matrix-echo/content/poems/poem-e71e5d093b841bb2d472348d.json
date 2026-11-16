@@ -1,0 +1,16 @@
+{
+  "id": "poem-e71e5d093b841bb2d472348d",
+  "title": "登天都峰",
+  "author": "缪岛云",
+  "dynasty": "唐",
+  "verses": [
+    "盘空千万仞，险若上丹梯。",
+    "迥入天都里，回看鸟道低。",
+    "他山青点点，远水白凄凄。",
+    "欲下前峰暝，岩间宿锦鸡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-02fc2f92-eb29-46cd-be7b-f57d14ab1fa1"
+}

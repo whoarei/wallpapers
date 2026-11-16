@@ -1,0 +1,16 @@
+{
+  "id": "poem-69fc4174aa44890329c1b4d8",
+  "title": "出山覩春牓",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "未老鬓毛焦，心归向石桥。",
+    "指霞辞二纪，吟雪遇三朝。",
+    "连席频登相，分廊尚祝尧。",
+    "回眸旧行侣，免使负嵩樵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-faadd68b-ac78-4c56-a848-b81d2ef186e4"
+}

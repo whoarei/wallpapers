@@ -1,0 +1,13 @@
+{
+  "id": "poem-4c44e0e9385a7f83355b58ee",
+  "title": "遗诗 一",
+  "author": "卢道者",
+  "dynasty": "唐",
+  "verses": [
+    "三十年前卖卜，化得一间茅屋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-72df84c1-042d-480f-9c3b-3893217d0ae1"
+}

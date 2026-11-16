@@ -1,0 +1,14 @@
+{
+  "id": "poem-41c8f4af5ad023a7cf98077e",
+  "title": "江行无题一百首 八十四",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "数亩苍苔石，烟蒙鹤卵洲。",
+    "定因词客遇，名字始风流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-b51b6f9a-b058-4c34-896e-09f1f4ba286a"
+}

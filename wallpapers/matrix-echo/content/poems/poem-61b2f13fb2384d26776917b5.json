@@ -1,0 +1,20 @@
+{
+  "id": "poem-61b2f13fb2384d26776917b5",
+  "title": "破船",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "平生江海心，宿昔具扁舟。",
+    "岂惟青溪上，日傍柴门游。",
+    "苍皇避乱兵，缅邈怀旧丘。",
+    "邻人亦已非，野竹独修修。",
+    "船舷不重扣，埋没已经秋。",
+    "仰看西飞翼，下媿东逝流。",
+    "故者或可掘，新者亦易求。",
+    "所悲数奔窜，白屋难久留。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-fbecdcf9-c56b-42c0-bac4-7b05f9864f2a"
+}

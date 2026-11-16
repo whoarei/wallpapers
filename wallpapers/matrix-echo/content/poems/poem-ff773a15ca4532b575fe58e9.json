@@ -1,0 +1,15 @@
+{
+  "id": "poem-ff773a15ca4532b575fe58e9",
+  "title": "菊花新",
+  "author": "无名氏《宦门子弟错立身》",
+  "dynasty": "元",
+  "verses": [
+    "路岐岐路两悠悠，不到天涯未肯休。",
+    "这的是子弟下场头。",
+    "(旦上)挑行李怎禁生受。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-329",
+  "tags": []
+}

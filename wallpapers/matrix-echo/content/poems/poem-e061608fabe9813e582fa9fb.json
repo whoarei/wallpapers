@@ -1,0 +1,21 @@
+{
+  "id": "poem-e061608fabe9813e582fa9fb",
+  "title": "溪居",
+  "author": "柳宗元",
+  "dynasty": "唐",
+  "verses": [
+    "久为簪组累，幸此南夷谪。",
+    "闲依农圃邻，偶似山林客。",
+    "晓耕翻露草，夜榜响溪石。",
+    "来往不逢人，长歌楚天碧。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "孤独",
+    "五言古诗",
+    "生活"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-469dec8b-ba5e-4faf-b52f-2ad203e38d81"
+}

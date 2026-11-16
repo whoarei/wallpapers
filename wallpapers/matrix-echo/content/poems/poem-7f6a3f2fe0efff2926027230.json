@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f6a3f2fe0efff2926027230",
+  "title": "别麻氏",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "晓哭呱呱动四隣，于君我作负心人。",
+    "出门便涉东西路，回首初惊枕席尘。",
+    "满眼泪珠和语咽，旧窗风月更谁亲。",
+    "分离况值花时节，从此东风不似春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-d96ab8f4-d899-42fc-a251-261b08c09eea"
+}

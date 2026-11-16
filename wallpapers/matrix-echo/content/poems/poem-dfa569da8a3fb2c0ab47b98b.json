@@ -1,0 +1,16 @@
+{
+  "id": "poem-dfa569da8a3fb2c0ab47b98b",
+  "title": "干戈",
+  "author": "王中",
+  "dynasty": "宋",
+  "verses": [
+    "干戈未定欲何之，一事无成两鬓丝。",
+    "踪迹大纲王粲传，情怀小样杜陵诗。",
+    "鹡鸰音断人千里，乌鹊巢寒月一枝。",
+    "安得中山千日酒，酩然直到太平时。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-干戈"
+}

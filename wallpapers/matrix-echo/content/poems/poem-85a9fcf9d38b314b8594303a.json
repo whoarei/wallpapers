@@ -1,0 +1,17 @@
+{
+  "id": "poem-85a9fcf9d38b314b8594303a",
+  "title": "朝中措·郎官湖上探春回",
+  "author": "李祁",
+  "dynasty": "宋",
+  "verses": [
+    "郎官湖上探春回。",
+    "初见照江梅。",
+    "过尽竹溪流水，无人知道花开。",
+    "佳人何处，江南梦远，殊未归来。",
+    "唤取小丛教看，隔江烟雨楼台。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-604",
+  "tags": []
+}

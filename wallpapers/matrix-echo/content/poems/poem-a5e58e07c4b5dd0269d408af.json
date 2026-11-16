@@ -1,0 +1,16 @@
+{
+  "id": "poem-a5e58e07c4b5dd0269d408af",
+  "title": "独游二首 二",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "临水兴不尽，虚舟可同嬉。",
+    "还云与归鸟，若共山僧期。",
+    "世事吾不预，此心谁得知。",
+    "西峰有禅老，应见独游时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-16ea8a69-f21b-42cc-ac32-f59752a88248"
+}

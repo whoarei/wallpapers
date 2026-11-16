@@ -1,0 +1,17 @@
+{
+  "id": "poem-1c772b84d5bab695fde21af3",
+  "title": "望远行·欲别无言倚画屏",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "欲别无言倚画屏，含恨暗伤情。",
+    "谢家庭树锦鸡鸣，残月落边城。",
+    "人欲别，马频嘶，绿槐千里长堤。",
+    "出门芳草路萋萋，云雨别来易东西。",
+    "不忍别君后，却入旧香闺。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-49"
+}

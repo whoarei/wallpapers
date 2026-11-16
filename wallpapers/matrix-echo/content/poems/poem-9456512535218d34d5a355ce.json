@@ -1,0 +1,16 @@
+{
+  "id": "poem-9456512535218d34d5a355ce",
+  "title": "春闺",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "铁马三军去，金闺二月还。",
+    "边愁离上国，春梦失阳关。",
+    "池水琉璃净，园花玳瑁斑。",
+    "岁华空自掷，忧思不胜颜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-fd19c09d-4d11-4209-870a-0fc03e73e647"
+}

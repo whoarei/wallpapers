@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b63",
+  "script": "seal",
+  "character": "季",
+  "reading": "jì",
+  "description": "jì：(1)兄弟排行次序最小的～弟（小弟）。～父（小叔叔）。\n(2)末了～世。～春（春季末一月）。明～（明代末年）。～军（体育运动竞赛的第三名）。\n(3)一年的四分之一一年分春夏秋冬四～。～度。～风。\n(4)一段时间～节。～候。～相（xiàng）（某个地区在某个季节的自然景象）。雨～。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-季"
+}

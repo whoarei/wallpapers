@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e67f9a0483812007c284ca7",
+  "title": "暖斋诗",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "至足无求触处同，小斋和气日冲融。",
+    "几筵已得啸歌地，赤白何须绘画工。",
+    "况有午簷容爱日，曾无北户召寒风。",
+    "清心迥出尘埃外，讵见高堂数仞崇。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-2b04f569-e547-4b68-91b7-231e89dd77c3"
+}

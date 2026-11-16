@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6006",
+  "script": "seal",
+  "character": "怆",
+  "reading": "chuàng",
+  "description": "匆遽,慌乱\n怆然\n怆然泪下\n怆痛\n怆痛不已\n怆 chuàng悲伤。\n【怆然】伤悲的样子～泪下。\n怆chuǎng 1.失意貌。参见\"怆恍\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怆"
+}

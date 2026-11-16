@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7968",
+  "script": "kai",
+  "character": "票",
+  "reading": "piào；piāo",
+  "description": "piào：(1)纸币，通货钞～。～子。～额。\n(2)印的或写的凭证～据。～证。股～。车～。选～。\n(3)非职业演戏～戏。～友。\n(4)量词，相当于批”一～货物。\n(5)被匪绑架做抵押的人绑～儿。撕～儿。\npiāo：古同飘”，随风摆动飞扬。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-票"
+}

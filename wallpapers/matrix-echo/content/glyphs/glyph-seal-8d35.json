@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d35",
+  "script": "seal",
+  "character": "贵",
+  "reading": "guì",
+  "description": "社会地位高\n一曰爵以\n⒈价钱高，跟\"贱\"相对米～。油～。〈引〉珍贵，宝贵最～者，人才也。\n⒉地位高或权势大，也指这类的人或集团显～。权～。达官～族。\n⒊重视，崇尚兵～神速。不～义，而～法。\n⒋敬词～姓？～宾。～公司。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-贵"
+}

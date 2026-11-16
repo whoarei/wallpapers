@@ -1,0 +1,15 @@
+{
+  "id": "poem-e4c9f677da63905ed2cea17a",
+  "title": "东门之枌",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "东门之枌，宛丘之栩。子仲之子，婆娑其下。",
+    "谷旦于差，南方之原。不绩其麻，市也婆娑。",
+    "谷旦于逝，越以鬷迈。视尔如荍，贻我握椒。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-136"
+}

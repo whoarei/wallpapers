@@ -1,0 +1,14 @@
+{
+  "id": "poem-e0aaac3ebd8bd9c5ba8174db",
+  "title": "宫人斜",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "几多红粉委黄泥，野鸟如歌又似啼。",
+    "应有春魂化为燕，年来飞入未央栖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-7d60413e-e371-4d78-81c7-64c671b37a6f"
+}

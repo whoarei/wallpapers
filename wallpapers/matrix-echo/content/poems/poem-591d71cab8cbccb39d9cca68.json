@@ -1,0 +1,16 @@
+{
+  "id": "poem-591d71cab8cbccb39d9cca68",
+  "title": "春过鄱阳湖",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "百虑片帆下，风波极目看。",
+    "吴山兼鸟没，楚色入衣寒。",
+    "过此愁人处，始知行路难。",
+    "夕阳沙岛上，回首一长叹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-da1610bf-679f-49e6-8ab3-2e926f45ccc3"
+}

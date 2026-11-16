@@ -1,0 +1,14 @@
+{
+  "id": "poem-72c29bdabf48f9a9a17997e8",
+  "title": "南歌子·脸上金霞细",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "脸上金霞细，眉间翠钿深。",
+    "倚枕覆鸳衾，隔帘莺百啭，感君心。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-40",
+  "tags": []
+}

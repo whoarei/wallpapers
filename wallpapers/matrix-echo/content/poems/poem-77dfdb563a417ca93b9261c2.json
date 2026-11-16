@@ -1,0 +1,16 @@
+{
+  "id": "poem-77dfdb563a417ca93b9261c2",
+  "title": "赠项斯",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "端坐吟诗忘忍饥，万人中觅似君稀。",
+    "门连野水风长到，驴放秋原夜不归。",
+    "日煖剩收新落叶，天寒更著旧生衣。",
+    "曲江亭上频频见，为爱鸬鹚雨里飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a1adfc21-9991-486e-a47a-457753a32af5"
+}

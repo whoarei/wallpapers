@@ -1,0 +1,14 @@
+{
+  "id": "poem-a43c02f603908da5141d2a9f",
+  "title": "偈",
+  "author": "释闻一",
+  "dynasty": "宋",
+  "verses": [
+    "拈花微笑虚劳力，立雪齐腰枉用功。",
+    "争似老卢无用处，却传衣钵振真风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-669aa86c-c93e-420c-818b-1283a37bb21e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-28dd28a7870f0afd044d0d7f",
+  "title": "春暮思平泉杂咏二十首 月桂",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "何年霜夜月，桂子落寒山。",
+    "翠干生岩下，金英在世间。",
+    "幽崖空自老，清汉未知还。",
+    "惟有凉秋夜，嫦娥来暂攀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-805f3344-6463-490d-9751-736ceb7b0d35"
+}

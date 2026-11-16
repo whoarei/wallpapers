@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-714e",
+  "script": "seal",
+  "character": "煎",
+  "reading": "jiān",
+  "description": "jiān：(1)熬～药。～熬。\n(2)烹饪方法，把食物放在少量的热油里弄熟～鱼。\n(3)量词，指中药煎汁的次数头～。二～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-煎"
+}

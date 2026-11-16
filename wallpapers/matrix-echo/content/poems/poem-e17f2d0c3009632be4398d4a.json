@@ -1,0 +1,16 @@
+{
+  "id": "poem-e17f2d0c3009632be4398d4a",
+  "title": "寄驾部郎中",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "贱子乖慵性，频为省直牵。",
+    "交情每相见，多在相门前。",
+    "君独疏名路，为郎过十年。",
+    "炎风久成别，南望思悠然。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-1778c75b-cfde-497b-ba52-b58368116d42"
+}

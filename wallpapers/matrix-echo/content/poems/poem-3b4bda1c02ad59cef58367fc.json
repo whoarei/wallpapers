@@ -1,0 +1,18 @@
+{
+  "id": "poem-3b4bda1c02ad59cef58367fc",
+  "title": "登越州城",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "越嶂绕层城，登临万象清。",
+    "封圻沧海合，廛市碧湖明。",
+    "晓日渔歌满，芳春櫂唱行。",
+    "山风吹美箭，田雨润香秔。",
+    "代阅英灵尽，人闲吏隐幷。",
+    "赠言王逸少，已见曲池平。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-b595c6c8-9229-474b-8d80-0cc988c8a1f6"
+}

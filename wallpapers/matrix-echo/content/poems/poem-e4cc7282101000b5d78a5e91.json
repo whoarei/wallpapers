@@ -1,0 +1,16 @@
+{
+  "id": "poem-e4cc7282101000b5d78a5e91",
+  "title": "古悠悠行",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "白景归西山，碧华上迢迢。",
+    "今古何处尽，千岁随风飘。",
+    "海沙变成石，鱼沫吹秦桥。",
+    "空光远流浪，铜柱从年消。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-82db064c-c110-44e1-a74f-c0bc0caa831a"
+}

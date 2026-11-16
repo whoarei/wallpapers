@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-94f2",
+  "script": "kai",
+  "character": "铲",
+  "reading": "chǎn",
+  "description": "铲子\n古兵器。形似铲\n削平;铲除\n②用锹或铲摄取或清除～垃圾。\n【铲球】足球运动中倒地抢截球的技术。一般用在对手带球或接球越过自己，来不及用其他方法拦截的情况下。\n⒈削平或撮取东西的工具铁～子。锅～儿。\n⒉使用锹或铲～煤。将土～平。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铲"
+}

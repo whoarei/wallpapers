@@ -1,0 +1,16 @@
+{
+  "id": "poem-4b81fa9275c4c0aa13044689",
+  "title": "赠索处士",
+  "author": "谭用之",
+  "dynasty": "宋",
+  "verses": [
+    "不将桂子种诸天，长得寻君水石边。",
+    "玄豹夜寒和雾隠，骊龙春暖抱珠眠。",
+    "山中宰相陶弘景，洞里真人葛稚川。",
+    "一度相思一惆怅，水寒烟澹落花前。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-02fe3269-0f06-4b1d-826e-1f9f2617bc93"
+}

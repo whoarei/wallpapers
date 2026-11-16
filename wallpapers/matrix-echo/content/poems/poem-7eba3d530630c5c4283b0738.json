@@ -1,0 +1,20 @@
+{
+  "id": "poem-7eba3d530630c5c4283b0738",
+  "title": "浪淘沙·秋杪喜新凉",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "秋杪喜新凉。",
+    "烟淡池塘。",
+    "团团岩桂作风光。",
+    "多少水云萧散意，都付芬芳。",
+    "雨逐漏声长。",
+    "小院回廊。",
+    "枕边清梦几悠扬。",
+    "只恐四檐声未断，洗褪幽香。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-174",
+  "tags": []
+}

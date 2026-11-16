@@ -1,0 +1,20 @@
+{
+  "id": "poem-52d38f50a77d1ed4eeab1bf2",
+  "title": "蝶恋花·北固山前波浪远",
+  "author": "仲殊",
+  "dynasty": "宋",
+  "verses": [
+    "北固山前波浪远。",
+    "铁瓮城头，画角残声短。",
+    "促酒溅金催小宴。",
+    "灯摇蜡焰香风软。",
+    "落日烟霞晴满眼。",
+    "欲仗丹青，巧笔彤牙管。",
+    "解写伊川山色浅。",
+    "谁能画得江天晚。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-888",
+  "tags": []
+}

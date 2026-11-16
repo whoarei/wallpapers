@@ -1,0 +1,16 @@
+{
+  "id": "poem-e10286a2cd8f3a47236815dc",
+  "title": "和元晦赠上封长老",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "上方元自好，一榻有余清。",
+    "祇趁晨钟起，宁闻山鸟声。",
+    "高僧足幽事，野客富诗情。",
+    "试问峰头景，今朝作么生。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-cabf4b9f-8a3b-4400-80ac-f8ea46f1c8e5"
+}

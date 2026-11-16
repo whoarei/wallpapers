@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-60ef",
+  "script": "kai",
+  "character": "惯",
+  "reading": "guàn",
+  "description": "纵容;迁就\n别把孩子给惯坏了\n用同贯”。通;穿\n⒈习以为常的，积久成性的习～。使用～了。这是～例。\n⒉纵容，姑息娇生～养。莫把孩子～坏了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-惯"
+}

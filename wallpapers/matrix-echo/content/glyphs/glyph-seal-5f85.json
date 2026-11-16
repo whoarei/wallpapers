@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f85",
+  "script": "seal",
+  "character": "待",
+  "reading": "dài；dāi",
+  "description": "dài：(1)等，等候～到。～旦。拭目以～。\n(2)以某种态度或行为加之于人或事物对～。招～。～遇。～人接物。\n(3)将，要（古典戏曲小说和现代某些方言的用法）正～出门，有人来了。\ndāi：停留，逗留，迟延你～一会儿再走。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-待"
+}

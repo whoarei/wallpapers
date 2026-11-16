@@ -1,0 +1,20 @@
+{
+  "id": "poem-87e5b34aab6534060013f9cc",
+  "title": "折杨柳",
+  "author": "徐延寿",
+  "dynasty": "唐",
+  "verses": [
+    "大道连国门，东西种杨柳。",
+    "葳蕤君不见，袅娜垂来久。",
+    "缘枝栖暝禽，雄去雌独吟。",
+    "余花怨春尽，微月起秋阴。",
+    "坐望窗中蝶，起攀枝上叶。",
+    "好风吹长条，婀娜何如妾。",
+    "妾见柳园新，高楼四五春。",
+    "莫吹胡塞曲，愁杀陇头人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-3c4b7c86-882b-4525-a284-f3b3812546d4"
+}

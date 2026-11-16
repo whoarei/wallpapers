@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6015",
+  "script": "seal",
+  "character": "怕",
+  "reading": "pà",
+  "description": "pà：(1)恐惧～人。～死ˇ～。惧～。可～。\n(2)或许，表示疑虑或猜想恐～他别有用意。～是。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怕"
+}

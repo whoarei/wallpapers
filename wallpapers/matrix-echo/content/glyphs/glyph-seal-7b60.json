@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7b60",
+  "script": "seal",
+  "character": "筠",
+  "reading": "jūn；yún",
+  "description": "yún：(1)竹子的青皮其在人也，如竹箭之有～也。”\n(2)竹子柴门空闭锁松～”。\njūn：〔～连〕地名，在中国四川省。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-筠"
+}

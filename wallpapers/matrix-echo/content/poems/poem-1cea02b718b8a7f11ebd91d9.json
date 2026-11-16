@@ -1,0 +1,14 @@
+{
+  "id": "poem-1cea02b718b8a7f11ebd91d9",
+  "title": "二七",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "坐见人来起，尊亲尽远迎。",
+    "无论贫与富，一概惣须平。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-50614bd2-a7ca-4f3c-b421-65ad0af0dc63"
+}

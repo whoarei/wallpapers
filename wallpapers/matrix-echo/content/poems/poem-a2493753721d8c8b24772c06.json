@@ -1,0 +1,16 @@
+{
+  "id": "poem-a2493753721d8c8b24772c06",
+  "title": "故观文建安刘公挽诗四首  其四",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "曾是南荆地，他年竹马迎。",
+    "旌旗严骑士，弧矢盛民兵。",
+    "细考规摹旧，还知节制明。",
+    "思公如岘首，同我泪纵横。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-b65dd64b-7d19-40ed-849c-976b49dbcd95"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-98a1",
+  "script": "seal",
+  "character": "颡",
+  "reading": "sǎng",
+  "description": "额头\n喉咙;嗓子\n稽颡”的省称,即叩头、磕头\n颡sǎng额。俗称\"脑门子\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-颡"
+}

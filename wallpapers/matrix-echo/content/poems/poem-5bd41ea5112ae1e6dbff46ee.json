@@ -1,0 +1,16 @@
+{
+  "id": "poem-5bd41ea5112ae1e6dbff46ee",
+  "title": "山居诗  其五六",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "野景陶情皆得意，凡夫举目尽堪愁。",
+    "秦川几度埋番骨，棘路还曾耸玉楼。",
+    "幻体不知波上沫，狂心须认镜中头。",
+    "浮生役役贪荣者，求到真空卒未休。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-43d841c7-7b80-4cf4-b530-05e95ed4b9e0"
+}

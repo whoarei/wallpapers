@@ -1,0 +1,16 @@
+{
+  "id": "poem-b12fc5cf250eccfee60bf7ac",
+  "title": "帝京篇十首 六",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "飞盖去芳园，兰桡游翠渚。",
+    "萍间日彩乱，荷处香风举。",
+    "桂楫满中川，弦歌振长屿。",
+    "岂必汾河曲，方为欢宴所。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-90bcc00c-bcdb-424e-947b-cf108c47416b"
+}

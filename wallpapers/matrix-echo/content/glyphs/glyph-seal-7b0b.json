@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7b0b",
+  "script": "seal",
+  "character": "笋",
+  "reading": "sǔn",
+  "description": "sǔn：(1)竹子初从土里长出的嫩茎、芽，又称竹笋”，可以做菜吃。可食用者主要有毛竹笋”、慈竹笋”、麻竹笋”等。\n(2)竹子的青皮～席（用竹青编成的席子）。\n(3)古同榫”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-笋"
+}

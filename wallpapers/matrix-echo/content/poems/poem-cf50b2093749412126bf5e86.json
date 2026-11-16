@@ -1,0 +1,21 @@
+{
+  "id": "poem-cf50b2093749412126bf5e86",
+  "title": "与诸子登岘山",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "人事有代谢，往来成古今。",
+    "江山留胜迹，我辈复登临。",
+    "水落鱼梁浅，天寒梦泽深。",
+    "羊公碑字在，读罢泪沾襟。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "吊古伤今",
+    "隋・唐・五代",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b71d7c9c-7e92-4797-b2c9-8715dd0c2881"
+}

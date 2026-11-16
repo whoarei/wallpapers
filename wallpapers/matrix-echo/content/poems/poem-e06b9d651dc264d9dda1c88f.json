@@ -1,0 +1,15 @@
+{
+  "id": "poem-e06b9d651dc264d9dda1c88f",
+  "title": "狼草生",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(合)劲风寒四合，暮烟昏惨惨。",
+    "彤云布，晚天变，只愁那长空雪舞絮绵绵。",
+    "去心如箭，旅舍全无，何处安歇停眠？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3020",
+  "tags": []
+}

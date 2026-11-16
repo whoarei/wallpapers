@@ -1,0 +1,15 @@
+{
+  "id": "poem-ac4b7301f1a5699b0c3c98f5",
+  "title": "螽斯",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "螽斯羽，诜诜兮。宜尔子孙，振振兮。",
+    "螽斯羽，薨薨兮。宜尔子孙。绳绳兮。",
+    "螽斯羽，揖揖兮。宜尔子孙，蛰蛰兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-4"
+}

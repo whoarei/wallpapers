@@ -1,0 +1,16 @@
+{
+  "id": "poem-b3445ffc864551a350441655",
+  "title": "自蒲圻临湘趋岳阳道中作十首  其八",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "更欲投书吊汨罗，西风袅袅水增波。",
+    "江分梦泽於菟远，地近芳洲杜若多。",
+    "野鸟终年从萃止，木奴千树正婆娑。",
+    "卜居更作终焉计，华髪萧萧奈老何。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-b0a5b201-41ca-4e81-b99d-28ac69b1c11c"
+}

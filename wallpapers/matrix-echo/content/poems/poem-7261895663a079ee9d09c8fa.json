@@ -1,0 +1,18 @@
+{
+  "id": "poem-7261895663a079ee9d09c8fa",
+  "title": "遣怀",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "落魄江南载酒行，楚腰肠断掌中轻。",
+    "十年一觉扬州梦，赢得青楼薄幸名。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言绝句",
+    "抒怀"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-92ae04dc-89af-45d6-9e31-204a01df801d"
+}

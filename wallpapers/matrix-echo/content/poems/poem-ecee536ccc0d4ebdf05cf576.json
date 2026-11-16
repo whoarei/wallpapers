@@ -1,0 +1,16 @@
+{
+  "id": "poem-ecee536ccc0d4ebdf05cf576",
+  "title": "铜雀妓",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "日斜漳浦望，风起邺台寒。",
+    "玉座平生晚，金尊妓吹阑。",
+    "舞余依帐泣，歌罢向陵看。",
+    "萧索松风暮，愁烟入井阑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7c9f47d1-81e7-4cf0-bd23-0e8f7e76351f"
+}

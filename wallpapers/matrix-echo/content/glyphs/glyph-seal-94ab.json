@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94ab",
+  "script": "seal",
+  "character": "钫",
+  "reading": "fāng",
+  "description": "古代盛酒浆或粮食的容器,青铜制成,方口大腹\n⒈化学元素之一，具有放射性。符号fr。\n⒉〈古〉一种口方腹大的盛酒壶。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钫"
+}

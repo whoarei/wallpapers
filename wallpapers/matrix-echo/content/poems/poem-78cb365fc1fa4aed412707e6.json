@@ -1,0 +1,18 @@
+{
+  "id": "poem-78cb365fc1fa4aed412707e6",
+  "title": "送人自苏州之长沙县官",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "驱马复乘流，何时发虎丘？",
+    "全家上南岳，一尉事诸侯。",
+    "茶煮朝宗水，船停调角州。",
+    "炎方好将息，卑湿旧堪忧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-1d22aca8-9cd4-4177-a871-dc56d930c714"
+}

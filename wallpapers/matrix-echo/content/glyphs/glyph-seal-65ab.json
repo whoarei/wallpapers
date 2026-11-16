@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65ab",
+  "script": "seal",
+  "character": "斫",
+  "reading": "zhuó",
+  "description": "zhuó：大锄；引申为用刀、斧等砍～伐。～丧（sàng）（喻摧残、伤害，特指因沉溺酒色而伤害身体）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-斫"
+}

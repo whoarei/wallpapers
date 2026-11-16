@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6106",
+  "script": "seal",
+  "character": "愆",
+  "reading": "qiān",
+  "description": "qiān：(1)罪过，过失～忒。～尤。罪～。\n(2)耽误～期。～滞。\n(3)过～伏（天气冷暖失调，多指大旱或酷暑，有变化无常的意思）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-愆"
+}

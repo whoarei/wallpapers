@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5df2",
+  "script": "kai",
+  "character": "已",
+  "reading": "yǐ",
+  "description": "yǐ：(1)止，罢了学不可以～。死而后～。\n(2)表示过去～经。事～至此。～往。业～。\n(3)后来，过了一些时间，不多时～忽不见。\n(4)太，过不为～甚。\n(5)古同以”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-已"
+}

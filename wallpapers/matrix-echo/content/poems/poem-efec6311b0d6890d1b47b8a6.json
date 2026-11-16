@@ -1,0 +1,23 @@
+{
+  "id": "poem-efec6311b0d6890d1b47b8a6",
+  "title": "和晋陵陆丞早春游望",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "verses": [
+    "独有宦游人，偏惊物候新。",
+    "云霞出海曙，梅柳渡江春。",
+    "淑气催黄鸟，晴光照绿苹。",
+    "忽闻歌苦调，归思欲沾巾。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "春天",
+    "唐诗三百首",
+    "伤怀",
+    "和诗",
+    "思乡",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b67ddf05-43fb-4859-a1a9-34f95d45aabf"
+}

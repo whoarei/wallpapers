@@ -1,0 +1,21 @@
+{
+  "id": "poem-d89fd4db7ff84fe67e5fc138",
+  "title": "满江红·人倚金铺",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "人倚金铺，颦翠黛、盈盈堕睫。",
+    "话别处、留连无计，语娇声咽。",
+    "十幅云帆风力满，一川烟暝波光阔。",
+    "但回首、极目望高城，弹清血。",
+    "并兰舟，停画楫。",
+    "曾共醉，津亭月。",
+    "销魂处，今夜月圆人缺。",
+    "楚岫云归空怅望，汉皋佩解成轻别。",
+    "最苦是、拍塞满怀愁，无人说。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-942",
+  "tags": []
+}

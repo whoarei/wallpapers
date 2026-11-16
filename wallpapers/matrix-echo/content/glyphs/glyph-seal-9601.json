@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9601",
+  "script": "seal",
+  "character": "阁",
+  "reading": "gé",
+  "description": "门限\n一种架空的小楼房,中国传统建筑物的一种。其特点是通常四周设隔扇或栏杆回廊,供远眺、游憩、藏书和供佛之用\n⒈楼房的一种，一般两层，周围开窗，供游息、藏书等用亭台楼～。文渊～，在故宫。佛香～，在颐和园。\n⒉旧称女子的卧房闺～。\n⒊旧时宫中的政务机关，近代某些国家的最高行政机关内～。组～。～员。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阁"
+}

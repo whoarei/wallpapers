@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-90fd",
+  "script": "kai",
+  "character": "都",
+  "reading": "dōu；dū",
+  "description": "dū：(1)大都市～市。～会。通～大邑。\n(2)一国的最高行政机关所在的地方，京城首～。国～。京～。建～。\n(3)美好雍容闲雅，甚～”。～丽。～雅。\n(4)总～为一集。\n(5)居～卿相之位”。\n(6)古代称头目、首领。\n(7)姓。\n皆；全；\ndōu：(1)全，完全～要。功课学得～不错。\n(2)表示语气的加重一动～不动。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-都"
+}

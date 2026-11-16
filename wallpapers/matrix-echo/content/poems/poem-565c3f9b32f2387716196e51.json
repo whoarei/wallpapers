@@ -1,0 +1,18 @@
+{
+  "id": "poem-565c3f9b32f2387716196e51",
+  "title": "柳梢青·雨后天涯",
+  "author": "张镃",
+  "dynasty": "宋",
+  "verses": [
+    "雨后天涯。",
+    "微云送晚，过尽归鸦。",
+    "何处开尊，海棠亭小，飞燕风斜。",
+    "有人粲玉娇花。",
+    "更翳凤、曾游帝家。",
+    "长远身心，温柔情态，不枉多他。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-338",
+  "tags": []
+}

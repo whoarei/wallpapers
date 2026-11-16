@@ -1,0 +1,15 @@
+{
+  "id": "poem-e10e1bfe6f9387617cdaf1a4",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "不孝的媳妇，恨当初担阁我夫。",
+    "吃人笑谈生何补？我待死呵，又羞见公姑。",
+    "公公，婆婆，我生前未能相奉事，何如事你向黄泉路？只一件，我死呵，家中老父，教谁看顾？(合前)(旦唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5262",
+  "tags": []
+}

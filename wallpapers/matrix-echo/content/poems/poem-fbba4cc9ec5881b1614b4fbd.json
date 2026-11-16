@@ -1,0 +1,14 @@
+{
+  "id": "poem-fbba4cc9ec5881b1614b4fbd",
+  "title": "绛都春引",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(生上)年乖运蹇，枉有冲天气宇。",
+    "最苦堂堂七尺躯，受无限嗟吁，似饿虎岩前睡也，困龙失却明珠。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8792",
+  "tags": []
+}

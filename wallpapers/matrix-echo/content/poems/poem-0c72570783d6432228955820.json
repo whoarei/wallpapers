@@ -1,0 +1,16 @@
+{
+  "id": "poem-0c72570783d6432228955820",
+  "title": "寄所知",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "曾将俎豆为儿戏，争奈干戈阻素心。",
+    "遁去不同秦客逐，病来还作越人吟。",
+    "名流古集典衣买，僻寺奇花贳酒寻。",
+    "从道趣时身计拙，如非所好肯开襟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-0fac2f86-3808-453b-803b-3f5d3e2722f7"
+}

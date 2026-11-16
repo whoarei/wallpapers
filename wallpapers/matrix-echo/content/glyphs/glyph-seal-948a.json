@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-948a",
+  "script": "seal",
+  "character": "钊",
+  "reading": "zhāo",
+  "description": "用勇气、精神或希望鼓舞\n钊zhāo勉励。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钊"
+}

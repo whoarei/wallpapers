@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e16",
+  "script": "seal",
+  "character": "帖",
+  "reading": "tiē；tiè；tiě",
+  "description": "tiè：学习写字时摹仿的样本碑～。字～。画～。\ntiě：(1)便条字～儿。\n(2)邀请客人的纸片～子。请～。\n(3)写着生辰八字的纸片庚～。换～。\n(4)量词，用于配合起来的若干味汤药一～中药。\ntiē：(1)妥适妥～。安～。\n(2)顺从，驯服服～。俯首～耳。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-帖"
+}

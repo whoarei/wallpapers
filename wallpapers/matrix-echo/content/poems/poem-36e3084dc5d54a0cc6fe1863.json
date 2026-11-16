@@ -1,0 +1,16 @@
+{
+  "id": "poem-36e3084dc5d54a0cc6fe1863",
+  "title": "别石泉",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "素沙见底空无色，青石潜流暗有声。",
+    "微渡竹风涵淅沥，细浮松月透轻明。",
+    "桂凝秋露添灵液，茗折香芽泛玉英。",
+    "应是梵宫连洞府，浴池今化醒泉清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1e3d60b9-9a69-4da7-91c3-0e9664914292"
+}

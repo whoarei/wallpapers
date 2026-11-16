@@ -1,0 +1,17 @@
+{
+  "id": "poem-5909d58c585fea433397592e",
+  "title": "送青阳上人游越",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "秋风吹白发，微官自萧索。",
+    "江僧何用叹，溪县饶寂寞。",
+    "楚思物皆清，越山胜非薄。",
+    "时看镜中月，独向衣上落。",
+    "多谢入冥鸿，笑予在笼鹤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-6396f1dc-ee8a-4de1-a0b6-27790160e4ad"
+}

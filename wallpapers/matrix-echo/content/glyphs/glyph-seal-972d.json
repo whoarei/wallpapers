@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-972d",
+  "script": "seal",
+  "character": "霭",
+  "reading": "ǎi",
+  "description": "烟雾;蒸气\n姓氏。\n⒈云气云～。\n⒉气象上指轻雾。\n⒊［霭霭］云密集的样子暮云～～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-霭"
+}

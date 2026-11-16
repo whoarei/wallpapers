@@ -1,0 +1,18 @@
+{
+  "id": "poem-d46881d2fd33834050746887",
+  "title": "颂",
+  "author": "文益",
+  "dynasty": "唐",
+  "verses": [
+    "理极忘情谓，如何有喻齐？",
+    "到头霜夜月，任情（《林间录》作「运」）落前溪。",
+    "菓熟猿兼（《林间录》作「兼猿」）重，山长似路迷。",
+    "举头残照在，元是住居西。",
+    "（《卍续藏经》本《大法眼文益禅师语录》，又见《林间录》卷下。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-b61268d6-57ab-46e3-9c11-dbd050655941"
+}

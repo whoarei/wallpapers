@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c40",
+  "script": "seal",
+  "character": "局",
+  "reading": "jú；jv",
+  "description": "jú：(1)部分～部。～麻（局部麻醉）。\n(2)机关及团体组织分工办事的单位教育～。\n(3)某些商店的名称书～。\n(4)棋盘棋～。\n(5)下棋或其他比赛进行一次下了一～棋。\n(6)着棋的形势，喻事情的形势、情况时～。大～。～面。～势。\n(7)弯曲。\n(8)骗人的圈套骗～。\n(9)畏缩不安，狭隘，不舒展～促。～限。\n(10)人的器量～量（liàng）。器～。～度（dù）。\n(11)某些聚会饭～。饮～。赌～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-局"
+}

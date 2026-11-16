@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-803f",
+  "script": "kai",
+  "character": "耿",
+  "reading": "gěng",
+  "description": "gěng：(1)光明山头孤月～犹在，石上寒波晓更喧”。～～（a.光明，如～～星河”；b.形容忠诚，如忠心～～”；c.心里老想着不能忘，如～～于怀”）。\n(2)有骨气，刚正不阿～介。～直。～节（坚贞的节操）。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-耿"
+}

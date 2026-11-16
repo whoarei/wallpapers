@@ -1,0 +1,21 @@
+{
+  "id": "poem-7c50c49f59e724a3cdc3f534",
+  "title": "古意呈补阙乔知之",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "卢家少妇郁金堂，海燕双栖玳瑁梁。",
+    "九月寒砧催木叶，十年征戍忆辽阳。",
+    "白狼河北音书断，丹凤城南秋夜长。",
+    "谁谓含愁独不见，更教明月照流黄。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "闺怨",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b9521e2b-963e-4d90-acf3-d87c2a135071"
+}

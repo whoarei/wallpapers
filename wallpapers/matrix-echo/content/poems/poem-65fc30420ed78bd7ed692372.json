@@ -1,0 +1,16 @@
+{
+  "id": "poem-65fc30420ed78bd7ed692372",
+  "title": "生查子·正月到盘洲",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "正月到盘洲，解冻东风至。",
+    "便有浴鸥飞，时见潜鳞起。",
+    "高柳送青来，春在长林里。",
+    "绿萼一枝梅，端是花中瑞。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-719",
+  "tags": []
+}

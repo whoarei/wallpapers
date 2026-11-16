@@ -1,0 +1,16 @@
+{
+  "id": "poem-7d9890b8d538cb47c228fc78",
+  "title": "送重钧上人游天台",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "渐看华顶出，幽赏意随生。",
+    "十里行松色，千重过水声。",
+    "海容云正尽，山色雨初晴。",
+    "事事将心证，知君道可成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-0dc1a905-638b-4ee0-b6cf-8b958bc3ea64"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-4935c9f1f229704e68b01ae6",
+  "title": "题吴先生山居",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "先生此幽隐，便可谢人群。",
+    "潭底见秋石，树间飞霁云。",
+    "山居心已惯，俗事耳憎闻。",
+    "念我要多疾，开炉药许分。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-ab5c8c16-35c2-42f5-8726-764b7ddac590"
+}

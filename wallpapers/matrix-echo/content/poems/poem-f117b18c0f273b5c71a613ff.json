@@ -1,0 +1,16 @@
+{
+  "id": "poem-f117b18c0f273b5c71a613ff",
+  "title": "诉衷情·春情满眼脸红绡",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "春情满眼脸红绡，娇妒索人饶。",
+    "星靥小，玉珰摇，几共醉春朝。",
+    "别后忆纤腰，梦魂劳。",
+    "如今风叶又萧萧，恨迢迢。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-8"
+}

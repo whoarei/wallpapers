@@ -1,0 +1,14 @@
+{
+  "id": "poem-0df88eba6d3f2359b1ab336b",
+  "title": "郊庙歌辞 朝日乐章 舒和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "崇牙树羽延调露，旋宫扣律掩承云。",
+    "诞敷懿德昭神武，载集丰功表睿文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6db72031-e135-4ad6-a385-1c7ab06cd6db"
+}

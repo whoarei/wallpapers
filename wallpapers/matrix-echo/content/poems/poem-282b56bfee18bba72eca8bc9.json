@@ -1,0 +1,14 @@
+{
+  "id": "poem-282b56bfee18bba72eca8bc9",
+  "title": "筹笔店江亭",
+  "author": "陆畅",
+  "dynasty": "唐",
+  "verses": [
+    "九折岩边下马行，江亭暂歇听江声。",
+    "白云绿树不关我，枉与樵人乐一生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-6df1bb17-4bab-4729-9a5b-14387ba68788"
+}

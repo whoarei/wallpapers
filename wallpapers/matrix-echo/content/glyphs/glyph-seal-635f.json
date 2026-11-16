@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-635f",
+  "script": "seal",
+  "character": "损",
+  "reading": "sǔn",
+  "description": "损失;丧失\n⒈减少～去。有～。\n⒉伤害～伤。～害。～人利己。满招～，谦受益。\n⒊丧失～失。～兵折将。\n⒋用刻薄的话挖苦人这话太～人了。\n⒌刻薄狠毒又凶又～。手段真～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-损"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-bc15273bd9b26915d9d8d782",
+  "title": "清平乐·凄凄切切",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "凄凄切切，惨澹黄花节。",
+    "梦里砧声浑末歇，那更乱蛩悲咽。",
+    "尘生燕子空楼，抛残弦索床头。",
+    "一样晓风残月，而今触绪添愁。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-70"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-552f",
+  "script": "seal",
+  "character": "唯",
+  "reading": "wéi",
+  "description": "wéi：(1)义同惟”①～物论。～心论。～物史观。～心史观。～理论。～名论。\n(2)答应的声音～～（a.谦卑的应答声；b.鱼相随而行的样子，如其鱼～～”）。～～诺诺。～～否否。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-唯"
+}

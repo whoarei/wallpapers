@@ -1,0 +1,16 @@
+{
+  "id": "poem-ea1070368326b9a0d014c9cf",
+  "title": "永明山居诗（六十九首） 五",
+  "author": "延寿",
+  "dynasty": "唐",
+  "verses": [
+    "心地须教合死灰，藏机泯迹绝梯媒。",
+    "芳兰祇为因香折，良木多从被直摧。",
+    "寒逼花枝红未吐，日融水面绿全开。",
+    "支颐独坐经窗下，一片云闲入户来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-8aaca8ee-a0df-4ff9-9c8a-293252d10e46"
+}

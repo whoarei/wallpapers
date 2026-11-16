@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f13896db2e331d2949930b8",
+  "title": "登开元宫德和楼",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "瑞云深处碧玲珑，得道高人在此中。",
+    "玉树影迷唐旧邸，金钟声绕汉诸宫。",
+    "夜看西北天星近，晓对东南海日红。",
+    "咫尺便分仙俗路，吴山斜出锦屏风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-45e1a2ac-4cac-4558-9186-d2adc8302200"
+}

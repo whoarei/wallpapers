@@ -1,0 +1,18 @@
+{
+  "id": "poem-86a3717d3c7d6ed9be978a87",
+  "title": "临江仙·绿蚁浮觞香泛泛",
+  "author": "张纲",
+  "dynasty": "宋",
+  "verses": [
+    "绿蚁浮觞香泛泛，黄花共荐芳辰。",
+    "清霜天宇净无尘。",
+    "登高宜有赋，拈笔戏成文。",
+    "可奈园林摇落尽，悲秋意与谁论。",
+    "眼中相识几番新。",
+    "龙山高会处，落帽定何人。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-645",
+  "tags": []
+}

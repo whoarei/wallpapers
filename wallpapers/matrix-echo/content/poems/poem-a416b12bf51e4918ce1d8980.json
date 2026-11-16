@@ -1,0 +1,14 @@
+{
+  "id": "poem-a416b12bf51e4918ce1d8980",
+  "title": "哭徐删定德襄  其一",
+  "author": "林光朝",
+  "dynasty": "宋",
+  "verses": [
+    "修文巷里莫春前，欲上旗亭问客船。",
+    "忽有短牋无寄处，渔梁却在泪痕边。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-8d51975d-8c84-4061-98f9-868b6cd9bc5e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b26242f5a6a95b6424450af4",
+  "title": "次韵翁士特相招居武夷",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "武夷山色翠崔嵬，应笑梁谿又到来。",
+    "脱网弱鳞初纵逸，伤弓倦翮尚惊猜。",
+    "闲中陶写资诗句，愁里销除赖酒杯。",
+    "谁道川途废光景，无根树子不妨栽。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-b676930a-0dbd-4ac4-8fc1-c51c6da23af9"
+}

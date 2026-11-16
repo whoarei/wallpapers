@@ -1,0 +1,21 @@
+{
+  "id": "poem-abb6fc90a45a389c65b7a29a",
+  "title": "鼓吹曲辞 鼓吹铙歌 河右平",
+  "author": "柳宗元",
+  "dynasty": "唐",
+  "verses": [
+    "河右澶漫，顽为之魁。",
+    "王师如雷震，昆仑以颓。",
+    "上聋下聪，骜不可回。",
+    "助雠抗有德，惟人之灾。",
+    "乃溃乃奋，执缚归厥命。",
+    "万室蒙其仁，一夫则病。",
+    "濡以鸿泽，皇之圣。",
+    "威畏德怀，功以定。",
+    "顺之于理，物咸遂厥性。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e1264668-8b25-4c5a-9260-904b20979589"
+}

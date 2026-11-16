@@ -1,0 +1,14 @@
+{
+  "id": "poem-ee20d8bbad32f88b2333887c",
+  "title": "大环着",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(众)因孩儿出路，因孩儿出路，打猎沙陀，偶见林中白兔跷蹊。",
+    "若非他引见母，怎能够夫妻相会？前生里今日奇，从此团圆永效于飞。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8998",
+  "tags": []
+}

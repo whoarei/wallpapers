@@ -1,0 +1,16 @@
+{
+  "id": "poem-14a303354edb53d88d486a28",
+  "title": "秋日卢龙村舍",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "置却人间事，闲从野老游。",
+    "树声村店晚，草色古城秋。",
+    "独鸟飞天外，闲云度陇头。",
+    "姓名君莫问，山木与虚舟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-7c8f8612-7efe-4476-be81-e4cfacf5eb03"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b599bf980e3281b2bbf74d08",
+  "title": "次韵同经略舍人登七星山",
+  "author": "张维",
+  "dynasty": "宋",
+  "verses": [
+    "列岫凌虚滃翠岚，龙泓澄澈七星涵。",
+    "岩瞻好向西湖看，飞去何妨自岭南。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-4ecea902-af88-4f3a-b073-a6c64ba893b9"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-a45771a63b6a8026c09c18b7",
+  "title": "风流子·茅舍槿篱溪曲",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "茅舍槿篱溪曲，鸡犬自南自北。",
+    "菰叶长，水葓开，门外春波涨绿。",
+    "听织，声促，轧轧鸣梭穿屋。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-25"
+}

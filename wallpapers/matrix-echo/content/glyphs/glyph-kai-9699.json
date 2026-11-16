@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9699",
+  "script": "kai",
+  "character": "隙",
+  "reading": "xì",
+  "description": "xì：(1)裂缝～罅（裂缝）。缝～。～大而墙坏。\n(2)感情上的裂痕～嫌。有～。仇～。\n(3)闲，空～地（空地）。农～。\n(4)机会，空子乘～。\n(5)际，接近北～乌丸、夫馀”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-隙"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-c5a2069b6e4509006963095c",
+  "title": "将仲子",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "将仲子兮，无逾我里，无折我树杞。岂敢爱之？畏我父母。仲可怀也，父母之言亦可畏也。",
+    "将仲子兮，无逾我墙，无折我树桑。岂敢爱之？畏我诸兄。仲可怀也，诸兄之言亦可畏也。",
+    "将仲子兮，无逾我园，无折我树檀。岂敢爱之？畏人之多言。仲可怀也，人之多言亦可畏也。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-75"
+}

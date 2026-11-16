@@ -1,0 +1,15 @@
+{
+  "id": "poem-11c648df52abf6a24307e3ac",
+  "title": "尧民歌",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "露华凉罗袜湿浸浸，唬得我霞脸赤浑身上下颤兢兢。",
+    "(行者做下山科，云)小娘子，见我么？(裴女唱)走了那黑容仪换上这脸黄金，抵多少死却钟期遇知音。",
+    "难尽恁，风流两个心，不似俺鳏寡孤独甚。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4510",
+  "tags": []
+}

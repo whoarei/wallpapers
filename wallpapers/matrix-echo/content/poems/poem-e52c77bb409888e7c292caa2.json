@@ -1,0 +1,16 @@
+{
+  "id": "poem-e52c77bb409888e7c292caa2",
+  "title": "送刘尊师祗诏阙庭三首 二",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "五峰已别隔人间，双阙何年许再还。",
+    "既埽山川收地脉，须留日月驻天颜。",
+    "霞觞共饮身虽在，风驭难陪迹未闲。",
+    "从此枕中唯有梦，梦魂何处访三山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-f43b7380-4f3b-4b8f-ab2d-1fbfecad43b9"
+}

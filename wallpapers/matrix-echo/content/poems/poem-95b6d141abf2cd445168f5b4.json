@@ -1,0 +1,14 @@
+{
+  "id": "poem-95b6d141abf2cd445168f5b4",
+  "title": "题秦系山人丽句亭",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "独将诗教领诸生，但看青山不爱名。",
+    "满院竹声堪愈疾，乱床花片足忘情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-d11823fe-453a-4fe1-a0cd-985a7a328ce9"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-ad7bc9e496a80c2d3c3f7413",
+  "title": "重阳四首 一",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "簷前减燕菊添芳，燕尽庭前菊又荒。",
+    "老大比他年少少，每逢佳节更悲凉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-65e1906b-36f6-4a7b-9bfc-82255323a2a4"
+}

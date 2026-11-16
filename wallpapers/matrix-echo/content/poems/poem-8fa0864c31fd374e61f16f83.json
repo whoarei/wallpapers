@@ -1,0 +1,16 @@
+{
+  "id": "poem-8fa0864c31fd374e61f16f83",
+  "title": "忆过润州",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "昔年从宦干戈地，黄绶青春一鲁儒。",
+    "弓犯控弦招武旅，劒当抽匣问狂夫。",
+    "帛书投笔封鱼腹，玄发冲冠捋虎须。",
+    "谈笑谢金何所媿，不为偷买用兵符。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b2b78bd9-0bf1-447b-afea-4b7f5ad48e71"
+}

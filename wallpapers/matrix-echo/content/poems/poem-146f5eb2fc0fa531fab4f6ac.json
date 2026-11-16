@@ -1,0 +1,16 @@
+{
+  "id": "poem-146f5eb2fc0fa531fab4f6ac",
+  "title": "秋末长兴寺作",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "荒寺古江滨，莓苔地绝尘。",
+    "长廊飞乱叶，寒雨更无人。",
+    "栗不和皱落，僧多到骨贫。",
+    "行行行未得，孤坐更谁亲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-d4ab7baf-95ea-4e7f-8058-f66e84bcef28"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-87f9",
+  "script": "kai",
+  "character": "蟹",
+  "reading": "xiè",
+  "description": "xiè：〔螃～〕节肢动物，水陆两栖。全身有甲壳，足有五对，前双足成钳状，称螯”，横着爬。腹部分节，俗称脐”，雄性脐呈长尖形，雌性脐呈椭圆形。简称蟹”，如河～”，海～”，～黄”，～青”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蟹"
+}

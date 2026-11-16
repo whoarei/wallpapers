@@ -1,0 +1,21 @@
+{
+  "id": "poem-f37d597a83ec99374b4a0cb3",
+  "title": "节妇吟寄东平李司空师道",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "君知妾有夫，赠妾双明珠。",
+    "感君缠绵意，系在红罗襦。",
+    "妾家高楼连苑起，良人执戟明光里。",
+    "知君用心如日月，事夫誓拟同生死。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "坚贞",
+    "女子",
+    "乐府",
+    "新乐府辞"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-7f57cb22-3bda-45c2-b5cb-aeaa10a3376d"
+}

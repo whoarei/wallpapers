@@ -1,0 +1,14 @@
+{
+  "id": "poem-bb18ccdef330166411934994",
+  "title": "化城寺",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "匝径茸茸菜甲青，透池艳艳藕花明。",
+    "四方衲子寻幽践，多少空山振锡声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-b206bdbf-d8e5-482b-a690-832d7b273c18"
+}

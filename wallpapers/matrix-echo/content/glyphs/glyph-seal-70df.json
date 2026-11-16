@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-70df",
+  "script": "seal",
+  "character": "烟",
+  "reading": "yān",
+  "description": "yān：(1)物质燃烧时所生的气体冒～。硝～。～囱。～雾。～波。～火。～尘。荒无人～。\n(2)像烟的～霞。～霭。～岚。～鬟。\n(3)烟气刺激使眼睛流泪或睁不开～了眼睛。\n(4)一年生草本植物～草。～叶。\n(5)烟草制成品香～。卷～。纸～。～蒂。\n(6)指鸦片”大～。～灯。～枪。～馆。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-烟"
+}

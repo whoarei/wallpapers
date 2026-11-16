@@ -1,0 +1,16 @@
+{
+  "id": "poem-46da060c5c5456763489dff2",
+  "title": "送友人卢处士游吴越",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "羡君东去见残梅，惟有王孙独未回。",
+    "吴苑夕阳明古堞，越宫春草上高台。",
+    "波生野水雁初下，风满驿楼潮欲来。",
+    "试问渔舟看雪浪，几多江燕荇花开。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-30a2dd04-afb6-4cf4-97f2-8ddd300ebaef"
+}

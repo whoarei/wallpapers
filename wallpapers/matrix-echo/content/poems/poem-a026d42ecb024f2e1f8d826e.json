@@ -1,0 +1,16 @@
+{
+  "id": "poem-a026d42ecb024f2e1f8d826e",
+  "title": "哭栖白供奉",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "闻说孤窗坐化时，白莎萝雨滴空池。",
+    "吟诗堂里秋关影，礼佛灯前夜照碑。",
+    "贺雪已成金殿梦，看涛终负石桥期。",
+    "逢山对月还惆怅，争得无言似祖师。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-1eeb7ca0-1fc0-4dfa-94ca-f496d5f3eab6"
+}

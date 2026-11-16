@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-996d",
+  "script": "kai",
+  "character": "饭",
+  "reading": "fàn",
+  "description": "给人喂饭或喂牲口\n含。古代将米贝珠玉之类放\n⒈熟的谷物食品，多指大米饭这～好吃。这～好香哟！\n⒉进食，定时吃的食品能～否？开～了。吃晚～了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-饭"
+}

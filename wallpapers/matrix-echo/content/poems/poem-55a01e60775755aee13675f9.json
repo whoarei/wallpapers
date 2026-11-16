@@ -1,0 +1,16 @@
+{
+  "id": "poem-55a01e60775755aee13675f9",
+  "title": "江上喜逢司空文明",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "秦人江上见，握手泪沾巾。",
+    "落日见秋草，暮年逢故人。",
+    "非夫长作客，多病浅谋身。",
+    "台阁旧亲友，谁曾见苦辛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-dde43147-3d4b-4c3b-b9f8-5e45db51e046"
+}

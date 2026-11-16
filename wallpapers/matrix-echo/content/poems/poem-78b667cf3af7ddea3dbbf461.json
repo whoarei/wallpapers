@@ -1,0 +1,16 @@
+{
+  "id": "poem-78b667cf3af7ddea3dbbf461",
+  "title": "锦堂月",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［旦］华发斑斑，韶光荏苒，双亲幸喜平安。",
+    "庆此良辰，人人对景欢颜。",
+    "画堂中宝篆香销，玉盏内流霞光泛。",
+    "［合］齐祝赞，愿福如东海，寿比南山。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8030",
+  "tags": []
+}

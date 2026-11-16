@@ -1,0 +1,16 @@
+{
+  "id": "poem-463992b8439e5ded28063cf4",
+  "title": "寄灵一上人初归云门寺",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "寒山白云里，法侣自招携。",
+    "竹径通城下，松门隔水西。",
+    "方同沃洲去，不作武陵迷。",
+    "髣髴遥看处，秋风是会稽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-35bfb080-c773-4bbe-9fe9-b4f1b30d6e4e"
+}

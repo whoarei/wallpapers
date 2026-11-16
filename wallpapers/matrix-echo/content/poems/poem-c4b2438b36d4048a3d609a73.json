@@ -1,0 +1,14 @@
+{
+  "id": "poem-c4b2438b36d4048a3d609a73",
+  "title": "忆扬州",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "萧娘脸下难胜泪，桃叶眉头易得愁。",
+    "天下三分明月夜，二分无赖是扬州。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-2b7a8989-7aa2-4665-901e-6b979e4bbb2e"
+}

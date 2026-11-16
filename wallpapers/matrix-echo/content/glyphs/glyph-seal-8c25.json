@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c25",
+  "script": "seal",
+  "character": "谥",
+  "reading": "shì",
+  "description": "弟子加谥号的称\"私谥\"，如陶渊明私谥\"靖节\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谥"
+}

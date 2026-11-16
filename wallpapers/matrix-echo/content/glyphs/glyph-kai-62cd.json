@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62cd",
+  "script": "kai",
+  "character": "拍",
+  "reading": "pāi",
+  "description": "pāi：(1)用手掌打～击。～掌。～抚。～案叫绝。\n(2)浪涛冲击～岸。\n(3)拍打东西的用具～子（亦是计算乐音长短的单位）。\n(4)乐曲的节奏～节。\n(5)摄影～摄。～照。～片子。\n(6)发出～发。～电报。\n(7)阿谀，巴结～马屁。吹吹～～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拍"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-e32bea91d53fe9528cc7dd84",
+  "title": "送三传赴长城尉",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "登科精鲁史，为尉及良时。",
+    "高论穷诸国，长才并几司。",
+    "地倾流水疾，山叠过云迟。",
+    "暇日琴书畔，何人对手棋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3fc457c1-ca13-4a0a-9e61-0154efdb3434"
+}

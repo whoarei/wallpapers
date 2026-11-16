@@ -1,0 +1,18 @@
+{
+  "id": "poem-74f6b7d2d7f7503a871027ff",
+  "title": "富贵曲二首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "如神若仙，似兰同雪。",
+    "乐戒于极，胡不知辍。",
+    "只欲更缀上落花，恨不能把住明月。",
+    "太山肉尽，东海酒竭。",
+    "佳人醉唱，敲玉钗折。",
+    "宁知耘田车水翁，日日日灸背欲裂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-94a77918-76c6-44f6-8e8e-58fb7dd978d5"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-608c",
+  "script": "seal",
+  "character": "悌",
+  "reading": "tì",
+  "description": "tì：敬爱哥哥，引申为顺从长（zhǎng）上孝～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-悌"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-2e5957219c44bd4f41a7da3e",
+  "title": "五韵美",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "休戈甲，罢征戍，区宇宣王化，惠及生灵。",
+    "恩沾遐迩。",
+    "如今日之际，海之涯，普天之下，再生重见太平，欢声四洽。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2995",
+  "tags": []
+}

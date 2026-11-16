@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9f0b",
+  "script": "seal",
+  "character": "鼋",
+  "reading": "yuán",
+  "description": "动物名,亦称绿团鱼”,俗称癞头鼋”\n鼋鱼,元鱼\n鼋yuán 1.大鳖。俗称癞头鼋。 2.通\"蛍\"。蜥蜴。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鼋"
+}

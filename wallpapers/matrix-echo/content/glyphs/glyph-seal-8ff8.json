@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8ff8",
+  "script": "seal",
+  "character": "迸",
+  "reading": "bèng",
+  "description": "bèng：爆开，溅射～跳。～发。～溅。～裂。～射。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-迸"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6a8c1e3e084dd53b577b1888",
+  "title": "江行无题一百首 二十九",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "行到楚江岸，苍茫人正迷。",
+    "秪如秦塞远，格磔鹧鸪啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-99b162d3-33b4-41d0-9f0f-3a555bf5b8e4"
+}

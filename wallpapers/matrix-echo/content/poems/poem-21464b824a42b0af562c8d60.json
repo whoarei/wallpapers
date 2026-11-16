@@ -1,0 +1,14 @@
+{
+  "id": "poem-21464b824a42b0af562c8d60",
+  "title": "溪上遇雨二首 一",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "回塘雨脚如缲丝，野禽不起沈鱼飞。",
+    "耕蓑钓笠取未暇，秋田有望从淋漓。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-f585e4de-95f0-45f7-a34e-7c4221b6d3d4"
+}

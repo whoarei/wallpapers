@@ -1,0 +1,14 @@
+{
+  "id": "poem-8150bca41120091101b2e8cc",
+  "title": "夏日东斋",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "三庚到秋伏，偶来松槛立。",
+    "热少清风多，开门放山入。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2d614385-94d5-4f15-b763-f186f2c39b8f"
+}

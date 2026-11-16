@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f5d",
+  "script": "seal",
+  "character": "彝",
+  "reading": "yí",
+  "description": "yí：(1)古代盛酒的器具，亦泛指古代宗庙常用的祭器～器。～鼎。～尊。\n(2)常理，法理～训（指长辈对后辈的日常训诲）。～伦。～常。～章。\n(3)中国少数民族，主要分布于四川省、云南省和贵川省～族。～人。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-彝"
+}

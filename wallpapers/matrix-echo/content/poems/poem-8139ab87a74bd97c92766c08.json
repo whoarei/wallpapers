@@ -1,0 +1,14 @@
+{
+  "id": "poem-8139ab87a74bd97c92766c08",
+  "title": "茉莉花二首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "风露扶疏蔓翠藤，玉花剪刻见层层。",
+    "清香夜久偏闻处，寂寞书生对一灯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-e9927371-3349-498a-b8f2-9a9f02ab9226"
+}

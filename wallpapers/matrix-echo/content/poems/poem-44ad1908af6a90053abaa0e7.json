@@ -1,0 +1,16 @@
+{
+  "id": "poem-44ad1908af6a90053abaa0e7",
+  "title": "酒泉子·掩却菱花",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "掩却菱花，收拾翠钿休上面。",
+    "金虫玉燕锁香奁，恨厌厌。",
+    "云鬟半坠懒重簪，泪侵山枕湿。",
+    "恨灯背帐梦方酣，雁飞南。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-12"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e09",
+  "script": "kai",
+  "character": "三",
+  "reading": "sān",
+  "description": "sān：(1)数名，二加一（在钞票和单据上常用大写叁”代）～维空间。～部曲。～国（中国朝代名）。\n(2)表示多次或多数～思而行。～缄其口。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-三"
+}

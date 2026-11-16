@@ -1,0 +1,16 @@
+{
+  "id": "poem-c89a9c25eb91e98ff503821d",
+  "title": "秋日江居闲咏",
+  "author": "卿云",
+  "dynasty": "唐",
+  "verses": [
+    "寄居江岛边，闲咏见秋残。",
+    "草白牛羊瘦，风高猨鸟寒。",
+    "检方医故疾，挑荠备中餐。",
+    "时复停书卷，鉏莎种木兰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-2b492836-6c41-44e0-bdcd-4688fd62e9f1"
+}

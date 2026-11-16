@@ -1,0 +1,16 @@
+{
+  "id": "poem-1f294dc26d3b2e991e50f695",
+  "title": "贺知章官至秘书监镜湖山水上疏明皇放归乡土仍赐镜湖山河五百里曹松题镜湖诗曰",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "小因良匠写清光，照见越州年岁长。",
+    "裹许云山更孤峭，一时宣赐贺知章。",
+    "（见《永乐大典》卷二二六七「六模」「湖」字「镜湖」条〖二函二十册〗。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-71c12197-8a1f-4454-99ad-0f37ee5965ae"
+}

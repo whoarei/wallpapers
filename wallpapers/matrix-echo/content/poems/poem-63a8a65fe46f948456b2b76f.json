@@ -1,0 +1,19 @@
+{
+  "id": "poem-63a8a65fe46f948456b2b76f",
+  "title": "集灵台二首 一",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "日光斜照集灵台，红树花迎晓露开。",
+    "昨夜上皇新授箓，太真含笑入帘来。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写人",
+    "七言绝句",
+    "讽刺"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-19867a30-1b67-4123-b367-44565bab6516"
+}

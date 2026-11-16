@@ -1,0 +1,14 @@
+{
+  "id": "poem-b547e6c48cbc1dec9fd5caea",
+  "title": "回施先辈见寄新诗二首 一",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "九幽仙子西山卷，读了绦绳系又开。",
+    "此卷玉清宫里少，曾寻真诰读诗来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4ef4711a-4f03-4edb-abbd-0ce9534db931"
+}

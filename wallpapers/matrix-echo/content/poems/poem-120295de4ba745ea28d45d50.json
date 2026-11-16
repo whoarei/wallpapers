@@ -1,0 +1,21 @@
+{
+  "id": "poem-120295de4ba745ea28d45d50",
+  "title": "书边事",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "调角断清秋，征人倚戍楼。",
+    "春风对青冢，白日落梁州。",
+    "大汉无兵阻，穷边有客游。",
+    "蕃情似此水，长愿向南流。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "生活",
+    "五言律诗",
+    "边塞"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-8324db66-b75a-40ff-9469-cba276d2f88f"
+}

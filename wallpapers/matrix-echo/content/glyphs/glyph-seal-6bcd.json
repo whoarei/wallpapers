@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6bcd",
+  "script": "seal",
+  "character": "母",
+  "reading": "mǔ",
+  "description": "mǔ：(1)妈妈，娘～亲。～性。～系。慈～。～忧（称母亲去世）。\n(2)对女性长辈的称呼姑～。舅～。\n(3)雌性的，与公”相对～鸡。\n(4)事物据以产生出来的～国。～校。～音（元音）。\n(5)一套东西中间可以包含其他部分的螺丝～。子～扣。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-母"
+}

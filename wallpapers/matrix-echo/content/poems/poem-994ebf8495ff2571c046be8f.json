@@ -1,0 +1,14 @@
+{
+  "id": "poem-994ebf8495ff2571c046be8f",
+  "title": "长门怨",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "御泉长绕凤皇楼，自是恩波别处流。",
+    "闲揲舞衣归未得，夜来砧杵六宫秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-f3e2ecc5-b67a-4498-ab42-781a23bb2c27"
+}

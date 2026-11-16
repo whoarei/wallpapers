@@ -1,0 +1,14 @@
+{
+  "id": "poem-1d93493f368177bc91787441",
+  "title": "寄题云门寺梵月无侧房",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "越山千万云门绝，西僧貌古还名月。",
+    "清朝扫石行道归，林下眠禅看松雪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-bc174219-f611-4024-8870-625b9f426ea5"
+}

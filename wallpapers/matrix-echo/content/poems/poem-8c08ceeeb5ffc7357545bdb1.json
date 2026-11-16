@@ -1,0 +1,16 @@
+{
+  "id": "poem-8c08ceeeb5ffc7357545bdb1",
+  "title": "早春归山中旧居",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "茫茫驱匹马，归处是荒榛。",
+    "猨迹破庭雪，鼠踪生甑尘。",
+    "开门冲网断，扫叶放苔匀。",
+    "为惜诗情错，应难致此身。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-fd8b60f4-8ffd-4a3b-b96a-4ea00f11f422"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-9e570d124a9ede4cc9e16a7e",
+  "title": "题玄哲禅师影堂",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "吾师视化身，一念即遗尘。",
+    "岩谷藏虚塔，江湖散学人。",
+    "云迷禅处石，院掩写来真。",
+    "寂寞焚香后，闲阶细草生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-04e0ba93-51db-4633-8b0e-91127e8be054"
+}

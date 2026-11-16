@@ -1,0 +1,15 @@
+{
+  "id": "poem-380c426cd16c9aa40aea7d67",
+  "title": "风流子·楼倚长衢欲暮",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "楼倚长衢欲暮，簪见神仙伴侣。",
+    "微傅粉，拢梳头，隐映画帘开处。",
+    "无语，无绪，慢曳罗裙归去。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-26"
+}

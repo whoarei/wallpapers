@@ -1,0 +1,16 @@
+{
+  "id": "poem-1a7c32aefaa6815cc1db2334",
+  "title": "偈颂（幷序○序为南岳齐己撰） 六十八",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "阎浮有大宝，见少得人稀。",
+    "若人将献我，成佛一饷时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-c5bb3046-4d16-42ce-aba7-5e1bdfea549d"
+}

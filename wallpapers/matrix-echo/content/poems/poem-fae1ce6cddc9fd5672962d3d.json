@@ -1,0 +1,16 @@
+{
+  "id": "poem-fae1ce6cddc9fd5672962d3d",
+  "title": "送周畏知二首  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "秋冬仍苦雨，旬浃喜霜晴。",
+    "木末楼台见，江头橘柚明。",
+    "登临方适意，离别已增情。",
+    "后夜相思地，寒梅影正横。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-59a7a4b4-9ab6-49bb-9fce-c92e27a98ac8"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-56f4",
+  "script": "kai",
+  "character": "围",
+  "reading": "wéi",
+  "description": "包围\n⒈环绕，圈拦住～巾。～绕。～墙。～攻。包～。土～子。\n⒉四周四～。周～。外～。\n⒊量词。\n①两臂合抱的圆周长树大十～。\n②两手大拇指和食指合拢的圆周长腰大四～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-围"
+}

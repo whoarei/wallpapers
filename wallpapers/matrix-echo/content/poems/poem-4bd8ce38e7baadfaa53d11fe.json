@@ -1,0 +1,14 @@
+{
+  "id": "poem-4bd8ce38e7baadfaa53d11fe",
+  "title": "盛山十二诗 绣衣石榻",
+  "author": "韦处厚",
+  "dynasty": "唐",
+  "verses": [
+    "巉巉雪中峤，磊磊标方峭。",
+    "勿为枕苍山，还当础清庙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-78a5f66c-fe4e-475d-b9a3-ba41688cbdcf"
+}

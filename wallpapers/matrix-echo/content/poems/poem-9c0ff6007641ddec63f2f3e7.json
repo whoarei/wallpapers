@@ -1,0 +1,14 @@
+{
+  "id": "poem-9c0ff6007641ddec63f2f3e7",
+  "title": "绮霞峰",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "欲识晴岚态度奇，直须待到夕阳时。",
+    "回光倒影山如染，状出余霞散绮诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-3fa87ece-2a6f-4e4d-9ef9-890a90798383"
+}

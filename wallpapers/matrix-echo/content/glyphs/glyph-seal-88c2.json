@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-88c2",
+  "script": "seal",
+  "character": "裂",
+  "reading": "liè；liě",
+  "description": "liè：破开，开了缝（fèng）～开。～纹。～缝。～痕。～变（原子核分裂成几个其他原子核，并放出中子的过程）。～隙。～罅（裂缝）。分～。破～。决～。割～。扯～。\nliě：物体的两部分向两旁分开～着怀。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-裂"
+}

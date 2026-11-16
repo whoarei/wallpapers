@@ -1,0 +1,14 @@
+{
+  "id": "poem-c56336cd4ed2ad9886d775cd",
+  "title": "魏宫词",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "朝日照红妆，拟上铜雀台。",
+    "画眉犹未了，魏帝使人催。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ee46821d-7fb8-4918-9e62-558c884245b6"
+}

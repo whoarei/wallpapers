@@ -1,0 +1,14 @@
+{
+  "id": "poem-42cb062d127b762d013357e5",
+  "title": "柳十首 四",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "只为遮楼又拂桥，被人摧折好枝条。",
+    "假饶张绪如今在，须把风流暗里销。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-dbcd044a-da3b-4c27-9b15-64bb44afe41d"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-f3f53f6ef986f012f58fae8c",
+  "title": "上平江徐侍郎十绝句  其九",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "拥麾仗节往来频，抚字澄清处处新。",
+    "想见兹辰介眉寿，遥应驩动几州人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-fa165949-74c3-4c83-a0a0-e8c0a2bd11e3"
+}

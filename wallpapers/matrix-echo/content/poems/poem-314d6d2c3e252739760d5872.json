@@ -1,0 +1,18 @@
+{
+  "id": "poem-314d6d2c3e252739760d5872",
+  "title": "卜算子·缺月挂疏桐",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "verses": [
+    "缺月挂疏桐，漏断人初静。",
+    "时见幽人独往来，缥缈孤鸿影。",
+    "惊起却回头，有恨无人省。",
+    "拣尽寒枝不肯栖，枫落吴江冷。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-41"
+}

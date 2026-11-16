@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9163",
+  "script": "seal",
+  "character": "酣",
+  "reading": "hān",
+  "description": "hān：(1)酒喝得很畅快～饮。半～。～醉。酒～耳热。\n(2)尽量，痛快～畅。～赏（恣意游赏）。～眠。～然。\n(3)浓，盛～春（春色正浓）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-酣"
+}

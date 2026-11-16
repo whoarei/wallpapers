@@ -1,0 +1,14 @@
+{
+  "id": "poem-c54f06f6852da0c3fc6dc797",
+  "title": "其日雨中闻姚黄开戏成诗二章呈子骏尧夫  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "小雨留春春未归，好花虽有恐行稀。",
+    "劝君披取鱼蓑去，走看姚黄判湿衣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-b0008d07-0833-49af-baf8-f4ddbd926d28"
+}

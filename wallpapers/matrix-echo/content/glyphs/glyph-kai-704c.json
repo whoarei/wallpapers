@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-704c",
+  "script": "kai",
+  "character": "灌",
+  "reading": "guàn",
+  "description": "guàn：(1)浇地～溉。～渠。浇～。\n(2)注入液体～注。～浆。～肠。\n(3)指录音～唱片。\n(4)炼铸。\n(5)丛生，亦指丛生的树木～木。～丛。\n(6)古代祭祀的一种仪式，斟酒浇地降神。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-灌"
+}

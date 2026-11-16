@@ -1,0 +1,14 @@
+{
+  "id": "poem-6684244fd54ba71c9fce6d02",
+  "title": "洋州三十景 横湖",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "三冬修竹色，六月芙蕖风。",
+    "轩窗复起处，尽入菱花中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-f3ca00c9-f54a-4971-adf5-eed79d75c3b3"
+}

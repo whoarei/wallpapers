@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9ca7",
+  "script": "seal",
+  "character": "鲧",
+  "reading": "gǔn",
+  "description": "鱼名。古书上指一种大鱼\n古人名,夏禹的父亲\n⒈〈古〉传说中的一种大鱼。\n⒉〈古〉人名。夏朝，禹的父亲。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲧"
+}

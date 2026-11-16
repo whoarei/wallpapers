@@ -1,0 +1,14 @@
+{
+  "id": "poem-1afdcbcf4192f8e85f745869",
+  "title": "题武陵洞五首 三",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "却恐重来路不通，殷勤回首谢春风。",
+    "白鸡黄犬不将去，且寄桃花深洞中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-75e857c8-8f39-495c-bf82-971bcd6ef3a2"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e51ec495ac4abc3c8fbe89c",
+  "title": "送杨少尹赴凤翔",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "诗名往日动长安，首首人家卷里看。",
+    "西学已行秦博士，南宫新拜汉郎官。",
+    "得钱祗了还书铺，借宅常时事药栏。",
+    "今去岐州生计薄，移居偏近陇头寒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-7670129d-e5f8-483d-9c00-361f0e425faa"
+}

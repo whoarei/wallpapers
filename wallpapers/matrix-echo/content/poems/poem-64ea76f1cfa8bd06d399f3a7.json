@@ -1,0 +1,20 @@
+{
+  "id": "poem-64ea76f1cfa8bd06d399f3a7",
+  "title": "阮郎归·湘南楼上好凭栏",
+  "author": "向",
+  "dynasty": "宋",
+  "verses": [
+    "湘南楼上好凭栏。",
+    "西风吹鼻酸。",
+    "宦游何处不惊湍。",
+    "白鸥盟已寒。",
+    "空饮恨，废追欢。",
+    "沈郎衣带宽。",
+    "故人休放酒杯干。",
+    "而今行路难。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-208",
+  "tags": []
+}

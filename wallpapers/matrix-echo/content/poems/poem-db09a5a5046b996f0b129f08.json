@@ -1,0 +1,20 @@
+{
+  "id": "poem-db09a5a5046b996f0b129f08",
+  "title": "雪",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "迢迢来极塞，连阙谓风吹。",
+    "禅客呵金锡，征人擘冻旗。",
+    "细填虫穴满，重压鹤巢欹。",
+    "有影晴飘野，无声夜落池。",
+    "正繁秦甸暖，渐厚楚宫饥。",
+    "冻挹分泉涩，光凝二阁痴。",
+    "踏遗兰署迹，听起石门思。",
+    "用表丰年瑞，无令埽玉墀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-513d8869-5c70-4ca0-9c0f-ff0a0c3931b1"
+}

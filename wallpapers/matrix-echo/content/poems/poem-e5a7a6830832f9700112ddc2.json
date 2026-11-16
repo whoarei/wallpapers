@@ -1,0 +1,16 @@
+{
+  "id": "poem-e5a7a6830832f9700112ddc2",
+  "title": "十玄谈（幷序） 乡还曲（《大正》本、《偈颂》作「达本」）",
+  "author": "常察",
+  "dynasty": "唐",
+  "verses": [
+    "勿于中路事空王，策杖咸须归（《大正》本、《偈颂》作「还须达」）本乡。",
+    "云水隔时君莫住，雪山深处我非忙（《大正》本、《偈颂》作「忘」）。",
+    "寻思去日颜如玉，嗟叹回来（《偈颂》作「时」）鬓似霜。",
+    "撒手到家人不识，更无一物献尊堂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-5fedcff1-aeb4-4f53-b69f-4c6b668bf159"
+}

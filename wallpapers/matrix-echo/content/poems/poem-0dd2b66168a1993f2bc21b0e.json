@@ -1,0 +1,14 @@
+{
+  "id": "poem-0dd2b66168a1993f2bc21b0e",
+  "title": "江行无题一百首 七十九",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "光阔重湖水，低斜远鴈行。",
+    "未曾无兴咏，多谢沈东阳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-0fa43a5f-9cdd-4b61-83ff-e789b5bde426"
+}

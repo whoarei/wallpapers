@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6bb7",
+  "script": "seal",
+  "character": "殷",
+  "reading": "yīn；yān；yǐn",
+  "description": "yīn：(1)富裕，富足～实。～阜。～富。\n(2)深厚，恳切情意甚～。～切。～勤。\n(3)众，多士与女，～其盈矣”。\n(4)盛，大～祭。\n(5)中国朝代名，商代的后期，由盘庚起称殷”～墟。\n(6)姓。\nyān：黑红色～红。\nyǐn：(1)雷声～其雷，在南山之阳”。\n(2)震动熊咆龙吟～岩泉”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-殷"
+}

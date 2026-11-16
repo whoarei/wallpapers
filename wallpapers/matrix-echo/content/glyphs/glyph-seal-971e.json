@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-971e",
+  "script": "seal",
+  "character": "霞",
+  "reading": "xiá",
+  "description": "xiá：日出或日落时天空云层因受日光斜射而呈现的光彩朝（zhāo）～。晚～。彩～。云～。～帔。～光。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-霞"
+}

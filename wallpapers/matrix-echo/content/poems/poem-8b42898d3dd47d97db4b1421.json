@@ -1,0 +1,20 @@
+{
+  "id": "poem-8b42898d3dd47d97db4b1421",
+  "title": "大隐坊 章仇将军良弃功守贫",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "饮君江海心，讵能辨浅深。",
+    "挹君山岳德，谁能齐嵚岑。",
+    "东海精为月，西岳气凝金。",
+    "进则万景昼，退则群物阴。",
+    "我欲荐此言，天门峻沈沈。",
+    "风飙亦感激，为我飕飗吟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "华山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-b88f75dc-df70-45f9-87c9-11713eed0137"
+}

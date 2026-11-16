@@ -1,0 +1,16 @@
+{
+  "id": "poem-5a66ebb5e12a34e81dcadd39",
+  "title": "和李太保寄刁秘书",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "名位虽卑道自光，讼庭无事俗平康。",
+    "帘间尚觉琴床暖，院静偏闻酒瓮香。",
+    "养性已知无病染，持廉唯恐有名彰。",
+    "主人莫讶暌违远，千仞由来有凤翔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-23b55de9-48fb-4dba-8585-12651bfc2c16"
+}

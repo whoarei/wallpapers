@@ -1,0 +1,18 @@
+{
+  "id": "poem-43dab55063cbbc6049c9c118",
+  "title": "送僧归日本",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "焚香祝海灵，开眼梦中行。",
+    "得达即便是，无生可作轻。",
+    "流黄山火著，碇石索雷鸣。",
+    "想到夷王礼，还为上寺迎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-409fb19a-ee56-4158-88a1-d52bd7f9710f"
+}

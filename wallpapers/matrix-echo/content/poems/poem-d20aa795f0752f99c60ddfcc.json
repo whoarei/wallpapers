@@ -1,0 +1,16 @@
+{
+  "id": "poem-d20aa795f0752f99c60ddfcc",
+  "title": "初晴落景",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "晚霞聊自怡，初晴弥可喜。",
+    "日晃百花色，风动千林翠。",
+    "池鱼跃不同，园鸟声还异。",
+    "寄言博通者，知予物外志。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-847b969b-de24-48b5-9917-29f1e0233c08"
+}

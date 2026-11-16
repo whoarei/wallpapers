@@ -1,0 +1,14 @@
+{
+  "id": "poem-6fdd4f0808c4183a29dfa344",
+  "title": "春晚",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "三月寒食时，日色浓于酒。",
+    "落尽墙头花，莺声隔原柳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-a1951ae4-c079-47e1-90e9-fc5fe1c7c98e"
+}

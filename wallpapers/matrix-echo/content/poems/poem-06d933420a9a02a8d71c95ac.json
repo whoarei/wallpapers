@@ -1,0 +1,17 @@
+{
+  "id": "poem-06d933420a9a02a8d71c95ac",
+  "title": "兵要望江南 医方第二十九（十六首） 十六",
+  "author": "易静",
+  "dynasty": "唐",
+  "verses": [
+    "山瘴气，岚谷用恒山。",
+    "独头大蒜乌梅肉，速将酒煮便能痊，谨记此良言。",
+    "（恒山二两，独头蒜一两，乌梅二十枚，咬咀，用酒二盏，煎至一大盏，分为二服。",
+    "初一服未发时吃，次一服已发时吃。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-18ec9908-c73b-4201-9a70-f20d32701ef6"
+}

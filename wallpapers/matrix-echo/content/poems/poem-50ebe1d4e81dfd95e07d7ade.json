@@ -1,0 +1,15 @@
+{
+  "id": "poem-50ebe1d4e81dfd95e07d7ade",
+  "title": "孝顺歌",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "孙员外，家富足，他们有的是金共玉。",
+    "你一心嫁寒儒，缘何弃撇汝？［旦］容奴禀覆，未必儿夫将奴辜负。",
+    "那一个横死贼徒，忒兀自生嫉妒？［净］这纸书你重看取，明写着赘相府。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8197",
+  "tags": []
+}

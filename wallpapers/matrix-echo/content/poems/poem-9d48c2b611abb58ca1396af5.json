@@ -1,0 +1,16 @@
+{
+  "id": "poem-9d48c2b611abb58ca1396af5",
+  "title": "江西逢僧省文 二",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "高僧不负雪峰期，却伴青霞入翠微。",
+    "百叶岩前霜欲降，九枝松上鹤初归。",
+    "风生碧涧鱼龙跃，威振金楼燕雀飞。",
+    "想得白莲花上月，满山犹带旧光辉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ae603c61-4407-42e2-ac48-531173ad84d2"
+}

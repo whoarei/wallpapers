@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-738e",
+  "script": "seal",
+  "character": "玎",
+  "reading": "dīng",
+  "description": "dīng：〔～玲〕象声词，多形容玉石撞击声。\n〔～当〕象声词，形容金属、磁器等撞击声。亦作丁当”、叮当”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-玎"
+}

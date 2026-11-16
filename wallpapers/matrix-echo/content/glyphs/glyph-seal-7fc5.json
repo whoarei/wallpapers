@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7fc5",
+  "script": "seal",
+  "character": "翅",
+  "reading": "chì",
+  "description": "chì：(1)鸟和昆虫等用来飞行的器官～膀。～翼。插～难飞。\n(2)翘出像翅的东西～果。纱帽～。\n(3)古同啻”，但，只。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-翅"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-698daef6a2062b58dc0f394d",
+  "title": "嘉兴社日",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "消渴天涯寄病身，临邛知我是何人。",
+    "今年社日分余肉，不值陈平又不均。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4cdb17fe-03cc-49ec-8165-88d4fdca1566"
+}

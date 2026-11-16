@@ -1,0 +1,14 @@
+{
+  "id": "poem-d7b2c1ad62a13665aadbce6a",
+  "title": "修史亭三首 三",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "乌纱巾上是青天，检束酬知四十年。",
+    "谁料平生臂鹰手，挑灯自送佛前钱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-9425c4a9-c282-4cca-bf59-6fe67d58ef98"
+}

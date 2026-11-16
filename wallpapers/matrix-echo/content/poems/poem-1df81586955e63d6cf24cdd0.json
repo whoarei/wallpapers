@@ -1,0 +1,14 @@
+{
+  "id": "poem-1df81586955e63d6cf24cdd0",
+  "title": "香柳娘",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "想哥哥那里，你还知么，兄弟在此身亡化？黄泉无旅店，今夜宿谁家？一命掩黄沙。",
+    "我如今挣？，将拄仗按拿，魂飞魄讶。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8676",
+  "tags": []
+}

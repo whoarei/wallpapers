@@ -1,0 +1,18 @@
+{
+  "id": "poem-6d37b40ddf23b003e03cd2bd",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "我只是不还赁钱。",
+    "(净)赶出去桥亭上眠。",
+    "(生)看取同人劝您。",
+    "(末)休要出言恁偏。",
+    "(丑)你弄拳！(净)我弄拳？(生末合)看口休得要斗煎。",
+    "(净)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2598",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62dc",
+  "script": "seal",
+  "character": "拜",
+  "reading": "bài",
+  "description": "bài：(1)表示敬意的礼节～手（古代男子跪拜礼的一种）。～忏。礼～。回～。\n(2)恭敬地～托。～谢。～读。～别。～谒（a.拜见；b.瞻仰陵墓、碑碣）。\n(3)行礼棕～年。～寿。\n(4)用一定的礼节授与某种名义或职位，或结成某种关系～将（jiàng）。～相（xiàng）。～师。～把子。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拜"
+}

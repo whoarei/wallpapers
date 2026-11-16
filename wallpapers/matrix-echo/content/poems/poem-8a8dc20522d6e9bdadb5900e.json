@@ -1,0 +1,21 @@
+{
+  "id": "poem-8a8dc20522d6e9bdadb5900e",
+  "title": "春中田园作",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "屋上春鸠鸣，村边杏花白。",
+    "持斧伐远扬，荷锄觇泉脉。",
+    "归燕识故巢，旧人看新历。",
+    "临觞忽不御，惆怅远行客。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "春天",
+    "田园",
+    "写景",
+    "农事"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-b8781d18-2288-48aa-9217-75487f4f75aa"
+}

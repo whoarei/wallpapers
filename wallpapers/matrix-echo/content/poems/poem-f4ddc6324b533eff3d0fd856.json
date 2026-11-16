@@ -1,0 +1,17 @@
+{
+  "id": "poem-f4ddc6324b533eff3d0fd856",
+  "title": "浣溪沙·雨点春山入翠眉",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "雨点春山入翠眉。",
+    "一ь杨柳作腰肢。",
+    "语音娇软带儿痴。",
+    "犹省当来求识面，隔帘清唱倒琼彝。",
+    "真成相见说当时。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-800",
+  "tags": []
+}

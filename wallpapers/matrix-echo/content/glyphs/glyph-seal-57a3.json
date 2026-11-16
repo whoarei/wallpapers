@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-57a3",
+  "script": "seal",
+  "character": "垣",
+  "reading": "yuán",
+  "description": "yuán：(1)矮墙，墙短～。城～。墙～。\n(2)城省～（省城）。\n(3)官署谏～（谏官官署）。\n(4)星的区域，古代把众星分为上、中、下三垣。\n(5)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-垣"
+}

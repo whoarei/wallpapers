@@ -1,0 +1,14 @@
+{
+  "id": "poem-b645359e54d7376a859a4219",
+  "title": "叶西庐惠冬菊三绝  其一",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "风紧东篱长旧荄，主人杖屦日徘徊。",
+    "后时独立应无恨，少待梅花相伴开。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-bcca5aa7-00eb-4df7-9cfc-d87a76aa4d02"
+}

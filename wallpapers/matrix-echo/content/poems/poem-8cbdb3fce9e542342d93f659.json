@@ -1,0 +1,18 @@
+{
+  "id": "poem-8cbdb3fce9e542342d93f659",
+  "title": "行路难 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "不会当时作天地，刚有多般愚与智。",
+    "到头还用真宰心，何如上下皆清气。",
+    "大道冥冥不知处，那堪顿得羲和辔。",
+    "义不义兮仁不仁，拟学长生更容易。",
+    "负心为罏复为火，缘木求鱼应且止。",
+    "君不见烧金炼石古帝王，鬼火荧荧白杨里。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-eca50797-22fc-4805-8db6-96546f8383eb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ce70c87f9b7e28f32bebd6fc",
+  "title": "谢程帅袁制使  其一",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "昔人道与俱，物外一不假。",
+    "而我同是见，兼取及土苴。",
+    "虚心超万境，诗笔时一把。",
+    "造诣岂二机，此秘知者寡。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-a99ea8fc-3b9c-42d5-aa1a-96a879526d86"
+}

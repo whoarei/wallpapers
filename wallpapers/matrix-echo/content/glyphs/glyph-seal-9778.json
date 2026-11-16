@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9778",
+  "script": "seal",
+  "character": "靸",
+  "reading": "sǎ",
+  "description": "靸sǎ〈方〉\n⒈将鞋后帮踩在脚跟下～着鞋。又指穿拖鞋。\n①草制的一种拖鞋。\n②鞋帮纳得很密，前面有皮梁或皮脸的鞋。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-靸"
+}

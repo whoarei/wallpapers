@@ -1,0 +1,16 @@
+{
+  "id": "poem-6cdcb5e23e6d5f0e1bd0e55b",
+  "title": "游虞山兴福寺",
+  "author": "周才",
+  "dynasty": "宋",
+  "verses": [
+    "兴福相传古道场，杖藜乘兴访支郎。",
+    "案翻梵贝烟消篆，院寂棋声日转廊。",
+    "玉版参师多古意，石梅问讯几时香。",
+    "禅家识得诗风味，清供杯茶熟煮汤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-eab50069-4a17-4184-bf02-c555317c6f3f"
+}

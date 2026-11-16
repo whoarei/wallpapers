@@ -1,0 +1,16 @@
+{
+  "id": "poem-49ccada9fd6c7f7358c11b76",
+  "title": "送王尊师归湖州",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "烟芜满洞青山遶，幢节飘空紫凤飞。",
+    "金阙乍看迎日丽，玉箫遥听隔花微。",
+    "多开石髓供调膳，时御霓裳奉易衣。",
+    "莫学辽东华表上，千年始欲一回归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-a9a12ca0-3896-4787-a112-d9cbc41bac60"
+}

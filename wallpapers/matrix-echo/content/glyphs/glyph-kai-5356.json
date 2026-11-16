@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5356",
+  "script": "kai",
+  "character": "卖",
+  "reading": "mài",
+  "description": "是一字,后以其声异,故从‘出’以别之。”\n⒈用东西换货币，跟\"买\"相反～粮。～棉。～鸡蛋。\n⒉背叛，出卖～国贼。～身投靠。\n⒊尽量使出～力。～劲。\n⒋故意显示自己、表现自己～弄。～乖。倚老～老。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卖"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-22a8396de9e9e54a2010af26",
+  "title": "龙虎山",
+  "author": "江万里",
+  "dynasty": "宋",
+  "verses": [
+    "凿开风月长生地，占却烟霞不老身。",
+    "虚靖当年仙去后，未知丹诀付何人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-6f8c13cb-afb8-4b4e-9dc1-19f8bf50bb56"
+}

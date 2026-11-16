@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53e3",
+  "script": "kai",
+  "character": "口",
+  "reading": "kǒu",
+  "description": "kǒu：(1)人和动物吃东西和发声的器官（亦称嘴”）～腔。～才。～齿。～若悬河。\n(2)容器通外面的地方瓶子～。\n(3)出入通过的地方门～。港～。\n(4)特指中国长城的某些关口（多用作地名）古北～。喜峰～。\n(5)破裂的地方～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-口"
+}

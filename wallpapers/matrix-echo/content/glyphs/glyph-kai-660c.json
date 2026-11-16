@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-660c",
+  "script": "kai",
+  "character": "昌",
+  "reading": "chāng",
+  "description": "chāng：(1)兴盛～盛（shèng）。～乐（lè）（兴盛康乐）。～明（兴盛发达）。～隆。\n(2)善，正当～言（美言，正当的话）。～言无忌（直言无隐）。\n(3)古同菖”，菖蒲。\n(4)古同猖”，凶猛。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昌"
+}

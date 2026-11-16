@@ -1,0 +1,16 @@
+{
+  "id": "poem-248bfcd8e05d53686ec5a706",
+  "title": "田园四时 春 其二",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "细风吹尽桑黄紫，绿暗柔条添旖旎。",
+    "晚来逐伴望林梢，三星便欲当辰巳。",
+    "节过清明未云远，碎发新蚕已盈纸。",
+    "迟日融融暖有余，早晚应须候眠起。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-a3fd9978-0da0-4de7-9881-c65e2da88575"
+}

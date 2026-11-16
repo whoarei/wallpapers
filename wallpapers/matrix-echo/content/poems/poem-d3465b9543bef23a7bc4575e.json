@@ -1,0 +1,16 @@
+{
+  "id": "poem-d3465b9543bef23a7bc4575e",
+  "title": "过百牢关贻舟中者",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "蜀国少平地，方思京洛间。",
+    "远为千里客，来度百牢关。",
+    "帆影清江水，铃声碧草山。",
+    "不因名与利，尔我各应闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-59d82cdd-7383-472a-bf5d-936e788aa9ee"
+}

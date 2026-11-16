@@ -1,0 +1,16 @@
+{
+  "id": "poem-d41387a77a54451421ce5e0b",
+  "title": "送南迁客",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "去去远迁客，瘴中衰病身。",
+    "青山无限路，白首不归人。",
+    "海国战骑象，蛮州市用银。",
+    "一家分几处，谁见日南春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-33fac8f1-e14d-4392-8357-a3f64ad78e09"
+}

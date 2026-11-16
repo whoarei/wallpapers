@@ -1,0 +1,20 @@
+{
+  "id": "poem-d86e1c755d35eaf677096bac",
+  "title": "木兰花・玉楼春·燕鸿过后莺归去",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "燕鸿过后莺归去。",
+    "细算浮生千万绪。",
+    "长于春梦几多时，散似秋云无觅处。",
+    "闻琴解佩神仙侣。",
+    "挽断罗衣留不住。",
+    "劝君莫作独醒人，烂醉花间应有数。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-163"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-29731f4ce1d82665705a6558",
+  "title": "步出夏门行 艳",
+  "author": "曹操",
+  "dynasty": "汉",
+  "verses": [
+    "云行雨步，超越九江之皋。",
+    "临观异同，心意怀犹豫，不知当复何从？",
+    "经过至我碣石，心惆怅我东海。"
+  ],
+  "enabled": true,
+  "collection": "曹操诗集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/曹操诗集/caocao.json#record-21"
+}

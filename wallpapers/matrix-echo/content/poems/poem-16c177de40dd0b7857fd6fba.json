@@ -1,0 +1,16 @@
+{
+  "id": "poem-16c177de40dd0b7857fd6fba",
+  "title": "寄澜公二首 一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "小一头应白，孤高住歙城。",
+    "不知安乐否，何以近无生。",
+    "烧逼鸿行侧，风干雪朕清。",
+    "途中逢此信，珍重未精诚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-64d9609b-53d8-4eef-986a-64c6f645b180"
+}

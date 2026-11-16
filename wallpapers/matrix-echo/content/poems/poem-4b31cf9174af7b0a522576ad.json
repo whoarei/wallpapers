@@ -1,0 +1,16 @@
+{
+  "id": "poem-4b31cf9174af7b0a522576ad",
+  "title": "禅社首乐章",
+  "author": "源乾曜",
+  "dynasty": "唐",
+  "verses": [
+    "灵具醉，杳熙熙。",
+    "灵将往，眇禗禗。",
+    "愿明德，吐正词。",
+    "烂遗光，流祯祺。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-2caf55bd-0b7a-475d-bfb6-d415d09bf010"
+}

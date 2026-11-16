@@ -1,0 +1,16 @@
+{
+  "id": "poem-01553684b560d5bb029cb741",
+  "title": "陪幸长宁公主林亭",
+  "author": "萧至忠",
+  "dynasty": "唐",
+  "verses": [
+    "公主林亭地，清晨降玉舆。",
+    "画桥飞渡水，仙阁逈临虚。",
+    "新晴看蛱蝶，早夏摘芙蕖。",
+    "文酒娱游盛，忻叨侍从余。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d9cc0940-aff6-4989-95d4-b7a780b0dc27"
+}

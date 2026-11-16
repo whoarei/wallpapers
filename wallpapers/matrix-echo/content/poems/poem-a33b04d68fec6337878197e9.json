@@ -1,0 +1,16 @@
+{
+  "id": "poem-a33b04d68fec6337878197e9",
+  "title": "送潍州詹倅五首  其三",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "东风催去旆，南浦伤离情。",
+    "攀辕何纷纷，晓日来倾城。",
+    "中有韦布士，雪涕挥纵横。",
+    "欲识何为者，为言门下生。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-bb5399cb-9eb7-4562-baf3-da9703b1ea42"
+}

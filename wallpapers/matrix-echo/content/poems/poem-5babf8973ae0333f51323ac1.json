@@ -1,0 +1,19 @@
+{
+  "id": "poem-5babf8973ae0333f51323ac1",
+  "title": "清平乐·银河秋浪",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "银河秋浪。",
+    "遥出昆仑上。",
+    "忽变澄澜添碧涨。",
+    "可道升平无象。",
+    "黄云浊雾初开。",
+    "荣光休气徘徊。",
+    "试觅当时五老，金泥玉检将来。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-709",
+  "tags": []
+}

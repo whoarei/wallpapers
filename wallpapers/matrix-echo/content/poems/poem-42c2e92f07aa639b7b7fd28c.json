@@ -1,0 +1,20 @@
+{
+  "id": "poem-42c2e92f07aa639b7b7fd28c",
+  "title": "浪淘沙·乐事信难逢",
+  "author": "李弥逊",
+  "dynasty": "宋",
+  "verses": [
+    "乐事信难逢。",
+    "莫放匆匆。",
+    "飞红撩乱减春容。",
+    "临水不禁频送客，风袖龙锺。",
+    "小阁画堂东。",
+    "绮绣相重。",
+    "尊前谁唱夏云峰。",
+    "醒后欲寻溪上路，烟水无穷。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-31",
+  "tags": []
+}

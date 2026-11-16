@@ -1,0 +1,16 @@
+{
+  "id": "poem-128bdd568986a44eb1065b86",
+  "title": "寄人二首 二",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "澹澹长江水，悠悠远客情。",
+    "落花相与恨，到地一无声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e1c4b0ee-27e3-4a7d-a8c1-c300a80bb39d"
+}

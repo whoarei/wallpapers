@@ -1,0 +1,14 @@
+{
+  "id": "poem-3725caaf36878ce6f2f32322",
+  "title": "寄王赞学",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "黄卷不关兼济业，青山自保老闲身。",
+    "一行万里纤尘静，可要张仪更入秦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-0092ded3-c8f1-48bd-a28e-4d1c40081910"
+}

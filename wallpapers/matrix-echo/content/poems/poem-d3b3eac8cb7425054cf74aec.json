@@ -1,0 +1,14 @@
+{
+  "id": "poem-d3b3eac8cb7425054cf74aec",
+  "title": "闺怨二首 二",
+  "author": "沈如筠",
+  "dynasty": "唐",
+  "verses": [
+    "陇底嗟长别，流襟一动君。",
+    "何言幽咽所，更作死生分。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-eaa74fb2-a2e1-460e-86a0-e00d5b78066b"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-33f245d52c39565d19fefd12",
+  "title": "九日同诸公殊俗之作",
+  "author": "马云奇",
+  "dynasty": "唐",
+  "verses": [
+    "一人歌唱数人啼，拭泪相看意转迷。",
+    "不见书传清（青）海北，只知魂断陇山西。",
+    "登高乍似云霄近，寓目仍惊草树低。",
+    "菊酒何须频劝酌，自然心醉已如泥。",
+    "（太常妻曰一日不斋醉如泥）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-dc2e95ed-3e49-42cc-94dc-aa3f305ae76e"
+}

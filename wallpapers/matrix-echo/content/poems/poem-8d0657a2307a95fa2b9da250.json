@@ -1,0 +1,16 @@
+{
+  "id": "poem-8d0657a2307a95fa2b9da250",
+  "title": "秋夕",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "红烛秋光冷画屏，轻罗小扇扑流萤。",
+    "天阶夜色凉如水，坐看牵牛织女星。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-d12edd29-d467-4b19-b3f5-533fa5c8d56a"
+}

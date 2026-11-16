@@ -1,0 +1,15 @@
+{
+  "id": "poem-c44df0ddf24915d759b42b70",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(小旦)是二更鼓了。",
+    "冬冬二鼓，则叶敲窗纸，响扑簌聒闷耳，难禁这般萧索，这般岑寂。",
+    "骨肉到此，到此你东我西，去又无门，住又无依倚，伤心怎生，怎生街头上睡？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3026",
+  "tags": []
+}

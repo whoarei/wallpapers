@@ -1,0 +1,20 @@
+{
+  "id": "poem-4b963464db918ce54e57cab0",
+  "title": "醉落魄・一斛珠·陶陶兀兀",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "陶陶兀兀。",
+    "人生无累何由得。",
+    "杯中三万六千日。",
+    "闷损旁观，自我解落魄。",
+    "扶头不起还颓玉。",
+    "日高春睡平生足。",
+    "谁门可款新𥬠熟。",
+    "安乐春泉，玉醴荔枝绿。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-709",
+  "tags": []
+}

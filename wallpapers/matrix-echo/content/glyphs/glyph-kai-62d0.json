@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62d0",
+  "script": "kai",
+  "character": "拐",
+  "reading": "guǎi",
+  "description": "guǎi：(1)转折～弯。\n(2)骗～骗。～卖。\n(3)走路不稳，跛他走路一～一～的。\n(4)走路时帮助支持身体的棍～棍。双～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拐"
+}

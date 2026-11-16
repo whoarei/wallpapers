@@ -1,0 +1,18 @@
+{
+  "id": "poem-d2d212a832049db7056699ba",
+  "title": "哭陈陶",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "先生抱衰疾，不起茂陵间。",
+    "夕临诸孤少，荒居吊客还。",
+    "遗文禅东岳，留语葬乡山。",
+    "多雨铭旌故，残灯素帐闲。",
+    "乐章谁与集，陇树即堪攀。",
+    "神理今难问，予将呌帝关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-5feeaa1c-7e0d-4bc7-809c-02a71ce5c376"
+}

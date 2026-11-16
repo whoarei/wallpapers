@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7684",
+  "script": "kai",
+  "character": "的",
+  "reading": "de；dí；dì",
+  "description": "dí：真实，实在～确。～当（dàng）。～情。～真。～证。\ndì：箭靶的中心中（zhòng）～。有～放矢。众矢之～。目～（要达到的目标、境地）。\nde：(1)用在词或词组后表明形容词性美丽～。\n(2)代替所指的人或物唱歌～。\n(3)表示所属的关系的词他～衣服。\n(4)助词，用在句末，表示肯定的语气，常与是”相应这句话是很对～。\n(5)副词尾，同地2”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-的"
+}

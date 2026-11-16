@@ -1,0 +1,15 @@
+{
+  "id": "poem-1a7f5f439437d019939c3123",
+  "title": "归国遥·双脸",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "双脸，小凤战蓖金飐艳。舞衣无力风敛，藕丝秋色染。",
+    "锦帐绣帷斜掩，露珠清晓簟。",
+    "粉心黄蕊花靥，黛眉山两点。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-21",
+  "tags": []
+}

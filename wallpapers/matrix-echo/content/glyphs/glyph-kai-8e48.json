@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8e48",
+  "script": "kai",
+  "character": "蹈",
+  "reading": "dǎo",
+  "description": "dǎo：(1)践踏，踩～袭（走别人走过的老路，沿用前人旧例）。～节（信守节操）。～海（跳到海里自杀）。赴汤～火。循规～矩。\n(2)跳动舞～。手舞足～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蹈"
+}

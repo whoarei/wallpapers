@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6454",
+  "script": "kai",
+  "character": "摔",
+  "reading": "shuāi",
+  "description": "shuāi：(1)用力往下扔把帽子～在床上。～打。\n(2)很快地掉下别～下来。\n(3)因掉下而破坏把碗～碎了。\n(4)跌跤～倒。～跤。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-摔"
+}

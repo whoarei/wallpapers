@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-723b",
+  "script": "seal",
+  "character": "爻",
+  "reading": "yáo",
+  "description": "yáo：组成八卦中每一卦的长短横道～象（a.卦的形象；b.喻形迹、真相）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-爻"
+}

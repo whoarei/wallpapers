@@ -1,0 +1,14 @@
+{
+  "id": "poem-85a50b3ed48dc511963b713d",
+  "title": "自河西归山二首 二",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "水阔风惊去路危，孤舟欲上更迟迟。",
+    "鹤群长扰三珠树，不借人间一只骑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-819bc650-9daf-4dbb-9950-dafd26e7f2f1"
+}

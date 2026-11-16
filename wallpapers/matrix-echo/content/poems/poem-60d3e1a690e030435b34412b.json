@@ -1,0 +1,14 @@
+{
+  "id": "poem-60d3e1a690e030435b34412b",
+  "title": "逢故人之作",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "故人相见汾酒龙钟，总为情怀昔日浓。",
+    "随头尽见新白髪，何曾有个旧颜容！。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-dbdffc1e-d6ae-4d78-8b66-760fb8b0149a"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-a7d534d9c0e8f1483010c581",
+  "title": "荆湖望月",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "浩浩湖之源，迤逦衡山下。",
+    "有月来中天，明珠千斛泻。",
+    "澂澈一尘无，交辉清不夜。",
+    "嗟彼泉下人，逝莫挽逸驾。",
+    "惟有不死心，清光徧华夏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-ef5b31b4-8412-48f0-93ab-8807b2097115"
+}

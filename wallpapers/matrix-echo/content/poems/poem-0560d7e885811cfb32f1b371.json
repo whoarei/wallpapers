@@ -1,0 +1,16 @@
+{
+  "id": "poem-0560d7e885811cfb32f1b371",
+  "title": "和张文裕初寒十首  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "何处初寒好，初寒洛汭宫。",
+    "翠华虽脉脉，佳气自葱葱。",
+    "阙角月华白，苑墙霜叶红。",
+    "都人心望幸，注目不离东。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-55638285-eaf3-4f0a-8dc4-b3862c4a7a28"
+}

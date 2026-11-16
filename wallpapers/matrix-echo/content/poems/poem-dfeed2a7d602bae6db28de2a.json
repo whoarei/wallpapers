@@ -1,0 +1,15 @@
+{
+  "id": "poem-dfeed2a7d602bae6db28de2a",
+  "title": "双劝酒",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［净上］儒冠误身，一言难尽。",
+    "为玉莲贱人，常怀方寸。",
+    "若得他配合秦晋，那其间燕尔新婚。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8164",
+  "tags": []
+}

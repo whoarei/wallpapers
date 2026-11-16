@@ -1,0 +1,15 @@
+{
+  "id": "poem-724c93bcca7731075fa26469",
+  "title": "江南杂题三十首 其二十七",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "卜筑寄云阳，穿池面草堂。",
+    "寻常登峻岭，丈六得奇彊。",
+    "井鲋依颓甃，隣花出败墙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-349eac6a-d40e-4177-b862-4c9701c19648"
+}

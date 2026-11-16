@@ -1,0 +1,16 @@
+{
+  "id": "poem-d669594212f007190e55917e",
+  "title": "寄赤松舒道士二首 一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "不见高人久，空令鄙恡多。",
+    "遥思青嶂下，无那白云何。",
+    "子爱寒山子，歌惟乐道歌。",
+    "会应陪太守，一日到烟萝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-aebf17e6-ad83-4325-84a7-68e85ed85208"
+}

@@ -4,5 +4,7 @@
   "character": "松",
   "reading": "sōng",
   "description": "常绿的针叶树，诗画中常用来象征坚韧。",
-  "enabled": true
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "原有内置文字简注；汉字按常用义说明，彝藏文字按音节或字母名说明。"
 }

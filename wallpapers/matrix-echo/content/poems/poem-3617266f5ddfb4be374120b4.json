@@ -1,0 +1,23 @@
+{
+  "id": "poem-3617266f5ddfb4be374120b4",
+  "title": "早寒江上有怀",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "木落雁南度，北风江上寒。",
+    "我家襄水上，遥隔楚云端。",
+    "乡泪客中尽，孤帆天际看。",
+    "迷津欲有问，平海夕漫漫。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "八年级上册(课外)",
+    "思归",
+    "五言律诗",
+    "初中古诗",
+    "思乡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-8e18183e-5a58-4805-b672-1726969d6526"
+}

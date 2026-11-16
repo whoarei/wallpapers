@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62d8",
+  "script": "kai",
+  "character": "拘",
+  "reading": "jū；gōu；jv",
+  "description": "jū：(1)逮捕或扣押～捕。～系。～留。～拿。～囚。～禁。～押。\n(2)限，限制～束。～谨。不～小节。\n(3)固执，不变通～泥。～礼。～迂。\ngōu：遮蔽凡为长者粪之礼，必加帚于箕上，以袂～而退”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拘"
+}

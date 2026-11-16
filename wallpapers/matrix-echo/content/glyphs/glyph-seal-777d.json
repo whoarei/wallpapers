@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-777d",
+  "script": "seal",
+  "character": "睽",
+  "reading": "kuí",
+  "description": "kuí：(1)不顺，乖离～孤（乖离而独处）。～异（意见不合）。\n(2)孤独。\n(3)同暌”。\n〔～～〕张大眼睛注视的样子，如众目～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-睽"
+}

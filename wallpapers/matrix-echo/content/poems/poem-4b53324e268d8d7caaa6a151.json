@@ -1,0 +1,17 @@
+{
+  "id": "poem-4b53324e268d8d7caaa6a151",
+  "title": "朝中措·冻云著地静无风",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "冻云著地静无风。",
+    "簌蔌坠遥空。",
+    "无限人间险秽，一时为尔包容。",
+    "凭高试望，楼台改观，山径迷踪。",
+    "唯有碧江千里，依然不住流东。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-132",
+  "tags": []
+}

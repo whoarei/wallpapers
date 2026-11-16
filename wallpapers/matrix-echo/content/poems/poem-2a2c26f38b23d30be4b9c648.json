@@ -1,0 +1,19 @@
+{
+  "id": "poem-2a2c26f38b23d30be4b9c648",
+  "title": "南山田中行",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "秋野明，秋风白，塘水漻漻虫啧啧。",
+    "云根苔藓山上石，冷红泣露娇啼色。",
+    "荒畦九月稻叉牙，蛰萤低飞陇迳斜。",
+    "石脉水流泉滴沙，鬼灯如漆点松花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "秋天",
+    "写景"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-1d44c69a-e64a-44d4-9576-9ea3bf805533"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-eac58e9e20ef5d3268f4fc2b",
+  "title": "吴王挽词  其一",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "倏忽千龄尽，冥茫万事空。",
+    "青松洛阳陌，荒草建康宫。",
+    "道德遗文在，兴衰自古同。",
+    "受恩无补报，反袂泣途穷。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-4bc4f213-eb2c-4a89-a77c-39b6f9c04a17"
+}

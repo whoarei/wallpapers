@@ -1,0 +1,15 @@
+{
+  "id": "poem-43d8bc8a6ce649e2eef909a4",
+  "title": "蓟门行五首 四",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "幽州多骑射，结发重横行。",
+    "一朝事将军，出入有声名。",
+    "纷纷猎秋草，相向角弓鸣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-9788cd7e-a89d-4061-8f6e-fcb4d46f8e3a"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1fcadc7c7d93735beca0b44e",
+  "title": "奉和御制夏中垂钓作",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "物茂时平日正长，翠华停驭睠方塘。",
+    "文竿乍拂圆荷动，頳尾时翻素荇香。",
+    "睿赏只应从暇豫，圣恩宁肯间沉翔。",
+    "吞舟自是贪芳饵，犹笑成汤一面张。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-2d5ac908-8d32-4792-af86-aada58fc5470"
+}

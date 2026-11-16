@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bd1",
+  "script": "seal",
+  "character": "译",
+  "reading": "yì",
+  "description": "解释;阐述\n通择”。选择\n周道衰微,失爵亡邦,后嗣乖散,各\n①翻译。把一种语言文字转换成另一种语言文字。\n②指翻译人员。\n③指语言不通的异域。\n④阐述;诠释。\n⑤变易，改变。如\"译形借声\"。\n⑥通\"绎\"。寻绎。\n⑦通\"擇\"。选择。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-译"
+}

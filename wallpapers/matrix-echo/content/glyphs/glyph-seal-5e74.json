@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e74",
+  "script": "seal",
+  "character": "年",
+  "reading": "nián",
+  "description": "nián：(1)地球绕太阳一周的时间一～。三～五载。\n(2)每年的～会。～鉴。～利。～薪。\n(3)一年的开始～节。新～。\n(4)有关年节的（用品）～画。～礼。～货。\n(5)时期，时代近～。～华。～号（ａ．帝王用的纪年名称；ｂ．公元纪年名称）。～限。～深日久。\n(6)收成～成。～景。～谨。荒～。\n(7)岁数～纪。～事（岁数）。～高。～轮。\n(8)人一生所经年岁的分期幼～。童～。青～。壮～。中～。老～。\n(9)科举时代同年考中者的互称～兄。～谊（同年登科的关系）。\n(10)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-年"
+}

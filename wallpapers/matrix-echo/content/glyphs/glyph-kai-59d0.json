@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-59d0",
+  "script": "kai",
+  "character": "姐",
+  "reading": "jiě",
+  "description": "jiě：(1)称同父母（或只同父、只同母）而比自己年纪大的女子～～。～夫。～弟。\n(2)对比自己年纪大的同辈女性的称呼表～。师～。大～（a.对一般年轻妇女的称呼；b.对排行最大的姐姐的称呼）。\n(3)对未婚女子的通称小～（旧时称上层社会未婚女子，现多用于交际场合）。小大～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-姐"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6fd2",
+  "script": "seal",
+  "character": "濒",
+  "reading": "bīn",
+  "description": "靠近;临近\n濒 bīn接近南～长江、～临绝境。\n【濒临】紧接～太平洋、～崩溃。\n【濒危】接近危难。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-濒"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-6eaf23d5175315067d2ec08c",
+  "title": "蒋叔行挽辞  其一",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "万山蟠兮有宅一区，吁嗟吉士兮心古而色愉。",
+    "平生激烈兮谈忠义之事，求师教子兮必有道之儒。",
+    "流德谊兮鼎鼎，浸策足兮功名之途。",
+    "引壶觞兮自适，玩日月之双车。",
+    "有淑兮尔配，丝枲兮劬劬。",
+    "指期颐兮二竖立病，既偕老兮亦相继而长徂。",
+    "望双旌兮有恸，酹一束兮生刍。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-3efda50b-05d4-4440-93b7-3a098b8df407"
+}

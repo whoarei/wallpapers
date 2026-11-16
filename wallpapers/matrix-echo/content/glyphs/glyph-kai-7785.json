@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7785",
+  "script": "kai",
+  "character": "瞅",
+  "reading": "chǒu",
+  "description": "chǒu：看～见（看见）。～空（看机会，找闲空）。～睬（答理）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瞅"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-8aad484e50a941316fc59dce",
+  "title": "长门怨",
+  "author": "袁晖",
+  "dynasty": "唐",
+  "verses": [
+    "早知君爱歇，本自无萦妒。",
+    "谁使恩情深，今来反相误。",
+    "愁眠罗帐晓，泣坐金闺暮。",
+    "独有梦中魂，犹言意如故。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d7e52b7f-b4c8-4c4d-abf9-4ce444fe421d"
+}

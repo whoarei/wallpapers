@@ -1,0 +1,14 @@
+{
+  "id": "poem-5e4b9c872ad713b8655cc59e",
+  "title": "题榴花",
+  "author": "朱熹",
+  "dynasty": "宋",
+  "verses": [
+    "五月榴花照眼明，枝间时见子初成。",
+    "可怜此地无车马，颠倒苍苔落绛英。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-題榴花"
+}

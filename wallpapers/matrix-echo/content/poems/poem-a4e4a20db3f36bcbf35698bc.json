@@ -1,0 +1,23 @@
+{
+  "id": "poem-a4e4a20db3f36bcbf35698bc",
+  "title": "吴江舟中作",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "昨风起西北，万艘皆乘便。",
+    "今风转而东，我舟十五纤。",
+    "力乏更雇夫，百金尚嫌贱。",
+    "船工怒鬭语，夫坐视而怨。",
+    "添槔亦复车，黄胶生口咽。",
+    "河泥若祐夫，粘底更不转。",
+    "添金工不怒，意满怨亦散。",
+    "一曳如风车，叫啖如临战。",
+    "傍观鶑窦湖，渺渺无涯岸。",
+    "一滴不可汲，况彼西江远。",
+    "万事须乘时，汝来一何晚。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-31a8afc7-40a7-42de-9a31-16322a139649"
+}

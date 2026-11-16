@@ -1,0 +1,16 @@
+{
+  "id": "poem-1ef12cda5d7ffa599e936d58",
+  "title": "又和南园真率会见赠",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "白头难入少年场，林下相招莫笑狂。",
+    "绿筿影侵棋局暗，黄梅花渍酒卮香。",
+    "任真自愧殽羞薄，假寐初便枕箪凉。",
+    "酬应诗豪困牵率，从来懒放似稽康。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-7b449e98-040e-4083-a281-2ec2b929f369"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-0331277e4a2f81ec1fc18b7f",
+  "title": "喝火令·见晚情如旧",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "见晚情如旧，交疏分已深。",
+    "舞时歌处动人心。",
+    "烟水数年魂梦，无处可追寻。",
+    "昨夜灯前见，重题汉上襟。",
+    "便愁云雨又难寻。",
+    "晓也星稀，晓也月西沈。",
+    "晓也雁行低度，不会寄芳音。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-805",
+  "tags": []
+}

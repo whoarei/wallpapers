@@ -1,0 +1,16 @@
+{
+  "id": "poem-823cbef922ae55cc592c2dfb",
+  "title": "谢叶文昌二首  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "星履声中识典刑，洗空浮俗快双明。",
+    "四朝孰愈德耆艾，九鼎曷如身重轻。",
+    "只作寻常高步武，安知咫尺是钧衡。",
+    "冲和一点关埏埴，噫欠春风六合生。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-dcdce3f4-fc8c-4781-97db-9fa4730c2df0"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5731c26204a764af3ce41f89",
+  "title": "秋日登郡楼望赞皇山感而成咏",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "昔人怀井邑，为有挂冠期。",
+    "顾我飘蓬者，长随泛梗移。",
+    "越吟因病感，潘鬓入秋悲。",
+    "北指邯郸道，应无归去期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4cd6914d-7644-4e9e-b758-09def40c83c0"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-23364849b44314efb5512c31",
+  "title": "阮郎归·杏花疏雨洒香堤",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "杏花疏雨洒香堤，高楼帘幕垂。",
+    "远山映水夕阳低，春愁压翠眉。",
+    "芳草句，碧云辞，低徊闲自思。",
+    "流莺枝上不曾啼，知君肠断时。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-71"
+}

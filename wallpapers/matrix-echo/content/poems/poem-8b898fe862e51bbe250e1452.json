@@ -1,0 +1,14 @@
+{
+  "id": "poem-8b898fe862e51bbe250e1452",
+  "title": "商山道中",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "和如春色净如秋，五月商山是胜游。",
+    "当昼火云生不得，一溪萦作万重愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-ea49850f-bc2d-492a-96d5-92bee9655ba5"
+}

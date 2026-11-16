@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5fae",
+  "script": "kai",
+  "character": "微",
+  "reading": "wēi",
+  "description": "wēi：(1)小，细小细～。轻～。～小。～型。～观。～雕。～积分。～电脑。～量元素。谨小慎～。～乎其～。\n(2)少；稍稍～。～笑。～调（tiáo）。\n(3)衰落；低下卑～。～贱。\n(4)精深；精妙～妙。精～。～言大义。\n(5)隐约；不明～茫。～词（隐晦的批评）。\n(6)隐匿白公奔山而缢，其徒～亡”。\n(7)暗中察访～行。\n(8)无，非～斯人，吾谁与归”。\n(9)与某一物理量的单位连用时，表示该量的百万分之一～米（公制长度单位，米”的百万分之一）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-微"
+}

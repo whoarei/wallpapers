@@ -1,0 +1,16 @@
+{
+  "id": "poem-66e1294c1a4e44d41245bc75",
+  "title": "天官崔侍郎夫人卢氏挽歌",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "偕老言何谬，香魂事永违。",
+    "潘鱼从此隔，陈凤宛然飞。",
+    "埋镜泉中暗，藏镫地下微。",
+    "犹凭少君术，仿佛覩容辉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-72b48e21-072a-464e-afc5-1576f7357086"
+}

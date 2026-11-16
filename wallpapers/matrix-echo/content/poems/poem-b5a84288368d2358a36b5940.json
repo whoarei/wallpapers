@@ -1,0 +1,16 @@
+{
+  "id": "poem-b5a84288368d2358a36b5940",
+  "title": "客行",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "上山下山去，千里万里愁。",
+    "树色野桥暝，雨声孤馆秋。",
+    "南北眼前道，东西江畔舟。",
+    "世人重金玉，无金徒远游。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ed0f4a06-37b2-4b14-9e6b-d06d6a0b9c5e"
+}

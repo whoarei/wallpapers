@@ -1,0 +1,14 @@
+{
+  "id": "poem-4c58d1e7782739f59c1deaf2",
+  "title": "湖上",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "湖头春水千丈碧，湖堤袅柳不盈尺。",
+    "唱歌女儿棹船回，惊起沙鸥对对立。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-81d8c5aa-a7b8-4384-ad4d-5c6034800d31"
+}

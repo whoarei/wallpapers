@@ -1,0 +1,18 @@
+{
+  "id": "poem-113c0ad4ca46e5ebb04cab5c",
+  "title": "送友人江行之庐山肄业",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "蜀国初开棹，庐峰拟拾萤。",
+    "兽皮裁褥暖，莲叶制衣馨。",
+    "楚水秋来碧，巫山雨后青。",
+    "莫教衔凤诏，三度到中庭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-6c5d1f75-a00a-493d-9be7-458f96e36061"
+}

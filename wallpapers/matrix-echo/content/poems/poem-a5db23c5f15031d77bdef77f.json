@@ -1,0 +1,16 @@
+{
+  "id": "poem-a5db23c5f15031d77bdef77f",
+  "title": "岘山送裴秀才赴举",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "汉家招秀士，岘上送君行。",
+    "万里见秋色，两河伤远情。",
+    "王师出西镐，虏寇避东平。",
+    "天府登名后，回看楚水清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-78063f93-fa73-41bd-91fb-55554f27c210"
+}

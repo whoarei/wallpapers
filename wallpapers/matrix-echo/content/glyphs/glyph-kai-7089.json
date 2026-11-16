@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7089",
+  "script": "kai",
+  "character": "炉",
+  "reading": "lú",
+  "description": "火炉\n炉上有壶。\n为炉,为壶。\n古代酒店前放置酒坛的土台\n⒈取暖、做饭、冶炼等用的供热器具手～。电磁～。煤气～子。炼钢～子。\n⒉\"鑪\"另见rfum。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-炉"
+}

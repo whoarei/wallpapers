@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6a2a",
+  "script": "kai",
+  "character": "横",
+  "reading": "héng；hèng",
+  "description": "héng：(1)跟地面平行的，与竖”、直”相对～梁。～楣。～额。～幅。～批。～披（长条形横幅字画）。～匾。～标。～空。\n(2)左右向的，跟目视方向垂直的，与竖”、直”、纵”相对～写。～排。～向。～斜。纵～。\n(3)地理学上指东西向的与纵”相对～贯东西。\n纵；直；竖；\nhèng：(1)凶暴，不讲理；蛮～。强～。～暴。～蛮。\n(2)意外的，不寻常的～财。～祸。～事。～死。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-横"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6cb9",
+  "script": "kai",
+  "character": "油",
+  "reading": "yóu",
+  "description": "yóu：(1)动植物体内所含的脂肪或矿产的碳氢化合物的混和液体，一般不溶于水，容易燃烧～饼。～布。～彩。～画。～亮。～水（亦指不正常的收益或额外好处）。～轮。～垢。奶～。石～。食～。汽～。添～加醋。\n(2)用油或漆涂抹～刷（ａ．涂抹油、漆；ｂ．涂抹油、漆的刷子）。\n(3)被油弄脏衣服～了一大片。\n(4)狡猾～滑。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-油"
+}

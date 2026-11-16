@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-814a",
+  "script": "seal",
+  "character": "腊",
+  "reading": "là",
+  "description": "农历十二月\n腊后花期知渐近,寒梅已作东风信\n⒈干肉，将肉晾干。\n腊liè 1.剑的两面刃。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-腊"
+}

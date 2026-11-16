@@ -1,0 +1,16 @@
+{
+  "id": "poem-ebaec90cbb6856f5ff1d6e40",
+  "title": "胡笳十八拍 第三拍",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "千乘万骑出咸阳，百官跣足随天王。",
+    "翠华摇摇行复止，黄尘暗天道路长。",
+    "金盘玉筯无消息，色难腥腐飡风香。",
+    "晚将末契托年少，遂令再往之计堕渺茫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-73dbeee3-81d4-4b32-b8c8-3be7aba1cf26"
+}

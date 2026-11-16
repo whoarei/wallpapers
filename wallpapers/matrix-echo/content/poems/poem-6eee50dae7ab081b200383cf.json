@@ -1,0 +1,18 @@
+{
+  "id": "poem-6eee50dae7ab081b200383cf",
+  "title": "玉楼春·泥银四壁盘蜗篆",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "泥银四壁盘蜗篆。",
+    "明月一庭秋满院。",
+    "不知陶菊总开无，但见杜苔新雨遍。",
+    "去年醉倒云为簟。",
+    "未尽百壶惊日短。",
+    "小云今夜伴牢愁，好在凤凰春未晚。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-766",
+  "tags": []
+}

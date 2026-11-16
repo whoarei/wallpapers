@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5983",
+  "script": "kai",
+  "character": "妃",
+  "reading": "fēi；pèi",
+  "description": "fēi：(1)帝王的妻，位次于皇后；亦指太子、王、侯的妻～子。～嫔。\n(2)古代对神女的尊称天～。宓～。\n(3)古同绯”，粉红色。\npèi：古同配”，婚配。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-妃"
+}

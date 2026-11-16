@@ -1,0 +1,14 @@
+{
+  "id": "poem-ed102b44e21b953db05fb302",
+  "title": "浣溪沙·帘下三间出寺墙",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "帘下三间出寺墙，满街垂杨绿阴长，嫩红轻翠间浓妆。",
+    "瞥地见时犹可可，却来闲处暗思量，如今情事隔仙乡。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-30"
+}

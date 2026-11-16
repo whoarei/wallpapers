@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7a96",
+  "script": "kai",
+  "character": "窖",
+  "reading": "jiào",
+  "description": "jiào：(1)收藏东西的地洞或坑～穴。～子。地～。\n(2)把东西藏在地窖里～藏。～白菜。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-窖"
+}

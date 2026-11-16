@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9999",
+  "script": "seal",
+  "character": "香",
+  "reading": "xiāng",
+  "description": "xiāng：(1)气味好闻，与臭”相对～味。～醇。芳～。清～。\n(2)舒服睡得～。\n(3)味道好这鱼做得真～。\n(4)受欢迎这种货物在农村～得很。\n(5)称一些天然或人造的有香味的东西麝～。灵猫～。龙涎～。檀～。沉～。\n(6)旧时用以形容女子事物或作女子的代称～闺。～艳。\n(7)祭祖、敬神所烧的用木屑搀上香料做成的细条～火。烧～拜佛。～炉。～烛。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-香"
+}

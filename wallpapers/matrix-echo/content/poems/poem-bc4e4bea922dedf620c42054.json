@@ -1,0 +1,16 @@
+{
+  "id": "poem-bc4e4bea922dedf620c42054",
+  "title": "题王氏清轩",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "开亭后圃号清轩，非逐豪华效兔园。",
+    "入座馨香惟蕙草，照窗清浅只池源。",
+    "暂来自怪尘埃远，竟日原无鸟雀喧。",
+    "况是绕垣多翠竹，春风次第长龙孙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-df2966c4-e643-46f0-88b5-a975edd39208"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b35f6882724052bb4c02b62d",
+  "title": "永丰桥闲坐",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "敝袜轻鞋缓足投，永丰桥上寄双眸。",
+    "山沿东舍环西舍，水遶南畴赴北畴。",
+    "村妇坐畦挑马齿，野童蹲涧采鸡头。",
+    "娱闲不觉忘中饭，一点斜阳射竹楼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-1606e976-6a04-42fe-bcb8-9cd8a26153a7"
+}

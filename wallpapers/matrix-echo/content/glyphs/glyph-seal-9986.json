@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9986",
+  "script": "seal",
+  "character": "馆",
+  "reading": "guǎn",
+  "description": "⒈接待宾客或旅客居住或食宿的房屋宾～。旅～。\n⒉某些服务性的商店饭～。茶～儿。美容～。\n⒊外交人员在别国常驻的处所领事～。大使～。\n⒋展示物品、陈列文物或进行文化活动的场所展览～。博物～。文化～。图书～。科技～。\n⒌〈古〉教书的地方蒙～。家～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-馆"
+}

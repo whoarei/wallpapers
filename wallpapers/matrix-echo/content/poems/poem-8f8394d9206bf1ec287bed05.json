@@ -1,0 +1,14 @@
+{
+  "id": "poem-8f8394d9206bf1ec287bed05",
+  "title": "采莲子·船动湖光滟滟秋",
+  "author": "皇甫松",
+  "dynasty": "唐",
+  "verses": [
+    "船动湖光滟滟秋（举棹），贪看年少信船流（年少）。",
+    "无端隔水抛莲子（举棹），遥被人知半日羞（年少）。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-27",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9e4a",
+  "script": "kai",
+  "character": "鹊",
+  "reading": "què",
+  "description": "鸦科的鹊属和若干其他属的许多鸟之一,它与松鸦亲缘关系密切,但有一长而分等级的尾,体羽通常为黑色和白色",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鹊"
+}

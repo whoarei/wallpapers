@@ -1,0 +1,16 @@
+{
+  "id": "poem-ee06c7a79d15520dcbc759ec",
+  "title": "花舞·贵客之名从此有",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "贵客之名从此有。",
+    "多谢风流，飞驭陪尊酒。",
+    "持此一卮同劝后。",
+    "愿花长在人长寿。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-22",
+  "tags": []
+}

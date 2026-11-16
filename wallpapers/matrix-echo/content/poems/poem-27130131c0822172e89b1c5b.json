@@ -1,0 +1,16 @@
+{
+  "id": "poem-27130131c0822172e89b1c5b",
+  "title": "石人峰",
+  "author": "缪岛云",
+  "dynasty": "唐",
+  "verses": [
+    "双峰何代列巍巍，忽化僊人世所稀。",
+    "绝顶长年相对坐，九天何日却同归。",
+    "风生松柏喧天乐，山隐云霞挂道衣。",
+    "终愿扪萝一相访，共君齐跨鳯鸾飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-2826f893-d4af-4160-8cf8-86b09e3660f2"
+}

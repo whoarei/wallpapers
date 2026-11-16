@@ -1,0 +1,14 @@
+{
+  "id": "poem-3ef648027e3c0cfea487d8f0",
+  "title": "白髭",
+  "author": "刘象",
+  "dynasty": "唐",
+  "verses": [
+    "到处逢人求至药，几回染了又成丝。",
+    "素丝易染髭难染，墨翟当时合泣髭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-dce6d5a0-b9b3-405d-9d6a-f4bb00c2808c"
+}

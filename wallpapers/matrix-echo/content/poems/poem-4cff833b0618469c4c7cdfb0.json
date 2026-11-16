@@ -1,0 +1,16 @@
+{
+  "id": "poem-4cff833b0618469c4c7cdfb0",
+  "title": "西溪独泛",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "道情何所居，素舸漫流间。",
+    "真性怜高鹤，无名羡野山。",
+    "经寒丛竹秀，入静片云闲。",
+    "泛泛谁为侣，唯应共月还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c2ed6f9c-5526-4c32-9bc0-bc8f3d272fdb"
+}

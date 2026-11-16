@@ -1,0 +1,14 @@
+{
+  "id": "poem-b340c2b0948919b0450f8475",
+  "title": "颂古十九首  其一○",
+  "author": "释法全",
+  "dynasty": "宋",
+  "verses": [
+    "相逢把手上高峰，四顾寥寥天宇空。",
+    "一曲渔歌人不会，芦花飞起渡头风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-ecb218dc-2c50-4c04-bc25-828c2dc4e5d4"
+}

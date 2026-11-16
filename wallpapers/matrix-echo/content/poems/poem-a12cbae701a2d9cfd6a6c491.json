@@ -1,0 +1,13 @@
+{
+  "id": "poem-a12cbae701a2d9cfd6a6c491",
+  "title": "丝衣",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "丝衣其紑，载弁俅俅。自堂徂基，自羊徂牛，鼐鼎及鼒，兕觥其觩。旨酒思柔。不吴不敖，胡考之休。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-291"
+}

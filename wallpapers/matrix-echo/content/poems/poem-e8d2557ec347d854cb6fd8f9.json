@@ -1,0 +1,14 @@
+{
+  "id": "poem-e8d2557ec347d854cb6fd8f9",
+  "title": "移梅",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "雪消时候带花移，花笑移迟不振奇。",
+    "今岁弗须嫌早计，趁它一点未开时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-8619515b-8c69-4577-82a3-3ae590d7eba7"
+}

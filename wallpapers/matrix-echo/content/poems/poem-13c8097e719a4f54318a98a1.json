@@ -1,0 +1,16 @@
+{
+  "id": "poem-13c8097e719a4f54318a98a1",
+  "title": "六次韵",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "年少题诗入杏园，横空硬语胜郊盘。",
+    "新吟陈紫并江绿，深逼蕉黄与荔丹。",
+    "官舍聊淹广文冷，雁行高并玉峰寒。",
+    "黄堂病守相将去，秋菊落英谁共餐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-fe11dc27-e413-4f87-aa2a-a499b312a733"
+}

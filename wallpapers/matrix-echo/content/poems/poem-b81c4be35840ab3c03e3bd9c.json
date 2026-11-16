@@ -1,0 +1,16 @@
+{
+  "id": "poem-b81c4be35840ab3c03e3bd9c",
+  "title": "帝京篇十首 五",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "芳辰追逸趣，禁苑信多奇。",
+    "桥形通汉上，峰势接云危。",
+    "烟霞交隐映，花鸟自参差。",
+    "何如肆辙迹？万里赏瑶池。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-86952cb3-b622-4398-a56a-01dd39f6c6ec"
+}

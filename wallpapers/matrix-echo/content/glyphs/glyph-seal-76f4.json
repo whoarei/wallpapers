@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-76f4",
+  "script": "seal",
+  "character": "直",
+  "reading": "zhí",
+  "description": "zhí：(1)不弯曲～线。～角。～径。～立。～截了当。～觉（jué）。～观。\n(2)把弯曲的伸开～起腰来。\n(3)公正合理是非曲～。理～气壮。耿～。正～。\n(4)爽快，坦率～爽。～率（shuài）。～谏。～诚。～言不讳。\n(5)一个劲儿地，连续不断一～走。～哭。\n(6)竖，与横”相对不要横着写，要～着写。\n(7)汉字笔形之一，自上至下。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-直"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-505c",
+  "script": "seal",
+  "character": "停",
+  "reading": "tíng",
+  "description": "tíng：(1)止住，中止不动～止。～产。～学。～职。～顿。～刊。～战。～业。～滞。\n(2)总数分成几份，其中的一份十～儿有九～儿是好的。\n(3)暂时不继续前进～留。～泊。\n(4)妥当～妥。～当。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-停"
+}

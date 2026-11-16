@@ -1,0 +1,22 @@
+{
+  "id": "poem-80f6317a41c5cc6fe8c6e6b0",
+  "title": "饯别王十一南游",
+  "author": "刘长卿",
+  "dynasty": "唐",
+  "verses": [
+    "望君烟水阔，挥手泪沾巾。",
+    "飞鸟没何处，青山空向人。",
+    "长江一帆远，落日五湖春。",
+    "谁见汀洲上，相思愁白苹。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "长江",
+    "友情",
+    "送别",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-1487452b-5f49-4f4f-9913-1f3ec1cddf95"
+}

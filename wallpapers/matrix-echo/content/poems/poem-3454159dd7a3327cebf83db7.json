@@ -1,0 +1,20 @@
+{
+  "id": "poem-3454159dd7a3327cebf83db7",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［丑］哥哥听咨启，不必恁忧疑。",
+    "我邻居孙官人，赴选近回归。",
+    "他在京必知事体，问他音信，便知端的。",
+    "［外］无由去他宅里，你可令人请来问个详细。",
+    "［净上］日里莫说人，夜里莫说鬼。",
+    "方才说小子，小子便来至。",
+    "［末］未相邀，准来请你？［净］我在戏房中听得。",
+    "［末］这科诨休要提，且与东人相见施礼。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8187",
+  "tags": []
+}

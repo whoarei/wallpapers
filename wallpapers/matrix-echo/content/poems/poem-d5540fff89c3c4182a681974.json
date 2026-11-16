@@ -1,0 +1,16 @@
+{
+  "id": "poem-d5540fff89c3c4182a681974",
+  "title": "酒泉子·枕转簟凉",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "枕转簟凉，清晓远钟残梦。",
+    "月光斜、帘影动，旧炉香。",
+    "梦中说尽相思事，纤手匀双泪。",
+    "去年春，今日意，断离肠。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-40"
+}

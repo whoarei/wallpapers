@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5012",
+  "script": "seal",
+  "character": "倒",
+  "reading": "dǎo；dào",
+  "description": "dǎo：(1)竖立的东西躺下来摔～。墙～了。～塌。～台。打～。卧～。\n(2)对调，转移，更换，改换～手。～换。～车。～卖。～仓。～戈。\n正；顺；\ndào：(1)位置上下前后翻转～立。～挂。～影。～置。\n(2)把容器反转或倾斜使里面的东西出来～水。～茶。\n(3)反过来，相反地～行逆施。反攻～算。～贴。\n(4)向后，往后退～退。～车。\n(5)却东西～不坏，就是旧了点。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-倒"
+}

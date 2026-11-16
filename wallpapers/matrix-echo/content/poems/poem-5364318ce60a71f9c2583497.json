@@ -1,0 +1,14 @@
+{
+  "id": "poem-5364318ce60a71f9c2583497",
+  "title": "郊庙歌辞 周郊祀乐章 禋顺乐",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "黄彝将献，特牲预迎。",
+    "既修昭事，潜达明诚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-0ff009da-1154-46ae-bc65-af8c9372f08d"
+}

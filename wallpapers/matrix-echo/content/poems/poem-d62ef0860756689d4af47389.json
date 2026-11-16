@@ -1,0 +1,18 @@
+{
+  "id": "poem-d62ef0860756689d4af47389",
+  "title": "送日本国聘贺使晁巨卿东归",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "上才生下国，东海是西邻。",
+    "九译蕃君使，千年圣主臣。",
+    "野情偏得礼，木性本含真。",
+    "锦帆乘风转，金装照地新。",
+    "孤城开蜃阁，晓日上朱轮。",
+    "早识来朝岁，涂山玉帛均。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-6d7b4fc4-62ae-48e7-a486-a8ff73caaf7d"
+}

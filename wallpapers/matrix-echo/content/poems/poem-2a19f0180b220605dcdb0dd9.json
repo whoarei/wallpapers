@@ -1,0 +1,14 @@
+{
+  "id": "poem-2a19f0180b220605dcdb0dd9",
+  "title": "登楚野亭见张舍人题字",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "英豪自昔多遗恨，人物于今正渺然。",
+    "来访舍人题字处，淡烟莎草满平川。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-fca29a2d-58be-4b4a-8312-996a3fe335df"
+}

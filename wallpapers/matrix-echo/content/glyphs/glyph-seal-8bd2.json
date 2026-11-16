@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bd2",
+  "script": "seal",
+  "character": "诒",
+  "reading": "yí",
+  "description": "遗留\n给予;赠送\n⒈遗留～训。\n⒉赠给，送给～书。\n⒊欺骗骨肉相～，朋友相诈。\n诒dài 1.欺骗。\n诒tái 1.懈倦貌。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诒"
+}

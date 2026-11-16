@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-75bc",
+  "script": "kai",
+  "character": "疼",
+  "reading": "téng",
+  "description": "téng：(1)因病、刺激或创伤而起的难受的感觉～痛。头～。\n(2)喜爱，爱惜～爱。～惜。心～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疼"
+}

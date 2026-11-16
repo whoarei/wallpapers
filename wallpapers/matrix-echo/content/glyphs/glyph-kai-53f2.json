@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53f2",
+  "script": "kai",
+  "character": "史",
+  "reading": "shǐ",
+  "description": "shǐ：(1)自然界和人类社会的发展过程，亦指记述、研究这些的文字和学科历～。通～。断代～。近代～。世界～。文学～。～诗。～部（古代图书分类的一大部类，包括各类历史著作）。～坛。～评。～前（没有书面记录的远古）。～不绝书。\n(2)古代掌管记载史事的官太～。内～。\n(3)古代官职刺～。御～。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-史"
+}

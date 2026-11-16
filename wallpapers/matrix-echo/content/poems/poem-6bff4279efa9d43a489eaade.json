@@ -1,0 +1,14 @@
+{
+  "id": "poem-6bff4279efa9d43a489eaade",
+  "title": "题冠盖里",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "偶来冠盖里，媿是旧三公。",
+    "自喜无兵术，轻裘上閟宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-08640c71-cf9b-4dc3-a65a-12b770c40af6"
+}

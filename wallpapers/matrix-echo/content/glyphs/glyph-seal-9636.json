@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9636",
+  "script": "seal",
+  "character": "阶",
+  "reading": "jiē",
+  "description": "梯子\n⒉〈古〉官员的品级官～。\n①指同一阶级中因经济地位的不同而分成的层次农民阶级中有富农、中农、贫农等～层。\n②指由不同阶级出身，而因某种相同的特征所形成的集团知识分子～层。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阶"
+}

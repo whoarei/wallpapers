@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7f50",
+  "script": "kai",
+  "character": "罐",
+  "reading": "guàn",
+  "description": "guàn：盛东西或汲水用的瓦器，亦泛指各种圆筒形的盛物器皿瓦～。铁～。～头。拔火～儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-罐"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7280",
+  "script": "seal",
+  "character": "犀",
+  "reading": "xī",
+  "description": "xī：(1)哺乳动物，形状略像牛，皮粗而厚，多皱纹。角生在鼻上，产于印度一带的只生一只角，产于非洲的有两只角，可做器物，亦可入药（通称犀牛”）～角。～甲。～照。灵～。\n(2)坚固～舟（坚固的船）。～利（锐利；锋利）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-犀"
+}

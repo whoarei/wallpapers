@@ -1,0 +1,16 @@
+{
+  "id": "poem-0f6645ec728b83e216a2110e",
+  "title": "浣溪沙·风压轻云贴水飞",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "风压轻云贴水飞，乍晴池馆燕争泥。",
+    "沈郎多病不胜衣。",
+    "沙上未闻鸿雁信，竹间时听鹧鸪啼。",
+    "此情唯有落花知。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-37"
+}

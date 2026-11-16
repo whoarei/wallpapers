@@ -1,0 +1,14 @@
+{
+  "id": "poem-e264ad06e04d3d0f7e3b05be",
+  "title": "学馆闲题",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "据见定时俱是足，苦思量处便成痴。",
+    "请君打退闲烦恼，啜粥烹茶细和诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-1ac69fe0-d387-4d00-8f27-d0ec686cee00"
+}

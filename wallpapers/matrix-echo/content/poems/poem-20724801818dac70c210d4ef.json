@@ -1,0 +1,16 @@
+{
+  "id": "poem-20724801818dac70c210d4ef",
+  "title": "座中走笔送前萧使君",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "笙歌惨惨咽离筵，槐柳阴阴五月天。",
+    "未学苏秦荣佩印，却思平子赋归田。",
+    "芙蓉欲绽溪边蘂，杨柳初迷渡口烟。",
+    "自笑无成今老大，送君垂泪郭门前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-aa45e9c6-4aff-400b-ba98-83b47165def2"
+}

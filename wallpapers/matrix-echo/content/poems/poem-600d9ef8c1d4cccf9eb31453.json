@@ -1,0 +1,21 @@
+{
+  "id": "poem-600d9ef8c1d4cccf9eb31453",
+  "title": "祝英台近·翦红情",
+  "author": "吴文英",
+  "dynasty": "宋",
+  "verses": [
+    "翦红情，裁绿意，花信上钗股。",
+    "残日东风，不放岁华去。",
+    "有人添烛西窗，不眠侵晓，笑声转、新年莺语。",
+    "旧尊俎。",
+    "玉纤曾擘黄柑，柔香系幽素。",
+    "归梦湖边，还迷镜中路。",
+    "可怜千点吴霜，寒销不尽，又相对、落梅如雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-196"
+}

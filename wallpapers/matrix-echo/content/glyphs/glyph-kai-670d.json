@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-670d",
+  "script": "kai",
+  "character": "服",
+  "reading": "fú；fù",
+  "description": "fú：(1)衣裳～装。制～。\n(2)穿衣裳～丧。～用（ａ．指穿衣服、用器物；ｂ．吃药）。\n(3)作，担任～务。～刑。～兵役。\n(4)顺从信～。佩～。降（xiáng）～。～辩（旧指认罪书）。～膺（牢记在胸中，衷心信服）。\n(5)习惯，适应不～水土。\n(6)吃（药）内～。\n(7)乘，用～牛乘（chéng）马。\n(8)姓。\nfù：量词，指中药（亦作付”）两～药。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-服"
+}

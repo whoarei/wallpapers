@@ -1,0 +1,14 @@
+{
+  "id": "poem-f0b9ecbca86c583cbca02be5",
+  "title": "咏史诗 牛渚",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "温峤南归辍棹晨，燃犀牛渚照通津。",
+    "谁知万丈洪流下，更有朱衣跃马人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ed4dcc77-2f07-4ce2-b2ce-18acf8fe4d02"
+}

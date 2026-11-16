@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7c9f",
+  "script": "seal",
+  "character": "粟",
+  "reading": "sù",
+  "description": "sù：(1)一年生草本植物，子实为圆形或椭圆小粒。北方通称谷子”，去皮后称小米”～子。沧海一～。\n(2)古代泛称谷类重（zhòng）农贵～。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-粟"
+}

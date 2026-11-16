@@ -1,0 +1,22 @@
+{
+  "id": "poem-2c8cca83ac804d1ba0cc1d40",
+  "title": "拂霓裳·喜秋成",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "喜秋成。",
+    "见千门万户乐升平。",
+    "金风细，玉池波浪縠文生。",
+    "宿露沾罗幕，微凉入画屏。",
+    "张绮宴，傍熏炉蕙炷、和新声。",
+    "神仙雅会，会此日，象蓬瀛。",
+    "管弦清，旋翻红袖学飞琼。",
+    "光阴无暂住，欢醉有闲情。",
+    "祝辰星。",
+    "愿百千为寿、献瑶觥。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-538",
+  "tags": []
+}

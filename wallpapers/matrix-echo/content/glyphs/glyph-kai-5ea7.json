@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5ea7",
+  "script": "kai",
+  "character": "座",
+  "reading": "zuò",
+  "description": "zuò：(1)坐位入～。茶～。～谈。宝～。在～。～右铭。\n(2)托着器物的东西。底～儿。\n(3)星空的区域，一群星星～。天琴～。\n(4)量词，多用于较大或固定的物体一～山。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-座"
+}

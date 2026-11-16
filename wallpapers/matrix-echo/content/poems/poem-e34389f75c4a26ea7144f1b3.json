@@ -1,0 +1,15 @@
+{
+  "id": "poem-e34389f75c4a26ea7144f1b3",
+  "title": "静女",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "静女其姝，俟我于城隅。爱而不见，搔首踟蹰。",
+    "静女其娈，贻我彤管。彤管有炜，说怿女美。",
+    "自牧归荑，洵美且异。匪女之为美，美人之贻。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-41"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5bbe",
+  "script": "seal",
+  "character": "宾",
+  "reading": "bīn",
+  "description": "诸侯、诸伯、诸子、诸男之相为宾也。诸公之臣相为国客,是散文宾客通称,对称则宾尊而客卑,\n②客人贵～。\n③姓。\n【宾白】道白。古典戏曲用语。\n【宾词】一个命题的三个部分之一，表示思考对象的属性。如'竹子是植物'中的'植物'。又叫谓项。\n【宾服】服从；佩服。\n【宾格】屈折语中一种格的形式，表示该词是及物动词的宾语。如英语的him、me等。\n【宾客图】见【礼宾图】。\n【宾语补足语】补充说明宾语的成分。如'we call him james'中的'james'。\n【宾至如归】客人到这里如同回到自己家一样亲切。形容旅馆、饭店等招待客人很周到、热情。\n宾bìn 1.摈弃;排除;拒却。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宾"
+}

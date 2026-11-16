@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bb4",
+  "script": "seal",
+  "character": "讴",
+  "reading": "ōu",
+  "description": "歌颂;赞颂\n歌曲\n京洛出名讴\n⒈唱歌歌～。\n⒉歌曲名～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-讴"
+}

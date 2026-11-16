@@ -1,0 +1,16 @@
+{
+  "id": "poem-82f562db2f95444e5ed339fc",
+  "title": "长相思·一重山",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "一重山，两重山。",
+    "山远天高烟水寒，相思枫叶丹。",
+    "菊花开，菊花残。",
+    "寒雁高飞人未还，一帘风月闲。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-38"
+}

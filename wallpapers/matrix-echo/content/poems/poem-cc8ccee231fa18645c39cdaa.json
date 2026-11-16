@@ -1,0 +1,18 @@
+{
+  "id": "poem-cc8ccee231fa18645c39cdaa",
+  "title": "河满子·寂寞芳菲暗度",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "寂寞芳菲暗度，岁华如箭堪惊。",
+    "缅想旧欢多少事，转添春思难平。",
+    "曲槛丝垂金柳，小窗弦断银筝。",
+    "深院空闻燕语，满园闲落花轻。",
+    "一片相思休不得，忍教长日愁生。",
+    "谁见夕阳孤梦，觉来无限伤情。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-0"
+}

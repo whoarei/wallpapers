@@ -1,0 +1,14 @@
+{
+  "id": "poem-726e1b828d68e016ec591da5",
+  "title": "女冠子·昨夜夜半",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "昨夜夜半，枕上分明梦见：语多时，依旧桃花面，频低柳叶眉。",
+    "半羞还半喜，欲去又依依。觉来知是梦，不胜悲。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-21"
+}

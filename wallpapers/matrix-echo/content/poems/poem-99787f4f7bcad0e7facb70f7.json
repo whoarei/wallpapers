@@ -1,0 +1,14 @@
+{
+  "id": "poem-99787f4f7bcad0e7facb70f7",
+  "title": "宿僧舍",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "高僧夜滴芙蓉漏，远客窗含杨柳风。",
+    "何处相逢话心地，月明身在磬声中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-2ebc6009-94a1-4c43-ba9e-654d3b6a5608"
+}

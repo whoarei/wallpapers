@@ -1,0 +1,16 @@
+{
+  "id": "poem-9fd169054677e93bf91ad4b2",
+  "title": "早起",
+  "author": "杨厚",
+  "dynasty": "唐",
+  "verses": [
+    "星汉转寒更，伊余索寞情。",
+    "钟催归梦断，雁引远愁生。",
+    "危壁兰光暗，疎帘露气清。",
+    "闲庭聊一望，海日为分明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-af5c74a2-84a3-4dac-9e4c-c86065f395a2"
+}

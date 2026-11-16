@@ -1,0 +1,16 @@
+{
+  "id": "poem-d355c553620636bd8decda3f",
+  "title": "山中期吉中孚",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "行人路不同，花落到山中。",
+    "水暗蒹葭雾，月明杨柳风。",
+    "年华惊已掷，志业飒然空。",
+    "何必龙钟后，方期事远公。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-2f5fd8d9-88ef-4407-baa9-cb359cfb0668"
+}

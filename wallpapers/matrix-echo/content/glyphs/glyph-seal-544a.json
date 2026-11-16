@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-544a",
+  "script": "seal",
+  "character": "告",
+  "reading": "gào",
+  "description": "gào：(1)说给别人，通知～谕。～知。～诫。～诉。报～。劝～。奔走相～。\n(2)向行政司法机关检举、控诉～发。～状。控～。\n(3)表明，请求～老。～急。自～奋勇。\n(4)宣布或表示某种情况出现～成。～竭（宣布某种东西用尽）。～罄（现指财物用尽或货物等售完）。公～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-告"
+}

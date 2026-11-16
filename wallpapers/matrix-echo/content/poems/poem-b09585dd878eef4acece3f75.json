@@ -1,0 +1,14 @@
+{
+  "id": "poem-b09585dd878eef4acece3f75",
+  "title": "夜夜曲",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "蟪蛄切切风骚骚，芙蓉喷香蟾蜍高。",
+    "孤灯耿耿征妇劳，更深扑落金错刀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-2a3c5a70-a796-46d2-8f22-87c21636da0e"
+}

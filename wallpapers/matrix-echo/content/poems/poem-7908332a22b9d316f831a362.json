@@ -1,0 +1,16 @@
+{
+  "id": "poem-7908332a22b9d316f831a362",
+  "title": "秋登宣城谢眺北楼",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "江城如画里，山晚望晴空。",
+    "两水夹明镜，双桥落彩虹。",
+    "人烟寒橘柚，秋色老梧桐。",
+    "谁念北楼上，临风怀谢公。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-秋登宣城謝眺北樓"
+}

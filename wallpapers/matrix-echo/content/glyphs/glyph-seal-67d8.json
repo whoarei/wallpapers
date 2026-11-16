@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-67d8",
+  "script": "seal",
+  "character": "柘",
+  "reading": "zhè",
+  "description": "zhè：(1)落叶灌木或乔木，树皮有长刺，叶卵形，可以喂蚕，皮可以染黄色，木材质坚而致密，是贵重的木料～黄。～蚕。～丝。\n(2)古同蔗”，甘蔗。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-柘"
+}

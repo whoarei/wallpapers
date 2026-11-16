@@ -1,0 +1,16 @@
+{
+  "id": "poem-a2a757d99bd3b3c6500c268e",
+  "title": "冬日后作",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "寂寞掩荆扉，昏昏坐欲痴。",
+    "事无前定处，愁有并来时。",
+    "日影才添线，鬓根已半丝。",
+    "明庭正公道，应许苦心诗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3515d0f8-7d6b-41c8-9f98-77366eb6b9ef"
+}

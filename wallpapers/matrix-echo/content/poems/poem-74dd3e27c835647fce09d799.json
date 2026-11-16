@@ -1,0 +1,14 @@
+{
+  "id": "poem-74dd3e27c835647fce09d799",
+  "title": "颂古七十六首  其六",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "种谷不生豆苗，蒸沙岂能成饭。",
+    "大通智胜如来，一个担扳底汉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-059d4216-829c-41c2-a0a6-7df5d9336c5f"
+}

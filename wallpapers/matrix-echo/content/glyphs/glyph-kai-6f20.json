@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6f20",
+  "script": "kai",
+  "character": "漠",
+  "reading": "mò",
+  "description": "mò：(1)面积阔大无人定居，缺水干燥的沙石地带沙～。～北。\n(2)空旷广～。荒～。～～。\n(3)冷淡地，不经心地～视。～不关心。\n(4)古同寞”，寂静无声。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-漠"
+}

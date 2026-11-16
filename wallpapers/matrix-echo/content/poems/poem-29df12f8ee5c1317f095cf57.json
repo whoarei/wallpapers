@@ -1,0 +1,16 @@
+{
+  "id": "poem-29df12f8ee5c1317f095cf57",
+  "title": "送吴郎西使成州",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "所向皆为道，遐征岂足辞。",
+    "中华垂尽处，别路正秋时。",
+    "高阁兰台笔，闲吟板屋诗。",
+    "良工无弃物，珍重岁寒姿。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-552757cd-4ce6-44b2-aff5-a7af7a856905"
+}

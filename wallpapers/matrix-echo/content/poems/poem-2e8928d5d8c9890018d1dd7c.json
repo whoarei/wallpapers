@@ -1,0 +1,14 @@
+{
+  "id": "poem-2e8928d5d8c9890018d1dd7c",
+  "title": "侥侥令",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(老旦)这话分明诉与伊，须记得圣贤书。",
+    "懊恨娘行忒薄劣，抛闪得两分离在中路里，两分离在中路里。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8273",
+  "tags": []
+}

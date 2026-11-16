@@ -1,0 +1,16 @@
+{
+  "id": "poem-efae27f50bff5b1a0378f027",
+  "title": "送僧入幽州",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "高士高无敌，腾腾话入燕。",
+    "无人知尔意，向我道非禅。",
+    "栗迳穿蕃冢，狼声隔远烟。",
+    "槃山多道侣，应未有归年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6bfb6de0-ca15-4efb-a45d-a40f1000ed32"
+}

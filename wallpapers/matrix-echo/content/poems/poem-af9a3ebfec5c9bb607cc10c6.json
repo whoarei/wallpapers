@@ -1,0 +1,16 @@
+{
+  "id": "poem-af9a3ebfec5c9bb607cc10c6",
+  "title": "送人南归",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "人言下江疾，君道下江迟。",
+    "五月江路恶，南风惊浪时。",
+    "应知近家喜，还有异乡悲。",
+    "无奈孤舟夕，山歌闻竹枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-8b4c8085-3507-4d7d-b0d0-23b86cde36d1"
+}

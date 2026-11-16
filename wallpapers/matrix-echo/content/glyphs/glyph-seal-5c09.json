@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c09",
+  "script": "seal",
+  "character": "尉",
+  "reading": "wèi；yù",
+  "description": "wèi：(1)古代官名，一般是武官县～。都～。卫～。太～。\n(2)军衔的一级，在校以下～官。少～。上～。\n(3)姓。\n〔～氏〕地名，在中国河南省。\nyù：〔～迟〕复姓。\n〔～犁〕地名，在中国新疆维吾尔自治区。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-尉"
+}

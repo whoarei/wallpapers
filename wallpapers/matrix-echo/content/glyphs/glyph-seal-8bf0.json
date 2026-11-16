@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bf0",
+  "script": "seal",
+  "character": "诰",
+  "reading": "gào",
+  "description": "⒈〈古〉帝王给臣子的命令诏～。制～。封～。\n⒉文体的一种，用于告戒或劝勉。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诰"
+}

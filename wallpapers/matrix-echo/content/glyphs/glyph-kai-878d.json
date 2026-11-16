@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-878d",
+  "script": "kai",
+  "character": "融",
+  "reading": "róng",
+  "description": "róng：(1)固体受热变软或化为流体～化。～解。消～。\n(2)调合，和谐～合。～洽。～汇贯通。其乐～～。\n(3)流通～泄（飘动，浮动）。金～（货币的流通，即储蓄，信贷、汇兑、股票和证券交易等经济活动的总称）。\n(4)长远、永久～裔（形容声调悠长）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-融"
+}

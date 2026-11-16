@@ -1,0 +1,21 @@
+{
+  "id": "poem-c47ed73e6832aeb7e5f381dc",
+  "title": "野望",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "西山白雪三奇戍，南浦清江万里桥。",
+    "海内风尘诸弟隔，天涯涕泪一身遥。",
+    "唯将迟暮供多病，未有涓埃荅圣朝。",
+    "跨马出郊时极目，不堪人事日萧条。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言律诗",
+    "写景",
+    "抒情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-d77f340f-1a04-4c5b-9704-2536e4249c6b"
+}

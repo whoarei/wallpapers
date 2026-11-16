@@ -1,0 +1,16 @@
+{
+  "id": "poem-c6279ac94e92e0cccfd2da27",
+  "title": "酬兵部李侍郎晚过东厅之作",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "酒礼慙先祭，刑书已旷官。",
+    "诏驰黄纸速，身在绛纱安。",
+    "圣位登堂静，生徒跪席寒。",
+    "庭槐暂摇落，幸为入春看。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-cd892edd-f7b3-4d5c-bacc-8b1a02a0564a"
+}

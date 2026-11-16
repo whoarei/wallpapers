@@ -1,0 +1,21 @@
+{
+  "id": "poem-3f73e6aedd483443b104f798",
+  "title": "经邹鲁祭孔子而叹之",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "夫子何为者？栖栖一代中。",
+    "地犹鄹氏邑，宅即鲁王宫。",
+    "叹凤嗟身否，伤麟怨道穷。",
+    "今看两楹奠，当与梦时同。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "伤怀",
+    "写人",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a1824eb8-4e2e-4d53-9a33-e1dcfe7d1c73"
+}

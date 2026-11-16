@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f33",
+  "script": "seal",
+  "character": "缳",
+  "reading": "huán",
+  "description": "绳圈;绞索\n以绳索相系绕。即网络\n⒈旗上的系结。\n⒊绞杀～首。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缳"
+}

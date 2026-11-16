@@ -1,0 +1,16 @@
+{
+  "id": "poem-1004c84ad37f295df08215cd",
+  "title": "与朱山人",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "锦里先生乌角巾，园收芋栗未全贫。",
+    "惯看宾客儿童喜，得食阶除鸟雀驯。",
+    "秋水才深四五尺，野航恰受两三人。",
+    "白沙翠竹江村暮，相送柴门月色新。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-與朱山人"
+}

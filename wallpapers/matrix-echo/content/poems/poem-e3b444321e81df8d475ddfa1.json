@@ -1,0 +1,16 @@
+{
+  "id": "poem-e3b444321e81df8d475ddfa1",
+  "title": "龙眠居士画十六大阿罗汉赞  其一三",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "俯身说法，未能忘言。",
+    "无量妙义，见于指端。",
+    "童子茗供，竹间治具。",
+    "涤烦消渴，惟此之故。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-bc881e89-ba25-4eb6-898b-bc839eb15cc6"
+}

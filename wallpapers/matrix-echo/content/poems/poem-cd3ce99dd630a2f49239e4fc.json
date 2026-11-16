@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd3ce99dd630a2f49239e4fc",
+  "title": "集贤宾",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "一阳气转春透彻，履长欢庆冬节。",
+    "验岁瞻云人意切，听残漏晓临台榭。",
+    "今年是别，黄云谶争书吉贴。",
+    "(合)芳宴设，沉醉后，管弦声咽。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8325",
+  "tags": []
+}

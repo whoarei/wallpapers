@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5288",
+  "script": "seal",
+  "character": "劈",
+  "reading": "pī；pǐ",
+  "description": "pī：(1)用刀斧或强力破开～杀。～刺。～成两半。\n(2)雷电击坏或击毙天打雷～。\n(3)冲着，正对着～头盖脑。\n(4)两个斜面合成的纵截面呈三角形的简单机械，刀、斧、楔子等各种切削工具的刃都属于这一类（亦称尖劈”）。\npǐ：(1)分开～柴。～成三股。\n(2)分裂，使从原物上分开把菜帮儿～下来。\n(3)腿或手指等过分叉开～叉。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-劈"
+}

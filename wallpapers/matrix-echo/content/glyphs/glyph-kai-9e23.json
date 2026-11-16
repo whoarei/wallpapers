@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9e23",
+  "script": "kai",
+  "character": "鸣",
+  "reading": "míng",
+  "description": "泛指发声\n⒈禽兽或虫叫鸡～。鹿～。蝉～。\n⒉发响，使发响雷～。自～钟。～礼炮。\n⒊〈表〉感情，喊叫～谢。～不平。～冤叫屈。\n⒋表达意见、主张等百家争～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鸣"
+}

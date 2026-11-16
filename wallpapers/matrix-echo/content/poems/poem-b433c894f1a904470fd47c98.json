@@ -1,0 +1,14 @@
+{
+  "id": "poem-b433c894f1a904470fd47c98",
+  "title": "浣溪沙·春暮黄莺下砌前",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "春暮黄莺下砌前，水晶帘影露珠悬，绮霞低映晚晴天。",
+    "弱柳万条垂翠带，残红落地碎香钿，蕙风飘荡散轻烟。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-33"
+}

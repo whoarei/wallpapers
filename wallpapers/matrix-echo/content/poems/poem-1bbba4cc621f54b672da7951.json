@@ -1,0 +1,16 @@
+{
+  "id": "poem-1bbba4cc621f54b672da7951",
+  "title": "谢杨尚书惠樱桃",
+  "author": "卢延让",
+  "dynasty": "唐",
+  "verses": [
+    "满合虚红怕动摇，尚书知重赐樱桃。",
+    "揉蓝尚带新鲜叶，泼血犹残旧折条。",
+    "万颗真珠轻触破，一团甘露软含消。",
+    "春来老病尤珍荷，并食中肠似火烧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-37752376-3872-4130-b9e9-ffaf2c9e6657"
+}

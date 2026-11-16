@@ -1,0 +1,16 @@
+{
+  "id": "poem-10829ee576aa6cb51f876094",
+  "title": "惠文太子挽歌",
+  "author": "袁瓘",
+  "dynasty": "唐",
+  "verses": [
+    "寒仗丹旄引，阴堂白日违。",
+    "暗灯明象物，画水湿灵衣。",
+    "羽化淮王去，仙迎太子归。",
+    "空余燕衔土，朝夕向陵飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-0dc587aa-2bc9-4f31-aa81-9165ed6e39c4"
+}

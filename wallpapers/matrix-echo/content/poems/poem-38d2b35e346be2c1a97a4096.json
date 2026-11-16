@@ -1,0 +1,16 @@
+{
+  "id": "poem-38d2b35e346be2c1a97a4096",
+  "title": "陈情上知己",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "性与才俱拙，名场迹甚微。",
+    "久居颜亦厚，独立事多非。",
+    "刻骨搜新句，无人悯白衣。",
+    "明时自堪恋，不是不知机。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-2e0ac513-c652-4631-b893-d23c84b7b059"
+}

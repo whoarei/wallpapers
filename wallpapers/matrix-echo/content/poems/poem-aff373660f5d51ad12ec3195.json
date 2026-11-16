@@ -1,0 +1,18 @@
+{
+  "id": "poem-aff373660f5d51ad12ec3195",
+  "title": "一剪梅・一翦梅·红藕香残玉簟秋",
+  "author": "李清照",
+  "dynasty": "宋",
+  "verses": [
+    "红藕香残玉簟秋。",
+    "轻解罗裳，独上兰舟。",
+    "雪中谁寄锦书来，雁字回时，月满西楼。",
+    "花自飘零水自流。",
+    "一种相思，两处闲愁。",
+    "此情无计可消除，才下眉头，却上心头。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-693",
+  "tags": []
+}

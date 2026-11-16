@@ -1,0 +1,14 @@
+{
+  "id": "poem-713bf107aa08e5685a348d8a",
+  "title": "浣溪沙·红藕花香到槛频",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "红藕花香到槛频，可堪闲忆似花人，旧欢如梦绝音尘。",
+    "翠叠画屏山隐隐，冷铺纹簟水潾潾，断魂何处一蝉新。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-16"
+}

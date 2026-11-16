@@ -1,0 +1,14 @@
+{
+  "id": "poem-b2d29be9ac9d092d675080d3",
+  "title": "精舍遇雨",
+  "author": "可止",
+  "dynasty": "唐",
+  "verses": [
+    "空门寂寂淡吾身，溪雨微微洗客尘。",
+    "卧向白云情未尽，任他黄鸟醉芳春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-5e32dfd5-c43d-4e56-8328-e102a0290bb8"
+}

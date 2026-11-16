@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5370",
+  "script": "kai",
+  "character": "印",
+  "reading": "yìn",
+  "description": "yìn：(1)图章，戳记～章。～玺。～记。～把子（亦喻政权）。\n(2)痕迹手～。指～。～子（ａ.痕迹；ｂ．高利贷的一种，全称～～钱”）。\n(3)用油墨、染料之类把文字或图画留在纸、布、器皿等材料上～刷。排～。～制。～发（fā）。\n(4)彼此符合～证。心心相～。\n(5)外界事物反映在脑中所留下的形象～象。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-印"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-22b9679d357e6f737de42cc2",
+  "title": "醉花阴·金叶犹温香未歇",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "金叶犹温香未歇。",
+    "尘定歌初彻。",
+    "暖透薄罗衣，一霎清风，人映团团月。",
+    "持杯试听留春阕。",
+    "此个情肠别。",
+    "分付与莺莺，劝取东君，停待芳菲节。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-800",
+  "tags": []
+}

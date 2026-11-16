@@ -1,0 +1,14 @@
+{
+  "id": "poem-ffd854bb07e21abe91b623d3",
+  "title": "咏吕步舒诗",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "先生卵翼计平生，针芥相睽祸欲成。",
+    "自是挥斤非妙手，郢人为质却无情。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-9bee96d6-d41b-4dea-984b-aeebef153987"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-a8cfd7a1ddfa1d8bb46d188a",
+  "title": "家兄有和再用韵  其一",
+  "author": "艾可翁",
+  "dynasty": "宋",
+  "verses": [
+    "隔林看日落，出户对天行。",
+    "久乱人情变，长贫心事明。",
+    "虹拖城郭势，河泻甲兵声。",
+    "谁似秋来水，能于浊世清。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-50bbd500-1f46-4ba3-a261-fe6b1618c45c"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-96c9",
+  "script": "seal",
+  "character": "雉",
+  "reading": "zhì",
+  "description": "zhì：(1)鸟，雄的羽毛很美，尾长；雌的淡黄褐色，尾较短。善走，不能久飞。肉可食，羽毛可做装饰品。通称野鸡”。\n(2)古代计算城墙面积的单位，长三丈高一丈为一雉。\n(3)城墙～堞。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-雉"
+}

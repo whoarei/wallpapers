@@ -1,0 +1,14 @@
+{
+  "id": "poem-379d47596b0a12d295984316",
+  "title": "饯唐永昌",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "洛阳旧有神明宰，辇毂由来天地中。",
+    "余邑政成何足贵，因君取则四方同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-bb771da6-427d-437a-856a-4a7826c74b1a"
+}

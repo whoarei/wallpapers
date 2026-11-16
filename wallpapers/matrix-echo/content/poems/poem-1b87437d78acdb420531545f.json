@@ -1,0 +1,14 @@
+{
+  "id": "poem-1b87437d78acdb420531545f",
+  "title": "三台令·不寐倦长更",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "不寐倦长更，披衣出户行。",
+    "月寒秋竹冷，风切夜窗声。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-41"
+}

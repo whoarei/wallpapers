@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-79c9",
+  "script": "kai",
+  "character": "秉",
+  "reading": "bǐng",
+  "description": "bǐng：(1)拿着，持～烛。\n(2)掌握、主持～正。～公。\n(3)古代容量单位，一秉合六十斛。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-秉"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-ae620cc2c8b29edb23e8a57b",
+  "title": "春秋战国门 公叔",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "吴起南奔魏国荒，必听公叔失贤良。",
+    "无谋纵欲离安邑，可免河沟徙大梁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3a6729a2-c9bc-45a7-a5a2-e324edba4346"
+}

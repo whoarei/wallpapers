@@ -1,0 +1,16 @@
+{
+  "id": "poem-2b8c2c9b801e8d886943fbb6",
+  "title": "上冯使君渡水僧障子",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "跣足拄巴藤，潺湲渡几曾。",
+    "尽权无著印，不是登闲僧。",
+    "熊耳应初到，牛头始去登。",
+    "画来偏觉好，将寄柳吴兴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3ff84338-4c67-4d21-a9ca-21fd8a7ce7ad"
+}

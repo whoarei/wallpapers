@@ -1,0 +1,14 @@
+{
+  "id": "poem-5a5bc7bce362675b2b21700c",
+  "title": "颂古七十六首  其三",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "月里姮娥不画眉，只将云雾作罗衣。",
+    "不知梦逐青鸾去，犹把花枝盖面归。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-3512cd67-ab5c-4fac-92a8-de845e74cd22"
+}

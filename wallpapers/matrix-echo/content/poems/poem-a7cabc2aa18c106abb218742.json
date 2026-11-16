@@ -1,0 +1,19 @@
+{
+  "id": "poem-a7cabc2aa18c106abb218742",
+  "title": "蜡梅",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "小树列仙质，翛然道家装。",
+    "雪帔挂浅绛，铢衣曳微黄。",
+    "清风一披拂，芝兰让幽香。",
+    "老子专鼻观，此花正相当。",
+    "就令困霜雪，肯受泥涂伤。",
+    "题评得名字，诗人惜辉光。",
+    "虽无调鼎实，不作时世粧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-423fb257-8cee-4612-ba4a-e74622426f73"
+}

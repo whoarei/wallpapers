@@ -1,0 +1,20 @@
+{
+  "id": "poem-5b637b818ca261ba1a45c281",
+  "title": "吊元鲁山 八",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "当今富教化，元后得贤相。",
+    "冰心镜衰古，霜议清遐障。",
+    "幽埋尽洸洗，滞旅免流浪。",
+    "唯余鲁山名，未获旌廉让。",
+    "二三贞苦士，刷视耸危望。",
+    "发秋青山夜，目断丹阙亮。",
+    "诱类幸从兹，嘉招固非妄。",
+    "小生奏狂狷，感惕增万状。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-684108f3-6a6e-4052-a45f-12ad2f72b64c"
+}

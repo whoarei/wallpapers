@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-529f",
+  "script": "seal",
+  "character": "功",
+  "reading": "gōng",
+  "description": "gōng：(1)劳绩，成绩，与过”相对～勋。～绩。论～行赏。徒劳无～。～德无量（liàng）。～成不居（立了功而不把功劳归于自己）。\n(2)成就，成效成～。～能。～亏一篑。事半～倍。急～近利。\n(3)物理学上指用力使物体移动的工作，等于力乘移动的距离～率。\n(4)本领，能耐～夫。～底。～力（a.功夫和力量；b.功效）。～到自然成。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-功"
+}

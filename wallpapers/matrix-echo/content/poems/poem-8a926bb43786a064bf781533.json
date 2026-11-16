@@ -1,0 +1,16 @@
+{
+  "id": "poem-8a926bb43786a064bf781533",
+  "title": "滕王阁春日晚望",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "凌春帝子阁，偶眺日移西。",
+    "浪势平花坞，帆阴上柳堤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "滕王阁"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-0cd6589c-7911-43a4-ada3-c572208724ca"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6263",
+  "script": "kai",
+  "character": "扣",
+  "reading": "kòu",
+  "description": "kòu：(1)用圈、环等东西套住或拢住；把门～上。\n(2)衣纽衣～。\n(3)绳结绳～儿。\n(4)把器物口朝下放或覆盖东西把碗～在桌上。\n(5)相符，符合～题（符合题义）。\n(6)强留～押。\n(7)从中减除～除。～发（fā）。\n(8)敲击～人心弦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-扣"
+}

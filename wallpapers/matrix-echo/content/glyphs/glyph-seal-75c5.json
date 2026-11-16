@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75c5",
+  "script": "seal",
+  "character": "病",
+  "reading": "bìng",
+  "description": "bìng：(1)生物体发生不健康的现象疾～。～症。～例。～痛。～情。～源。～愈。～变。～危。～逝。～榻。～残。\n(2)缺点，错误语～。通～。弊～。\n(3)损害，祸害祸国～民。\n(4)不满，责备诟～。\n(5)烦躁，担忧郑人～之”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-病"
+}

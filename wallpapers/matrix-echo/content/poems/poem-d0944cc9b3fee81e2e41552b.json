@@ -1,0 +1,16 @@
+{
+  "id": "poem-d0944cc9b3fee81e2e41552b",
+  "title": "洞庭隐",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "高卧洞庭三十春，芰荷香里独垂纶。",
+    "莫嫌无事闲销日，有事始怜无事人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-59cf3dc1-497f-48e1-b4f9-f6acb2b1978e"
+}

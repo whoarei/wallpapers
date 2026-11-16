@@ -1,0 +1,20 @@
+{
+  "id": "poem-11e6e3fd77a74e141d7c9c7c",
+  "title": "铁堂峡",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "山风吹游子，缥缈乘险绝。",
+    "峡形藏堂隍，壁色立积铁。",
+    "径摩穹苍蟠，石与厚地裂。",
+    "修纤无垠竹，嵌空太始雪。",
+    "威迟哀壑底，徒旅惨不悦。",
+    "水寒长冰横，我马骨正折。",
+    "生涯抵弧矢，盗贼殊未灭。",
+    "飘蓬逾三年，回首肝肺热。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-1b4ed54b-6c20-4817-a102-e0ce802ba019"
+}

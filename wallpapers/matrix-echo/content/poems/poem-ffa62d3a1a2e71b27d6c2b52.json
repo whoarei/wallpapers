@@ -1,0 +1,16 @@
+{
+  "id": "poem-ffa62d3a1a2e71b27d6c2b52",
+  "title": "途次陕州",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "境出三秦外，途分二陕中。",
+    "山川入虞虢，风俗限西东。",
+    "树古棠阴在，耕余让畔空。",
+    "鸣笳从此去，行见洛阳宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-5675d954-3da8-4071-be97-da4c66f4675a"
+}

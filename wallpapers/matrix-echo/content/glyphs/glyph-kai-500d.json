@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-500d",
+  "script": "kai",
+  "character": "倍",
+  "reading": "bèi",
+  "description": "bèi：(1)等于原数的两个加～。事～功半。～道而行（兼程而行）。\n(2)某数的几倍等于用几乘某数二的五～是十。\n(3)更加，非常每逢佳节～思亲”。～加。～儿精神。\n(4)增益焉用亡郑以～邻？”\n(5)古同背”，背弃，背叛。\n(6)古同背”，背诵。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-倍"
+}

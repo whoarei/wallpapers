@@ -1,0 +1,14 @@
+{
+  "id": "poem-9f0b8b676551cc1cbc104fd7",
+  "title": "茅檐",
+  "author": "王安石",
+  "dynasty": "宋",
+  "verses": [
+    "茅檐常扫净无苔，花木成蹊手自栽。",
+    "一水护田将绿绕，两山排闼送青来。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-茅檐"
+}

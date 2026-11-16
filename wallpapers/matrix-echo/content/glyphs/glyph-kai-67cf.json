@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-67cf",
+  "script": "kai",
+  "character": "柏",
+  "reading": "bǎi；bó；bò",
+  "description": "bǎi：(1)常绿乔木，叶鳞片状，结球果，有扁柏”、侧柏”、圆柏”、罗汉柏”等多种。木质坚硬，纹理致密。可供建筑及制造器物之用～露（柏树上的露水，据说用以洗眼，有明目的作用）。\n(2)姓。\nbó：〔～林〕德国的首都。\nbò：同檗”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-柏"
+}

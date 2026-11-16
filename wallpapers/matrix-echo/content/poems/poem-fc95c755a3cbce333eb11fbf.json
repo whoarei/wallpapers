@@ -1,0 +1,16 @@
+{
+  "id": "poem-fc95c755a3cbce333eb11fbf",
+  "title": "华顶道者",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "仙人掌中住，生有上天期。",
+    "已废烧丹处，犹多种杏时。",
+    "养龙于浅水，寄鹤在高枝。",
+    "得道复无事，相逢尽日棋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-507228b0-2eb8-475a-afa7-5bbc1dbcda4b"
+}

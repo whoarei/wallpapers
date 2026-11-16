@@ -1,0 +1,14 @@
+{
+  "id": "poem-63cb40129690b98f4e64c117",
+  "title": "二",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "夜眠须在后，起则每须先。",
+    "家中懃检校，衣食莫令偏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-798cf745-b669-4fb3-b0e6-4bcb02567380"
+}

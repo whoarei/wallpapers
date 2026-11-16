@@ -1,0 +1,16 @@
+{
+  "id": "poem-10544db412f81a199f7a44e8",
+  "title": "荆山",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "隠不知山浅，端如璞在荆。",
+    "草滋皆玉色，松籁作江声。",
+    "莽莽嫌吟俗，滔滔笑渭清。",
+    "莫将云锦橐，容易小能名。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-5cf541d5-b0a7-4401-8e5d-b8d625c40b6b"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-d1b9b28169173fd05e729da6",
+  "title": "咏鞘",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "数捺皮应缓，频磨快转多。",
+    "渠今拔出后，空鞘欲如何。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-8f5efe34-843b-45db-8e70-7b035c2013b8"
+}

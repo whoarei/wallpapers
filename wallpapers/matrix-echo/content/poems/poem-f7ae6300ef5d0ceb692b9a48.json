@@ -1,0 +1,16 @@
+{
+  "id": "poem-f7ae6300ef5d0ceb692b9a48",
+  "title": "六么序",
+  "author": "无名氏《宦门子弟错立身》",
+  "dynasty": "元",
+  "verses": [
+    "一意随它去，情愿为路岐。",
+    "管甚么抹土搽灰，折莫擂鼓吹笛，点拗收拾。",
+    "更温习几本杂剧，问甚么妆孤扮末诸般会，更那堪会跳索扑旗。",
+    "只得同欢共乐同鸳被，冲州撞府，求衣觅食。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-308",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c83",
+  "script": "kai",
+  "character": "沃",
+  "reading": "wò",
+  "description": "wò：(1)土地肥～土。～饶（土地肥沃，物产丰富）。～腴。肥～。～野。～壤。\n(2)灌溉，浇～田。～盥。如汤～雪。\n(3)光盛，丰美～～。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沃"
+}

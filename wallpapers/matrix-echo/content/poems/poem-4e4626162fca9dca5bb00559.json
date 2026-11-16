@@ -1,0 +1,17 @@
+{
+  "id": "poem-4e4626162fca9dca5bb00559",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［净］迤逦松篁迳里，见野塘溶溶水没沙嘴。",
+    "鸥凫往来，出没又还惊飞。",
+    "危桥跨涧人过稀，只见漠漠平沙接远堤。",
+    "［合］途中趣，真是奇，绿杨枝上啭黄鹂。",
+    "难禁受，闻子规，声声叫道不如归。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8143",
+  "tags": []
+}

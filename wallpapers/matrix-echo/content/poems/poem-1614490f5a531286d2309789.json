@@ -1,0 +1,14 @@
+{
+  "id": "poem-1614490f5a531286d2309789",
+  "title": "西地锦",
+  "author": "无名氏《宦门子弟错立身》",
+  "dynasty": "元",
+  "verses": [
+    "当职心怀公正，更名播朝廷。",
+    "从官判断无私曲，管民乐升平。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-316",
+  "tags": []
+}

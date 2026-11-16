@@ -1,0 +1,22 @@
+{
+  "id": "poem-de1ef998fb5ba8bcfe33b1af",
+  "title": "江城子·片帆初落甬勾东",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "片帆初落甬勾东。",
+    "碧湖空。",
+    "满汀风。",
+    "回首一川，银浪飐孤篷。",
+    "且驾两椽烟雨里，凭曲槛，浥空蒙。",
+    "闲移拄杖上晴峰。",
+    "莫匆匆。",
+    "伴冥鸿。",
+    "笑指家山，苹叶藕花中。",
+    "脚力倦时呼小艇，归棹稳，月朦胧。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-90",
+  "tags": []
+}

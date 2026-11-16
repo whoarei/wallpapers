@@ -1,0 +1,21 @@
+{
+  "id": "poem-e3a36b16b08a6ac2b20165e4",
+  "title": "杂曲歌辞 独不见",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "卢家小妇郁金堂，海燕双栖玳瑁梁。",
+    "九月寒砧催下叶，十年征戍忆辽阳。",
+    "白狼河北音书断，丹凤城南秋夜长。",
+    "谁知含愁独不见，使妾明月照流黄。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "思念",
+    "闺怨",
+    "唐诗三百首",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-15079155-e95e-4abc-b36e-f6b605848f37"
+}

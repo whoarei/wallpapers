@@ -1,0 +1,16 @@
+{
+  "id": "poem-06026c4cea0bf777eb66f289",
+  "title": "贻钓鱼李处士",
+  "author": "谭用之",
+  "dynasty": "宋",
+  "verses": [
+    "罢吟鹦鹉草芊芊，又泛鸳鸯水上天。",
+    "一棹冷涵杨柳雨，片帆香挂芰荷烟。",
+    "绿摇江澹萍离岸，红点云疏橘满川。",
+    "何处邈将归画府，数茎红蓼一渔船。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-24ec8820-09ca-4a5f-aac5-98424d27bfc8"
+}

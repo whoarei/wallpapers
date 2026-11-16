@@ -1,0 +1,15 @@
+{
+  "id": "poem-72a647bc0e6b7ddea1ad0fb7",
+  "title": "东平路作三首 三",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "清旷凉夜月，裴回孤客舟。",
+    "渺然风波上，独爱前山秋。",
+    "秋至复摇落，空令行者愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d5249aa5-2cf7-4e8f-b031-c4796e6b246c"
+}

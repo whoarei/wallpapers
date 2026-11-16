@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ea6",
+  "script": "seal",
+  "character": "亦",
+  "reading": "yì",
+  "description": "yì：(1)副词，也，表示同样、也是～无不可。～步～趋。\n(2)又先君何罪？其嗣～何罪？”\n(3)不过，只是王～不好土也，何患无士？”\n(4)表示加强或委婉的语气呜呼，～盛矣哉！”学而时习之，不～说乎？”\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-亦"
+}

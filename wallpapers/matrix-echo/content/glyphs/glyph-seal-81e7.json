@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-81e7",
+  "script": "seal",
+  "character": "臧",
+  "reading": "zāng；zàng；cáng",
+  "description": "zāng：(1)善，好～否（pǐ）（褒贬，评论，说好说坏）。\n(2)古代对奴仆的贱称～获。\n(3)古同赃”，赃物。\n(4)姓。\nzàng：(1)古同藏”，储放东西的地方。\n(2)古同脏”，身体的内部器官。\ncáng：古同藏1”，收存。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-臧"
+}

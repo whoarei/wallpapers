@@ -1,0 +1,14 @@
+{
+  "id": "poem-6f378ae0b877495c96b327e3",
+  "title": "即景",
+  "author": "朱淑贞",
+  "dynasty": "宋",
+  "verses": [
+    "竹摇清影罩幽窗，两两时禽噪夕阳。",
+    "谢却海棠飞尽絮，困人天气日初长。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-即景"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-d94fdc2e686c67b8586f486c",
+  "title": "郊庙歌辞 周宗庙乐舞辞 章德舞",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "清庙新，展严禋。",
+    "恭祖德，厚人伦。",
+    "雅乐荐，礼器陈。",
+    "俨皇尸，列虞宾。",
+    "神如在，声不闻。",
+    "享必信，貌惟夤。",
+    "想龙服，奠牺樽。",
+    "礼既备，庆来臻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-1db83204-895b-41ca-9ad5-502106899bf4"
+}

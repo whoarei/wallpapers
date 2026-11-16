@@ -1,0 +1,18 @@
+{
+  "id": "poem-f8202fc3c41b5b6fafabec9f",
+  "title": "闻杜牧赴阙",
+  "author": "伍乔",
+  "dynasty": "宋",
+  "verses": [
+    "旧隠匡庐一草堂，今闻携策谒吾皇。",
+    "峡云难卷从龙势，古剑终腾出土光。",
+    "开翅定期归碧落，濯缨宁肯问沧浪。",
+    "他时得意交知仰，莫忘裁诗寄钓乡。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-08d3337f-92af-4eb3-821b-a963de44b079"
+}

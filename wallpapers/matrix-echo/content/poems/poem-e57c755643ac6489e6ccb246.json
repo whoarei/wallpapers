@@ -1,0 +1,16 @@
+{
+  "id": "poem-e57c755643ac6489e6ccb246",
+  "title": "蝶恋花·眼底风光留不住",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "眼底风光留不住，和暖和香，又上雕鞍去。",
+    "欲倩烟丝遮别路，垂杨那是相思树。",
+    "惆怅玉颜成间阻，何事东风，不作繁华主。",
+    "断带依然留乞句，斑骓一系无寻处。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-125"
+}

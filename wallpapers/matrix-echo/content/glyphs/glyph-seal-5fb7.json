@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5fb7",
+  "script": "seal",
+  "character": "德",
+  "reading": "dé",
+  "description": "dé：(1)人们共同生活及行为的准则和规范，品行，品质美～。品～。公～。～行。道～。～性。～育（以一定的社会要求，进行思想的、政治的和道德的教育）。～才兼备。度～量力。～高望重。\n(2)心意，信念一心一～。\n(3)恩惠～施。～泽（德化和恩惠）。～惠。感恩戴～。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-德"
+}

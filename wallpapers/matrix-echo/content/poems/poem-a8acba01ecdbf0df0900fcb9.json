@@ -1,0 +1,14 @@
+{
+  "id": "poem-a8acba01ecdbf0df0900fcb9",
+  "title": "春秋战国门 田文",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "下客常才不足珍，谁为狗盗脱强秦。",
+    "秦关若待鸡鸣出，笑杀临淄土偶人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-1959138b-5885-46ef-8843-7833bfb71d78"
+}

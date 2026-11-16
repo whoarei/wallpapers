@@ -1,0 +1,25 @@
+{
+  "id": "poem-16faa89d1a0055f1d7a149d7",
+  "title": "早春行",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "紫梅发初遍，黄鸟歌犹澁。",
+    "谁家折杨女，弄春如不及。",
+    "爱水看妆坐，羞人映花立。",
+    "香畏风吹散，衣愁露沾湿。",
+    "玉闺青门里，日落香车入。",
+    "游衍益相思，含啼向彩帷。",
+    "忆君长入梦，归晚更生疑。",
+    "不及红簷燕，双栖绿草时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "相思",
+    "哀怨",
+    "写人",
+    "闺怨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-140031f2-d4e0-4555-b23b-92b10980f1ba"
+}

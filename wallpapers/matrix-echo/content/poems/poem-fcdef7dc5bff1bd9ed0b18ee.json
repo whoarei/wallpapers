@@ -1,0 +1,17 @@
+{
+  "id": "poem-fcdef7dc5bff1bd9ed0b18ee",
+  "title": "啄木儿",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "苦！我亲衰老，妻幼娇，万里关山音信杳。",
+    "他那里举目凄凄，我这里回首迢迢。",
+    "他那里望得眼穿儿不到，俺这里哭得泪干亲难保。",
+    "闪杀人么一封丹凤诏。",
+    "(黄门唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5032",
+  "tags": []
+}

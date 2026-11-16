@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-65a7",
+  "script": "kai",
+  "character": "斧",
+  "reading": "fǔ",
+  "description": "fǔ：(1)砍东西用的工具，多用来砍木头。古代亦用来作兵器～子。～头。～钺。～柯（ａ．斧子的柄；ｂ．喻政权、权柄）。\n(2)用斧砍～正（敬辞，请人修正文句，亦作斧政”）。～凿（ａ．斧子或凿子；ｂ．指文艺作品等矫揉造作）。～藻（雕饰、修饰）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-斧"
+}

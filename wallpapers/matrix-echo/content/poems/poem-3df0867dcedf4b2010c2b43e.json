@@ -1,0 +1,16 @@
+{
+  "id": "poem-3df0867dcedf4b2010c2b43e",
+  "title": "和明叔游白龙溪",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "溪深荒径微，寻胜不知疲。",
+    "寒月影随马，晓风冰满髭。",
+    "行歌被褐叟，聚戏拾薪儿。",
+    "外野饶真趣，令人怀抱夷。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-268a484e-4a5e-4926-ad1f-643d56be721f"
+}

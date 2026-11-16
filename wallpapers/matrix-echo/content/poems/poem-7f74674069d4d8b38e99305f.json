@@ -1,0 +1,14 @@
+{
+  "id": "poem-7f74674069d4d8b38e99305f",
+  "title": "南乡子·二八花钿",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "二八花钿，胸前如雪脸如莲。",
+    "耳坠金环穿瑟瑟，霞衣窄，笑倚江头招远客。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-4"
+}

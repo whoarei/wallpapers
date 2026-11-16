@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62b1",
+  "script": "seal",
+  "character": "抱",
+  "reading": "bào",
+  "description": "bào：(1)用手臂围住拥～。～小孩儿∠～。～残守缺（形容保守，不知进取）。\n(2)围绕，环绕山环水～。～厦（房屋前面加出来的门廊，亦指后面毗连的小房子）。\n(3)胸怀愿望，志向～负。\n(4)心里存着，怀有～怨。～恨。～歉。～憾。～病。\n(5)密合衣服～身儿。\n(6)把他人的子女收养为自己的子女～养。\n(7)量词表示两臂合围的量一～草。\n(8)孵～窝。～小鸡。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抱"
+}

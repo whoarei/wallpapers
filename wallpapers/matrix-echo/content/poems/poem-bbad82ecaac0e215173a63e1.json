@@ -1,0 +1,14 @@
+{
+  "id": "poem-bbad82ecaac0e215173a63e1",
+  "title": "鉴远楼",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "赏心亭上群山雪，三夕丹渊借月华。",
+    "吟尽江南清绝趣，亟行归觐紫皇家。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-9d15c724-9b9d-44a0-ba8f-0583d1c5941d"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2dab1cad228d6f8a6fe35d23",
+  "title": "送客归振武",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "骏马事轻车，军行万里沙。",
+    "胡山通嗢落，汉节绕浑邪。",
+    "桂满天西月，芦吹塞北笳。",
+    "别离俱报主，路极不为赊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-2e0cd4ce-4297-420f-a4bf-92e48b38e5d2"
+}

@@ -46,3 +46,5 @@ input[type="checkbox"] { width: 15px; height: 15px; margin: 0; }
   .scene-options { gap: 12px; }
   .poem-row { gap: 8px; }
 }
+
+.library-filters{display:flex;flex-wrap:wrap;gap:8px;align-items:end;margin:8px 0}.library-filters label{display:flex;flex-direction:column;gap:3px;min-width:0;flex:1 1 100px;font-size:11px}.library-filters input,.library-filters select{width:100%;max-width:none;min-width:0}.library-pagination{display:flex;align-items:center;justify-content:space-between;gap:6px;margin:8px 0 12px;font-size:11px}.library-pagination span{text-align:center;overflow-wrap:anywhere}.library-pagination button{white-space:nowrap}

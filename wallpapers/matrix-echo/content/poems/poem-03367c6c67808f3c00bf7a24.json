@@ -1,0 +1,16 @@
+{
+  "id": "poem-03367c6c67808f3c00bf7a24",
+  "title": "忆平泉杂咏 忆野花",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "虽游洛阳道，未识故园花。",
+    "晓忆东谿雪，晴思冠岭霞。",
+    "谷深兰色秀，村迥柳阴斜。",
+    "怅望龙门晚，谁知小隐家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-50586423-6e02-4ebe-a4a9-1897f6ebdb80"
+}

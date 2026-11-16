@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80c2",
+  "script": "seal",
+  "character": "胂",
+  "reading": "shèn",
+  "description": "shèn：(1)有机化合物的一类，是砷化氢分子中的氢被羟基替换后生成的化合物。大多剧毒。\n(2)夹脊肉两～之上”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胂"
+}

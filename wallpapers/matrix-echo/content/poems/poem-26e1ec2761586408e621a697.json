@@ -1,0 +1,14 @@
+{
+  "id": "poem-26e1ec2761586408e621a697",
+  "title": "郊庙歌辞 释奠文宣王乐章 承和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "万国以贞光上嗣，三善茂德表重轮。",
+    "视膳寝门尊要道，高辟崇贤引正人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-c8b5b494-9707-4004-8646-caf765ef20b8"
+}

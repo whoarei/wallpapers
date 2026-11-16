@@ -1,0 +1,16 @@
+{
+  "id": "poem-e76401dc80391eb08e7bb32c",
+  "title": "次衡州二首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "弄兵赤子满潢池，渤海龚生真吏师。",
+    "欲使循良买牛犊，会须哀痛问疮痍。",
+    "东南王气虽方振，西北流民自可悲。",
+    "七万虎狼皆敛戢，庙堂还有阿谁知。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-9a1ffc01-7c70-41c6-ba75-30dd6015d8de"
+}

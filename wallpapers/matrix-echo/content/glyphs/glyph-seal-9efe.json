@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9efe",
+  "script": "seal",
+  "character": "黾",
+  "reading": "miǎn；meng",
+  "description": "黾勉 min\n黾měng 1.蛙的一种。\n黾miǎn 1.古地名。指黾池。原为战国郑地，后入韩，复入秦。秦朝置为县。故城在今河南渑池西。\n黾méng 1.见\"黾塞\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-黾"
+}

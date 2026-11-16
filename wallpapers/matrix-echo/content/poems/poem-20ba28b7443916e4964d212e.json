@@ -1,0 +1,14 @@
+{
+  "id": "poem-20ba28b7443916e4964d212e",
+  "title": "六言颂六首赠安国觉老  其三",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "本来滴水滴冻，岂碍彻风彻颠。",
+    "欲问东西祖意，莫嫌吃饭参禅。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-adebf365-2456-4162-9417-4a08cded7742"
+}

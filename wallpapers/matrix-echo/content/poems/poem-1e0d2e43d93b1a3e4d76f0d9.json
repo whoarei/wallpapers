@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e0d2e43d93b1a3e4d76f0d9",
+  "title": "鹊桥仙·北窗凉透",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "北窗凉透，南窗月上，浴罢满怀风露。",
+    "不知何处有花来，但怪底、清香无数。",
+    "炎州珍产，吴儿未识，天与幽芳独步。",
+    "冰肌玉骨岁寒时，倩间止、堂中留住。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-251",
+  "tags": []
+}

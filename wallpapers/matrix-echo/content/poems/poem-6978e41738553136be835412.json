@@ -1,0 +1,14 @@
+{
+  "id": "poem-6978e41738553136be835412",
+  "title": "频于梦中作宫词何也漫成一首",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "满院红芳减复添，清微风细入重帘。",
+    "秾香不使朝醒快，竟日蛮沉拥绣衫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-d9fbfb8a-bda3-43a2-bb1c-b2a79fb36118"
+}

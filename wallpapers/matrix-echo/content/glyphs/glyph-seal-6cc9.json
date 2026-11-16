@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6cc9",
+  "script": "seal",
+  "character": "泉",
+  "reading": "quán",
+  "description": "quán：(1)从地下流出的水源～源。～瀑。甘～。温～。喷～。黄～（旧时称人死后所在的地方。亦作九泉”）。\n(2)古代钱币的名称。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-泉"
+}

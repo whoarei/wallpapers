@@ -4,5 +4,7 @@
   "character": "清",
   "reading": "qīng",
   "description": "清澈、洁净，也可形容清静。",
-  "enabled": true
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "原有内置文字简注；汉字按常用义说明，彝藏文字按音节或字母名说明。"
 }

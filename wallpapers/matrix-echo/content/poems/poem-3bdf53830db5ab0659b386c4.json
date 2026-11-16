@@ -1,0 +1,16 @@
+{
+  "id": "poem-3bdf53830db5ab0659b386c4",
+  "title": "送马戴书记之太原",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "一曲大河声，全家几日行。",
+    "从容长约夜，差互忽离城。",
+    "镇北胡沙浅，途中霍岳横。",
+    "相逢莫已讯，诗雅负雄名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-8306e008-e7cb-4030-bdab-dc2a2472e0a2"
+}

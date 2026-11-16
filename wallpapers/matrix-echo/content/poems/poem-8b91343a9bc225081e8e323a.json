@@ -1,0 +1,14 @@
+{
+  "id": "poem-8b91343a9bc225081e8e323a",
+  "title": "将至妙喜寺",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "清风袅袅越水陂，远树苍苍妙喜寺。",
+    "自有车轮与马蹄，未曾到此波心地。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ecbc2667-468b-4189-9f75-5f622d8ebb73"
+}

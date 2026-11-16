@@ -1,0 +1,16 @@
+{
+  "id": "poem-784e8f820a623c1d171e94a8",
+  "title": "瓠叶",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "幡幡瓠叶，采之亨之。君子有酒，酌言尝之。",
+    "有兔斯首，炮之燔之。君子有酒，酌言献之。",
+    "有兔斯首，燔之炙之。君子有酒，酌言酢之。",
+    "有兔斯首，燔之炮之。君子有酒，酌言酬之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-230"
+}

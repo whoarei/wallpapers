@@ -1,0 +1,16 @@
+{
+  "id": "poem-8f197fea5f94cae7e0838bf7",
+  "title": "横吹曲辞 出塞曲 二",
+  "author": "僧贯休",
+  "dynasty": "唐",
+  "verses": [
+    "玉帐将军意，慇懃把酒论。",
+    "功高宁在我，阵没与招魂。",
+    "塞色干戈束，军容喜气屯。",
+    "男儿今始是，敢出玉关门。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-de9b3a1a-925d-445a-9e23-d03b0f64d388"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-582e66a2d267ad4949825952",
+  "title": "蛮牌令",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［外］儿婿往京畿，前日附书回。",
+    "道重婚丞相女，使母弃前妻。",
+    "我儿道：非夫写的，你嫂嫂怒从心起。",
+    "真和假俱未知，为此特来询问详细。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8186",
+  "tags": []
+}

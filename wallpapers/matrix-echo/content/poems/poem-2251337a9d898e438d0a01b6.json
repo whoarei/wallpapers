@@ -1,0 +1,14 @@
+{
+  "id": "poem-2251337a9d898e438d0a01b6",
+  "title": "重阳四首 二",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "雨寒莫待菊花催，须怕晴空暖并开。",
+    "开却一枝开却尽，且随幽蝶更徘徊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-4982fe25-1e34-4017-8d08-ae050f23af37"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b3ca4dc8f64e78e815086c6e",
+  "title": "昔昔盐二十首 关山别荡子",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "那堪闻荡子，迢递涉关山。",
+    "肠为马嘶断，衣从泪滴斑。",
+    "愁看塞上路，讵惜镜中颜。",
+    "傥见征西雁，应传一字还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-666459a4-0a5a-4b67-a33b-b6c85e1ea9f6"
+}

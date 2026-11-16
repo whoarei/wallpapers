@@ -1,0 +1,16 @@
+{
+  "id": "poem-388666bb138319b220179bd9",
+  "title": "敦煌廿咏（并序） 二十、分流泉咏",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "地涌澄泉美，环城本自奇。",
+    "一源分异派，两道入汤池。",
+    "波上青苹合，洲前翠柳垂。",
+    "况逢佳景处，从此遂忘疲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-7c8ec13f-3747-4e24-9c24-b49274e01b3f"
+}

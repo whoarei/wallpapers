@@ -1,0 +1,18 @@
+{
+  "id": "poem-4450c0ca3ed58406538c5915",
+  "title": "夜游",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "今夕重门启，游春得夜芳。",
+    "月华连昼色，灯影杂星光。",
+    "南陌青丝骑，东邻红粉妆。",
+    "管弦遥辨曲，罗绮暗闻香。",
+    "人拥行歌路，车攒鬬舞场。",
+    "经过犹未已，钟鼓出长杨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-3eaef5d7-9118-435a-ac36-e26540edbcf2"
+}

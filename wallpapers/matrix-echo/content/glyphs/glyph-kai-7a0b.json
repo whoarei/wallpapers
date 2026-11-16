@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7a0b",
+  "script": "kai",
+  "character": "程",
+  "reading": "chéng",
+  "description": "chéng：(1)规矩，法式～式。～序。章～。规～。\n(2)进展，限度～度。进～。日～。过～。\n(3)道路的段落路～。行（xíng）～。里～。启～。前～。\n(4)衡量，考核计日～功。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-程"
+}

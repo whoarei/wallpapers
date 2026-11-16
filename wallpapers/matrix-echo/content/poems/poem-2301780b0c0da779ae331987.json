@@ -1,0 +1,14 @@
+{
+  "id": "poem-2301780b0c0da779ae331987",
+  "title": "叶梦授送家园梅花且以绝句十五章见示次其韵  其一五",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "草木冻死山中村，惟有梅花解返魂。",
+    "弱植孤根傲霜霰，玉奴终不负东昏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-093baf26-0af0-473d-8c12-b1c96e7ab068"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1d4f376a4d1af5ae423a5488",
+  "title": "泊港口",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "港阔风初霁，潮平夜欲分。",
+    "半江都是月，一点不留云。",
+    "东去舟无数，南飞鹊恋群。",
+    "疎钟何处寺，隔浦最先闻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-fa1f63ce-cf74-4a5e-99d2-12a90e5d6cbd"
+}

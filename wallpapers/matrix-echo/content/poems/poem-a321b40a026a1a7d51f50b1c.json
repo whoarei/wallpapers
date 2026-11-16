@@ -1,0 +1,14 @@
+{
+  "id": "poem-a321b40a026a1a7d51f50b1c",
+  "title": "点绛唇",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(净扮番将上)势压中华，仁将夷化，威风大。",
+    "一曲琵琶，醉后驱鹰马。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2855",
+  "tags": []
+}

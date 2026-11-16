@@ -1,0 +1,15 @@
+{
+  "id": "poem-1218cc73141eb905e1d2213a",
+  "title": "荷叶杯·曲砌蝶飞烟暖",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "曲砌蝶飞烟暖，春半。",
+    "花发柳垂条，花如双脸柳如腰。",
+    "娇么娇，娇么娇。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-28"
+}

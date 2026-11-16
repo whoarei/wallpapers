@@ -1,0 +1,16 @@
+{
+  "id": "poem-4c2760413c5212177365f776",
+  "title": "自苏台至望亭驿人家尽空春物增思怅然有作因寄从弟纾",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "南浦菰蒋覆白苹，东吴黎庶逐黄巾。",
+    "野棠自发空临水，江燕初归不见人。",
+    "远岫依依如送客，平田渺渺独伤春。",
+    "那堪回首长洲苑，烽火年年报虏尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-39623e50-e397-46d0-8715-f405674194cf"
+}

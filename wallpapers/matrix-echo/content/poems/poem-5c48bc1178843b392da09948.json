@@ -1,0 +1,19 @@
+{
+  "id": "poem-5c48bc1178843b392da09948",
+  "title": "偶然作六首 五",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "赵女弹箜篌，复能邯郸舞。",
+    "夫壻轻薄儿，鬬鸡事齐主。",
+    "黄金买歌笑，用钱不复数。",
+    "许史相经过，高门盈四牡。",
+    "客舍有儒生，昂藏出邹鲁。",
+    "读书三十年，腰间无尺组。",
+    "被服圣人教，一生自穷苦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-4811841a-3063-4975-8f52-1420de15563a"
+}

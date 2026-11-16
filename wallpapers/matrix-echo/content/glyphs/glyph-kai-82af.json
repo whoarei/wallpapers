@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-82af",
+  "script": "kai",
+  "character": "芯",
+  "reading": "xīn；xìn",
+  "description": "xīn：去皮的灯心草灯～（亦作灯心”）。\nxìn：(1)物体的中心部分岩～。矿～。\n(2)装在器物中的捻子蜡～儿（蜡烛的捻子）。引～。\n(3)蛇和羊的舌头～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芯"
+}

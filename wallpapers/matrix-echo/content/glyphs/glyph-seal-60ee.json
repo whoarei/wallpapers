@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-60ee",
+  "script": "seal",
+  "character": "惮",
+  "reading": "dàn",
+  "description": "使惊恐\n憎恶;忌恨\n权内\n惮 dàn怕肆无忌～。\n惮dá 1.惊骇。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-惮"
+}

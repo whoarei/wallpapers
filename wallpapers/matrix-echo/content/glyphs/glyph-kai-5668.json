@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5668",
+  "script": "kai",
+  "character": "器",
+  "reading": "qì",
+  "description": "qì：(1)用具的总称～皿。～物。～械。木～。武～。～小易盈。\n(2)生物体结构中具有某种独立生理机能的部分～官。消化～。\n(3)人的度量、才干～度。～量（liàng）。～宇。～质。大～晚成。\n(4)重视～重。～敬。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-器"
+}

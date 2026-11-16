@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7aef",
+  "script": "seal",
+  "character": "端",
+  "reading": "duān",
+  "description": "duān：(1)正，不歪斜～正（ａ．事物不歪斜；ｂ．正派，正确；ｃ．使端正）。～丽。～然。～庄。～秀。～静。～坐。\n(2)正派，正直～方。～直。～重（zhòng）。品行不～。\n(3)事物的一头～的（dì）（ａ．事情的经过，底细；ｂ．的确，果然；ｃ．究竟。均亦称端底”）。～倪。～详。事～。争～。\n(4)用手很平正地拿～盆。～碗。～茶。把问题～出来说清楚。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-端"
+}

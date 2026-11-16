@@ -1,0 +1,14 @@
+{
+  "id": "poem-46e10ea1b393d34bdb070dcc",
+  "title": "书雨",
+  "author": "孙嵩",
+  "dynasty": "宋",
+  "verses": [
+    "阴谷幽林热似焚，阿香鸣鼓骤殷殷。",
+    "天公作雨须臾事，用得东山一片云。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-f8f7feda-3cbf-4bfc-9b16-33b9635a8546"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-05c42350cbc3037b600b8521",
+  "title": "宋中十首 八",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "五霸递征伐，宋人无战功。",
+    "解围幸奇说，易子伤吾衷。",
+    "唯见卢门外，萧条多转蓬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-88b7713b-419a-4972-9174-3418204f1e09"
+}

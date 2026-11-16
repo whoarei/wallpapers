@@ -1,0 +1,14 @@
+{
+  "id": "poem-e44c4d61f78be63bfa432a98",
+  "title": "宿长水主人",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "白云溪北丛岩东，树石夜与潺湲通。",
+    "行人一宿翠微月，二十五弦声满风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-ec48c8d1-d8ac-488f-b5b6-dc702d74a9cd"
+}

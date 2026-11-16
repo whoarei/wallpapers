@@ -1,0 +1,16 @@
+{
+  "id": "poem-8abcc02a50e8882564d7020a",
+  "title": "生查子·小桃小杏红",
+  "author": "李石",
+  "dynasty": "宋",
+  "verses": [
+    "小桃小杏红，和雨和烟瘦。",
+    "不是点燕脂，素面偏宜酒。",
+    "也是惯伤春，可惜闲时候。",
+    "正要画眉人，与作双蛾斗。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-247",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-113401c5368a7fe0c1c4d111",
+  "title": "杏殇 四",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "儿生月不明，儿死月始光。",
+    "儿月两相夺，儿命果不长。",
+    "如何此英英，亦为吊苍苍。",
+    "甘为堕地尘，不为末世芳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-2988fec5-a58f-4310-ae02-d8357b44da0f"
+}

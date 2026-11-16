@@ -1,0 +1,18 @@
+{
+  "id": "poem-92cff16ec972166c46ff8bd2",
+  "title": "鹧鸪天·借问枝头昨夜春",
+  "author": "石耆翁",
+  "dynasty": "宋",
+  "verses": [
+    "借问枝头昨夜春。",
+    "已传消息到柴门。",
+    "频看秀色无多艳，拖得清香不见痕。",
+    "山矗矗，水粼粼。",
+    "村南村北冷销魂。",
+    "人间不识春风面，羞见瑶台破月明。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-888",
+  "tags": []
+}

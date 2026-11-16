@@ -1,0 +1,17 @@
+{
+  "id": "poem-dbbb9768870a9ee9b09f4356",
+  "title": "浣溪沙·微绽樱桃一颗红",
+  "author": "吕渭老",
+  "dynasty": "宋",
+  "verses": [
+    "微绽樱桃一颗红。",
+    "断肠声里唱玲珑。",
+    "轻罗小扇掩酥胸。",
+    "惹鬓蛛丝新有喜，窥窗月彩旧相从。",
+    "清宵一醉许谁同。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-82",
+  "tags": []
+}

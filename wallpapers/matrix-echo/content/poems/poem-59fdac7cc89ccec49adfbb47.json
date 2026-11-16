@@ -1,0 +1,16 @@
+{
+  "id": "poem-59fdac7cc89ccec49adfbb47",
+  "title": "济上四贤咏 崔录事",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "解印归田里，贤哉此丈夫。",
+    "少年曾任侠，晚节更为儒。",
+    "遯迹东山下，因家沧海隅。",
+    "已闻能狎鸟，余欲共乘桴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-f0f00c03-fb54-408b-b62b-a11cc62461f2"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-56b5dd03495ff693eddab34d",
+  "title": "浣溪沙·波面铜花冷不收",
+  "author": "吴文英",
+  "dynasty": "宋",
+  "verses": [
+    "波面铜花冷不收。",
+    "玉人垂钓理纤钩。",
+    "月明池阁夜来秋。",
+    "江燕话归成晓别，水花红减似春休。",
+    "西风梧井叶先愁。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-193"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-9930694724f136a963b6260b",
+  "title": "忆平泉杂咏 忆春雨",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "春鸠鸣野树，细雨入池塘。",
+    "潭上花微落，溪边草更长。",
+    "梳风白鹭起，拂水彩鸳翔。",
+    "最羡归飞燕，年年在故乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-5db47599-0db5-4a4f-90f4-9f76b8d1036e"
+}

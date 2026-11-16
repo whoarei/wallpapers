@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8339",
+  "script": "seal",
+  "character": "茹",
+  "reading": "rú",
+  "description": "rú：(1)吃，引申为忍受～素。～荤。～痛（忍痛）‖辛～苦（原意吃苦辣的东西，引申为忍受辛苦）。～古涵今（接受、包含古今的所有知识）。\n(2)臭，败以～鱼去蝇，蝇愈至，不可禁”。\n(3)柔软柔～而寡断。\n(4)菜菜～有畦”。\n(5)根互相牵连的样子拔茅～”。\n(6)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茹"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94f6",
+  "script": "seal",
+  "character": "银",
+  "reading": "yín",
+  "description": "银制的器物\n⒈ 化学元素，金属，白色有光泽。符号ag。质柔软，富延伸性，是导热、导电的良好导体。在空气中不易氧化。可制硬币、器具等。\n⒉［银子］旧时以银鋳成块状的一种货币。\n⒊［银行］办理储蓄、放款、汇兑等业务的机构。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-银"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-de61701e107b72ba5ca0a203",
+  "title": "石鹤",
+  "author": "李翔",
+  "dynasty": "唐",
+  "verses": [
+    "白石孤标逸鹤形，古人随类巧安名。",
+    "岩花落处见朱顶，夜雨来时闻唳声。",
+    "辽海未曾重寄语，缑山今更请宽程。",
+    "若教卫懿如今在，也遣轩车到此迎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-f583912d-b45d-4a3b-9299-f14eec0b33a8"
+}

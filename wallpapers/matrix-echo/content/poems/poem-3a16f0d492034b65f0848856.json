@@ -1,0 +1,14 @@
+{
+  "id": "poem-3a16f0d492034b65f0848856",
+  "title": "奉和圣制幸韦嗣立山庄应制",
+  "author": "武平一",
+  "dynasty": "唐",
+  "verses": [
+    "鸣銮赫奕下重楼，羽盖逍遥向一丘。",
+    "汉日唯闻白衣宠，唐年更覩赤松游。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d22ae295-a2f3-4641-9508-9cb7dfae6eb4"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bd5",
+  "script": "seal",
+  "character": "试",
+  "reading": "shì",
+  "description": "尝试\n⒈按预定想法非正式的做～做。～车。～ ～看。\n⒉检验，品尝～验。尝～。\n⒊考，测验考～。口～。笔～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-试"
+}

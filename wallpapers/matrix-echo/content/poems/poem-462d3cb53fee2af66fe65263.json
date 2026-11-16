@@ -1,0 +1,16 @@
+{
+  "id": "poem-462d3cb53fee2af66fe65263",
+  "title": "雨夜见投之作",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "出户繁星尽，池塘暗不开。",
+    "动衣凉气度，遰树远声来。",
+    "灯外初行电，城隅偶隐雷。",
+    "因知谢文学，晓望比尘埃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-71862ef7-dc20-401d-a624-f079b6a089b9"
+}

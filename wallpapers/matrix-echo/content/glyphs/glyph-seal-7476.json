@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7476",
+  "script": "seal",
+  "character": "瑶",
+  "reading": "yáo",
+  "description": "yáo：(1)美玉，喻美好，珍贵，光明洁白琼～。～英。～宫。～琴。～浆。～觞。～台。～林琼树（喻人品格高洁）。～池。\n(2)中国少数民族，主要分布于广西壮族自治区和湖南、云南、广东、贵州等省～族。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瑶"
+}

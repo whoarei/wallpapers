@@ -1,0 +1,16 @@
+{
+  "id": "poem-b3f3bc94855143bef2fa2a91",
+  "title": "赠昭应沈少府",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "行宫接县判云泉，袍色虽青骨且仙。",
+    "鄠杜忆过梨栗墅，潇湘曾棹雪霜天。",
+    "华山僧别留茶鼎，渭水人来锁钓船。",
+    "东送西迎终几考，新诗觅得两三联。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-bbda892d-7948-48f7-8ffe-3e9414389a00"
+}

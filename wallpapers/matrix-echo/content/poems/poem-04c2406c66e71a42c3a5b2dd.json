@@ -1,0 +1,18 @@
+{
+  "id": "poem-04c2406c66e71a42c3a5b2dd",
+  "title": "送从叔校书简南归",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "长安别离道，宛在东南隅。",
+    "寒草根未死，愁人心已枯。",
+    "促促水上景，遥遥天际途。",
+    "生随昏晓中，皆被日月驱。",
+    "北骑达山岳，南帆指江湖。",
+    "高踪一超越，千里在须臾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ed947732-ca9c-4b2b-b96a-6c917796caba"
+}

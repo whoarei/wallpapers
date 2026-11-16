@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8543",
+  "script": "seal",
+  "character": "蕃",
+  "reading": "fān；fán",
+  "description": "fán：(1)茂盛～茂。～昌。～芜。\n(2)繁多～衍（同繁衍”）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蕃"
+}

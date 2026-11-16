@@ -1,0 +1,14 @@
+{
+  "id": "poem-ce450a4ee4b7683da67b8cc1",
+  "title": "天仙子·金似衣裳玉似身",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "金似衣裳玉似身，眼如秋水鬓如云，霞裙月帔一群群。",
+    "来洞口，望烟分，刘阮不归春日曛。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-11"
+}

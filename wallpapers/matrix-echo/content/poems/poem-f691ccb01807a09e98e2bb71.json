@@ -1,0 +1,20 @@
+{
+  "id": "poem-f691ccb01807a09e98e2bb71",
+  "title": "南乡子·直柱倚冰弦",
+  "author": "高观国",
+  "dynasty": "宋",
+  "verses": [
+    "直柱倚冰弦。",
+    "曾见胡儿马上弹。",
+    "却笑琵琶风韵古，溅溅。",
+    "想像湘妃水一帘。",
+    "塞恨曲中传。",
+    "两折琴丝费玉纤。",
+    "不似江南风月好，厌厌。",
+    "拍手齐看舞袖边。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-401",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-850ea6f49e72e14627747815",
+  "title": "太真入宫图二首  其一",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "未舞霓裳宝髻斜，流苏帐里再盘鸦。",
+    "君王细看春风面，终是香云减一些。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-25542757-f725-402e-b82e-2fb84453bf3e"
+}

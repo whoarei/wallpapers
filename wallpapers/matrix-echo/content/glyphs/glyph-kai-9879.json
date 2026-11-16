@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9879",
+  "script": "kai",
+  "character": "项",
+  "reading": "xiàng",
+  "description": "泛指人颈\n代数中不用加、减号连接的单式\n款项\n⒈颈子的后部。泛指颈部～背。屈～。引～高歌。\n⒉事物的分类或条目事～。～目。八～注意。\n⒊钱，经费款～。收入～。\n⒋量词两～任务。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-项"
+}

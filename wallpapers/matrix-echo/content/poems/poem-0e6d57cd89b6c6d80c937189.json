@@ -1,0 +1,16 @@
+{
+  "id": "poem-0e6d57cd89b6c6d80c937189",
+  "title": "送同年郑祥先辈归汉南",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "年来惊喜两心知，高处同攀次第枝。",
+    "人倚绣屏闲赏夜，马嘶花径醉归时。",
+    "声名本自文章得，藩溷曾劳笔砚随。",
+    "家去恩门四千里，只应从此梦旌旗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-c0d46b44-5cb0-4329-9502-3a9d0d38066e"
+}

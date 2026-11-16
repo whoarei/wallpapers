@@ -1,0 +1,16 @@
+{
+  "id": "poem-27d3f288a6b97d5639d6ed5e",
+  "title": "哭陆处士",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "从此无期见，柴门对雪开。",
+    "二毛逢世难，万恨掩泉台。",
+    "返照空堂夕，孤城吊客回。",
+    "汉家偏访道，犹畏鹤书来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-e8cc31e9-6b51-4a37-818b-7891dfb9677c"
+}

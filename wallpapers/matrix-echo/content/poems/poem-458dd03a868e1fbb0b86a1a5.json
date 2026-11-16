@@ -1,0 +1,16 @@
+{
+  "id": "poem-458dd03a868e1fbb0b86a1a5",
+  "title": "酬贺四赠葛巾之作",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "野巾传惠好，兹贶重兼金。",
+    "嘉此幽栖物，能齐隐吏心。",
+    "早朝方暂挂，晚沐复来簪。",
+    "坐觉嚣尘远，思君共入林。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ee7d6f1c-26d6-426e-91dc-5d7bd2189c77"
+}

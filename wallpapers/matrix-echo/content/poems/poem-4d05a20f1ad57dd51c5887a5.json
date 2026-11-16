@@ -1,0 +1,26 @@
+{
+  "id": "poem-4d05a20f1ad57dd51c5887a5",
+  "title": "感遇十二首 四",
+  "author": "张九龄",
+  "dynasty": "唐",
+  "verses": [
+    "孤鸿海上来，池潢不敢顾。",
+    "侧见双翠鸟，巢在三珠树。",
+    "矫矫珍木巅，得无金丸惧。",
+    "美服患人指，高明逼神恶。",
+    "今我游冥冥，弋者何所慕。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "寓人",
+    "五言古诗",
+    "生活",
+    "哲理",
+    "抒怀",
+    "写鸟",
+    "鸟"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-f9798830-48c1-45e3-be90-4028d93954dc"
+}

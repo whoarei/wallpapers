@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c42",
+  "script": "seal",
+  "character": "求",
+  "reading": "qiú",
+  "description": "qiú：(1)设法得到～生。～成。～知。～索。～证（寻求证据，求得证实）。～实（讲求实际）。～同存异。～全责备。～贤若渴。实事～是。\n(2)恳请，乞助～人。～告。～乞。～医。～教。～助。\n(3)需要需～。供过于～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-求"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5ba6",
+  "script": "kai",
+  "character": "宦",
+  "reading": "huàn",
+  "description": "huàn：(1)官，做官官～。仕～。～海。～游。\n(2)阉人，太监～官。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宦"
+}

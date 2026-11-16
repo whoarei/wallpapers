@@ -1,0 +1,14 @@
+{
+  "id": "poem-32d853ea302e9bca2ca67887",
+  "title": "西地锦",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "幸得一人有庆，万民咸赖康宁。",
+    "蛮夷拱手米皈顺，奉国泰民清。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1942",
+  "tags": []
+}

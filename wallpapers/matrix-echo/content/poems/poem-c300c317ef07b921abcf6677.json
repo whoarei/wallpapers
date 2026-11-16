@@ -1,0 +1,14 @@
+{
+  "id": "poem-c300c317ef07b921abcf6677",
+  "title": "春秋战国门 平公",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "鸿鹄轻腾万里高，何殊朝野得贤豪。",
+    "能知翼戴穹苍力，不是蒙茸腹背毛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-5b8e9657-45ed-46d5-8a0b-f579da9f8f84"
+}

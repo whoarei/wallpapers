@@ -1,0 +1,15 @@
+{
+  "id": "poem-646a95c287c49e47475bcfb4",
+  "title": "素冠",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "庶见素冠兮，棘人栾栾兮。劳心慱慱兮。",
+    "庶见素衣兮，我心伤悲兮。聊与子同归兮。",
+    "庶见素𫖒兮，我心蕴结兮。聊与子如一兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-146"
+}

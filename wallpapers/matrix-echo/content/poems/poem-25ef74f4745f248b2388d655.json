@@ -1,0 +1,16 @@
+{
+  "id": "poem-25ef74f4745f248b2388d655",
+  "title": "荷叶杯·记得那年花下",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "记得那年花下，深夜，初识谢娘时。",
+    "水堂西面画帘垂，携手暗相期。",
+    "惆怅晓莺残月，相别，从此隔音尘。",
+    "如今俱是异乡人，相见更无因。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-44"
+}

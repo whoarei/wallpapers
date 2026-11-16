@@ -1,0 +1,16 @@
+{
+  "id": "poem-45429e78d6352fe76027677b",
+  "title": "谒大慈恩寺",
+  "author": "高宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "日宫开万仞，月殿耸千寻。",
+    "花盖飞团影，幡虹曳曲阴。",
+    "绮霞遥笼帐，丛珠细网林。",
+    "寥廓烟云表，超然物外心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-7a91f55d-4f60-45b4-b9e2-36ddfd8ac342"
+}

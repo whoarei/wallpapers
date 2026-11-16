@@ -1,0 +1,20 @@
+{
+  "id": "poem-6b2cc824dc9eeb71575375b2",
+  "title": "满庭芳·乡物牵情",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "乡物牵情，家山回首，浩然归兴难收。",
+    "报恩心事，投老拼悠悠。",
+    "却笑当年牛下，轻自许、激烈寒讴。",
+    "成何事，夷犹桂楫，兰芷咏芳洲。",
+    "人生，萍梗迹，谁非乐土，何处吾州。",
+    "算不须，临歧惝恍迟留。",
+    "要看香炉瀑布，丹枫乱、江色凝秋。",
+    "真堪与，潇湘暮雨，图上画扁舟。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-227",
+  "tags": []
+}

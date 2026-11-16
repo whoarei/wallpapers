@@ -1,0 +1,16 @@
+{
+  "id": "poem-ecdf69108a3d7ede45fc5a4c",
+  "title": "送孟宾于",
+  "author": "马致恭",
+  "dynasty": "宋",
+  "verses": [
+    "曾闻洛下缀神仙，火树南栖几十年。",
+    "白首自忻丹桂在，诗名已得四方传。",
+    "行随秋渚将归雁，吟傍梅花欲雪天。",
+    "今日还家莫惆怅，不同初上渡头船。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-5c781bb8-c50a-41d1-99be-232fd4ed4a62"
+}

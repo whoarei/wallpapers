@@ -1,0 +1,19 @@
+{
+  "id": "poem-5d2d1e7b70488a9118781187",
+  "title": "天边行",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "天边老人归未得，日暮东临大江哭。",
+    "陇右河源不种田，胡骑羌兵入巴蜀。",
+    "洪涛滔天风拔木，前飞秃鹙后鸿鹄。",
+    "九度附书向洛阳，十年骨肉无消息。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "思乡",
+    "漂泊"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-4b0bc117-6db3-4fe7-a7ac-6df03c52a62a"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-85cd0d02106d6b02ba285caf",
+  "title": "咏史诗 汉江",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "汉江一带碧流长，两岸春风起绿杨。",
+    "借问胶船何处没，欲停兰棹祀昭王。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-1b462661-1e9a-4410-a99b-0203bb4cfef6"
+}

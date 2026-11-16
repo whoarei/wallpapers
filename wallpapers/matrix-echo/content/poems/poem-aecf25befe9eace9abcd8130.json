@@ -1,0 +1,14 @@
+{
+  "id": "poem-aecf25befe9eace9abcd8130",
+  "title": "春游值雨",
+  "author": "张旭",
+  "dynasty": "唐",
+  "verses": [
+    "欲寻轩槛列清尊，江上烟云向晚昏。",
+    "须倩东风吹散雨，明朝却待入华园。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-435557f1-47d2-4a79-9628-7957533e5e71"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-17ab291715a0d0bf3152872b",
+  "title": "玉楼春",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "冥冥长夜不知晓，寂寂空山几度秋。",
+    "泉下长眠人醒未，悲风萧瑟起松楸。",
+    "老汉曾蒙赵五娘之所托，教我与他看管这坟台。",
+    "这几日有些贫冗，不及来看。",
+    "呀！怎地？(末介唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5235",
+  "tags": []
+}

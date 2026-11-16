@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6346",
+  "script": "kai",
+  "character": "捆",
+  "reading": "kǔn",
+  "description": "kǔn：(1)把散的东西用绳扎起来～扎。～绑。\n(2)量词，指捆在一起的东西一～铅笔。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-捆"
+}

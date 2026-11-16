@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62a4",
+  "script": "kai",
+  "character": "护",
+  "reading": "hù",
+  "description": "贯铁絙护之。\n爱护\n袒护;包庇\n⒈保卫，照顾～卫。～厂。～航。～理。保～。爱～。〈引〉掩盖，包庇莫～短。你不要～着他。\n①外交机构发给本国公民证明身份的执照，在进入另一国停留时使用。\n②旧时旅行或运货时所带的政府机关证明文件。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-护"
+}

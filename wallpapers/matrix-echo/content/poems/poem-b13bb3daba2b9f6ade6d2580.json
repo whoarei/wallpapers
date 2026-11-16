@@ -1,0 +1,17 @@
+{
+  "id": "poem-b13bb3daba2b9f6ade6d2580",
+  "title": "朝中措·萧萧芦叶暮寒生",
+  "author": "张抡",
+  "dynasty": "宋",
+  "verses": [
+    "萧萧芦叶暮寒生。",
+    "雪厌冻云平。",
+    "密洒一篷烟火，惊鸿飞起沙汀。",
+    "收纶罢钓，空江有浪，短棹无声。",
+    "便是天然图画，何须妙手丹青。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-951",
+  "tags": []
+}

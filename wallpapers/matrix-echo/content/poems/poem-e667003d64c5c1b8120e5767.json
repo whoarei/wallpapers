@@ -1,0 +1,22 @@
+{
+  "id": "poem-e667003d64c5c1b8120e5767",
+  "title": "和张仆射塞下曲 三",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "月黑鴈飞高，单于夜遁逃。",
+    "欲将轻骑逐，大雪满弓刀。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "战争",
+    "冬天",
+    "将军",
+    "唐诗三百首",
+    "乐府",
+    "边塞",
+    "赞美"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-ee2a3000-9127-43fa-8618-89a1937322cb"
+}

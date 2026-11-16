@@ -1,0 +1,14 @@
+{
+  "id": "poem-a5ad0c30e08ef94e3c5eec38",
+  "title": "江中风",
+  "author": "杨凌",
+  "dynasty": "唐",
+  "verses": [
+    "白浪暗江中，南泠路不通。",
+    "高樯帆自满，出浦莫呼风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-bbab6661-1d07-4485-86d3-d0b6e6a9159d"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5d5c1de0171fc0906e2ae40f",
+  "title": "虞美人·翠屏闲掩垂珠箔",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "翠屏闲掩垂珠箔，丝雨笼池阁。",
+    "露沾红藕咽清香，谢娘娇极不成狂，罢朝妆。",
+    "小金㶉𫛶沉烟细，腻枕堆云髻。",
+    "浅眉微敛注檀轻，旧欢时有梦魂惊，悔多情。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-35"
+}

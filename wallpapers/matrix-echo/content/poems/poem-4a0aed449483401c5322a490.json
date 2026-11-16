@@ -1,0 +1,16 @@
+{
+  "id": "poem-4a0aed449483401c5322a490",
+  "title": "从军行",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "塞北胡霜下，营州索兵救。",
+    "夜里偷道行，将军马亦瘦。",
+    "刀光照塞月，阵色明如昼。",
+    "传闻贼满山，已共前锋鬬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7dc010f6-30c6-4041-a0f5-3b8f33c6e46e"
+}

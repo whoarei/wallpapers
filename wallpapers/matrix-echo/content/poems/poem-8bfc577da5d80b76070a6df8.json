@@ -1,0 +1,19 @@
+{
+  "id": "poem-8bfc577da5d80b76070a6df8",
+  "title": "燕归梁·风摆红藤卷绣帘",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "风摆红藤卷绣帘。",
+    "宝鉴慵拈。",
+    "日高梳洗几时忺。",
+    "金盆水、弄纤纤。",
+    "髻云谩亸残花淡，和娇媚、瘦岩岩。",
+    "离情更被宿酲兼。",
+    "空惹得、病厌厌。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-792",
+  "tags": []
+}

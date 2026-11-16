@@ -1,0 +1,16 @@
+{
+  "id": "poem-fe8d07d8ae1b73f250d4c143",
+  "title": "横吹曲辞 入塞曲 二",
+  "author": "僧贯休",
+  "dynasty": "唐",
+  "verses": [
+    "方见将军贵，分明对冕旒。",
+    "圣恩如远被，狂虏不难收。",
+    "臣节唯期死，功勋敢望侯。",
+    "终辞修里第，从此出皇州。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f5c68f7a-8b75-42f3-b211-39bad532530b"
+}

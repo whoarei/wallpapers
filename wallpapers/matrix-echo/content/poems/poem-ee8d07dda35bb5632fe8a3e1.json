@@ -1,0 +1,16 @@
+{
+  "id": "poem-ee8d07dda35bb5632fe8a3e1",
+  "title": "送柳秀才往连州看弟",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "离人非逆旅，有弟谪连州。",
+    "楚雨沾猨暮，湘云拂鴈秋。",
+    "蒹葭行广泽，星月棹寒流。",
+    "何处江关鏁，风涛阻客愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b3154fb8-f95e-47b4-87ab-43e9226c839a"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94e3",
+  "script": "seal",
+  "character": "铣",
+  "reading": "xǐ",
+  "description": "用一种能旋转的圆形多刃刀具切削金属工件\n铣刀\n铣工\n铣削\n富有光泽的金属\n黄离踵曜,太阳\n⒈金属有光泽。\n⒈使用一种可以旋转的多刃刀切削金属之器件～削。～刀。～床。\n铣xiān 1.铲东西用的一种工具。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铣"
+}

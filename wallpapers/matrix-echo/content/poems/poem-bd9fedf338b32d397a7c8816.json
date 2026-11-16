@@ -1,0 +1,16 @@
+{
+  "id": "poem-bd9fedf338b32d397a7c8816",
+  "title": "咏笔二首 一",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "秦代将军欲建功，截龙搜兔助英雄。",
+    "用多谁念毛皆拔，抛却更嫌心不中。",
+    "史氏只应归道直，江淹何独偶灵通。",
+    "班超握管不成事，投掷翻从万里戎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c9324b0c-06db-4ba1-bb4e-3471eeab042e"
+}

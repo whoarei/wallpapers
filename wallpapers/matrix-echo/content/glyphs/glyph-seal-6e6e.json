@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6e6e",
+  "script": "seal",
+  "character": "湮",
+  "reading": "yān；yīn",
+  "description": "yān：(1)埋没～灭。～没（mò）。\n(2)淤塞，堵塞昔者禹之～洪水，决江河。”\nyīn：同洇”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-湮"
+}

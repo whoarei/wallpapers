@@ -1,0 +1,15 @@
+{
+  "id": "poem-5be09df270a11b024409e1a6",
+  "title": "西溪子·捍拨双盘金凤",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "捍拨双盘金凤，蝉鬓玉钗摇动。",
+    "画堂前，人不语，弦解语。",
+    "弹到《昭君怨》处，翠蛾愁，不抬头。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-24"
+}

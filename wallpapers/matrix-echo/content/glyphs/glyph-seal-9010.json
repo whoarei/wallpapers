@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9010",
+  "script": "seal",
+  "character": "逐",
+  "reading": "zhú",
+  "description": "zhú：(1)强迫离开～客令。放～。驱～。\n(2)依照先后次序，一一挨着～步。～个。～渐。～年。～一。\n(3)追赶～鹿（喻争夺天下）。角（jué）～（争相取胜）。追～。笑～颜开。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-逐"
+}

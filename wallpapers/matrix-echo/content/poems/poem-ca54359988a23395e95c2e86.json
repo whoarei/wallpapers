@@ -1,0 +1,17 @@
+{
+  "id": "poem-ca54359988a23395e95c2e86",
+  "title": "闻知己入翰林",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "天骥头似鸟，[倐]忽四天下。",
+    "南金色如椹，入火不见火。",
+    "吾交二名士，遽立于帝左。",
+    "凤姿既出世，天意嘱在我。",
+    "奇哉子渊颂，无可无不可。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6d5fecfd-f432-4fa6-8f77-3aee61fd3317"
+}

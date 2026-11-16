@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-97e6",
+  "script": "seal",
+  "character": "韦",
+  "reading": "wéi",
+  "description": "韦 〈名>\n熟皮,去毛熟治的皮革",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-韦"
+}

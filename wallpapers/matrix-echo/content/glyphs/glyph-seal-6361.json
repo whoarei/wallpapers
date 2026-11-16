@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6361",
+  "script": "seal",
+  "character": "捡",
+  "reading": "jiǎn",
+  "description": "约束\n拾取;取\n清理\n察看;检查\n捡liǎn 1.拱手。 2.通\"敛\"。收敛。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-捡"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-191a0e712c5e799a03442ca3",
+  "title": "偈颂七十一首  其一一",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "天兮高，地兮厚。",
+    "月为夜，日为昼。",
+    "重阳定是九月九。",
+    "渊明采菊向东篱，山僧面南看北斗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-3ccbbc4c-e528-4ca6-aa9e-4050fba782f6"
+}

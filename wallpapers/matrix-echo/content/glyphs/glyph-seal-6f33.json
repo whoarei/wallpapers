@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6f33",
+  "script": "seal",
+  "character": "漳",
+  "reading": "zhāng",
+  "description": "zhāng：〔～河〕水名，源出中国山西省，流至河北省入卫河。\n〔～江〕水名，在中国福建省。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-漳"
+}

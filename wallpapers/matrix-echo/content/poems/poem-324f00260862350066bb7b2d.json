@@ -1,0 +1,16 @@
+{
+  "id": "poem-324f00260862350066bb7b2d",
+  "title": "吉日",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "吉日维戊，既伯既祷。田车既好，四牡孔阜。升彼大阜，从其群丑。",
+    "吉日庚午，既差我马。兽之所同，麀鹿麌麌。漆沮之从，天子之所。",
+    "瞻彼中原，其祁孔有。儦儦俟俟，或群或友。悉率左右，以燕天子。",
+    "既张我弓，既挟我矢。发彼小豝，殪此大兕。以御宾客，且以酌醴。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-179"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8005",
+  "script": "seal",
+  "character": "者",
+  "reading": "zhě",
+  "description": "zhě：(1)用在名词、动词、形容词、数词、词组后，并与其相结合，指人、指事、指物、指时等读～。作～。二～必居其一。来～。\n(2)助词，表示语气停顿并构成判断句的句式陈胜～，阳城人也。\n(3)这，此（多用在古诗词曲中）～个。～回。～番。～边走。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-者"
+}

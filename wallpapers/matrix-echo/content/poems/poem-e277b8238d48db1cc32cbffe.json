@@ -1,0 +1,16 @@
+{
+  "id": "poem-e277b8238d48db1cc32cbffe",
+  "title": "送零陵贾使君二首  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "借甚零陵郡，风流记昔贤。",
+    "宅存元水部，人识范忠宣。",
+    "山近地宜竹，溪清岸有泉。",
+    "官闲时访古，余韵故依然。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-b5f44cf2-1521-4100-b174-a961536c8ab4"
+}

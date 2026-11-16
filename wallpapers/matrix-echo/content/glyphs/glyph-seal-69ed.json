@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-69ed",
+  "script": "seal",
+  "character": "槭",
+  "reading": "qì；sè",
+  "description": "qì：落叶小乔木，树干平滑，叶对生，掌状分裂，秋季变为红色或黄色。花黄绿色，结翅果，能借风力散布种子。木材可做器具。\nsè：树枝光秃的样子，树叶凋落庭树～以洒落兮”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-槭"
+}

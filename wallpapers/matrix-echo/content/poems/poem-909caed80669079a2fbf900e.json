@@ -1,0 +1,14 @@
+{
+  "id": "poem-909caed80669079a2fbf900e",
+  "title": "颂古三十一首  其七",
+  "author": "释玿",
+  "dynasty": "宋",
+  "verses": [
+    "是贼识贼精识精，南泉无过强惺惺。",
+    "赵州礼拜归堂去，前箭犹轻后箭深。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-903f87d6-f2a6-435e-87dc-1a1db66b24bd"
+}

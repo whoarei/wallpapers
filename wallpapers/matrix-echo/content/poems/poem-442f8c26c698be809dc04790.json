@@ -1,0 +1,16 @@
+{
+  "id": "poem-442f8c26c698be809dc04790",
+  "title": "姑熟杂咏 慈姥竹",
+  "author": "李赤",
+  "dynasty": "唐",
+  "verses": [
+    "野竹攒石生，含烟映江岛。",
+    "翠色落波深，虚声带寒早。",
+    "龙吟曾未听，凤曲吹应好。",
+    "不学蒲柳凋，贞心常自保。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ce3d2a74-0d46-41ac-9d58-ad95c18e0da4"
+}

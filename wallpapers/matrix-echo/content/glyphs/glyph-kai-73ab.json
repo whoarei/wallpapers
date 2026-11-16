@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-73ab",
+  "script": "kai",
+  "character": "玫",
+  "reading": "méi",
+  "description": "méi：〔～瑰〕a.美玉；b.落叶灌木，枝上有刺，花有紫红色、白色等多种，香味很浓，可做香料，花和根可入药。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-玫"
+}

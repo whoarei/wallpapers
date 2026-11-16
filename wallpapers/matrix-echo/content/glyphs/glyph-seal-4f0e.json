@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f0e",
+  "script": "seal",
+  "character": "伎",
+  "reading": "jì；qí",
+  "description": "jì：(1)技巧，才能～痒（人擅长某种技艺，一遇机会，急欲表现，好像皮肤发痒不能自忍，亦作技痒”）。～俩（liǎng）。\n(2)古代称以歌舞为业的女子。\nqí：〔～～〕奔走的样子，如鹿斯之奔，惟足～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-伎"
+}

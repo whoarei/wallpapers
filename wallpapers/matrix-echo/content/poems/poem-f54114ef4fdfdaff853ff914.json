@@ -1,0 +1,16 @@
+{
+  "id": "poem-f54114ef4fdfdaff853ff914",
+  "title": "长安晓望寄崔补阙",
+  "author": "包何",
+  "dynasty": "唐",
+  "verses": [
+    "迢递山河拥帝京，参差宫殿接云平。",
+    "风吹晓漏经长乐，柳带晴烟出禁城。",
+    "天净笙歌临路发，日高车马隔尘行。",
+    "自怜久滞诸生列，未得金闺籍姓名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-f5a1b0dc-92fd-41ad-aa63-3bb3b4c772f7"
+}

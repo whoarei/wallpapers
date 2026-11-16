@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b3e",
+  "script": "seal",
+  "character": "款",
+  "reading": "kuǎn",
+  "description": "kuǎn：(1)诚恳～留。～曲（qǔ）（殷勤的心意）。～待。～洽（亲切融洽）。～诚。～语（恳切谈话）。\n(2)器物上刻的字，书画、信件头尾上的名字落～（题写名字）。题～。\n(3)式样～式。\n(4)法规条文里分的项目条～。第三条第一～。\n(5)经费，钱财～项。～额。公～。存～。汇～。\n(6)敲打，叩～门。～打。～塞。～关而入。\n(7)至绕黄山而～牛首”。\n(8)留，招待～客。\n(9)空～言不听，奸乃不生”。\n(10)缓慢～步。～～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-款"
+}

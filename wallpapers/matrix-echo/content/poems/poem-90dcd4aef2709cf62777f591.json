@@ -1,0 +1,16 @@
+{
+  "id": "poem-90dcd4aef2709cf62777f591",
+  "title": "鲤鱼",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "似龙鳞又足，只是欠登门。",
+    "月里腮犹湿，泥中目未昏。",
+    "乞锄防蚁穴，望水写金盆。",
+    "他日能为雨，公田报此恩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-925eb6e7-50a8-4683-8f76-155d993df2a2"
+}

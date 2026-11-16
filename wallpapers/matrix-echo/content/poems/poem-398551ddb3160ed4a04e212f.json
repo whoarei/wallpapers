@@ -1,0 +1,16 @@
+{
+  "id": "poem-398551ddb3160ed4a04e212f",
+  "title": "咏谈容娘",
+  "author": "常非月",
+  "dynasty": "唐",
+  "verses": [
+    "举手整花钿，翻身舞锦筵。",
+    "马围行处匝，人压看场圆。",
+    "歌要齐声和，情教细语传。",
+    "不知心大小，容得许多怜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-1c5837c9-6ef1-4c77-b669-77663144d23d"
+}

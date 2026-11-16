@@ -1,0 +1,14 @@
+{
+  "id": "poem-937f0b6346cd12cb60020d92",
+  "title": "代胡僧留别",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "此地缘疎语未通，归时老病去无穷。",
+    "定知不彻南天竺，死在条支阴碛中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-85d5ca9c-bcd9-4cbc-b1dd-265dc92dc649"
+}

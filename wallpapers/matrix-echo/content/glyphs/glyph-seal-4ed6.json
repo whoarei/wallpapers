@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ed6",
+  "script": "seal",
+  "character": "他",
+  "reading": "tā",
+  "description": "tā：(1)称你、我以外的第三人，一般指男性，有时泛指，不分性别～们（可包括男性和女性）。～杀。\n(2)别的，另外的～人。～日。～乡。～山之石，可以攻玉。其～。\n(3)虚指睡～一觉。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-他"
+}

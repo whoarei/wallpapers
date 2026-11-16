@@ -1,0 +1,18 @@
+{
+  "id": "poem-06d1aad9933463cb06eba9d4",
+  "title": "听筝",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "鸣筝金粟柱，素手玉房前。",
+    "欲得周郎顾，时时误拂弦。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言绝句",
+    "音乐"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7f3799de-78b4-49bc-b6d8-a5fa3ecacd33"
+}

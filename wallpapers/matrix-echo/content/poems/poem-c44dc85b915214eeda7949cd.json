@@ -1,0 +1,16 @@
+{
+  "id": "poem-c44dc85b915214eeda7949cd",
+  "title": "郊庙歌辞 昭德皇后庙乐章 永和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "穆清庙，荐严禋。",
+    "昭礼备，和乐新。",
+    "望灵光，集元辰。",
+    "祚无极，享万春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-389ab6fd-17b0-4633-af04-f1f4d9985116"
+}

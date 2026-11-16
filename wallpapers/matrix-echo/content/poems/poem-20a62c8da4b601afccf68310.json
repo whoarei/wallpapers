@@ -1,0 +1,14 @@
+{
+  "id": "poem-20a62c8da4b601afccf68310",
+  "title": "虞美人",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "缉麻缉苎攻针指，亦是不得已。",
+    "时常眼泪不曾干，只恐别郎容易见郎难。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2594",
+  "tags": []
+}

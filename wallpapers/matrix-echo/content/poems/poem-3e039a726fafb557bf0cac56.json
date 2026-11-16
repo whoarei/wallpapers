@@ -1,0 +1,16 @@
+{
+  "id": "poem-3e039a726fafb557bf0cac56",
+  "title": "於潜尉陈时斋获贼",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "小队气晶晶，平常白面生。",
+    "沈冤资大勇，凶胆折先声。",
+    "山鬼晨犹寐，隣厖夜不惊。",
+    "历阳穷少府，此话恐难并。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-e5f9c72d-95e0-46c7-8c8b-023ee9b49af7"
+}

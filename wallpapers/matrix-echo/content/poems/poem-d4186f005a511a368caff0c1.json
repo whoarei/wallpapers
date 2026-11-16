@@ -1,0 +1,16 @@
+{
+  "id": "poem-d4186f005a511a368caff0c1",
+  "title": "走马引",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "我有辞乡劒，玉锋堪截云。",
+    "襄阳走马客，意气自生春。",
+    "朝嫌劒花净，暮嫌劒光冷。",
+    "能持劒向人，不解持照身。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-9b8850ed-6675-484b-90da-32b3125eff83"
+}

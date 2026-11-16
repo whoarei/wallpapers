@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8110",
+  "script": "kai",
+  "character": "脐",
+  "reading": "qí",
+  "description": "螃蟹腹部的厣,雌者圆形称团脐”,雄者尖形称尖脐”\n某些物体中央凹凸处状如脐\n⒉螃蟹腹部的甲壳，雄尖雌圆，故有尖～、圆～之称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-脐"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-0d777f65a535cf59319ce63f",
+  "title": "冯双礼珠弹云璈以答歌",
+  "author": "李翔",
+  "dynasty": "唐",
+  "verses": [
+    "王母词终荐碧桃，答歌仙子奏云璈。",
+    "调凌空洞音初起，曲丽钧天韵更高。",
+    "霞断已翔烟际鹤，风生欲抃海心鳌。",
+    "瑶池侍女争回首，无隈琅英坠节毛。",
+    "（项云「无隈」当作「无限」，形近而误。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-6296651d-15d5-4f47-bb90-6cf2b1b14e62"
+}

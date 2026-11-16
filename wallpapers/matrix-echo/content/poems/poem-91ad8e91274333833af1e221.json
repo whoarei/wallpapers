@@ -1,0 +1,16 @@
+{
+  "id": "poem-91ad8e91274333833af1e221",
+  "title": "送卢缄归扬州",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "曾向雷塘寄掩扉，荀家灯火有余辉。",
+    "关河日暮望空极，杨柳渡头人独归。",
+    "隋苑荒台风褭褭，灞陵残雨梦依依。",
+    "今年春色还相悮，为我江边谢钓矶。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-5001bf44-e94e-4a2b-a2b9-cbc65005f72a"
+}

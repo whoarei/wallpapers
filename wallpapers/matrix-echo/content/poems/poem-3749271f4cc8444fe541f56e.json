@@ -1,0 +1,19 @@
+{
+  "id": "poem-3749271f4cc8444fe541f56e",
+  "title": "长相思·红疏疏",
+  "author": "王质",
+  "dynasty": "宋",
+  "verses": [
+    "红疏疏，紫疏疏。",
+    "可惜飘零著地铺。",
+    "春残心转孤。",
+    "莺相呼。",
+    "燕相呼。",
+    "楼下垂杨遮得乌。",
+    "倚阑人已无。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-306",
+  "tags": []
+}

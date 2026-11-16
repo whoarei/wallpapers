@@ -1,0 +1,20 @@
+{
+  "id": "poem-c29cdbeec21063d7aaf8b489",
+  "title": "虞美人·高楼远阁花飞遍",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "高楼远阁花飞遍。",
+    "急雨捎池面。",
+    "けけ杨柳不知门。",
+    "多少乱莺啼处、暮烟昏。",
+    "银钩小字题芳絮。",
+    "宛转回文语。",
+    "可怜单枕梦行云。",
+    "肠断江南千里、未归人。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-559",
+  "tags": []
+}

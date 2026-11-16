@@ -1,0 +1,16 @@
+{
+  "id": "poem-a6a4f3f74967a3005f1ae8fa",
+  "title": "饯许州宋司马赴任",
+  "author": "徐坚",
+  "dynasty": "唐",
+  "verses": [
+    "旧许星车转，神京祖帐开。",
+    "断烟伤别望，零雨送离杯。",
+    "辞燕依空遶，宾鸿入听哀。",
+    "分襟与秋气，日夕共悲哉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-cb7d5cc0-b4b6-49fa-95d0-a9d67836aa5b"
+}

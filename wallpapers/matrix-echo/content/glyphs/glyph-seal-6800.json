@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6800",
+  "script": "seal",
+  "character": "栀",
+  "reading": "zhī",
+  "description": "zhī：〔～子〕ａ．常绿灌木或小乔木，夏季开白花，有浓香。果实卵形，可入药，亦可作黄色染料。有的地区亦称水横枝”；ｂ．这种植物的果实。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-栀"
+}

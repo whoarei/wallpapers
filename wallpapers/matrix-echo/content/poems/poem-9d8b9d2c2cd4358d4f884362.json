@@ -1,0 +1,16 @@
+{
+  "id": "poem-9d8b9d2c2cd4358d4f884362",
+  "title": "灵台",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "经始灵台，经之营之。庶民攻之，不日成之。经始勿亟，庶民子来。",
+    "王在灵囿，麀鹿攸伏。麀鹿濯濯，白鸟翯翯。王在灵沼，于牣鱼跃。",
+    "虡业维枞，贲鼓维镛。于论鼓钟，于乐辟雍。",
+    "于论鼓钟，于乐辟雍。鼍鼓逢逢。蒙瞍奏公。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-241"
+}

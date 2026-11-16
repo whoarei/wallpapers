@@ -1,0 +1,16 @@
+{
+  "id": "poem-00b0e52b9c06d5279f38d9a7",
+  "title": "倪文举寺簿挽诗三首  其三",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "水国相从日，文场并进时。",
+    "驽材元有限，逸驾自难追。",
+    "方指青云路，俄闻薤露诗。",
+    "鹏程千万里，却付称家儿。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-a939c921-3f8a-4f5e-8e87-418e586ec500"
+}

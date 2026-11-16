@@ -1,0 +1,16 @@
+{
+  "id": "poem-723701382b317f0d0a926fcd",
+  "title": "春晚闲居寄陈嵩伯",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "春霖闭门久，春色聚庭木。",
+    "一梦辞旧山，四邻有新哭。",
+    "菰蒲生白水，风篁擢纤玉。",
+    "为忆湖上翁，花时独冥目。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-81410c71-1b7d-4b01-a4ab-2bd3fe99e3f3"
+}

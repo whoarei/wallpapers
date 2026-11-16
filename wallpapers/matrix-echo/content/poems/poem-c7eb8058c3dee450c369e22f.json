@@ -1,0 +1,15 @@
+{
+  "id": "poem-c7eb8058c3dee450c369e22f",
+  "title": "诉衷情·鸳鸯交颈绣衣轻",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "鸳鸯交颈绣衣轻，碧沼藕花馨。",
+    "偎藻荇，映兰汀，和雨浴浮萍。",
+    "思妇对心惊，想边庭。何时解佩掩云屏，诉衷情。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-29"
+}

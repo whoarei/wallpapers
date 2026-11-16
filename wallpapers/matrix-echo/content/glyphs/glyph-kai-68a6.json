@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-68a6",
+  "script": "kai",
+  "character": "梦",
+  "reading": "mèng",
+  "description": "⒈睡眠时局部大脑皮层还未停止活动，因体内、外各种刺激而引起大脑内的表现影像日有所思，夜有所～。\n⒉指做梦～见。～游。\n⒊〈喻〉虚幻～幻。～想。～求。\n梦méng 1.不明。 2.昏乱。见\"梦梦\"。 3.最细的雨。 4.用同\"蒙\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梦"
+}

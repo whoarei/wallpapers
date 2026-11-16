@@ -1,0 +1,15 @@
+{
+  "id": "poem-43d1858dc543bf99afca3f76",
+  "title": "中谷有蓷",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "中谷有蓷，暵其干矣。有女仳离，慨其叹矣。慨其叹矣，遇人之艰难矣。",
+    "中谷有蓷，暵其修矣。有女仳离，条其歗矣。条其歗矣，遇人之不淑矣。",
+    "中谷有蓷，暵其湿矣。有女仳离，啜其泣矣。啜其泣矣，何嗟及矣。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-68"
+}

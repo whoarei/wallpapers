@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-96f6",
+  "script": "kai",
+  "character": "零",
+  "reading": "líng",
+  "description": "líng：(1)液体降落感激涕～。\n(2)植物凋谢～落。凋～。～散（sàn）。\n(3)整数以外的尾数～数儿。\n(4)部分的，细碎的，与整”相对～碎。～卖。～钱。～售。～乱。～工。～打碎敲。\n(5)整数系统中一个重要的数，小于一切自然数，是介于正数和负数之间唯一的数，记作０”。有时用来表示某种量的基准，如摄氏温度计上的冰点，记作０℃”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-零"
+}

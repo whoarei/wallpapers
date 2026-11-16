@@ -1,0 +1,14 @@
+{
+  "id": "poem-a5a08256def95626e67f2b72",
+  "title": "江行无题一百首 二十五",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "佳节虽逢菊，浮生正似萍。",
+    "故山何处望，荒岸小长亭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8a267130-ba2d-4914-8b82-5df29e273085"
+}

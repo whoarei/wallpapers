@@ -1,0 +1,17 @@
+{
+  "id": "poem-ef5f440d10383c09c14cab5c",
+  "title": "好事近·帘外五更风",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "帘外五更风，消受晓寒时节。",
+    "刚剩秋衾一半，拥透帘残月。",
+    "争教清泪不成冰。",
+    "好处便轻别。",
+    "拟把伤离情绪，待晓寒重说。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-62"
+}

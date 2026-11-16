@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6602",
+  "script": "seal",
+  "character": "昂",
+  "reading": "áng",
+  "description": "áng：(1)仰，高抬～首。～然。\n(2)高，贵～贵。价～。\n(3)情绪高～扬。高～。～藏（cáng）（形容人的仪表雄伟，气宇不凡的样子）。～奋。气～～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昂"
+}

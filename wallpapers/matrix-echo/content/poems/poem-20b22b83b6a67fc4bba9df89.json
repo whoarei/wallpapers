@@ -1,0 +1,20 @@
+{
+  "id": "poem-20b22b83b6a67fc4bba9df89",
+  "title": "负薪行",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "夔州处女发半华，四十五十无夫家。",
+    "更遭丧乱嫁不售，一生抱恨堪咨嗟。",
+    "土风坐男使女立，应当门户女出入。",
+    "十犹八九负薪归，卖薪得钱应供给。",
+    "至老双鬟只垂颈，野花山叶银钗竝。",
+    "筋力登危集市门，死生射利兼盐井。",
+    "面妆首饰杂啼痕，地褊衣寒困石根。",
+    "若道巫山女麤丑，何得此有昭君邨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-7f4b9cac-65c4-42e8-949c-4dabc621de01"
+}

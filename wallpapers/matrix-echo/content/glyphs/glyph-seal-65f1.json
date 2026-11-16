@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65f1",
+  "script": "seal",
+  "character": "旱",
+  "reading": "hàn",
+  "description": "hàn：(1)长时间不下雨，缺雨，缺水，与涝”相对～季。～灾。干～。防～。\n(2)非水田的、无水的、陆地上的，与水无关的～井。～田。～獭。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-旱"
+}

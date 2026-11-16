@@ -1,0 +1,14 @@
+{
+  "id": "poem-38faf4000543bbe073b0553e",
+  "title": "禁烟作",
+  "author": "牟融",
+  "dynasty": "唐",
+  "verses": [
+    "柳拖金缕拂朱栏，花扑香尘满绣鞍。",
+    "尊酒临风酬令节，越罗衣薄觉春寒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-7a7c5b6b-7d8b-40fd-a4f1-1ab8962a0826"
+}

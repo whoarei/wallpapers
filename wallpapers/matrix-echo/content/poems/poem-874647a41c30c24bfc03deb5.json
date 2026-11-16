@@ -1,0 +1,15 @@
+{
+  "id": "poem-874647a41c30c24bfc03deb5",
+  "title": "又",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "转脑回头，百般卖弄。",
+    "滞货只些儿，尽力拽不动。",
+    "吽吽，我不信得恁么郑重。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-eda8adb0-dbd3-4122-82c8-70fdb318d499"
+}

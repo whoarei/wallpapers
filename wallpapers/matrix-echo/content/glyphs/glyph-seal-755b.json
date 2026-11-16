@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-755b",
+  "script": "seal",
+  "character": "畛",
+  "reading": "zhěn",
+  "description": "zhěn：(1)田地间的小路。\n(2)界限～域。～畦（规定的范围，界限）。\n(3)致意，祝告～于鬼神”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-畛"
+}

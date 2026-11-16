@@ -1,0 +1,16 @@
+{
+  "id": "poem-6a6ff88e519d4ac5bd5f9066",
+  "title": "寄赵仁和",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "剧繁迎刃听裁剸，化自京师守令宣。",
+    "处默有声长殷殷，所闻无善不拳拳。",
+    "戚联阊阖天虽近，下若沧溟德更渊。",
+    "任是灵椿根力浅，也应凡草不齐年。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-d8a04059-1947-4c87-9775-52f99114ee0f"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-762d2d5e29217c04f56a7f03",
+  "title": "郊庙歌辞 祭汾阴乐章 顺和",
+  "author": "林钟宫",
+  "dynasty": "唐",
+  "verses": [
+    "大乐和畅，殷荐明神。",
+    "一降通感，八变必臻。",
+    "有求斯应，无德不亲。",
+    "降灵醉止，休征万人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-1ad5a5b5-d7d7-4678-a728-02e11204bc29"
+}

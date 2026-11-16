@@ -1,0 +1,18 @@
+{
+  "id": "poem-fba887813763ad6a5401d4cd",
+  "title": "送蔡山人",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "东山布衣明古今，自言独未逢知音。",
+    "识者阅见一生事，到处豁然千里心。",
+    "看书学劒长辛苦，近日方思谒明主。",
+    "斗酒相留醉复醒，悲歌数年泪如雨。",
+    "丈夫遭遇不可知，买臣主父皆如斯。",
+    "我今蹭蹬无所似，看尔崩腾何若为。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-9a09444a-363a-4ca9-9537-2c6a91683de4"
+}

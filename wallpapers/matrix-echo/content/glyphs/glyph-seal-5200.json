@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5200",
+  "script": "seal",
+  "character": "刀",
+  "reading": "dāo",
+  "description": "dāo：(1)用来切、割、斩、削、砍、刺、铡的工具～子。～兵。～法。剪～。镰～。\n(2)中国的纸张计量单位一刀合一百张。\n(3)古代的一种钱币，因其形如刀故称～币。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-刀"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-78c5cb63cadba808d39ed610",
+  "title": "到家",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "童稚苦相问，归来何太迟。",
+    "共谁争岁月，赢得鬓边丝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e37422f9-a0eb-4593-8b8b-cde70dd03dcd"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-5489bf8a7430d9e1ba100f63",
+  "title": "仙人塘",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "陂塘一曲水泓澄，山簇瑶台十二层。",
+    "剩脉余膏流不尽，芝田蕙圃岁常登。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-231ea2d3-7f29-4c6a-8983-cbf1b5cf2445"
+}

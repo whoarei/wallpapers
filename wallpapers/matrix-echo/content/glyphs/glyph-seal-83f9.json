@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-83f9",
+  "script": "seal",
+  "character": "菹",
+  "reading": "zū",
+  "description": "zū：(1)酸菜，腌菜。\n(2)多水草的沼泽地带～草。\n(3)剁成肉酱，切碎～醢（古代把人剁成肉酱的一种酷刑）。\n(4)肉麋鹿为～。\n(5)枯草～薪。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-菹"
+}

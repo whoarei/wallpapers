@@ -1,0 +1,16 @@
+{
+  "id": "poem-068675fb57c835a10eda4e7e",
+  "title": "经栖白旧院二首 一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "竺卿何处去，触目尽凄凉。",
+    "不见中秋月，空余一炷香。",
+    "残花飘暮雨，枯叶盖啼螀。",
+    "谁礼新坟塔，萧条渭水傍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-98da9e6a-be05-4f84-b49c-41ea3b29ba17"
+}

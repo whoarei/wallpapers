@@ -1,0 +1,16 @@
+{
+  "id": "poem-84ebc009a0bdd1dddf2b8833",
+  "title": "菩萨蛮·玉绳斜转疑清晓",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "玉绳斜转疑清晓，凄凄月白渔阳道。",
+    "星影漾寒沙，微茫织浪花。",
+    "金笳鸣故垒，唤起人难睡。",
+    "无数紫鸳鸯，共嫌今夜凉。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-184"
+}

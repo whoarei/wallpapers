@@ -1,0 +1,18 @@
+{
+  "id": "poem-577925918cc32a05b6e6b0b9",
+  "title": "省题诗二十一首 咏菊",
+  "author": "王棨",
+  "dynasty": "唐",
+  "verses": [
+    "秋来多野菊，节应[有]黄花。",
+    "闲叶玉如栗，满藂金出沙。",
+    "池边迷瑞鹄，洞里悟仙牙。",
+    "蘂散非红豓，香飘异[绮]葩。",
+    "赠诗宜魏帝，泛酒称陶家。",
+    "明日登高处，期君手不赊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-b659cc66-8238-432b-b46c-0616e66d342d"
+}

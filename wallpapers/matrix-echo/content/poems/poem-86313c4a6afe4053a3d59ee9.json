@@ -1,0 +1,14 @@
+{
+  "id": "poem-86313c4a6afe4053a3d59ee9",
+  "title": "海庄观稼",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "东输三十六谿湍，海若谽谺不足吞。",
+    "我有黄云连断岸，夜深随月看潮痕。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-9e773072-303e-41e5-a182-d4e0779fc8d8"
+}

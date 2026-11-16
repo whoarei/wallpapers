@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f1b",
+  "script": "seal",
+  "character": "弛",
+  "reading": "chí",
+  "description": "chí：(1)放松，松懈，解除松～。废～。～惰（懈怠）。～缓（局势、气氛等变和缓）。～张（张”，拉紧弓弦；弛”，放松弓弦，喻兴废、宽严、劳逸等）。\n(2)延缓～期。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-弛"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-a9877f279e16e5b4ec62de4f",
+  "title": "巴江雨夜",
+  "author": "杨凭",
+  "dynasty": "唐",
+  "verses": [
+    "五岭天无雁，三巴客问津。",
+    "纷纷轻汉暮，漠漠暗江春。",
+    "青草连湖岸，繁花忆楚人。",
+    "芳菲无限路，几夜月明新。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-1c2374ee-4b03-4303-8bed-377a9dfd290a"
+}

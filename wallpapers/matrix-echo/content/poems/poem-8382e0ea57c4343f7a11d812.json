@@ -1,0 +1,18 @@
+{
+  "id": "poem-8382e0ea57c4343f7a11d812",
+  "title": "夜下湘中",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "洞庭人夜别，孤棹下湘中。",
+    "露洗寒山遍，波摇楚月空。",
+    "密林飞暗狖，广泽发鸣鸿。",
+    "行值扬帆者，江分又不同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-20ec62d2-e652-45e4-a44d-d9a5b7266a2e"
+}

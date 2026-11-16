@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-626d",
+  "script": "kai",
+  "character": "扭",
+  "reading": "niǔ",
+  "description": "niǔ：(1)转动，扳转～过脸来。～头。\n(2)拧断强～的瓜不甜。\n(3)拧伤～了腰。\n(4)身体亿转动～动。～捏。～秧歌。\n(5)揪住～打。\n(6)违拗胳臂～不过大腿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-扭"
+}

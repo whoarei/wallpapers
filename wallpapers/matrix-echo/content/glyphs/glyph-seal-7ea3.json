@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ea3",
+  "script": "seal",
+  "character": "纣",
+  "reading": "zhòu",
+  "description": "驾车马后部的革带\n商代最末的君主名,史称纣王\n⒈驾车时系在牲口后的皮带子。\n⒉〈古〉人名。商朝末代君主。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-纣"
+}

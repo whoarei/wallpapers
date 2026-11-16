@@ -1,0 +1,16 @@
+{
+  "id": "poem-1898cddcfb0e31feb57e36da",
+  "title": "早秋山中作",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "荣枯无路入千峰，肥遯谁谐此志同。",
+    "司寇亦曾遭鲁黜，步兵何事哭途穷。",
+    "桧松瘦健滴秋露，户牖虚明生晚风。",
+    "山思更清人影绝，陇云飞入草堂中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-5b184397-9da2-44e7-be9b-b73373769e30"
+}

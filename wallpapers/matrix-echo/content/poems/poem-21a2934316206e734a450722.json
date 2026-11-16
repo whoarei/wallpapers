@@ -1,0 +1,14 @@
+{
+  "id": "poem-21a2934316206e734a450722",
+  "title": "鸣鴈松林接待",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "望见松林笑满腮，香厨岂为者僧开。",
+    "三千里外有知己，鸣鴈带书招不来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-d16ebe93-6da1-473d-8eec-c9ebcbb246e7"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-fe88e9c767e9a727b4fa9e9c",
+  "title": "点绛唇·罗幕重重",
+  "author": "张纲",
+  "dynasty": "宋",
+  "verses": [
+    "罗幕重重，画堂迎腊和风转。",
+    "玳筵高展。",
+    "知是群仙宴。",
+    "银鸭香浮，红袖翻歌扇。",
+    "金杯劝。",
+    "深深祝愿。",
+    "争把蟠桃献。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-655",
+  "tags": []
+}

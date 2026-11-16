@@ -1,0 +1,16 @@
+{
+  "id": "poem-ab5db027f912bd9a42d25b3f",
+  "title": "答卢虔故园见寄",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "访旧无一人，独归清雒春。",
+    "花闻哭声死，水见别容新。",
+    "乱后故乡宅，多为行路尘。",
+    "因悲楚左右，谤玉不知珉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-cff74d90-de40-4e9a-a1b8-f3885700f76d"
+}

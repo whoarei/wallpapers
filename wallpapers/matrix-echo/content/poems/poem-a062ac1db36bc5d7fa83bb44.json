@@ -1,0 +1,18 @@
+{
+  "id": "poem-a062ac1db36bc5d7fa83bb44",
+  "title": "明皇游月宫歌",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "铁龙一掷九万里，银桥冉冉行秋水。",
+    "霓裳不是世间音，只有嫦娥似妃子。",
+    "恍然一梦酒初醒，依然玉座云母屏。",
+    "明朝写出天上曲，却笑羯鼓羊皮腥。",
+    "人间万事如秋草，离别苦多欢乐少。",
+    "崎岖万里锦官城，此身曾作银桥行。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-bc58d0db-f367-47f3-8674-4963ec06ff0c"
+}

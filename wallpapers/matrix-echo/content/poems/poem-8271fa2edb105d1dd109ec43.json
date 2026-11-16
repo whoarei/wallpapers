@@ -1,0 +1,18 @@
+{
+  "id": "poem-8271fa2edb105d1dd109ec43",
+  "title": "天门山",
+  "author": "余芑舒",
+  "dynasty": "宋",
+  "verses": [
+    "谁将嘉号标奇观，山鸟山花第一重。",
+    "天阙常时瞻北极，县图此处数西峰。",
+    "景云百战犹遗址，当日诸公几瘦筇。",
+    "定有英灵来访旧，夜闻嘶马晓无踪。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "天门山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-edf4bb95-0259-409f-95b7-3f0207795f4f"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-205d6477c529eeeee9939de7",
+  "title": "罗鼓令",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "我终朝的受馁，你将来的饭怎吃？疾忙便抬，非干是我有些馋态。",
+    "(外唱)你看他衣衫都解，好茶饭将甚去买？婆婆，兀的是天灾，教他媳妇每难布摆。",
+    "(旦唱)婆婆息怒且休罪，待奴家一霎时却得再安排。",
+    "(合)思量到此，珠泪满腮。",
+    "看看做鬼，沟渠里埋。",
+    "纵然不死也难挨，教人只恨蔡伯喈。",
+    "(净唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5069",
+  "tags": []
+}

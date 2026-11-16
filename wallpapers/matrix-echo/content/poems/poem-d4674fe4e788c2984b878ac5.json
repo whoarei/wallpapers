@@ -1,0 +1,16 @@
+{
+  "id": "poem-d4674fe4e788c2984b878ac5",
+  "title": "陪卢中丞闲游山寺",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "野寺出人境，舍舟登远峰。",
+    "林开明见月，万壑静闻钟。",
+    "拥烛明山翠，交麾动水容。",
+    "如何股肱守，尘外得相逢。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6383bc37-f778-4a0e-ba86-453a1c847052"
+}

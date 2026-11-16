@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9649",
+  "script": "seal",
+  "character": "陉",
+  "reading": "xíng",
+  "description": "山脉中断的地方\n灶边承放器物处的形状、样子\n斜坡\n⒈山口，山脉中断的地方。\n⒉灶边放东西的土台。\n陉jìng 1.狭窄的通道。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陉"
+}

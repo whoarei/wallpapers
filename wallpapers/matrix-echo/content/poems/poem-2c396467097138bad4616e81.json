@@ -1,0 +1,14 @@
+{
+  "id": "poem-2c396467097138bad4616e81",
+  "title": "赠馆驿刘巡官",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "云别青山马踏尘，负才难觅作闲人。",
+    "莫言馆驿无公事，诗酒能消一半春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4e8cb1e3-f087-47ba-ba7c-ec284211e11d"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-33a99470cbd10891920004ab",
+  "title": "社日",
+  "author": "张演",
+  "dynasty": "唐",
+  "verses": [
+    "鹅湖山下稻粱肥，豚栅鸡栖对掩扉。",
+    "桑柘影斜春社散，家家扶得醉人归。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-社日"
+}

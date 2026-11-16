@@ -1,0 +1,16 @@
+{
+  "id": "poem-34d91045d21afaf61f10e4d4",
+  "title": "和欧阳永叔少师会老唱和诗三首 寄汝阴少师",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "得时行道贵知终，猛退如公世罕逢。",
+    "掷弃浮名同敝屣，保全高节似寒松。",
+    "文章千古追谟诰，勋业三朝镂鼎钟。",
+    "见说新堂频燕会，故时宾客定相容。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-b3114650-68bd-468b-9dd4-4bf9eca6e7ed"
+}

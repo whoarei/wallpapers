@@ -1,0 +1,17 @@
+{
+  "id": "poem-7629ff7be2e8c6cd0181ef50",
+  "title": "少年游·佳人巧笑值千金",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "佳人巧笑值千金。",
+    "当日偶情深。",
+    "几回饮散，灯残香暖，好事尽鸳衾。",
+    "如今万水千山阻，魂杳杳、信沈沈。",
+    "孤棹烟波，小楼风月，两处一般心。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-155",
+  "tags": []
+}

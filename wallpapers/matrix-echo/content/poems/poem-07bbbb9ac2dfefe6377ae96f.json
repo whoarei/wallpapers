@@ -1,0 +1,22 @@
+{
+  "id": "poem-07bbbb9ac2dfefe6377ae96f",
+  "title": "辋川闲居赠裴秀才迪",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "寒山转苍翠，秋水日潺湲。",
+    "倚杖柴门外，临风听暮蝉。",
+    "渡头余落日，墟里上孤烟。",
+    "复值接舆醉，狂歌五柳前。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写景",
+    "抒情",
+    "秋天",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a2b4e8ca-92e3-4101-8a54-739b8f1d8184"
+}

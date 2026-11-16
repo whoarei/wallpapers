@@ -1,0 +1,16 @@
+{
+  "id": "poem-abdf89c2bfc9b3e39864d073",
+  "title": "和裴少府怀京兄弟",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "宦游三楚外，家在五陵原。",
+    "凉夜多归梦，秋风满故园。",
+    "北书无远信，西候独伤魂。",
+    "空念青门别，殷勤岐路言。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-e438ac36-0098-48c2-9f19-538b3864b9eb"
+}

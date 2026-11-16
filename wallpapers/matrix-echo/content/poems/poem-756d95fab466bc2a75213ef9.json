@@ -1,0 +1,16 @@
+{
+  "id": "poem-756d95fab466bc2a75213ef9",
+  "title": "上元怀古二首 一",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "南朝天子爱风流，尽守江山不到头。",
+    "总是战争收拾得，却因歌舞破除休。",
+    "尧行道德终无敌，秦把金汤可自由。",
+    "试问繁华何处有，雨苔烟草古城秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-847539b6-7ea7-4aec-a7ff-7a32da3e8c6b"
+}

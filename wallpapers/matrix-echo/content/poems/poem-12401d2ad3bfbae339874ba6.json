@@ -1,0 +1,24 @@
+{
+  "id": "poem-12401d2ad3bfbae339874ba6",
+  "title": "华岳",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "西岳出浮云，积雪在太清。",
+    "连天凝黛色，百里遥青冥。",
+    "白日为之寒，森沈华阴城。",
+    "昔闻乾坤闭，造化生巨灵。",
+    "右足踏方止，左手推削成。",
+    "天地忽开拆，大河注东溟。",
+    "遂为西峙岳，雄雄镇秦京。",
+    "大君包覆载，至德被群生。",
+    "上帝伫昭告，金天思奉迎。",
+    "人祇望幸久，何独禅云亭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "华山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-f0ba8b57-e9a2-4df2-8aa4-30c4dca0420c"
+}

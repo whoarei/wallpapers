@@ -1,0 +1,16 @@
+{
+  "id": "poem-fec51c139d541fbc81aff867",
+  "title": "卓笔峰",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "束缚真凭造化功，巍巍直气贯鸿蒙。",
+    "雨将苔色生彤管，山吐虹光遶兔锋。",
+    "未数如椽曾入梦，误疑怪事尚书空。",
+    "士人毛颖多荣辱，恩宠才衰便不同。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-3aabd5ee-b583-487d-8f72-afbae03150dd"
+}

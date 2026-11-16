@@ -1,0 +1,19 @@
+{
+  "id": "poem-13962b0d29b3be5b39b5b05a",
+  "title": "醉花阴·薄雾浓云愁永昼",
+  "author": "李清照",
+  "dynasty": "宋",
+  "verses": [
+    "薄雾浓云愁永昼。",
+    "瑞脑消金兽。",
+    "佳节又重阳，玉枕纱厨，半夜凉初透。",
+    "东篱把洒黄昏后，有暗香盈袖。",
+    "莫道不消魂，帘卷西风，人似黄花瘦。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-201"
+}

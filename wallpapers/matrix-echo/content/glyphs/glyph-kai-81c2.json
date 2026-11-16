@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-81c2",
+  "script": "kai",
+  "character": "臂",
+  "reading": "bì；bei",
+  "description": "bì：从肩到手腕的部分～力。～腕。～肘。左膀右～。助你一～之力。\nbei：〔胳～〕见胳”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-臂"
+}

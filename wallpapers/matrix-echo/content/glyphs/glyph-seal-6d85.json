@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6d85",
+  "script": "seal",
+  "character": "涅",
+  "reading": "niè",
+  "description": "niè：(1)可做黑色染料的矶石～石。\n(2)以黑色染物，以墨涂物～字（在身上刺字涂墨）。～面。～齿。～而不缁（喻品格高尚，不受外界污染）。\n〔～槃〕佛教指超脱生死的最高境界◇亦作僧人的代称。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-涅"
+}

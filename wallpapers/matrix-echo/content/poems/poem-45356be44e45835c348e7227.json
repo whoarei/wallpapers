@@ -1,0 +1,16 @@
+{
+  "id": "poem-45356be44e45835c348e7227",
+  "title": "早朝大明宫",
+  "author": "贾至",
+  "dynasty": "唐",
+  "verses": [
+    "银烛朝天紫陌长，禁城春色晓苍苍。",
+    "千条弱柳垂青锁，百啭流莺绕建章。",
+    "剑佩声随玉墀步，衣冠身惹御炉香。",
+    "共沐恩波凤池上，朝朝染翰侍君王。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-早朝大明宮"
+}

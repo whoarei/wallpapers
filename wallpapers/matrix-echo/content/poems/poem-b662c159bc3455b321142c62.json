@@ -1,0 +1,14 @@
+{
+  "id": "poem-b662c159bc3455b321142c62",
+  "title": "贺筵开",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "老夫年老脚衰，近日不出外，故不探知。",
+    "(旦)那更雨雪，纷纷恁作威，此处不曾得暂离。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2521",
+  "tags": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-d75e2a3e3d58b0f70dc72e30",
+  "title": "长安道",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "憧憧合合，八表一辙。",
+    "黄尘雾合，车马火热。",
+    "名汤风雨，利辗霜雪。",
+    "千车万驮，半宿关月。",
+    "上有尧禹，下有夔卨。",
+    "紫气银轮兮，常覆金阙。",
+    "仙掌捧日兮，浊河澄澈。",
+    "愚将草木兮有言，与华封人兮不别。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-fb0c3d10-e664-45ff-b654-6be68cae002c"
+}

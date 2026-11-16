@@ -1,0 +1,16 @@
+{
+  "id": "poem-3f191f32ae8cbb1112c14972",
+  "title": "六如亭",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "松林葬玉近禅扃，便把伽陀当勒铭。",
+    "居士已亡三昧手，侍人空有六如亭。",
+    "玉环约指无消息，巫峡行云更杳冥。",
+    "万法本来皆梦幻，春风又见草青青。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-83d8142b-8a3b-4ecc-b4e7-82f12451886f"
+}

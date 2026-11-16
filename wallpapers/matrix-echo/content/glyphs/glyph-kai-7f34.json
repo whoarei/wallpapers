@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7f34",
+  "script": "kai",
+  "character": "缴",
+  "reading": "jiǎo",
+  "description": "缠绕\n交纳\n扭动;搅动\n⒈交出，交纳～卷。～税。\n⒉收取，强迫交出收～。～械。～获归公。\n⒈拴在箭上的生丝绳，用于射鸟。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缴"
+}

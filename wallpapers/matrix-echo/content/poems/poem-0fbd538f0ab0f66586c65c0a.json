@@ -1,0 +1,16 @@
+{
+  "id": "poem-0fbd538f0ab0f66586c65c0a",
+  "title": "下第后春日长安寓居三首 一",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "一榜尽精选，此身犹陆沈。",
+    "自无功谠分，敢抱怨尤心。",
+    "暖陌开花气，春居闭日阴。",
+    "相知岂不有，知浅未知深。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-228fa652-eea8-4900-b4cc-21327395011b"
+}

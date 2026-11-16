@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-828d",
+  "script": "seal",
+  "character": "芍",
+  "reading": "sháo",
+  "description": "sháo：〔～药〕多年生草本植物，羽状复叶，小叶卵形或披针形。夏初开大花，供观赏，根可入药。简称芍”，如赤芍”、白芍”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芍"
+}

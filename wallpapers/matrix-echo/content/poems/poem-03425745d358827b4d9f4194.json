@@ -1,0 +1,16 @@
+{
+  "id": "poem-03425745d358827b4d9f4194",
+  "title": "再次韵  其一",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "咄咄嗟数奇，覤覤笑坐驰。",
+    "超然达观士，显晦用一机。",
+    "夫君抱器业，轩豁见奇姿。",
+    "付我舟一叶，缗丝漾清漪。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-b6f0cf35-3e2f-4609-b8b9-89b6a22a5a14"
+}

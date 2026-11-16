@@ -1,0 +1,16 @@
+{
+  "id": "poem-b3002983004d8b72d6855d33",
+  "title": "临江仙·帘卷池心小阁虚",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "帘卷池心小阁虚，暂凉闲步徐徐。",
+    "芰荷经雨半凋疏，拂堤垂柳，蝉噪夕阳余。",
+    "不语低鬟幽思远，玉钗斜坠双鱼。",
+    "几回偷看寄来书，离情别恨，相隔欲何如。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-23"
+}

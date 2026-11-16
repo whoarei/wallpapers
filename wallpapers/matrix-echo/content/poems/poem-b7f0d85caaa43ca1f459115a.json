@@ -1,0 +1,16 @@
+{
+  "id": "poem-b7f0d85caaa43ca1f459115a",
+  "title": "子规",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "游魂自相叫，宁复记前身。",
+    "飞过人家月，声连客路春。",
+    "梦边催晓急，愁外送风频。",
+    "自有沾花血，相和泪滴新。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-cd2a40ff-c1c2-47e8-9d2c-91e3a50fd579"
+}

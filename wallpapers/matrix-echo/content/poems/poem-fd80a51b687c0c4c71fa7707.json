@@ -1,0 +1,16 @@
+{
+  "id": "poem-fd80a51b687c0c4c71fa7707",
+  "title": "新柳",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "全欺芳蕙晚，似妬寒梅疾。",
+    "撩乱发青条，春风来几日。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "柳树"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-35577519-453b-4de0-a631-080f9f90eca2"
+}

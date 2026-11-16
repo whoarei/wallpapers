@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7eb3",
+  "script": "seal",
+  "character": "纳",
+  "reading": "nà",
+  "description": "收藏;收入\n纳”假借为接纳”;接受\n⒈收进，接收～入。接～。吐故～新。\n⒉接受采～。\n⒊缴付～税。～公粮。\n⒋享受～凉。～福。\n⒌缝补～鞋底。补补～ ～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-纳"
+}

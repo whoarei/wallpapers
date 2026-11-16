@@ -1,0 +1,19 @@
+{
+  "id": "poem-25bec16152bfde31f97e0899",
+  "title": "再次韵",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "归担乍弛谁洗泥，使君载酒携歌儿。",
+    "小家卷褥当酒负，醉倒一笑眠虎皮。",
+    "平生自审枯槁甚，高情顾肯振拂之。",
+    "均州从事六辈来，欢喜如官浴凤池。",
+    "诗筒偕拜府公赐，格律高古语崛奇。",
+    "头风失去肺渴减，病夫虽病容枝持。",
+    "南山侧望洁斋久，知我日诵无生诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-1dfc5f20-9370-43a2-9571-f557ea0a9920"
+}

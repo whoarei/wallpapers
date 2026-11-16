@@ -1,0 +1,16 @@
+{
+  "id": "poem-459a0bdd92ad6263bc8459ad",
+  "title": "捣纸",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "万杵不为轻，丁宁玉汝成。",
+    "忽闻敲月响，误作捣衣声。",
+    "整整云添薄，方方雪更明。",
+    "沉思过秦手，古恨满笺生。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-91aae69e-a5d6-45e9-a6ef-4cc24cc16d4c"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e19",
+  "script": "seal",
+  "character": "帙",
+  "reading": "zhì",
+  "description": "zhì：(1)书、画的封套，用布帛制成。\n(2)整理书籍书乱谁能～，杯干自可添”。\n(3)量词，用于装套的线装书。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-帙"
+}

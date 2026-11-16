@@ -1,0 +1,16 @@
+{
+  "id": "poem-5a1e39b5ce318b529924c349",
+  "title": "赠郭驸马 一",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "青春都尉最风流，二十功成便拜侯。",
+    "金距鬬鸡过上苑，玉鞭骑马出长楸。",
+    "熏香荀令偏怜少，傅粉何郎不解愁。",
+    "日暮吹箫杨柳陌，路人遥指凤凰楼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d119e9a6-56b9-499a-a23a-3e76c0a12e99"
+}

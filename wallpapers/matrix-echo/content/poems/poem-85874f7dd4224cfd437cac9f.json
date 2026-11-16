@@ -1,0 +1,14 @@
+{
+  "id": "poem-85874f7dd4224cfd437cac9f",
+  "title": "夜送赵纵",
+  "author": "杨炯",
+  "dynasty": "唐",
+  "verses": [
+    "赵氏连城璧，由来天下传。",
+    "送君还旧府，明月满前川。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-夜送趙縱"
+}

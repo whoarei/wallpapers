@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8ba1",
+  "script": "kai",
+  "character": "计",
+  "reading": "jì",
+  "description": "⒈算，算帐，核算～算。共～。～日程功。\n⒉测量或检算度数、时间等的仪表温度～。记时～。\n⒊谋略，策略～谋。～策。～巧。妙～。奇～。\n⒋谋划，盘算～划。～出万全。父母之爱子，则为之～深远。\n①争论，较量跟他～较，没意思。\n②盘算，比较她从不～较个人得失。\n③商量，打算他们～较了半天，也没结果。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-计"
+}

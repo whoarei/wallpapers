@@ -1,0 +1,19 @@
+{
+  "id": "poem-2d98a67d417dbf1805e5068b",
+  "title": "点绛唇·怯雨羞云",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "怯雨羞云，翠鬟初按檀槽就。",
+    "赏心时候。",
+    "常劝花间酒。",
+    "慢拈轻拢，怨感随纤手。",
+    "胡沙奏。",
+    "几行红袖。",
+    "都道谁家有。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-201",
+  "tags": []
+}

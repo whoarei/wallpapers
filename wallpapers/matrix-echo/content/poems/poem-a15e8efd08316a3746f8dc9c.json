@@ -1,0 +1,16 @@
+{
+  "id": "poem-a15e8efd08316a3746f8dc9c",
+  "title": "龙门",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "龙门横野断，驿树出城来。",
+    "气色皇居近，金银佛寺开。",
+    "往还时屡改，川水日悠哉。",
+    "相阅征途上，生涯尽几回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-aa5d85b7-f78f-4be4-9419-8453c46dd842"
+}

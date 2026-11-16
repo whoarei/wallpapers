@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8ddf",
+  "script": "seal",
+  "character": "跟",
+  "reading": "gēn",
+  "description": "gēn：(1)脚的后部，踵脚后～。\n(2)鞋袜的后部高～鞋。袜后～儿。\n(3)随在后面，紧接着～随。～踪。\n(4)赶，及～不上班。\n(5)和，同我～他在一起工作。\n(6)对，向我已经～他说了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-跟"
+}

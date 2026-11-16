@@ -1,0 +1,16 @@
+{
+  "id": "poem-0c8b00c199a5c0d51688a9d8",
+  "title": "夏日登观农楼和崔使君",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "片雨拂簷楹，烦襟四坐清。",
+    "霏微过麦陇，萧散傍莎城。",
+    "静爱和花落，幽闻入竹声。",
+    "朝观趣无限，高咏寄深情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c53cc0fc-164a-4d47-bd2d-3183e60716dc"
+}

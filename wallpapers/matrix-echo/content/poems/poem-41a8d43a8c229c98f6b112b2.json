@@ -1,0 +1,14 @@
+{
+  "id": "poem-41a8d43a8c229c98f6b112b2",
+  "title": "湖中",
+  "author": "赵崇鉘",
+  "dynasty": "宋",
+  "verses": [
+    "汀蒲猎猎起凉飔，碧藕香中独立时。",
+    "机事两忘吾丧我，扁舟吟过水仙祠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-83d15256-26c0-4618-afe8-103babdb96a6"
+}

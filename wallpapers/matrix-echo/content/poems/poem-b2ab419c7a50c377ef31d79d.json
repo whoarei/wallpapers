@@ -1,0 +1,16 @@
+{
+  "id": "poem-b2ab419c7a50c377ef31d79d",
+  "title": "送薛士昭  其二",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "记得祥符识面时，回头二十二年非。",
+    "羡君学似川方至，顾我身如鸟倦飞。",
+    "老境天教重会合，异乡心最惜分违。",
+    "雁山亲旧如相问，征雁归时我亦归。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-b4e586c9-f2d2-4b13-b9fc-22141b422be8"
+}

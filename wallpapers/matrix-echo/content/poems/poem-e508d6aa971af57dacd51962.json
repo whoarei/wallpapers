@@ -1,0 +1,14 @@
+{
+  "id": "poem-e508d6aa971af57dacd51962",
+  "title": "享惠昭太子庙乐章",
+  "author": "孟简",
+  "dynasty": "唐",
+  "verses": [
+    "喧喧金石容既缺，肃肃羽驾就行列。",
+    "缑山遗响昔所闻，庙庭进旅今攸设。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-cc67ec48-0190-4d7b-8486-b1fca790b357"
+}

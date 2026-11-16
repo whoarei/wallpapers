@@ -1,0 +1,14 @@
+{
+  "id": "poem-5c45daeabf3c04bcba35bdd0",
+  "title": "喜雨偈  其一",
+  "author": "释了思",
+  "dynasty": "宋",
+  "verses": [
+    "熇熇炎威遍野飘，流金烁石土山焦。",
+    "精诚不作轩雷转，孰与人间济槁苗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-4338d65b-7925-4ed6-a64a-ccaea468baba"
+}

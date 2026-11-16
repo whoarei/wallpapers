@@ -1,0 +1,16 @@
+{
+  "id": "poem-f07417da243795d5faa4a438",
+  "title": "题独醒小亭",
+  "author": "王琮",
+  "dynasty": "宋",
+  "verses": [
+    "退食多留此，翛然一散襟。",
+    "凉从晓来觉，秋向雨中深。",
+    "墙竹侵山色，簷茅杂柳阴。",
+    "有谁能载酒，过我共幽寻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-27128583-9de6-444b-b0c5-61e6b6954333"
+}

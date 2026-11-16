@@ -1,0 +1,22 @@
+{
+  "id": "poem-c76f4ce129d1a3c0f1922a60",
+  "title": "九日登望仙台呈刘明府容",
+  "author": "崔曙",
+  "dynasty": "唐",
+  "verses": [
+    "汉文皇帝有高台，此日登临曙色开。",
+    "三晋云山皆北向，二陵风雨自东来。",
+    "关门令尹谁能识，河上仙翁去不回。",
+    "且欲近寻彭泽宰，陶然共醉菊花杯。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言律诗",
+    "写景",
+    "登高",
+    "重阳节"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-1c1d545e-07a1-46a9-bb76-b7473c1fde43"
+}

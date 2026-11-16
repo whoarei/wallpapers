@@ -1,0 +1,16 @@
+{
+  "id": "poem-648eada864a2bebb65a99bcf",
+  "title": "郊庙歌辞 太清宫乐章 真和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "玉磬含香，金炉既馥。",
+    "风驭泠泠，云坛肃肃。",
+    "杳归大象，霈流嘉福。",
+    "俾宁万邦，无思不服。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-69bacbb3-1d7d-4e86-81c5-48f7789a4862"
+}

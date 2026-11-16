@@ -1,0 +1,14 @@
+{
+  "id": "poem-0007820eb149d196cc2df900",
+  "title": "狡童",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "彼狡童兮，不与我言兮。维子之故，使我不能餐兮。",
+    "彼狡童兮，不与我食兮。维子之故，使我不能息兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-85"
+}

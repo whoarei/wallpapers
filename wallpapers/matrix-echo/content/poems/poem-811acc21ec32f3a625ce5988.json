@@ -1,0 +1,14 @@
+{
+  "id": "poem-811acc21ec32f3a625ce5988",
+  "title": "春日",
+  "author": "朱熹",
+  "dynasty": "宋",
+  "verses": [
+    "胜日寻芳泗水滨，无边光景一时新。",
+    "等闲识得东风面，万紫千红总是春。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-春日"
+}

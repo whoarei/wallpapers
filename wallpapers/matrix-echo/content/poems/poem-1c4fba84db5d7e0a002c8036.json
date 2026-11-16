@@ -1,0 +1,16 @@
+{
+  "id": "poem-1c4fba84db5d7e0a002c8036",
+  "title": "送宣州张员外",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "故国干戈后，怜君得意归。",
+    "绮霞横郡阁，犀烛照渔矶。",
+    "天迥青山远，江平白鸟飞。",
+    "此行同衣锦，况是老莱衣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-57ba0851-6bb0-4f85-97e1-ad3e41f24b83"
+}

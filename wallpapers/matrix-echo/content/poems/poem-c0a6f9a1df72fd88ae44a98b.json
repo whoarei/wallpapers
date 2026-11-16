@@ -1,0 +1,14 @@
+{
+  "id": "poem-c0a6f9a1df72fd88ae44a98b",
+  "title": "赠别",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "水边秋草暮萋萋，欲驻残阳恨马蹄。",
+    "曾是管弦同醉伴，一声歌尽各东西。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-ba29023a-ed78-449a-9de5-2b05cdcbe5bc"
+}

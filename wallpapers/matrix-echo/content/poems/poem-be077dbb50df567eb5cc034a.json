@@ -1,0 +1,14 @@
+{
+  "id": "poem-be077dbb50df567eb5cc034a",
+  "title": "却望无锡芙蓉湖 五",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "翠崖幽谷分明处，倦鸟归云在眼前。",
+    "惆怅白头为四老，远随尘土去伊川。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b924d86f-d84d-4c54-bec9-25877fc9eafa"
+}

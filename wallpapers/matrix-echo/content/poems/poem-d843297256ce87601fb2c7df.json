@@ -1,0 +1,22 @@
+{
+  "id": "poem-d843297256ce87601fb2c7df",
+  "title": "天末忆李白",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "凉风起天末，君子意如何。",
+    "鸿雁几时到，江湖秋水多。",
+    "文章憎命达，魑魅喜人过。",
+    "应共冤魂语，投诗赠汩罗。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写风",
+    "五言律诗",
+    "风",
+    "怀人"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-2c036362-9f1d-434c-854f-b97a2a4bb19b"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-61d301017bc421ef93cee364",
+  "title": "锦上花",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)你说与王老听，明日东人要上坟。",
+    "劝官人须教三省，休恁痴迷执性。",
+    "结义两无情，亲者到底只是亲。",
+    "(合)将兄弟赶出门，非亲却是亲。",
+    "仗托王公直语忠言，劝官人回转心。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1831",
+  "tags": []
+}

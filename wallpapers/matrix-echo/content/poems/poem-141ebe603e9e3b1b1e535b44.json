@@ -1,0 +1,16 @@
+{
+  "id": "poem-141ebe603e9e3b1b1e535b44",
+  "title": "咏风",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "萧条起关塞，摇飏下蓬瀛。",
+    "拂林花乱彩，响谷鸟分声。",
+    "披云罗影散，泛水织文生。",
+    "劳歌大风曲，威加四海清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-7d4ab8fc-aa99-46f4-8571-54af4d4666bf"
+}

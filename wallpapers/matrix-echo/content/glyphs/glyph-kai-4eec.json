@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4eec",
+  "script": "kai",
+  "character": "们",
+  "reading": "mén",
+  "description": "用在代词或指人的名词后面,表示复数。如孩子们\n么”的变音字\n注意名词前有数量词时，后面不加们”，例如不说三个孩子们”\n们men词尾，〈表〉人的复数我～。你～的。老师～。\n们mén 1.词的后缀。用在人称﹑物称代词或指人﹑指物的名词后面，表示复数。 2.词的后缀。用于具体的人名后，表示\"等人\"﹑\"之辈\"。 3.词的后缀。用在指示代词后面\n，相当于\"这么\"﹑\"那么\"的\"么\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-们"
+}

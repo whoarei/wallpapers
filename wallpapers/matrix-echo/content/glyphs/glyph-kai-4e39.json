@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e39",
+  "script": "kai",
+  "character": "丹",
+  "reading": "dān",
+  "description": "dān：(1)红色～砂（朱砂）。～桂（观赏植物，花为橘红色）。～心碧血（赤诚的忠心，珍贵的热血）。～青。\n(2)依成方制成的颗粒状或粉末状的中药丸散膏～。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丹"
+}

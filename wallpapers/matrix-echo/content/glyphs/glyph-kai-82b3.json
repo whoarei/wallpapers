@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-82b3",
+  "script": "kai",
+  "character": "芳",
+  "reading": "fāng",
+  "description": "fāng：(1)花草的香气～香。～草。～菲（ａ．花草的香气；ｂ．指花草）。～馥。～馨。芬～。\n(2)喻美好的～名。～龄（年龄，用于少女）。～姿（美好的姿态，用于少女）。～邻（关系融洽的邻居，用作敬辞）。流～百世。\n(3)花卉群～竞艳。～时（花盛时节）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芳"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e56aa32fe3fbf09e80a5324f",
+  "title": "五更转",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "恨命乖遭折挫，爹娘知苦么？哥哥嫂嫂你好横心做，赶出刘郎，罚奴挨磨。",
+    "叫天不应，地不闻，如何过？(合)奴家那曾，那曾识挨磨、挑水辛勤，只为刘大。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8917",
+  "tags": []
+}

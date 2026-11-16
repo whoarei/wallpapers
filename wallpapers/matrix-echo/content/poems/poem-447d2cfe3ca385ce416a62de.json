@@ -1,0 +1,14 @@
+{
+  "id": "poem-447d2cfe3ca385ce416a62de",
+  "title": "梁太子钓台",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "晴拂双鬟晓未开，先驱寸碧渡江来。",
+    "伤心旧日垂纶地，几度江春去又回。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-f47a83c0-614e-495b-97a0-6b7d92b98e3f"
+}

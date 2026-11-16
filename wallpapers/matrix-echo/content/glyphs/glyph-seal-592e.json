@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-592e",
+  "script": "seal",
+  "character": "央",
+  "reading": "yāng",
+  "description": "yāng：(1)中心，正当中中～。\n(2)恳求～求。～告。\n(3)尽，完了夜未～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-央"
+}

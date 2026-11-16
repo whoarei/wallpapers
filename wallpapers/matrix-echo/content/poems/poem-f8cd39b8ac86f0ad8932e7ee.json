@@ -1,0 +1,15 @@
+{
+  "id": "poem-f8cd39b8ac86f0ad8932e7ee",
+  "title": "偈颂七十一首  其六二",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "星在天上，眼在眉下。",
+    "星无暗明，眼无昼夜。",
+    "密密绵绵无缝罅。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-debff62a-a3f9-47b0-8187-bde95a4e8d8e"
+}

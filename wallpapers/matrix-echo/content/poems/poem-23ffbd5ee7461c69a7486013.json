@@ -1,0 +1,16 @@
+{
+  "id": "poem-23ffbd5ee7461c69a7486013",
+  "title": "复斋奚左藏挂冠  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "趁得身轻便挂冠，翩翩出岫白云闲。",
+    "村疎一日是两日，心广半间如万间。",
+    "聊把大门标俗子，别开荒径友佳山。",
+    "羲皇向上多余地，时对清风一破颜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-c4a7529a-db1f-4f9f-99bf-0618535e15fd"
+}

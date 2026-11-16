@@ -1,0 +1,16 @@
+{
+  "id": "poem-9da724d5212d32bf3abb8648",
+  "title": "题济川亭",
+  "author": "释宗觉",
+  "dynasty": "宋",
+  "verses": [
+    "高亭窥绿润，古寺面苍阴。",
+    "闻有遗仙事，应容过客寻。",
+    "路危山背迥，云重洞天深。",
+    "一鸟不飞去，时能弄好音。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-b12ad747-65e6-49ba-bdc7-269937071fb5"
+}

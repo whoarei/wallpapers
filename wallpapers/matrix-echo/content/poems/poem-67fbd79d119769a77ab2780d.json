@@ -1,0 +1,16 @@
+{
+  "id": "poem-67fbd79d119769a77ab2780d",
+  "title": "赋得灯心送李侍御萼",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "灯心生众草，因有始知芳。",
+    "彩妓窗偏丽，金桃动更香。",
+    "花惊春未尽，焰喜夜初长。",
+    "别后空离室，何人借末光。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-0a9f435e-e8c4-45c1-b7a2-e1244e002fa4"
+}

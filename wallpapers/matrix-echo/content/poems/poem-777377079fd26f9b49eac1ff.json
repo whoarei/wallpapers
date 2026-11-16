@@ -1,0 +1,16 @@
+{
+  "id": "poem-777377079fd26f9b49eac1ff",
+  "title": "游仙窟诗 游后园",
+  "author": "崔十娘",
+  "dynasty": "唐",
+  "verses": [
+    "梅蹊命道士，桃涧伫神仙。",
+    "旧鱼成大劒，新龟类小钱。",
+    "水湄唯见柳，池曲且生莲。",
+    "欲知赏心处，桃花落眼前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-0e45ea9d-3d99-415f-9682-b707f616f239"
+}

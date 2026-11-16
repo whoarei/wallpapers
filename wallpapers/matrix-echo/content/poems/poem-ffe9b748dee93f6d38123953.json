@@ -1,0 +1,14 @@
+{
+  "id": "poem-ffe9b748dee93f6d38123953",
+  "title": "无题",
+  "author": "林敏功",
+  "dynasty": "宋",
+  "verses": [
+    "琵琶起舞换新声，总是关山旧客情。",
+    "撩乱边愁弹不尽，高高秋月照长城。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-a92f90ff-6af7-4b4d-9962-e9dc28782c00"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-95001b4295e3c01e85b168fa",
+  "title": "哭胡处士",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "丘中久不起，将谓诏书来。",
+    "及见凌云说，方知掩夜台。",
+    "白衣归北路，玄造亦遗才。",
+    "世上亡君后，诗声更大哉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-814e7769-7855-4fbe-87a9-ad85e3f78933"
+}

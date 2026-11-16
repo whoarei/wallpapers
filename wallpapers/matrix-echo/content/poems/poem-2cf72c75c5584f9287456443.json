@@ -1,0 +1,16 @@
+{
+  "id": "poem-2cf72c75c5584f9287456443",
+  "title": "登甘露寺",
+  "author": "周繇",
+  "dynasty": "唐",
+  "verses": [
+    "盘江上几层，峭壁半垂藤。",
+    "殿锁南朝像，龛禅外国僧。",
+    "海涛摏砌槛，山雨洒窗灯。",
+    "日暮疎钟起，声声彻广陵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-b5175c34-da87-4de6-b3bc-a935b346fa8e"
+}

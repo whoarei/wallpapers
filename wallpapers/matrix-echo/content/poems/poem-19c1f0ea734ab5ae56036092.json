@@ -1,0 +1,16 @@
+{
+  "id": "poem-19c1f0ea734ab5ae56036092",
+  "title": "溱洧",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "溱与洧，方涣涣兮。士与女，方秉𫈉兮。女曰观乎？士曰既且。且往观乎？",
+    "洧之外，洵𬣙且乐。维士与女，伊其相谑，赠之以勺药。",
+    "溱与洧，浏其清矣。士与女，殷其盈矣。女曰观乎？士曰既且。且往观乎？",
+    "洧之外，洵𬣙且乐。维士与女，伊其将谑，赠之以勺药。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-94"
+}

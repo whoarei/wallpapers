@@ -1,0 +1,14 @@
+{
+  "id": "poem-abaae6c11121b46658812706",
+  "title": "观骑射",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "边头射雕将，走马出中军。",
+    "远见平原上，翻身向暮云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-8aa31994-11ad-4080-8373-81b05d155b6e"
+}

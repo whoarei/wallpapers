@@ -1,0 +1,16 @@
+{
+  "id": "poem-30b9ceeba07e991eb2b6e488",
+  "title": "好事近·羁旅转飞蓬",
+  "author": "赵鼎",
+  "dynasty": "宋",
+  "verses": [
+    "羁旅转飞蓬，投老未知休息。",
+    "却念故园春事，舞残红飞雪。",
+    "危楼高处望天涯，云海寄穷发。",
+    "只有旧时凉月，照清伊双阙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-969",
+  "tags": []
+}

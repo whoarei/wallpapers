@@ -1,0 +1,14 @@
+{
+  "id": "poem-addb3c1781ed5882705d0a3d",
+  "title": "蕉叶",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "绿绮新裁织女机，摆风摇日影离披。",
+    "只应青帝行春罢，闲倚东墙卓翠旗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-17483666-0c00-4a97-9824-4ee04d4ca776"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c03fe9e4074dcb9708167bae",
+  "title": "永泰公主挽歌二首 一",
+  "author": "吴兢",
+  "dynasty": "唐",
+  "verses": [
+    "秾华从妇道，厘降适诸侯。",
+    "河汉天孙合，潇湘帝子游。",
+    "关雎方作训，鸣凤自相求。",
+    "可叹凌波迹，东川遂不流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-77065e9d-4ee9-4937-bbad-fe9b901f3c6f"
+}

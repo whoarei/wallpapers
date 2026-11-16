@@ -1,0 +1,14 @@
+{
+  "id": "poem-f543b7a8d5c9dde2351dbc79",
+  "title": "含笑花五首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "玉质犹披翡翠裳，温泉浴罢蔼天香。",
+    "回眸百媚嫣然处，羞死三千红粉粧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-95216ade-2ab9-4e03-96a2-150856f4ff61"
+}

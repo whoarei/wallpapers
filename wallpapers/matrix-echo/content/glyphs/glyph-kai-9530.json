@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9530",
+  "script": "kai",
+  "character": "锰",
+  "reading": "měng",
+  "description": "一种灰白色多价金属元素,通常硬而脆,类似铁但无磁性\n锰钢\n锰měng金属化学元素。符号mn。赤灰色，质坚而脆。锰与铁的合金叫\"锰钢\"，它是特殊钢，供做火车的车轮等。二氧化～是制干电池的原料，也供瓷器、玻璃着色等用。高～\n酸钾供药用，可作消毒灭菌剂。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锰"
+}

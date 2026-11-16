@@ -1,0 +1,16 @@
+{
+  "id": "poem-7fd2250076e438f44acd0c84",
+  "title": "隋帝陵下",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "白露沾衣隋主宫，云亭月馆楚淮东。",
+    "盘龙楼舰浮冤水，雕锦帆幢使乱风。",
+    "长夜应怜桀何罪，告成合笑禹无功。",
+    "伤心近似骊山路，陵树无根秋草中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-73021908-2c50-4e4d-bb43-a3081d3ffd90"
+}

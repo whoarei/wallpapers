@@ -1,0 +1,13 @@
+{
+  "id": "poem-c704c5a774cbf44b6fd68b0c",
+  "title": "马诗二十三首 十",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "摧榜渡乌江，神骓泣向风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-f3ced668-1a31-4bfb-a688-4a21b6d20301"
+}

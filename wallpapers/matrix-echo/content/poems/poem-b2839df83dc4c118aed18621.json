@@ -1,0 +1,17 @@
+{
+  "id": "poem-b2839df83dc4c118aed18621",
+  "title": "驻云飞",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "酒保无知，故意教他来笑耻。",
+    "堪恨乔才辈，恼得心儿碎。",
+    "呸！吃了这场亏，教人呕气。",
+    "吃得醺醺。",
+    "拚却今宵醉，痛饮前村踏雪山。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1759",
+  "tags": []
+}

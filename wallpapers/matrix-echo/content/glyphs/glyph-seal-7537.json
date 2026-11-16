@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7537",
+  "script": "seal",
+  "character": "男",
+  "reading": "nán",
+  "description": "nán：(1)阳性的人～性。～人。～孩。～女平等。\n(2)儿子长（zhǎng）～。\n(3)封建制度五等爵位的第五等～爵。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-男"
+}

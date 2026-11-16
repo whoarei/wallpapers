@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-77ee",
+  "script": "seal",
+  "character": "矮",
+  "reading": "ǎi",
+  "description": "ǎi：(1)人的身材短～人。～矬。～个儿。～墩墩。\n(2)高度小～林。～墙。～屋。\n(3)等级地位低工资他比我～一级。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-矮"
+}

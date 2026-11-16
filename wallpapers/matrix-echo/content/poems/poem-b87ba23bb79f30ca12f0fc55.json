@@ -1,0 +1,16 @@
+{
+  "id": "poem-b87ba23bb79f30ca12f0fc55",
+  "title": "夜上隐居寺",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "寻师拟学空，空住虎磎东。",
+    "千里照山月，一枝惊鹤风。",
+    "年如流去水，山似转来蓬。",
+    "尽日都无事，安禅石窟中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-6b9648ad-db50-4e4d-a427-fe43c1362e88"
+}

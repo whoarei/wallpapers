@@ -1,0 +1,14 @@
+{
+  "id": "poem-b6390676538f628912e6bbab",
+  "title": "相思林",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "游客远游新过岭，每逢芳树问芳名。",
+    "长林遍是相思树，争遣愁人独自行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1a72210d-7fe6-4ba8-86e8-a854668fb0a9"
+}

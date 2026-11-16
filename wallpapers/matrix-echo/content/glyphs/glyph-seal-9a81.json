@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9a81",
+  "script": "seal",
+  "character": "骁",
+  "reading": "xiāo",
+  "description": "勇捷\n⒈好马。\n⒉勇猛，矫健～猛。～将。～勇。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骁"
+}

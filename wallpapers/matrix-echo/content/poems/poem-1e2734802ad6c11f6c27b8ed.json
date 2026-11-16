@@ -1,0 +1,14 @@
+{
+  "id": "poem-1e2734802ad6c11f6c27b8ed",
+  "title": "别张赞",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "今日山晴后，残蝉菊发时。",
+    "登楼见秋色，何处最相思。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-1f73ad47-4dc9-4422-83fd-04a6600e0328"
+}

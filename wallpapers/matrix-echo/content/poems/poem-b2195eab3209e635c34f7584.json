@@ -1,0 +1,16 @@
+{
+  "id": "poem-b2195eab3209e635c34f7584",
+  "title": "郊庙歌辞 享龙池乐章 第十章",
+  "author": "裴璀",
+  "dynasty": "唐",
+  "verses": [
+    "乾坤启圣吐龙泉，泉水年年胜一年。",
+    "始看鱼跃方成海，即覩龙飞利在天。",
+    "洲渚遥将银汉接，楼台直与紫微连。",
+    "休气荣光常不散，悬知此地是神仙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-b3f5fd27-c2a3-4007-9a52-21ac2aca7644"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-1d002cc41d90c65b98cb680f",
+  "title": "颂古三十一首  其二六",
+  "author": "释安永",
+  "dynasty": "宋",
+  "verses": [
+    "独向沧溟截众流，等闲舞棹掷金钩。",
+    "白云不露烟波阔，横笛一声天地秋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-c876f7e4-7e8b-4d11-8651-f0f0a16a29d3"
+}

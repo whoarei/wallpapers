@@ -1,0 +1,18 @@
+{
+  "id": "poem-eebf97e9c4167a6515dc75eb",
+  "title": "西江月·鱼兔若还入手",
+  "author": "张伯端",
+  "dynasty": "宋",
+  "verses": [
+    "鱼兔若还入手，自然忘却筌蹄。",
+    "渡河筏子上天梯。",
+    "到彼悉皆遗弃。",
+    "未悟须凭言说，悟来言说皆非。",
+    "虽然四句属无为。",
+    "此等何须脱离。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-990",
+  "tags": []
+}

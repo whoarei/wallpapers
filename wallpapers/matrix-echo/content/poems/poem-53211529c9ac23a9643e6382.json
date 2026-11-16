@@ -1,0 +1,20 @@
+{
+  "id": "poem-53211529c9ac23a9643e6382",
+  "title": "水调歌头·元日至人日",
+  "author": "范成大",
+  "dynasty": "宋",
+  "verses": [
+    "元日至人日，未有不阴时。",
+    "新年叶气，无处人物不熙熙。",
+    "万岁声从天下，一札恩随春到，光采动天鸡。",
+    "寿域遍寰海，直过雪山西。",
+    "忆曾预，宣玉册，捧金卮。",
+    "如今万里，魂梦空绕五云飞。",
+    "想见大庭宫馆，重起三山楼观，双指赭黄衣。",
+    "此会古无有，何止古来稀。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-258",
+  "tags": []
+}

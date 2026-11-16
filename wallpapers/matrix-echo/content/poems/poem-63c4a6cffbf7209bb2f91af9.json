@@ -1,0 +1,16 @@
+{
+  "id": "poem-63c4a6cffbf7209bb2f91af9",
+  "title": "河传·春暮",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "春暮，微雨。送君南浦，愁敛双蛾。",
+    "落花深处，啼鸟似逐离散，粉檀珠泪和。",
+    "临流更把同心结，情哽咽，后会何时节？",
+    "不堪回首，相望已隔汀洲，檐声幽。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-49"
+}

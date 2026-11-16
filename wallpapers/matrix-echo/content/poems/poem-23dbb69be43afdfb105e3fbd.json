@@ -1,0 +1,16 @@
+{
+  "id": "poem-23dbb69be43afdfb105e3fbd",
+  "title": "离平泉马上作",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "十年紫殿掌洪钧，出入三朝一品身。",
+    "文帝宠深陪雉尾，武皇恩厚宴龙津。",
+    "黑山永破和亲虏，乌岭全阬跋扈臣。",
+    "自是功高临尽处，祸来[名]灭不由人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-bf043f37-cf30-4c39-969c-69b84fcca334"
+}

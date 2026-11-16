@@ -1,0 +1,16 @@
+{
+  "id": "poem-da9ca9e32cdacab36b8d0f94",
+  "title": "送成都韦丞还蜀",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "蜀门云树合，高栈有猿愁。",
+    "驱传加新命，之官向旧游。",
+    "晨装逢酒雨，夜梦见刀州。",
+    "远别长相忆，当年莫滞留。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-fd046c72-5c26-4565-b0cc-044e954feda6"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-630e",
+  "script": "kai",
+  "character": "挎",
+  "reading": "kuà；kū",
+  "description": "kuà：(1)胳膊弯起来挂着东西她～着篮子上街。\n(2)把东西挂在肩上或挂在腰里～包。～着照相机。\nkū：抠。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-挎"
+}

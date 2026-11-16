@@ -1,0 +1,16 @@
+{
+  "id": "poem-f061b609d4b9793afe034675",
+  "title": "和白都官见赠",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "齿疏鬓白两眸昏，万事无堪老病身。",
+    "脱粟犹沾太仓禄，法官仍忝外台臣。",
+    "直缘迂僻求闲地，岂是孤高慕古人。",
+    "英俊满朝皆稷契，太山何少一飞尘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-a72e7b41-6cf6-42c0-a3d3-d9d3a6ba401d"
+}

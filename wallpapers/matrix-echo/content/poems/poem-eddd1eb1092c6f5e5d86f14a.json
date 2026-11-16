@@ -1,0 +1,16 @@
+{
+  "id": "poem-eddd1eb1092c6f5e5d86f14a",
+  "title": "又和八日",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "微云疏雨淡新秋，晓梦依稀十二楼。",
+    "故作别离应有以，拟延更漏共无由。",
+    "那教人世长多恨，未必天仙不解愁。",
+    "博望苑中残酒醒，香风佳气独迟留。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-ec2704b8-2120-4f29-8127-9588d479fef0"
+}

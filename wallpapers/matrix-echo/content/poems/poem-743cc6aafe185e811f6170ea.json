@@ -1,0 +1,14 @@
+{
+  "id": "poem-743cc6aafe185e811f6170ea",
+  "title": "题僧壁",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "晓望疎林露满巾，碧山秋寺属闲人。",
+    "溪头尽日看红叶，却笑高僧衣有尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-9af8d6c8-ded8-44d3-a3d9-c1f17bd23f34"
+}

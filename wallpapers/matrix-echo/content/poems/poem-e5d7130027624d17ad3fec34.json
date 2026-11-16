@@ -1,0 +1,16 @@
+{
+  "id": "poem-e5d7130027624d17ad3fec34",
+  "title": "再用才子富文华校雠天禄阁韵赠周教授  其一",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "仙人藤阴梦，金骨窖黄埃。",
+    "当年晁张双，缩手推其才。",
+    "陈编且千载，万蛰听春雷。",
+    "偕公闲吊古，文游但荒台。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-a5164555-b734-49ce-b9da-ed77790016ca"
+}

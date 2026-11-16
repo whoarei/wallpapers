@@ -1,0 +1,16 @@
+{
+  "id": "poem-35f5c7d6c4b32372825828f3",
+  "title": "偶成",
+  "author": "程颢",
+  "dynasty": "宋",
+  "verses": [
+    "闲来无事不从容，睡觉东窗日已红。",
+    "万物静观皆自得，四时佳兴与人同。",
+    "道通天地有形外，思入风云变态中。",
+    "富贵不淫贫贱乐，男儿到此是豪雄。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-偶成"
+}

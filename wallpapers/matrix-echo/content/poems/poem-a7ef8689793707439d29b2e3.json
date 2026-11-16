@@ -1,0 +1,14 @@
+{
+  "id": "poem-a7ef8689793707439d29b2e3",
+  "title": "赠融上人",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "常爱西林寺，池中月出时。",
+    "芭蕉一片叶，书取寄吾师。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6edd2d8d-fbb2-4709-9ea5-e6091d26b3e5"
+}

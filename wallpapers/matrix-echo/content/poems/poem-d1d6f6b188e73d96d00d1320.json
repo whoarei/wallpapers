@@ -1,0 +1,16 @@
+{
+  "id": "poem-d1d6f6b188e73d96d00d1320",
+  "title": "送华阴隐者",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "往往到城市，得非征药钱。",
+    "世人空识面，弟子莫知年。",
+    "自说能医死，相期更学仙。",
+    "近来移住处，毛女旧峰前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-fc39b9dc-841f-4da9-8ba0-e6c398081166"
+}

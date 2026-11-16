@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5927",
+  "script": "seal",
+  "character": "大",
+  "reading": "dà",
+  "description": "形容体积、面积、数量、力量、规模、程度等方面超过一般或超过所比较的对象。与小”相对",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-大"
+}

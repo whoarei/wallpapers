@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6a35",
+  "script": "seal",
+  "character": "樵",
+  "reading": "qiáo",
+  "description": "qiáo：(1)柴，散木～苏（柴草，亦指打柴割草）。采～。\n(2)打柴～夫。～客。\n(3)古同谯”，谯楼。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-樵"
+}

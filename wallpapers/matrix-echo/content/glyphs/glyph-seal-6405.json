@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6405",
+  "script": "seal",
+  "character": "搅",
+  "reading": "jiǎo",
+  "description": "混合;拌合;搅拌\n胡闹;嬉戏\n⒈扰乱，打扰莫～乱。别～扰。\n⒉拌和～拌。～匀。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-搅"
+}

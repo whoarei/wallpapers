@@ -1,0 +1,16 @@
+{
+  "id": "poem-f9ccb7d9d8c4f772f68cb1c0",
+  "title": "和陈处士在雍丘见寄",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "衰薄喜多幸，退公谁与闲。",
+    "高人乘兴去，相望两程间。",
+    "卷箔有微雪，登楼无远山。",
+    "清谈胜题赠，何日杖藜还。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-b02c146e-45a8-4289-a469-410b4498945e"
+}

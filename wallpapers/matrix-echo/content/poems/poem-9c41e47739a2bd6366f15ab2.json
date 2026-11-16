@@ -1,0 +1,14 @@
+{
+  "id": "poem-9c41e47739a2bd6366f15ab2",
+  "title": "采莲词",
+  "author": "张潮",
+  "dynasty": "唐",
+  "verses": [
+    "朝出沙头日正红，晚来云起半江中。",
+    "赖逢邻女曾相识，并著莲舟不畏风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-127c8d97-6aa4-4bfe-bbb8-b73e6c984cee"
+}

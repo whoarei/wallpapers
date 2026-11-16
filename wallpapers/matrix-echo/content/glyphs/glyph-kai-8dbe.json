@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8dbe",
+  "script": "kai",
+  "character": "趾",
+  "reading": "zhǐ",
+  "description": "zhǐ：(1)脚～高气扬。\n(2)脚指头～骨。～甲。\n(3)踪迹庶追芳～”。\n(4)古同址”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-趾"
+}

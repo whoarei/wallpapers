@@ -1,0 +1,18 @@
+{
+  "id": "poem-d85d8fced76307a27ad19400",
+  "title": "浪淘沙·往事只堪哀",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "往事只堪哀，对景难排。",
+    "秋风庭院藓侵阶。",
+    "一任珠帘闲不卷，终日谁来？",
+    "金剑已沉埋，壮气蒿莱。",
+    "晚凉天净月华开。",
+    "想得玉楼瑶殿影，空照秦淮。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-25"
+}

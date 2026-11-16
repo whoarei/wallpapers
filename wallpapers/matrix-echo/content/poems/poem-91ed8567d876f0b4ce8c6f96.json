@@ -1,0 +1,16 @@
+{
+  "id": "poem-91ed8567d876f0b4ce8c6f96",
+  "title": "临江仙·峭碧参差十二峰",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "峭碧参差十二峰，冷烟寒树重重。",
+    "瑶姬宫殿是仙踪，金炉珠帐，香霭昼偏浓。",
+    "一自楚王惊梦断，人间无路相逢。",
+    "至今云雨带愁容，月斜江上，征棹动晨钟。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-33"
+}

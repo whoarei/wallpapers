@@ -1,0 +1,14 @@
+{
+  "id": "poem-680dea4c5e6be63ef208e156",
+  "title": "送僧二首 一",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "亲在平阳忆久归，洪河雨涨出关迟。",
+    "独过旧寺人稀识，一一杉松老别时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-15f0943a-4211-41e1-b830-a3b493048f96"
+}

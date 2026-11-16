@@ -1,0 +1,16 @@
+{
+  "id": "poem-3b08c4510561c026f90c55e9",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "要你须着这秀才。",
+    "(净)我着它伊休要来。",
+    "(末)你两个贫胎苦肥。",
+    "(生)没紧要休得要系怀。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2600",
+  "tags": []
+}

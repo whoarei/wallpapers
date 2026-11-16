@@ -1,0 +1,22 @@
+{
+  "id": "poem-e3146b96d185fb1c873239c4",
+  "title": "自夏口至鹦鹉洲夕望岳阳寄源中丞",
+  "author": "刘长卿",
+  "dynasty": "唐",
+  "verses": [
+    "[汀]洲无浪复无烟，楚客相思益渺然。",
+    "汉口夕阳斜渡鸟，洞庭秋水远连天。",
+    "孤城背岭寒吹角，独戍临江夜泊船。",
+    "贾谊上书忧汉室，长沙谪去古今怜。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "洞庭湖",
+    "贬谪",
+    "七言律诗",
+    "触景感怀"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-3f049d66-1513-407f-bb4e-cf25a7b5069a"
+}

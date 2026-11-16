@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75b1",
+  "script": "seal",
+  "character": "疱",
+  "reading": "pào",
+  "description": "pào：皮肤上长的像水泡的小疙瘩（亦作泡”）水～。火～。脓～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疱"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-7d246c7e178cf8ee4a662914",
+  "title": "初春登楼即目观作述怀",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "凭轩俯兰阁，眺瞩散灵襟。",
+    "绮峰含翠雾，照日蕊红林。",
+    "镂丹霞锦岫，残素雪斑岑。",
+    "拂浪堤垂柳，娇花鸟续吟。",
+    "连甍岂一拱，众干如千寻。",
+    "明非独材力，终藉栋梁深。",
+    "弥怀矜乐志，更惧戒盈心。",
+    "媿制劳居逸，方规十产金。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fd63be75-f6b3-491d-91d5-04179194f1aa"
+}

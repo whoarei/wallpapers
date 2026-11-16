@@ -1,0 +1,17 @@
+{
+  "id": "poem-648f4c35d98781bafc382e5d",
+  "title": "渔歌子·柳如眉",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "柳如眉，云似发。",
+    "姣绡雾縠笼香雪。",
+    "梦魂惊，钟漏歇，窗外晓莺残月。",
+    "几多情，无处说，落花飞絮清明节。",
+    "少年郎，容易别，一去音书断绝。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-12"
+}

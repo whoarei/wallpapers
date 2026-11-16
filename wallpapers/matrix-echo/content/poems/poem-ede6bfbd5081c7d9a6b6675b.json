@@ -1,0 +1,14 @@
+{
+  "id": "poem-ede6bfbd5081c7d9a6b6675b",
+  "title": "赠五老韩尊师",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "有客斋心事玉晨，对山须鬓绿无尘。",
+    "住山道士年如鹤，应识当时五老人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-459acb00-3fd5-4061-9c51-d7d3fcd73699"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-f4641be4af5312b7b1a5ed90",
+  "title": "凤凰台",
+  "author": "罗隐",
+  "dynasty": "唐",
+  "verses": [
+    "昔云丹穴凤，翔集高台端。",
+    "（同前。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-65a9b2ba-30bc-476c-922a-40add4f526a5"
+}

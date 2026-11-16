@@ -1,0 +1,20 @@
+{
+  "id": "poem-693fbb213bf6dfb105509269",
+  "title": "洞仙歌·青烟幂处",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "青烟幂处，碧海飞金镜。",
+    "永夜闲阶卧桂影。",
+    "露凉时、零乱多少寒，神京远，惟有蓝桥路近。",
+    "水晶帘不下，云母屏开，冷浸佳人淡脂粉。",
+    "待都将许多明，付与金尊，投晓共、流霞倾尽。",
+    "更携取、胡床上南楼，看玉做人间，素秋千倾。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-222"
+}

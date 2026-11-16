@@ -1,0 +1,16 @@
+{
+  "id": "poem-b68b0679bfea0d2bfbaf871b",
+  "title": "送裴邕之上京",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "辞山偶世清，挟策忽西行。",
+    "帆过随江疾，衣沾楚雪轻。",
+    "尚文须献赋，重道莫论兵。",
+    "东观今多事，应高白马生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-efc703bb-6916-4269-bf9c-01513fd90d14"
+}

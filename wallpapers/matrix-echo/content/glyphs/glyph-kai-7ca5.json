@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7ca5",
+  "script": "kai",
+  "character": "粥",
+  "reading": "zhōu；yù",
+  "description": "zhōu：(1)用米面等食物煮成的半流质食品小米～。\n(2)像粥的东西泥～。乱成一锅～。\nyù：(1)古同育”，生养。\n(2)古同鬻”，卖。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-粥"
+}

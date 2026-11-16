@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-949f",
+  "script": "kai",
+  "character": "钟",
+  "reading": "zhōng",
+  "description": "钟磬置水中。\n独以此钟名。\n如钟鼓不绝。\n⒈一种金属制的响器，中空，悬挂在架上，用槌敲击发声撞～。打～。警～。\n⒉计时器闹～。电～。石英～。\n⒊时间，小时五分～。八点～。\n⒋杯子，〈古〉一种盛酒器聚酒千～。\n⒌专注，特别～情。～爱。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钟"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-70de8643dbb123cb9cd77512",
+  "title": "奉和武相公春晓闻莺",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "蜀道山川心易惊，缘窗残梦晓闻莺。",
+    "分明似写文君恨，万怨千愁弦上声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-663ad068-30f8-4b38-816c-eecead23bc7e"
+}

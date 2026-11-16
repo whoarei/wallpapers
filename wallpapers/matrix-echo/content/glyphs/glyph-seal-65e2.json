@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65e2",
+  "script": "seal",
+  "character": "既",
+  "reading": "jì",
+  "description": "jì：(1)动作已经完了～往不咎。～而。\n(2)已经～成事实。～定。\n(3)常与且”、又”连用，表示两者并列～快又好。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-既"
+}

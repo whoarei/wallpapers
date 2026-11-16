@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5ebe",
+  "script": "seal",
+  "character": "庾",
+  "reading": "yǔ",
+  "description": "yǔ：(1)露天的谷仓～积。\n(2)古代容量单位，一庾等于十六斗。\n(3)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-庾"
+}

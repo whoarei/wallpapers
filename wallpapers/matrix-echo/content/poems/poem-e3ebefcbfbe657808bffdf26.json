@@ -1,0 +1,15 @@
+{
+  "id": "poem-e3ebefcbfbe657808bffdf26",
+  "title": "蟋蟀",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "蟋蟀在堂，岁聿其莫。今我不乐，日月其除。无已大康，职思其居。好乐无荒，良士瞿瞿。",
+    "蟋蟀在堂，岁聿其逝。今我不乐，日月其迈。无已大康，职思其外。好乐无荒，良士蹶蹶。",
+    "蟋蟀在堂，役车其休。今我不乐，日月其慆。无以大康。职思其忧。好乐无荒，良士休休。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-113"
+}

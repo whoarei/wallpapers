@@ -1,0 +1,16 @@
+{
+  "id": "poem-447a63fa06e6cb686ee40a00",
+  "title": "赵左厢再荐",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "勤苦佐丰年，成功只听天。",
+    "聊挥数寸管，不费一文钱。",
+    "灯娄层葩剪，杨曾百步穿。",
+    "宗藩大廷对，可惜两名先。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-f1776b6e-a47b-4f13-82ad-9abc77cf62e2"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-a5dcd30fe65db18237044b9c",
+  "title": "汉阴庭树",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "掘沟引水浇蔬圃，插竹为篱护药苗。",
+    "杨柳如丝风易乱，梅花似雪日难消。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b09746fa-a6d8-42a1-a0e6-b803d7d90ed4"
+}

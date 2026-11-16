@@ -1,0 +1,20 @@
+{
+  "id": "poem-d3bc213558c5c9f9fb85643e",
+  "title": "忆帝京·薄妆小靥闲情素",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "薄妆小靥闲情素。",
+    "抱著琵琶凝伫。",
+    "慢拈复轻拢，切切如私语。",
+    "转拨割朱弦，一段惊沙去。",
+    "万里嫁、乌孙公主。",
+    "对易水、明妃不渡。",
+    "泪粉行行，红颜片片，指下花落狂风雨。",
+    "借问本师谁，敛拨当心住。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-700",
+  "tags": []
+}

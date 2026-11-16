@@ -1,0 +1,14 @@
+{
+  "id": "poem-75df3896b1a7ab95d3b0d5e4",
+  "title": "咏史诗 赤壁",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "烈火西焚魏帝旗，周郎开国虎争时。",
+    "交兵不假挥长剑，已挫英雄百万师。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ae401595-6d59-4369-a3e6-c4709af78d2e"
+}

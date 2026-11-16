@@ -1,0 +1,14 @@
+{
+  "id": "poem-979503b45f7fe6c4c4bf130a",
+  "title": "次韵许深父  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "日日经行只小园，静搘邛竹听鸣泉。",
+    "此时心事何人共，素壁题诗第几篇。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-88dee025-c152-42cb-88c0-5de8fc3e26b4"
+}

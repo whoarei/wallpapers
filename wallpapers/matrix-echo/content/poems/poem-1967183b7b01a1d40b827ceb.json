@@ -1,0 +1,19 @@
+{
+  "id": "poem-1967183b7b01a1d40b827ceb",
+  "title": "过津口",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "南岳自兹近，湘流东逝深。",
+    "和风引桂楫，春日涨云岑。",
+    "回首过津口，而多枫树林。",
+    "白鱼困密网，黄鸟喧嘉音。",
+    "物微限通塞，恻隐仁者心。",
+    "瓮余不尽酒，膝有无声琴。",
+    "圣贤两寂寞，眇眇独开襟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c64edbb6-04bf-4e6d-bc04-8cd4f0e0df72"
+}

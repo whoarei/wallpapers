@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-690b",
+  "script": "seal",
+  "character": "椋",
+  "reading": "liáng",
+  "description": "liáng：〔～子木〕古书上说的一种树，亦称即来”、松杨”、灯台树”。\n〔～鸟〕鸟类的一科，喜群飞，食种子和昆虫，有的善于模仿别的鸟叫。如八哥”、鸥椋”等。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-椋"
+}

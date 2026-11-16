@@ -1,0 +1,16 @@
+{
+  "id": "poem-eb515709180b6a853f9c11a7",
+  "title": "观李固请司马弟山水图",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "方丈浑连水，天台总映云。",
+    "人间长见画，老去限空闻。",
+    "范蠡舟偏小，王乔鹤不群。",
+    "此生随万物，何处出尘氛。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-觀李固請司馬弟山水圖"
+}

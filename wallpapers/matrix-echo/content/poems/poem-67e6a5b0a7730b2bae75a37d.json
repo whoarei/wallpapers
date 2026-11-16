@@ -1,0 +1,16 @@
+{
+  "id": "poem-67e6a5b0a7730b2bae75a37d",
+  "title": "郊庙歌辞 襃德庙乐章 昭德",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "道赫梧宫，悲盈蒿里。",
+    "爰赐徽烈，载敷嘉祀。",
+    "享洽四时，规陈二簋。",
+    "灵应昭格，神其戾止。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-cc360c8a-07ac-45e0-bd96-bf2e8dfba5da"
+}

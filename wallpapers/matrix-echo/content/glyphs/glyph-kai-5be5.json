@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5be5",
+  "script": "kai",
+  "character": "寥",
+  "reading": "liáo",
+  "description": "liáo：(1)稀少～～无几。～落（稀少，冷落，如疏星～～”）。～若晨星。\n(2)静寂，空虚寂～。～廓（高远空旷）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-寥"
+}

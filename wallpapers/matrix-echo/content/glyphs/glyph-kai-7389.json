@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7389",
+  "script": "kai",
+  "character": "玉",
+  "reading": "yù",
+  "description": "yù：(1)石头的一种，质细而坚硬，有光泽，略透明，可雕琢成工艺品～石。～器。～玺（君主的玉印）。抛砖引～。金～良言。～不琢，不成器。\n(2)美，尊贵的，敬辞～泉。～液（美酒）。～言。～姿。～照（敬称别人的照片）。～宇（a.天空；b.瑰丽的宫阙殿宇）。亭亭～立。金科～律。金～其外，败絮其中。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-玉"
+}

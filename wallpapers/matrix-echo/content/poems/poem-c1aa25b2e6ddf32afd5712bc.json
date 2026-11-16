@@ -1,0 +1,14 @@
+{
+  "id": "poem-c1aa25b2e6ddf32afd5712bc",
+  "title": "浣溪沙·乌帽斜欹倒佩鱼",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "乌帽斜欹倒佩鱼，静街偷步访仙居，隔墙应认打门初。",
+    "将见客时微掩敛，得人怜处且先疏，低头羞问壁边书。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-45"
+}

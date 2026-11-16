@@ -1,0 +1,16 @@
+{
+  "id": "poem-a22fb8370d9c1aa39c6f0dbf",
+  "title": "寄都官刘员外",
+  "author": "章八元",
+  "dynasty": "唐",
+  "verses": [
+    "旧宅平津邸，槐阴接汉宫。",
+    "鸣驺驰道上，寒日直庐中。",
+    "白雪歌偏丽，青云宦早通。",
+    "悠然一缝掖，千里限清风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-5c228217-7f18-441d-9c3b-539338458cf9"
+}

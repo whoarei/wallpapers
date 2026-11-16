@@ -1,0 +1,20 @@
+{
+  "id": "poem-aab52d0081b0d39a3778e622",
+  "title": "宴琼林·遽暖间俄寒",
+  "author": "黄裳",
+  "dynasty": "宋",
+  "verses": [
+    "遽暖间俄寒，妙用向园林，难问春意。",
+    "万般声与色，自闻雷、便作浮华人世。",
+    "红娇翠软，谁顿悟、天机此理。",
+    "似韶容、可驻无人会，且忘言闲醉。",
+    "当度仙家长日，向人间、闲看佳丽。",
+    "念远处有东风在，梦悠悠往事。",
+    "桃溪近、幽香远远，谩凝望、落花流水。",
+    "桂华中、珠佩随轩去，还从卖花市。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-624",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f6556fbcdbfeca8dae455bdb",
+  "title": "金山",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "万顷洪涛里，巍然阅古今。",
+    "云烟三岛接，花木四时深。",
+    "乱石维舟住，西风倚槛吟。",
+    "朝宗知不断，凄切此时心。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-b064106e-87fd-4736-b5c1-2b3c145a8468"
+}

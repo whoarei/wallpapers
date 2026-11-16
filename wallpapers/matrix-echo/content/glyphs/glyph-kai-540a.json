@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-540a",
+  "script": "kai",
+  "character": "吊",
+  "reading": "diào",
+  "description": "diào：(1)祭奠死者或对遭到丧事的人家、团体给予慰问～丧。～孝。～唁。凭～。\n(2)慰问遭遇不幸的人形影相～。\n(3)悬挂上～（自缢）。～灯。\n(4)把毛皮缀在衣面上～皮袄。\n(5)提取，收回～销执照。\n(6)中国旧时钱币单位，一吊为一千个制钱或值一千个制钱的铜币数量。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吊"
+}

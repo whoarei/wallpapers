@@ -1,0 +1,17 @@
+{
+  "id": "poem-1e592e30664e1e3ac2f95def",
+  "title": "浣溪沙·已是人间不系舟",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "已是人间不系舟。",
+    "此心元自不惊鸥。",
+    "卧看骇浪与天浮。",
+    "对月只应频举酒，临风何必更搔头。",
+    "暝烟多处是神州。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-285",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-91ca217fd392e9cfb5e8073b",
+  "title": "春水曲",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "鸭鸭，觜唼唼。",
+    "青蒲生，春水狭。",
+    "荡漾木兰船，中有双少年。",
+    "少年醉，鸭不起。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-f9f520a9-13e6-4379-b6fd-f86904c219d6"
+}

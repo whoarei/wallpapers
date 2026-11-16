@@ -1,0 +1,14 @@
+{
+  "id": "poem-59f6ffd85a3570e7a3c107e2",
+  "title": "白菊三首 一",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "不疑陶令是狂生，作赋其如有定情。",
+    "犹胜江南隐居士，诗魔终袅负孤名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-0df27fd6-291b-49e4-9e42-94afbbbae717"
+}

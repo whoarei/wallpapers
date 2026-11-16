@@ -1,0 +1,14 @@
+{
+  "id": "poem-69ecc8cb10aec451fd7f3f0d",
+  "title": "静夜思",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "床前明月光，疑是地上霜。",
+    "举头望明月，低头思故乡。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-靜夜思"
+}

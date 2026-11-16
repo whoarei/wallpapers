@@ -1,0 +1,20 @@
+{
+  "id": "poem-cf9f117643e2a8720654fa4f",
+  "title": "蝶恋花·巧语娇莺春未暮",
+  "author": "吕本中",
+  "dynasty": "宋",
+  "verses": [
+    "巧语娇莺春未暮。",
+    "杨柳风流，恰过池塘雨。",
+    "芳草满庭花满树。",
+    "无情胡蝶飞来去。",
+    "睡起小奁香一缕。",
+    "玉篆回纹，等个人分付。",
+    "桃叶不言人不语。",
+    "眉尖一点君知否。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-751",
+  "tags": []
+}

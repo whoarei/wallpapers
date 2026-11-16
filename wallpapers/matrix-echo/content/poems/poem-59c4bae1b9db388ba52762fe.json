@@ -1,0 +1,16 @@
+{
+  "id": "poem-59c4bae1b9db388ba52762fe",
+  "title": "冬初杂兴  其三",
+  "author": "孙嵩",
+  "dynasty": "宋",
+  "verses": [
+    "钟声烟外寺，报我明朝霜。",
+    "篱落暝雀惊，原野昏鸦翔。",
+    "杖策归茅茨，偶一歌慨慷。",
+    "千载有我辈，感念行斜阳。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-811f3966-0b9e-4b28-b392-66a4c3414da7"
+}

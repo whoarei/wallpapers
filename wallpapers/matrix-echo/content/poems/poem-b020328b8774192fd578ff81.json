@@ -1,0 +1,20 @@
+{
+  "id": "poem-b020328b8774192fd578ff81",
+  "title": "蝶恋花·漏泄东君消息后",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "漏泄东君消息后。",
+    "短叶长条，著意遮轩牖。",
+    "嫩比鹅黄初熟酒。",
+    "染匀巧费春风手。",
+    "万缕筛金新月透。",
+    "入夜柔情，还胜朝来秀。",
+    "彩笔雕章知几首。",
+    "可人标韵无新旧。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-561",
+  "tags": []
+}

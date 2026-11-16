@@ -1,0 +1,16 @@
+{
+  "id": "poem-741dda421ac4e30f1e542d26",
+  "title": "宗夫人挽章",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "勋烈高忠简，夫人衍庆源。",
+    "春风南涧藻，秋雨北堂萱。",
+    "鸾鉴伤孤影，芝庭茂两孙。",
+    "清霜凝素仗，璀璨满西原。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-abba583c-376e-4236-a7ee-bb310c2328a0"
+}

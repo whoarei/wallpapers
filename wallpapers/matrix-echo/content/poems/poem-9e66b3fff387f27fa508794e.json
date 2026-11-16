@@ -1,0 +1,19 @@
+{
+  "id": "poem-9e66b3fff387f27fa508794e",
+  "title": "浣溪沙·漠漠轻寒上小楼",
+  "author": "秦观",
+  "dynasty": "宋",
+  "verses": [
+    "漠漠轻寒上小楼。",
+    "晓阴无赖似穷秋。",
+    "淡烟流水画屏幽。",
+    "自在飞花轻似梦，无边丝雨细如愁。",
+    "宝帘闲挂小银钩。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-68"
+}

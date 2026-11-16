@@ -1,0 +1,14 @@
+{
+  "id": "poem-c0fa49c21348515089e2a596",
+  "title": "隠山",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "小岭明明属小支，傍山论价与山违。",
+    "巢由去后箕山老，夜夜天云隠少微。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-30ae8a9e-7d64-4fe1-bf53-603d471bb318"
+}

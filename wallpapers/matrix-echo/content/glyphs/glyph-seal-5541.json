@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5541",
+  "script": "seal",
+  "character": "啁",
+  "reading": "zhōu；zhāo；tiào",
+  "description": "zhōu：〔～啾〕形容鸟叫声。\n〔～噍〕形容鸟叫声。\nzhāo：〔～哳〕形容声音杂乱细碎。\ntiào：调笑孙权性既滑稽，嘲～无方”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-啁"
+}

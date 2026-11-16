@@ -1,0 +1,16 @@
+{
+  "id": "poem-7ea19ae7cad568c0a0cf3e9f",
+  "title": "别",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "酒尽歌终问后期，泛萍浮梗不胜悲。",
+    "东门匹马夜归处，南浦片帆飞去时。",
+    "赋罢江淹吟更苦，诗成苏武思何迟。",
+    "可怜范陆分襟后，空折梅花寄所思。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-059c7799-21ec-43fc-b21f-96d763b83f58"
+}

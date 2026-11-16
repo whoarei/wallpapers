@@ -1,0 +1,15 @@
+{
+  "id": "poem-d9d9a53e2c16fe714822cbf0",
+  "title": "后庭花破子·玉树后庭前",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "玉树后庭前，瑶草妆镜边。",
+    "去年花不老，今年月又圆。",
+    "莫教偏，和月和花，大教长少年。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-40"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-88da7b92e32d6affa6bbf5b2",
+  "title": "帆游山",
+  "author": "张又新",
+  "dynasty": "唐",
+  "verses": [
+    "涨海尝从此地流，千帆飞过碧山头。",
+    "君看深谷为陵后，翻覆人间未肯休。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e8da3bba-9c1e-4ec1-92cf-469e04ff4c5b"
+}

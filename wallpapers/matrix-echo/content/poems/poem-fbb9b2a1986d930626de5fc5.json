@@ -1,0 +1,22 @@
+{
+  "id": "poem-fbb9b2a1986d930626de5fc5",
+  "title": "华景洞",
+  "author": "吕愿中",
+  "dynasty": "宋",
+  "verses": [
+    "斯洞名华景，累累乳石悬。",
+    "虚崖疑月窟，绝顶瞰江湍。",
+    "岩底金仙寺，峰头玉井莲。",
+    "地形居众外，气象伟无前。",
+    "徙杖观初日，归舆触暝烟。",
+    "蔽林排翠幄，封径簇花钿。",
+    "爽致资清赏，镌题记昔年。",
+    "猿啼声应谷，云破月侵筵。",
+    "策蹇追华驷，鸣髇指坠鸢。",
+    "谁人能画此，为倩老龙眠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-5ace7e03-ac51-4d5e-8989-40a6f69df2b0"
+}

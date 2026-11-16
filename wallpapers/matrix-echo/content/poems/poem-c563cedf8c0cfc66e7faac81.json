@@ -1,0 +1,14 @@
+{
+  "id": "poem-c563cedf8c0cfc66e7faac81",
+  "title": "郊庙歌辞 享懿德太子庙乐章 送文舞迎武舞",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "八音协奏陈金石，六佾分行整礼容。",
+    "沧溟赴海还称少，素月开轮即是重。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-2fd8d994-fa15-4dd6-9619-af4802e819fc"
+}

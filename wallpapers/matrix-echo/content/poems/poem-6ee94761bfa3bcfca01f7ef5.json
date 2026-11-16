@@ -1,0 +1,14 @@
+{
+  "id": "poem-6ee94761bfa3bcfca01f7ef5",
+  "title": "京中即事",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "笙歌无处不繁华，春在鶑鶑燕燕家。",
+    "谁看少年骑马过，娇红微露隔帘花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-e526e07a-cb67-45ea-b4c7-39418750ca8e"
+}

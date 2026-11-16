@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9cd9",
+  "script": "seal",
+  "character": "鳙",
+  "reading": "yōng",
+  "description": "鱼名,鳙鱼,又名胖头鱼”、花鲢”、黑鲢”\n鳙yōng鱼名。鳙鱼也叫\"花鲢\"、\"胖头鱼\"。鳙鱼，头大，体侧扁，鳞细，生活在淡水中，供食用。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鳙"
+}

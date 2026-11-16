@@ -1,0 +1,16 @@
+{
+  "id": "poem-d639dd371c39d99f42b0941f",
+  "title": "喜迁莺·清明节",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "清明节，雨晴天，得意正当年。",
+    "马骄泥软绵连干，香袖半笼鞭。",
+    "花色融，人竞赏，尽是绣鞍朱鞅。",
+    "日斜无计更留连，归路草和烟。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-36"
+}

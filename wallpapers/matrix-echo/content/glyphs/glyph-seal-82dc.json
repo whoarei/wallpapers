@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-82dc",
+  "script": "seal",
+  "character": "苜",
+  "reading": "mù",
+  "description": "mù：〔～蓿〕多年生草本植物，叶子长圆形，花紫色，结荚果，可以喂牲口，做肥料。嫩苗可食。亦作目宿”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-苜"
+}

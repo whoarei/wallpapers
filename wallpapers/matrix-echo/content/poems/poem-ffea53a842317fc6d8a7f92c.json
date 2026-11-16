@@ -1,0 +1,14 @@
+{
+  "id": "poem-ffea53a842317fc6d8a7f92c",
+  "title": "寄题江山叶氏翠香亭  其三",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "谁窃清香下广寒，霜风染就粟肤丹。",
+    "须知叶叶苍圭色，花未开时自可观。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-57741391-79b8-4eac-a368-0849cbe88ba5"
+}

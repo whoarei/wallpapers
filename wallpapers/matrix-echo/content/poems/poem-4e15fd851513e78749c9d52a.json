@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e15fd851513e78749c9d52a",
+  "title": "送友人之江南",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "东南路苦辛，去路见无因。",
+    "万里此相送，故交谁更亲。",
+    "日浮汀草绿，烟霁海山春。",
+    "握手无别赠，为予书札频。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3e6cbfa8-7b51-4e99-b66a-1a4c22ad1905"
+}

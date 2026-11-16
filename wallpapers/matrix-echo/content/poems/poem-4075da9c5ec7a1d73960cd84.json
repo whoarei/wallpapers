@@ -1,0 +1,20 @@
+{
+  "id": "poem-4075da9c5ec7a1d73960cd84",
+  "title": "同敬八卢五泛河间清河",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "清川在城下，沿泛多所宜。",
+    "同济惬数公，玩物欣良时。",
+    "飘飖波上兴，燕婉舟中词。",
+    "昔陟乃平原，今来忽涟漪。",
+    "东流达沧海，西流延滹池。",
+    "云树共晦明，井邑相逶迤。",
+    "稍随归月帆，若与沙鸥期。",
+    "渔父更留我，前潭水未滋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-e7fe9e63-321b-4afd-8a47-3dc37dbf7ba6"
+}

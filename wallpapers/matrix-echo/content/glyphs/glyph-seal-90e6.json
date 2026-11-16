@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-90e6",
+  "script": "seal",
+  "character": "郦",
+  "reading": "lì",
+  "description": "郦道元\n郦lí 1.春秋时鲁地名。\n郦zhí 1.古县名。秦置。故地在今河南南阳西北。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-郦"
+}

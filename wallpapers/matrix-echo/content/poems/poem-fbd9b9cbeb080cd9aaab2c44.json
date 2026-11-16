@@ -1,0 +1,14 @@
+{
+  "id": "poem-fbd9b9cbeb080cd9aaab2c44",
+  "title": "马蹄痕",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "一泓流水旧多情，拂尘乘骢跃浅萍。",
+    "父老竞传遗迹在，不知仙客是何名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-385b2d6f-c793-41ff-9393-660b039af9c0"
+}

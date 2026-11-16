@@ -1,0 +1,16 @@
+{
+  "id": "poem-63c9db0bd92645c560b8d1d9",
+  "title": "郊庙歌辞 让皇帝庙乐章 奠币",
+  "author": "李舒",
+  "dynasty": "唐",
+  "verses": [
+    "惟帝时若，去而上仙。",
+    "祀用商舞，乐备宫悬。",
+    "白璧加荐，玄𫄸告虔。",
+    "子孙拜后，承兹吉蠲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-41ecef75-7b10-43ec-bd23-77fab837ced4"
+}

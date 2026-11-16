@@ -1,0 +1,16 @@
+{
+  "id": "poem-3fa878d57cfa44b92b62c79a",
+  "title": "醉中看花因思去岁之任",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "去岁乘轺出上京，军机旦暮促前程。",
+    "狂花野草途中恨，春月秋风劒外情。",
+    "愁见瘴烟遮路色，厌闻溪水下滩声。",
+    "不辞醉伴诸年少，羞对红妆白发生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e9d762c8-8e3d-48b1-ace5-4181634c2be3"
+}

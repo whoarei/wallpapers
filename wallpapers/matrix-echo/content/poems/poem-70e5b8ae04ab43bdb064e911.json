@@ -1,0 +1,14 @@
+{
+  "id": "poem-70e5b8ae04ab43bdb064e911",
+  "title": "荷叶杯·楚女欲归南浦",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "楚女欲归南浦，朝雨。湿愁红。",
+    "小船摇漾入花里，波起。隔西风。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-15",
+  "tags": []
+}

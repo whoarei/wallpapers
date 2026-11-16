@@ -1,0 +1,17 @@
+{
+  "id": "poem-6057033565a207cc1d345e57",
+  "title": "和陶渊明二十首  其一○",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "自公有至乐，诗卷还坐隅。",
+    "得句一吐之，嬉然忘穷涂。",
+    "百世一俯仰，万象付驰驱。",
+    "吟情当饮兴，其乐皆有余。",
+    "役心声利场，咄咄彼何居。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-710c1b7f-6ff2-46bd-987c-f58f4102e05d"
+}

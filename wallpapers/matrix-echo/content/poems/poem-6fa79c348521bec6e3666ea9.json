@@ -1,0 +1,16 @@
+{
+  "id": "poem-6fa79c348521bec6e3666ea9",
+  "title": "曲江暮春雪霁",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "霁动江池色，春残一去游。",
+    "菰风生马足，槐雪滴人头。",
+    "北阙尘未起，南山青欲流。",
+    "如何多别地，却得醉汀洲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8be69b7d-175e-44f0-bd5a-7f1fe621029d"
+}

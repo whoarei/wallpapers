@@ -1,0 +1,16 @@
+{
+  "id": "poem-e3b5b47ccc9bdcba0dcb31c6",
+  "title": "玉楼春·月皎露华窗影细",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "月皎露华窗影细，风送菊香沾绣袂。",
+    "博山炉冷水沉微，惆怅金闺终日闭。",
+    "懒展罗衾垂玉箸，羞对菱花簪宝髻。",
+    "良宵好事枉教休，无计那他狂耍婿。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-48"
+}

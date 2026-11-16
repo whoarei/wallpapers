@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7978",
+  "script": "seal",
+  "character": "祸",
+  "reading": "huò",
+  "description": "祸及枯骨。\n⒈灾害，苦难，跟\"福\"相对闯～了。出了车～。遭～殃。～兮福所倚，福兮～所伏。\n⒉损害，桅～害。～人之心。～国殃民。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-祸"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f2e",
+  "script": "seal",
+  "character": "缮",
+  "reading": "shàn",
+  "description": "制造;整治\n工整地抄写\n然后\n⒈修补，整治修～。～治。\n⒉抄写～写文稿。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缮"
+}

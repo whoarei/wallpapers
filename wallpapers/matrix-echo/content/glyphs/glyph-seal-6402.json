@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6402",
+  "script": "seal",
+  "character": "搂",
+  "reading": "lǒu",
+  "description": "搂抱;用手或工具把东西向自己面前聚集\n兜揽\n核算\n用手拢着提\n⒈将东西聚拢起来～草。～柴。\n⒉搜刮贪官污吏专会～钱。\n⒊用手指往怀里拨、扳～手枪。～机枪。\n⒈两臂合抱，向怀里拢着～抱。～着孩子。\n⒉量词三～草。两～粗的银杏树。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-搂"
+}

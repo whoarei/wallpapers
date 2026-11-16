@@ -1,0 +1,16 @@
+{
+  "id": "poem-35a593de38ea6fee9c97368c",
+  "title": "挽司直兄  其二",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "典重班诸老，声名始璧流。",
+    "开尊口佳士，襥被闯前修。",
+    "月冷金闺籍，尘生玉杖鸠。",
+    "梅岩伤目处，鴈影正宾秋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-49fcd16a-8800-4c8f-8fac-72b16f8ecbe1"
+}

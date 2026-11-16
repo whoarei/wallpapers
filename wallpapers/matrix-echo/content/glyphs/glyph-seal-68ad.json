@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-68ad",
+  "script": "seal",
+  "character": "梭",
+  "reading": "suō",
+  "description": "suō：(1)织布时往返牵引纬线（横线）的工具，两头尖，中间粗，像枣核形～子（ａ．织布工具；ｂ．机关枪、冲锋枪的子弹夹子；ｃ．量词，如打了一～～子弹”）。\n(2)形状像梭的～镖。～子蟹。\n(3)喻不断地来往～巡。穿～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梭"
+}

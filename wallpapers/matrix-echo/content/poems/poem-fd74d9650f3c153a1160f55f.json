@@ -1,0 +1,16 @@
+{
+  "id": "poem-fd74d9650f3c153a1160f55f",
+  "title": "郊庙歌辞 享惠昭太子庙乐章 送神",
+  "author": "王涯",
+  "dynasty": "唐",
+  "verses": [
+    "威仪毕陈，备乐将阕。",
+    "苞茅酒缩，膋萧香彻。",
+    "宫臣展事，肃雍在列。",
+    "迎精送往，厥鉴昭晰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-5d132fee-78bd-4ca6-9f30-ebe3c81c95f7"
+}

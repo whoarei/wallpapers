@@ -1,0 +1,14 @@
+{
+  "id": "poem-3d2d27725796d9dba8085f13",
+  "title": "古劒池",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "秋水莲花三四枝，我来慷慨步迟迟。",
+    "不决浮云斩邪佞，直成龙去欲何为。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-bfc49d49-4140-4650-b28f-1de9792fdde7"
+}

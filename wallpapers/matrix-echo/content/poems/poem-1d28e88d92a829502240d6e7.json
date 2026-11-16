@@ -1,0 +1,16 @@
+{
+  "id": "poem-1d28e88d92a829502240d6e7",
+  "title": "将入匡山别芳昼二公二首 一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "喷岚堆黛塞寒碧，窗前古雪入白石。",
+    "临岐约我来不来，若来须拨红霞觅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c68e9289-7c74-449f-ac83-6f8924d8b848"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-9397b69fffe11b944dc88d78",
+  "title": "长安春",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "长安牡丹开，绣毂辗晴雷。",
+    "若使花长在，人应看不回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3a56e675-4972-41f5-9b57-7a676203580a"
+}

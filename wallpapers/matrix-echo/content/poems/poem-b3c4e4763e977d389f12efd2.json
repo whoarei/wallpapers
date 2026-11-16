@@ -1,0 +1,20 @@
+{
+  "id": "poem-b3c4e4763e977d389f12efd2",
+  "title": "醉落魄・一斛珠·天低日暮",
+  "author": "李石",
+  "dynasty": "宋",
+  "verses": [
+    "天低日暮。",
+    "清商一曲行人住。",
+    "著人意态如飞絮。",
+    "才泊春衫，却被风吹去。",
+    "朝期暮约浑无据。",
+    "同心结尽千千缕。",
+    "今宵魂梦知何处。",
+    "翠竹芭蕉，又下黄昏雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-264",
+  "tags": []
+}

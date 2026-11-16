@@ -1,0 +1,14 @@
+{
+  "id": "poem-a5091fe89b8f5b2be6fe2bf9",
+  "title": "次韵和复古春日五绝句  其五",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "燕拂人衣絮扑头，红英满地绿阴稠。",
+    "残春举目多愁思，休上迢迢百尺楼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-697f109e-62c4-4b2c-b69f-2281a29dd5d9"
+}

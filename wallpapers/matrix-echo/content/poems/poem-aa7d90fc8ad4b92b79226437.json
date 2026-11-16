@@ -1,0 +1,18 @@
+{
+  "id": "poem-aa7d90fc8ad4b92b79226437",
+  "title": "临江仙·十岁儿曹同砚席",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "十岁儿曹同砚席，华裾织翠如葱。",
+    "一生心事醉吟中。",
+    "相逢俱白首，无语对西风。",
+    "莫道尊前情调减，衰颜得酒能红。",
+    "可怜此会意无穷。",
+    "夜阑人总睡，独绕菊花丛。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-189",
+  "tags": []
+}

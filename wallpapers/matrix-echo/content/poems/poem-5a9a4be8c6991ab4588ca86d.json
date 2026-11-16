@@ -1,0 +1,16 @@
+{
+  "id": "poem-5a9a4be8c6991ab4588ca86d",
+  "title": "女冠子·求仙去也",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "求仙去也，翠钿金篦尽舍，入崖峦。",
+    "雾卷黄罗帔，云雕白玉冠。",
+    "野烟溪洞冷，林月石桥寒。",
+    "静夜松风下，礼天坛。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-42"
+}

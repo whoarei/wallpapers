@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7487",
+  "script": "seal",
+  "character": "璇",
+  "reading": "xuán",
+  "description": "xuán：美玉～宫（旧指帝王后妃住处）。～玑（a.古代天文仪器；b.古代称北斗星的第一星至第四星）。～闺（旧指华丽的闺房）。～室。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-璇"
+}

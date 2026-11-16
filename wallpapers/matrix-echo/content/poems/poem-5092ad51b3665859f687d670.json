@@ -1,0 +1,16 @@
+{
+  "id": "poem-5092ad51b3665859f687d670",
+  "title": "女冠子·含娇含笑",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "含娇含笑，宿翠残红窈窕。",
+    "鬓如蝉，寒玉簪秋水，轻纱卷碧烟。",
+    "雪胸鸾镜里，琪树凤楼前。",
+    "寄语青娥伴，早求仙。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-47",
+  "tags": []
+}

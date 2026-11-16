@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5802",
+  "script": "kai",
+  "character": "堂",
+  "reading": "táng",
+  "description": "táng：(1)正房，高大的房子～屋。～客。～倌。礼～。澡～。\n(2)同祖父的亲属关系～房。～兄弟。\n(3)旧时官吏审案办事的地方大～。公～。过～。\n(4)量词上了一～课。一～家具。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-堂"
+}

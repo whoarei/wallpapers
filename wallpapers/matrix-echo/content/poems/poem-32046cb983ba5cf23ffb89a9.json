@@ -1,0 +1,16 @@
+{
+  "id": "poem-32046cb983ba5cf23ffb89a9",
+  "title": "醉公子·慢绾青丝发",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "慢绾青丝发，光砑吴绫袜。",
+    "床上小熏笼，韶州新退红。",
+    "叵耐无端处，捻得从头污。",
+    "恼得眼慵开，问人闲事来。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-41"
+}

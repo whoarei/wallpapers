@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6237",
+  "script": "kai",
+  "character": "户",
+  "reading": "hù",
+  "description": "hù：(1)一扇门，门门～。窗～。～枢不蠹。夜不闭～。\n(2)人家～口。～主。门～之见（亦指派别上的成见）。\n(3)会计部门称账册上有业务关系的团体或个人～头。开～。\n(4)门第门当～头。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-户"
+}

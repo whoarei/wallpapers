@@ -1,0 +1,14 @@
+{
+  "id": "poem-479bf17616e07051533ce582",
+  "title": "颂古七十六首  其二五",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "若谓平常心是道，枝蔓向上更生枝。",
+    "贴肉汗衫如脱了，唤来眼上与安眉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-25b6d4ba-0a87-4744-9a88-42e7a3cea7e1"
+}

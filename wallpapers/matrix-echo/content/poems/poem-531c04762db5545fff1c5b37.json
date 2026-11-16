@@ -1,0 +1,14 @@
+{
+  "id": "poem-531c04762db5545fff1c5b37",
+  "title": "闺情（为落殊蕃陈上相知人） 闺情 一",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "相随万里泣胡风，疋偶将期一世终。",
+    "早知中路生离别，悔不深怜沙碛中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-4413e116-18be-4c17-b9c1-eb8891418c6f"
+}

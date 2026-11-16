@@ -1,0 +1,17 @@
+{
+  "id": "poem-30a955af7f7c568dff323205",
+  "title": "题宛陵张待举曲肱亭",
+  "author": "林之奇",
+  "dynasty": "宋",
+  "verses": [
+    "仲蔚蓬蒿宅，宜城诗句中。",
+    "人贤忘巷陋，境胜失途穷。",
+    "寒葅书万卷，零乱刚直胸。",
+    "偃蹇勋业外，啸歌山水重。",
+    "晨鸡催不起，拥被听松风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-391b92f0-2f34-47ff-a122-a7529002e07f"
+}

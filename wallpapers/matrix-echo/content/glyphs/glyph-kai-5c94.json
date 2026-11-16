@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c94",
+  "script": "kai",
+  "character": "岔",
+  "reading": "chà",
+  "description": "chà：(1)山脉分歧的地方，亦指道路、河流分歧的地方～道。～子。大沟小～。\n(2)转移话题，未按原来的方向行进而偏到一边打～。走～了。\n(3)互相让开或调换把这两个会的时间～开。\n(4)方言，嗓音失常～调（diào）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-岔"
+}

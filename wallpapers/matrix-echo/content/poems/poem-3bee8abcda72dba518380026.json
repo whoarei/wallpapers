@@ -1,0 +1,20 @@
+{
+  "id": "poem-3bee8abcda72dba518380026",
+  "title": "满朝欢·花隔铜壶",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "花隔铜壶，露晞金掌，都门十二清晓。",
+    "帝里风光烂漫，偏爱春杪。",
+    "烟轻昼永，引莺啭上林，鱼游灵沼。",
+    "巷陌乍晴，香尘染惹，垂杨芳草。",
+    "因念秦楼彩凤，楚观朝云，往惜曾迷歌笑。",
+    "别来岁久，偶忆欢盟重到。",
+    "人面桃花，未知何处，但掩朱扉悄悄。",
+    "尽日伫立无言，赢得凄凉怀抱。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-69",
+  "tags": []
+}

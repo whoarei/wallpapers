@@ -1,0 +1,14 @@
+{
+  "id": "poem-a200705676d72ba3a3de352b",
+  "title": "拜总持尼祖塔",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "平生自爱黄金膝，肯屈榛芜草棘深。",
+    "弗似灌溪闲上座，尼坛再展不同心。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-c5c68085-8d7b-484e-97b6-a4966cca5d66"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-5d3610e42922660ac4e96c75",
+  "title": "柳枝辞十二首  其四",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "夹岸朱栏柳映楼，绿波平幔带花流。",
+    "歌声不出长条密，忽地风回见彩舟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-3aef44d7-2482-496e-aa68-bdaa6bbbc4de"
+}

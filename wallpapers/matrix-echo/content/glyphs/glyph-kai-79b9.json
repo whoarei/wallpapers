@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-79b9",
+  "script": "kai",
+  "character": "禹",
+  "reading": "yǔ",
+  "description": "yǔ：(1)传说中国夏代的第一个君主，他曾经治过洪水～域（指中国的疆域）。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-禹"
+}

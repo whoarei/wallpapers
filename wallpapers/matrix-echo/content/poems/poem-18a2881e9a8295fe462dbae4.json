@@ -1,0 +1,16 @@
+{
+  "id": "poem-18a2881e9a8295fe462dbae4",
+  "title": "雨中宿僧院",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "千灯有宿因，长老许相亲。",
+    "夜永楼台雨，更深江海人。",
+    "劳生无了日，妄念起微尘。",
+    "不是真如理，何门静此身。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3d94b8b1-d00c-4667-a411-3117ac16e7a4"
+}

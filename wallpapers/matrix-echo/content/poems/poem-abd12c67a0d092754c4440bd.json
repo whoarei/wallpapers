@@ -1,0 +1,16 @@
+{
+  "id": "poem-abd12c67a0d092754c4440bd",
+  "title": "寄玉笥山沈道士",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "珍重江南沈炼师，未曾相识久相思。",
+    "已全真气能从俗，不坠家风善赋诗。",
+    "玉笥共游知早晚，金貂回顾觉喧卑。",
+    "多惭书札遥相问，更望刀圭换白髭。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-1afe3b68-82c0-4e5a-9ad8-273a5892095f"
+}

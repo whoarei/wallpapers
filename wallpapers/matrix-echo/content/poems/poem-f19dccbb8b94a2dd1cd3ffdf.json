@@ -1,0 +1,14 @@
+{
+  "id": "poem-f19dccbb8b94a2dd1cd3ffdf",
+  "title": "偈颂 一",
+  "author": "文偃",
+  "dynasty": "唐",
+  "verses": [
+    "云门耸剔（《天圣广灯录》卷二十作「踢」、《五灯会元》卷十五作「峻」）白云低，水急游鱼不敢栖。",
+    "入户已知来见解，何劳更（《天圣广灯录》、《五灯会元》作「再」）举轹中泥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-d053634c-f6c2-4e94-8f5b-30526a12cc4a"
+}

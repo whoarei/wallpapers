@@ -1,0 +1,16 @@
+{
+  "id": "poem-7a9e1543efb2a26141154b09",
+  "title": "冬夕",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "寒蛩独罢织，湘雁犹能鸣。",
+    "月色当窗入，乡心半夜生。",
+    "不成高枕梦，复作遶堦行。",
+    "回首嗟淹泊，城头北斗横。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-bf5cb147-b653-4297-8569-0d487601292f"
+}

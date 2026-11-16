@@ -1,0 +1,16 @@
+{
+  "id": "poem-4926c21403f6cb2a329a27f7",
+  "title": "思归赤松村呈松阳子",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "昔人思避世，惟恐不深幽。",
+    "禽庆潜名岳，鸱夷漾钓舟。",
+    "顾余知止足，所乐在归休。",
+    "不似寻山者，忘家恣远游。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-a7824e5f-40ca-4492-8899-8f42452a2372"
+}

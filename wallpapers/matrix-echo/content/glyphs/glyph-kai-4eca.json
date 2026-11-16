@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4eca",
+  "script": "kai",
+  "character": "今",
+  "reading": "jīn",
+  "description": "jīn：现在～天。～生。～世。～番（这次）。古为～用。～是昨非。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-今"
+}

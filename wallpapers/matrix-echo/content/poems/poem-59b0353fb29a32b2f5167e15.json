@@ -1,0 +1,13 @@
+{
+  "id": "poem-59b0353fb29a32b2f5167e15",
+  "title": "句",
+  "author": "李许",
+  "dynasty": "唐",
+  "verses": [
+    "澹荡和风催去袖，摇扬淑景照离樽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-b6ef1ad9-7c70-4246-9471-16ccc3bbd684"
+}

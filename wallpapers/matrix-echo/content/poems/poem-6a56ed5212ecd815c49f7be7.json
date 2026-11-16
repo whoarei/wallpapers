@@ -1,0 +1,16 @@
+{
+  "id": "poem-6a56ed5212ecd815c49f7be7",
+  "title": "毘陵东山",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "昔人别馆淹留处，卜筑东山学谢家。",
+    "业桂半空摧枳棘，曲池平尽隔烟霞。",
+    "重开渔浦连天月，更种春园满地花。",
+    "依旧秋风还寂莫，数行衰柳宿啼鸦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-7d0ce467-1ee7-4612-979a-8c10c174357d"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-817f",
+  "script": "kai",
+  "character": "腿",
+  "reading": "tuǐ",
+  "description": "tuǐ：(1)下肢，在脚的上面，在膝上胯下的称大腿”，在膝下脚上的称小腿”。～脚。\n(2)器物上像腿的部分桌子～儿。\n(3)特指经盐腌、洗晒、晾挂等工序加工成的猪后腿火～。云～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-腿"
+}

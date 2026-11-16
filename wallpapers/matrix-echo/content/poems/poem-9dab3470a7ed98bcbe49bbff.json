@@ -1,0 +1,14 @@
+{
+  "id": "poem-9dab3470a7ed98bcbe49bbff",
+  "title": "和叔崇清明后四绝  其四",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "缓步微吟竹一枝，情怀不比少年时。",
+    "少年春思无归宿，却是如今老会嬉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-1be10fce-e0e8-43bb-90e4-b20a08088941"
+}

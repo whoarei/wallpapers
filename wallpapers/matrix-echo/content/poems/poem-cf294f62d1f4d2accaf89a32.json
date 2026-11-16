@@ -1,0 +1,14 @@
+{
+  "id": "poem-cf294f62d1f4d2accaf89a32",
+  "title": "伯兄新楼十首  其四",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "野色晴晖展画屏，绿槐古樾两娉婷。",
+    "却嫌一带无情竹，只放金华半段青。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-78ae8b19-806b-450b-ae53-b7e09c17746b"
+}

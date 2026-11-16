@@ -1,0 +1,20 @@
+{
+  "id": "poem-36e28eea07484f6fc0df4256",
+  "title": "望海楼",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "云间铁瓮近青天，缥缈飞楼百尺连。",
+    "三峡江声流笔底，六朝帆影落尊前。",
+    "几番画角催红日，无事沧洲起白烟。",
+    "忽忆赏心何处是，春风秋月两茫然。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "咏物诗",
+    "咏物",
+    "写景"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-7994cb6e-a1aa-415c-81db-f091905948c1"
+}

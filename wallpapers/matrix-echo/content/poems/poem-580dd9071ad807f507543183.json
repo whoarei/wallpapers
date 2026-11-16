@@ -1,0 +1,16 @@
+{
+  "id": "poem-580dd9071ad807f507543183",
+  "title": "送何召下第后归蜀",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "襃斜行客过，栈道响危空。",
+    "路湿云初上，山明日正中。",
+    "水程通海货，地利杂吴风。",
+    "一别金门远，何人复荐雄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-357b89f6-fc6f-4aa2-b158-6da38f820c6b"
+}

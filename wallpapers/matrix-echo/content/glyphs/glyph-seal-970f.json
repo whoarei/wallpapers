@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-970f",
+  "script": "seal",
+  "character": "霏",
+  "reading": "fēi",
+  "description": "fēi：(1)飘扬烟～云敛。\n(2)云气云霞收夕～”。～～（雨、雪、烟、云很盛的样子）。～微（雾气、细雨弥漫的样子）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-霏"
+}

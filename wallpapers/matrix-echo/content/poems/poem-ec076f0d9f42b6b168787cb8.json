@@ -1,0 +1,16 @@
+{
+  "id": "poem-ec076f0d9f42b6b168787cb8",
+  "title": "嵩山十志十首 其十",
+  "author": "卢鸿一",
+  "dynasty": "唐",
+  "verses": [
+    "水碧色兮石金光，滟熠熠兮濙湟湟。",
+    "泉葩映兮烟茑临，红灼灼，翠阴阴。",
+    "翠相鲜兮金碧潭，霜天洞兮烟景涵。",
+    "有幽人兮好冥绝，炳其焕兮凝其洁，悠悠千古长不灭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-7e6bfc79-bfdb-4645-a08b-855124e0e02b"
+}

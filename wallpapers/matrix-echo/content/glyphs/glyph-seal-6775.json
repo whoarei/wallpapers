@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6775",
+  "script": "seal",
+  "character": "杵",
+  "reading": "chǔ",
+  "description": "chǔ：(1)舂米或捶衣的木棒～臼。砧～。～臼交（旧称互相不嫌贫贱的朋友）。\n(2)用长形的东西戮～了他一拳。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杵"
+}

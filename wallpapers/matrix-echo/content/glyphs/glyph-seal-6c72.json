@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c72",
+  "script": "seal",
+  "character": "汲",
+  "reading": "jí",
+  "description": "jí：(1)从井里打水～水。～引（ａ．汲水；ｂ．吸取）。\n(2)姓。\n〔～～〕形容心情急切、努力追求，如～～于富贵”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-汲"
+}

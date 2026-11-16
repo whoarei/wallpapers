@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8fdb",
+  "script": "seal",
+  "character": "进",
+  "reading": "jìn",
+  "description": "水陆并进。\n⒈向前，跟\"退\"相对跃～。向前～。勇者不得独～。\n⒉入，到里面去～门。～厂。～中学。\n⒊收入或买入～钱。～衣服。\n⒋向上移动更～一层楼。\n⒌送上，奉呈～献。～酒。～言。～谏。\n⒍推荐，吸取荐～。引～。吸～。\n⒎旧时房院前后的层次，每一个院叫\"一进\"这座房屋是三～院子。\n①向前发展，比原来好他已有很大的～步。\n②适应时代的要求，对社会发展起促进作用的～步思想。\n⒈闭口，不说话～若寒蝉。〈引〉关闭～门。\n⒉因寒冷而哆嗦打寒～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-进"
+}

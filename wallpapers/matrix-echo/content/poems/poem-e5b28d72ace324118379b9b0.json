@@ -1,0 +1,20 @@
+{
+  "id": "poem-e5b28d72ace324118379b9b0",
+  "title": "湘弦曲",
+  "author": "庄南杰",
+  "dynasty": "唐",
+  "verses": [
+    "楚云铮铮戛秋露，巫云峡雨飞朝暮。",
+    "古磬高敲百尺楼，孤猨夜哭千丈树。",
+    "云轩碾火声珑珑，连山卷尽长江空。",
+    "莺啼寂寞花枝雨，鬼啸荒郊松柏风。",
+    "满堂怨咽悲相续，苦调中含古离曲。",
+    "繁弦响绝楚魂遥，湘江水碧湘山绿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-9cb64625-be19-4118-bc44-bafaf721b140"
+}

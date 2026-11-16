@@ -1,0 +1,14 @@
+{
+  "id": "poem-4d8a14c8d10f7bd7849bf274",
+  "title": "诗一首",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "得意似鸳鸯，情乖若吴越。",
+    "不向君边尽，更知何处歇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-5ad82c7c-4b3e-4517-85cf-28972a821dcf"
+}

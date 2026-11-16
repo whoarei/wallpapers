@@ -1,0 +1,14 @@
+{
+  "id": "poem-a3acaf32523aa928726e53e2",
+  "title": "贫女观音",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "雪藕铢衣不自珍，人间丝枲谩纷纭。",
+    "何如小白花山上，别剪彤霞与白云。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-d72dac63-1974-4dcd-bcaa-ebc89724eabd"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-80c92bda5d677c04ae91958b",
+  "title": "秋蛩",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "雨绝苍苔地，月斜青草阶。",
+    "蛩鸣谁不怨，况是正离怀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-c806c9c2-8095-46bc-9eb7-af8135598f2a"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-8a71c2c12fce141d3e24fe9e",
+  "title": "新秦郡松树歌",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "青青山上松，数里不见今更逢。",
+    "不见君，心相忆，此心向君君应识。",
+    "为君颜色高且闲，亭亭迥出浮云间。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-18c9eef7-5cf2-4f88-873a-e46708007e7f"
+}

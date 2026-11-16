@@ -1,0 +1,16 @@
+{
+  "id": "poem-b86d7d687c4c627c65fd0621",
+  "title": "傍妆台",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［老旦］意悬悬，倚门终日，望得眼儿穿。",
+    "自他去京历鏖战，无一纸信音传。",
+    "［旦］多应他在京得中选，因此上无暇修书寄故园。",
+    "［老旦］他既登金榜，怎不锦旋，越教娘心下转萦牵。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8173",
+  "tags": []
+}

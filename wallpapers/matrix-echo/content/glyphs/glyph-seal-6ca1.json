@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6ca1",
+  "script": "seal",
+  "character": "没",
+  "reading": "méi；mò",
+  "description": "méi：(1)无～有。～用。～关系。～词儿。～精打采。～心～肺。\n(2)不曾，未～有来过。\n(3)不够，不如汽车～飞机快。\n出；有；\nmò：(1)隐在水中沉～。～顶之灾。\n(2)隐藏，消失埋～。～落。\n(3)漫过，高过水～了头顶。淹～。\n(4)财物收归公有或被私人侵吞～收。抄～。\n(5)终，尽～世。～齿不忘。\n(6)同殁”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-没"
+}

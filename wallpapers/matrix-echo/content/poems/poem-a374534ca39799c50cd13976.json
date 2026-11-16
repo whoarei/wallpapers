@@ -1,0 +1,15 @@
+{
+  "id": "poem-a374534ca39799c50cd13976",
+  "title": "摘得新·摘得新",
+  "author": "皇甫松",
+  "dynasty": "唐",
+  "verses": [
+    "摘得新，枝枝叶叶春。",
+    "管弦兼美酒，最关人。",
+    "平生都得几十度，展香茵。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-23",
+  "tags": []
+}

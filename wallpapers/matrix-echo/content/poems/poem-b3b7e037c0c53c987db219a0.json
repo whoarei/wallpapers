@@ -1,0 +1,16 @@
+{
+  "id": "poem-b3b7e037c0c53c987db219a0",
+  "title": "赠李宜之运干",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "谪仙苗裔自非凡，家学端能嗣大参。",
+    "一见便知空冀北，三年长叹滞周南。",
+    "绝畦翰墨仆骚可，请试言词倚马堪。",
+    "莫道南来橐无宝，一编传得小云龛。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-7aa72bd0-d90e-4170-9c65-807cf294ed83"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-f3bafa8a63422e0b421fecc1",
+  "title": "秋千词",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "长长丝绳紫复碧，袅袅横枝高百尺。",
+    "少年儿女重秋千，盘巾结带分两边。",
+    "身轻裙薄易生力，双手向空如鸟翼。",
+    "下来立定重系衣，复畏斜风高不得。",
+    "傍人送上那足贵，终赌鸣珰鬬自起。",
+    "回回若与高树齐，头上宝钗从堕地。",
+    "眼前争胜难为休，足踏平地看始愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-db5e7031-fe00-4693-a3e0-ed08debf7dec"
+}

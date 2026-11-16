@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-778b",
+  "script": "seal",
+  "character": "瞋",
+  "reading": "tián；chēn",
+  "description": "chēn：(1)睁大眼睛瞪人～目叱之。\n(2)同嗔”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瞋"
+}

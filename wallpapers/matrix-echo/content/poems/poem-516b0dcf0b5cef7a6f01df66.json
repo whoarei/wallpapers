@@ -1,0 +1,14 @@
+{
+  "id": "poem-516b0dcf0b5cef7a6f01df66",
+  "title": "观猎",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "马缩寒毛鹰落臕，角弓初暖箭新调。",
+    "平原踏尽无禽出，竟日翻身望碧霄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-ba6b993b-d939-4323-8fde-af6076038270"
+}

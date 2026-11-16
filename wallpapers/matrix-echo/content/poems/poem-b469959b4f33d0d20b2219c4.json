@@ -1,0 +1,16 @@
+{
+  "id": "poem-b469959b4f33d0d20b2219c4",
+  "title": "眼儿媚·咏梅",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "莫把琼花比澹妆，谁似白霓裳。",
+    "别样清幽，自然标格，莫近东墙。",
+    "冰肌玉骨天分付，兼付与凄凉。",
+    "可怜遥夜，冷烟和月，疏影横窗。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-35"
+}

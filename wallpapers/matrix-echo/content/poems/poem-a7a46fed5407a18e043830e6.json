@@ -1,0 +1,18 @@
+{
+  "id": "poem-a7a46fed5407a18e043830e6",
+  "title": "偈七首  其二",
+  "author": "释法泉",
+  "dynasty": "宋",
+  "verses": [
+    "团团离海峤，渐渐出云衢。",
+    "此夜一轮满，清光何处无。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "写诗",
+    "中秋节",
+    "赏月"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-68040408-4e36-48ba-aea3-cd46672468dd"
+}

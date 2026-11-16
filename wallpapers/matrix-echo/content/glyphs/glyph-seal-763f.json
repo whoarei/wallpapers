@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-763f",
+  "script": "seal",
+  "character": "瘿",
+  "reading": "yǐng",
+  "description": "虫瘿。树木外部隆起如瘤者\n指累赘,多余的东西\n⒈颈瘤。多指甲状腺肿。\n⒉树木上隆起像肿瘤的部分树～。\n⒊虫瘿，简称\"瘿\"。受虫害侵蚀的组织，发生变化所形成的瘤状物。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瘿"
+}

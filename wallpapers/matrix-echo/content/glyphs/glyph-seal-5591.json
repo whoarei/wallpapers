@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5591",
+  "script": "seal",
+  "character": "喑",
+  "reading": "yīn",
+  "description": "yīn：(1)哑，不能说话～哑难言。\n(2)缄默，不说话。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-喑"
+}

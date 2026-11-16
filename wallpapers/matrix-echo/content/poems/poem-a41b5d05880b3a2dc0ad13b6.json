@@ -1,0 +1,14 @@
+{
+  "id": "poem-a41b5d05880b3a2dc0ad13b6",
+  "title": "上归州刺史代通状二首 二",
+  "author": "怀濬",
+  "dynasty": "唐",
+  "verses": [
+    "家在闽山东复东，其中岁岁有花红。",
+    "而今不在花红处，花在旧时红处红。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-92c3cd1a-2451-49f5-8361-0d2be7c68086"
+}

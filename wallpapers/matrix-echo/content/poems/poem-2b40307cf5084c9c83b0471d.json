@@ -1,0 +1,16 @@
+{
+  "id": "poem-2b40307cf5084c9c83b0471d",
+  "title": "九日蓝耕会饮",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "老去悲秋强自宽，兴来今日尽君欢。",
+    "羞将短发还吹帽，笑倩旁人为正冠。",
+    "蓝水远从千涧落，玉山高并两峰寒。",
+    "明年此会知谁健，醉把茱萸仔细看。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-九日藍耕會飲"
+}

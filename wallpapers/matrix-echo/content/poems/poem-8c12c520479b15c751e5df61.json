@@ -1,0 +1,16 @@
+{
+  "id": "poem-8c12c520479b15c751e5df61",
+  "title": "闲居作五首 其四",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "闷看垂簷雨，闲寻小院芳。",
+    "壁泥根长麦，篱柱叶生杨。",
+    "旋碾新茶试，生开嫩酒尝。",
+    "看看花渐老，无复滞春光。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-60aa5fb8-0040-4d53-8807-17719f2db621"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-757b801a3f354f7664ffe42b",
+  "title": "渔歌子·晓风清",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "晓风清，幽沼绿，倚栏凝望珍禽浴。",
+    "画帘垂，翠屏曲，满袖荷香馥郁。",
+    "好摅怀，堪寓目，身闲心静平生足。",
+    "酒杯深，光影促，名利无心较逐。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-30"
+}

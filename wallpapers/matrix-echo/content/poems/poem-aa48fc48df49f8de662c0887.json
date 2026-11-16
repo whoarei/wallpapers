@@ -1,0 +1,14 @@
+{
+  "id": "poem-aa48fc48df49f8de662c0887",
+  "title": "黄子陂",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "岸芳春色晓，水影夕阳微。",
+    "寂寂深烟里，渔舟夜不归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-c14e9734-cec8-445e-8d03-88d75a42f48e"
+}

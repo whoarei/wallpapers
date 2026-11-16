@@ -1,0 +1,13 @@
+{
+  "id": "poem-e33e199e57d5e30269514756",
+  "title": "又句",
+  "author": "李揆",
+  "dynasty": "唐",
+  "verses": [
+    "共仰新侯伯，同瞻旧宰臣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-202c1e80-b368-4fd4-8a57-2069ed80d603"
+}

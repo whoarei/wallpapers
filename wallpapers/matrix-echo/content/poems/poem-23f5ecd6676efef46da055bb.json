@@ -1,0 +1,16 @@
+{
+  "id": "poem-23f5ecd6676efef46da055bb",
+  "title": "送金少卿副使归新罗",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "云岛茫茫天畔微，向东万里一帆飞。",
+    "久为侍子承恩重，今佐使臣衔命归。",
+    "通海便应将国信，到家犹自著朝衣。",
+    "从前此去人无数，光彩如君定是稀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-cf87caa9-9c44-4fed-a46e-f72f5b400811"
+}

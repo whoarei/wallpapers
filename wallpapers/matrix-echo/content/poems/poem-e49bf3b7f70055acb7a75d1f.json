@@ -1,0 +1,18 @@
+{
+  "id": "poem-e49bf3b7f70055acb7a75d1f",
+  "title": "登楼值雨二首 一",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "共讶高楼望，匡庐色已空。",
+    "白云横野阔，遮岳与天同。",
+    "数点雨入酒，满襟香在风。",
+    "远江吟得出，方下郡斋东。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c9b97fac-69f5-4b09-af59-e59969077dc0"
+}

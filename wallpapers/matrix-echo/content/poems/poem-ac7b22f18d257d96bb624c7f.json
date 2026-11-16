@@ -1,0 +1,20 @@
+{
+  "id": "poem-ac7b22f18d257d96bb624c7f",
+  "title": "吊卢殷 四",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "登封草木深，登封道路微。",
+    "日月不与光，莓苔空生衣。",
+    "可怜无子翁，蚍蜉缘病肌。",
+    "挛卧岁时长，涟涟但幽噫。",
+    "幽噫虎豹闻，此外相访稀。",
+    "至亲唯有诗，抱心死有归。",
+    "河南韩先生，后君作因依。",
+    "磨一片嵌岩，书千古光辉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-5b282752-b9a3-49c7-b975-1f65993ea72a"
+}

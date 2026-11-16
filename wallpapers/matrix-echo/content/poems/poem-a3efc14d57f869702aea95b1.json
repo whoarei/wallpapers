@@ -1,0 +1,18 @@
+{
+  "id": "poem-a3efc14d57f869702aea95b1",
+  "title": "鹧鸪天·日日青楼醉梦中",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "日日青楼醉梦中。",
+    "不知楼外已春浓。",
+    "杏花未遇疏疏雨，杨柳初摇短短风。",
+    "扶画鹢，跃花骢。",
+    "涌金门外小桥东。",
+    "行行又入笙歌里，人在珠帘第几重。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-389",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9a9b",
+  "script": "seal",
+  "character": "骛",
+  "reading": "wù",
+  "description": "追求;强求。也作务”\n迅速\n⒈乱跑，纵横驰骋。\n⒉通\"务\"。追求。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骛"
+}

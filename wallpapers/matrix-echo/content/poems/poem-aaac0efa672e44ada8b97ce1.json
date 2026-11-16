@@ -1,0 +1,16 @@
+{
+  "id": "poem-aaac0efa672e44ada8b97ce1",
+  "title": "闻笛",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "谁家吹笛画楼中，断续声随断续风。",
+    "响遏行云横碧落，清和冷月到帘栊。",
+    "兴来三弄有桓子，赋就一篇怀马融。",
+    "曲罢不知人在否，余音嘹亮尚飘空。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-聞笛"
+}

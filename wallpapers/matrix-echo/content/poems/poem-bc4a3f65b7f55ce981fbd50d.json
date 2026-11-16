@@ -1,0 +1,18 @@
+{
+  "id": "poem-bc4a3f65b7f55ce981fbd50d",
+  "title": "一落索·春风吹断前山雨",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "春风吹断前山雨。",
+    "行云归去。",
+    "暂来须信本无心，回首了无寻处。",
+    "欲问个中玄路。",
+    "阿谁能语。",
+    "澄江霁月却深知，把此意、都分付。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-166",
+  "tags": []
+}

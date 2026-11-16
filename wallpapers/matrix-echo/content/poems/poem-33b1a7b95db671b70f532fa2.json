@@ -1,0 +1,18 @@
+{
+  "id": "poem-33b1a7b95db671b70f532fa2",
+  "title": "踏莎行·浓润侵衣",
+  "author": "仲殊",
+  "dynasty": "宋",
+  "verses": [
+    "浓润侵衣，暗香飘砌。",
+    "雨中花色添憔悴。",
+    "凤鞋湿透立多时，不言不语厌厌地。",
+    "眉上新愁，手中文字。",
+    "因何不倩鳞鸿寄。",
+    "想伊只诉薄情人，官中谁管闲公事。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-885",
+  "tags": []
+}

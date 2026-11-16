@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5806",
+  "script": "kai",
+  "character": "堆",
+  "reading": "duī",
+  "description": "duī：(1)累积在一起的东西～栈。～房。土～。\n(2)累积在一起，聚积在一起～积。～放。～垒。～摞。～砌。\n(3)量词，用于成堆的物或成群的人一～人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-堆"
+}

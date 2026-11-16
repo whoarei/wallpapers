@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9606",
+  "script": "seal",
+  "character": "阆",
+  "reading": "láng",
+  "description": "门高大\n空旷\n隍,无水的城壕\n阆风巅的省称\n阆làng阆中县，在四川省。\n阆lǎng 1.宽大明亮。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阆"
+}

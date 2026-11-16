@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7f6a",
+  "script": "kai",
+  "character": "罪",
+  "reading": "zuì",
+  "description": "zuì：(1)犯法的行为犯～。～人。认～。有～。～恶。～名。～魁。～行。～证。～责。～孽（迷信的人认为应受到报应的罪恶）。～不容诛。\n(2)过失，把过失归到某人身上功～。～愆。～尤（尤”，过失，罪过）。归～于人。\n(3)刑罚判～。畏～。待～。请～。\n(4)苦难，痛苦受～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-罪"
+}

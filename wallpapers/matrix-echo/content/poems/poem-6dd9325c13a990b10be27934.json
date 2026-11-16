@@ -1,0 +1,20 @@
+{
+  "id": "poem-6dd9325c13a990b10be27934",
+  "title": "玉楼春·东城渐觉风光好",
+  "author": "宋祁",
+  "dynasty": "宋",
+  "verses": [
+    "东城渐觉风光好。",
+    "皱波纹迎客棹。",
+    "绿杨烟外晓寒轻，红杏枝头春意闹。",
+    "浮生长恨欢娱少。",
+    "肯爱千金轻一笑。",
+    "为君持酒劝斜阳，且向花间留晚照。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-168"
+}

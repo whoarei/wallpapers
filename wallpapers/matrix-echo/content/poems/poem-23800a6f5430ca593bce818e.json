@@ -1,0 +1,17 @@
+{
+  "id": "poem-23800a6f5430ca593bce818e",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)你后生家，说这般过头话，神鬼谁不怕？怕你五行乖。",
+    "官人，奴家有个古人，比与你听。",
+    "不记得梅岭陈辛，季宝遇着金神，此事无虚诈。",
+    "我哥哥使计策，我哥哥使计策，奴家苦恨他，怕你死在黄泉下。",
+    "他那里有鬼，去不得。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8865",
+  "tags": []
+}

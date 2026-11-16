@@ -1,0 +1,17 @@
+{
+  "id": "poem-8ba9b804abbff6d50a29f747",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "金梧飘坠，纨扇懒挥。",
+    "牛女会佳期，只见丹桂飘金蕊，风传香韵美。",
+    "遥望着碧天如洗，遥望着碧天如洗，万里月扬辉。",
+    "夫人，我和你一似皓月澄清团圆到底。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8970",
+  "tags": []
+}

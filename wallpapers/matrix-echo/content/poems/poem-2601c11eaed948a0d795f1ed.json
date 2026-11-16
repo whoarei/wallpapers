@@ -1,0 +1,17 @@
+{
+  "id": "poem-2601c11eaed948a0d795f1ed",
+  "title": "豹子令",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "闻说佳人多袅娜，多袅娜，端的容貌赛嫦娥，赛嫦娥。",
+    "此亲若得周全我，酬劳财礼敢虚过。",
+    "［合］花红羊酒谢媒婆。",
+    "［丑］成亲之后，就是姑婆。",
+    "［净］朱吉，你牵羊担酒谢姑婆。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8065",
+  "tags": []
+}

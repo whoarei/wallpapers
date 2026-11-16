@@ -1,0 +1,16 @@
+{
+  "id": "poem-d92f6814499967b21308b123",
+  "title": "独游寄衞长林",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "草绿春阳动，迟迟泽畔游。",
+    "恋花同野蝶，爱水剧江鸥。",
+    "身外唯须醉，人间尽是愁。",
+    "那知鸣玉者，不羡卖瓜侯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-362ee93e-9b20-4082-a797-bc339355f3be"
+}

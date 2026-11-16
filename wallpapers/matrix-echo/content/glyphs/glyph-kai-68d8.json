@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-68d8",
+  "script": "kai",
+  "character": "棘",
+  "reading": "jí",
+  "description": "jí：(1)酸枣树，茎上多刺；泛指有刺的苗木荆～。～手（喻事情难办）。～刺。～针。\n(2)针形的刺～皮动物。\n(3)古同戟”，兵器。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-棘"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-70db",
+  "script": "kai",
+  "character": "烛",
+  "reading": "zhú",
+  "description": "⒈以线绳或苇子做中心，周围用蜡和油脂包裹，点燃取光的东西蜡～成灰泪始干。\n⒉照见，照耀火光～天。〈引〉明察洞～其奸。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-烛"
+}

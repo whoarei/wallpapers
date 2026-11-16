@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d41",
+  "script": "kai",
+  "character": "赁",
+  "reading": "lìn",
+  "description": "租用、租借\n工钱,给受雇人的报酬\n⒈租，租借租～。出～。～房。\n⒉给人当雇工～佣。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赁"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-66ca3c90ea5a1b789af2f40d",
+  "title": "拟古·高云媚春日",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "高云媚春日，坐觉鱼鸟亲。",
+    "可怜暮春候，病中别故人。",
+    "莺啼花乱落，风吹成锦茵。",
+    "君去一何速，到家垂柳新。",
+    "芙蓉湖上月，照君垂长纶。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-222"
+}

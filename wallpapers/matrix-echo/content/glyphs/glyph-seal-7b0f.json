@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7b0f",
+  "script": "seal",
+  "character": "笏",
+  "reading": "hù",
+  "description": "hù：古代大臣上朝拿着的手板，用玉、象牙或竹片制成，上面可以记事朝（cháo）～。京兆尹郑叔则，怫然曳～却立”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-笏"
+}

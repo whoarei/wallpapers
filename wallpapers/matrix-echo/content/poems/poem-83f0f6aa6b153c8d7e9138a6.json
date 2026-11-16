@@ -1,0 +1,14 @@
+{
+  "id": "poem-83f0f6aa6b153c8d7e9138a6",
+  "title": "旅兴",
+  "author": "王琮",
+  "dynasty": "宋",
+  "verses": [
+    "经年客食向京华，懒对春风祇忆家。",
+    "觉道近来全俗了，略无一语及梅花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-1c2623fe-8007-46b8-aa1c-c0a3f35be072"
+}

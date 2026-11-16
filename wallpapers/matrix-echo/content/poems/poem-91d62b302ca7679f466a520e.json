@@ -1,0 +1,14 @@
+{
+  "id": "poem-91d62b302ca7679f466a520e",
+  "title": "献主司",
+  "author": "孟宾于",
+  "dynasty": "宋",
+  "verses": [
+    "那堪雨后更闻蝉，溪隔重湖路七千。",
+    "忆昔故园杨柳岸，全家送上渡头船。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-80f3fbc3-77c6-42a8-86aa-bea8cfc9380a"
+}

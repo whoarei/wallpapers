@@ -1,0 +1,19 @@
+{
+  "id": "poem-2581043a4978957dcd19a4ec",
+  "title": "鼓吹曲辞 鼓吹铙歌 靖本邦",
+  "author": "柳宗元",
+  "dynasty": "唐",
+  "verses": [
+    "本邦伊晋，惟时不靖。",
+    "根柢之摇，枝叶攸病。",
+    "守臣不任，勚于神圣。",
+    "惟钺之兴，翦焉则定。",
+    "洪惟我理，式和以敬。",
+    "群顽既夷，庶绩咸正。",
+    "皇谟载大，惟人之庆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-7b0a825b-9e1e-4f34-b831-49ce8fd7f97c"
+}

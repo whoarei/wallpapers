@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e0c",
+  "script": "kai",
+  "character": "希",
+  "reading": "xī",
+  "description": "xī：(1)少～少（shǎo）。～罕。～奇。～有。～世。\n(2)盼望～望。～冀。～图（心里盘算达到某种目的）。～求（ａ．希望得到；ｂ．希望和要求）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-希"
+}

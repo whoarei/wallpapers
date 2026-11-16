@@ -1,0 +1,14 @@
+{
+  "id": "poem-1f35ae2ed7f9be1af6aa713a",
+  "title": "好花儿",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(众)恨不得掘地翻天，见树边一人端然，是个土地公公塑在花园。",
+    "许金钱，望指点，。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2882",
+  "tags": []
+}

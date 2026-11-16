@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80f8",
+  "script": "seal",
+  "character": "胸",
+  "reading": "xiōng",
+  "description": "xiōng：身体前面颈下腹上的部分，借指心里～脯。～膛。～腔。～口。～骨。～椎。～膜。～怀（抱负、气量）。～襟（同胸怀”）。～无点墨（指读书太少，文化水平极低）。直抒～臆。～中有数（shù）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胸"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-50ed",
+  "script": "seal",
+  "character": "僭",
+  "reading": "jiàn",
+  "description": "jiàn：超越本分，古代指地位在下的冒用在上的名义或礼仪、器物～越。～妄。～伪（封建王朝称割据对立的王朝）。～盗。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-僭"
+}

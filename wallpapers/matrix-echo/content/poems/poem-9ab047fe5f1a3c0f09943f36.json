@@ -1,0 +1,16 @@
+{
+  "id": "poem-9ab047fe5f1a3c0f09943f36",
+  "title": "送韩绛归淮南寄韩绰先辈",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "岛上花枝系钓船，隋家宫畔水连天。",
+    "江帆自落鸟飞外，月观静依春色边。",
+    "门巷草生车辙在，朝廷恩及雁行联。",
+    "相逢且问昭州事，曾鼓庄盆对逝川。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-c6b1ba77-fee7-4750-a37e-42f0676f1e66"
+}

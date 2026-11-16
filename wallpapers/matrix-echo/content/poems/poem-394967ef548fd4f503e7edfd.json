@@ -1,0 +1,16 @@
+{
+  "id": "poem-394967ef548fd4f503e7edfd",
+  "title": "长安少年行 八",
+  "author": "李廓",
+  "dynasty": "唐",
+  "verses": [
+    "新年高殿上，始见有光辉。",
+    "玉雁排方带，金鹅立仗衣。",
+    "酒深和椀赐，马疾打珂飞。",
+    "朝下人争看，香街意气归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4684cfef-4203-40fa-b581-6983a4350dc5"
+}

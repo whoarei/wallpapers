@@ -1,0 +1,18 @@
+{
+  "id": "poem-d1cc75a6f9e38c7776ffcc1b",
+  "title": "洛阳春・一落萦·红纱未晓黄鹂语",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "红纱未晓黄鹂语。",
+    "蕙炉销兰炷。",
+    "锦屏罗幕护春寒，昨夜三更雨。",
+    "绣帘闲倚吹轻絮。",
+    "敛眉山无绪。",
+    "看花拭泪向归鸿，问来处、逢郎否。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-752",
+  "tags": []
+}

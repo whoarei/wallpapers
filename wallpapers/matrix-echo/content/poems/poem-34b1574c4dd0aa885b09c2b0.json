@@ -1,0 +1,17 @@
+{
+  "id": "poem-34b1574c4dd0aa885b09c2b0",
+  "title": "朝中措·平生此地几经过",
+  "author": "向",
+  "dynasty": "宋",
+  "verses": [
+    "平生此地几经过。",
+    "家近奈情何。",
+    "长记月斜风劲，小舟犹渡烟波。",
+    "而今老大，欢消意减，只有愁多。",
+    "不似旧时心性，夜长听彻渔歌。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-203",
+  "tags": []
+}

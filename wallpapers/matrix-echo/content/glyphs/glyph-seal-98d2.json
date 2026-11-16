@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-98d2",
+  "script": "seal",
+  "character": "飒",
+  "reading": "sà",
+  "description": "狂风拉物\n凋零;衰落\n飞舞\n⒊衰落，衰老庭树日衰～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-飒"
+}

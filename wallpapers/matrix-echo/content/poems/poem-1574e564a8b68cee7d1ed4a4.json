@@ -1,0 +1,16 @@
+{
+  "id": "poem-1574e564a8b68cee7d1ed4a4",
+  "title": "送淳于秀才兰陵觐省",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "欢言欲忘别，风信忽相惊。",
+    "柳浦归人思，兰陵春草生。",
+    "撷芳心未及，视枕恋常盈。",
+    "此去非长路，还如千里情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f51d1cab-f27a-4c80-9ad2-38f00f169ec9"
+}

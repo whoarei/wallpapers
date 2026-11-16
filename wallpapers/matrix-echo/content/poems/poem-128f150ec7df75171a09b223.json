@@ -1,0 +1,16 @@
+{
+  "id": "poem-128f150ec7df75171a09b223",
+  "title": "公子家二首 一",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "曾是皇家几世侯，入云高第照神州。",
+    "柳遮门户横金锁，花拥弦歌咽画楼。",
+    "锦袖妒姬争巧笑，玉衔[骄]马索闲游。",
+    "麻衣酷献平生业，醉倚春风不点头。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-aa0be53e-c35f-4bcf-9963-a1a2ce76fa94"
+}

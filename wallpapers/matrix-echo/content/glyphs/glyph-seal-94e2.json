@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94e2",
+  "script": "seal",
+  "character": "铢",
+  "reading": "zhū",
+  "description": "现代泰国基本货币单位\n钝,不锋利\n细微\n铢积寸累\n铢两悉称",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铢"
+}

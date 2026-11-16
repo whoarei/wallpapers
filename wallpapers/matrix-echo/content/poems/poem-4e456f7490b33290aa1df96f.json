@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e456f7490b33290aa1df96f",
+  "title": "秋日忆暕上人",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "一从持钵别，更未到人间。",
+    "好静居贫寺，遗名弃近山。",
+    "雨前缝百衲，叶下闭重关。",
+    "若便浔阳去，须将旧客还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-624cc745-9bec-4afc-9032-52042f103c9e"
+}

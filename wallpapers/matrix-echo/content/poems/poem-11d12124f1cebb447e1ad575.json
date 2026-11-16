@@ -1,0 +1,16 @@
+{
+  "id": "poem-11d12124f1cebb447e1ad575",
+  "title": "薄媚衮",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生、小旦)听人报军马近城，国主迁都汴。",
+    "今晚庶民，不许一人落后在京辇。",
+    "生长升平，谁曾惯遭离乱。",
+    "苦怎言，胆颤心惊，如何可免？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2917",
+  "tags": []
+}

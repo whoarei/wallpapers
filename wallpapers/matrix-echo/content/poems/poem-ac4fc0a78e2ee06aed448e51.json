@@ -1,0 +1,17 @@
+{
+  "id": "poem-ac4fc0a78e2ee06aed448e51",
+  "title": "白纻歌二首 二",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "馆娃宫中春日暮，荔枝木瓜花满树。",
+    "城头乌栖休击鼓，青蛾弹瑟白纻舞。",
+    "夜天曈曈不见星，宫中火照西江明。",
+    "美人醉起无次第，堕钗遗珮满中庭。",
+    "此时但愿可君意，回昼为宵亦不寐，年年奉君君莫弃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-32e0c97c-34f5-4030-bd0a-a410f5643784"
+}

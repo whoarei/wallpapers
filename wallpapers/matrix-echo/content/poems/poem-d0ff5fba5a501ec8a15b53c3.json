@@ -1,0 +1,19 @@
+{
+  "id": "poem-d0ff5fba5a501ec8a15b53c3",
+  "title": "瑶瑟怨",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "冰簟银床梦不成，碧天如水夜云轻。",
+    "雁声远过潇湘去，十二楼中月自明。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "离别",
+    "七言绝句",
+    "闺怨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b7d50789-e0d5-4291-8014-eddf65a124df"
+}

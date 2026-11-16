@@ -1,0 +1,16 @@
+{
+  "id": "poem-490049b865d3d79f785cde2a",
+  "title": "好事近·月色透横枝",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "月色透横枝，短叶小花无力。",
+    "北客一声长笛，怨江南先得。",
+    "谁教强半腊前开，多情为春忆。",
+    "留取大家沈醉，正雨休风息。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-287",
+  "tags": []
+}

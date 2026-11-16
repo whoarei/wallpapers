@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51a5",
+  "script": "kai",
+  "character": "冥",
+  "reading": "míng",
+  "description": "míng：(1)昏暗幽～。～蒙。晦～。\n(2)深奥，深沉～思。～想。～心。\n(3)糊涂，愚昧～顽不灵。\n(4)迷信的人称人死后进入的世界～界。～府。～婚。～衣。～寿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-冥"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-522b",
+  "script": "seal",
+  "character": "别",
+  "reading": "bié",
+  "description": "bié：(1)分离～离。～情。～绪（离别时离别后的情感）。分～。告～。久～重逢。分门～类。\n(2)差别霄壤之～。\n(3)分类类～。性～。职～。级～。派～。\n(4)另外的～人。～号。～字。～墅。～论。～开生面。\n(5)卡住，插住，绷住～针。～花。\n(6)不要，不准～动。\n（彆）\nbiè：〔～扭〕不顺心，不相投（扭”读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-别"
+}

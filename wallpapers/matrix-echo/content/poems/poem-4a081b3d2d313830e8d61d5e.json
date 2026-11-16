@@ -1,0 +1,14 @@
+{
+  "id": "poem-4a081b3d2d313830e8d61d5e",
+  "title": "题水月台",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "平流白日无人爱，桥上闲行若个知。",
+    "水似晴天天似水，两重星点碧琉璃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-80e98e34-908e-4480-9240-b0a874b552e0"
+}

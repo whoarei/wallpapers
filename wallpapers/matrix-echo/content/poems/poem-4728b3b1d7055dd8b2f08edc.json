@@ -1,0 +1,14 @@
+{
+  "id": "poem-4728b3b1d7055dd8b2f08edc",
+  "title": "云庵",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "或淡或浓拖雨去，半舒半卷逆风来。",
+    "为怜途路无栖泊，却把柴扉永夜开。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-6cf7a70d-79e2-47bd-af44-330d95b69a1e"
+}

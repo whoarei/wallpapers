@@ -1,0 +1,16 @@
+{
+  "id": "poem-31322c57f5667309be1a7e50",
+  "title": "送南陵尉李频",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "重作东南尉，生涯尚似僧。",
+    "客程淮馆月，乡思海船灯。",
+    "晚雾看春毂，晴天见朗陵。",
+    "不应三考足，先授诏书征。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-5839dca5-f3dc-4626-9eac-5d2baca3f55c"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-73a8be8159f647b01e800838",
+  "title": "绿衣",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "绿兮衣兮，绿衣黄裹。心之忧矣，曷维其已！",
+    "绿兮衣兮，绿衣黄裳。心之忧矣，曷维其亡！",
+    "绿兮丝兮，女所治兮。我思古人，俾无訧兮！",
+    "𫄨兮绤兮，凄其以风。我思古人，实获我心！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-26"
+}

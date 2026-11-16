@@ -1,0 +1,14 @@
+{
+  "id": "poem-1d6c273f188a95b86f548ec2",
+  "title": "舂陵登望",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "西底空流水，东垣但聚云。",
+    "最伤梅岭望，花雪正纷纷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-2fb49477-b27a-4765-8627-9a4684b7a23f"
+}

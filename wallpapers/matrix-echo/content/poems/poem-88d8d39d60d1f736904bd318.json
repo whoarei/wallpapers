@@ -1,0 +1,14 @@
+{
+  "id": "poem-88d8d39d60d1f736904bd318",
+  "title": "湘妃庙",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "班竹林边有古祠，鸟啼花发尽堪悲。",
+    "当时惆怅同今日，南北行人可得知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-0bd9e0ad-b498-479b-a5b6-f2c43a868013"
+}

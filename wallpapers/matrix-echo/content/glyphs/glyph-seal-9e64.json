@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e64",
+  "script": "seal",
+  "character": "鹤",
+  "reading": "hè",
+  "description": ",羽毛更紧密,部分秃顶,嘴较钝并在近中央处有较大鼻孔,后趾向上抬起\n比喻白色\n鹤hè鸟儿，要保护，禁止猎杀。它的头小，颈和脚细长，嘴长而直，翼大善飞，羽毛白色或灰色。常见的是白～，又叫\"仙～\"、\"丹顶～\"。羽毛白色，头顶红色，叫声高而清脆\n。捕食鱼、虾等。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鹤"
+}

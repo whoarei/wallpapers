@@ -1,0 +1,22 @@
+{
+  "id": "poem-d9d60ecf8a7ff83109542363",
+  "title": "杂曲歌辞 婆罗门",
+  "author": "杨敬述进",
+  "dynasty": "唐",
+  "verses": [
+    "回乐峰前沙似雪，受降城外月如霜。",
+    "不知何处吹芦管？一夜征人尽望乡。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "思念",
+    "战争",
+    "冬天",
+    "唐诗三百首",
+    "边塞",
+    "七言绝句",
+    "月亮"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-f1320c1f-949a-4cbe-ad23-4806878632c5"
+}

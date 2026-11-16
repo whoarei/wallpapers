@@ -1,0 +1,16 @@
+{
+  "id": "poem-9aae52612fa5d8885f29549f",
+  "title": "莺啼序",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(贴)光阴迅速如电掣，断送了多少豪杰。",
+    "遇良辰自宜调燮，且把闲闷抛撇。",
+    "进履袜欢看妇仪，炷宝鼎对天答谢。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8327",
+  "tags": []
+}

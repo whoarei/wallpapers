@@ -1,0 +1,14 @@
+{
+  "id": "poem-7b6e2345e27f75c9f145520d",
+  "title": "春秋战国门 隐公",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "今古难隄是小人，苟希荣宠任相亲。",
+    "陈谋不信怀忧惧，反间须防却害身。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-dc2e934a-6d91-4849-9d45-167a1d92454b"
+}

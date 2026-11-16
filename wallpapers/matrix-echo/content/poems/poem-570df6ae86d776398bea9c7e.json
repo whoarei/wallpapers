@@ -1,0 +1,16 @@
+{
+  "id": "poem-570df6ae86d776398bea9c7e",
+  "title": "咏田家",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "二月卖新丝，五月粜新谷。",
+    "医得眼前疮，剜却心头肉。",
+    "我愿君王心，化作光明烛。",
+    "不照绮罗筵，只照逃亡屋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-0eea5bcf-1f67-4a9f-b70f-d60dcea99111"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-0361c2b4ece9a3b2c25b71de",
+  "title": "采莲词",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "别浦潮生花梦寒，片红飞下粉痕干。",
+    "预知妾面如花面，泣向西风不忍看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-22590e4c-96c3-4b81-a137-bb378c6759c4"
+}

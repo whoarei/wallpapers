@@ -1,0 +1,14 @@
+{
+  "id": "poem-afb299d3c4d140e18c2db899",
+  "title": "和三乡诗",
+  "author": "陆贞洞",
+  "dynasty": "唐",
+  "verses": [
+    "惆怅残花怨暮春，孤鸾舞镜倍伤神。",
+    "清词好个干人事，疑是文姬第二身。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ad3af8c3-05b7-4885-a66b-41699c3ebd5c"
+}

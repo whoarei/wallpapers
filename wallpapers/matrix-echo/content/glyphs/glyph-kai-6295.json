@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6295",
+  "script": "kai",
+  "character": "投",
+  "reading": "tóu",
+  "description": "tóu：(1)抛，掷，扔（多指有目标的）～篮。～弹（dàn）。\n(2)跳进去～河。自～罗网。\n(3)放进去，送进去～入。～资。～标。\n(4)走向，进入～宿（找地方住宿）。～奔。～靠。～降。～师（从师学习）。～诉。\n(5)发向～射。～影。\n(6)寄，递送～递。～稿。\n(7)合～合。意气相～。\n(8)临，在…以前～明。～暮（天黑以前）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-投"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-94a2",
+  "script": "kai",
+  "character": "钢",
+  "reading": "gāng",
+  "description": "⒈经过精炼的铁，含碳百分之0.15至百分之1.7,不含磷、硫等杂质。它是工业上极重要的基本原料。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钢"
+}

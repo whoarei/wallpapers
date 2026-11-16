@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f3a",
+  "script": "seal",
+  "character": "缺",
+  "reading": "quē",
+  "description": "quē：(1)不够～乏。～少。～憾。欠～。～漏。\n(2)残破～点。～口。～陷。\n(3)空额（指职位）～额。补～。\n(4)该到而未到～勤。～席。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缺"
+}

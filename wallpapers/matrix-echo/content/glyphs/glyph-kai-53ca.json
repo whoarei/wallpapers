@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53ca",
+  "script": "kai",
+  "character": "及",
+  "reading": "jí",
+  "description": "jí：(1)从后头跟上来得～。赶不～。\n(2)达到～格。～第（古代科举考试中选，特指考取进士）。普～。过犹不～。\n(3)趁着，乘～时。～早。～锋而试。\n(4)连词，和，跟阳光、空气～水是生物生存的基本条件。以～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-及"
+}

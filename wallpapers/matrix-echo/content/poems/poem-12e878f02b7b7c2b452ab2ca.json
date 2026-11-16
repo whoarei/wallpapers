@@ -1,0 +1,18 @@
+{
+  "id": "poem-12e878f02b7b7c2b452ab2ca",
+  "title": "玉楼春·玉烛光明正旦好",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "玉烛光明正旦好。",
+    "斗柄东回春太早。",
+    "岭寒犹锁去年梅，江暖新催今岁草。",
+    "蜀国熙熙冬令杪。",
+    "更喜寿阳新梦觉。",
+    "玉杯齐举乐音谐，遥想金阶天仗晓。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-889",
+  "tags": []
+}

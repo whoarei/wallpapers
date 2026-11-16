@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-752c",
+  "script": "seal",
+  "character": "甬",
+  "reading": "yǒng",
+  "description": "yǒng：(1)中国浙江省宁波市的别称～剧（流行于宁波一带的地方戏曲剧种）。\n(2)钟柄。\n(3)花蓓蕾的样子草木花～～然。\n(4)古同桶”，古量器名。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-甬"
+}

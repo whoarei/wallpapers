@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-800c",
+  "script": "seal",
+  "character": "而",
+  "reading": "ér",
+  "description": "ér：(1)古同尔”，代词，你或你的～翁归，自与汝复算耳”。\n(2)连词（a.表平列，如多～杂”。b.表相承，如取～代之”。c.表递进，如～且”。d.表转折，如似是～非”。e.连接肯定和否定表互为补充，如浓～不烈”。f.连接状语和中心词表修饰，如侃侃～谈”。g.插在主语谓语中间表假设，如人～无信，不知其可”）。\n(3)表（从……到……）从上～下。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-而"
+}

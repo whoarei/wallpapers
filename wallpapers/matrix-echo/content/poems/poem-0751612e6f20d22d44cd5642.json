@@ -1,0 +1,14 @@
+{
+  "id": "poem-0751612e6f20d22d44cd5642",
+  "title": "椒聊",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "椒聊之实，蕃衍盈升。彼其之子，硕大无朋。椒聊且，远条且。",
+    "椒聊之实，蕃衍盈匊。彼其之子，硕大且笃。椒聊且，远条且。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-116"
+}

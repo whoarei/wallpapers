@@ -1,0 +1,16 @@
+{
+  "id": "poem-6b7c8eb27bc8e0ef62ed9350",
+  "title": "夏夜宴明月湖",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "夏夜宴南湖，琴觞兴不孤。",
+    "月摇天上桂，星泛浦中珠。",
+    "助照萤随舫，添盘笋迸厨。",
+    "圣朝思静默，堪守谷中愚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-83b107b3-f528-4431-9517-98be25067597"
+}

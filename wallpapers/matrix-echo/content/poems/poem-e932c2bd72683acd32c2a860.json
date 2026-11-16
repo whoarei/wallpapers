@@ -1,0 +1,16 @@
+{
+  "id": "poem-e932c2bd72683acd32c2a860",
+  "title": "春日紫岩山期客不至",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "郊外春华好，人家带碧溪。",
+    "浅莎藏鸭戏，轻霭隔鸡啼。",
+    "掩映红桃谷，夤缘翠柳堤。",
+    "王孙竟不至，芳草自萋萋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-678b42ec-6442-4a8f-8514-d2e96c7b3871"
+}

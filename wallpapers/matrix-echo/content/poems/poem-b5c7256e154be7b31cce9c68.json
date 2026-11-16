@@ -1,0 +1,14 @@
+{
+  "id": "poem-b5c7256e154be7b31cce9c68",
+  "title": "偈颂六十七首  其六四",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "急水滩头泊小舟，切须牢把遮绳头。",
+    "蓦然绳断难回避，直到通身血迸流。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-74d43842-d520-46a9-9513-5eb6d4bc5dc2"
+}

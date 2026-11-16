@@ -1,0 +1,15 @@
+{
+  "id": "poem-6809de41b7816dd69aab855a",
+  "title": "边上作三首 三",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "见说青冢穴，中有白野狐。",
+    "时时出沙碛，向东而号呼。",
+    "号呼复号呼，画师图得无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-af42490e-26c5-4b68-8103-532d4fc6744f"
+}

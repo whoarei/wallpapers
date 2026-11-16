@@ -1,0 +1,16 @@
+{
+  "id": "poem-10e67a5b68612393324257a6",
+  "title": "菩萨蛮 其十四",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "竹风轻动庭除冷，珠帘月上玲珑影。",
+    "山枕隐秾妆，绿檀金凤凰。",
+    "两蛾愁黛浅，故国吴宫远。",
+    "春恨正关情，画楼残点声。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-13",
+  "tags": []
+}

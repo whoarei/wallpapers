@@ -1,0 +1,16 @@
+{
+  "id": "poem-0ed15c92706d4e4dcb5e1306",
+  "title": "蝶恋花·辛苦最怜天上月",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "辛苦最怜天上月，一夕如环，夕夕都成玦。",
+    "若似月轮终皎洁，不辞冰雪为卿热。",
+    "无那尘缘容易绝，燕子依然，软踏帘钩说。",
+    "唱罢秋坟愁未歇，春丛认取双栖蝶。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-138"
+}

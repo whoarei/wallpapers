@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6572",
+  "script": "seal",
+  "character": "敲",
+  "reading": "qiāo",
+  "description": "qiāo：打，击～打。～击。～诈。～边鼓（喻从旁帮人说话）。～门砖。～骨吸髓。旁～侧击。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-敲"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-3476b245e10911695d3df4de",
+  "title": "江城子·极浦烟消水鸟飞",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "极浦烟消水鸟飞，离筵分首时，送金卮。",
+    "渡口杨花，狂雪任风吹。",
+    "日暮天空波浪急，芳草岸，雨如丝。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-26"
+}

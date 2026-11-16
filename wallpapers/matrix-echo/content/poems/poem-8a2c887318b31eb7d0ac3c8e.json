@@ -1,0 +1,14 @@
+{
+  "id": "poem-8a2c887318b31eb7d0ac3c8e",
+  "title": "悲秋",
+  "author": "卢殷",
+  "dynasty": "唐",
+  "verses": [
+    "秋空雁度青天远，疎树蝉嘶白露寒。",
+    "阶下败兰犹有气，手中团扇渐无端。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b57f5d4c-ed74-4a50-b93b-8bda505ca726"
+}

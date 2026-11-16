@@ -1,0 +1,17 @@
+{
+  "id": "poem-3ada506cea8e245a33172e75",
+  "title": "少年游·重阳过后",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "重阳过后，西风渐紧，庭树叶纷纷。",
+    "朱阑向晓，芙蓉妖艳，特地斗芳新。",
+    "霜前月下，斜红淡蕊，明媚欲回春。",
+    "莫将琼萼等闲分。",
+    "留赠意中人。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-475",
+  "tags": []
+}

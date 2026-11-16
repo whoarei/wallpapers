@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b0cd87cb2a8dabed518eae1",
+  "title": "和俞仲素太博游茅山二首 宿明真观",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "平林行尽到岩扃，一昔恬然道味生。",
+    "爽籁远随林谷响，飞云时拂栋梁轻。",
+    "闲倾仙斝流琼液，高论神方炼日精。",
+    "更想真游成不寐，坐听松韵到黎明。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-fff969f1-ce34-403e-8c3a-daa4c0faf13e"
+}

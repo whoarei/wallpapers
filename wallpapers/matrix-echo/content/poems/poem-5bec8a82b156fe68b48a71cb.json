@@ -1,0 +1,16 @@
+{
+  "id": "poem-5bec8a82b156fe68b48a71cb",
+  "title": "夏日",
+  "author": "张文潜",
+  "dynasty": "宋",
+  "verses": [
+    "长夏江村风日清，檐牙燕雀已生成。",
+    "蝶衣晒粉花枝午，蛛网添丝屋角晴。",
+    "落落疏廉邀月影，嘈嘈虚枕纳溪声。",
+    "久斑两鬓如霜雪，直欲樵渔过此生。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-夏日"
+}

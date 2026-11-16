@@ -1,0 +1,14 @@
+{
+  "id": "poem-b8dad657de90c5a19cfc4f6e",
+  "title": "游仙词三十三首  其一八",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "看了金书看水流，刚风吹鬓不知秋。",
+    "碧瞳仙过天河去，戏擘云衣作彩舟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-c69f67ab-64ad-453d-8bbf-a8f7decabbf7"
+}

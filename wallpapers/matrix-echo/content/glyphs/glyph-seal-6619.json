@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6619",
+  "script": "seal",
+  "character": "昙",
+  "reading": "tán",
+  "description": "密布的云气\n昙摩。意为法,佛法\n⒈多云，密布的云彩。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昙"
+}

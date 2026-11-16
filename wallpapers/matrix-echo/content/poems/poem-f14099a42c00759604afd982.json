@@ -1,0 +1,20 @@
+{
+  "id": "poem-f14099a42c00759604afd982",
+  "title": "酬岑二十主簿秋夜见赠之作",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "舍下蛩乱鸣，居然自萧索。",
+    "缅怀高秋兴，忽枉清夜作。",
+    "感物我心劳，凉风惊二毛。",
+    "池枯菡萏死，月出梧桐高。",
+    "如何异乡县，复得交才彦。",
+    "汨没嗟后时，蹉跎耻相见。",
+    "箕山别来久，魏阙谁不恋。",
+    "独有江海心，悠悠未尝倦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-cf44f6f5-acdc-449d-b10e-3096bfde8eed"
+}

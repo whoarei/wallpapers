@@ -1,0 +1,14 @@
+{
+  "id": "poem-e4822f904416b4cd44203dd0",
+  "title": "梦江南·红绣被",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "红绣被，两两间鸳鸯。",
+    "不是鸟中偏爱尔，为缘交颈睡南塘，全胜薄情郎。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-5"
+}

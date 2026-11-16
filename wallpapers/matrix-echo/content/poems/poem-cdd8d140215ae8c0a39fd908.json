@@ -1,0 +1,18 @@
+{
+  "id": "poem-cdd8d140215ae8c0a39fd908",
+  "title": "望江南・忆江南·珠自右",
+  "author": "陈朴",
+  "dynasty": "宋",
+  "verses": [
+    "珠自右，飞电入丹城。",
+    "内养婴儿盈尺象，时逢九数采阳精。",
+    "火向水中生。",
+    "烧鬼岳，紫殿势峥嵘。",
+    "随意出游寰海内，寐如砂碛卧长鲸。",
+    "时序与偕行。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-964",
+  "tags": []
+}

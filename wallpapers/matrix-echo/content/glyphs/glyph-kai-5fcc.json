@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5fcc",
+  "script": "kai",
+  "character": "忌",
+  "reading": "jì",
+  "description": "jì：(1)嫉妒，憎恨猜～。～才。～能。～妒。～贤妒能。\n(2)害怕，畏惧顾～。肆无～惮。\n(3)禁戒～戒。～食。～讳。禁～。\n(4)父母或祖先死亡的日子，迷信称不吉利的日子～日。～辰。生～（已死父母的生日）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-忌"
+}

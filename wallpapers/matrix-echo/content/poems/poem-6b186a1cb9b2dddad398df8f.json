@@ -1,0 +1,14 @@
+{
+  "id": "poem-6b186a1cb9b2dddad398df8f",
+  "title": "柳枝词十首  其六",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "风暖云开晚照明，翠条深映凤皇城。",
+    "人间欲识灵和态，听取新词玉管声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-9960ec03-98c0-43da-a756-91ead6dd32fb"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-81e3",
+  "script": "seal",
+  "character": "臣",
+  "reading": "chén",
+  "description": "chén：(1)君主时代的官吏，有时亦包括百姓～僚。～子。～服。君～。\n(2)官吏对君主的自称王必无人，～愿奉璧往使。”\n(3)古人谦称自己。\n(4)古代指男性奴隶～仆。～虏。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-臣"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1579247aed5c46e47f8cd44",
+  "title": "江亭赠别",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "长亭晚送君，秋色渡江𣸣。",
+    "衰柳风难定，寒涛雪不分。",
+    "猨声离楚峡，帆影入湘云。",
+    "独泛扁舟夜，山钟可卧闻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-279e6dda-6843-424b-a68e-1ad2e59a7797"
+}

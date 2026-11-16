@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5ddd",
+  "script": "kai",
+  "character": "川",
+  "reading": "chuān",
+  "description": "chuān：(1)河流名山大～。～流不息。\n(2)平原，平地平～。米粮～。\n(3)特指中国四川省～剧。～菜。～贝。\n〔～资〕旅费。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-川"
+}

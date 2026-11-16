@@ -1,0 +1,18 @@
+{
+  "id": "poem-ae03feba21c501a1451fd4d5",
+  "title": "煨芋",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "禅房夜坐腹半饥，寒炉拨火煨蹲鸱。",
+    "冻肤傍煖渐舒畅，展转更觉鸣声悲。",
+    "毳衣脱落丰肌滑，玉软酥香不劳啮。",
+    "芳甘著颊自生津，多病文园正消渇。",
+    "吾生老矣来荆蛮，得汝聊助癯儒餐。",
+    "不学当年鬼谷子，粪土堆头拜懒残。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-900f0419-b935-4ca0-aa39-55e56daa26c7"
+}

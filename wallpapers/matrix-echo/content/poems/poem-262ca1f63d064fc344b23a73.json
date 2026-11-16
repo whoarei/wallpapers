@@ -1,0 +1,18 @@
+{
+  "id": "poem-262ca1f63d064fc344b23a73",
+  "title": "诉衷情·东城南陌路歧斜",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "东城南陌路歧斜。",
+    "芳草遍藏遮。",
+    "黄鹂自是来晚，莫恨海棠花。",
+    "惊雪絮，满天涯。",
+    "送春赊。",
+    "问春莫是，忆著东君，自去还家。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-138",
+  "tags": []
+}

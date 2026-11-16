@@ -1,0 +1,24 @@
+{
+  "id": "poem-4df5f5f6db4ecf3d80758486",
+  "title": "和王季文题九华山",
+  "author": "神颖",
+  "dynasty": "唐",
+  "verses": [
+    "众岳雄分野，九华镇南朝。",
+    "彩笔凝空远，崔嵬寄青霄。",
+    "龙潭古仙府，灵药今不凋。",
+    "莹为沧海镜，烟霞作荒标。",
+    "造化心数奇，性状精气饶。",
+    "玉树郁玲珑，天籁韵萧寥。",
+    "寂寂寻乳窦，兢兢行石桥。",
+    "通泉漱云母，藉草萦香苕。",
+    "我住幽且深，君赏昏复朝。",
+    "稀逢发清唱，片片霜凌飙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "九华山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-a6ceb4b9-5559-43fa-8c86-f3e5dffcc54f"
+}

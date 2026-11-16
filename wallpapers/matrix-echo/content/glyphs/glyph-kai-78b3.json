@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-78b3",
+  "script": "kai",
+  "character": "碳",
+  "reading": "tàn",
+  "description": "tàn：一种非金属元素，无臭无味的固体。无定形碳有焦炭，木炭等，晶体碳有金刚石和石墨。冶铁和炼钢都需要焦碳。在工业上和医药上，碳和它的化合物用途极为广泛。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-碳"
+}

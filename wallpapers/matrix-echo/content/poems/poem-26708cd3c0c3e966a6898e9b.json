@@ -1,0 +1,16 @@
+{
+  "id": "poem-26708cd3c0c3e966a6898e9b",
+  "title": "赠边将",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "将军夸胆气，功在杀人多。",
+    "对酒擎钟饮，临风拔劒歌。",
+    "翻师平碎叶，掠地取交河。",
+    "应笑孔门客，年年羡四科。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6c9edfa3-cbb6-47b0-a637-e1cdc52e06f3"
+}

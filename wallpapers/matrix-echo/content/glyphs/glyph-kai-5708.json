@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5708",
+  "script": "kai",
+  "character": "圈",
+  "reading": "quān；juàn；juān",
+  "description": "quān：(1)环形，环形的东西圆～。花～。～套。画～。\n(2)周，周遭跑了一～儿。\n(3)范围势力～。\n(4)画环形～阅。～点。～定。\n(5)划界，围住～地。～闭。\njuàn：(1)养家畜的棚栏～舍（shè）。～养。～牢（饲养家畜的地方）。猪～。\n(2)姓。\njuān：关闭把鸡～起来。他已被～在监狱里。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-圈"
+}

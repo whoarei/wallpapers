@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-63c9",
+  "script": "kai",
+  "character": "揉",
+  "reading": "róu",
+  "description": "róu：(1)用手来回擦或搓～擦。～搓。～眼睛。\n(2)团弄～面。～泥球。\n(3)使木弯曲～轮（使木弯曲制作车轮）。～木为耒”。\n(4)古同柔”，使降顺。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-揉"
+}

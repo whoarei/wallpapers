@@ -1,0 +1,14 @@
+{
+  "id": "poem-b823b236c9406dd5c3b5e4e3",
+  "title": "凉州词三首 一",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "边城暮雨雁飞低，芦笋初生渐欲齐。",
+    "无数铃声遥过碛，应驮白练到安西。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0d5cfc9c-9522-44de-9c4b-17c73394212a"
+}

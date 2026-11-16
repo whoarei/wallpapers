@@ -1,0 +1,16 @@
+{
+  "id": "poem-2c40a8be7109fbc1d3a3b061",
+  "title": "送龙学和寄王元之郎中",
+  "author": "张徽",
+  "dynasty": "宋",
+  "verses": [
+    "未持双节去朝元，玉陛犹虚侍从班。",
+    "龟洛旧游天直上，鸡林新句海中间。",
+    "品流有日归陶冶，隐逸无时奉宴闲。",
+    "鹤驭仙游何处所，轩皇冠剑在桥山。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8bc7e50c-763b-4104-9161-839c1d86beb0"
+}

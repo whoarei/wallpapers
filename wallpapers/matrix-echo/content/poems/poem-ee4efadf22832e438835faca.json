@@ -1,0 +1,14 @@
+{
+  "id": "poem-ee4efadf22832e438835faca",
+  "title": "雁儿落",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "紫袈裟金缕轻，白锡杖银光净。",
+    "四天王执宝幢，八菩萨敲金磬。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3409",
+  "tags": []
+}

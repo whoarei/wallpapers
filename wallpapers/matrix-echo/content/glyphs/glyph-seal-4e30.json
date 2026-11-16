@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e30",
+  "script": "seal",
+  "character": "丰",
+  "reading": "fēng",
+  "description": "中国古代礼器,形状像豆,用以承酒觯\n蒲草\n地名\n周国都名\n秦沛县之丰邑,汉置县\n⒈富，盛，多，大 ～盛。～硕。～富多彩。～衣足食。～功伟绩。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丰"
+}

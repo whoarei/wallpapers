@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5854",
+  "script": "kai",
+  "character": "塔",
+  "reading": "tǎ",
+  "description": "tǎ：(1)佛教特有的高耸的建筑物，尖顶，多层，常有七级、九级、十三级等，形状有圆形的、多角形的，一般用以藏舍利、经卷等宝～。佛～。\n(2)像塔形的建筑物或器物水～。灯～。纪念～。金字～。～楼。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-塔"
+}

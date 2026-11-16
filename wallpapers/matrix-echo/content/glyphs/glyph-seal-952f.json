@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-952f",
+  "script": "seal",
+  "character": "锯",
+  "reading": "jù；jv",
+  "description": "锯形物\n古刑具\n用锯子切割\n⒈能断木、石、金属等的一种工具。用钢片或钢条制成木～。电～。\n⒉用锯断物～树枝。～钢管。\n锯jū 1.用锔子补接器物。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锯"
+}

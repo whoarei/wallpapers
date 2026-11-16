@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-86e4",
+  "script": "kai",
+  "character": "蛤",
+  "reading": "há；gé",
+  "description": "gé：〔～蜊〕软体动物，壳形卵圆，色淡褐，稍有轮纹，内白色，栖浅海沙中，肉可食。\n〔文～〕软体动物，略呈三角形，栖近海沙泥中，有黑白两种，幼时称棋子蛤”。\n〔～蚧〕爬行动物，土黄色，像壁虎，头大，尾部灰色，有红色斑点。中医用作强壮剂。\nhá：〔～蟆〕青蛙和蟾蜍的统称（蟆”读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蛤"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ab3bf7e9ede18c3504589134",
+  "title": "秋暮言志",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "朝光浮烧野，霜华净碧空。",
+    "结浪冰初镜，在迳菊方丛。",
+    "约岭烟深翠，分旗霞散红。",
+    "抽思滋泉侧，飞想傅岩中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-9d2bcfb9-1052-40ca-8a14-87ba811aee4e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-def2e3748701bd450dbaea6d",
+  "title": "寿昌节赋得红云表夏日",
+  "author": "栖白",
+  "dynasty": "唐",
+  "verses": [
+    "景候融融阴气潜，如峰云共火相兼。",
+    "霞光捧日登天上，丹彩乘风入殿簷。",
+    "行逐赤龙千岁出，明当朱夏万方瞻。",
+    "微臣多幸逢佳节，得赋殊祥近御帘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6d2c9460-ed93-442d-a6ce-1c19d0dd3d37"
+}

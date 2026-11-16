@@ -1,0 +1,16 @@
+{
+  "id": "poem-607d33e04cbddc10ec26a58e",
+  "title": "游山呈景仁",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "我禄多龚舍，君年少孔戣。",
+    "道心闲始见，世路老方知。",
+    "山水不相厌，风光难豫期。",
+    "嬉游不可缓，花卉即离披。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-b3e769d5-3c56-42dc-8b70-266a5b70e775"
+}

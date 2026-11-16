@@ -1,0 +1,16 @@
+{
+  "id": "poem-79e0c6ce73175c68077e6400",
+  "title": "冬夜非所",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "长夜闭荒城，更深恨转盈。",
+    "星济数道赤，月出半山明。",
+    "不闻村犬吠，空听虎狼声。",
+    "愁卧眠虽着，时时梦里惊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-73c79244-cc31-43a2-80a8-6267e8b7d69e"
+}

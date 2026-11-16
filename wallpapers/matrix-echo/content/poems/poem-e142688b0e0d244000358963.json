@@ -1,0 +1,14 @@
+{
+  "id": "poem-e142688b0e0d244000358963",
+  "title": "宫词  其八五",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "掖庭初选即知名，新学吹箫数曲成。",
+    "天上仙姝元不识，人间安得咏倾城。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-7faf35f7-8692-426b-802f-dd2d6955302a"
+}

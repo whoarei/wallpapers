@@ -1,0 +1,21 @@
+{
+  "id": "poem-18af24bba246b40d406f670f",
+  "title": "风雨",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "凄凉宝剑篇，羁泊欲穷年。",
+    "黄叶仍风雨，青楼自管弦。",
+    "新知遭薄俗，旧好隔良缘。",
+    "心断新丰酒，销愁斗几千。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "风雨",
+    "五言律诗",
+    "怀才不遇"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-d32a2610-09d7-49ad-8cdf-dd9c649144c7"
+}

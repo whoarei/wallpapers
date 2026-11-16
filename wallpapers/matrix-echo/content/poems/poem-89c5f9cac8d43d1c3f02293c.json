@@ -1,0 +1,16 @@
+{
+  "id": "poem-89c5f9cac8d43d1c3f02293c",
+  "title": "送皇甫冉往白田",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "江边尽日雉鸣飞，君向白田何日归。",
+    "楚地蒹葭连海逈，隋朝杨柳映堤稀。",
+    "津楼故市无行客，山馆空庭闭落晖。",
+    "试问疲人与征战，使君双泪定沾衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-5bdcf9e3-cb35-46e5-ab96-ad215e02f331"
+}

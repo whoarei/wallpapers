@@ -1,0 +1,18 @@
+{
+  "id": "poem-ef5e8d7771e4a4df06a892df",
+  "title": "四",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "好事须相让，恶事莫相堆。",
+    "（「堆」，伯二八四二卷作「推」。",
+    "）{亻|口/工}（郑校本作「但」。",
+    "）能辨此意，祸去福招来。",
+    "（「招来」，斯三三九三卷作「将来」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c43baa05-5165-41b3-855e-92d5ae4e8824"
+}

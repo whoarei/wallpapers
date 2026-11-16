@@ -1,0 +1,19 @@
+{
+  "id": "poem-67868c7846e6f70e93168473",
+  "title": "集灵台二首 二",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "虢国夫人承主恩，平明骑马入宫门。",
+    "却嫌脂粉汚颜色，淡扫蛾眉朝至尊。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写人",
+    "七言绝句",
+    "讽刺"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-51262a8c-de53-41ee-958a-de08d5f5a446"
+}

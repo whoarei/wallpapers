@@ -1,0 +1,14 @@
+{
+  "id": "poem-667911d5459ef2513953aa1d",
+  "title": "小游仙诗九十八首 四十五",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "欲饮尊中云母浆，月明花里合笙簧。",
+    "更教小奈将龙去，便向金坛取阮郎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c93c7466-1efd-4d93-968b-611e5e834804"
+}

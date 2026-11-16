@@ -1,0 +1,18 @@
+{
+  "id": "poem-169934f0b36c61063ed3f94e",
+  "title": "赋得送贾岛谪长江",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "敲驴吟雪月，谪出国西门。",
+    "行傍长江影，愁深汨水魂。",
+    "笻携过竹寺，琴典在花村。",
+    "饥拾山松子，谁知贾傅孙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8f73ea87-0ea1-4cdc-b224-ca76236abe77"
+}

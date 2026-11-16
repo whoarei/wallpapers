@@ -1,0 +1,14 @@
+{
+  "id": "poem-25b7c6589e7c302bf8b3c286",
+  "title": "朴翁约效诚斋分题得月色",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "霜晴如此月明何，独恨空庭著不多。",
+    "窗外楼头都有了，其余四散尽从它。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-030d4ed0-c715-4a66-b436-319bd742c244"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-dfe0c89f04c1c39fd540872e",
+  "title": "和元晦林间残雪之韵",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "眼中光洁尽琼瑶，未觉鬰蓝宫殿遥。",
+    "石壁长林冰筯落，锵然玉佩响层霄。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-615837c1-265e-4aeb-96ee-1a47057b4932"
+}

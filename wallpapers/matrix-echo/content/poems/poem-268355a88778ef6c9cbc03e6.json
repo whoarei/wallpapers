@@ -1,0 +1,16 @@
+{
+  "id": "poem-268355a88778ef6c9cbc03e6",
+  "title": "同王征君洞庭有怀",
+  "author": "张谓",
+  "dynasty": "唐",
+  "verses": [
+    "八月洞庭秋，潇湘水北流。",
+    "还家万里梦，为客五更愁。",
+    "不用开书帙，偏宜上酒楼。",
+    "故人京洛满，何日复同游。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-同王徵君洞庭有懷"
+}

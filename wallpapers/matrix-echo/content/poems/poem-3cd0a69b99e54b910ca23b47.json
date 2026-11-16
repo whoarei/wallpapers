@@ -1,0 +1,16 @@
+{
+  "id": "poem-3cd0a69b99e54b910ca23b47",
+  "title": "三年冬大礼五首 三",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "太一天坛降紫君，属车龙鹤夜成群。",
+    "春浮玉藻寒初落，露拂金茎曙欲分。",
+    "三代乐回风入律，四溟歌驻水成文。",
+    "千官不动旌旗下，日照南山万树云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-0e7f2b31-b1e2-4579-a77d-e038dd8512d7"
+}

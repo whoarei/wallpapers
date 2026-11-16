@@ -1,0 +1,16 @@
+{
+  "id": "poem-40ee7584ec98171fe3c2f2e0",
+  "title": "闲居作五首 其一",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "十年狂是酒，一世癖缘诗。",
+    "剩物心长厌，闲书性理不违。",
+    "补窠新鷰子，争食乳鸦儿。",
+    "幸尔隣家竹，春来又许移。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-f8af2220-e975-410e-ba37-eaa3512099c5"
+}

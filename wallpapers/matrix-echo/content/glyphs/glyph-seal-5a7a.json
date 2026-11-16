@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5a7a",
+  "script": "seal",
+  "character": "婺",
+  "reading": "wù",
+  "description": "wù：〔～水〕水名，在中国江西省。\n〔～绿〕产于中国江西省婺源县的茶叶，是绿茶中的珍品。\n〔～女〕古星宿名，即女宿”。\n〔～剧〕中国浙江省地方戏曲剧种之一。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-婺"
+}

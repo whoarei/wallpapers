@@ -1,0 +1,14 @@
+{
+  "id": "poem-2ddb10cca9f51b2f4734459f",
+  "title": "宫词  其二八",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "影娥池面碧溶溶，荡桨佳人夕照中。",
+    "云髻不饶荷叶绿，罗裙未减石榴红。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-49a95ef1-f82f-42f6-9e00-4b2187c42614"
+}

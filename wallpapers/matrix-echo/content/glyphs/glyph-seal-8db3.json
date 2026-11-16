@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8db3",
+  "script": "seal",
+  "character": "足",
+  "reading": "zú",
+  "description": "zú：(1)脚～下（对对方的敬称）。～迹。～球。～坛。失～。高～（敬辞，称别人的学生）。举～轻重。画蛇添～。\n(2)器物下部的支撑部分鼎～。碗～。\n(3)充分，够量～月。～见。～智多谋。\n(4)完全～以。～色。\n(5)值得，够得上不～为凭。微不～道。\n(6)增益以昼～夜。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-足"
+}

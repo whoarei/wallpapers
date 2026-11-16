@@ -1,0 +1,14 @@
+{
+  "id": "poem-a9d5f64e87b4dabd9f3f4847",
+  "title": "涪江风月",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "涪江风月为谁清，莫向涪翁问姓名。",
+    "万古涪江流不尽，渔矶月似旧时明。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-2ae46691-8d2a-4bc8-a804-28815611d72b"
+}

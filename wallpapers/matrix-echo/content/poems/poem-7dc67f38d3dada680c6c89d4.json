@@ -1,0 +1,16 @@
+{
+  "id": "poem-7dc67f38d3dada680c6c89d4",
+  "title": "和复古小园书事",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "饱食复闲眠，风清雨霁天。",
+    "叶深时坠果，岸曲乍藏莲。",
+    "波面秋光浄，林梢夕照鲜。",
+    "东家近亦富，满地布苔钱。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-b104b09b-0cad-4e06-a72e-8fa04a37b2b1"
+}

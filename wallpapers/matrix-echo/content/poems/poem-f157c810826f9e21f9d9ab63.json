@@ -1,0 +1,21 @@
+{
+  "id": "poem-f157c810826f9e21f9d9ab63",
+  "title": "凉州词二首 一",
+  "author": "王翰",
+  "dynasty": "唐",
+  "verses": [
+    "葡萄美酒夜光杯，欲饮琵琶马上催。",
+    "醉卧沙场君莫笑，古来征战几人回。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "豪放",
+    "战争",
+    "边塞",
+    "宴饮",
+    "七言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-0445f296-5816-4ab9-a617-7d8ed29088ea"
+}

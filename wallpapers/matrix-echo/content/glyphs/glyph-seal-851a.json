@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-851a",
+  "script": "seal",
+  "character": "蔚",
+  "reading": "wèi",
+  "description": "wèi：(1)茂盛，荟聚，盛大～然成风。～为大观。～蓝（晴朗天空的颜色）。\n(2)文采华丽云蒸霞～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蔚"
+}

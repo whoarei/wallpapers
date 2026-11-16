@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-84b8",
+  "script": "seal",
+  "character": "蒸",
+  "reading": "zhēng",
+  "description": "zhēng：(1)热气上升～汽。～腾。～发。～气（液体或固体因蒸发沸腾或升华而变成的气体）。～馏。云～霞蔚。～～日上。\n(2)用水蒸气的热力把东西加热或使熟～饼。～饺。～笼。\n(3)古代以麻秸、竹木制成的火炬～烛。\n(4)细小的木柴。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蒸"
+}

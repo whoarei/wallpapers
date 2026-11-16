@@ -1,0 +1,17 @@
+{
+  "id": "poem-c1444a868c680fdf8b3a7973",
+  "title": "偈颂（幷序○序为南岳齐己撰） 六十",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "人天须假像行持，无像无形世岂知？",
+    "空生体得岩中坐，华雨由来责见迟。",
+    "三乘欲学如斯事，直似空生方始知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-2a710f0d-6144-49c7-89d6-f04db355383c"
+}

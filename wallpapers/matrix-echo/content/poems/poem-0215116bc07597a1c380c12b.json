@@ -1,0 +1,14 @@
+{
+  "id": "poem-0215116bc07597a1c380c12b",
+  "title": "荅客",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "竹间深路马惊嘶，独入蓬门半似迷。",
+    "劳问圃人终岁事，桔槔声里雨春畦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-8eb50ed6-2410-476b-b0f8-a9fea5df2db0"
+}

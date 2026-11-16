@@ -1,0 +1,14 @@
+{
+  "id": "poem-3224e68d1dbc3453aeb90610",
+  "title": "咏史诗 细柳营",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "文帝銮舆劳北征，条侯此地整严兵。",
+    "辕门不峻将军令，今日争知细柳营。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-251e270e-c9ab-4d52-bb85-560570f12a70"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-79fb",
+  "script": "seal",
+  "character": "移",
+  "reading": "yí",
+  "description": "yí：(1)挪动～交。～植。～刻（过一段时间）。～晷（日影移动，犹言经过了一段时间）。～民。迁～。转～。～樽就教（端着酒去别人跟前以便求教，泛指主动前去向人请教）。\n(2)改变，变动～居。～易。～情（变易人的情志）。～动。潜～默化。\n(3)旧时公文的一种，行文不相统属的官署间～文。檄～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-移"
+}

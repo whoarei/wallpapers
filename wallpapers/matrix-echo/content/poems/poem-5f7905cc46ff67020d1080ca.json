@@ -1,0 +1,17 @@
+{
+  "id": "poem-5f7905cc46ff67020d1080ca",
+  "title": "相思儿令·昨日探春消息",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "昨日探春消息，湖上绿波平。",
+    "无奈绕堤芳草，还向旧痕生。",
+    "有酒且醉瑶觥。",
+    "更何妨、檀板新声。",
+    "谁教杨柳千丝，就中牵系人情。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-546",
+  "tags": []
+}

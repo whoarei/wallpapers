@@ -1,0 +1,14 @@
+{
+  "id": "poem-d9e7bf2ed65437138d86be9b",
+  "title": "韦使君宅海榴咏",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "淮阳卧理有清风，腊月榴花带雪红。",
+    "闭阁寂寥常对此，江湖心在数枝中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-84fccfc1-60e4-4e70-a963-bcd0224c80c9"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2b352d85a698772e2e3aa4b0",
+  "title": "和张文裕初寒十首  其一",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "何处初寒好，初寒郏鄏城。",
+    "垂绅多俊彦，列第尽公卿。",
+    "裘马过从盛，门阑洒扫清。",
+    "谁家拥兽炭，尽日管弦声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-51cbe46d-0a56-405f-b9cc-ba53e903618c"
+}

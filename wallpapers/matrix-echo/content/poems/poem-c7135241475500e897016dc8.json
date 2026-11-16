@@ -1,0 +1,16 @@
+{
+  "id": "poem-c7135241475500e897016dc8",
+  "title": "和令狐补阙春日独游西街",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "左掖初辞近侍班，马嘶寻得过街闲。",
+    "映鞭柳色微遮水，随步花枝欲碍山。",
+    "暖泛鸟声来席上，醉从诗句落人间。",
+    "此时失意哀吟客，更觉风流不可攀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-86c257e7-faed-4e51-a543-9e1e16f7d3dd"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-5c9e5173dcfccbd92c744659",
+  "title": "哭丘长史",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "丘公已殁故人稀，欲过街西更访谁。",
+    "每到子城东路上，忆君相逐入朝时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-1708826e-98b4-46c1-b549-e7fef08b274a"
+}

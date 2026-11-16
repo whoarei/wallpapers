@@ -1,0 +1,13 @@
+{
+  "id": "poem-b24cc057bd06bb04ec41bfea",
+  "title": "句",
+  "author": "李淮",
+  "dynasty": "唐",
+  "verses": [
+    "撩乱客心眠不得，秋庭一夜月中行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d63c5f81-bd14-4393-a5d9-13bf9464b9f2"
+}

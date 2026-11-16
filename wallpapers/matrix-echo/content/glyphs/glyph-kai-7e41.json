@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7e41",
+  "script": "kai",
+  "character": "繁",
+  "reading": "fán；pó",
+  "description": "fán：(1)复杂～杂。～乱。删～就简。～难。～嚣。\n(2)多～多。～重（zhòng）。纷～。频～。～星。～忙。～芜。～博。\n(3)兴盛～茂。～荣。～华。\n(4)生物增生新个体～殖。～育。～衍。\n简；\npó：姓。\n〔～台〕中国河南省开封市东南的古迹。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-繁"
+}

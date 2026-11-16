@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-54ea",
+  "script": "kai",
+  "character": "哪",
+  "reading": "nǎ；něi；né",
+  "description": "nǎ：疑问词，后面跟名词或数量词，表示要求在所问范围中有所确定～样。～里（a.什么地方。b.用于反问句，表示否定，如我～～知道？”他～～笨啊？”c.谦辞，推辞对自己的褒奖）。\nněi：哪”和一”的合音，但指数量时不限于一～个。～年。～会儿。～些。\nn：助词，啊”字受到前一字韵母ｎ收音的影响而发生的变音加油干～！\nné：〔～吒〕中国古代神话里的神名（吒”读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哪"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-49a34383ca399896c695924e",
+  "title": "玉楼春·池塘水绿春微暖",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "池塘水绿春微暖。",
+    "记得玉真初见面。",
+    "从头歌韵响铮𫓩，入破舞腰红乱旋。",
+    "玉钩帘下香阶畔。",
+    "醉后不知红日晚。",
+    "当时共我赏花人，点检如今无一半。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-173"
+}

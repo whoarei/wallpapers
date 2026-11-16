@@ -1,0 +1,14 @@
+{
+  "id": "poem-fdb452bd310ff5044ac11785",
+  "title": "又景亮惠藜杖赋绝句以谢  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "藜根矫矫似枯松，扶我蹒跚病力穷。",
+    "置几赐餐非所重，康宁愿学乐全翁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-1c163d8d-5e75-4410-9167-68e8b6402f3a"
+}

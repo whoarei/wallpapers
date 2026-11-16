@@ -1,0 +1,17 @@
+{
+  "id": "poem-9a3dc9f11824c82e7f46382d",
+  "title": "书匡山老僧庵",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "筼筜红实好鸟语，银髯瘦僧貌如祖。",
+    "香烟蒙蒙衣上聚，冥心缥缈入铁圄。",
+    "白麏作梦枕藤屦，东峰山媪贡瓜乳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-b2da42c3-3266-4126-84f4-d4a5334b1ab0"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9558",
+  "script": "seal",
+  "character": "镘",
+  "reading": "màn",
+  "description": "镘刀\n铜钱;钱钞\n涂饰\n镘板\n镘màn抹子，抹墙用的工具～子。也指抹墙～墙。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镘"
+}

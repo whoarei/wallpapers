@@ -1,0 +1,13 @@
+{
+  "id": "poem-1a1a756ea6a4f01e34c4695a",
+  "title": "句",
+  "author": "徐常",
+  "dynasty": "宋",
+  "verses": [
+    "词赋切宜师二宋，文章须是学三苏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-d63bd132-811b-4f02-9a59-11c5e55a0ee7"
+}

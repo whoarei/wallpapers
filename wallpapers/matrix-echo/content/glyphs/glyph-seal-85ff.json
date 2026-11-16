@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-85ff",
+  "script": "seal",
+  "character": "藿",
+  "reading": "huò",
+  "description": "huò：豆类植物的叶子～食（指粗劣的食物）。\n〔～香〕多年生草本植物，叶子心脏形，花蓝紫色，瘦果倒卵性。茎叶香气很浓，可入药。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-藿"
+}

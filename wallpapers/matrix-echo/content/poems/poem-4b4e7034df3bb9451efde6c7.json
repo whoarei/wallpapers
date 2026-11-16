@@ -1,0 +1,20 @@
+{
+  "id": "poem-4b4e7034df3bb9451efde6c7",
+  "title": "菩萨蛮·当时学舞钧天部",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "当时学舞钧天部。",
+    "惊鸿吹下江湖去。",
+    "家住百花桥。",
+    "何郎偏与娇。",
+    "杏梁尘拂面。",
+    "牙板闻莺燕。",
+    "劝客玉梨花。",
+    "月侵钗燕斜。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-871",
+  "tags": []
+}

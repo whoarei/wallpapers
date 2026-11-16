@@ -1,0 +1,16 @@
+{
+  "id": "poem-7b8a1b41cebc993d4d52816c",
+  "title": "游仙窟诗 别十娘",
+  "author": "张文成",
+  "dynasty": "唐",
+  "verses": [
+    "忽然闻道别，愁来不自禁。",
+    "眼下千行泪，肠悬一寸心。",
+    "两劒俄分匣，双凫忽异林。",
+    "慇懃惜玉体，勿使外人侵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-aab30de0-434f-42ce-809c-ce09462c7d66"
+}

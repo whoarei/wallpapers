@@ -1,0 +1,18 @@
+{
+  "id": "poem-4673ed7bc6ea69fa218ecbbc",
+  "title": "府试观开元皇帝东封图",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "俨若翠华举，登封图乍开。",
+    "冕旒明主立，冠剑侍臣陪。",
+    "迹类飞仙去，光同拜日来。",
+    "粉痕疑检玉，黛色讶生苔。",
+    "挂壁云将起，陵风仗若回。",
+    "何年复东幸，鲁叟望悠哉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-31d6dc34-ddcf-479d-975d-7159a00da2b9"
+}

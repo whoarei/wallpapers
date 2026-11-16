@@ -1,0 +1,16 @@
+{
+  "id": "poem-7965e2d3fae09099ea035f94",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "把真容再画取，如今日封赠伊。",
+    "把这眉头放展舒，只愁瘦容难做肥。",
+    "岂特奴心知感德，料他也衔恩泉世里。",
+    "(合前)(贴唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5281",
+  "tags": []
+}

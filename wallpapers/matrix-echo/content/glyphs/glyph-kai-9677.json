@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9677",
+  "script": "kai",
+  "character": "陷",
+  "reading": "xiàn",
+  "description": "xiàn：(1)掉进，坠入，沉下～落。～没（mò）。～溺。～于。～入。\n(2)为捉野兽挖的坑～坑。～阱。\n(3)凹进双眼深～。\n(4)设计害人～害。诬～。～人于罪。\n(5)攻破，占领失～。沦～。\n(6)缺点缺～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陷"
+}

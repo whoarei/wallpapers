@@ -1,0 +1,19 @@
+{
+  "id": "poem-6748aef9bb14752eb0c69704",
+  "title": "蜘蛛谕",
+  "author": "苏拯",
+  "dynasty": "唐",
+  "verses": [
+    "春蚕吐出丝，济世功不绝。",
+    "蜘蛛吐出丝，飞虫成聚血。",
+    "蚕丝何专利，尔丝何专孽。",
+    "映日张网罗，遮天亦何别。",
+    "傥居要地门，害物可堪说。",
+    "网成虽福己，网败还祸尔。",
+    "小人与君子，利害一如此。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-6c94e69f-461f-46fd-83f6-d4cc44001edf"
+}

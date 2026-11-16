@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7fa4",
+  "script": "seal",
+  "character": "群",
+  "reading": "qún",
+  "description": "qún：(1)相聚成伙的，聚集在一起的～岛。～山。～书。～芳。～居。～落（luò）。～集。～雕。～蚁附膻（许多蚂蚁附着在有膻味的东西上；喻臭味相投的人趋炎附势，追逐私利）。\n(2)众人～众。～情。～雄。～策～力。～威～胆。\n(3)量词，用于成群的人或物一～孩子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-群"
+}

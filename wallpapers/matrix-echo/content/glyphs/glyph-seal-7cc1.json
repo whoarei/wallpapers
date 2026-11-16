@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7cc1",
+  "script": "seal",
+  "character": "糁",
+  "reading": "shēn；san",
+  "description": "米粒;饭粒\n散粒,碎粒\n以米和羹\n洒,散落\n涂抹;粘\n⒈〈方〉指煮熟的米粒。\n⒈谷类磨成的渣粒大米～儿。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-糁"
+}

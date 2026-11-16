@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5377",
+  "script": "seal",
+  "character": "卷",
+  "reading": "juàn",
+  "description": "juàn：(1)可以舒展和弯转成圆筒形的书画长～。画～。手～。\n(2)书籍的册本或篇章上～。第一～。藏书十万～。～帙（书卷成束，用布裹或布囊装起来称帙”，即书套。现一般指书籍）。\n(3)考试用的纸试～。\n(4)机关里分类汇存的档案、文件案～。\n舒；\n（捲）\njuǎn：(1)把东西弯转裹成圆筒形～尺。～帘子。\n(2)裹挟带动～入。～扬。\n(3)弯转裹成筒形的东西烟～儿。纸～儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卷"
+}

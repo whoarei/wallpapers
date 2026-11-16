@@ -1,0 +1,14 @@
+{
+  "id": "poem-84b77b7388bf234a41b96df5",
+  "title": "伊川晚眺",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "桑叶初黄梨叶红，伊川落日尽无风。",
+    "汉储何假终南客，甪里先生在谷中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-383eda54-11ce-47da-be4a-c79a1dce423a"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-59d4",
+  "script": "seal",
+  "character": "委",
+  "reading": "wěi；wēi",
+  "description": "wěi：(1)任，派，把事交给人办～托。～派。～任。～员。～以重任。\n(2)抛弃，舍弃～弃。～之于地。\n(3)推托，卸推～。～罪。\n(4)曲折，弯转～曲。～婉。～屈。\n(5)积聚～积。\n(6)末、尾原～。穷源意～（追究事物本原及其发展）。\n(7)确实～实。\n(8)无精打采，不振作～顿。～靡。\nwēi：〔～蛇（yí）〕a.敷衍，应付；b.同逶迤”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-委"
+}

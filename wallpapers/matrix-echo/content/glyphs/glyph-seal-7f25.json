@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f25",
+  "script": "seal",
+  "character": "缥",
+  "reading": "piāo",
+  "description": "同飘”。飞扬\n缥缈，缥乎，缥缥\n缥piǎo青白色，淡青色。也指青白色的丝织品。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缥"
+}

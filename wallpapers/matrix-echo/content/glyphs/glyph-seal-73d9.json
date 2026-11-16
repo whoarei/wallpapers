@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-73d9",
+  "script": "seal",
+  "character": "珙",
+  "reading": "gǒng",
+  "description": "gǒng：古代玉器，大璧。\n〔～桐〕落叶乔木，茎高二十米左右，亦称空桐树”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-珙"
+}

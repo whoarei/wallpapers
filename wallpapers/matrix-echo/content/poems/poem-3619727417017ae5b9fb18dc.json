@@ -1,0 +1,16 @@
+{
+  "id": "poem-3619727417017ae5b9fb18dc",
+  "title": "菩萨蛮 其五",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "杏花含露团香雪，绿杨陌上多离别。",
+    "灯在月胧明，觉来闻晓莺。",
+    "玉钩褰翠幕，妆浅旧眉薄。",
+    "春梦正关情，镜中蝉鬓轻。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-4",
+  "tags": []
+}

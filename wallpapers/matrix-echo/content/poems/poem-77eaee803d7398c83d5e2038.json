@@ -1,0 +1,16 @@
+{
+  "id": "poem-77eaee803d7398c83d5e2038",
+  "title": "张左丞挽歌二首 二",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "祸集钩方失，灾生劒忽飞。",
+    "无由就日拜，空忆自天归。",
+    "门吏看还葬，宫官识赐衣。",
+    "东堂哀赠毕，从此故臣稀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-2eb64614-d5a4-43a5-a796-a485efaeaced"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6d6a",
+  "script": "kai",
+  "character": "浪",
+  "reading": "làng",
+  "description": "làng：(1)大波波～。～。巨～。风～。～涛。～潮（亦喻大规模的社会运动）。风平～静。\n(2)像波浪起伏的麦～。声～。\n(3)没有约束，放纵放～。流～。～费。～迹。～人。孟～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-浪"
+}

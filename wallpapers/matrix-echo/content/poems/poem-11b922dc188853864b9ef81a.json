@@ -1,0 +1,20 @@
+{
+  "id": "poem-11b922dc188853864b9ef81a",
+  "title": "菩萨蛮·凉飙轻散馀霞绮",
+  "author": "李弥逊",
+  "dynasty": "宋",
+  "verses": [
+    "凉飙轻散馀霞绮。",
+    "疏星冷浸明河水。",
+    "敧枕画檐风。",
+    "秋生草际蛩。",
+    "雁门离塞晚。",
+    "不道衡阳远。",
+    "归恨隔重山。",
+    "楼高莫凭栏。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-15",
+  "tags": []
+}

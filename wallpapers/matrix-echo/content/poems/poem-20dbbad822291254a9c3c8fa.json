@@ -1,0 +1,15 @@
+{
+  "id": "poem-20dbbad822291254a9c3c8fa",
+  "title": "甘州子·一炉龙麝锦帷旁",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "一炉龙麝锦帷旁，屏掩映，烛荧煌。",
+    "禁楼刁斗喜初长，罗荐绣鸳鸯。",
+    "山枕上，私语口脂香。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-41"
+}

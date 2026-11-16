@@ -10,8 +10,9 @@
   <script src="/__wallpaper_host__/settings.js" defer></script>
   <script src="poetry.js" defer></script><script src="poems.generated.js" defer></script>
   <script src="glyphs.js" defer></script><script src="glyphs.generated.js" defer></script>
+  <script src="content-loader.js" defer></script>
   <script src="settings.js" defer></script><script src="culture-config.js" defer></script>
-  <script src="archive.js" defer></script><script src="glyph-library.js" defer></script>
+  <script src="archive.js" defer></script><script src="library-tools.js" defer></script><script src="glyph-library.js" defer></script>
   <script src="culture.js" defer></script><script src="settings-page.js" defer></script>
 </head>
 <body class="settings-form">
@@ -35,7 +36,9 @@
     </div>
     <section id="library-poems" role="tabpanel" aria-labelledby="tab-poems">
     <div class="library-heading"><h3>诗词库 <small id="poem-count"></small></h3><button id="add-poem" type="button" data-keyboard>添加诗词</button></div>
+    <div class="library-filters"><label data-keyboard>搜索<input id="poem-search" type="search" placeholder="篇名、作者、诗句" autocomplete="off"></label><label>选集<select id="poem-collection"><option value="">全部选集</option></select></label><label>朝代<select id="poem-dynasty-filter"><option value="">全部朝代</option></select></label><label>题材<select id="poem-tag"><option value="">全部题材</option></select></label><button id="poem-collection-toggle" type="button" hidden>停用此选集</button></div>
     <div id="poem-list" class="poem-list" aria-label="诗词列表"></div>
+    <nav class="library-pagination" aria-label="诗词分页"><button id="poem-previous" type="button">上一页</button><span id="poem-page-status" role="status" aria-live="polite"></span><button id="poem-next" type="button">下一页</button></nav>
     <form id="poem-editor" hidden>
       <h3 id="editor-heading">添加诗词</h3>
       <div class="poem-fields"><label>篇名<input id="poem-title" required maxlength="80" autocomplete="off"></label><label>作者<input id="poem-author" required maxlength="40" autocomplete="off"></label><label>朝代（选填）<input id="poem-dynasty" maxlength="20" autocomplete="off"></label></div>
@@ -51,7 +54,9 @@
     <section id="library-glyphs" role="tabpanel" aria-labelledby="tab-glyphs" hidden>
       <div class="library-heading"><h3>悬浮文字库 <small id="glyph-count"></small></h3><button id="add-glyph" type="button" data-keyboard>添加文字</button></div>
       <label class="glyph-filter" data-keyboard>筛选字形<select id="glyph-filter"><option value="">全部字形</option><option value="seal">小篆</option><option value="kai">楷书</option><option value="yi">彝文</option><option value="tibetan">藏文</option></select></label>
+    <div class="library-filters"><label data-keyboard>搜索<input id="glyph-search" type="search" placeholder="汉字、读音、释义" autocomplete="off"></label><label>选集<select id="glyph-collection"><option value="">全部选集</option></select></label><button id="glyph-collection-toggle" type="button" hidden>停用此选集</button></div>
       <div id="glyph-list" class="poem-list" aria-label="悬浮文字列表"></div>
+    <nav class="library-pagination" aria-label="文字分页"><button id="glyph-previous" type="button">上一页</button><span id="glyph-page-status" role="status" aria-live="polite"></span><button id="glyph-next" type="button">下一页</button></nav>
       <p id="glyph-empty" class="library-help" hidden>当前分类还没有文字，可添加或导入 JSON。</p>
       <form id="glyph-editor" hidden>
         <h3 id="glyph-editor-title">添加悬浮文字</h3>

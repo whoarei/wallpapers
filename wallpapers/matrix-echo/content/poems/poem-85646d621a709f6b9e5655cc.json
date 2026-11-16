@@ -1,0 +1,14 @@
+{
+  "id": "poem-85646d621a709f6b9e5655cc",
+  "title": "题刘炼师归山",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "风急云轻鹤背寒，洞天谁道却归难。",
+    "千山万水瀛洲路，何处烟飞是醮坛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c87c1927-03e4-4104-97e5-f5fb54de3345"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6551",
+  "script": "kai",
+  "character": "救",
+  "reading": "jiù",
+  "description": "jiù：(1)给予帮助使脱离危险或解脱困难～济。～命。～护。～国。～难（nàn）。～灾。～药。～正（补救匡正）。～死扶伤。～困扶危。\n(2)终止濯以～热。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-救"
+}

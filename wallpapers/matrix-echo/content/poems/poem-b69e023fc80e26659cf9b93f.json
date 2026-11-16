@@ -1,0 +1,16 @@
+{
+  "id": "poem-b69e023fc80e26659cf9b93f",
+  "title": "郊庙歌辞 朝日乐章 迎神",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "太阳朝序，王宫有仪。",
+    "蟠桃彩驾，细柳光驰。",
+    "轩祥表合，汉历彰奇。",
+    "礼和乐备，神其降斯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-c46d0f11-ff9a-402e-9306-cf79f7449187"
+}

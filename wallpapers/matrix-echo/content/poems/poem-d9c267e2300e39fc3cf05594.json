@@ -1,0 +1,14 @@
+{
+  "id": "poem-d9c267e2300e39fc3cf05594",
+  "title": "远闻本郡行春到旧山二首 二",
+  "author": "朱景玄",
+  "dynasty": "唐",
+  "verses": [
+    "清风借响松筠外，画隼停晖水石间。",
+    "定掩溪名在图传，共知轩盖此登攀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-a889c4f3-38d2-45f9-8c7a-29931e72d844"
+}

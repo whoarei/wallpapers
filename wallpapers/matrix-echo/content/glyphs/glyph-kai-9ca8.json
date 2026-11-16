@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9ca8",
+  "script": "kai",
+  "character": "鲨",
+  "reading": "shā",
+  "description": "吹沙鱼\n鲨鱼\n瘤子,显得很粗糙,吻部突出于嘴的前边,两边都有鳃孔,雄鱼有鳍脚和伸长的腹鳍\n鲨shā鱼名。鲨鱼又作\"沙鱼\"，也叫\"鲛\"。种类很多，性凶猛，捕食其它鱼类。生活在海洋里。肉可吃，肝可制鱼肝油，皮可制革，骨可制胶。鳍叫\"鱼翅\"，是珍贵的食品。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲨"
+}

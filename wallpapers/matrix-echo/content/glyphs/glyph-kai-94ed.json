@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-94ed",
+  "script": "kai",
+  "character": "铭",
+  "reading": "míng",
+  "description": "牢记不忘\n铭心立报,永矣无贰。\n⒈刻写在器物上记述生平、事业或警语等的文字鼎～。墓志～。座右～。\n⒉在器物上刻字～刻。也〈喻〉深刻记住～记在心。\n⒊文体的一种陋室～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铭"
+}

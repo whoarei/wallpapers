@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62e7",
+  "script": "kai",
+  "character": "拧",
+  "reading": "nǐng",
+  "description": "扭;绞\n团聚\n用力扭转\n别扭;意见相互不一致\n颠倒,不好,\n⒈扭转，控制住物体的一部分而旋转～紧瓶盖。～开龙头放水。\n⒉〈方〉相反，不顺弄～了。这件事，叫他俩闹～了。\n⒈握住物体的两端，各向相反的方向使力扭绞～绳索。\n⒉用手指夹住皮肉转～了他一下。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拧"
+}

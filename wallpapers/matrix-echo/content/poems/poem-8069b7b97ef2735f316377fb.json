@@ -1,0 +1,19 @@
+{
+  "id": "poem-8069b7b97ef2735f316377fb",
+  "title": "西施",
+  "author": "苏拯",
+  "dynasty": "唐",
+  "verses": [
+    "吴王从骄佚，天产西施出。",
+    "岂徒伐一人，所希救群物。",
+    "良由上天意，恶盈戒奢侈。",
+    "不独破吴国，不独生越水。",
+    "在周名襃姒，在纣名妲己。",
+    "变化本多涂，生杀亦如此。",
+    "君王政不修，立地生西子。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c8621171-5488-4eec-9716-861c79c1df63"
+}

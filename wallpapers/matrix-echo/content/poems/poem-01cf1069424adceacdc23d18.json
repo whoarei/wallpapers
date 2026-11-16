@@ -1,0 +1,18 @@
+{
+  "id": "poem-01cf1069424adceacdc23d18",
+  "title": "醉花阴·帘卷西风轻雨外",
+  "author": "李弥逊",
+  "dynasty": "宋",
+  "verses": [
+    "帘卷西风轻雨外。",
+    "揖数峰横翠。",
+    "楼上地行仙，压玉为醪，旋摘黄金蕊。",
+    "一觞一阕千秋岁。",
+    "不愿封侯贵。",
+    "长伴紫髯翁，踏月吹箫，笑咏云山里。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-44",
+  "tags": []
+}

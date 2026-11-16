@@ -1,0 +1,16 @@
+{
+  "id": "poem-d963d8bb1085332eb9d91f39",
+  "title": "减字木兰花·烛花摇影",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "烛花摇影，冷透疏衾刚欲醒。",
+    "待不思量，不许孤眠不断肠。",
+    "茫茫碧落，天上人间情一诺。",
+    "银汉难通，稳耐风波愿始从。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-208"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-0c3d7737d9e2cbc8a0c6f67a",
+  "title": "阆水歌",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "嘉陵江色何所似，石黛碧玉相因依。",
+    "正怜日破浪花出，更复春从沙际归。",
+    "巴童荡桨攲侧过，水鸡衔鱼来去飞。",
+    "阆中胜事可肠断，阆州城南天下稀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "抒情",
+    "地方",
+    "写景",
+    "赞美"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-b0d04448-935e-4e7a-ad7e-9a69c31b0ad7"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-bb26e450c6854508455e0165",
+  "title": "喜广仲伯逢来会",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "二阮向来俱莫逆，支筇为我到山巅。",
+    "浊醪共饮聊复尔，胜集于今亦偶然。",
+    "人立千峰秋色里，月生沧海暮云边。",
+    "高谈此地曾知几，一笑归来对榻眠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-1bda096c-c450-467c-badb-91235f4de3a4"
+}

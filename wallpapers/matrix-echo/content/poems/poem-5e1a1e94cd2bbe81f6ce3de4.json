@@ -1,0 +1,18 @@
+{
+  "id": "poem-5e1a1e94cd2bbe81f6ce3de4",
+  "title": "省题诗二十一首 咏白",
+  "author": "王棨",
+  "dynasty": "唐",
+  "verses": [
+    "非青玄赤黄，正色配金方。",
+    "鱼表周王德，麟呈汉帝祥。",
+    "寒来边草远，春至岭梅芳。",
+    "曳练闻良马，衔钩见瑞狼。",
+    "张苍肥似瓠，潘岳鬓如霜。",
+    "虚室能生后，方知守黑长。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-569c3ddd-64e4-4e8d-8848-e65dd8c24078"
+}

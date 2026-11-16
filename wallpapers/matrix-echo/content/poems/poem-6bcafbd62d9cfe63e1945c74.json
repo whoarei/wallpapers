@@ -1,0 +1,28 @@
+{
+  "id": "poem-6bcafbd62d9cfe63e1945c74",
+  "title": "望洞庭湖赠张丞相",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "八月湖水平，涵虚混太清。",
+    "气蒸云梦泽，波撼岳阳城。",
+    "欲济无舟楫，端居耻圣明。",
+    "坐观垂钓者，空有羡鱼情。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "洞庭湖",
+    "描写水",
+    "山水",
+    "八年级上册(课外)",
+    "五言律诗",
+    "初中古诗",
+    "水",
+    "带有地名",
+    "写水",
+    "地名"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-6975adab-25d0-40c6-af3a-3a05847e7717"
+}

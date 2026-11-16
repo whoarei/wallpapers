@@ -1,0 +1,16 @@
+{
+  "id": "poem-7c3f45e50075d4696c85db8e",
+  "title": "玉交枝",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "别离休叹，我心下非不痛酸。",
+    "非爹苦要轻拆散，也只是要图你荣显。",
+    "(净唱)蟾宫桂枝须早扳，北堂萱草时光短。",
+    "(合)又不知何日再圆？又不知何日再圆？(生唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4953",
+  "tags": []
+}

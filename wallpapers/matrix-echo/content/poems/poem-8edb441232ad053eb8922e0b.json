@@ -1,0 +1,14 @@
+{
+  "id": "poem-8edb441232ad053eb8922e0b",
+  "title": "敬之",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "敬之敬之，天维显思，命不易哉。无曰高高在上，陟降厥士，日监在兹。",
+    "维予小子，不聪敬止。日就月将，学有缉熙于光明。佛时仔肩，示我显德行。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-287"
+}

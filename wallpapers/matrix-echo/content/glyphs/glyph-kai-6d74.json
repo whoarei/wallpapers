@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6d74",
+  "script": "kai",
+  "character": "浴",
+  "reading": "yù",
+  "description": "yù：洗身，洗澡沐～。～室。～场。～缸。～巾。～血（全身浸于血中，形容战斗激烈）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-浴"
+}

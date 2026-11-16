@@ -1,0 +1,16 @@
+{
+  "id": "poem-ee92acd37bb6a4c484c0608b",
+  "title": "山中寡妇",
+  "author": "杜荀鹤",
+  "dynasty": "唐",
+  "verses": [
+    "夫因兵乱守蓬茅，麻苎裙衫鬓发焦。",
+    "桑柘废来犹纳税，田园荒尽尚征苗。",
+    "时挑野菜和根煮，旋砍生柴带叶烧。",
+    "任是深山最深处，也应无计避征徭。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-山中寡婦"
+}

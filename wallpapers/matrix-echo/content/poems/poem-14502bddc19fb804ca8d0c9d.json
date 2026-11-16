@@ -1,0 +1,22 @@
+{
+  "id": "poem-14502bddc19fb804ca8d0c9d",
+  "title": "点绛唇·燕雁无心",
+  "author": "姜夔",
+  "dynasty": "宋",
+  "verses": [
+    "燕雁无心，太湖西畔随云去。",
+    "数峰清苦。",
+    "商略黄昏雨。",
+    "第四桥边，拟共天随住。",
+    "今何许。",
+    "凭栏怀古。",
+    "残柳参差舞。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首",
+    "太湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-121"
+}

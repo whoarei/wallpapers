@@ -1,0 +1,18 @@
+{
+  "id": "poem-e85bea4df931dc3283dda0b9",
+  "title": "奉和圣制荅张说扈从南出雀鼠谷",
+  "author": "梁升卿",
+  "dynasty": "唐",
+  "verses": [
+    "何意重关道，千年过圣皇。",
+    "幽林承睿泽，闲客见清光。",
+    "日御仙途远，山灵寿域长。",
+    "寒云入晋薄，春树隔汾香。",
+    "国佐同时雨，天文属岁阳。",
+    "从来汉家盛，未若此巡方。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-99c735da-a0c6-4e4a-95e9-df063087ef5b"
+}

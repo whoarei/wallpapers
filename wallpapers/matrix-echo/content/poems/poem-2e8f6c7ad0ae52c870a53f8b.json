@@ -1,0 +1,18 @@
+{
+  "id": "poem-2e8f6c7ad0ae52c870a53f8b",
+  "title": "诗品二十四则 含蓄",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "不著一字，尽得风流。",
+    "语不涉难，已不堪忧。",
+    "是有真宰，与之沈浮。",
+    "如渌满酒，花时返秋。",
+    "悠悠空尘，忽忽海沤。",
+    "浅深聚散，万取一收。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-4c871d1f-0985-4ae8-b0d3-9f0ba929a0ec"
+}

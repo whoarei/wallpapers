@@ -1,0 +1,20 @@
+{
+  "id": "poem-b51f62f61c166785bdd105f0",
+  "title": "喜见外弟又言别",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "十年离乱后，长大一相逢。",
+    "问姓惊初见，称名忆旧容。",
+    "别来沧海事，语罢暮天钟。",
+    "明日巴陵道，秋山又几重。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "离别",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-d755f74b-18fd-44d1-a6e1-43e77490bb09"
+}

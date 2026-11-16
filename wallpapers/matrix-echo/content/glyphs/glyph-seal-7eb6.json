@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7eb6",
+  "script": "seal",
+  "character": "纶",
+  "reading": "lún；guan",
+  "description": "用青丝带做的头巾\n昆布\n⒈青丝带。\n⒉见lún。\n⒈钓鱼用的丝线。\n⒉丝织的带子。\n⒊现用于一些合成纤维的名称涤～。锦～。棉～混纺。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-纶"
+}

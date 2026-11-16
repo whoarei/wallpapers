@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-516b",
+  "script": "kai",
+  "character": "八",
+  "reading": "bā",
+  "description": "bā：数名，七加一（在钞票和单据上常用大写捌”代）～面玲珑。～卦（《周易》中的八种基本图形）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-八"
+}

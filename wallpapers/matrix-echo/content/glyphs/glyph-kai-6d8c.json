@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6d8c",
+  "script": "kai",
+  "character": "涌",
+  "reading": "yǒng；chōng",
+  "description": "yǒng：(1)水由下向上冒出来～泉。～流。汹～。泪如泉～。\n(2)像水涌出～现。～动。风起云～。天边～出一轮明月。\nchōng：方言，河汊。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-涌"
+}

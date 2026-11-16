@@ -1,0 +1,14 @@
+{
+  "id": "poem-f10b5d74f18fa2654c8ada59",
+  "title": "咏史诗 五湖",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "东上高山望五湖，雪涛烟浪起天隅。",
+    "不知范蠡乘舟后，更有功臣继踵无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c53cdcc4-2c29-435c-886f-6b6c7d4f644a"
+}

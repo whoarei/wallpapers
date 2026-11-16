@@ -1,0 +1,20 @@
+{
+  "id": "poem-e350da9bcf988712c2707f6c",
+  "title": "明月歌二首  其一",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "高高凝碧夜色卷，八荒更无纤云屯。",
+    "冰轮直压巨鼇首，东海万里齐崩奔。",
+    "仰观左右毛骨竦，徐扫澄烟摄群动。",
+    "寥泬初疑玉兔跳，银潢更恐金波涌。",
+    "儿童争指桂枝好，游人不厌嫦娥老。",
+    "苦留清景拂疏星，要与羲和接昏晓。",
+    "光到长门知不知，犹胜关山人未归。",
+    "清风著我生双翼，来作蟾宫变化飞。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-8f69fdea-79ae-4a37-bef8-f19a2703c7dd"
+}

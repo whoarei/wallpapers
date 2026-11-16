@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6279",
+  "script": "kai",
+  "character": "批",
+  "reading": "pī",
+  "description": "pī：(1)用手掌打～颊（打嘴巴）。\n(2)刮～凿。\n(3)口头或用文字判定是非、优劣、可否～准。～示。～复。～语。～阅。～判。眉～（写在书页天头上的批语）。\n(4)大量～购。～销。\n(5)量词，用于大宗的货物或数量众多的事物一～货物。\n(6)棉麻等未捻成线、绳时的细缕线～儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-批"
+}

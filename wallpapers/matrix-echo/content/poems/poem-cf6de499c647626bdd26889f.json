@@ -1,0 +1,16 @@
+{
+  "id": "poem-cf6de499c647626bdd26889f",
+  "title": "更漏子 其三",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "金雀钗，红粉面，花里暂时相见。",
+    "如我意，感君怜，此情须问天。",
+    "香作穗，蜡成泪，还似两人心意。",
+    "山枕腻，锦衾寒，觉来更漏残。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-16",
+  "tags": []
+}

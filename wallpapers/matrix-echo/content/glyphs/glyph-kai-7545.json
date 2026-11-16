@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7545",
+  "script": "kai",
+  "character": "畅",
+  "reading": "chàng",
+  "description": "舒畅\n茂盛\n流畅,言辞敏捷、自在而流利\n正;极;甚\n①顺畅，没有阻碍～通无阻。痛快；尽情欢～。\n【畅所欲言】把想要说出的话痛痛快快地全说出来。\n【畅想】放开思路，无拘无束地想象～曲。\n【畅游】\n①尽情愉快地游览。\n②舒畅地游泳。\n⒈无阻碍～通。～达。～销。流～。\n⒉通晓晓～军事。\n⒊舒适舒～。欢～。\n⒋痛快，尽情～快。～谈。～所欲言。\n⒌盛～茂。～盛。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-畅"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-ff09b9b1ae206ca2f8f48f95",
+  "title": "怀京国",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "海上东风犯雪来，腊前先折镜湖梅。",
+    "遥思禁苑青春夜，坐待宫人画诏回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4531cf45-2116-4c73-8bae-16f6413418d7"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8654",
+  "script": "seal",
+  "character": "虔",
+  "reading": "qián",
+  "description": "qián：恭敬～诚。～敬。～心。～信。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-虔"
+}

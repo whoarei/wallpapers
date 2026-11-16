@@ -1,0 +1,25 @@
+{
+  "id": "poem-4096fd69b6d09b516c9e745b",
+  "title": "登翅头山题俨公石壁",
+  "author": "包融",
+  "dynasty": "唐",
+  "verses": [
+    "晨登翅头山，山曛黄雾起。",
+    "却瞻迷向背，直下失城市。",
+    "暾日衔东郊，朝光生邑里。",
+    "扫除诸烟氛，照出众楼雉。",
+    "青为洞庭山，白是太湖水。",
+    "苍茫远郊树，倏忽不相似。",
+    "万象以区别，森然共盈几。",
+    "坐令开心胸，渐觉落尘滓。",
+    "北岩千余仞，结庐谁家子。",
+    "愿陪中峰游，朝暮白云里。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "太湖",
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-64e5a06a-f81d-49c7-9a5d-b6c4fdbbcd91"
+}

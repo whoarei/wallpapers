@@ -1,0 +1,16 @@
+{
+  "id": "poem-959ca2b7df5f97517d4963a6",
+  "title": "夜",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "日坠虞渊烛影开，沈沈烟雾压浮埃。",
+    "剡川雪满子猷去，汉殿月生王母来。",
+    "簷挂蛛丝应渐织，风吹萤火不成灰。",
+    "愁人莫道何时旦，自有钟鸣漏滴催。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-1309b952-d792-4b93-805e-6808995b66cb"
+}

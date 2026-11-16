@@ -1,0 +1,22 @@
+{
+  "id": "poem-b0b5883d344f88d804356896",
+  "title": "灞上秋居",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "灞原风雨定，晚见鴈行频。",
+    "落叶他乡树，寒灯独夜人。",
+    "空园白露滴，孤壁野僧隣。",
+    "寄卧郊扉久，何门致此身。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "孤独",
+    "秋天",
+    "五言律诗",
+    "怀才不遇"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-f2f04c30-149d-4b2b-bce1-1334adf84739"
+}

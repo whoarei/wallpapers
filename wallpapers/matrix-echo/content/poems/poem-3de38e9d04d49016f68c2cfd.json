@@ -1,0 +1,18 @@
+{
+  "id": "poem-3de38e9d04d49016f68c2cfd",
+  "title": "洋川 二",
+  "author": "和凝",
+  "dynasty": "唐",
+  "verses": [
+    "自陪台旆到洋川，两载优游汉水边。",
+    "（同前。",
+    "）（按：《全唐诗》卷七三五以「华夷」、「官闲」二联为七绝一首，系据《唐音戊签余》四转录，后者又系辑自宋祝穆《方舆胜览》卷六八。",
+    "今据《舆地纪胜》所载及诗律推之，原诗当为七律，颔联二句已佚。",
+    "《全唐诗续补遗》卷十四将「自陪」二句接于「官闲」四句前，实误，今重录之。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-284fdf24-d14b-46d2-9218-6b84944cd2f5"
+}

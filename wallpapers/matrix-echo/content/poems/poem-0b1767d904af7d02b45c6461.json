@@ -1,0 +1,18 @@
+{
+  "id": "poem-0b1767d904af7d02b45c6461",
+  "title": "三一",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "养儿从少打，（「少」，伯三五五八、伯三七一六、伯三六五六卷作「小」。",
+    "）莫道怜不笞。",
+    "长大欺父母，后回（一本作「悔」。",
+    "）定无鱼。",
+    "（一本作「疑」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-ee4a0058-8dbe-444e-9e79-3f8750357df8"
+}

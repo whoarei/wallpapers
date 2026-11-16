@@ -1,0 +1,14 @@
+{
+  "id": "poem-25f8f2d60a2c7eaf2cbca940",
+  "title": "巫山下作",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "细腰宫尽旧城摧，神女归山更不来。",
+    "唯有楚江斜日里，至今犹自绕阳台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-f643e194-522c-4420-8fe8-7f0c0e96fc81"
+}

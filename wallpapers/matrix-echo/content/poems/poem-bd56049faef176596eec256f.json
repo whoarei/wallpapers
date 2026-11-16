@@ -1,0 +1,14 @@
+{
+  "id": "poem-bd56049faef176596eec256f",
+  "title": "小长干曲",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "月暗送潮风，相寻路不通。",
+    "菱歌唱不彻，知在此塘中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-861898e7-b6b0-4805-9bc4-a6b6a1ca55a0"
+}

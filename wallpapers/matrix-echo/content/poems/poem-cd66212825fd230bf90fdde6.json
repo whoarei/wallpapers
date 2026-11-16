@@ -1,0 +1,14 @@
+{
+  "id": "poem-cd66212825fd230bf90fdde6",
+  "title": "庚戌正月一日游都峤山留五绝句栖真观中  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "元日寻真到洞天，溪边春色已嫣然。",
+    "落花流水人间去，谁道桃源不是仙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-1045c4cd-bc51-4a7d-9517-a28d9ffbfe51"
+}

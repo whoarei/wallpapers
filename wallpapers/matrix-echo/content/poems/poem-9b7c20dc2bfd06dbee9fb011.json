@@ -1,0 +1,18 @@
+{
+  "id": "poem-9b7c20dc2bfd06dbee9fb011",
+  "title": "从军",
+  "author": "刘庭琦",
+  "dynasty": "唐",
+  "verses": [
+    "朔风吹寒塞，胡沙千万里。",
+    "阵云出岱山，孤月生海水。",
+    "决胜方求敌，衔恩本轻死。",
+    "萧萧牧马鸣，中夜拔劒起。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "泰山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-1d108c7f-8c11-48b0-98d0-315baf79b9e6"
+}

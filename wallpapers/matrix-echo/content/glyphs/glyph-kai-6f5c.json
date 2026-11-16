@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6f5c",
+  "script": "kai",
+  "character": "潜",
+  "reading": "qián",
+  "description": "qián：(1)隐在水面下活动～水。～泳。～坝。～行（ａ．在水面以下行动；ｂ．在外边秘密行动）。\n(2)隐藏的，秘密地～藏。～伏。～遁。～逃。～力。～心。～师。～在。～台词。～移默化。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-潜"
+}

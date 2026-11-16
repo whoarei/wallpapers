@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6905",
+  "script": "kai",
+  "character": "椅",
+  "reading": "yǐ；yī",
+  "description": "yǐ：有靠背的坐具～子。坐～。木～。躺～。\nyī：落叶乔木，木材可以制器物。亦称山桐子”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-椅"
+}

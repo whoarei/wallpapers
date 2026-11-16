@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-53eb",
+  "script": "seal",
+  "character": "叫",
+  "reading": "jiào",
+  "description": "jiào：呼喊～喊。～嚣（呼喊，吵闹）。～阵。～座（戏曲或演员能吸引观众，看的人多）。～苦不迭。鸣冤～屈。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-叫"
+}

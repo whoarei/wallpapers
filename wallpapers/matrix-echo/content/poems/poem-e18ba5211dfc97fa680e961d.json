@@ -1,0 +1,14 @@
+{
+  "id": "poem-e18ba5211dfc97fa680e961d",
+  "title": "浣溪沙·云薄罗裙绶带长",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "云薄罗裙绶带长，满身新裛瑞龙香，翠钿斜映艳梅妆。",
+    "佯不觑人空婉约，笑和娇语太猖狂，忍教牵恨暗形相。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-37"
+}

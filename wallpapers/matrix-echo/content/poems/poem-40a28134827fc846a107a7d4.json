@@ -1,0 +1,14 @@
+{
+  "id": "poem-40a28134827fc846a107a7d4",
+  "title": "喜杨舍人入翰林",
+  "author": "卢肇",
+  "dynasty": "唐",
+  "verses": [
+    "御笔亲批翰长衔，夜开金殿送瑶缄。",
+    "平明玉案临宣室，已见龙光出傅岩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-41de33cc-8047-40b7-8c95-11b2668051e1"
+}

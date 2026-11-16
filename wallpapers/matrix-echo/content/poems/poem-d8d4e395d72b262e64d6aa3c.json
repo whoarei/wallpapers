@@ -1,0 +1,16 @@
+{
+  "id": "poem-d8d4e395d72b262e64d6aa3c",
+  "title": "丽正殿赐宴同勒天前烟年四韵应制",
+  "author": "王湾",
+  "dynasty": "唐",
+  "verses": [
+    "金殿忝陪贤，琼羞忽降天。",
+    "鼎罗仙掖里，觞拜琐闱前。",
+    "院逼青霄路，厨和紫禁烟。",
+    "酒酣空忭舞，何以荅昌年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-076db65b-9bc5-42e9-b146-28e50e39fc50"
+}

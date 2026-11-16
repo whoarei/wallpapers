@@ -1,0 +1,16 @@
+{
+  "id": "poem-1093e1837ddd0285dd328e33",
+  "title": "刘泼帽",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "我每不久须倾弃，叹当初足我不是。",
+    "苦！不如我死了到无他虑。",
+    "(合)一度思量，一度也肝肠碎。",
+    "(净唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4995",
+  "tags": []
+}

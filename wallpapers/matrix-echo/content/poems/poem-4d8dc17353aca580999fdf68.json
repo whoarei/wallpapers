@@ -1,0 +1,16 @@
+{
+  "id": "poem-4d8dc17353aca580999fdf68",
+  "title": "斜谷道",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "乱峰连叠嶂，千里绿峨峨。",
+    "蜀国路如此，游人车亦过。",
+    "远烟当驿歛，骤雨逐风多。",
+    "独忆紫芝叟，临风歌旧歌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-68b97b04-7b2d-4e1f-a271-f0b0ac137f13"
+}

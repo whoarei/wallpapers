@@ -1,0 +1,14 @@
+{
+  "id": "poem-90914caf357540453cac4833",
+  "title": "偶诗五首 五",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "中宵茶鼎沸时惊，正是寒窗竹雪明。",
+    "甘得寂寥能到老，一生心地亦应平。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-06774686-2e23-4309-b84e-83d0de71a64c"
+}

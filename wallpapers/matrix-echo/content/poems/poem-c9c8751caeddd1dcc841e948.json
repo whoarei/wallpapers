@@ -1,0 +1,17 @@
+{
+  "id": "poem-c9c8751caeddd1dcc841e948",
+  "title": "浣溪沙·花信催春入帝关",
+  "author": "沈与求",
+  "dynasty": "宋",
+  "verses": [
+    "花信催春入帝关。",
+    "玉霙争腊去留间。",
+    "不禁风力又吹残。",
+    "客舍不眠清夜冷，萦愁一缕袅旃檀。",
+    "空庭月落斗栏干。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-817",
+  "tags": []
+}

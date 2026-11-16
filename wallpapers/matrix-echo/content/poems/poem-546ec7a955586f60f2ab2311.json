@@ -1,0 +1,14 @@
+{
+  "id": "poem-546ec7a955586f60f2ab2311",
+  "title": "出蓝田关寄董使君",
+  "author": "陆畅",
+  "dynasty": "唐",
+  "verses": [
+    "万里烟萝锦帐间，云迎水送度蓝关。",
+    "七盘九折难行处，尽是龚黄界外山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-51e76f1b-82f4-452e-aaa1-d2845d291d3a"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7236",
+  "script": "seal",
+  "character": "父",
+  "reading": "fù；fǔ",
+  "description": "fù：(1)爸爸，母亲的丈夫～母。～辈。～子。～兄。\n(2)对男性长辈的称呼～老（一国或一乡的长者，亦指古代乡里中管理公共事物的人）。伯～。舅～。\n女；子；母；\nfǔ：(1)老年人田～。渔～。\n(2)同甫”①。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-父"
+}

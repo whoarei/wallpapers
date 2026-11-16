@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-613f",
+  "script": "kai",
+  "character": "愿",
+  "reading": "yuàn",
+  "description": "大头\n⒈乐意～意。自～。心甘情～。\n⒉希望～望。如～。平生之～。\n⒊仰慕，羡慕名声日闻，天下～。\n⒋迷信者所谓\"对神佛许诺的酬谢\"莫许～。错还～。\n⒌老实，恭谨谨～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-愿"
+}

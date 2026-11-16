@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8393",
+  "script": "seal",
+  "character": "莓",
+  "reading": "méi",
+  "description": "méi：〔草～〕多年生草本植物，叶有长柄，开白花，果实红色，味酸甜。\n〔木～〕落叶灌木，高近二米，果实红色，由多数小核果合成，可食。亦称山莓”、悬钩子”。\n〔寒～〕常绿蔓生小灌木，果实红色，到冬天才熟，可食。\n〔乌蔹～〕蔓生草本植物，开淡黄绿色小花，供药用。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-莓"
+}

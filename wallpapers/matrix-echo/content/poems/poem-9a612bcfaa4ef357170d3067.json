@@ -1,0 +1,16 @@
+{
+  "id": "poem-9a612bcfaa4ef357170d3067",
+  "title": "长安晓望寄程补阙",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "迢遰山河拥帝京，参差宫殿接云平。",
+    "风吹晓漏经长乐，柳带晴烟出禁城。",
+    "天净笙歌临路发，日高车马隔尘行。",
+    "独有浅才甘未达，多慙名在鲁诸生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-59da8f38-abd3-4af3-b549-7b9ef4aec01f"
+}

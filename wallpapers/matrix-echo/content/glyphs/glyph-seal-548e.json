@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-548e",
+  "script": "seal",
+  "character": "咎",
+  "reading": "jiù",
+  "description": "jiù：(1)过失，罪过～戾。负～。以彰其～。\n(2)怪罪，处分既往不～。～由自取（遭受责备、惩处或祸害是自己造成的）。\n(3)灾祸休～（吉凶）。\n(4)怨仇与臣有～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咎"
+}

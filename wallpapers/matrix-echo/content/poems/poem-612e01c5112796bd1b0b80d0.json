@@ -1,0 +1,17 @@
+{
+  "id": "poem-612e01c5112796bd1b0b80d0",
+  "title": "浣溪沙·菱藕花开来路香",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "菱藕花开来路香。",
+    "满船丝竹载西凉。",
+    "波摇发彩粉生光。",
+    "翡翠双飞寻密浦，鸳鸯浓睡倚回塘。",
+    "闲情须与酒商量。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-519",
+  "tags": []
+}

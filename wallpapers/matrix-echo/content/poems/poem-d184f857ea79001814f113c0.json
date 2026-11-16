@@ -1,0 +1,16 @@
+{
+  "id": "poem-d184f857ea79001814f113c0",
+  "title": "上东林和尚",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "让紫归青壁，高名四海闻。",
+    "虽然无一事，得不是要君。",
+    "道祗传伊字，诗多笑碧云。",
+    "应怜门下客，余力亦为文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-e6791481-45a7-4c10-a119-22c2963708f1"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-45082ba3700d61c675ddffb2",
+  "title": "早春病中",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "羸病及年初，心情不自如。",
+    "多申请假牒，祗送贺官书。",
+    "幽径独行步，白头长嬾梳。",
+    "更怜晴日色，渐渐暖贫居。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ba68f2e9-87b9-4ba1-84b6-bbe65c46bcd5"
+}

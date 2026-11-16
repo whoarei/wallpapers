@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9b23",
+  "script": "seal",
+  "character": "鬣",
+  "reading": "liè",
+  "description": "liè：(1)马、狮子等颈上的长毛～鬃。刚～。\n(2)鱼颔旁小鳍。\n(3)扫帚的末端。\n〔～狗〕哺乳动物，外形略像狗，头比狗的头短而圆，毛棕黄或棕褐色，有许多不规则的黑褐斑点，多生长在热带或亚热带地区，吃兽类尸体腐烂的肉。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鬣"
+}

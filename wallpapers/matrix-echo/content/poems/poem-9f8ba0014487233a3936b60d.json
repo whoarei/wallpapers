@@ -1,0 +1,19 @@
+{
+  "id": "poem-9f8ba0014487233a3936b60d",
+  "title": "点绛唇·春浪桃花",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "春浪桃花，禹门三尺平跳过。",
+    "死生不坐。",
+    "变化须归我。",
+    "山起南云，白雨声相和。",
+    "还知么。",
+    "点点真个。",
+    "块土何曾破。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-154",
+  "tags": []
+}

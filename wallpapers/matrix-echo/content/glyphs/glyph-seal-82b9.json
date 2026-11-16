@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-82b9",
+  "script": "seal",
+  "character": "芹",
+  "reading": "qín",
+  "description": "qín：菜名，一年或二年生草本植物，茎可食。亦称水芹”。还有一种草芹”，有特殊香味，俗称药芹”。\n〔～献〕对人谦称所赠东西不好。亦称献芹”。\n〔～意〕谦辞，微薄的情意。\n〔～藻〕古代喻贡士或有才学之士。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芹"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-2de282a32f00a1212107ea02",
+  "title": "塞上闻笛",
+  "author": "宋济",
+  "dynasty": "唐",
+  "verses": [
+    "雪净遥天牧马还，月明羌笛戍楼闲。",
+    "借问梅花何处落，风吹一夜满关山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e4e82f30-de7c-46fa-b0a3-96cdd3b93aab"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7a23",
+  "script": "seal",
+  "character": "稣",
+  "reading": "sū",
+  "description": "同苏”\n转意为死而复生,苏醒,复活。今作苏”\n稣sū同\"苏",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-稣"
+}

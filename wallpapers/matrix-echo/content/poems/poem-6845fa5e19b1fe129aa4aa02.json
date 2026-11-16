@@ -1,0 +1,16 @@
+{
+  "id": "poem-6845fa5e19b1fe129aa4aa02",
+  "title": "僧院蔷薇",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "客引擎茶看，离披晒锦红。",
+    "不缘开净域，争忍负春风。",
+    "小片当吟落，清香入定空。",
+    "何人来此植，应固恼休公。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-5d1ebc13-f6cf-4907-bed4-e0a19a60731f"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-0959d910e106cf85457541ba",
+  "title": "送李侍御赴安西",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "行子对飞蓬，金鞭指铁骢。",
+    "功名万里外，心事一桮中。",
+    "虏障燕支北，秦城太白东。",
+    "离魂莫惆怅，看取宝刀雄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "送别",
+    "壮志",
+    "惜别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c46a848d-86bf-4e2e-9ffc-442759ddfa7a"
+}

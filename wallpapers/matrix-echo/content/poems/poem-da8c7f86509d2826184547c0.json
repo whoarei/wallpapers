@@ -1,0 +1,16 @@
+{
+  "id": "poem-da8c7f86509d2826184547c0",
+  "title": "题画鹰",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "高飞远走可人情，上蔡东青旧有名。",
+    "谁在华堂餍鼎俎，自甘平野掠柴荆。",
+    "心忧狐兔纷难尽，眼看豺狼恣不平。",
+    "莫倚丝绳金縼美，弓藏鸟尽汝须惊。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-7087ea18-f4f1-47e7-9db1-ff1ac5ad6ab3"
+}

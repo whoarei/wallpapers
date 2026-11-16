@@ -1,0 +1,18 @@
+{
+  "id": "poem-b6f4307c5dd9b9af428e62b7",
+  "title": "别朝祐",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "又与我友别，独与我子俱。",
+    "念彼归舟疾，眠食今何如。",
+    "愁怀不可遣，頼有床头书。",
+    "曲江江上人，摇舟来卖鱼。",
+    "亦有妻与子，一饱便有余。",
+    "我生不如子，多忧化其须。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-b60158ef-8256-447f-8c00-b7f0e2b27cd6"
+}

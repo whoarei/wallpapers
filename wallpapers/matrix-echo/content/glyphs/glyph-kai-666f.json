@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-666f",
+  "script": "kai",
+  "character": "景",
+  "reading": "jǐng；yǐng",
+  "description": "jǐng：(1)环境的风光～色。～致。～物。～观。～气（ａ．景色；ｂ．指经济繁荣现象，统指兴旺）。～深。\n(2)情况，状况～象。～况。年～。\n(3)佩服，敬慕～仰。～慕。\n(4)高，大～行（xíng）。\n(5)姓。\nyǐng：古同影”，影子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-景"
+}

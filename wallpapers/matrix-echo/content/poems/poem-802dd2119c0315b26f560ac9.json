@@ -1,0 +1,17 @@
+{
+  "id": "poem-802dd2119c0315b26f560ac9",
+  "title": "营州歌",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "营州少年厌原野，狐裘蒙茸猎城下。",
+    "虏酒千钟不醉人，胡儿十岁能骑马。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "生活",
+    "边塞"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d43a140a-9152-4bbf-8d94-7254f913f969"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-308031d8337626f147a38965",
+  "title": "答人",
+  "author": "太上隐者",
+  "dynasty": "唐",
+  "verses": [
+    "偶来松树下，高枕石头眠。",
+    "山中无历日，寒尽不知年。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-答人"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e93",
+  "script": "seal",
+  "character": "麓",
+  "reading": "lù",
+  "description": "lù：(1)山脚下山～。华山北～。\n(2)古代掌管苑囿的官吏。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-麓"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bbd",
+  "script": "seal",
+  "character": "讽",
+  "reading": "fěng",
+  "description": "婉言微辞或指责\n⒈用含蓄的话词劝告或讥刺谈笑～谏。～刺小品。挖苦讥～。\n⒉背书，不看着书本子念读～诵。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-讽"
+}

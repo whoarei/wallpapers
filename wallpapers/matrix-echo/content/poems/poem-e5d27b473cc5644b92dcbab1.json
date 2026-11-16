@@ -1,0 +1,16 @@
+{
+  "id": "poem-e5d27b473cc5644b92dcbab1",
+  "title": "和僧啸云双插法藏寺韵",
+  "author": "柴元彪",
+  "dynasty": "宋",
+  "verses": [
+    "我来扣角二峰前，此寺因知五百年。",
+    "草木尚涵唐雨露，钟鱼犹镇宋山川。",
+    "世情苍狗浮云外，客思孤鸿落日边。",
+    "闲拂旧题追往事，我须僧发两皤然。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-f2b8f96c-8ac0-444a-920d-50db8a3505f2"
+}

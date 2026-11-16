@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-84df",
+  "script": "seal",
+  "character": "蓟",
+  "reading": "jì",
+  "description": "古州名\n古县名\n蓟县。秦置。治所在今北京城西南\n县名。在天津市北部,邻接北京市和河北省。秦置无终县,隋改渔阳县,明入蓟州,1913年改为蓟县\n蓟jì多年生草本，春天发芽，茎叶有刺和白色软毛，花紫红色。分大蓟和小蓟。全草供药用。嫩茎叶可食或作饲料。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蓟"
+}

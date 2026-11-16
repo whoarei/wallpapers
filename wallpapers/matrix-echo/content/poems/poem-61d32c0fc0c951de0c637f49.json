@@ -1,0 +1,15 @@
+{
+  "id": "poem-61d32c0fc0c951de0c637f49",
+  "title": "三韵三篇 二",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "荡荡万斛船，影若扬白虹。",
+    "起樯必椎牛，挂席集众功。",
+    "自非风动天，莫置大水中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c2859274-fd6f-4c48-a4a5-53e1754b6aa2"
+}

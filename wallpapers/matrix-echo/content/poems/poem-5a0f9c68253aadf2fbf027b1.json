@@ -1,0 +1,24 @@
+{
+  "id": "poem-5a0f9c68253aadf2fbf027b1",
+  "title": "渡荆门送别",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "渡远荆门外，来从楚国游。",
+    "山随平野尽，江入大荒流。",
+    "月下飞天镜，云生结海楼。",
+    "仍连故乡水，万里送行舟。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "长江",
+    "送别",
+    "五言律诗",
+    "初中古诗",
+    "八年级上册(课内)",
+    "思乡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-bf8918b8-a05a-4ccf-bb2e-3f9b81f6bbfc"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62bc",
+  "script": "kai",
+  "character": "押",
+  "reading": "yā",
+  "description": "yā：(1)在文书、契约上签名或画记号画～。签～。\n(2)把财物交给人作保证～租。～金。～当（dàng）。典～。\n(3)拘留看（kān）～。拘～。～禁。\n(4)跟随看管～送。～运。\n(5)同压”，用于押宝”、押队”、押韵”。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-押"
+}

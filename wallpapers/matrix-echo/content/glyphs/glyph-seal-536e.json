@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-536e",
+  "script": "seal",
+  "character": "卮",
+  "reading": "zhī",
+  "description": "zhī：(1)古代盛酒的器皿～言（卮不灌酒就空仰着，灌满酒就倾斜，没有一成不变的常态，如同说话没有主见或定见◇常用为对自己著作的谦辞，如《诸子～～》）\n(2)古同栀”，栀子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卮"
+}

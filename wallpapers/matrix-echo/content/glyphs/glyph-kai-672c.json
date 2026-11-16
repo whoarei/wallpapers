@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-672c",
+  "script": "kai",
+  "character": "本",
+  "reading": "běn",
+  "description": "běn：(1)草木的根～草（泛指中药）。无～之木。\n(2)事物的根源，与末”相对～末（头尾；始终）。根～（根源；彻底；本质上）。\n(3)草的茎，树的干草～植物。\n(4)中心的，主要的～部。～体。\n(5)原来～来。～领。\n(6)自己这方面的～国。～身。～位。～分（fèn）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-本"
+}

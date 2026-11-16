@@ -1,0 +1,16 @@
+{
+  "id": "poem-140778d47d35e379d514a967",
+  "title": "江行即事八首  其八",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "一重一掩翠参差，路入桃源客意迷。",
+    "江雾晓分山远近，浦鸥闲送櫂东西。",
+    "颇欣岭表佳泉石，闻道江南多鼓鼙。",
+    "稚子候门应念我，提携来共此幽栖。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-706f3953-d526-441a-806d-8e5dc6daa130"
+}

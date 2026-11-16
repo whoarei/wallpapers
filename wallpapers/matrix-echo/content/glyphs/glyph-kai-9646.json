@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9646",
+  "script": "kai",
+  "character": "陆",
+  "reading": "lù；liu",
+  "description": "数目字六”的大写\n水陆并进。\n路;道\n⒈\"六\"的大写。\n⒈高出水面的土地～地。～路。登～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陆"
+}

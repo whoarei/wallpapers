@@ -1,0 +1,18 @@
+{
+  "id": "poem-c7c09e93f3c85f4c2cedbb7a",
+  "title": "临江仙·不见昭阳宫内柳",
+  "author": "许庭",
+  "dynasty": "宋",
+  "verses": [
+    "不见昭阳宫内柳，黄金齐拈轻柔。",
+    "东君昨夜到皇州。",
+    "玉阶金井，无处不风流。",
+    "怅望翠华春欲暮，六宫都锁春愁。",
+    "暖风吹动绣帘钩。",
+    "飞花委地，时转玉香球。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-549",
+  "tags": []
+}

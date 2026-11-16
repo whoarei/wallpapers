@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5eca",
+  "script": "seal",
+  "character": "廊",
+  "reading": "láng",
+  "description": "láng：(1)房屋前檐伸出的部分，可避风雨，遮太阳～子。前～后厦。\n(2)庑下，殿下外屋～庑（堂前廊屋）。\n(3)有顶的过道长～。走～。画～。游～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-廊"
+}

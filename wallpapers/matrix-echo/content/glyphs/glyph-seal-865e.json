@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-865e",
+  "script": "seal",
+  "character": "虞",
+  "reading": "yú",
+  "description": "yú：(1)预料不～。\n(2)忧虑无冻馁之～。\n(3)欺骗尔～我诈。\n(4)中国周代诸侯国名，在今山西省平陆县东北。\n(5)古同娱”，安乐。\n(6)古代掌管山泽的官～人（中国春秋战国时称）。\n(7)传说中的中国朝代名，舜所建。\n(8)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-虞"
+}

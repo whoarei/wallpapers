@@ -1,0 +1,16 @@
+{
+  "id": "poem-783f8199271040e8f4be8268",
+  "title": "登咸阳北寺楼",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "高秋原上寺，下马一登临。",
+    "渭水西来直，秦山南向深。",
+    "旧宫人不住，荒碣路难寻。",
+    "日暮凉风起，萧条多远心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-9cf0aafb-1902-4f56-8c86-1a92ee61158c"
+}

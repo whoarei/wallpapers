@@ -1,0 +1,14 @@
+{
+  "id": "poem-12a92a85b18f2382627785d1",
+  "title": "上冯使君五首 三",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "樵叟无忧苦，地仙亦何别。",
+    "茆屋岸花中，弄孙头似雪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-46d5cea9-c175-494c-bde5-ba17a6e19cae"
+}

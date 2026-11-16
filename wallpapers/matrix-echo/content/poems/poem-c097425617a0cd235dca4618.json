@@ -1,0 +1,16 @@
+{
+  "id": "poem-c097425617a0cd235dca4618",
+  "title": "水",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "火性何如水性柔，西来东出几时休。",
+    "莫言通海能通汉，虽解浮舟也覆舟。",
+    "湘浦暮沈尧女怨，汾河秋泛汉皇愁。",
+    "洪波激湍归何处，二月桃花满眼流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-0df790bb-c6f4-41f1-9215-3c3b08fe9702"
+}

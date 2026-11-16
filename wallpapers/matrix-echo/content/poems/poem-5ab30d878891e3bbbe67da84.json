@@ -1,0 +1,16 @@
+{
+  "id": "poem-5ab30d878891e3bbbe67da84",
+  "title": "使回留别襄阳李司空",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "江亭寒日晚，弦管有离声。",
+    "从此一筵别，独为千里行。",
+    "迟迟恋恩德，役役限公程。",
+    "回首吟新句，霜云满楚城。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-3bd50387-6d28-4394-921b-f30ee9ad37c9"
+}

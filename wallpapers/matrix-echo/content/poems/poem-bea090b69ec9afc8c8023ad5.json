@@ -1,0 +1,16 @@
+{
+  "id": "poem-bea090b69ec9afc8c8023ad5",
+  "title": "谢制帅高卿剡四首  其一",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "宰邑非良才，朴拙瞢信己。",
+    "曾无补毫发，粗不畏首尾。",
+    "倚公造物手，袭璧护玷毁。",
+    "世有百谪余，观旁首重稽。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-0cefc552-b615-4b6d-b02a-21344b0686ff"
+}

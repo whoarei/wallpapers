@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4eb2",
+  "script": "kai",
+  "character": "亲",
+  "reading": "qīn",
+  "description": "我有亲父母。\n亲密。与疏”相对\n王无亲\n⒈父母双～。养～。\n⒉血统最近或夫妻关系的～姐妹。～人。\n⒊婚姻～事。\n⒌有血统或婚姻关系的～戚。～朋。～表姑。\n⒍感情好，关系密切～密。～近。～如一家。\n⒎用嘴唇接触，表示喜爱～一～孩子。\n⒏本身，自己的～自。～身。～眼见到。～笔所写。事必躬～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-亲"
+}

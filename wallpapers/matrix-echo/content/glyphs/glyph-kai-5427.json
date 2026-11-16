@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5427",
+  "script": "kai",
+  "character": "吧",
+  "reading": "bā",
+  "description": "bā：象声词～的一声，笔尖断了。\nb：助词，用在句末，表示赞同，推测、命令、请求等语气；用在句中表示停顿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吧"
+}

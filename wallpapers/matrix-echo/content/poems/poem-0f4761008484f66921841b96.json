@@ -1,0 +1,14 @@
+{
+  "id": "poem-0f4761008484f66921841b96",
+  "title": "三代门 再吟",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "东邻不事事西邻，御物卑和物自亲。",
+    "天下言知天下者，兆人无主属贤人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9d76fbbb-4ab7-4fe5-a40b-a0c7850bd7df"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-303528317205618e3666f0e5",
+  "title": "十二咏 花坞",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "收拾群英赖化工，嫣然红紫自成丛。",
+    "四时不绝芳菲意，谁谓春归阆苑中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-a18a4c5e-0ace-4478-8b3d-15fc24c06f89"
+}

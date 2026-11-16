@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5f0a",
+  "script": "kai",
+  "character": "弊",
+  "reading": "bì",
+  "description": "bì：(1)欺蒙人的坏事作～。营私舞～。\n(2)害处，与利”相对～病。～端。～害。～政。利～。兴利除～。\n(3)败，疲困。\n(4)古同蔽”，隐蔽。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-弊"
+}

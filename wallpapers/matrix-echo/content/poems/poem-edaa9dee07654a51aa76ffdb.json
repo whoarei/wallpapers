@@ -1,0 +1,15 @@
+{
+  "id": "poem-edaa9dee07654a51aa76ffdb",
+  "title": "甘州子·红炉深夜醉调笙",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "红炉深夜醉调笙，敲拍处，玉纤轻。",
+    "小屏古画岸低平，烟月满闲庭。",
+    "山枕上，灯背脸波横。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-45"
+}

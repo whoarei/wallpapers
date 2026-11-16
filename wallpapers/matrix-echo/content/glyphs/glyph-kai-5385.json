@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5385",
+  "script": "kai",
+  "character": "厅",
+  "reading": "tīng",
+  "description": "官署中听事问案之处\n住宅中通往各房间的大或小空间\n有小厅。\n厅房一室。\n⒈聚会或宴会等用的大房间客～。餐～。会议～。\n⒉政府机关的办事单位或工作部门办公～。卫生～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-厅"
+}

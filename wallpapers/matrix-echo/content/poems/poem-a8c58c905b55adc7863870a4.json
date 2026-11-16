@@ -1,0 +1,16 @@
+{
+  "id": "poem-a8c58c905b55adc7863870a4",
+  "title": "王神童",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "夙慧虽无蔕，抽萌便不凡。",
+    "兰薰腾玉砌，侯国荐冰衔。",
+    "荷橐行须复，牙签尽疗馋。",
+    "一经千佛字，先把客儿搀。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-63439d69-ab7a-4c53-bd81-5b17af0cc138"
+}

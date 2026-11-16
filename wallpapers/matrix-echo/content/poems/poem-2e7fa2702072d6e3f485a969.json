@@ -1,0 +1,16 @@
+{
+  "id": "poem-2e7fa2702072d6e3f485a969",
+  "title": "刮地风",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(老旦)看他举止，与我孩儿也不甚争。",
+    "小娘子，厮跟去，你可心肯？(小旦)奴家不见了哥哥，望老娘带奴同行则个。",
+    "(老旦)事既如此，我就把你做女儿看承罢。",
+    "(小旦)情愿做小为婢身，焉敢指望做儿称？(老旦)若得干戈宁静，和你同往到神京。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2951",
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-4a58d0ebab0767ea520f7c0a",
+  "title": "木兰花・玉楼春·江云叠叠遮鸳浦",
+  "author": "苏庠",
+  "dynasty": "宋",
+  "verses": [
+    "江云叠叠遮鸳浦。",
+    "江水无情留薄暮。",
+    "归帆初张苇边风，客梦不禁篷背雨。",
+    "渚花不解留人住。",
+    "只作深愁无尽处。",
+    "白沙烟树有无中，雁落沧洲何处所。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-695",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-bec5884605e5c87dc3049e29",
+  "title": "诗寄赠四明宝云通法师（二首） 一",
+  "author": "钱俶",
+  "dynasty": "唐",
+  "verses": [
+    "海角复天涯，形分道不赊。",
+    "灯清读圜觉，香煖顶袈裟。",
+    "戒比珠无类（疑当作「颣」），心犹镜断瑕。",
+    "平生赖慈眼，南望一咨嗟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-def76611-0863-48cb-ae5e-ec01e455e0ab"
+}

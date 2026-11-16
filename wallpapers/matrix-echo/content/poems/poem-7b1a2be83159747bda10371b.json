@@ -1,0 +1,16 @@
+{
+  "id": "poem-7b1a2be83159747bda10371b",
+  "title": "醉公子·岸柳垂金线",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "岸柳垂金线，雨晴莺石啭。",
+    "家在绿杨边，往来多少年。",
+    "马嘶芳草远，高楼帘半卷。",
+    "敛袖翠蛾攒，相逢尔许难。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-35"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-fe76c30a5ca0d50d92fae079",
+  "title": "别双温树",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "翠条盈尺怜孤秀，植向西窗待月轩。",
+    "轻剪绿丝秋叶暗，密扶纤干夏阴繁。",
+    "故山手种空怀想，温室心知不敢言。",
+    "看尔拂云今得地，莫随陵谷改深根。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e3d09c65-b21d-4b38-bb61-7a5a13a75bab"
+}

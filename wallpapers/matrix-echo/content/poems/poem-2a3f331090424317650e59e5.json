@@ -1,0 +1,16 @@
+{
+  "id": "poem-2a3f331090424317650e59e5",
+  "title": "横吹曲辞 入塞曲 一",
+  "author": "沈彬",
+  "dynasty": "唐",
+  "verses": [
+    "欲为皇王服远戎，万人金甲鼓鼙中。",
+    "阵云暗塞三边黑，兵血愁天一片红。",
+    "半夜飜营旗搅月，深秋防戍劒磨风。",
+    "谤书未及明君𦶟，卧骨将军已殁功。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6281fbf0-c461-4efe-ac5d-26e86d33fc49"
+}

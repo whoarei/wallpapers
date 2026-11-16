@@ -1,0 +1,18 @@
+{
+  "id": "poem-884316b9d73f3ceb59708c7f",
+  "title": "送少隠兄赴兴元幕  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "出手宁嫌晚，论心本不欺。",
+    "五年江左客，万里故园思。",
+    "肯枉洞庭棹，来寻棠棣诗。",
+    "固知名义重，岂但慰朝饥。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-2c955e18-ea97-4eb4-b9ad-2106a2eedcd6"
+}

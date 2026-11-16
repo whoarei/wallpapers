@@ -1,0 +1,17 @@
+{
+  "id": "poem-599826a804e46211f2f5a47b",
+  "title": "牧童词",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "远牧牛，遶村四面禾黍稠。",
+    "陂中饥乌啄牛背，令我不得戏垅头。",
+    "入陂草多牛散行，白犊时向芦中鸣。",
+    "隔堤吹叶应同伴，还鼓长鞭三四声。",
+    "牛牛食草莫相触，官家截尔头上角。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0a89bd17-bf77-4229-aed9-1418f67081e4"
+}

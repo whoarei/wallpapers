@@ -1,0 +1,14 @@
+{
+  "id": "poem-1764b30ecf48270deef3802c",
+  "title": "落花",
+  "author": "释赞宁",
+  "dynasty": "宋",
+  "verses": [
+    "蝶醉蜂狂香正浓，晚来阶下坠衰红。",
+    "开时费尽阳和力，落处难禁一阵风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-596fa2db-15ca-47e3-9ec2-2e22ba32726c"
+}

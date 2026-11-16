@@ -1,0 +1,14 @@
+{
+  "id": "poem-a5631d0d6bd5a31a07bf795f",
+  "title": "寒食日题杜鹃花",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "一朵又一朵，并开寒食时。",
+    "谁家不禁火，总在此花枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8c993f97-ee32-4756-8db7-df0514aa7c5d"
+}

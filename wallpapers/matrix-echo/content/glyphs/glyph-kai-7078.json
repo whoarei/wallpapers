@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7078",
+  "script": "kai",
+  "character": "灸",
+  "reading": "jiǔ",
+  "description": "jiǔ：烧，中医的一种医疗方法。用艾叶等制成艾炷或艾卷，烧灼或熏烤人身的穴位针～（针刺与艾灸的合称）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-灸"
+}

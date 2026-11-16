@@ -1,0 +1,14 @@
+{
+  "id": "poem-c9839ffe6b442f2cc31969df",
+  "title": "小游仙诗九十八首 六十五",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "水满桑田白日沈，冻云干霰湿重阴。",
+    "辽东归客闲相过，因话尧年雪更深。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-4fdecc70-5ff0-42ca-a338-b734e13a8829"
+}

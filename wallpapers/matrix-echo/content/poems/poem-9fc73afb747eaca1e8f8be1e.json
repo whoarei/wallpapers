@@ -1,0 +1,16 @@
+{
+  "id": "poem-9fc73afb747eaca1e8f8be1e",
+  "title": "姜楚公画角鹰歌",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "楚公画鹰鹰戴角，杀气森森到幽朔。",
+    "观者贪愁掣臂飞，画师不是无心学。",
+    "此鹰写真在左緜，却嗟真骨遂虚传。",
+    "梁间燕雀休惊怕，亦未抟空上九天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-db1915e5-10c1-40bd-89b7-ea85299fd569"
+}

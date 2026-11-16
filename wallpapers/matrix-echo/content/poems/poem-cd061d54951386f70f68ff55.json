@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd061d54951386f70f68ff55",
+  "title": "虞美人·鸳鸯对浴银塘暖",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "鸳鸯对浴银塘暖，水面蒲稍短。",
+    "垂杨低拂曲尘波，蛛丝结网露珠多，滴圆荷。",
+    "遥思桃叶吴江碧，便是天河隔。",
+    "锦鳞红鬣影沉沉，相思空有梦相寻，意难任。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-4"
+}

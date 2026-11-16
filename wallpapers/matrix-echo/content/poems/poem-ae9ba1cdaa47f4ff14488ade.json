@@ -1,0 +1,18 @@
+{
+  "id": "poem-ae9ba1cdaa47f4ff14488ade",
+  "title": "导引·重华天子",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "重华天子，长至奉神虞。",
+    "九奏会轩朱。",
+    "星晖云润东方晓，拜贶竹宫初。",
+    "归来千乘护皇舆。",
+    "瑞景集金铺。",
+    "鸡竿高唱恩书下，惠露匝中区。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-777",
+  "tags": []
+}

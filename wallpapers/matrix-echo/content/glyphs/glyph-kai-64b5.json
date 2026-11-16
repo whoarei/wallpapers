@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-64b5",
+  "script": "kai",
+  "character": "撵",
+  "reading": "niǎn",
+  "description": "c出\n因不付租金被撵出\n好像要把她撵出屋子似的\n如果你不能自爱,我就要把\n⒈驱逐，赶走～出去。～走他。\n⒉追赶快，～上。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撵"
+}

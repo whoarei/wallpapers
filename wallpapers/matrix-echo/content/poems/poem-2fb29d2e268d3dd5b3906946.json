@@ -1,0 +1,16 @@
+{
+  "id": "poem-2fb29d2e268d3dd5b3906946",
+  "title": "开先寺观瀑布",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "度挟扪青玉，临深坐绿苔。",
+    "水从双剑下，山挟两龙来。",
+    "春暖花惊雪，林空石迸雷。",
+    "尘缨聊此濯，欲去首重回。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-d4c49cef-c9f2-4b1f-9b24-5b905b41f110"
+}

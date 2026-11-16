@@ -1,0 +1,14 @@
+{
+  "id": "poem-dbe927e862e94a7b3c12bf74",
+  "title": "临江仙",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(老旦上)客梦悠悠鸡唤醒，窗前尚有残灯。",
+    "(生、末上)揽衣披枕自评论，今日飘零，何日安宁？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8257",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-59dc",
+  "script": "kai",
+  "character": "姜",
+  "reading": "jiāng",
+  "description": "jiāng：(1)多年生草本植物，地下茎黄色，味辣，可供调味用，亦可入药生～。～汤。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-姜"
+}

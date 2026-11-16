@@ -1,0 +1,18 @@
+{
+  "id": "poem-f0342b8ee16783a08e0277fa",
+  "title": "送潘述宏词下第归江外",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "唱高人不和，此去泪难收。",
+    "上国经年住，长江满目流。",
+    "弈棋知胜偶，射策请焚舟。",
+    "应是田囗囗，玄成许尔游。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-c427bc24-14a9-4fdb-8801-ead203ab9fa2"
+}

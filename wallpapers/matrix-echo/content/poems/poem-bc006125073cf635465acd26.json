@@ -1,0 +1,14 @@
+{
+  "id": "poem-bc006125073cf635465acd26",
+  "title": "狼跋",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "狼跋其胡，载疐其尾。公孙硕肤，赤舄几几。",
+    "狼疐其尾，载跋其胡。公孙硕肤，德音不瑕？"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-159"
+}

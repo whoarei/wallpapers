@@ -1,0 +1,20 @@
+{
+  "id": "poem-343af3b7e17817eee06ba6bd",
+  "title": "蹋莎行・踏莎行·润玉笼绡",
+  "author": "吴文英",
+  "dynasty": "宋",
+  "verses": [
+    "润玉笼绡，檀樱倚扇。",
+    "绣圈犹带脂香浅。",
+    "榴心空叠舞裙红，艾枝应压愁鬟乱。",
+    "午梦千山，窗阴一箭。",
+    "香瘢新褪红丝腕。",
+    "隔江人在雨声中，晚风菰叶生秋怨。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-83"
+}

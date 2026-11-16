@@ -1,0 +1,16 @@
+{
+  "id": "poem-b1bfe19b1b5e4ebb45518182",
+  "title": "更漏子·春夜阑",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "春夜阑，更漏促，金烬暗挑残烛。",
+    "惊梦断，锦屏深，两乡明月心。",
+    "闺草碧，望归客，还是不知消息。",
+    "辜负我，悔怜君，靠天天不闻。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-11"
+}

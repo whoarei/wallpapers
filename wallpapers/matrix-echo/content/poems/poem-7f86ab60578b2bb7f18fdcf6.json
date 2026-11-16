@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f86ab60578b2bb7f18fdcf6",
+  "title": "赋得李",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "玉衡流桂圃，成蹊正可寻。",
+    "鸎啼密叶外，蝶戏脆花心。",
+    "丽景光朝彩，轻霞散夕阴。",
+    "暂顾晖章侧，还眺灵山林。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-7cc40e68-b5bb-4af8-9a5b-5b6118881e86"
+}

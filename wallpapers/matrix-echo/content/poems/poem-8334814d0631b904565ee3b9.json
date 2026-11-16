@@ -1,0 +1,16 @@
+{
+  "id": "poem-8334814d0631b904565ee3b9",
+  "title": "喜迁莺·人汹汹",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "人汹汹，鼓冬冬，襟袖五更风。",
+    "大罗天上月朦胧，骑马上虚空。",
+    "香满衣，云满路，鸾凤绕身飞舞。",
+    "霓旌绛节一群群，引见玉华君。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-12"
+}

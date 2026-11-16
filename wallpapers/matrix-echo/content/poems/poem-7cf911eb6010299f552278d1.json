@@ -1,0 +1,16 @@
+{
+  "id": "poem-7cf911eb6010299f552278d1",
+  "title": "客至",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "得路逢津更俊才，可怜鞍马照春来。",
+    "残花几日小斋闭，大笑一声幽抱开。",
+    "袖拂碧溪寒缭绕，冠欹红树晚裴回。",
+    "相逢少别更堪恨，何必秋风江上台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-adb27b34-0f01-48b7-a406-4b743715970a"
+}

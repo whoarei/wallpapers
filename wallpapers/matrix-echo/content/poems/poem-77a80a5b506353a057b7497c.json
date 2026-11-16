@@ -1,0 +1,16 @@
+{
+  "id": "poem-77a80a5b506353a057b7497c",
+  "title": "送裴五归京口",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "君罢江西日，家贫为一官。",
+    "还归五陵去，只向远峰看。",
+    "暮色催人别，秋风待雨寒。",
+    "遥知到三径，唯有菊花残。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-5fc627fa-6569-4d61-9498-2b3b770ae02c"
+}

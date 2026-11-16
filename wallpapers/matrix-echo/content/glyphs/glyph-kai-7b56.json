@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7b56",
+  "script": "kai",
+  "character": "策",
+  "reading": "cè",
+  "description": "cè：(1)古代的一种马鞭子，头上有尖刺。\n(2)鞭打～马。鞭～。\n(3)激励，促进～动。～勉。\n(4)古代称连编好的竹简简～。\n(5)古代帝王对臣下封土、授爵或免官～命。～免。～封。\n(6)古代科举考试的一种文体～论。～问。\n(7)杖～杖。\n(8)中国数学上曾经用过的一种计算工具，形状与筹”相似。\n(9)计谋，主意，办法上～。献～。决～。政～。～划。束手无～。\n(10)书法用字名称，指仰横。\n(11)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-策"
+}

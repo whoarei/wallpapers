@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6d53",
+  "script": "seal",
+  "character": "浓",
+  "reading": "nóng",
+  "description": "稠密;厚;多\n特指液体或气体中所含某种成分多。与淡”、薄”相对\n⒈含某种成分多，跟\"淡\"相对～茶。～墨。\n⒉深厚，不淡薄～厚。～眉。兴趣很～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-浓"
+}

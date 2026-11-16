@@ -1,0 +1,21 @@
+{
+  "id": "poem-1e95f16fbf7ec34ebc03e8c2",
+  "title": "云阳馆与韩绅宿别",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "故人江海别，几度隔山川。",
+    "乍见翻疑梦，相悲各问年。",
+    "孤灯寒照雨，湿竹暗浮烟。",
+    "更有明朝恨，离杯惜共传。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "友情",
+    "五言律诗",
+    "惜别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-3138fe30-6cf6-45b0-a441-2d5398107a9a"
+}

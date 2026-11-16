@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5df3",
+  "script": "kai",
+  "character": "巳",
+  "reading": "sì",
+  "description": "sì：(1)地支的第六位，属蛇。\n(2)用于计时～时（上午九点至十一点）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-巳"
+}

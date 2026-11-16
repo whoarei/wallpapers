@@ -1,0 +1,16 @@
+{
+  "id": "poem-2b0be3b35c294c2bff05ee0e",
+  "title": "送玄同真人李抱朴谒灊山仙祠",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "城阙天中近，蓬瀛海上遥。",
+    "归期千载鹤，春至一来朝。",
+    "采药逢三秀，餐霞卧九霄。",
+    "参同如有旨，金鼎待君烧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-3175be79-7852-4d21-ae00-6e99046947d5"
+}

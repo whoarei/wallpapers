@@ -1,0 +1,17 @@
+{
+  "id": "poem-1aa2808d254b299685fa9598",
+  "title": "长歌行",
+  "author": "李泌",
+  "dynasty": "唐",
+  "verses": [
+    "天覆吾，地载吾，天地生吾有意无。",
+    "不然绝粒升天衢，不然鸣珂游帝都。",
+    "焉能不贵复不去，空作昂藏一丈夫。",
+    "一丈夫兮一丈夫，千生气志是良图。",
+    "请君看取百年事，业就扁舟泛五湖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a85c8e21-b706-4511-aaa4-39447568a11b"
+}

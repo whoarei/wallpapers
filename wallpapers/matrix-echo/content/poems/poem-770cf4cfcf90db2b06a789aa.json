@@ -1,0 +1,22 @@
+{
+  "id": "poem-770cf4cfcf90db2b06a789aa",
+  "title": "折杨柳",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "东城攀柳叶，柳叶低着草。",
+    "少壮莫轻年，轻年有衰老。",
+    "柳发遍川冈，登高堪断肠。",
+    "雨烟轻漠漠，何树近君乡。",
+    "赠君折杨柳，颜色岂能久。",
+    "上客莫沾巾，佳人正回首。",
+    "新柳送君行，古柳伤君情。",
+    "突兀临荒渡，婆娑出旧营。",
+    "隋家两岸尽，陶宅五株荣。",
+    "日暮偏愁望，春山有鸟声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-61194804-f2d2-41bc-a43e-a774f80f26dd"
+}

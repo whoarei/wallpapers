@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62df",
+  "script": "kai",
+  "character": "拟",
+  "reading": "nǐ",
+  "description": "类似;比拟\n⒈准备，打算～办。～往广州。\n⒉起草，初步设想～稿。～订。草～计划。\n⒊模仿，仿照模～。～制。\n⒋比，比划，用兵器作杀人的样子比～。举剑～之。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拟"
+}

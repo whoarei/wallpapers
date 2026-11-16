@@ -1,0 +1,15 @@
+{
+  "id": "poem-b7181d6063bdceb155ba7546",
+  "title": "题画",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "云巢草虫十有七，我言蜂蚁非虫匹。",
+    "我见二虫常敬之，为有君臣天所秩。",
+    "江南此虫久已无，烦君翦取赠老夫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-2591a5f0-6e6e-4d5d-9369-0589e9819c57"
+}

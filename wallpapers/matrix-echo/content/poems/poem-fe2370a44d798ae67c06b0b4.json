@@ -1,0 +1,14 @@
+{
+  "id": "poem-fe2370a44d798ae67c06b0b4",
+  "title": "玩花五首 五",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "花到蔷薇明艳绝，燕支颗破麦风秋。",
+    "一番弄色一番退，小妇轻妆大妇愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-566a30d5-2bb2-4cc4-95c0-babac12c7f99"
+}

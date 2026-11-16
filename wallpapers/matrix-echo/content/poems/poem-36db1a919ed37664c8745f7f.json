@@ -1,0 +1,18 @@
+{
+  "id": "poem-36db1a919ed37664c8745f7f",
+  "title": "宴左山二首  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "闰冬节物晏，十月犹素秋。",
+    "招提阳冈路，宛在岘山头。",
+    "史君有高致，尊酒擅一丘。",
+    "欢颜动长啸，松菊含春柔。",
+    "风清宿雾断，地迥行潦收。",
+    "时令将凛落，飞光为谁留。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-b7ca0763-70a8-4e00-b5e9-a656ed82216c"
+}

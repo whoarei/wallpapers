@@ -1,0 +1,16 @@
+{
+  "id": "poem-5a9b61726aaf627122d36f1c",
+  "title": "和裴司空以诗请刑部白侍郎双鹤",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "皎皎仙家鹤，远留闲宅中。",
+    "徘徊幽树月，嘹唳小亭风。",
+    "丞相西园好，池塘野水通。",
+    "欲将来放此，赏望与宾同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-d8d8cce8-9094-4f66-b7ac-dc0079ecaf02"
+}

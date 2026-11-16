@@ -1,0 +1,17 @@
+{
+  "id": "poem-7d4c0da03e1fe82f0d0a495c",
+  "title": "郊庙歌辞 释奠武成王乐章 迎神",
+  "author": "于邵",
+  "dynasty": "唐",
+  "verses": [
+    "卜畋不从，兆发非熊。",
+    "乃倾荒政，爰佐一戎。",
+    "盛烈载垂，命祀惟崇。",
+    "日练上戊，宿严閟宫。",
+    "迎奏嘉至，感而遂通。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-07dfbf80-7b02-4ce1-8bf5-db426350aeed"
+}

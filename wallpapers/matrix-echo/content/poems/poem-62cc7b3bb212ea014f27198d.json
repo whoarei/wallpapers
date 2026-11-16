@@ -1,0 +1,14 @@
+{
+  "id": "poem-62cc7b3bb212ea014f27198d",
+  "title": "洛阳道",
+  "author": "储光羲",
+  "dynasty": "唐",
+  "verses": [
+    "大道直如发，春来佳气多。",
+    "五陵贵公子，双双呜玉珂。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-洛陽道"
+}

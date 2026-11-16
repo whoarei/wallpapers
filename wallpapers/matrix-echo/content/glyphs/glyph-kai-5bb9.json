@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5bb9",
+  "script": "kai",
+  "character": "容",
+  "reading": "róng",
+  "description": "róng：(1)包含，盛（chéng）～器。～量（liàng）。～积。～纳。无地自～。\n(2)对人度量大～忍。宽～。\n(3)让，允许～让。不～人说话。\n(4)相貌，仪表，景象，状态～止。～颜。～光。～貌。仪～。军～。市～。阵～。姿～。\n(5)或许，也许～或。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-容"
+}

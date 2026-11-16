@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7248",
+  "script": "seal",
+  "character": "版",
+  "reading": "bǎn",
+  "description": "bǎn：(1)上面有文字或图形的用木板或金属等制成供印刷用的东西木～书。活字～。底～。修～。\n(2)印刷物排印一次（可多次印刷）及有关的事物排～。再～。～本。出～。～权。\n(3)报纸的一面头～头条重大新闻。\n(4)打土墙用的夹板～筑（筑土墙）。\n(5)户籍～图（原指户籍和地图，现泛指国家疆域，如我国～～辽阔”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-版"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-f47b803c8a40de50bc248c80",
+  "title": "玉楼春·别后不知君远近",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "别后不知君远近。",
+    "触目凄凉多少闷。",
+    "渐行渐远渐无书，水阔鱼沈何处问。",
+    "夜深风竹敲秋韵。",
+    "万叶千声皆是恨。",
+    "故欹单枕梦中寻，梦又不成灯又尽。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-175"
+}

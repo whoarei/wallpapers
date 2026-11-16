@@ -1,0 +1,15 @@
+{
+  "id": "poem-30e9721cf9fc2b660d46df29",
+  "title": "汉广",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "南有乔木，不可休息。汉有游女，不可求思。汉之广矣，不可泳思。江之永矣，不可方思。",
+    "翘翘错薪，言刈其楚。之子于归，言秣其马。汉之广矣，不可泳思。江之永矣，不可方思。",
+    "翘翘错薪，言刈其蒌。之子于归。言秣其驹。汉之广矣，不可泳思。江之永矣，不可方思。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-8"
+}

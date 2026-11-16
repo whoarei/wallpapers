@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6487",
+  "script": "kai",
+  "character": "撇",
+  "reading": "piě；piē",
+  "description": "piē：(1)丢开，抛弃～开。～弃。\n(2)由液体表面舀染粥时把沫儿～掉。\npiě：(1)平着向前扔～手榴弹。\n(2)汉字笔形之一，由上向左而斜下。\n(3)像汉字的撇形的～嘴。两～黑眉。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撇"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-773b062c255654ef50bfa3aa",
+  "title": "江南归附后不仕述怀",
+  "author": "艾可叔",
+  "dynasty": "宋",
+  "verses": [
+    "舟在中流进退难，发虽种种此心丹。",
+    "死为元亮终书晋，生是留侯本事韩。",
+    "贫贱不忧知有道，乱离最幸是无官。",
+    "岁寒谁似东篱菊，禁得投簪日日看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-c061bfdb-ba66-455b-8585-ac56954735e0"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5408",
+  "script": "kai",
+  "character": "合",
+  "reading": "hé；gě",
+  "description": "hé：(1)闭，对拢～眼。～抱。珠连璧～。貌～神离。\n(2)聚集～力。～办。～股。～资。\n(3)不违背，一事物与另一事物相应或相符～格。～法。情投意～。\n(4)应该～该。～当。文章～为时而著，诗歌～为时而作”。\n(5)总共，全～家欢乐。\n(6)计，折算～多少钱。\n(7)中国古代乐谱的记音符号，相当于简谱5”。\n开；分；张；拆；离；\ngě：(1)中国市制容量单位，一升的十分之一。\n(2)旧时量粮食的器具，容量为一合，木或竹制，方形或圆筒形。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-合"
+}

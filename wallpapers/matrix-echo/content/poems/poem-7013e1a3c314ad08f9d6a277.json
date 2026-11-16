@@ -1,0 +1,14 @@
+{
+  "id": "poem-7013e1a3c314ad08f9d6a277",
+  "title": "落第归乡留别长安主人",
+  "author": "豆卢复",
+  "dynasty": "唐",
+  "verses": [
+    "客里愁多不记春，闻莺始叹柳条新。",
+    "年年下第东归去，羞见长安旧主人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-215caa5f-74fc-4e81-af61-b8ba6c9a9ff0"
+}

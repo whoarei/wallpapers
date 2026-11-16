@@ -1,0 +1,14 @@
+{
+  "id": "poem-af4449f812910c89a080e7ec",
+  "title": "独坐看海棠二绝  其二",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "沈香亭下太真妃，一笑嫣然国已危。",
+    "当日杜陵深有恨，何心更作海棠诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-2eceb8ae-a0be-4217-a1c9-ac516d24a412"
+}

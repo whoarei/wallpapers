@@ -1,0 +1,16 @@
+{
+  "id": "poem-e2f22b6eb0ebab1e94a509fc",
+  "title": "邯郸驿楼作",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "芜没丛台久，清漳废御沟。",
+    "蝉鸣河外树，人在驿西楼。",
+    "云烧天中赤，山当日落秋。",
+    "近郊经战后，处处骨成丘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-d9202065-0811-4720-87a3-d288cde39cbb"
+}

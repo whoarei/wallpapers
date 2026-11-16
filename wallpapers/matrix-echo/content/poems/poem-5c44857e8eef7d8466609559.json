@@ -1,0 +1,16 @@
+{
+  "id": "poem-5c44857e8eef7d8466609559",
+  "title": "绣带儿",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "亲年老光阴有儿？行孝正是今日。",
+    "终不然为着一领蓝袍，却落后了戏彩斑衣。",
+    "思之，此行荣贵虽可拟，怕亲老等不得荣贵。",
+    "(外唱)春闱里纷纷大儒，难道是没爹娘的孩儿方去？(末唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4934",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c57",
+  "script": "seal",
+  "character": "汗",
+  "reading": "hàn；hán",
+  "description": "hàn：(1)由身体的毛孔排泄出来的液体～水。～流浃背。\n(2)出汗，使出汗～颜（因羞惭而出汗；泛指惭愧）。～马功劳。～牛充栋。\nhán：〔可（kè）～〕见可2”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-汗"
+}

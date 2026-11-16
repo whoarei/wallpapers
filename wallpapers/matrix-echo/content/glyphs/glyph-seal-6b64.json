@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b64",
+  "script": "seal",
+  "character": "此",
+  "reading": "cǐ",
+  "description": "cǐ：(1)这，这个，与彼”相对～间。～后。～生。长～以往（老是这样下去）。从～。因～。\n(2)这里，这儿到～为止。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-此"
+}

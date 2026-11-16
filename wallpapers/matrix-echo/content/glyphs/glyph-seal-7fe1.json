@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7fe1",
+  "script": "seal",
+  "character": "翡",
+  "reading": "fěi",
+  "description": "fěi：古书上指一种有红毛的鸟。\n〔～翠〕a.鸟的一属，有蓝、绿色羽毛，生活在水边，羽毛可做装饰品；b.矿物，绿色、蓝绿色或白色中带绿色斑纹，半透明，有光泽，可做装饰品，亦称硬玉”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-翡"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-4661bc6a96ccc662b2123e9f",
+  "title": "五言戏赠吕神童行",
+  "author": "严焕",
+  "dynasty": "宋",
+  "verses": [
+    "自我诹人物，天涯实眇然。",
+    "晚观童子意，早拍病夫肩。",
+    "凛凛神锋异，琅琅腹笥传。",
+    "晴温武林道，光怪吕家船。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-429afb36-2c18-4f88-b106-ce7d81dc754f"
+}

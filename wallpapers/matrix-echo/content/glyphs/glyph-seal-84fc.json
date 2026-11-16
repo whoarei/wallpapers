@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-84fc",
+  "script": "seal",
+  "character": "蓼",
+  "reading": "liǎo；lù",
+  "description": "liǎo：一年生草本植物，叶披针形，花小，白色或浅红色，果实卵形、扁平，生长在水边或水中。茎叶味辛辣，可用以调味。全草入药。亦称水蓼”。\nlù：形容植物高大。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蓼"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-7128e41e5d8aeb35089a3e58",
+  "title": "柳摇金",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)春光明媚，游人似蚁，金勒马频嘶。",
+    "万紫争妍丽，粉蝶儿成对飞。",
+    "忽听得卖花声过，忽听得卖花声过。",
+    "转过画桥西，欲卖几朵花来妆个花篮花轿儿。",
+    "(合)朝欢暮乐，效学于飞，效学于飞和你永谐连理。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8968",
+  "tags": []
+}

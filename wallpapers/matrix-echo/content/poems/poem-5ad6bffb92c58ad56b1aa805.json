@@ -1,0 +1,14 @@
+{
+  "id": "poem-5ad6bffb92c58ad56b1aa805",
+  "title": "偈七首  其五",
+  "author": "释法泉",
+  "dynasty": "宋",
+  "verses": [
+    "文殊笑，普贤嗔，眼里无筋一世贫。",
+    "相逢尽道休官去，林下何曾见一人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-86370e4f-6861-45dd-afea-92aa18f188ab"
+}

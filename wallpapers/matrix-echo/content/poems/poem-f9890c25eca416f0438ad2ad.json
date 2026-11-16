@@ -1,0 +1,17 @@
+{
+  "id": "poem-f9890c25eca416f0438ad2ad",
+  "title": "送淡公 十一",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "牵师袈裟别，师断袈裟归。",
+    "问师何苦去，感吃言语稀。",
+    "意恐被诗饿，欲住将底依。",
+    "卢殷刘言史，饿死君已噫。",
+    "不忍见别君，哭君他是非。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a5da13b9-e54d-4b4f-a1e7-cb1723cd2edf"
+}

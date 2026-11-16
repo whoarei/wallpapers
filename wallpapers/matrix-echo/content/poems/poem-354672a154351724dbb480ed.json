@@ -1,0 +1,16 @@
+{
+  "id": "poem-354672a154351724dbb480ed",
+  "title": "和都城春雪",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "六花飞压九街尘，应讶人间未觉春。",
+    "天上楼台银作屋，云中车辂玉为轮。",
+    "三秋狼戾盈仓兆，万国欢呼击壤辰。",
+    "寂寞袁门烟火冷，未知谁是扣关人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-d1c6600e-7469-4855-b53d-91221be560bf"
+}

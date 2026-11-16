@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5b7d",
+  "script": "kai",
+  "character": "孽",
+  "reading": "niè",
+  "description": "niè：(1)恶因，恶事，邪恶～臣（奸佞之臣）。～种（zhǒng）。～根。～海。～障（ａ．长辈骂后辈为不肖子弟的话；ｂ．佛教指妨碍修行的种种罪恶。均亦称业障”）。作～（做伤天害理的事）。罪～（罪恶）。造～。\n(2)奴隶社会、封建社会多妻制下指妾及其子女～妾。～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-孽"
+}

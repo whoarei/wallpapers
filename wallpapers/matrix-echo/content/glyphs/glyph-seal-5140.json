@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5140",
+  "script": "seal",
+  "character": "兀",
+  "reading": "wū；wù",
+  "description": "wù：(1)高而上平，形容秃山，泛指秃～鹫。蜀山～，阿房出。”\n(2)高高地突起～然（a.高高突起的样子；b.突然；c.昏沉无知的样子）。突～。\n(3)中国元曲中用作发语词～那。～的（dì）（a.这，这个；b.怎么，怎的；c.突然）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-兀"
+}

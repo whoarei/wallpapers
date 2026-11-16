@@ -1,0 +1,14 @@
+{
+  "id": "poem-594c22bf3d7c460858e43324",
+  "title": "天柱庵",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "石壁参天驻冷云，一声幽鸟忽惊人。",
+    "庵前庵后山如旧，朽柏年来不再春。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-e7a94f0b-f265-4a06-b823-451dbbe3441a"
+}

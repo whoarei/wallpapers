@@ -1,0 +1,14 @@
+{
+  "id": "poem-f71d278b099189aa2abd0380",
+  "title": "题净名院二绝  其二",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "谷中有月露蛾眉，水织珠帘更绝奇。",
+    "满目峰峦观未尽，有僧携纸觅题诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-c2cd533c-c6b7-40c2-8fd5-1b24dd3a68dd"
+}

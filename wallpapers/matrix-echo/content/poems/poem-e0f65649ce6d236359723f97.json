@@ -1,0 +1,16 @@
+{
+  "id": "poem-e0f65649ce6d236359723f97",
+  "title": "相和歌辞 长信怨 二",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "verses": [
+    "奉帚平明金殿开，暂将团扇共裴回。",
+    "玉颜不及寒鵶色，犹带昭阳日影来。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-1b6f2389-2d09-4d51-982a-e7efb35113c5"
+}

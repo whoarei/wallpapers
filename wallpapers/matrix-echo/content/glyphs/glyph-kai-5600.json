@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5600",
+  "script": "kai",
+  "character": "嘀",
+  "reading": "dī；dí",
+  "description": "dí：〔～咕〕a.小声说话；b.犹疑不定（咕”均读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嘀"
+}

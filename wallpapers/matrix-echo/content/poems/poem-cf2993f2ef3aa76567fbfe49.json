@@ -1,0 +1,21 @@
+{
+  "id": "poem-cf2993f2ef3aa76567fbfe49",
+  "title": "满庭芳·闽岭先春",
+  "author": "陈师道",
+  "dynasty": "宋",
+  "verses": [
+    "闽岭先春，琅函联璧，帝所分落人间。",
+    "绮窗纤手，一缕破双团。",
+    "云里游龙舞凤，香雾起、飞月轮边。",
+    "华堂静，松风竹雪，金鼎沸湲潺。",
+    "门阑。",
+    "车马动，扶黄籍白，小袖高鬟。",
+    "渐胸里轮囷，肺腑生寒。",
+    "唤起谪仙醉倒，翻湖海、倾泻涛澜。",
+    "笙歌散，风帘月幕，禅榻鬓丝斑。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-307",
+  "tags": []
+}

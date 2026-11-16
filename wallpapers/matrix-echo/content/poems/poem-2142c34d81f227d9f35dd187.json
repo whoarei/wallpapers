@@ -1,0 +1,15 @@
+{
+  "id": "poem-2142c34d81f227d9f35dd187",
+  "title": "如梦令·如梦",
+  "author": "叶祖义",
+  "dynasty": "宋",
+  "verses": [
+    "如梦。",
+    "如梦。",
+    "和尚出门相送。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-611",
+  "tags": []
+}

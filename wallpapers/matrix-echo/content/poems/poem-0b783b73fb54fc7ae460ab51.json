@@ -1,0 +1,18 @@
+{
+  "id": "poem-0b783b73fb54fc7ae460ab51",
+  "title": "贺雨拜表",
+  "author": "林之奇",
+  "dynasty": "宋",
+  "verses": [
+    "群云雨事毕，振旅不复阵。",
+    "扫天无一尘，千里还绿润。",
+    "晨朝大明贺，沙路万蹄印。",
+    "朝元泛翠瓦，佳气去人近。",
+    "颇闻避斧扆，侑膳彻龙笋。",
+    "愿君爱物心，从此至尧舜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-c0d91c2b-8410-40cb-8abd-0994a4afa203"
+}

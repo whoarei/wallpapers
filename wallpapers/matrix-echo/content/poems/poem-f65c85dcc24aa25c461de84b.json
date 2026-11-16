@@ -1,0 +1,16 @@
+{
+  "id": "poem-f65c85dcc24aa25c461de84b",
+  "title": "奉和崔司马游云门寺",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "系马清溪树，禅门春气浓。",
+    "香台花下出，讲坐竹间逢。",
+    "觉路山童引，经行谷鸟从。",
+    "更言穷寂灭，回策上南峰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-27740b09-a53f-40ec-8e6c-ec678db07f41"
+}

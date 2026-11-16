@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1c39eecc483758e8a05a67e",
+  "title": "彭蠡湖春望",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "湖亭东极望，远棹不须回。",
+    "遍草新湖落，连天众鴈来。",
+    "芦洲残照尽，云障积烟开。",
+    "更想鸱夷子，扁舟安在哉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-bf25dbb3-393f-4e20-b695-2b84739ebcc6"
+}

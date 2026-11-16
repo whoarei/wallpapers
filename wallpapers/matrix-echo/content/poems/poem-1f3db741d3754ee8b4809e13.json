@@ -1,0 +1,16 @@
+{
+  "id": "poem-1f3db741d3754ee8b4809e13",
+  "title": "酒泉子·绿树春深",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "绿树春深，燕语莺啼声断续。",
+    "蕙风飘荡入芳丛，惹残红。",
+    "柳丝无力袅烟空，金盏不辞须满酌。",
+    "海棠花下思朦胧，醉香风。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-6"
+}

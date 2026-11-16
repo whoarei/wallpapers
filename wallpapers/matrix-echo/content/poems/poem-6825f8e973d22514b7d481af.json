@@ -1,0 +1,16 @@
+{
+  "id": "poem-6825f8e973d22514b7d481af",
+  "title": "送崔融",
+  "author": "杜审言",
+  "dynasty": "唐",
+  "verses": [
+    "君王行出将，书记远从征。",
+    "祖帐连河阙，军麾动洛城。",
+    "旌旗朝朔气，笳吹夜边声。",
+    "坐觉烟尘少，秋风古北平。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-送崔融"
+}

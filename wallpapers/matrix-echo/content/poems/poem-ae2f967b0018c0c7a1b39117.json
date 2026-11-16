@@ -1,0 +1,20 @@
+{
+  "id": "poem-ae2f967b0018c0c7a1b39117",
+  "title": "听蜀僧濬弹琴",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "蜀僧抱绿绮，西下峨眉峰。",
+    "为我一挥手，如听万壑松。",
+    "客心洗流水，余响入霜钟。",
+    "不觉碧山暮，秋云暗几重。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "音乐",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-71999aa1-55dd-4449-81b0-41f04686bf2e"
+}

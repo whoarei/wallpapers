@@ -1,0 +1,22 @@
+{
+  "id": "poem-096a724576849981c8aa9963",
+  "title": "别房太尉墓",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "他乡复行役，驻马别孤坟。",
+    "近泪无干土，低空有断云。",
+    "对碁陪谢傅，把劒觅徐君。",
+    "唯见林花落，鸎啼送客闻。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "忧国忧民",
+    "感伤",
+    "五言律诗",
+    "悼亡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c19e64b1-604b-40b7-9e41-6ef57b9c6f7b"
+}

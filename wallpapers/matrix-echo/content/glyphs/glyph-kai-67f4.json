@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-67f4",
+  "script": "kai",
+  "character": "柴",
+  "reading": "chái",
+  "description": "chái：(1)烧火用的草木～草。～火。～门。火～。木～。\n(2)烧柴祭天～于上帝”。\n(3)瘦，不松软～鸡。～心儿。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-柴"
+}

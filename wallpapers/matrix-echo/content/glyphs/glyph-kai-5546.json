@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5546",
+  "script": "kai",
+  "character": "商",
+  "reading": "shāng",
+  "description": "shāng：(1)两个以上的人在一起计划、讨论～量。～讨。～议。～定。～榷。～酌（商量斟酌）。相～。磋～。洽～。协～。\n(2)买卖，生意～业。～店。～界。～品。～标。\n(3)古指行商（坐商为贾”，后泛指做买卖的人，亦用以指从事私营工商业的人）～人。～贩。～贾（gǔ）（商人）。～旅。\n(4)数学上指除法运算中的得数～数。\n(5)中国朝代名～代。\n(6)中国古代五音之一，相当于简谱2”。\n(7)星名，二十八宿之一，即心宿”。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-商"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-0daa20b2bd0dbedbccdbd60d",
+  "title": "离别难·宝马晓鞲雕鞍",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "宝马晓鞲雕鞍，罗帷乍别情难。",
+    "那堪春景媚，送君千万里。",
+    "半妆珠翠落，露华寒。",
+    "红蜡烛，青丝曲，偏能钩引泪阑干。",
+    "良夜促，香尘绿，魂欲迷，檀眉半敛愁低。",
+    "未别心先咽，欲语情难说。",
+    "出芳草，路东西。",
+    "摇袖立，春风急，樱花杨柳雨凄凄。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-39"
+}

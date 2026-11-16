@@ -1,0 +1,15 @@
+{
+  "id": "poem-c36f14fddab87bbf0d5acf2c",
+  "title": "无将大车",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "无将大车，祇自尘兮。无思百忧，祇自疧兮。",
+    "无将大车，维尘冥冥。无思百忧，不出于颎。",
+    "无将大车，维尘雍兮。无思百忧，祇自重兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-205"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-97c3cf7b675278eb7da58ca8",
+  "title": "蝶恋花·闻说君家传窈窕",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "闻说君家传窈窕。",
+    "秀色天真，更夺丹青妙。",
+    "细意端相都总好。",
+    "春愁春媚生颦笑。",
+    "琼玉胸前金凤小。",
+    "那得殷勤，细托琵琶道。",
+    "十二峰云遮醉倒。",
+    "华灯翠帐花相照。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-811",
+  "tags": []
+}

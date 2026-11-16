@@ -1,0 +1,22 @@
+{
+  "id": "poem-1bffc8206af4a7b3922e1139",
+  "title": "卧疾",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "身病始知道，卧读神农经。",
+    "空房夜留灯，四壁青荧荧。",
+    "羇旅逐人欢，贫贱还自轻。",
+    "今来问良医，乃知病所生。",
+    "僮仆各相忧，杵臼无停声。",
+    "见我形憔悴，劝药语丁宁。",
+    "春雨枕席冷，窗前新禽鸣。",
+    "开门起无力，遥爱鸡犬行。",
+    "服药察耳目，渐觉如酒醒。",
+    "方悟养生者，不为忧患并。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-e482fbfb-c53a-4202-bde6-410b0cccc84f"
+}

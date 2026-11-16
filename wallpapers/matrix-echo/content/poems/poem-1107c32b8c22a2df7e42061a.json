@@ -1,0 +1,18 @@
+{
+  "id": "poem-1107c32b8c22a2df7e42061a",
+  "title": "如梦令·门外落花流水",
+  "author": "谢逸",
+  "dynasty": "宋",
+  "verses": [
+    "门外落花流水。",
+    "日暖杜鹃声碎。",
+    "蕃马小屏风，一枕画堂春睡。",
+    "如醉。",
+    "如醉。",
+    "正是困人天气。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-617",
+  "tags": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-4136c4893ac546910db27745",
+  "title": "谒金门·云外月",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "云外月。",
+    "画出一痕清绝。",
+    "梅已飘零桃未发。",
+    "带湖烟水阔。",
+    "汀渚尚留微雪。",
+    "不恨酒融歌歇。",
+    "老我多情胶漫结。",
+    "半醒空自说。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-467",
+  "tags": []
+}

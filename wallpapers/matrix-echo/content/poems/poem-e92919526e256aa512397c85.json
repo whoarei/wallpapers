@@ -1,0 +1,14 @@
+{
+  "id": "poem-e92919526e256aa512397c85",
+  "title": "题曾氏山园十一咏 吟风桥",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "桥边风月佳，俯仰有余思。",
+    "无忘履冰心，方识吟风意。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-ac3e52ba-c8b3-458c-9a06-f6d2da3291c7"
+}

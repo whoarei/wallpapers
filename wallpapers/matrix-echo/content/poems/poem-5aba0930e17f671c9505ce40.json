@@ -1,0 +1,22 @@
+{
+  "id": "poem-5aba0930e17f671c9505ce40",
+  "title": "同家兄题渭南王公别业",
+  "author": "蔡希寂",
+  "dynasty": "唐",
+  "verses": [
+    "好闲知在家，退迹何必深。",
+    "不出人境外，萧条江海心。",
+    "轩车自来往，空名对清阴。",
+    "川涘将钓玉，乡亭期散金。",
+    "素晖射流濑，翠色緜森林。",
+    "曾为诗书癖，宁惟耕稼任。",
+    "吾兄许微尚，枉道来相寻。",
+    "朝庆老莱服，夕闲安道琴。",
+    "文章遥颂美，寤寐增所钦。",
+    "既郁苍生望，明时岂陆沈。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ba63b5b7-5201-41f8-9d57-e2258a8d3d01"
+}

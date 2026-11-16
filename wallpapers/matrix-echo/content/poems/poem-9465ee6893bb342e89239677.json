@@ -1,0 +1,14 @@
+{
+  "id": "poem-9465ee6893bb342e89239677",
+  "title": "题城南书院三十四咏  其二六",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "拍堤水满草茸茸，尽日野航西复东。",
+    "欲去未须愁日暮，月明波面更溶溶。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-f6e9bd5a-7f7d-4417-a372-658117e549de"
+}

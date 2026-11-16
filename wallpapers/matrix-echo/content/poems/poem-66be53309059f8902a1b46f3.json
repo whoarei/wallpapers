@@ -1,0 +1,16 @@
+{
+  "id": "poem-66be53309059f8902a1b46f3",
+  "title": "郊庙歌辞 梁郊祀乐章 庆熙",
+  "author": "赵光逢、张衮",
+  "dynasty": "唐",
+  "verses": [
+    "哲后躬享，旨酒斯陈。",
+    "王恭无斁，严祀维夤。",
+    "皇祖以配，大孝以振。",
+    "宜锡景福，永休下民。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-323842d9-5424-473b-b736-17a756fa6bb8"
+}

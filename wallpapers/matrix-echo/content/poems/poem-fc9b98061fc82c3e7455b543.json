@@ -1,0 +1,16 @@
+{
+  "id": "poem-fc9b98061fc82c3e7455b543",
+  "title": "题周谏别业",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "隐身苕上欲如何，不著青袍爱绿萝。",
+    "柳巷任疎容马入，水篱从破许船过。",
+    "昂藏独鹤闲心远，寂历秋花野意多。",
+    "若访禅斋遥可见，竹窗书幌共烟波。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-0b222621-d127-4df5-b8a9-c1499378aa19"
+}

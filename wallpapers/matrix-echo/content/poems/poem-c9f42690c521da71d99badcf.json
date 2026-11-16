@@ -1,0 +1,16 @@
+{
+  "id": "poem-c9f42690c521da71d99badcf",
+  "title": "送法镜上人归上元",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "南国僧游二十年，却因无任访生缘。",
+    "风回建业秋归寺，月满秦淮夜到舡。",
+    "故老尽成双鬓雪，旧房深鏁一林烟。",
+    "莫言了悟为真理，不叹兴亡在眼前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-0cf0328d-fc5c-4b83-98a2-00baca29b3bb"
+}

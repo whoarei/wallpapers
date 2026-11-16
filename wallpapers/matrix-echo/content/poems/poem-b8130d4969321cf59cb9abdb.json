@@ -1,0 +1,16 @@
+{
+  "id": "poem-b8130d4969321cf59cb9abdb",
+  "title": "还过东都留守周公筵上赠座客",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "贾生三载在长沙，故友相思道路赊。",
+    "已分终年甘寂寞，岂知今日返京华。",
+    "麟符上相恩偏厚，隋苑留欢日欲斜。",
+    "明旦江头倍惆怅，远山芳草映残霞。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-4f0996b3-1ea5-444b-b2b4-777fa6d82f67"
+}

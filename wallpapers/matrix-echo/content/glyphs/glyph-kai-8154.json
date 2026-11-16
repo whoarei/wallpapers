@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8154",
+  "script": "kai",
+  "character": "腔",
+  "reading": "qiāng",
+  "description": "qiāng：(1)动物身体中空的部分～子。体～。满～热血。\n(2)器物的中空部分炉～。\n(3)乐曲的调子～调（diào）。唱～。梆子～。\n(4)说话的声音、语调开～。京～。装～作势。拿～拿调。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-腔"
+}

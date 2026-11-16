@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6ef4",
+  "script": "seal",
+  "character": "滴",
+  "reading": "dī",
+  "description": "dī：(1)液体一点一点地向下落～眼药。～落。～翠。水～石穿（喻只要有恒心，不断努力，事情一定能成功，亦作滴水穿石”）。～漏（漏壶）。\n(2)一点一点向下落的液体水～」～。\n(3)量词，用于滴下的液体的数量～水不漏。两～墨水。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-滴"
+}

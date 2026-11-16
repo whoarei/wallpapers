@@ -1,0 +1,14 @@
+{
+  "id": "poem-0478105050b6a1a12fb8206c",
+  "title": "游仙词三十三首  其三一",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "天花子落月中楼，香满三千世界秋。",
+    "下有老人常斫树，至今玉斧不曾修。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-876d9bf4-5079-44fc-9c3f-2ab1dc4da381"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1bdff71575bdf79430496fa0",
+  "title": "登楼值雨二首 二",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "江徼多佳景，秋吟兴未穷。",
+    "送来松槛雨，半是蓼花风。",
+    "浪猛惊翘鹭，烟昏叫断鸿。",
+    "不知今夜客，几处卧鸣篷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-f6b573c8-62f4-4b6b-999b-8658ad52a3d9"
+}

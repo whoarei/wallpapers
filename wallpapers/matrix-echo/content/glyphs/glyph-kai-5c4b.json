@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c4b",
+  "script": "kai",
+  "character": "屋",
+  "reading": "wū",
+  "description": "wū：(1)房，房间～子。～宇。房～。\n(2)家吴中过客莫思家，江南画船如～里。”\n(3)车盖，覆盖物黄～（古代帝王所乘车上以黄缯为里的车盖，亦指帝王车）。～社（王朝倾覆的代称）。\n(4)古代井田的区划，一屋合三百亩。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-屋"
+}

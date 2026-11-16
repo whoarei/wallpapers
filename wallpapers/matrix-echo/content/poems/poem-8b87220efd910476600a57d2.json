@@ -1,0 +1,20 @@
+{
+  "id": "poem-8b87220efd910476600a57d2",
+  "title": "秋蕊香·帘幕疏疏风透",
+  "author": "张耒",
+  "dynasty": "宋",
+  "verses": [
+    "帘幕疏疏风透。",
+    "一线香飘金兽。",
+    "朱阑倚遍黄昏后。",
+    "廊上月华如昼。",
+    "别离滋味浓于酒。",
+    "著人瘦。",
+    "此情不及墙东柳。",
+    "春色年年如旧。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-350",
+  "tags": []
+}

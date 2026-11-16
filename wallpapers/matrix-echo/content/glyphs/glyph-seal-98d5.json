@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-98d5",
+  "script": "seal",
+  "character": "飕",
+  "reading": "sōu",
+  "description": "象声词,同嗖”\n形容箭离弦之声\n小风\n寒冷;清凉。也单用作飕”\n象声词\n形容风声\n形容雨声\n风雨声飕飕催早寒,胡雁翅湿高飞难\n⒈风吹衣服已被风～干了。\n⒉同\"嗖\"。像声词。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-飕"
+}

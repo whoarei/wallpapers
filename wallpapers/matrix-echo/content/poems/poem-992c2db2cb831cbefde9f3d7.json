@@ -1,0 +1,14 @@
+{
+  "id": "poem-992c2db2cb831cbefde9f3d7",
+  "title": "送韦判官得雨中山",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "前峰后岭碧蒙蒙，草拥惊泉树带风。",
+    "人语马嘶听不得，更堪长路在云中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-95551421-c7e5-4b3b-9524-2b16e2adfffb"
+}

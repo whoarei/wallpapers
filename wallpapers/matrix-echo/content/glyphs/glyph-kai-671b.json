@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-671b",
+  "script": "kai",
+  "character": "望",
+  "reading": "wàng",
+  "description": "wàng：(1)看，往远处看～见。眺～。张～。～尘莫及（喻远远落后）。～风捕影。\n(2)拜访看～。拜～。探～。\n(3)希图，盼期～。欲～。喜出～外。\n(4)人所敬仰的，有名的～族。名～。声～。威～。\n(5)向，朝着～东走。\n(6)月圆，农历每月十五日前后～日。\n(7)埋怨，责备怨～。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-望"
+}

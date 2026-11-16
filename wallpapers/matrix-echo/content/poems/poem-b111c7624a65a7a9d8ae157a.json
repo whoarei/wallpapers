@@ -1,0 +1,16 @@
+{
+  "id": "poem-b111c7624a65a7a9d8ae157a",
+  "title": "送知全禅师南游",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "师誉振京城，谈空万乘听。",
+    "北行山已雪，南去木犹青。",
+    "夜岳禅销月，秋潭汲动星。",
+    "回期不可定，孤鹤在高冥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4f3306e9-a602-49b5-8183-c04e89396d3d"
+}

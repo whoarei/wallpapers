@@ -1,0 +1,16 @@
+{
+  "id": "poem-d303033511da7f8f701340ab",
+  "title": "监察十五叔东斋招李益端公会别",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "欲知惜别情，泻水还清池。",
+    "此地有君子，芳兰步葳蕤。",
+    "手掇杂英珮，意摇春夜思。",
+    "莫作遶山云，循环无定期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a30db985-c13a-40e8-b1f6-da88559f78aa"
+}

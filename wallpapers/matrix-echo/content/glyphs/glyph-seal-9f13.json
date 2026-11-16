@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9f13",
+  "script": "seal",
+  "character": "鼓",
+  "reading": "gǔ",
+  "description": "gǔ：(1)打击乐器，圆柱形，中空，两头蒙皮～乐（yuè）。～角（jiǎo）。大～。\n(2)形状、声音、作用像鼓的耳～。石～。\n(3)敲击或拍打使发出声音～吹。～噪。\n(4)发动，使振作起来～励。～动。～舞。一～作气。\n(5)高起，凸出～包。～胀。\n(6)古代夜间击鼓以报时，一鼓即一更。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鼓"
+}

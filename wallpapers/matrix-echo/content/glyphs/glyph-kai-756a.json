@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-756a",
+  "script": "kai",
+  "character": "番",
+  "reading": "fān；pān",
+  "description": "fān：(1)遍数，次，回三～五次。\n(2)轮流更代轮～。更（gēng）～。\n(3)称外国的或外族的～邦。～茄。～薯。\n(4)倍产量翻了二～。\npān：〔～禺〕地名，在中国广东省。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-番"
+}

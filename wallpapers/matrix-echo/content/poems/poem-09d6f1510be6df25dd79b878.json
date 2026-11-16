@@ -1,0 +1,15 @@
+{
+  "id": "poem-09d6f1510be6df25dd79b878",
+  "title": "人月圆",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)途路里，奔走流民拥，胆丧魂飞心惊恐。",
+    "(小旦)风吹雨湿衣襟重，止不住双双珠泪涌。",
+    "(合)行不上，惟闻得战鼓声振苍穹。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2930",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-8894994bc4304e8a3ce95106",
+  "title": "松图  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "李怀仁画双龙后，活在兰陵道士家。",
+    "水墨工夫能幻巧，变成霜干老槎牙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-67087e9c-730a-44f9-955a-06472848e06e"
+}

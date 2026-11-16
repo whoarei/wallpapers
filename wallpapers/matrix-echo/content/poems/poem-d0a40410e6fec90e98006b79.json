@@ -1,0 +1,18 @@
+{
+  "id": "poem-d0a40410e6fec90e98006b79",
+  "title": "和渊眀拟古九首  其四",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "弃置帝王宅，乃欲保一隅。",
+    "一隅岂易保，巨盗连荆舒。",
+    "眷言浙江西，有我先人庐。",
+    "兵火偶不到，聚族于焉居。",
+    "羁束未得归，田园日将芜。",
+    "江边畏群盗，岁暮当何如。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-bd9a6dfe-fc16-4a02-8672-617ea17884f0"
+}

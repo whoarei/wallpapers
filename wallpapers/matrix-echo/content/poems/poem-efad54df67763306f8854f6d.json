@@ -1,0 +1,17 @@
+{
+  "id": "poem-efad54df67763306f8854f6d",
+  "title": "卜算子",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［外上］从别女孩儿，心下常萦系。",
+    "昨日令人去请归，彼此心欢喜。",
+    "雪隐鹭鸶飞始见？柳藏鹦鹉语方知。",
+    "昨日着李成去搬取王亲妈、秀才与我女孩儿同家另居。",
+    "待李成回来，便知分晓。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8124",
+  "tags": []
+}

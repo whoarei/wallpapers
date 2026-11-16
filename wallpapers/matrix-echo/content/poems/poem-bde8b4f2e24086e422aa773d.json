@@ -1,0 +1,16 @@
+{
+  "id": "poem-bde8b4f2e24086e422aa773d",
+  "title": "采桑子·非关癖爱轻模样",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "非关癖爱轻模样，冷处偏佳。",
+    "别有根芽，不是人间富贵花。",
+    "谢娘别后谁能惜，飘泊天涯。",
+    "寒月悲笳，万里西风瀚海沙。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-88"
+}

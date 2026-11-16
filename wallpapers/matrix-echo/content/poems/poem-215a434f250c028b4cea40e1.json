@@ -1,0 +1,22 @@
+{
+  "id": "poem-215a434f250c028b4cea40e1",
+  "title": "咏怀古迹五首 五",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "诸葛大名垂宇宙，宗臣遗像肃清高。",
+    "三分割据纡筹策，万古云霄一羽毛。",
+    "伯仲之间见伊吕，指挥若定失萧曹。",
+    "福移汉祚难恢复，志决身歼军务劳。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "七言律诗",
+    "怀古",
+    "议论"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-87f5949b-bdad-4b5e-b488-7015bd45cc4f"
+}

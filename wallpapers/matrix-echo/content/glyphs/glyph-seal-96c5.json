@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-96c5",
+  "script": "seal",
+  "character": "雅",
+  "reading": "yǎ",
+  "description": "yǎ：(1)正规的，标准的～言。～正（ａ．规范的；ｂ．正直；ｃ．客气话，用于赠给他人的书画题款上，请对方指正）。\n(2)美好的，高尚的，不粗俗的文～。高～。典～。～观。～教（jiào）。～兴（xìng）。～座。～俗。\n(3)平素，素来～爱。～善鼓琴。\n(4)极，甚～以为美。～不欲为。\n(5)交往无一日之～。\n(6)酒器名～量（liàng）（ａ．大的酒量；ｂ．宽宏的气度）。\n(7)中国周代朝庭上的乐歌风～颂。～声（泛指诗歌）。\n(8)古同鸦”，乌鸦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-雅"
+}

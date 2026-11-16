@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7b5a",
+  "script": "seal",
+  "character": "筚",
+  "reading": "bì",
+  "description": "泛指用竹子、荆条等织成的器物\n筚路蓝缕\n筚门圭窦\n筚 bì用荆条等编织的篱笆或其它遮挡物。\n【筚路蓝缕】驾驶柴车，穿着破烂衣服。形容创业的艰难。筚路柴车。蓝缕破衣服。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-筚"
+}

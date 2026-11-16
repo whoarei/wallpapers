@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c45",
+  "script": "seal",
+  "character": "居",
+  "reading": "jū；jv",
+  "description": "jū：(1)住～住。～民。同～。隐～。～处（chǔ）（a.住所；b.指生活处境）。～处（chù）（住所）。\n(2)居住的地方新～。故～。迁～。蜗～（喻窄小的住所）。\n(3)当，占，处于～首。～中。～高临下。二者必～其一。\n(4)安着，怀着～心（怀着某种念头，有贬义）。\n(5)积蓄，储存奇货可～（a.指商人把珍稀的货物储存起来，等待时机高价出售；b.喻挟持某种技艺或某种事物以谋求功名利禄）。\n(6)停留～守。\n(7)平时平～。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-居"
+}

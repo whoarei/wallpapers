@@ -1,0 +1,20 @@
+{
+  "id": "poem-8ad5927e9920bd8a222391b8",
+  "title": "省试白云起封中",
+  "author": "陈希烈",
+  "dynasty": "唐",
+  "verses": [
+    "千年泰山顶，云起汉王封。",
+    "不作奇峰状，宁分触石容。",
+    "为霖虽易得，表圣自难逢。",
+    "冉冉排空上，依依叠影重。",
+    "素光非曳练，灵贶是从龙。",
+    "岂学无心出，东西任所从。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "泰山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-291e1334-8c23-495d-b9fc-3b90cd89d2d1"
+}

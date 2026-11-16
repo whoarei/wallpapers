@@ -1,0 +1,14 @@
+{
+  "id": "poem-f25736c32c100ed8d27c8624",
+  "title": "柳枝词",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "锦池江上柳垂桥，风引蝉声送寂寥。",
+    "不必如丝千万缕，只禁离恨两三条。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-9b8f9ff5-ec06-4f60-9980-b116842374ec"
+}

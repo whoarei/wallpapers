@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f88",
+  "script": "seal",
+  "character": "辈",
+  "reading": "bèi",
+  "description": "也指车列,车队\n世;辈分\n某类人\n群,队\n①行辈；辈分老一～。\n③一世；一生一～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辈"
+}

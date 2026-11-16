@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-52ad",
+  "script": "seal",
+  "character": "劭",
+  "reading": "shào",
+  "description": "shào：(1)劝勉，自强老而益～。\n(2)美好，高尚年高德～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-劭"
+}

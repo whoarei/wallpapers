@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8854",
+  "script": "kai",
+  "character": "衔",
+  "reading": "xián",
+  "description": "口含\n怀藏\n奉接,接受\n把两物互相接起来或缚住\n包含,\n⒈马嚼子勒紧～。\n⒉用嘴含，包含，含有结草～环。～花。～远山。\n⒊藏在心中，怀恨～悲。～恨。\n⒋奉，接受～命。\n⒌相接～接。\n⒍职位，职称职～。头～。官～。军～。大使～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-衔"
+}

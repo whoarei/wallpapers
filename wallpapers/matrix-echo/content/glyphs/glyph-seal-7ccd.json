@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ccd",
+  "script": "seal",
+  "character": "糍",
+  "reading": "cí",
+  "description": "cí：一种用江米（糯米）做成的食品～粑。～团。～糕。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-糍"
+}

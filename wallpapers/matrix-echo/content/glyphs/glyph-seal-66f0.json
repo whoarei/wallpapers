@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-66f0",
+  "script": "seal",
+  "character": "曰",
+  "reading": "yuē",
+  "description": "yuē：(1)说子～诗云。\n(2)为（wéi），是一～水，二～火，三～木，四～金，五～土。\n(3)叫做凡乐辞～诗，诗声～歌。\n(4)语助词，无实义昊天～明。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-曰"
+}

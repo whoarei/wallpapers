@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c61",
+  "script": "seal",
+  "character": "污",
+  "reading": "wū",
+  "description": "wū：(1)浑浊的水粪～。血～。\n(2)肮脏，不干净～水。～泥。～浊。\n(3)肮脏的东西～渍。～垢。\n(4)不廉洁贪～。\n(5)弄脏玷～。～损。～辱。～蔑（ａ．玷污；ｂ．诬蔑）。～染。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-污"
+}

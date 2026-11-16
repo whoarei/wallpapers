@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e3cea34b791799fed486067",
+  "title": "菊磵卜居",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "王师且愿休，小为蕺山留。",
+    "五月凉时过，千岩胜处游。",
+    "子耕无父业，弟唱有兄酬。",
+    "好在牛腰轴，丁宁莫暗投。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-8c98c886-9a08-485b-b1dc-532dee0b446c"
+}

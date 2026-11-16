@@ -1,0 +1,16 @@
+{
+  "id": "poem-78549b59f841af687377a2a0",
+  "title": "和择之看雪",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "岳背三冬雪，真同不夜城。",
+    "野云何晃荡，涧水助空明。",
+    "行橐多新句，青山有旧盟。",
+    "堂堂身世事，渠谩说三生。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-92a4778b-c370-4119-8d0b-6b3e1e166496"
+}

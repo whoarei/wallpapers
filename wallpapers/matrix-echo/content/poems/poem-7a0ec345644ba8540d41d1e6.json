@@ -1,0 +1,14 @@
+{
+  "id": "poem-7a0ec345644ba8540d41d1e6",
+  "title": "明堂观礼杂咏十三首 天街夜步",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "风不停云月更清，千门绣幕笑歌声。",
+    "御营巡检无拘束，走马天街夜达明。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-2c1c74e5-c10b-4262-a908-3de078af5ed0"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b8598ae428d0a6d4059d3f6b",
+  "title": "题王况故居",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "入巷萧条起悲绪，儿女犹居旧贫处。",
+    "尘满空床屋见天，独作驴鸣一声去。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e6e58e70-d76d-4bcf-adee-3e7506f01256"
+}

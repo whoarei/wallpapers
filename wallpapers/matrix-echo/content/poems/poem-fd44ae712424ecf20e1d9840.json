@@ -1,0 +1,14 @@
+{
+  "id": "poem-fd44ae712424ecf20e1d9840",
+  "title": "读远书",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "两转三回读远书，画簷愁见燕归初。",
+    "百花时节教人懒，云髻朝来不欲梳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-eecab1ae-38c6-4ea2-83da-9c5612bd7d2b"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b9b1f55b96b3fd15deea0eba",
+  "title": "送西川杜司空赴镇",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "黑眉玄髪尚依然，紫绶金章五十年。",
+    "三入凤池操国柄，八分龙节付兵权。",
+    "东周城阙中天外，西蜀楼台落日边。",
+    "莫遣洪罏旷真宰，九流人物待陶甄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-7d0b8eb1-c46c-4712-a990-58dac6e315aa"
+}

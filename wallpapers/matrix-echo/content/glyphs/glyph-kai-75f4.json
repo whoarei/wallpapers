@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-75f4",
+  "script": "kai",
+  "character": "痴",
+  "reading": "chī",
+  "description": "chī：(1)傻，无知～人说梦。～钝。～愚。白～。\n(2)精神失常，疯癫发～。～癫。\n(3)入迷，极度迷恋～心。～情。\n(4)谦辞，白白地～长（zhǎng）（说自己白白地比对方大若干岁）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-痴"
+}

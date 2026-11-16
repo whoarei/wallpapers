@@ -1,0 +1,15 @@
+{
+  "id": "poem-2b984c734b357584bce6cb3c",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(末)状元休忧虑，且把情怀暂舒。",
+    "人妻聚散生前注，这离别虽说离别苦，想姻缘不入姻缘簿。",
+    "听取一言伸覆：须信人生万事，莫逃天数。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8251",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8839",
+  "script": "seal",
+  "character": "蠹",
+  "reading": "dù",
+  "description": "dù：(1)蛀蚀器物的虫子～虫。木～。书～。～鱼。\n(2)蛀蚀流水不腐，户枢不～。～蛀。～害。～弊（弊病，弊端）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蠹"
+}

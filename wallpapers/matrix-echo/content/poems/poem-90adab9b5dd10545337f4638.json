@@ -1,0 +1,17 @@
+{
+  "id": "poem-90adab9b5dd10545337f4638",
+  "title": "浣溪沙·小阁重帘有燕过",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "小阁重帘有燕过。",
+    "晚花红片落庭莎。",
+    "曲阑干影入凉波。",
+    "一霎好风生翠幕，几回疏雨滴圆荷。",
+    "酒醒人散得愁多。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-438",
+  "tags": []
+}

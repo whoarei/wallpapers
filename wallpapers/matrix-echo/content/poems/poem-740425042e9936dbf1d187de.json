@@ -1,0 +1,14 @@
+{
+  "id": "poem-740425042e9936dbf1d187de",
+  "title": "百丈潭",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "目观溶溶眩水精，耳根虩虩受雷声。",
+    "一杯更吸潭间味，并要胸中领此清。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-5d6166c9-1b94-4fa1-a995-70bc90dc6817"
+}

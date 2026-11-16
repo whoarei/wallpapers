@@ -1,0 +1,21 @@
+{
+  "id": "poem-de48bc73e6f1e9ea806c9e4a",
+  "title": "同诸公登慈恩寺浮图",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "香界泯群有，浮图岂诸相。",
+    "登临骇孤高，披拂欣大壮。",
+    "言是羽翼生，迥出虚空上。",
+    "顿疑身世别，乃觉形神王。",
+    "宫阙皆户前，山河尽簷向。",
+    "秋风昨夜至，秦塞多清旷。",
+    "千里何苍苍，五陵郁相望。",
+    "盛时慙阮步，末宦知周防。",
+    "输效独无因，斯焉可游放。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-a491ab1b-43b6-4757-b3bb-9e984de2b5d9"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-57d2",
+  "script": "seal",
+  "character": "埒",
+  "reading": "liè",
+  "description": "liè：(1)矮墙，场地四周的土围墙。\n(2)等同故吴诸侯也，以即山铸钱，富～天子。”\n(3)田塍。\n(4)涯际；界限休息于无委曲之隅，而游敖于无形～之野。”\n(5)山上的水流。\n(6)古度量名。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-埒"
+}

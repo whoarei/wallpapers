@@ -1,0 +1,20 @@
+{
+  "id": "poem-95f961dad122c60d1768072f",
+  "title": "鼓吹曲辞 芳树",
+  "author": "元稹",
+  "dynasty": "唐",
+  "verses": [
+    "芳树已寥落，孤英尤可嘉。",
+    "可怜团团叶，盖覆深深花。",
+    "游蠭竞攒刺，鬬雀亦纷拏。",
+    "天生细碎物，不爱好光华。",
+    "非无歼殄法，念尔有生涯。",
+    "春雷一声发，惊燕亦惊蛇。",
+    "清池养神蔡，已复长虾蟆。",
+    "雨露贵平施，吾其春草芽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d5eb2f6f-4806-41cf-ac0f-9764b3911007"
+}

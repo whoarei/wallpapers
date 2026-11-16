@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6dec",
+  "script": "seal",
+  "character": "淬",
+  "reading": "cuì",
+  "description": "cuì：(1)把烧红了的铸件往水或油或其他液体里一浸立刻取出来，用以提高合金的硬度和强度～火。～砺。～勉。\n(2)染得赵人徐夫人之匕首，取之百金，使工以药～～之”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淬"
+}

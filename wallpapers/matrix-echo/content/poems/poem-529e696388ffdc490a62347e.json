@@ -1,0 +1,14 @@
+{
+  "id": "poem-529e696388ffdc490a62347e",
+  "title": "题城南书院三十四咏  其二八",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "朝阳初上藕花香，下马虚亭一味凉。",
+    "山鸟自呼鱼自乐，谁云身世可相忘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-f4d4e440-de2b-48f8-a91e-55fa187b1bfb"
+}

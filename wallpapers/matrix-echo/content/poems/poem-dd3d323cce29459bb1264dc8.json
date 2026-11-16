@@ -1,0 +1,13 @@
+{
+  "id": "poem-dd3d323cce29459bb1264dc8",
+  "title": "句",
+  "author": "长孙镒",
+  "dynasty": "唐",
+  "verses": [
+    "霜沾云梦千岩雪，鴈度吴江万木秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-9cc7468f-88d7-4a5e-83fe-f0ddbaf7c6e8"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-fde02b9b1fd57cdfb8d2accb",
+  "title": "次日",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "野外有一人，独立无四隣。",
+    "彼见是我身，我见是彼身。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6fb5985f-b3a7-4815-ae19-f7ab098c1e5c"
+}

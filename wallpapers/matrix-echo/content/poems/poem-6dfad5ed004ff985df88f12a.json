@@ -1,0 +1,16 @@
+{
+  "id": "poem-6dfad5ed004ff985df88f12a",
+  "title": "效古",
+  "author": "澹交",
+  "dynasty": "唐",
+  "verses": [
+    "荣辱又荣辱，一何翻与覆。",
+    "人生百岁中，孰肯死前足。",
+    "玄鬓忽如丝，青丛不再绿。",
+    "自古争名徒，黄金是谁禄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-08921503-b709-494b-add8-12bafedf141c"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-966a",
+  "script": "kai",
+  "character": "陪",
+  "reading": "péi",
+  "description": "péi：(1)跟随在一起，在旁边做伴～伴。～同。～客。～葬。～嫁。失～。\n(2)从旁协助，辅佐～臣。～审。\n(3)增加的，非主要的～衬。～都。\n(4)古同赔”，偿还。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-陪"
+}

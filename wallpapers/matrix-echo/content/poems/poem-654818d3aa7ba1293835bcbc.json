@@ -1,0 +1,14 @@
+{
+  "id": "poem-654818d3aa7ba1293835bcbc",
+  "title": "春秋战国门 苏厉",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "百步穿杨箭不移，养由堪教听弘规。",
+    "身隆业著未知退，勿遣功名一旦隳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-a058de3e-23f0-485e-949c-1b0e3af892aa"
+}

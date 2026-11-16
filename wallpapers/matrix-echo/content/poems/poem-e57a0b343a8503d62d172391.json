@@ -1,0 +1,21 @@
+{
+  "id": "poem-e57a0b343a8503d62d172391",
+  "title": "江南逢李龟年",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "歧王宅里寻常见，崔九堂前几度闻。",
+    "正是江南好风景，落花时节又逢君。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "初中古诗",
+    "七言绝句",
+    "怀念",
+    "感伤",
+    "七年级下册(课外)"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-ae5b1a15-0b5c-4578-8f31-1b60030633a4"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-a21bbfee6991907f3523fe90",
+  "title": "春暮游小园",
+  "author": "王淇",
+  "dynasty": "宋",
+  "verses": [
+    "一从梅粉褪残妆，涂抹新红上海棠。",
+    "开到荼蘼花事了，丝丝夭棘出莓墙。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-春暮遊小園"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b03003a9189218fb7a14b872",
+  "title": "酒泉子·杨柳舞风",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "杨柳舞风，轻惹春烟残雨。",
+    "杏花愁，莺正语，画楼东。",
+    "锦屏寂寞思无穷，还是不知消息。",
+    "镜尘生，珠泪滴，损仪容。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-8"
+}

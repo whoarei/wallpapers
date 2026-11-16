@@ -1,0 +1,16 @@
+{
+  "id": "poem-1f22119e2b84a98d3ddf1f82",
+  "title": "寄山中伉禅师",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "举世遭心使，吾师独使心。",
+    "万缘冥目尽，一句不言深。",
+    "野火烧禅石，残霞照栗林。",
+    "秋风溪上路，终愿一相寻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-01b15546-2895-456b-81eb-459360c705f8"
+}

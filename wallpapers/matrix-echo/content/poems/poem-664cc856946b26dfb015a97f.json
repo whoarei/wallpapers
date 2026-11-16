@@ -1,0 +1,14 @@
+{
+  "id": "poem-664cc856946b26dfb015a97f",
+  "title": "汶归舟中",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "咿咿轧轧橹声歇，凄凄切切寒蛩鸣。",
+    "满空星斗不解语，时与渔火争晶荧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-df35991a-744c-4234-a2da-411bb53ef906"
+}

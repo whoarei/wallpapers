@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-88f8",
+  "script": "seal",
+  "character": "裸",
+  "reading": "luǒ",
+  "description": "luǒ：露出，没有遮盖～露。～体。～裎（脱衣露体）。赤～～。～子植物。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-裸"
+}

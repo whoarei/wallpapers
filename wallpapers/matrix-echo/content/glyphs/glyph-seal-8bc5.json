@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bc5",
+  "script": "seal",
+  "character": "诅",
+  "reading": "zǔ",
+  "description": "盟誓,特指就小事或往事起誓\n⒈迷信者所谓\"祈求神灵加祸于所憎恨的人\"～人伤自身。\n⒉盟誓～约。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诅"
+}

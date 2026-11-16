@@ -1,0 +1,16 @@
+{
+  "id": "poem-1855d41469ec1e80f7b637c3",
+  "title": "送醉画王处士",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "几年乘兴住南吴，狂醉兰舟夜落湖。",
+    "别后鹤毛描转细，近来牛角饮还麄。",
+    "同餐夏果山何处，共钓秋涛石在无。",
+    "关下相逢怪予老，篇章役思绕寰区。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-657d4c9f-abdc-42b4-a9c0-de4e41151adf"
+}

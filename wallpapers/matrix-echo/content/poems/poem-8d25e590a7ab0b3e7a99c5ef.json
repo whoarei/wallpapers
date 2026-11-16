@@ -1,0 +1,14 @@
+{
+  "id": "poem-8d25e590a7ab0b3e7a99c5ef",
+  "title": "题刘氏绿映亭  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "凉叶翻翻不受尘，芒鞋藤杖及清晨。",
+    "开帘小放前溪入，澄绿光中独岸巾。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-642f7be2-a679-4697-b59d-8626bc0a0886"
+}

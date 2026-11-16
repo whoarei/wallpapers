@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-50ee",
+  "script": "seal",
+  "character": "僮",
+  "reading": "tóng；zhuàng",
+  "description": "tóng：(1)封建时代受奴役的未成年人书～。～仆。\n(2)古同童”。\nzhuàng：〔～族〕中国少数民族，今改作壮族”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-僮"
+}

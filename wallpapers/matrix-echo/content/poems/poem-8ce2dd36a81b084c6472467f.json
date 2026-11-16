@@ -1,0 +1,16 @@
+{
+  "id": "poem-8ce2dd36a81b084c6472467f",
+  "title": "奉和九日幸临渭亭登高应制得樽字",
+  "author": "于经野",
+  "dynasty": "唐",
+  "verses": [
+    "御气三秋节，登高九曲门。",
+    "桂筵罗玉俎，菊醴溢芳樽。",
+    "遵渚归鸿度，承云舞鹤𬸣。",
+    "微臣滥陪赏，空荷圣明恩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-f25e2481-52d7-4182-af87-4e7b776d33ab"
+}

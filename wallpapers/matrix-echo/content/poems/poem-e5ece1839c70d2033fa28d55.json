@@ -1,0 +1,16 @@
+{
+  "id": "poem-e5ece1839c70d2033fa28d55",
+  "title": "边上行",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "黑松林外路，风角远嗈嗈。",
+    "朔气生荒堡，秋尘满病容。",
+    "豺掊沙底骨，人上月边烽。",
+    "休作西行计，西行地渐凶。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-525e545e-5080-4ec2-8ea9-123c757d3df7"
+}

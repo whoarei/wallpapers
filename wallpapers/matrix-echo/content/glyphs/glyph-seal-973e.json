@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-973e",
+  "script": "seal",
+  "character": "霾",
+  "reading": "mái",
+  "description": "mái：(1)空气中因悬浮着大量的烟、尘等微粒而形成的混浊形象阴～。\n(2)乱风时空中降下沙土，尘土飞扬。\n(3)古同埋”，埋葬。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-霾"
+}

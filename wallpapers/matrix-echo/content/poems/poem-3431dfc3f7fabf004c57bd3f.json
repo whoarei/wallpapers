@@ -1,0 +1,14 @@
+{
+  "id": "poem-3431dfc3f7fabf004c57bd3f",
+  "title": "浣溪沙·依约残眉理旧黄",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "依约残眉理旧黄，翠鬟抛掷一簪长，暖风晴日罢朝妆。",
+    "闲折海棠看又捻，玉纤无力惹余香，此情谁会倚斜阳。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-30"
+}

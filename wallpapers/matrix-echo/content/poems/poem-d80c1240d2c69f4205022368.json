@@ -1,0 +1,23 @@
+{
+  "id": "poem-d80c1240d2c69f4205022368",
+  "title": "相和歌辞 子夜四时歌四首 夏歌",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "镜湖三百里，菡萏发荷花。",
+    "五月西施采，人看隘若邪。",
+    "回舟不待月，归去越王家。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "清商曲辞",
+    "夏天",
+    "乐府",
+    "哲理",
+    "写人",
+    "荷花"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-4bd5be2b-5788-42c0-a300-9d106a73d46e"
+}

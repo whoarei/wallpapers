@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c62",
+  "script": "seal",
+  "character": "豢",
+  "reading": "huàn",
+  "description": "huàn：喂养，特指喂养牲畜～养。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-豢"
+}

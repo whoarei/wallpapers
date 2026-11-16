@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7591",
+  "script": "kai",
+  "character": "疑",
+  "reading": "yí；nǐ",
+  "description": "yí：(1)不信，猜度（duó）～惑。～问。～心。～团。～虑。～窦。～点。～端。猜～。怀～。半信半～。\n(2)不能解决的，不能断定的～案。～难。～义。存～。\n信；\nnǐ：(1)安定，止息。\n(2)古同拟”，比拟。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-疑"
+}

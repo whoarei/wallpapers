@@ -1,0 +1,14 @@
+{
+  "id": "poem-b12ed87d03956b07e93c4925",
+  "title": "游岳寻梅不获和元晦韵",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "眼看飞雪洒千林，更著寒溪水浅深。",
+    "应有梅花连夜发，却烦诗句写愁襟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-26713ab9-aac3-44d6-8542-30868faa371c"
+}

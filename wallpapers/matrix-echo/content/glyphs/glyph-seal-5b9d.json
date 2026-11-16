@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b9d",
+  "script": "seal",
+  "character": "宝",
+  "reading": "bǎo",
+  "description": "①珍贵的东西粮食是个～，谁都离不了。\n②珍贵的～刀。\n③旧时的一种赌具。\n④旧时用于称别人的家眷、铺子等的敬辞～眷、～号。\n【宝船】明代滞下西洋时使用的海船的名称。据有关资料，最大的船长158米，宽56米。\n【宝石】硬度较大，色泽美丽，受到大气和化学药品的作用不起变化，产量稀少而极为贵重的矿物，统称为宝石。如金刚石、刚玉、黄玉、硬玉、绿柱石等。\n【宝惜】珍惜。\n【宝座】\n①帝王或神佛的座位。\n②借指某一职位或荣誉冠军～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宝"
+}

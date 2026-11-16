@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8765",
+  "script": "seal",
+  "character": "蝥",
+  "reading": "móu；máo",
+  "description": "máo：〔斑～〕昆虫，腿细长，鞘翅上黄黑色斑纹，成虫桅农作物，可入药。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蝥"
+}

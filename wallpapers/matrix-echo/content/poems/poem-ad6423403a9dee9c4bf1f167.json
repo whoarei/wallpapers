@@ -1,0 +1,16 @@
+{
+  "id": "poem-ad6423403a9dee9c4bf1f167",
+  "title": "临江仙·烟收湘渚秋江静",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "烟收湘渚秋江静，蕉花露泣愁红。",
+    "五云双鹤去无踪，几回魂断，凝望向长空。",
+    "翠竹暗留珠泪怨，闲调宝瑟波中，花鬟月鬓绿云重。",
+    "古祠深殿，香冷雨和风。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-37"
+}

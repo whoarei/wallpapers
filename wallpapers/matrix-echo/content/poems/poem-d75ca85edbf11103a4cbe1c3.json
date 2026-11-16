@@ -1,0 +1,16 @@
+{
+  "id": "poem-d75ca85edbf11103a4cbe1c3",
+  "title": "永明山居诗（六十九首） 十九",
+  "author": "延寿",
+  "dynasty": "唐",
+  "verses": [
+    "青山一坐万缘休，努力应须与古俦。",
+    "散诞襟怀因绝趣，消疎活计为无求。",
+    "花明小砌和春月，松暗前轩带雨秋。",
+    "景像自开还自合，怡然何必更忘忧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-fa78ef0f-5331-41d1-8560-74de9b68dfc7"
+}

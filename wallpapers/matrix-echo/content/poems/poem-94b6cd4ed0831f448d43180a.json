@@ -1,0 +1,16 @@
+{
+  "id": "poem-94b6cd4ed0831f448d43180a",
+  "title": "寄华阴姚少府",
+  "author": "喻坦之",
+  "dynasty": "唐",
+  "verses": [
+    "泰华当公署，为官兴可知。",
+    "砚和青霭冻，帘对白云垂。",
+    "峻掌光浮日，危莲影入池。",
+    "料于三考内，应惜德音移。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ee9b5cf7-035e-42fd-8499-ab7569c9bf4f"
+}

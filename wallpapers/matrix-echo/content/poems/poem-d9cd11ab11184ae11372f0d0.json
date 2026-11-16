@@ -1,0 +1,16 @@
+{
+  "id": "poem-d9cd11ab11184ae11372f0d0",
+  "title": "清平乐·愁肠欲断",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "愁肠欲断，正是青春半。",
+    "连理分枝鸾失伴，又是一场离散。",
+    "掩镜无语眉低，思随芳草萋萋。",
+    "凭仗东风吹梦，与郎终日东西。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-19"
+}

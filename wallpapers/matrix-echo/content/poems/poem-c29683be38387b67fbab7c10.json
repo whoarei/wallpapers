@@ -1,0 +1,14 @@
+{
+  "id": "poem-c29683be38387b67fbab7c10",
+  "title": "送僧",
+  "author": "王鼎",
+  "dynasty": "唐",
+  "verses": [
+    "孤云踪迹都无定，出个青山入个山。",
+    "（均见周校本《诗话总龟》卷四六引《雅言杂载》）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-5008271e-e2dc-4a64-bb71-5a05be914a16"
+}

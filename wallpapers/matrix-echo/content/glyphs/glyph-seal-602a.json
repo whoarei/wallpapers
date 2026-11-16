@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-602a",
+  "script": "seal",
+  "character": "怪",
+  "reading": "guài",
+  "description": "guài：(1)奇异，不平常～诞（离奇古怪）。～事。～物。～讶。～圈（quān）。～话。～异。奇形～状。\n(2)惊奇大惊小～。～不得。\n(3)传说中的妖魔之类鬼～。妖～。\n(4)性情乖僻或行为异样的人～癖（古怪的癖好）。～僻（古怪）。\n(5)很，非常～好的天气。\n(6)怨，责备不～你。～罪。～怨。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怪"
+}

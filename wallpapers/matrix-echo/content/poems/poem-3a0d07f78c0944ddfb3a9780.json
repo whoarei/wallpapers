@@ -1,0 +1,20 @@
+{
+  "id": "poem-3a0d07f78c0944ddfb3a9780",
+  "title": "满庭芳·雨洗花林",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "雨洗花林，春回柳岸，窗间列岫横眉。",
+    "老来光景，生怕聚谈稀。",
+    "何事扁舟西去，收杖屦、契阔鱼池。",
+    "流觞近，诗筒暂歇，焉用虎文彝。",
+    "良辰，怀旧事，海棠花下，笑摘垂丝。",
+    "叹五年一别，万病难治。",
+    "几处绣衣尘迹，歌舞地、乌鹊曾知。",
+    "君今去，珠帘暮卷，山雨拂崇碑。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-766",
+  "tags": []
+}

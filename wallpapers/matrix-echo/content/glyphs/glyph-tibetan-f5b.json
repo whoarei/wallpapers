@@ -1,0 +1,10 @@
+{
+  "id": "glyph-tibetan-f5b",
+  "script": "tibetan",
+  "character": "ཛ",
+  "reading": "dza",
+  "description": "藏文三十个基本字母之一，用于书写藏语。这里列出字母的拉丁转写名，字母本身不对应固定的汉语词义。",
+  "enabled": true,
+  "collection": "藏文基本字母",
+  "source": "Unicode 15.0.0 UnicodeData.txt，U+0F5B；音节或字母名。"
+}

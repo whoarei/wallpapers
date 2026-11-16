@@ -1,0 +1,22 @@
+{
+  "id": "poem-1e80d213ad2ab22349aafe72",
+  "title": "终南望余雪",
+  "author": "祖咏",
+  "dynasty": "唐",
+  "verses": [
+    "终南阴岭秀，积雪浮云端。",
+    "林表明霁色，城中增暮寒。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写雪",
+    "冬天",
+    "写景",
+    "雪",
+    "冬",
+    "五言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b4780bd1-1703-4bce-a801-d5ed566826b5"
+}

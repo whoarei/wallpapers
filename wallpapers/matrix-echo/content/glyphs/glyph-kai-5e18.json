@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e18",
+  "script": "kai",
+  "character": "帘",
+  "reading": "lián",
+  "description": "旧时酒家、茶馆作店招的旗帜,用布做成\n帘子,遮蔽门窗的用具\n同奁”\n⒈用布、塑料、竹片、或苇子等做成遮蔽门窗的东西门～。窗～。\n⒉旧时商店门口做标志的旗帜茶～。酒～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-帘"
+}

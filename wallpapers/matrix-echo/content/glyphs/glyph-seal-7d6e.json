@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7d6e",
+  "script": "seal",
+  "character": "絮",
+  "reading": "xù",
+  "description": "xù：(1)棉花的纤维棉～。被～。\n(2)古代指丝的纤维，特指熟丝。\n(3)像棉絮的东西花～。芦～。柳～。\n(4)在衣被等物里铺棉花、丝绵等～被子。～棉袄。\n(5)连续重复，惹人厌烦～叨。～烦。～聒。～～叨叨。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-絮"
+}

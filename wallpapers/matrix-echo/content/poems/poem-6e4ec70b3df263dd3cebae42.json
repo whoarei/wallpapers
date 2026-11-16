@@ -1,0 +1,20 @@
+{
+  "id": "poem-6e4ec70b3df263dd3cebae42",
+  "title": "鹤冲天·梅雨霁",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "梅雨霁，暑风和。",
+    "高柳乱蝉多。",
+    "小园台榭远池波。",
+    "鱼戏动新荷。",
+    "薄纱厨，轻羽扇。",
+    "枕冷簟凉深院。",
+    "此时情绪此时天。",
+    "无事小神仙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-527",
+  "tags": []
+}

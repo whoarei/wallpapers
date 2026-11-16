@@ -1,0 +1,16 @@
+{
+  "id": "poem-ec12f9a954c0f0632e847b77",
+  "title": "奉和喜雪应制",
+  "author": "徐安贞",
+  "dynasty": "唐",
+  "verses": [
+    "两宫斋祭近登临，雨雪纷纷天昼阴。",
+    "祗为经寒无瑞色，顿教正月满春林。",
+    "蓬莱北上旌门暗，花萼南归马迹深。",
+    "自有三农歌帝力，还将万庾荅尧心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-46a4f158-95b7-46f9-90f9-78bc571ae001"
+}

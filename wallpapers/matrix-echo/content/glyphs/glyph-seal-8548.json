@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8548",
+  "script": "seal",
+  "character": "蕈",
+  "reading": "xùn",
+  "description": "xùn：生长在树林里或草地上的某些高等菌类植物，伞状，种类很多，有的可食，有的有毒毒蝇～。香～。松～。\n〔～树〕常绿乔木，高十余米。叶侧卵形，结蒴果。为优质木材。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蕈"
+}

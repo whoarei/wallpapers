@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9524",
+  "script": "seal",
+  "character": "锤",
+  "reading": "chuí",
+  "description": "八铢\n十二两\n六铢\n槌子,俗称榔头\n古兵器名。柄的上头有一个金属圆球\n秤砣\n锤形物\n①古代兵器。柄上有一个金属圆球。\n②像锤的东西秤～。\n③敲打东西的用具铁～、钉～。\n④用锤子敲打千～百炼。\n【锤炼】\n①磨练。\n②努力钻研，反复加工精心～。\n⒈秤上平衡重量的金属块秤～。\n⒉敲击东西的工具木～子。铁～儿。\n⒊用锤敲击～打。千～百炼。\n⒋像锤的东西纺～。钟～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锤"
+}

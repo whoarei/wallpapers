@@ -1,0 +1,14 @@
+{
+  "id": "poem-c82ebf574b278e1033f6baba",
+  "title": "无题",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "桃溪柳陌好经过，灯下妆成月下歌。",
+    "为是襄王故宫地，至今犹有细腰多。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-dc2356f0-cb33-4b72-8cd1-6d45df9976a3"
+}

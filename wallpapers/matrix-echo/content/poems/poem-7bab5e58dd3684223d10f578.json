@@ -1,0 +1,20 @@
+{
+  "id": "poem-7bab5e58dd3684223d10f578",
+  "title": "周先生画洞庭歌",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "江南客，水为乡，舟为宅，能以笔锋知地脉。",
+    "闲分楚水入丹青，不下此堂临洞庭。",
+    "水文不浪烟不动，木末棱棱山碧重。",
+    "帝子应哀窈窕云，客人似得婵娟梦。",
+    "六月火光衣上生，斋心寂听潺湲声。",
+    "林冰摇镜水拂簟，尽日独卧秋风清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-29e61c7a-6386-478d-a35f-81ea451bce21"
+}

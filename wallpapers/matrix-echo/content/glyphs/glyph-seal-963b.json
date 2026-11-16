@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-963b",
+  "script": "seal",
+  "character": "阻",
+  "reading": "zǔ",
+  "description": "zǔ：(1)险要的地方马陵道狭，而旁多～隘，可伏兵”。\n(2)拦挡～挡。～隔。～拦。～力。～挠。梗～。劝～。～击。～抑。～滞。～难（nàn）。～塞（sè）。\n(3)艰难道～且长。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阻"
+}

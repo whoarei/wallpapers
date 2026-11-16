@@ -1,0 +1,16 @@
+{
+  "id": "poem-ac9ad193bb9a5a8b29a5d390",
+  "title": "郊庙歌辞 太清宫乐章 序入破第二奏",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "虚极仙宗本，希夷象帝先。",
+    "百灵朝太上，万法祖重圆。",
+    "善贷惟冲德，功成谓自然。",
+    "云门达和气，思用合钧天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fa252fae-6e68-425e-b0b3-89acc657b20c"
+}

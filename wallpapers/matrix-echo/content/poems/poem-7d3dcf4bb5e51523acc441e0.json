@@ -1,0 +1,14 @@
+{
+  "id": "poem-7d3dcf4bb5e51523acc441e0",
+  "title": "八拍蛮·愁锁黛眉烟易惨",
+  "author": "阎选",
+  "dynasty": "五代",
+  "verses": [
+    "愁锁黛眉烟易惨，泪飘红脸粉难匀。",
+    "憔悴不知缘底事，遇人推道不宜春。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-25"
+}

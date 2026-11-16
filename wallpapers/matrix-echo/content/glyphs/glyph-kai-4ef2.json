@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ef2",
+  "script": "kai",
+  "character": "仲",
+  "reading": "zhòng",
+  "description": "zhòng：(1)兄弟排行次序二～兄。～弟。\n(2)在当中的～春（春季的第二个月，即农历二月。仲夏、仲秋、仲冬依此类推）。～裁（居间调停、裁判）。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-仲"
+}

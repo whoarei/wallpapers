@@ -1,0 +1,15 @@
+{
+  "id": "poem-1a3ceef7a9e4967e13a465b5",
+  "title": "送崔判官还扬子",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "轻传祗远役，依依下姑亭。",
+    "秋声满杨柳，暮色绕郊坰。",
+    "烟水摇归思，山当楚驿青。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-dc1a9ede-8c1a-4380-9307-a5a5c23e7b01"
+}

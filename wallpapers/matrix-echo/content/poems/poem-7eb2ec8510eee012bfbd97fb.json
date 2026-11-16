@@ -1,0 +1,16 @@
+{
+  "id": "poem-7eb2ec8510eee012bfbd97fb",
+  "title": "九江暮春书事",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "杨柳城初鏁，轮蹄息去踪。",
+    "春流无旧岸，夜色失诸峰。",
+    "影动渔边火，声迟话后钟。",
+    "明朝廻去鴈，谁向北郊逢。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-01be89cd-516b-4fb0-a4ba-4a6af88d2c66"
+}

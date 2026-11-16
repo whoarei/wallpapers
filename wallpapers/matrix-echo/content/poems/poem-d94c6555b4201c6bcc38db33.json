@@ -1,0 +1,16 @@
+{
+  "id": "poem-d94c6555b4201c6bcc38db33",
+  "title": "送义兴元少府",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "逢君惠连第，初命[便]光辉。",
+    "已得群公祖，终妨太傅讥。",
+    "路长人反顾，草断燕回飞。",
+    "本是江南客，还同衣锦归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-4f0445db-513b-4949-ab33-5412bcd8c074"
+}

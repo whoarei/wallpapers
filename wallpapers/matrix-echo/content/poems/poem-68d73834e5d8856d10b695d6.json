@@ -1,0 +1,16 @@
+{
+  "id": "poem-68d73834e5d8856d10b695d6",
+  "title": "送魏季羔游长沙觐兄",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "芦荻湘江水，萧萧万里秋。",
+    "鹤高看迥野，蝉远入中流。",
+    "访友多成滞，携家不厌游。",
+    "惠连仍有作，知得从兄酬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-8095147b-d6cc-449c-9b3b-02996f626e1f"
+}

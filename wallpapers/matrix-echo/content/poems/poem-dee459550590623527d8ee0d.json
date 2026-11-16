@@ -1,0 +1,14 @@
+{
+  "id": "poem-dee459550590623527d8ee0d",
+  "title": "咏史诗 玉门关",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "西戎不敢过天山，定远功成白马闲。",
+    "半夜帐中停烛坐，唯思生入玉门关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-338cb62a-f860-440f-bc06-4b0abb422e36"
+}

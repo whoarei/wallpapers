@@ -1,0 +1,14 @@
+{
+  "id": "poem-68829271a39edb09e2fbbe7a",
+  "title": "独立",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "片云收雨入西山，望极苍茫杳霭间。",
+    "荡荡太虚无一事，祗应日月不曾闲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-f7165bd6-bf25-41a5-a7eb-4603bbad4a9f"
+}

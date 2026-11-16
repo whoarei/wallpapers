@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9612",
+  "script": "seal",
+  "character": "阒",
+  "reading": "qù",
+  "description": "寂静\n空虚\n阒寂\n阒寂的原野\n阒然\n庭园阒然\n阒qù寂静～无一人。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阒"
+}

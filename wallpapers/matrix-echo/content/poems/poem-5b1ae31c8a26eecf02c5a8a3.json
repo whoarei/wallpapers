@@ -1,0 +1,14 @@
+{
+  "id": "poem-5b1ae31c8a26eecf02c5a8a3",
+  "title": "君子阳阳",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "君子阳阳，左执簧，右招我由房，其乐只且！",
+    "君子陶陶，左执翿，右招我由敖，其乐只且！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-66"
+}

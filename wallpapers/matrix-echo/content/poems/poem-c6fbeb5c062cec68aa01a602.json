@@ -1,0 +1,17 @@
+{
+  "id": "poem-c6fbeb5c062cec68aa01a602",
+  "title": "羽林骑闺人",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "秋月临高城，城中管弦思。",
+    "离人堂上愁，稚子阶前戏。",
+    "出门复暎户，望望青丝骑。",
+    "行人过欲尽，狂夫终不至。",
+    "左右寂无言，相看共垂泪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-f5c07374-f4da-464b-9ada-768ab54a26ca"
+}

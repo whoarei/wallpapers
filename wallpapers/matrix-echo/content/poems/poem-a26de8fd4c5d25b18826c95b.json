@@ -1,0 +1,20 @@
+{
+  "id": "poem-a26de8fd4c5d25b18826c95b",
+  "title": "菩萨蛮·玉人又是匆匆去",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "玉人又是匆匆去。",
+    "马蹄何处垂杨路。",
+    "残日倚楼时。",
+    "断魂郎未知。",
+    "阑干移倚遍。",
+    "薄幸教人怨。",
+    "明月却多情。",
+    "随人处处行。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-339",
+  "tags": []
+}

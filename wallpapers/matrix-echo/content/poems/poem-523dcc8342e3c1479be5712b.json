@@ -1,0 +1,16 @@
+{
+  "id": "poem-523dcc8342e3c1479be5712b",
+  "title": "鹧鸪天·雁贴寒云次第飞",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "雁帖寒云次第飞，向南犹自怨归迟。",
+    "谁能瘦马关山道，又到西风扑鬓时。",
+    "人杳杳，思依依，更无芳树有乌啼。",
+    "凭将扫黛窗前月，持向今宵照别离。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-112"
+}

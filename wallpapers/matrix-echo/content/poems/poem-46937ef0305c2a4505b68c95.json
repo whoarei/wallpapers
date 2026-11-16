@@ -1,0 +1,18 @@
+{
+  "id": "poem-46937ef0305c2a4505b68c95",
+  "title": "鹧鸪天·却月凌风度雪清",
+  "author": "孔矩",
+  "dynasty": "宋",
+  "verses": [
+    "却月凌风度雪清。",
+    "何郎高咏照花明。",
+    "一枝弄碧传幽信，半额涂黄拾晚荣。",
+    "春思淡，暗香轻。",
+    "江南雨冷若为情。",
+    "犹胜远隔潇湘水，忽到窗前梦不成。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-581",
+  "tags": []
+}

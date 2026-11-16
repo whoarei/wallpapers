@@ -1,0 +1,16 @@
+{
+  "id": "poem-9d1ce5a393cb11eba47a0a94",
+  "title": "石榴花",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "我哥哥眼内识贤人，情愿将伊妹子结成亲。",
+    "他暂时落薄暂时贫，你们休得闲争论，被傍人闻知作话文。",
+    "大凡事须要相和顺。",
+    "刘郎发迹为官后，大家荣耀李庄门。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8855",
+  "tags": []
+}

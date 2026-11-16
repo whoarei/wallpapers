@@ -1,0 +1,14 @@
+{
+  "id": "poem-ea561db6e466f13f24e66972",
+  "title": "嘉陵江",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "备问嘉陵江水湄，百川东去尔西之。",
+    "但教清浅源流在，天路朝宗会有期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-1d2a89fa-22d5-4234-9887-3fbf2d63f419"
+}

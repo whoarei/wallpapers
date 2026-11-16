@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-67e5",
+  "script": "kai",
+  "character": "查",
+  "reading": "chá；zhā",
+  "description": "chá：(1)考察检～。调～。～验。～访。～阅。\n(2)古同槎”，水中浮木。\nzhā：(1)姓。\n(2)同楂”。\n(3)古同渣”，渣滓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-查"
+}

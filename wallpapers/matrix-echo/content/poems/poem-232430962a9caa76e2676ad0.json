@@ -1,0 +1,20 @@
+{
+  "id": "poem-232430962a9caa76e2676ad0",
+  "title": "夜游宫·长记劳君送远",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "长记劳君送远。",
+    "柳烟重、桃花波暖。",
+    "花外溪城望不见。",
+    "古槐边，故人稀，秋鬓晚。",
+    "我有凌霄伴。",
+    "在何处、山寒云乱。",
+    "何不随君弄清浅。",
+    "见伊时，话阳春，山数点。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-796",
+  "tags": []
+}

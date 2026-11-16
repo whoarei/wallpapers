@@ -1,0 +1,16 @@
+{
+  "id": "poem-141b7cf45a471ae42ef6a67a",
+  "title": "虞美人·春情只到梨花薄",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "春情只到梨花薄，片片催零落。",
+    "夕阳何事近黄昏，不道人间犹有未招魂。",
+    "银笺别梦当时句，密绾同心苣。",
+    "为伊判作梦中人，索向画图清夜唤真真。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-199"
+}

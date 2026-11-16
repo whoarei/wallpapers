@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6cd4",
+  "script": "seal",
+  "character": "泔",
+  "reading": "gān",
+  "description": "gān：〔～水〕洗过米或洗碗洗菜用过的水。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-泔"
+}

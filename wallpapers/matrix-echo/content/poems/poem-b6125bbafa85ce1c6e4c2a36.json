@@ -1,0 +1,17 @@
+{
+  "id": "poem-b6125bbafa85ce1c6e4c2a36",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生)店名须号招商？(末)是。",
+    "这里是招商店。",
+    "(小生)少浼劳尊长。",
+    "(末)且说怎么祥个人，姓甚么？(小生)有个秀才身姓蒋。",
+    "(末)多少年纪了？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3042",
+  "tags": []
+}

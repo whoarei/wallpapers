@@ -1,0 +1,14 @@
+{
+  "id": "poem-f3875b742471374fb22ae803",
+  "title": "十亩之间",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "十亩之间兮，桑者闲闲兮，行与子还兮。",
+    "十亩之外兮，桑者泄泄兮，行与子逝兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-110"
+}

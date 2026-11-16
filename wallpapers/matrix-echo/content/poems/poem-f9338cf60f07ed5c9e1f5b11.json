@@ -1,0 +1,15 @@
+{
+  "id": "poem-f9338cf60f07ed5c9e1f5b11",
+  "title": "有狐",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "有狐绥绥，在彼淇梁。心之忧矣，之子无裳。",
+    "有狐绥绥，在彼淇厉。心之忧矣，之子无带。",
+    "有狐绥绥，在彼淇侧。心之忧矣，之子无服。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-62"
+}

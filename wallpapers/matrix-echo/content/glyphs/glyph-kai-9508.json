@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9508",
+  "script": "kai",
+  "character": "锈",
+  "reading": "xiù",
+  "description": "金属表面所生的氧化物\n锈病\n生锈\n⒈金属表面因受潮腐蚀而生成的氧化物铁～。铜～。\n⒉生锈刀～了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锈"
+}

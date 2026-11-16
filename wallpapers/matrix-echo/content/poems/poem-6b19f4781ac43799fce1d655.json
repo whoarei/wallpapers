@@ -1,0 +1,16 @@
+{
+  "id": "poem-6b19f4781ac43799fce1d655",
+  "title": "鱼山神女祠歌 送神",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "纷进舞兮堂前，目眷眷兮琼筵。",
+    "来不言兮意不传，作暮雨兮愁空山。",
+    "悲急管兮思繁弦，神之驾兮俨欲旋。",
+    "倏云收兮雨歇，山青青兮水潺湲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-dfc946ec-a63e-44c4-82f8-09b02cc23ea0"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e562b904912e09ef09c5a0eb",
+  "title": "仙源即事三首  其一",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "鼎沸秦汤满世间，恨无凉雨洗松关。",
+    "道人识破先天易，又欲携包过别山。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-3ebc312f-137d-4913-9a09-9d80756f5fd4"
+}

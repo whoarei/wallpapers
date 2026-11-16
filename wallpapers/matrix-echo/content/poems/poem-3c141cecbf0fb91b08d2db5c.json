@@ -1,0 +1,16 @@
+{
+  "id": "poem-3c141cecbf0fb91b08d2db5c",
+  "title": "幺",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "他道是父姓陈，母姓殷。",
+    "为官为吏是当军？(唐僧云)我父亲任洪州太守。",
+    "(夫人唱)几年上此间来治民？(唐僧云)贞观三年八月间，被贼人劫杀在江中了也。",
+    "(夫人唱)则一句道的我心迷眼晕，他道是江上遇着强人。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-7962",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-a686e1a552039e3e173aab19",
+  "title": "甘棠",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "蔽芾甘棠，勿翦勿伐，召伯所茇。",
+    "蔽芾甘棠，勿翦勿败，召伯所憩。",
+    "蔽芾甘棠，勿翦勿拜，召伯所说。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-15"
+}

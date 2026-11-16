@@ -1,0 +1,18 @@
+{
+  "id": "poem-675ea0304694be9a36a2b136",
+  "title": "所思",
+  "author": "张佖",
+  "dynasty": "宋",
+  "verses": [
+    "空塘水碧春雨微，东风散漫杨柳飞。",
+    "依依南浦梦犹在，脉脉高唐云不归。",
+    "江头日暮多芳草，极目伤心烟悄悄。",
+    "隔江红杏一枝明，似玉佳人俯清沼。",
+    "休向春台更回望，销魂自古因惆怅。",
+    "银河碧海共无情，两处悠悠起风浪。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-5d03e279-0853-4f9c-8b42-a03324f6ea87"
+}

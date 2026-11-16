@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9785",
+  "script": "seal",
+  "character": "鞅",
+  "reading": "yāng；yàng",
+  "description": "yāng：古代用马拉车时套在马颈上的皮套子。\nyàng：〔牛～〕牛拉东西时架在脖子上的器具。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鞅"
+}

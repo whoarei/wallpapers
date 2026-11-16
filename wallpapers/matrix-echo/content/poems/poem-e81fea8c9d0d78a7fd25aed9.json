@@ -1,0 +1,16 @@
+{
+  "id": "poem-e81fea8c9d0d78a7fd25aed9",
+  "title": "寄题傅钦之济源别业",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "县郭遥相望，修篁百亩余。",
+    "林间清济水，门外太行车。",
+    "道胜随宜足，身闲与世疏。",
+    "何时容命驾，采蕨钓肥鱼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-95a55535-799f-4a9a-8398-53b203b95350"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-5bfcc6ba62c9fab0a1472502",
+  "title": "叶梦授送家园梅花且以绝句十五章见示次其韵  其四",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "慇懃剩作送梅诗，撚断霜髭不为棋。",
+    "只恐苦吟令太瘦，个中风味有谁知。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-bd69a5a8-d94b-4782-8f45-a93d8492ff83"
+}

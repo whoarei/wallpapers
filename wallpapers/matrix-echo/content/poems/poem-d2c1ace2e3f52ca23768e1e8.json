@@ -1,0 +1,16 @@
+{
+  "id": "poem-d2c1ace2e3f52ca23768e1e8",
+  "title": "答鄜畤友人同宿见示",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "为客自堪悲，风尘日满衣。",
+    "承明无计入，旧隐但怀归。",
+    "雪积孤城暗，灯残晓角微。",
+    "相逢喜同宿，此地故人稀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-30297498-3d72-4c4f-8bd2-9449f7f36bbb"
+}

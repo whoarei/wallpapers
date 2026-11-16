@@ -1,0 +1,22 @@
+{
+  "id": "poem-d50bd4e1f0309e3a613df581",
+  "title": "渔家傲引・渔家傲·八月紫莼浮绿水",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "八月紫莼浮绿水。",
+    "细鳞巨口鲈鱼美。",
+    "画舫问渔篙暂舣。",
+    "欣然喜。",
+    "金齑顷刻尝珍味。",
+    "涌雾驱云天似洗。",
+    "静看星斗迎蟾桂。",
+    "枕棹眠蓑清不睡。",
+    "无名利。",
+    "谁人分得逍遥意。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-662",
+  "tags": []
+}

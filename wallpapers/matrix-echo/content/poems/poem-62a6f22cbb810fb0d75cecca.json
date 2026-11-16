@@ -1,0 +1,16 @@
+{
+  "id": "poem-62a6f22cbb810fb0d75cecca",
+  "title": "出峡",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "出峡日将暮，绮霞连水明。",
+    "山遥欣野阔，海近觉江平。",
+    "稍稍洲渚转，霏霏烟霭生。",
+    "舟人喜风便，时发櫂讴声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-a92150e1-c280-484d-a719-b132f47b66d8"
+}

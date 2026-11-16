@@ -1,0 +1,23 @@
+{
+  "id": "poem-be2a5b47c489e92cab27c4ad",
+  "title": "春思",
+  "author": "皇甫冉",
+  "dynasty": "唐",
+  "verses": [
+    "莺啼燕语报新年，马邑龙堆路几千。",
+    "家住秦城邻汉苑，心随明月到胡天。",
+    "机中锦字论长恨，楼上花枝笑独眠。",
+    "为问元戎窦车骑，何时反斾勒燕然。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "七言律诗",
+    "春天",
+    "妇女",
+    "闺怨"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-d35f583a-c20c-453c-a886-e13f98b2e4b4"
+}

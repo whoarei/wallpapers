@@ -1,0 +1,16 @@
+{
+  "id": "poem-a0f0fd88dc078c7030ec9e32",
+  "title": "送别陈侍郎应求知泉州",
+  "author": "林光朝",
+  "dynasty": "宋",
+  "verses": [
+    "百片牙旗水面长，蔡邕题在刺桐乡。",
+    "十年杯酒开云榭，一样官衔过洛阳。",
+    "我亦携家缘送客，谁能扫地自焚香。",
+    "野桥冲腊寒梅白，莫要登临忆侍郎。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-aa5723c4-7ec9-4cd7-9b07-1b6453828ef4"
+}

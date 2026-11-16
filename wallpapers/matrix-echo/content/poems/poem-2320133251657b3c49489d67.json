@@ -1,0 +1,23 @@
+{
+  "id": "poem-2320133251657b3c49489d67",
+  "title": "赤壁",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "折戟沈沙铁未销，自将磨洗认前朝。",
+    "东风不与周郎便，铜雀春深鏁二乔。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "隋・唐・五代",
+    "战争",
+    "八年级下册(课内)",
+    "唐诗三百首",
+    "初中古诗",
+    "七言绝句",
+    "咏史怀古",
+    "怀才不遇"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7c93c162-d424-4d91-b71b-7c9b81713b8c"
+}

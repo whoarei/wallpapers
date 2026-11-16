@@ -1,0 +1,14 @@
+{
+  "id": "poem-590e6d2150f02ea095d949dd",
+  "title": "宫词  其一四",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "晓雾溟蒙似有无，半残红烛动金铺。",
+    "黄莺不语梨花上，错认徐熙旧画图。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-6e8f1d9a-a0ba-4f6e-98e1-a8b9b3f065b8"
+}

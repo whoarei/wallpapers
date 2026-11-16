@@ -1,0 +1,14 @@
+{
+  "id": "poem-265d1ad16f41239e3bfa3472",
+  "title": "同官送鲈二首  其一",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "斑鳞拧鬣玉为肌，梦入松江自可疑。",
+    "𨁝跳金盘催脍手，西风正是忆鲈时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-2d67734d-fd24-4175-a7e7-c638bc7e35d9"
+}

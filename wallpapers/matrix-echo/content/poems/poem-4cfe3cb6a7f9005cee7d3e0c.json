@@ -1,0 +1,14 @@
+{
+  "id": "poem-4cfe3cb6a7f9005cee7d3e0c",
+  "title": "却望无锡芙蓉湖 四",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "旧山认得烟岚近，湖水平铺碧岫间。",
+    "喜见云泉还怅望，自慙山叟不归山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b38832ba-1187-4a67-8cf1-dcf8bc6337e2"
+}

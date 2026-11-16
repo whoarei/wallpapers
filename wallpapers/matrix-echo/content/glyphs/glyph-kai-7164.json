@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7164",
+  "script": "kai",
+  "character": "煤",
+  "reading": "méi",
+  "description": "méi：(1)古代的植物压埋在地底下，在不透空气或空气不足的条件下，受到地下的高温和高压年久变质而形成的黑色或黑褐色矿物～矿。～田。～层。～气。～焦油。～精。\n(2)烟气凝结的黑灰，为制墨的主要原料～炱。松～（松烟）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-煤"
+}

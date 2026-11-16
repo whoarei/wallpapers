@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c48",
+  "script": "kai",
+  "character": "屈",
+  "reading": "qū",
+  "description": "qū：(1)使弯曲，与伸”相对～曲（qū）。～折。～膝。～伸（弯曲和伸直，引申为失意和得意）。首～一指。卑躬～膝。\n(2)低头，降服～服。～从。威武不～。\n(3)冤枉，叫人不痛快冤～。委～。～辱。～才。～就（受委屈而担任某种职务，常用于请人任职的客套话）。～驾。～己待人。\n(4)理亏～心（亏心，昧心）。理～词穷。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-屈"
+}

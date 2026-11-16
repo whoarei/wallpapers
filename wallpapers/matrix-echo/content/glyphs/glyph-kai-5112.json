@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5112",
+  "script": "kai",
+  "character": "儒",
+  "reading": "rú",
+  "description": "rú：(1)指读书人～生。腐～。通～（指博识多闻的大学者）。～林（儒者之林，旧指学术界）。～雅（读书人所具有的温文尔雅的风貌）。\n(2)中国春秋战国时代以孔子、孟子为代表的一个学派～家。～教（即孔教”）。～士。～术。～学。\n(3)古同懦”，懦弱。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-儒"
+}

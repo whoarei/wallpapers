@@ -1,0 +1,14 @@
+{
+  "id": "poem-16629a78c609a0b7b420f952",
+  "title": "玉真观",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "台殿曾为贵主家，春风吹尽竹窗纱。",
+    "院中仙女修香火，不许闲人入看花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-31e6512c-2261-4dfa-9963-7c5fa2bb2f10"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-01644052f5bad4dc13f7c9d8",
+  "title": "赠灵鹫山道润禅师院",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "常恨烟波隔，闻名二十年。",
+    "结为清气引，来到法堂前。",
+    "薪拾纷纷叶，茶烹滴滴泉。",
+    "莫嫌来又去，天道本泠然。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4ad0983d-f474-4449-b5f0-e461259a328c"
+}

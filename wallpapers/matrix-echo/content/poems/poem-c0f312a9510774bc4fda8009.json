@@ -1,0 +1,16 @@
+{
+  "id": "poem-c0f312a9510774bc4fda8009",
+  "title": "桑扈",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "交交桑扈，有莺其羽。君子乐胥，受天之祜。",
+    "交交桑扈，有莺其领。君子乐胥，万邦之屏。",
+    "之屏之翰，百辟为宪。不戢不难，受福不那。",
+    "兕觥其觩，旨酒思柔。彼交匪敖，万福来求。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-214"
+}

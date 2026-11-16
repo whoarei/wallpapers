@@ -1,0 +1,16 @@
+{
+  "id": "poem-b42ea9579faa762eed9fdb24",
+  "title": "鼓钟",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "鼓钟将将，淮水汤汤，忧心且伤。淑人君子，怀允不忘。",
+    "鼓钟喈喈，淮水湝湝，忧心且悲。淑人君子，其德不回。",
+    "鼓钟伐鼛，淮有三洲，忧心且妯。淑人君子，其德不犹。",
+    "鼓钟钦钦，鼓瑟鼓琴，笙磬同音。以雅以南，以龠不僭。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-207"
+}

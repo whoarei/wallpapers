@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6bd4",
+  "script": "kai",
+  "character": "比",
+  "reading": "bǐ",
+  "description": "bǐ：(1)较量高低、长短、远近、好坏等～赛。～附。对～。评～。\n(2)能够相匹今非昔～。无与伦～。\n(3)表示比赛双方胜负的对比三～二。\n(4)表示两个数字之间的倍数、分数等关系～例。～值。\n(5)譬喻，摹拟～如。～方。～兴（xìng）（文学写作的两种手法。比”是譬喻；兴”是烘托）。～画。～况（比照，相比）。\n(6)靠近，挨着～～（一个挨一个，如～～皆是”）。～肩继踵。～邻。鳞次栉～。\n(7)和，亲～顺。\n(8)及，等到～及。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-比"
+}

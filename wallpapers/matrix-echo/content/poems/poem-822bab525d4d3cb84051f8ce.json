@@ -1,0 +1,16 @@
+{
+  "id": "poem-822bab525d4d3cb84051f8ce",
+  "title": "江南旅情",
+  "author": "祖咏",
+  "dynasty": "唐",
+  "verses": [
+    "楚山不可极，归路但萧条。",
+    "海色晴看雨，江声夜听潮。",
+    "剑留南斗近，书寄北风遥。",
+    "为报空潭橘，无媒寄洛桥。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-江南旅情"
+}

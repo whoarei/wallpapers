@@ -1,0 +1,20 @@
+{
+  "id": "poem-cad8fb344804d268225350d6",
+  "title": "水调歌头·琼树挂初日",
+  "author": "王之道",
+  "dynasty": "宋",
+  "verses": [
+    "琼树挂初日，珠箔卷清霜。",
+    "夜来溪上微雨，佳节过重阳。",
+    "共庆当年此际，曾见天麟协梦，华阀挂蓬桑。",
+    "人作鲁侯祝，俾尔寿而臧。",
+    "保疲瘵，旌德善，致吉祥。",
+    "会看报政，朝夕芝检趣征黄。",
+    "不藉灵丹九转，不用蟠桃三窃，源远自流长。",
+    "愿借沧溟富，斟酌荐瑶觞。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-140",
+  "tags": []
+}

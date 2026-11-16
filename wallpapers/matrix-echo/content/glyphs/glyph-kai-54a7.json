@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-54a7",
+  "script": "kai",
+  "character": "咧",
+  "reading": "liě；liē；lié",
+  "description": "liě：嘴向旁边斜着张开～嘴。～着嘴笑。\nliē：〔大大～～〕形容随随便便，满不在乎的样子。\nlié：〔～～〕方言，乱说乱讲，如瞎～～”（后一个咧”读轻声）。\nlie：助词，与了”、啦”、喱”相似好～！他来～！",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咧"
+}

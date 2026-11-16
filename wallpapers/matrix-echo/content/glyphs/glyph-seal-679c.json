@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-679c",
+  "script": "seal",
+  "character": "果",
+  "reading": "guǒ",
+  "description": "guǒ：(1)某些植物花落后含有种子的部分～实。～品。～木。结～（ａ．结出果实；ｂ．事情的结局或成效）。\n(2)结局，与因”相对因～。成～。\n(3)坚决～决。～断。\n(4)确实，真的～真。如～。\n(5)充实，饱足～腹。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-果"
+}

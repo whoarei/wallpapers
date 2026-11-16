@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8c08",
+  "script": "kai",
+  "character": "谈",
+  "reading": "tán",
+  "description": "相处融洽\n⒉言论奇～怪论。高～阔论。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谈"
+}

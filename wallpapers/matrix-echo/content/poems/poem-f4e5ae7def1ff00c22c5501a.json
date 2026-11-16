@@ -1,0 +1,16 @@
+{
+  "id": "poem-f4e5ae7def1ff00c22c5501a",
+  "title": "遥和尘外上人与陆澧夜集山寺问湼槃义兼陆生文卷",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "共是竹林贤，心从贝叶传。",
+    "说经看月喻，开卷爱珠连。",
+    "清净遥城外，萧疎古塔前。",
+    "应随北山子，高顶枕云眠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-d2c31d26-e45b-441c-aad5-54f2d24801be"
+}

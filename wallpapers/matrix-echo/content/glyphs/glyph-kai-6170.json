@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6170",
+  "script": "kai",
+  "character": "慰",
+  "reading": "wèi",
+  "description": "wèi：(1)使人心里安适～问。～劳。～勉（安慰鼓励）。～唁（慰问死者家属）。～留。～藉。安～。劝～。抚～。\n(2)心安～志（宽慰自己的心情）。宽～。欣～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-慰"
+}

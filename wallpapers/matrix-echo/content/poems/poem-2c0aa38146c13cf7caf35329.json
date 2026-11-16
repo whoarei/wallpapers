@@ -1,0 +1,16 @@
+{
+  "id": "poem-2c0aa38146c13cf7caf35329",
+  "title": "应举日寄兄弟",
+  "author": "朱可名",
+  "dynasty": "唐",
+  "verses": [
+    "废刈镜湖田，上书紫阁前。",
+    "愁人久委地，诗道未闻天。",
+    "不是烧金手，徒抛钓月船。",
+    "多惭兄弟意，不敢问林泉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-49c442a7-b1e4-4871-bb55-9e18a63d8a4e"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-f42bad0ec6559f58890f5ba8",
+  "title": "答白公",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "高景争来草木头，一生心事酒前休。",
+    "山公自是仙人侣，携手醉登城上楼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-824804d2-ec32-44ac-9f21-94dcbdb6023b"
+}

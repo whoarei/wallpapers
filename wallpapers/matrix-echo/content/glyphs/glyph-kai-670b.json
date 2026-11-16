@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-670b",
+  "script": "kai",
+  "character": "朋",
+  "reading": "péng",
+  "description": "péng：(1)彼此友好的人～友。～辈。～侪。～俦。宾～。至爱亲～。\n(2)结党～党（为私利而互相勾结、排斥异己的一帮人）。\n(3)成群群居～飞。\n(4)古代以贝壳为货币，五贝为一串，两串为一朋。\n(5)比硬大无～。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-朋"
+}

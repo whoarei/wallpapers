@@ -1,0 +1,14 @@
+{
+  "id": "poem-c582e1c1d5fc7a3281184d2c",
+  "title": "宫词  其五六",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "倦饮情怀春晼晚，宫槐新叶未成阴。",
+    "和风习习帘帘卷，轻絮翩翩院院深。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-343b19ac-a00a-4f91-9014-6a89553367e4"
+}

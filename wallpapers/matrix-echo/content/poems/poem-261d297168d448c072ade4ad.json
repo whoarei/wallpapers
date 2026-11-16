@@ -1,0 +1,14 @@
+{
+  "id": "poem-261d297168d448c072ade4ad",
+  "title": "题林子默隠居",
+  "author": "林迥",
+  "dynasty": "宋",
+  "verses": [
+    "先生平昔命何非，万卷诗书一布衣。",
+    "回首长安成底事，吴山苍翠几时归。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-36a19d6e-f225-4dc1-a3c8-1e720c3a7c54"
+}

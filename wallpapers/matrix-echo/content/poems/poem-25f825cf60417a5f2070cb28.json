@@ -1,0 +1,16 @@
+{
+  "id": "poem-25f825cf60417a5f2070cb28",
+  "title": "菩萨蛮 其二",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "水晶帘里玻璃枕，暖香惹梦鸳鸯锦。",
+    "江上柳如烟，雁飞残月天。",
+    "藕丝秋色浅，人胜参差剪。",
+    "双鬓隔香红，玉钗头上风。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-1",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-795a",
+  "script": "seal",
+  "character": "祚",
+  "reading": "zuò",
+  "description": "zuò：(1)福，赐福天～。福～。\n(2)皇位～命（赐予皇位）。\n(3)年初岁元～。吉日惟良”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-祚"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-54366cb8cf845211990dc5d6",
+  "title": "木兰花・玉楼春·插花劝酒盐桥馆",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "插花劝酒盐桥馆。",
+    "召节促行龙阙远。",
+    "吴船渐起晚潮生，蛮榼未空寒日短。",
+    "庆门奕世隆宸眷。",
+    "归到月陂梅已绽。",
+    "有情愿寄向南枝，图得洛阳春色看。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-366",
+  "tags": []
+}

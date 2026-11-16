@@ -1,0 +1,16 @@
+{
+  "id": "poem-9ea867e0f15bbb08af8deba4",
+  "title": "和常州崔使君寒食夜",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "闻道清明近，春闱向夕阑。",
+    "行游昼不厌，风物夜宜看。",
+    "斗柄更初转，梅香暗里残。",
+    "无劳秉华烛，晴月在南端。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6374eebf-a2b0-4dca-82af-9dbe01305e0d"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e96",
+  "script": "seal",
+  "character": "庖",
+  "reading": "páo",
+  "description": "páo：(1)厨房～厨。\n(2)厨师～人（厨师）。～丁。名～。～代（替人处理或担任事情。亦称代庖”）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-庖"
+}

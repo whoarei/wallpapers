@@ -1,0 +1,16 @@
+{
+  "id": "poem-1a8649ddee51c0762cd34220",
+  "title": "送乐平苗明府",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "累职比柴桑，清秋入楚乡。",
+    "一船灯照浪，两岸树凝霜。",
+    "亭吏趋寒雾，山城敛曙光。",
+    "无辞折腰久，仲德在鸳行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-a239b10c-5bf9-4567-b4e4-981c1cdccc2f"
+}

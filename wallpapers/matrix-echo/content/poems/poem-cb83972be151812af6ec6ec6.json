@@ -1,0 +1,16 @@
+{
+  "id": "poem-cb83972be151812af6ec6ec6",
+  "title": "横吹曲辞 前出塞九首 七",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "驱马天雨雪，军行入高山。",
+    "迳危抱寒石，指落曾冰间。",
+    "已去汉月远，何时筑城还？",
+    "浮云暮南征，可望不可攀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-68f3ddee-deaa-484e-b375-0b6eed8bb3b9"
+}

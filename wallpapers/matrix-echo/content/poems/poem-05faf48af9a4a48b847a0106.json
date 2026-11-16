@@ -1,0 +1,16 @@
+{
+  "id": "poem-05faf48af9a4a48b847a0106",
+  "title": "清平乐·风鬟雨鬓",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "风鬟雨鬓，偏是来无准。",
+    "倦倚玉兰看月晕，容易语低香近。",
+    "软风吹遍窗纱，心期便隔天涯。",
+    "从此伤春伤别，黄昏只对梨花。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-161"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e98374dd7caa9780551ae6a",
+  "title": "摊破浣溪沙·欲语心情梦已阑",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "欲语心情梦已阑，镜中依约见春山。",
+    "方悔从前真草草，等闲看。",
+    "环佩只应归月下，钗钿何意寄人间。",
+    "多少滴残红蜡泪，几时干。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-38"
+}

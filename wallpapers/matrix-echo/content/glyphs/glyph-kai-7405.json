@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7405",
+  "script": "kai",
+  "character": "琅",
+  "reading": "láng",
+  "description": "láng：〔～～〕a.象声词，金石相击声；b.象声词，响亮的读书声，如书声～～”。\n〔～玕〕像珠子的美石。\n〔～玡〕山名，在中国山东省。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-琅"
+}

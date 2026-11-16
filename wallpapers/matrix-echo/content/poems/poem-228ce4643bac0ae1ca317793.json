@@ -1,0 +1,16 @@
+{
+  "id": "poem-228ce4643bac0ae1ca317793",
+  "title": "送薛耽先辈归谒汉南",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "云绕千峰驿路长，谢家联句待檀郎。",
+    "手持碧落新攀桂，月在东轩旧选床。",
+    "几日旌幢延骏马，到时冰玉动华堂。",
+    "孔门多少风流处，不遣颜回识醉乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-db3b36f8-1dee-48d3-9cd3-03a379d57661"
+}

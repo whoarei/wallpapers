@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8315",
+  "script": "seal",
+  "character": "茕",
+  "reading": "qióng",
+  "description": "回旋着飞\n孤独,无兄弟\n悲愁\n⒈没有弟兄，孤独～独。\n⒊忧愁。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茕"
+}

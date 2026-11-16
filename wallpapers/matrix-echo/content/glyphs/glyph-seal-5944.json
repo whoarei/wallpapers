@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5944",
+  "script": "seal",
+  "character": "奄",
+  "reading": "yǎn；yān",
+  "description": "yǎn：(1)覆盖～有天下。\n(2)忽然，突然～弃（忽然抛弃）。～忽（忽然，如～～如神”）。～然。\n(3)气息微弱～～一息。\nyān：(1)古同阉”，指宦官。\n(2)古同淹”，停留，久留。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-奄"
+}

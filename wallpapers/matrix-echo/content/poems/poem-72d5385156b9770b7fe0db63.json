@@ -1,0 +1,16 @@
+{
+  "id": "poem-72d5385156b9770b7fe0db63",
+  "title": "题令宣和尚院",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "轩窗领岚翠，师得世情忘。",
+    "惟爱谈诸祖，曾经宿大荒。",
+    "泉声淹卧榻，云片犯𬬻香。",
+    "寄语题门者，看经在上方。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-aa4c2d7c-010e-4cf1-98b2-dd230dbfe621"
+}

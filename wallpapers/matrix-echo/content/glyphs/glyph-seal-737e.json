@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-737e",
+  "script": "seal",
+  "character": "獾",
+  "reading": "huān",
+  "description": "huān：哺乳动物，毛灰色，善掘土，穴居山野，昼伏夜出。毛可制笔，毛皮可制裘，其脂肪熬炼的獾油可治疗烫伤等。亦称狗獾”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-獾"
+}

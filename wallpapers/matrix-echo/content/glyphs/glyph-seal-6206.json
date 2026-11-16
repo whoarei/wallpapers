@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6206",
+  "script": "seal",
+  "character": "戆",
+  "reading": "gàng",
+  "description": "戆头戆脑\n憨厚而刚直\n益戆由来未觉贤,终须南去吊\n⒈〈方〉愣，呆，鲁莽～头～脑。\n⒉见zhuàng。\n⒈刚直～直。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-戆"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-bdb22b390029deb3e4c4ca92",
+  "title": "句  其三",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "藏阄新度腊，习舞竞裁衣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-dca6d512-67c9-4eb4-9651-b9902e4e85e9"
+}

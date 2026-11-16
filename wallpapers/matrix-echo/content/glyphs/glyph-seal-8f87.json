@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f87",
+  "script": "seal",
+  "character": "辇",
+  "reading": "niǎn",
+  "description": "秦汉后特指君后所乘的车\n⒈用人力推拉着走的车子。秦汉以后专指帝王的车子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辇"
+}

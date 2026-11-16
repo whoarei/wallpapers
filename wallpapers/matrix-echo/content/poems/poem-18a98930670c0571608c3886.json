@@ -1,0 +1,16 @@
+{
+  "id": "poem-18a98930670c0571608c3886",
+  "title": "寄拄杖上王使君",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "拄杖邻僧与，殊常不可名。",
+    "一条黳玉重，百两紫金轻。",
+    "有乳盘春力，无心合道情。",
+    "惟宜高处著，将寄谢宣城。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c9b1c5b3-00a4-4bde-81ab-0c181431baff"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-0d5a03523a9b617061a26acc",
+  "title": "朱槿花",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "瘴烟长暖无霜雪，槿艳繁花满树红。",
+    "每叹芳菲四时厌，不知开落有春风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-fbcb2a21-ed3f-47ab-9efa-d02004995e1e"
+}

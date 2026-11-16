@@ -1,0 +1,14 @@
+{
+  "id": "poem-39e351296230cb8654bf27c1",
+  "title": "秦望山",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "祖龙痴欲望长年，却遣君房渡海船。",
+    "枉去蓬山觅丹药，桃源亦自有神仙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-43c0f53e-2167-468d-806f-b7742954e0f4"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e23c4c5976a8f0665db1bf0",
+  "title": "内宴奉诏作",
+  "author": "曹翰",
+  "dynasty": "宋",
+  "verses": [
+    "三十年前学六韬，英名常得预时髦。",
+    "曾因国难披金甲，不为家贫卖宝刀。",
+    "臂健尚嫌弓力软，眼明犹识阵云高。",
+    "庭前昨夜秋风起，羞睹盘花旧战袍。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-72ced332-bb34-4ae3-aff1-d1ffedee6226"
+}

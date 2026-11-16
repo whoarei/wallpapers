@@ -1,0 +1,16 @@
+{
+  "id": "poem-90b126b4bce072e836ece375",
+  "title": "江上书怀",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "骨肉天涯别，江山日落时。",
+    "泪流襟上血，发变镜中丝。",
+    "胡越书难到，存亡梦岂知。",
+    "登高回首罢，形影自相随。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-b8cb002c-be55-4c7b-8725-3983ebec476f"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-94fe",
+  "script": "kai",
+  "character": "链",
+  "reading": "liàn",
+  "description": "链条\n用索环栓住、捆绑或联接\n⒈用金属环连套构成的长条铁～子。表带～。\n⒉海洋上计算距离的一种单位，一～为十分之一海里，合185.2米。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-链"
+}

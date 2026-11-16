@@ -1,0 +1,16 @@
+{
+  "id": "poem-ee0b118c59cf80c9f0c854f8",
+  "title": "次韵项君玉",
+  "author": "王琮",
+  "dynasty": "宋",
+  "verses": [
+    "惠然乘兴访幽栖，细雨冥冥湿杖藜。",
+    "七尺身强于鹤瘦，一生心不向人低。",
+    "日寻灵药行寒麓，时有新诗付小奚。",
+    "欲解貂金同一醉，酒垆闻只在前溪。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-6a0b3494-69f8-4e7b-af18-db3c603a1f36"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-98df",
+  "script": "seal",
+  "character": "食",
+  "reading": "shí；sì；yì",
+  "description": "shí：(1)吃～肉。～欲。\n(2)吃的东西～品。粮～。零～。丰衣足～。\n(3)俸禄君子谋道不谋～”。\n(4)日月亏缺或完全不见的现象日～。月～。\nsì：拿东西给人吃～母（乳母）。\nyì：用于人名郦～其（jī）（中国汉代人）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-食"
+}

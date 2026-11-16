@@ -1,0 +1,18 @@
+{
+  "id": "poem-e0a2d3d6197820c68ad1742c",
+  "title": "西江月·雨后夹衣初冷",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "雨后夹衣初冷，霜前细菊浑斑。",
+    "觚棱清月绣团环。",
+    "万里长安秋晚。",
+    "槽下内家玉滴，盘中江国金丸。",
+    "春容著面作微殷。",
+    "烛影红摇醉眼。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-825",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-83d44bd86fa5f7517478e2c9",
+  "title": "玉蘂花",
+  "author": "何兆",
+  "dynasty": "唐",
+  "verses": [
+    "羽车潜下玉龟山，尘世何缘覩蕣颜。",
+    "惟有多情天上雪，好风吹上绿云鬟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-db497d72-aefd-4639-88d1-dc93999b1de4"
+}

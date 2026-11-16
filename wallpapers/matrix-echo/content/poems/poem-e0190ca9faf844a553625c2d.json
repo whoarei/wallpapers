@@ -1,0 +1,21 @@
+{
+  "id": "poem-e0190ca9faf844a553625c2d",
+  "title": "梦天",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "老兔寒蟾泣天色，云楼半开壁斜白。",
+    "玉轮轧露湿团光，鸾珮相逢桂香陌。",
+    "黄尘清水三山下，更变千年如走马。",
+    "遥望齐州九点烟，一泓海水杯中泻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "梦游",
+    "月宫",
+    "想象",
+    "哲理"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-812cff97-e2ca-447b-abf6-76617a8f77f8"
+}

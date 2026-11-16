@@ -1,0 +1,16 @@
+{
+  "id": "poem-ffe16ecccf4766b3bb453f7b",
+  "title": "寄陈用晦四首  其四",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "我初识苏仙，谈诗达旦夕。",
+    "君今与提衡，当复诧此客。",
+    "一代紫微公，文采耀楚泽。",
+    "归来要同登，斲句慰英魄。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-db2db162-92a6-4927-a0c6-a143fe79b7a8"
+}

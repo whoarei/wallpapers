@@ -1,0 +1,16 @@
+{
+  "id": "poem-8946ffb2c910d2c978960331",
+  "title": "偈颂（幷序○序为南岳齐己撰） 二十三",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "四气吹成物不虚，可怜青叶下垂珠。",
+    "虽然种得无心宝，一任傍人恣意须。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-d0816932-f6e6-495a-b0d4-274528eb3112"
+}

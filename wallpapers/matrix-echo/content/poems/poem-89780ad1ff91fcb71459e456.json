@@ -1,0 +1,14 @@
+{
+  "id": "poem-89780ad1ff91fcb71459e456",
+  "title": "千叶碧桃二绝句  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "春光欲暮碧桃开，烟露相和染玉腮。",
+    "仙苑何人移得种，风光疑自茂陵来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-e9908a3c-545b-4fda-a0de-bc68ef9c35f6"
+}

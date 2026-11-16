@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6da9",
+  "script": "kai",
+  "character": "涩",
+  "reading": "sè",
+  "description": "味不甘滑\n⒈使舌头感到不滑润、不好受的一种滋味这柿子～口。\n⒉不光滑，不滑溜滞～。枯～。\n⒊文章难读难懂文字生～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-涩"
+}

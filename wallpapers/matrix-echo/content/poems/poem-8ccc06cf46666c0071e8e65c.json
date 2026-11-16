@@ -1,0 +1,16 @@
+{
+  "id": "poem-8ccc06cf46666c0071e8e65c",
+  "title": "答司马承祯上劒镜",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "宝照含天地，神劒合阴阳。",
+    "日月丽光景，星斗裁文章。",
+    "写鉴表容质，佩服为身防。",
+    "从兹一赏玩，永德保龄长。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-1ea9b354-24bc-497a-a8fb-0e83e0a00c9f"
+}

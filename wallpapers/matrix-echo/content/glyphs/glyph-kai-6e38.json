@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6e38",
+  "script": "kai",
+  "character": "游",
+  "reading": "yóu",
+  "description": "yóu：(1)人或动物在水里行动～泳。～水。\n(2)不固定～资。～走。～牧。～行。～学（古指离开本乡到外地或外国求学）。～击。～弋。～离。～子（离家久居外乡的人）。\n(3)河流的一段上～。中～。下～。\n(4)交往，来往交～。\n(5)从容地行走周～。～历。～逛。～兴（xìng）。～记。～说（shuì）。～山玩水。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-游"
+}

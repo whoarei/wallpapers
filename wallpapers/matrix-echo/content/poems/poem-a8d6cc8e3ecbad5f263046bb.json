@@ -1,0 +1,14 @@
+{
+  "id": "poem-a8d6cc8e3ecbad5f263046bb",
+  "title": "临江仙·扪窗摸户入房来",
+  "author": "邢俊臣",
+  "dynasty": "宋",
+  "verses": [
+    "扪窗摸户入房来。",
+    "笙歌归院落，灯火下楼台。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-841",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-e82bd3be8c7e71d7e9ff4307",
+  "title": "同程九早入中书",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "汉家贤相重英奇，蟠木何材也见知。",
+    "不意云霄能自致，空惊鹓鹭忽相随。",
+    "腊雪初明柏子殿，春光欲上万年枝。",
+    "独惭皇鉴明如日，未厌春光向玉墀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e4449fbb-cf45-43a2-b3ff-4ee886423be1"
+}

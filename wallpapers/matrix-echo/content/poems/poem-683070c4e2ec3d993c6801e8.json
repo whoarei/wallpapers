@@ -1,0 +1,16 @@
+{
+  "id": "poem-683070c4e2ec3d993c6801e8",
+  "title": "诉衷情·银汉云晴玉漏长",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "银汉云晴玉漏长，蛩声悄画堂。",
+    "筠簟冷，碧窗凉，红蜡泪飘香。",
+    "皓月泻寒光，割人肠。",
+    "那堪独自步池塘，对鸳鸯。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-6"
+}

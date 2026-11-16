@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62fe",
+  "script": "seal",
+  "character": "拾",
+  "reading": "shí；shè",
+  "description": "shí：(1)捡，从地上拿起～草。～粪。～零（捡取某方面的零碎材料，常用于文章标题）。～取。俯～皆是。～人牙慧。\n(2)收，敛，整理收～。～掇。\n(3)十”的大写。\n(4)旧称射箭人穿在左臂上的皮制护袖。\n丢；\nshè：古同涉”，历，经由～级而上。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拾"
+}

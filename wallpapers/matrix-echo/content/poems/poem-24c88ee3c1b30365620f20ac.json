@@ -1,0 +1,20 @@
+{
+  "id": "poem-24c88ee3c1b30365620f20ac",
+  "title": "夏日谒智远禅师",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "吾师当几祖，说法云无空。",
+    "禅心三界外，宴坐天地中。",
+    "院静鬼神去，身与草木同。",
+    "因知护王国，满钵盛毒龙。",
+    "抖擞尘埃衣，谒师见真宗。",
+    "何必千万劫，瞬息去樊笼。",
+    "盛夏火为日，一堂十月风。",
+    "不得为弟子，名姓挂儒宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-4bf72d4e-3c82-4c98-9966-321f5014d594"
+}

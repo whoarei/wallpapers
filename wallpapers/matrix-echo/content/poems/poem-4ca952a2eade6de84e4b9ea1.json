@@ -1,0 +1,16 @@
+{
+  "id": "poem-4ca952a2eade6de84e4b9ea1",
+  "title": "鄠郊山舍题赵处士林亭",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "圭峰秋后叠，乱叶落寒墟。",
+    "四五百竿竹，二三千卷书。",
+    "云深猿拾栗，雨霁蚁缘蔬。",
+    "只隔门前水，如同万里余。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-82ae295e-360d-4e4e-be5a-1ed9f27e7cd7"
+}

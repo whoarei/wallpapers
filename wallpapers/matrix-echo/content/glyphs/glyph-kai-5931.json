@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5931",
+  "script": "kai",
+  "character": "失",
+  "reading": "shī",
+  "description": "shī：(1)丢遗～。坐～良机。收复～地。流离～所。\n(2)违背～约。～信。\n(3)找不着迷～方向。\n(4)没有掌握住～言。～职。～调（tiáo）。\n(5)没有达到～望。～意。\n(6)错误～误。～策。过～。～之毫厘，谬以千里。\n(7)改变常态惊慌～色。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-失"
+}

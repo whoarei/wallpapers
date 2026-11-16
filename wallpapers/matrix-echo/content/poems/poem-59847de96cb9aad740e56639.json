@@ -1,0 +1,14 @@
+{
+  "id": "poem-59847de96cb9aad740e56639",
+  "title": "剪彩花",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "敢竞桃李色，自呈刀尺功。",
+    "蝶犹迷剪翠，人岂辨裁红。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-5f0e0450-dc67-42b1-b59d-718213cee4b4"
+}

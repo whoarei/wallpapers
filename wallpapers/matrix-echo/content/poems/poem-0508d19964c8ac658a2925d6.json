@@ -1,0 +1,16 @@
+{
+  "id": "poem-0508d19964c8ac658a2925d6",
+  "title": "送宫人入道",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "愿随仙女董双成，王母前头作伴行。",
+    "初戴玉冠多悮拜，欲辞金殿别称名。",
+    "将敲碧落新斋磬，却进昭阳旧赐筝。",
+    "旦暮焚香绕坛上，步虚犹作按歌声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-cce85db9-5233-452c-a542-cb2dfe3b4187"
+}

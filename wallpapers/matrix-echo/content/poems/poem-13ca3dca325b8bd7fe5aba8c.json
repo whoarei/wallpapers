@@ -1,0 +1,16 @@
+{
+  "id": "poem-13ca3dca325b8bd7fe5aba8c",
+  "title": "华顶",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "欲向仙峰炼九丹，独瞻华顶礼仙坛。",
+    "石标琪树凌空碧，水挂银河映月寒。",
+    "天外鹤声随绛节，洞中云气隐琅玕。",
+    "浮生未有从师地，空诵仙经想羽翰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-fa117c57-cc2f-4647-a501-59a4d5b7065a"
+}

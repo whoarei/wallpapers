@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-72d7",
+  "script": "seal",
+  "character": "狗",
+  "reading": "gǒu",
+  "description": "gǒu：哺乳动物，种类很多，听觉嗅觉都很敏锐，善于看守门户，有的可以训练成军犬、警犬走～。～彘（狗和猪）。～刨（páo）（一种游泳动作）。～盗（小偷）。～腿子。～仗人势。～尾续貂（喻拿粗劣的东西接到美好的东西后面，很不相称，常指文章）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-狗"
+}

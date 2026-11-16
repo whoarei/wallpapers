@@ -1,0 +1,15 @@
+{
+  "id": "poem-29ed6a63044e238ac42a219a",
+  "title": "绸缪",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "绸缪束薪，三星在天。今夕何夕，见此良人？子兮子兮，如此良人何？",
+    "绸缪束刍，三星在隅。今夕何夕，见此邂逅？子兮子兮，如此邂逅何？",
+    "绸缪束楚，三星在户。今夕何夕，见此粲者？子兮子兮，如此粲者何？"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-117"
+}

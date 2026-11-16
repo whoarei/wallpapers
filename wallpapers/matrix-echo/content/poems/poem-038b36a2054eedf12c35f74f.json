@@ -1,0 +1,16 @@
+{
+  "id": "poem-038b36a2054eedf12c35f74f",
+  "title": "别谪者",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "此地闻犹恶，人言是所之。",
+    "一家书绝久，孤驿梦成迟。",
+    "八月三湘道，闻猨冒雨时。",
+    "不须祠楚相，臣节转堪疑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-e4e287f1-f101-4d55-8448-1f73442ef2f5"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-805a",
+  "script": "seal",
+  "character": "聚",
+  "reading": "jù；jv",
+  "description": "jù：会合，集合～合。～会。～积。～集。～谈。～拢。～齐。～餐。欢～一堂。物以类～。凝～。～沙成塔。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-聚"
+}

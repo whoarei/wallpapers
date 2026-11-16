@@ -1,0 +1,17 @@
+{
+  "id": "poem-283c055a06731b4f4bba5eca",
+  "title": "叨叨令",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "贫则虽贫，每恁地娇，这两眉儿扫。",
+    "有时暗忆妾爹娘，珠泪堕润湿芳容，甚人知道？妾又无人要。",
+    "兼自执卓做人，除非是苦怀抱。",
+    "妾又无倚靠。",
+    "付分缘与人缉麻，夜间独自，宿在古庙。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2459",
+  "tags": []
+}

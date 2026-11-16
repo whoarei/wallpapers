@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8df7",
+  "script": "kai",
+  "character": "跷",
+  "reading": "qiāo",
+  "description": "竖起\n踮起脚后跟\n用同",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-跷"
+}

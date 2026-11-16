@@ -1,0 +1,16 @@
+{
+  "id": "poem-b8edb5e20e7aa89f17c93bca",
+  "title": "立秋后题",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "日月不相饶，节序昨夜隔。",
+    "玄蝉无停号，秋燕已如客。",
+    "平生独往愿，惆怅年半百。",
+    "罢官亦由人，何事拘形役。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-e8e50fc9-2d2d-4f48-9fe4-2be2d4afad73"
+}

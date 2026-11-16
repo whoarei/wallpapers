@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9762",
+  "script": "seal",
+  "character": "面",
+  "reading": "miàn",
+  "description": "⒈脸，头的前部～孔。颜～。～不改色。\n⒉直接接触，当着本人在场～谈。当～说。\n⒊朝着，脸对着～向。～山而居。\n⒋部位，方向前～。里～。右～。四～八方。～ ～俱到。\n⒌东西的外表地～。鞋～子。被盖～儿。\n⒍几何学上指线移动所生成的形迹，有长有宽没有厚～积。平～。\n⒎量词三～旗帜。两～镜子。\n①脸面，面子没有～目见人。\n②相貌，脸的形状～目可憎。\n③〈喻〉事物的景象状态～目一新。\n①体面怕丢～子。\n②情面秉公执法，不讲～子。\n③东西的外表桌～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-面"
+}

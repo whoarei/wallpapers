@@ -1,0 +1,14 @@
+{
+  "id": "poem-0bb64d13e2f3e95a2c9d74f2",
+  "title": "铜雀妓",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "强开尊酒向陵看，忆得君王旧日懽。",
+    "不觉余歌悲自断，非关艳曲转声难。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-a6df100f-c72d-43ce-ab45-c264abb61961"
+}

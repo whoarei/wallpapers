@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ec1",
+  "script": "seal",
+  "character": "绁",
+  "reading": "xiè",
+  "description": "绳索\n牵引牲畜的绳索\n系、拴或捆绑\n⒈牵牲口的绳子或缚罪人的绳索马～。缧～。\n⒉捆绑。\n绁yì 1.超越。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绁"
+}

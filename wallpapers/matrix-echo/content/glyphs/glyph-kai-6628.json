@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6628",
+  "script": "kai",
+  "character": "昨",
+  "reading": "zuó",
+  "description": "zuó：今天的前一天，亦泛指过去～天。觉今是而～非（感到现在这样是对的，过去是错误的）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-昨"
+}

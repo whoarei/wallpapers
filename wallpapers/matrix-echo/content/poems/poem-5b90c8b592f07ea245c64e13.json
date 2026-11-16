@@ -1,0 +1,14 @@
+{
+  "id": "poem-5b90c8b592f07ea245c64e13",
+  "title": "灌花",
+  "author": "柴元彪",
+  "dynasty": "宋",
+  "verses": [
+    "小圃辛勤植众芳，年年雨露借恩光。",
+    "近来天意高难问，抱瓮从朝到夕阳。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-f21132c1-d717-46b6-9fbd-553a2a9c7012"
+}

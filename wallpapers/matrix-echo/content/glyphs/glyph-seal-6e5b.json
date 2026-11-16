@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6e5b",
+  "script": "seal",
+  "character": "湛",
+  "reading": "zhàn",
+  "description": "zhàn：(1)深精～。～恩（深恩）。～蓝。\n(2)清澈清～。澄～。\n(3)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-湛"
+}

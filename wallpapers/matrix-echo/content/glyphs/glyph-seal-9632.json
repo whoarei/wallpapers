@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9632",
+  "script": "seal",
+  "character": "防",
+  "reading": "fáng",
+  "description": "fáng：(1)戒备，预先作好应急的准备～止。～备。预～。～范（防备，戒备）。～患未然。～意如城（指严格控制个人欲望，就像守城防敌一样）。～微杜渐（在坏事和错误刚冒头的时候就加以制止，以免发展下去）。\n(2)守卫～守。边～。～。\n(3)堤坝～堤。以～止水”。\n(4)抵得，相当百夫之～（抵得上百人的人）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-防"
+}

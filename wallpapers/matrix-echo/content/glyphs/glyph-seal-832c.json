@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-832c",
+  "script": "seal",
+  "character": "茬",
+  "reading": "chá",
+  "description": "chá：(1)庄稼收割后余留在地里的短茎和根～子。麦～。\n(2)同一块田地上庄稼种植或收割的次数头～。\n(3)短而硬的头发、胡子胡～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茬"
+}

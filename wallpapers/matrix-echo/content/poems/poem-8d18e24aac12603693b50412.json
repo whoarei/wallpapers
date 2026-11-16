@@ -1,0 +1,18 @@
+{
+  "id": "poem-8d18e24aac12603693b50412",
+  "title": "西江月·月斧修成腻玉",
+  "author": "王质",
+  "dynasty": "宋",
+  "verses": [
+    "月斧修成腻玉，风斤琢碎轻冰。",
+    "主人无那寿杯深。",
+    "倩取花来唤醒。",
+    "舞罢绣裀凤蹙，饮阑画阁香凝。",
+    "试将花蕊数层层。",
+    "犹比长年不尽。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-318",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-39dbbb2404ea2590fef8baab",
+  "title": "听夜泉",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "细泉深处落，夜久渐闻声。",
+    "独起出门听，欲寻当涧行。",
+    "还疑隔林远，复畏有风生。",
+    "月下长来此，无人亦到明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-92ea24f9-4780-4d8e-857a-3fd7b3778b39"
+}

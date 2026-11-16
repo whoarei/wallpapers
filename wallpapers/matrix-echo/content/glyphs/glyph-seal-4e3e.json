@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e3e",
+  "script": "seal",
+  "character": "举",
+  "reading": "jǔ；jv",
+  "description": "拿起;提起\n飞,飞起;飘动\n⒈抬起，向上托～头。～手。～枪。～案齐眉。〈引〉\n①行动，动作～动。创～。一～成名。\n②发起，兴办～义。～办工厂。\n⒉提出～例。列～。\n⒊推选，推荐推～。选～。\n⒋全～国欢腾。～世无双。\n⒌揭发检～。\n①点火。\n②生火做饭。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-举"
+}

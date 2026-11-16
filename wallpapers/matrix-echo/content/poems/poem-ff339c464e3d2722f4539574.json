@@ -1,0 +1,14 @@
+{
+  "id": "poem-ff339c464e3d2722f4539574",
+  "title": "征妇词",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "日日妆楼望雁回，雁回郎不寄书来。",
+    "谁知别后身宽窄，欲送寒衣未敢裁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-5f8d7886-e94b-4731-b317-5d6a3054ca95"
+}

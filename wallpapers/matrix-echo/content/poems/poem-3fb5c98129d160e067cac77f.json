@@ -1,0 +1,16 @@
+{
+  "id": "poem-3fb5c98129d160e067cac77f",
+  "title": "咏鹦鹉",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "常贵西山鸟，衔恩在玉堂。",
+    "语传明主意，衣拂美人香。",
+    "缓步寻珠网，高飞上画梁。",
+    "长安频道乐，何日从君王。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-97582184-21c7-4f82-9f49-a80c8e30d0df"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-553e",
+  "script": "seal",
+  "character": "唾",
+  "reading": "tuò",
+  "description": "tuò：(1)口腔里的消化液～液。～涎。～沫。\n(2)啐，从嘴里吐出来～弃（吐唾沫表示轻视、鄙弃）。～骂。～手可得。～面自干。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-唾"
+}

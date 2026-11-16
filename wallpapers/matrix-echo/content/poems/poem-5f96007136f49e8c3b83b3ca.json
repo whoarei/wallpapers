@@ -1,0 +1,14 @@
+{
+  "id": "poem-5f96007136f49e8c3b83b3ca",
+  "title": "孤山彭高士借榻",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "万籁笙镛一枕秋，幌云垂地月痕收。",
+    "偶然做得还乡梦，梦见鸿蒙与道游。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-f69e86db-56fe-49f6-b992-0a0514d04320"
+}

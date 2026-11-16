@@ -1,0 +1,14 @@
+{
+  "id": "poem-297e9855c09d082ae5fab3e9",
+  "title": "春秋战国门 杨回",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "三逐乡闾五去君，莫知何地可容身。",
+    "杨回不是逢英鉴，白首无成一旅人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-13ded6a6-b9c9-4868-ba7f-49f3907962f1"
+}

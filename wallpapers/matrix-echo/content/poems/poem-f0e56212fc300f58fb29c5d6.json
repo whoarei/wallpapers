@@ -1,0 +1,14 @@
+{
+  "id": "poem-f0e56212fc300f58fb29c5d6",
+  "title": "小游仙诗九十八首 七十六",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "彤阁钟鸣碧鹭飞，皇君催熨紫霞衣。",
+    "丹房玉女心慵甚，贪看投壶不肯归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-8b56272f-fb13-42c9-90a1-f5f302e67e35"
+}

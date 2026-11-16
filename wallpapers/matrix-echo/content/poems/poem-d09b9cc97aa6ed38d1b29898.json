@@ -1,0 +1,16 @@
+{
+  "id": "poem-d09b9cc97aa6ed38d1b29898",
+  "title": "题王处士山居",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "茅堂入谷远，林暗绝其邻。",
+    "终日有流水，经年无到人。",
+    "溪云常欲雨，山洞别开春。",
+    "自得仙家术，栽松独养真。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-7ec90e57-dc10-4b78-a5ee-522f9b0c781b"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-060c8fceb59fa6f9f2775086",
+  "title": "读刘得仁贾岛集二首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "役思曾冲尹，多言阻国亲。",
+    "桂枝何所直，陋巷不胜贫。",
+    "马病唯汤雪，门荒劣有人。",
+    "伊余吟亦苦，为尔一眉嚬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-001a7fb3-c61b-42aa-82bc-28d470be9b08"
+}

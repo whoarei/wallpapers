@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5bdd",
+  "script": "kai",
+  "character": "寝",
+  "reading": "qǐn",
+  "description": "⒈卧，睡觉就～。废～忘食。〈喻〉横卧的～石。\n⒉卧室～室。正～。内～。\n⒊卧病～疾。～病。\n⒋息，止～兵。其事遂～。\n⒌相貌丑陋貌～陋。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-寝"
+}

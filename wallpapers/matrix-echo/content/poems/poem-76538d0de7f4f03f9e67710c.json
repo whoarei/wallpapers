@@ -1,0 +1,16 @@
+{
+  "id": "poem-76538d0de7f4f03f9e67710c",
+  "title": "秋风函谷应诏",
+  "author": "徐贤妃",
+  "dynasty": "唐",
+  "verses": [
+    "秋风起函谷，劲气动河山。",
+    "偃松千岭上，杂雨二陵间。",
+    "低云愁广隰，落日惨重关。",
+    "此时飘紫气，应验真人还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-a891f80d-fe12-429e-a820-3890a3c6af9e"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5b58",
+  "script": "kai",
+  "character": "存",
+  "reading": "cún",
+  "description": "cún：(1)东西在那里，人活着～在。～亡。生～。\n(2)保留，留下保～。留～。～照。～疑。去伪～真。\n(3)寄放寄～。\n(4)停聚～水。\n(5)怀有，怀着～心。不～任何奢望。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-存"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-c8f44d1d6fc3cce4753d0a83",
+  "title": "爱笋",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "犀非犀，玉非玉，拂拂轻霜浮脆绿。",
+    "披箨含梢欲成竹，娟娟褭褭森可束。",
+    "稀间只称佳月照，劲处差耐清风触。",
+    "少忍充庖得补林，主人为目不为腹。",
+    "论材似也子胜人，终竟鼻祖与膏馥。",
+    "官闲尽日据胡床，乐与此君同避俗。",
+    "冷笑京华痴少年，枉费千金买花木。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-a09f28db-ddfa-4990-86e7-a92726aa224b"
+}

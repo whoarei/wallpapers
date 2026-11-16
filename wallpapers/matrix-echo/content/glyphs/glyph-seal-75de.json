@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75de",
+  "script": "seal",
+  "character": "痞",
+  "reading": "pǐ",
+  "description": "pǐ：(1)中医指胸腹间气机阻塞不舒的一种自觉症状，有的仅有胀满的感觉，称痞块”、痞积”。\n(2)恶棍，流氓～子。地～。文～。～里～气。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-痞"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-809b",
+  "script": "kai",
+  "character": "肛",
+  "reading": "gāng",
+  "description": "gāng：直肠末端及口儿～门。～瘘（病，直肠接近肛门处发生脓肿，形成瘘管，有的在肛门附近有开口，流脓血）。脱～（直肠或乙状结肠从肛门脱出的病）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肛"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-591c86591d1f7fe8eca5c47b",
+  "title": "太皇太后挽歌词二首  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "四纪袆衣盛，两朝长乐尊。",
+    "九州贡甘旨，万乘问晨昏。",
+    "明辟归元子，嘉谋赉孝孙。",
+    "群生资后土，难答化光恩。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-077d67fb-a2cf-4e33-860a-d4ce1157f913"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-e18733a990aab03f576c7de1",
+  "title": "塞下曲四首 二",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "verses": [
+    "饮马渡秋水，水寒风似刀。",
+    "平沙日未没，黯黯见临洮。",
+    "昔日长城战，咸言意气高。",
+    "黄尘足今古，白骨乱蓬蒿。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "战争",
+    "新乐府辞",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-59fb3f01-65b2-416a-aefb-c13e502bfba1"
+}

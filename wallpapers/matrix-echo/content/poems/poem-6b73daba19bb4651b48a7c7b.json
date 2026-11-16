@@ -1,0 +1,14 @@
+{
+  "id": "poem-6b73daba19bb4651b48a7c7b",
+  "title": "有感",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "舞罢歌停岁月深，当时胜迹尽销沉。",
+    "飞云卷雨人争赏，留得佳名尚到今。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-ca765337-b52e-460d-94e5-3fd4aa7b2a0b"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-19226a7b04b7ee1ad4e8ab75",
+  "title": "东坡谪英州以书语所善衲子曰戒和尚又疏脱矣读之有感",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "东坡夙世乃戒老，次律前身为永师。",
+    "一念参差成此错，百忧钟萃使知非。",
+    "我生已约渡南海，今日岂知还北归。",
+    "从今莫打这鼓笛，必竟是事终由谁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-c38b16f6-e869-44b9-b107-e1bd0da111b3"
+}

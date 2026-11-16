@@ -1,0 +1,16 @@
+{
+  "id": "poem-19d4896575aaab4c7cd488dc",
+  "title": "神功盛德诗  其二五",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "绵绵句丽，莽莽河湟。",
+    "绝彼东海，逸于西疆。",
+    "或翦或怀，德威孔扬。",
+    "列我郡县，袭我衣裳，于前人有光。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-f585df62-d5d2-4225-a170-47e029f70dfd"
+}

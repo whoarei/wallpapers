@@ -1,0 +1,18 @@
+{
+  "id": "poem-b35ddcecf3c64c62509c81f9",
+  "title": "玉楼春·春山敛黛低歌扇",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "春山敛黛低歌扇。",
+    "暂解吴钩登祖宴。",
+    "画楼钟动已魂销，何况马嘶芳草岸。",
+    "青门柳色随人远。",
+    "望欲断时肠已断。",
+    "洛城春色待君来，莫到落花飞似霰。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-668",
+  "tags": []
+}

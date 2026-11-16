@@ -1,0 +1,13 @@
+{
+  "id": "poem-ff919ff81c74cfb6b45825ca",
+  "title": "句  其一",
+  "author": "姚辟",
+  "dynasty": "宋",
+  "verses": [
+    "京洛黄尘久倦游，一官来寄海边州。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-c5d5a76d-51a0-4d59-905e-16cd73f67969"
+}

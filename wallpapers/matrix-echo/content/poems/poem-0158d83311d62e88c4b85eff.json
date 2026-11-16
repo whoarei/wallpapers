@@ -1,0 +1,15 @@
+{
+  "id": "poem-0158d83311d62e88c4b85eff",
+  "title": "归国遥·香玉",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "香玉，翠凤宝钗垂簏簌，胜金粟，越罗春水绿。",
+    "画堂照帘残烛，梦余更漏促。",
+    "谢娘无限心曲，晓屏山断续。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-20",
+  "tags": []
+}

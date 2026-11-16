@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f25",
+  "script": "seal",
+  "character": "伥",
+  "reading": "chāng",
+  "description": "迷信传说中的被老虎咬死的人变成的鬼,这种鬼引导老虎咬别的人\n旧指为盗贼察情探路的人。也指助纣为虐的恶人\n无所适从。又称伥伥\n伥鬼",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-伥"
+}

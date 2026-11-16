@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-78d5",
+  "script": "kai",
+  "character": "磕",
+  "reading": "kē",
+  "description": "kē：(1)碰在硬东西上头～破了。～～碰碰（喻人和人之间发生的小冲突）。～头碰脑。～头（亦作叩头”）。\n(2)把东西向较硬处碰使附着物掉下来～打。～烟袋锅儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-磕"
+}

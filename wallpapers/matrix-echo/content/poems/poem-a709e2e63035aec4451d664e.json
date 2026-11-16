@@ -1,0 +1,16 @@
+{
+  "id": "poem-a709e2e63035aec4451d664e",
+  "title": "寄四明闾丘道士二首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "三千功未了，大道本无程。",
+    "好共禅师好，墙将药犬行。",
+    "石门红藓剥，柘坞白云生。",
+    "莫认无名是，无名已是名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-a5007e8b-4da7-4ec3-8c63-07bb32b86b76"
+}

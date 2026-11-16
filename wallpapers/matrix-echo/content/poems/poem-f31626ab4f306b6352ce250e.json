@@ -1,0 +1,14 @@
+{
+  "id": "poem-f31626ab4f306b6352ce250e",
+  "title": "春寻花柳得情（三八一二）",
+  "author": "宋家娘子",
+  "dynasty": "唐",
+  "verses": [
+    "美人林里趁鵶儿，银甲花间不觉遗。",
+    "连忙借问娇鹦鹉，鸟鸟衔将与阿谁？。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-ddca4880-a42d-4a45-b3de-56508296f058"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-bdb8e4e4a7edb0ac10d9ec57",
+  "title": "酬秦系山人题赠",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "云林出空乌未归，松吹时飘雨浴衣。",
+    "石语花愁徒自诧，吾心见境尽为非。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-9419fd9a-b053-4d34-9fc5-4350e10e473c"
+}

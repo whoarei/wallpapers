@@ -1,0 +1,20 @@
+{
+  "id": "poem-d560d878d76ef1d2634e1090",
+  "title": "没蕃故人",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "前年伐月支，城上没全师。",
+    "蕃汉断消息，死生长别离。",
+    "无人收废帐，归马识残旗。",
+    "欲祭疑君在，天涯哭此时。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "怀人",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-5ccd5188-0e5d-450e-8ec5-d6e661fac4f7"
+}

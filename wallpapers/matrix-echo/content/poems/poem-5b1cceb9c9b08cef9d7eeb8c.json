@@ -1,0 +1,14 @@
+{
+  "id": "poem-5b1cceb9c9b08cef9d7eeb8c",
+  "title": "春宵",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "verses": [
+    "春宵一刻值千金，花有清香月有阴。",
+    "歌管楼台声细细，秋千院落夜沈沈。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-春宵"
+}

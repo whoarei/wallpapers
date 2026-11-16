@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1fc91f4684bdaea76556f09",
+  "title": "赠胡天师",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "高人叶高志，山服往山家。",
+    "迢迢间风月，去去隔烟霞。",
+    "碧岫窥玄洞，玉灶炼丹砂。",
+    "今日星津上，延首望灵槎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ebc91c19-1486-4a61-84fb-649eadef3f51"
+}

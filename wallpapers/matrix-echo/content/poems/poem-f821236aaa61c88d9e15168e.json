@@ -1,0 +1,18 @@
+{
+  "id": "poem-f821236aaa61c88d9e15168e",
+  "title": "玉连环・解连环·流水细通何处",
+  "author": "王之道",
+  "dynasty": "宋",
+  "verses": [
+    "流水细通何处。",
+    "柳溪新雨。",
+    "清风十里送篮舆，行不尽、山无数。",
+    "一簇楼台窣堵。",
+    "老僧常住。",
+    "悬知俗客不曾来，门外苍苔如许。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-134",
+  "tags": []
+}

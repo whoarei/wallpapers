@@ -1,0 +1,14 @@
+{
+  "id": "poem-c37f7568d506351577a7a511",
+  "title": "凤泉初月",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "一痕隠隠介亭西，庾亮楼头未醉时。",
+    "多是团团深夜看，可曾见此巧如眉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-d519f224-16fc-4e9d-97d5-1123bb831b2d"
+}

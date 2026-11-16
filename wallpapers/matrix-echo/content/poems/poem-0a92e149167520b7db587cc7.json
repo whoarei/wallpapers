@@ -1,0 +1,14 @@
+{
+  "id": "poem-0a92e149167520b7db587cc7",
+  "title": "梦仙谣",
+  "author": "祝元膺",
+  "dynasty": "唐",
+  "verses": [
+    "蟾蜍夜作青冥烛，䗖𬟽晴为碧落梯。",
+    "好个分明天上路，谁教深入武陵溪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-338e07c8-8635-4582-b65d-d2e188a1ca37"
+}

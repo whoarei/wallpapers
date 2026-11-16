@@ -1,0 +1,16 @@
+{
+  "id": "poem-3ef40605f120955c287adc34",
+  "title": "送周教授兼简刘左史薛寺丞  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "舍选诸生出，侯藩博士归。",
+    "一官甘独冷，千仞看群飞。",
+    "苦学丹心古，春风泮水肥。",
+    "传衣观岁晚，先使识抠衣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-9635e1a7-3e1b-4235-8222-fd40429df8e2"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-5fe3c4b336d56125528c1d52",
+  "title": "上黄堆烽",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "心期紫阁山中月，身过黄堆烽上云。",
+    "年发已从书劒老，戎衣更逐霍将军。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-c3a17902-eb44-4244-9cd8-d60a4ac55f82"
+}

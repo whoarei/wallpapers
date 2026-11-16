@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f64",
+  "script": "seal",
+  "character": "彤",
+  "reading": "tóng",
+  "description": "tóng：(1)红色～管（ａ．赤管笔，古代女史以此记事，后因用于女子文墨之事；ｂ．一说是红色管状的初生之草）。～云。～庭（中国汉代皇宫以朱红色漆中庭，后泛指皇宫）。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-彤"
+}

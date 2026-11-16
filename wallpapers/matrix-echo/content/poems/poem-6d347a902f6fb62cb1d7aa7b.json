@@ -1,0 +1,13 @@
+{
+  "id": "poem-6d347a902f6fb62cb1d7aa7b",
+  "title": "句  其一",
+  "author": "林迥",
+  "dynasty": "宋",
+  "verses": [
+    "门前红日海千里，池上白莲山四邻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-f768722b-94b1-4010-b713-c2ec207e8e49"
+}

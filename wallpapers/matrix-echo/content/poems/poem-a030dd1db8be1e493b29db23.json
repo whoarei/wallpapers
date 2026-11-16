@@ -1,0 +1,16 @@
+{
+  "id": "poem-a030dd1db8be1e493b29db23",
+  "title": "山中寄姚合员外",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "朝与城阙别，暮同麋鹿归。",
+    "鸟鸣松观静，人过石桥稀。",
+    "木叶摇山翠，泉痕入涧扉。",
+    "敢招仙署客，暂此拂朝衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-2e1fce4c-ec2a-43db-b972-4f362dab2f6b"
+}

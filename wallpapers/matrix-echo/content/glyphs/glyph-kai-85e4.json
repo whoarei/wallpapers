@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-85e4",
+  "script": "kai",
+  "character": "藤",
+  "reading": "téng",
+  "description": "téng：(1)指白藤”、紫藤”～条。～椅。～床。\n(2)泛指匍匐茎或攀援茎～本植物。瓜～。葡萄～。顺～摸瓜。\n〔～黄〕a.常绿乔木，茎高达二十米，树脂黄色，有毒；b.这种植物的树脂，可作国画颜料。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-藤"
+}

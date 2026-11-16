@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-53e0",
+  "script": "seal",
+  "character": "叠",
+  "reading": "dié",
+  "description": "dié：(1)重复，累积重（chóng）～。层见～出。～罗汉。～韵。～嶂。～翠。\n(2)摺摺～。铺床～被。\n(3)乐曲的重复演奏阳关三～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-叠"
+}

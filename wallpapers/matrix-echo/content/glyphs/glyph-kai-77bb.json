@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-77bb",
+  "script": "kai",
+  "character": "瞻",
+  "reading": "zhān",
+  "description": "zhān：往上或往前看～仰。～望。～拜。～谒。～念。～前顾后。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瞻"
+}

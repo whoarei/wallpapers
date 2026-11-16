@@ -1,0 +1,14 @@
+{
+  "id": "poem-2b80e6d3aa927da8a28030c5",
+  "title": "送沈亚之赴郢掾",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "千万乘骢沈司户，不须惆怅郢中游。",
+    "几年白雪无人唱，今日唯君上雪楼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-27c2fa43-3722-428f-a7ac-0ac960801c08"
+}

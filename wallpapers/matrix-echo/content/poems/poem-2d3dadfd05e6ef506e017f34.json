@@ -1,0 +1,14 @@
+{
+  "id": "poem-2d3dadfd05e6ef506e017f34",
+  "title": "送元结",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "昔日同游漳水边，如今重说恨绵绵。",
+    "天涯相见还离别，客路秋风又几年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0d280af5-5168-4daf-9c35-ff414a1c79ad"
+}

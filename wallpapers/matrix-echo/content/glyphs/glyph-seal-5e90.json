@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e90",
+  "script": "seal",
+  "character": "庐",
+  "reading": "lú",
+  "description": "亦泛指简陋居室\n⒈简陋的房屋草～。\n⒉居住可～。\n⒊宾客住的宿舍十里有～，～有饮食。\n⒋庐山，在江西省。\n庐lǘ 1.古邑名。一作\"卢\"。在今湖北襄阳西南。本春秋庐戎国，被楚灭后为楚邑。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-庐"
+}

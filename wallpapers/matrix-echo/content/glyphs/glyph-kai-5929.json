@@ -4,5 +4,7 @@
   "character": "天",
   "reading": "tiān",
   "description": "天空，与大地相对。",
-  "enabled": true
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "原有内置文字简注；汉字按常用义说明，彝藏文字按音节或字母名说明。"
 }

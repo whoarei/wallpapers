@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5dee",
+  "script": "kai",
+  "character": "差",
+  "reading": "chà；chā；chāi；cī",
+  "description": "chà：(1)错误话说～了。\n(2)不相当，不相合～不多。\n(3)缺欠还～十元钱。\n(4)不好，不够标准～等。成绩～。\n好；\nchā：(1)不同，不同之点～别。～距。～额。～价。\n(2)大致还可以～可。\n(3)错误～错。偏～。～池。\n(4)数学上指减法运算中的得数～数。四减二的～是二。\n好；\nchāi：(1)派遣去做事～遣。\n(2)旧时称被派遣的人～人。解～。\n(3)被派遣去做的事～事。公～。出～。\n好；\ncī：〔参（cēn）～〕见参3”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-差"
+}

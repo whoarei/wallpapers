@@ -1,0 +1,22 @@
+{
+  "id": "poem-569f8337d0086b8d4a46470d",
+  "title": "和叔崇",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "人心乘气机，投闲肆驰逐。",
+    "飞天忽沦渊，忘生以徇欲。",
+    "大而名节丧，甚者邦家覆。",
+    "一狂方寸乱，一安万事足。",
+    "箪瓢乐陋巷，粱肉怕书腹。",
+    "平时工用深，举动自绝俗。",
+    "伥伥无所守，有为皆碌碌。",
+    "一堕荆榛中，终身困踯躅。",
+    "世事岂有常，乌可执卷赎。",
+    "学问在我毋自弃，富贵在天毋自辱。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-bdc593cb-909c-4857-bef7-b6fa56bc8f66"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e24",
+  "script": "seal",
+  "character": "两",
+  "reading": "liǎng",
+  "description": "双。用于鞋娄\n通辆”。车一乘\n武王戎车三\n⒈数目字\n④新的度量衡单位前，一般用\"两\"～米。～吨。\n⑤形容词前做状语，只能用\"两\"不能用\"二\"势不～立。\n两liàng 1.量词。用于车辆。 2.借指车。 3.容纳一辆车。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-两"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6485",
+  "script": "seal",
+  "character": "撅",
+  "reading": "juē；jué",
+  "description": "juē：(1)翘起～嘴。～尾巴。小辫～着。\n(2)折断把竹竿～折（shé）了。\njué：古同掘”，控掘。\n〔～竖〕眼光浅，才识短，如～～小人，无大经略”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撅"
+}

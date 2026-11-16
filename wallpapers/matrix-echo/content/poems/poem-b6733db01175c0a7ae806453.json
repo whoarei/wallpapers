@@ -1,0 +1,16 @@
+{
+  "id": "poem-b6733db01175c0a7ae806453",
+  "title": "奉和圣制登骊山高顶寓目应制",
+  "author": "赵彦昭",
+  "dynasty": "唐",
+  "verses": [
+    "皇情遍九垓，御辇驻昭回。",
+    "路若随天转，人疑近日来。",
+    "河看大禹凿，山见巨灵开。",
+    "愿扈登封驾，常持荐寿杯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-c01af4a8-9d4a-4a41-a3d7-275eac4704a5"
+}

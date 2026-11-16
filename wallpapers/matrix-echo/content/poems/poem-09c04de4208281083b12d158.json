@@ -1,0 +1,14 @@
+{
+  "id": "poem-09c04de4208281083b12d158",
+  "title": "江南春",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "千里莺啼绿映红，水村山郭酒旗风。",
+    "南朝四百八十寺，多少楼台烟雨中。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-江南春"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3b41e1b7b43ee8c645689dbf",
+  "title": "月晦",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "晦魄移中律，凝暄起丽城。",
+    "罩云朝盖上，穿露晓珠呈。",
+    "笑树花分色，啼枝鸟合声。",
+    "披襟欢眺望，极目畅春情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-8f179f71-6bfa-4329-9340-2aa81745b2c6"
+}

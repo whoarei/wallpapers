@@ -1,0 +1,14 @@
+{
+  "id": "poem-00791e1fb9371cb7de3c62cd",
+  "title": "雁过沙",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "想爹娘养孙荣，抚养已艰辛，三年乳哺恩爱深，推干就湿多劳顿。",
+    "养儿长成，爹娘一命倾，痛思我父母珠泪零。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1846",
+  "tags": []
+}

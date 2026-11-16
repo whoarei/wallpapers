@@ -1,0 +1,18 @@
+{
+  "id": "poem-cb12c86eef3ef32b92b3d721",
+  "title": "送湖南提刑安学士  其一",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "洞庭六月暑风长，使者征帆挂短樯。",
+    "汲引津途多肉食，追随行路有壶浆。",
+    "南洲自恋涵濡德，北阙方思献纳良。",
+    "更识高门延庆事，彩衣新有桂枝香。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-57ed5d8c-0769-4b2a-bcc2-e1a3eac952b1"
+}

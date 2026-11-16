@@ -1,0 +1,14 @@
+{
+  "id": "poem-c6e10c4ca00e44d22da422f1",
+  "title": "题临安邸",
+  "author": "林升",
+  "dynasty": "宋",
+  "verses": [
+    "山外青山楼外楼，西湖歌舞几时休。",
+    "暖风薰得游人醉，直把杭州作汴州。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-題臨安邸"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-c53d7a2228e10fd69e1ad8e6",
+  "title": "临江仙·追想京都全盛日",
+  "author": "张纲",
+  "dynasty": "宋",
+  "verses": [
+    "追想京都全盛日，蓬弧初记生时。",
+    "朝来朱绂照庭闱。",
+    "谁知衰谢老，还有宁馨儿。",
+    "休记蓝田生美玉，举杯听取歌词。",
+    "年方强仕未应迟。",
+    "高风轻借便，一鹗看横飞。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-646",
+  "tags": []
+}

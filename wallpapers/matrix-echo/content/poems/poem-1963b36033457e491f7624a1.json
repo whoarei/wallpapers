@@ -1,0 +1,20 @@
+{
+  "id": "poem-1963b36033457e491f7624a1",
+  "title": "木兰花・玉楼春·秋千院落重帘暮",
+  "author": "晏几道",
+  "dynasty": "宋",
+  "verses": [
+    "秋千院落重帘暮。",
+    "彩笔闲来题绣户。",
+    "墙头丹杏雨馀花，门外绿杨风后絮。",
+    "朝云信断知何处。",
+    "应作襄王春梦去。",
+    "紫骝认得旧游踪，嘶过画桥东畔路。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-26"
+}

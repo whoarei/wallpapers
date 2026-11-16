@@ -1,0 +1,14 @@
+{
+  "id": "poem-d7363c22d6f643cf0812d60c",
+  "title": "聚秀阁",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "清源山远水流长，九日溪山更异常。",
+    "高阁摩云聚秀气，禅僧秀气聚中藏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-8f867787-996e-4cba-8ff4-ef8da47aa9dd"
+}

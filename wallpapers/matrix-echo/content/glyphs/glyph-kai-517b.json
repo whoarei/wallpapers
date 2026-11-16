@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-517b",
+  "script": "kai",
+  "character": "养",
+  "reading": "yǎng",
+  "description": "供养,奉养;抚育\n监门之养。\n供养卒大恩。\n⒈抚育，供给～育。供～。\n⒉生育，生小孩生～。\n⒊教育，培育教～。培～。从小～成劳动习惯。\n⒋喂动物，培植花草饲～。～鸭。～猪。～殖。～鸟。～花。～草。\n⒌休息，调理，滋补。休～。保～。滋～。〈引〉保护修理 修～。～路。\n⒍扶助，帮助以工～农。\n⒎非亲生的但有抚育关系的～母。～女。\n久长。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-养"
+}

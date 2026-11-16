@@ -1,0 +1,16 @@
+{
+  "id": "poem-ae5bd4b820b841a42fa0dcba",
+  "title": "客自江南话过亡友朱司议故宅",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "交臂多相共，风流忆此人。",
+    "海翻移里巷，书蠹积埃尘。",
+    "奉佛栖禅久，辞官上疏频。",
+    "故来分半宅，惟是旧交亲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-3b39dc82-798d-44db-8452-bf8e17e7d343"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-868c",
+  "script": "seal",
+  "character": "蚌",
+  "reading": "bàng；bèng",
+  "description": "bàng：生活在淡水里的一种软体动物，介壳长圆形，表面黑褐色，壳内有珍珠层，有的可以产出珍珠～胎（指珍珠）。\nbèng：〔～埠（bù）〕地名，在中国安徽省。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蚌"
+}

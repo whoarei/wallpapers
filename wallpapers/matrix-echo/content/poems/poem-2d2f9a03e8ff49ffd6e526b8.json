@@ -1,0 +1,20 @@
+{
+  "id": "poem-2d2f9a03e8ff49ffd6e526b8",
+  "title": "送邢桂州",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "铙吹喧京口，风波下洞庭。",
+    "赭圻将赤岸，击汰复扬舲。",
+    "日落江湖白，潮来天地青。",
+    "明珠归合浦，应逐使臣星。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖",
+    "送别",
+    "友情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-21a94a4d-4363-406a-8455-45434aa80f7c"
+}

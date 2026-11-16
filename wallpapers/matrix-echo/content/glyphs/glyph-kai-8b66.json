@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8b66",
+  "script": "kai",
+  "character": "警",
+  "reading": "jǐng",
+  "description": "jǐng：(1)注意可能发生的危险，戒备，告诫～卫。～世。～告。～戒。～备。～惕。～省（xǐng）（警惕醒悟）。\n(2)需要戒备的事件或消息～号。～报。～钟。\n(3)感觉敏锐，见解独到～句。～觉（jué）。机～。\n(4)国家维持社会秩序和治安的武装力量～察。～士。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-警"
+}

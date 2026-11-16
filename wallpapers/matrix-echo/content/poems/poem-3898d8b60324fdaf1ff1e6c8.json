@@ -1,0 +1,20 @@
+{
+  "id": "poem-3898d8b60324fdaf1ff1e6c8",
+  "title": "虞美人·柳梢梅萼春全未",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "柳梢梅萼春全未。",
+    "谁曾伤春意。",
+    "一年好处是新春。",
+    "柳底梅边只欠、那人人。",
+    "凭春约住梅和柳。",
+    "略待些时候。",
+    "锦帆风送彩舟来。",
+    "却遗香包娇叶、一齐开。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-249",
+  "tags": []
+}

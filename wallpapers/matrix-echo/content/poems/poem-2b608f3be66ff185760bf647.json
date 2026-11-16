@@ -1,0 +1,22 @@
+{
+  "id": "poem-2b608f3be66ff185760bf647",
+  "title": "杂诗三首 三",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "闻道黄龙戍，频年不解兵。",
+    "可怜闺里月，长在汉家营。",
+    "少妇今春意，良人昨夜情。",
+    "谁能将旗鼓，一为取龙城。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "战争",
+    "妇女",
+    "五言律诗",
+    "相思"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-1fb10ea4-f46c-4c08-bd06-f039f1907be6"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1601b480f5f1520aecfd21d",
+  "title": "小古镜",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "字已无人识，唯应记铸年。",
+    "见来深似水，携去重于钱。",
+    "鸾翅巢空月，菱花徧小天。",
+    "宫中照黄帝，曾得化为仙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-56cb0805-f673-4961-a7ed-e2ca4dedefc8"
+}

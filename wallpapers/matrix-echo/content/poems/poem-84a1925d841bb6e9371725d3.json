@@ -1,0 +1,16 @@
+{
+  "id": "poem-84a1925d841bb6e9371725d3",
+  "title": "与郑锡游春",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "东门垂柳长，回首独心伤。",
+    "日煖临芳草，天晴忆故乡。",
+    "暎花鸎上下，过水蝶飞扬。",
+    "借问同行客，今朝泪几行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-37f4077e-4ef3-4815-bcf9-e8d0e177799d"
+}

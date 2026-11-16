@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5f88",
+  "script": "kai",
+  "character": "很",
+  "reading": "hěn",
+  "description": "hěn：(1)甚，非常，表示程度加深～快。～好。\n(2)古同狠”，凶恶。\n(3)古代指争讼～无求胜”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-很"
+}

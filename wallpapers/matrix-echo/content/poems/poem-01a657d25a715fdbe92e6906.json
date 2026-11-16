@@ -1,0 +1,17 @@
+{
+  "id": "poem-01a657d25a715fdbe92e6906",
+  "title": "观音大士赞",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "大海波心，磐陀石上。",
+    "真观浄观，是相非相。",
+    "如月在天，无水不现。",
+    "水月俱捐，如何瞻仰。",
+    "咄，切忌妄想。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-c3444ee5-e8b9-4afa-9691-e194730fb8ed"
+}

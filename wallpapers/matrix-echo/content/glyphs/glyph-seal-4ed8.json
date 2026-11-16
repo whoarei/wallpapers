@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ed8",
+  "script": "seal",
+  "character": "付",
+  "reading": "fù",
+  "description": "fù：(1)交，给支～。托～。～款。～梓（把稿件交付刊印）。～讫。～出。～与。～之一笑。～诸东流。\n(2)量词，指中药（亦作服”）一～药。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-付"
+}

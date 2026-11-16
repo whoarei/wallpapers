@@ -1,0 +1,16 @@
+{
+  "id": "poem-cf3942750184a37f61ad3e31",
+  "title": "故丞相高平范公挽歌辞三首  其一",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "遇主方英妙，当朝独老成。",
+    "小车何耄耋，前席起公卿。",
+    "感会真千载，哀荣止半生。",
+    "伤心埋玉处，愁雾锁佳城。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-ab7d7478-1987-4e73-8500-94de5f026757"
+}

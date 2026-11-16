@@ -1,0 +1,16 @@
+{
+  "id": "poem-3702ddfb026d518d7e333d0d",
+  "title": "发襄阳后却寄公安人",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "挥泪送回人，将书报所亲。",
+    "晚年多疾病，中路有风尘。",
+    "王粲频征楚，君恩许入秦。",
+    "还同星火去，马上别江春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-b0e238eb-b1b5-4edb-820b-e5cc8b6481e1"
+}

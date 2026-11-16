@@ -1,0 +1,16 @@
+{
+  "id": "poem-dd534487230373a2d4590916",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "非弦已断，只是你意慵心懒。",
+    "没，你既道是寡鹊孤鸾，又道是昭君宫怨，那更思归别鹤，无非愁叹。",
+    "相公，你心里多敢想着谁？(生)不想甚么人。",
+    "(贴)你既不然，我理会得了，你道是除了知音听，道我不是知音不与弹。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5091",
+  "tags": []
+}

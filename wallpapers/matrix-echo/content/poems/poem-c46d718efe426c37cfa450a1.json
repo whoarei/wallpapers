@@ -1,0 +1,14 @@
+{
+  "id": "poem-c46d718efe426c37cfa450a1",
+  "title": "闲游",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "终日不离尘土间，若为能见此身闲。",
+    "今朝暂共游僧语，更恨趋时别旧山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-555ea1b6-606e-4ff9-80f2-d1d1daf76166"
+}

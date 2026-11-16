@@ -1,0 +1,14 @@
+{
+  "id": "poem-fcbb6397f8f813376b639c9a",
+  "title": "又一首",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "自隐风流到，人前法用多。",
+    "计时应拒得，佯作不禁他。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-04d1c3e6-c831-4f2d-b983-a8d77c34b794"
+}

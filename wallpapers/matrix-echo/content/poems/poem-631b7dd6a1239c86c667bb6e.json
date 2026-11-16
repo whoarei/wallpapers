@@ -1,0 +1,16 @@
+{
+  "id": "poem-631b7dd6a1239c86c667bb6e",
+  "title": "菩萨蛮·催花未歇花奴鼓",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "催花未歇花奴鼓，酒醒已见残红舞。",
+    "不忍覆余觞，临风泪数行。",
+    "粉香看又别，空剩当时月。",
+    "月也异当时，凄清照鬓丝。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-182"
+}

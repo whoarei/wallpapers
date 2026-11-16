@@ -1,0 +1,16 @@
+{
+  "id": "poem-6dbf4838fdada98c1a266853",
+  "title": "郊庙歌辞 明皇祀圜丘乐章 豫和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "至矣丕搆，烝哉太平。",
+    "授牺膺箓，复禹继明。",
+    "草木仁化，凫鹥颂声。",
+    "祀宗陈德，无媿斯诚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-70860658-4a7c-4f94-b2cc-80a5afe07c67"
+}

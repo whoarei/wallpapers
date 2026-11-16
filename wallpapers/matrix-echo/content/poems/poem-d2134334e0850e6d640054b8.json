@@ -1,0 +1,16 @@
+{
+  "id": "poem-d2134334e0850e6d640054b8",
+  "title": "诉衷情·春深花簇小楼台",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "春深花簇小楼台，风飘锦绣开。",
+    "新睡觉，步香阶，山枕印红腮。",
+    "鬓乱坠金钗，语檀偎。",
+    "临行执手重重嘱，几千回。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-5"
+}

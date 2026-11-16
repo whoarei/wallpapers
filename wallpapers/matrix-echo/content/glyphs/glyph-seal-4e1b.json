@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e1b",
+  "script": "seal",
+  "character": "丛",
+  "reading": "cóng",
+  "description": "许多事物凑在一起\n众多;繁杂\n①聚集～集、杂草～生。\n②一簇簇的草木草～、花～。\n③泛指聚集在一起的人或物～书、人～。\n④姓。\n【丛刊】见【丛书】。\n【丛葬】很多尸体合埋的方式，也指这样的坟墓。\n【丛冢】乱葬在一处的许多坟墓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丛"
+}

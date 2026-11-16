@@ -1,0 +1,14 @@
+{
+  "id": "poem-e57bc1b0f338d82adcb5ac03",
+  "title": "偈颂 八",
+  "author": "文偃",
+  "dynasty": "唐",
+  "verses": [
+    "万像森罗极细微，素话当人却道非。",
+    "相逢相见呵呵笑，顾伫停机复是谁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-37a6b395-98c2-44e5-adea-f5a0325dc24b"
+}

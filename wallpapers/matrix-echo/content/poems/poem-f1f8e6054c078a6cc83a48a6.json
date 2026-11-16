@@ -1,0 +1,16 @@
+{
+  "id": "poem-f1f8e6054c078a6cc83a48a6",
+  "title": "破山璎珞桧",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "雪枝新纵纵，霜子旧玲玲。",
+    "漙露烦添缀，萦风缓剪零。",
+    "贯珠烦蚁度，编贝倩谁经。",
+    "瑶草随山尽，来寻千岁苓。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-18d91836-3af1-4dda-91a3-cc45e8ef368e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b82c6db7c355fe9d0f3f555d",
+  "title": "虞美人·银床淅沥青梧老",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "银床淅沥青梧老，屧粉秋蛩扫。",
+    "采香行处蹙连钱，拾得翠翘何恨不能言。",
+    "回廊一寸相思地，落月成孤倚。",
+    "背灯和月就花阴，已是十年踪迹十年心。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-157"
+}

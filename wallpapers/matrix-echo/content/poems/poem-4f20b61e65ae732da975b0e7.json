@@ -1,0 +1,16 @@
+{
+  "id": "poem-4f20b61e65ae732da975b0e7",
+  "title": "送吉校书东归",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "少年芸阁吏，罢直暂归休。",
+    "独与亲知别，行逢江海秋。",
+    "听猨看楚岫，随雁到吴洲。",
+    "处处园林好，何人待子猷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-7e77befb-75da-4226-b95d-0b44902bbb2e"
+}

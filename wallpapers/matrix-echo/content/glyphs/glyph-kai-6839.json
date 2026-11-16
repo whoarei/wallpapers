@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6839",
+  "script": "kai",
+  "character": "根",
+  "reading": "gēn",
+  "description": "gēn：(1)高等植物茎干下部长在土里的部分～植。～茎。～瘤。～毛。～雕。须～。块～。扎～。叶落归～。\n(2)物体的基部和其他东西连着的部分～底。～基。墙～儿。\n(3)事物的本源～源。～由。～本。知～知底。\n(4)彻底～除。～究。～治。\n(5)依据，作为根本～椐。\n(6)量词，指长条的东西两～筷子。\n(7)数学上称一数开平方所得的值为平方根”，开立方所得的值为立方根”。\n(8)数学上指代数方程式内未知数的值。\n(9)化学上指带电的基氨～。硫酸～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-根"
+}

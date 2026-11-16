@@ -1,0 +1,17 @@
+{
+  "id": "poem-5ca3497eb1cefda4beae066a",
+  "title": "浣溪沙·云外遥山是翠眉",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "云外遥山是翠眉。",
+    "风前杨柳入腰肢。",
+    "凌波微步袜尘飞。",
+    "倚醉传歌留客处，佯嗔不语𣨼人时。",
+    "风流态度百般宜。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-802",
+  "tags": []
+}

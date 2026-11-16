@@ -1,0 +1,19 @@
+{
+  "id": "poem-8d430dc8be33b2a8e2d8e230",
+  "title": "点绛唇·小院重帘",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "小院重帘，那回来处花相向。",
+    "迟迟一饷。",
+    "记得春模样。",
+    "昨夜月明，应照芙蓉帐。",
+    "空凝望。",
+    "蜂劳蝶攘。",
+    "谁在花枝上。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-854",
+  "tags": []
+}

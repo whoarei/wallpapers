@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6daf",
+  "script": "seal",
+  "character": "涯",
+  "reading": "yá",
+  "description": "yá：(1)水边，泛指边际～～。～际。～岸。～垠。生也有～，而知也无～。”\n(2)范围，限度生～。～分（fèn）（限度，本分）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-涯"
+}

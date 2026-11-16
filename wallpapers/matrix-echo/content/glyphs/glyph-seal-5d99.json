@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5d99",
+  "script": "seal",
+  "character": "嶙",
+  "reading": "lín",
+  "description": "lín：〔～峋〕a.山石一层层的重叠不平，如～～的巨石”；b.形容人瘦削，如瘦骨～～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嶙"
+}

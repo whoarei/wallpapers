@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-61be",
+  "script": "kai",
+  "character": "憾",
+  "reading": "hàn",
+  "description": "hàn：(1)失望，心中感到不满足遗～。缺～。～事。～恨。抱～终生。\n(2)怨恨私～。请君释～于宋”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-憾"
+}

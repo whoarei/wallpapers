@@ -1,0 +1,20 @@
+{
+  "id": "poem-5152c174258952a4584281b9",
+  "title": "减字木兰花·凭高一览",
+  "author": "倪偁",
+  "dynasty": "宋",
+  "verses": [
+    "凭高一览。",
+    "紫翠相围光照眼。",
+    "下瞰平湖。",
+    "鹭立鸥飞意自如。",
+    "天清境胜。",
+    "云澹烟横鱼动镜。",
+    "不是公诗。",
+    "谁写新亭一段奇。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-463",
+  "tags": []
+}

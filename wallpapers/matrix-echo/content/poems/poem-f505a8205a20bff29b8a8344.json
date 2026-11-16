@@ -1,0 +1,14 @@
+{
+  "id": "poem-f505a8205a20bff29b8a8344",
+  "title": "偈颂七十一首  其八",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "两手指天地，周行步更多。",
+    "可怜黄面老，螃蟹落汤锅。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-fce7ea92-b9fb-4bca-8bb6-21d485212d44"
+}

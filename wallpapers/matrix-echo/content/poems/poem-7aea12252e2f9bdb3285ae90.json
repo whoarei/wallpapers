@@ -1,0 +1,17 @@
+{
+  "id": "poem-7aea12252e2f9bdb3285ae90",
+  "title": "送淡公 九",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "报恩兼报德，寺与山争鲜。",
+    "橙橘金盖槛，竹蕉绿凝禅。",
+    "经章音韵细，风磬清泠翩。",
+    "离肠绕师足，旧忆随路延。",
+    "不知几千尺，至死方绵绵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-3b7aa17e-5f9f-428e-adc6-b8f4c8643ab6"
+}

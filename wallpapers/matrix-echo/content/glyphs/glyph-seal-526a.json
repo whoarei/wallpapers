@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-526a",
+  "script": "seal",
+  "character": "剪",
+  "reading": "jiǎn",
+  "description": "jiǎn：(1)一种铰东西的用具～刀。\n(2)像剪子的东西火～。夹～。～床。\n(3)用剪子铰～断。～开。～影。～报。～纸。～裁。\n(4)除掉～除。～灭。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-剪"
+}

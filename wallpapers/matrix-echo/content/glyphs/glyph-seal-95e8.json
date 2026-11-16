@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-95e8",
+  "script": "seal",
+  "character": "门",
+  "reading": "mén",
+  "description": "房屋、围墙、车船\n⒈建筑物的进出口，设在进出口能开关的装置，泛指进出口前～。城～。洞～。飞机～。\n⒉形状或作用像门的炉～。球～。电～。\n⒊诀窍，途径，方法窍～。入～。找～路。\n⒋家，家族一～大小。双喜临～。灭～之祸。\n⒍分类～类。分～别类。\n⒏量词三～大炮。四～课程。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-门"
+}

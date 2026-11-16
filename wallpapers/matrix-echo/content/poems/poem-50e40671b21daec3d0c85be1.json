@@ -1,0 +1,14 @@
+{
+  "id": "poem-50e40671b21daec3d0c85be1",
+  "title": "访沈舍人不遇",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "溪翁强访紫微郎，晓鼓声中满鬓霜。",
+    "知在禁闱人不见，好风飘下九天香。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-8a3438e4-946a-47f7-8457-9a80f0e4c3b8"
+}

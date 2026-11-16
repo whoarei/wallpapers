@@ -1,0 +1,16 @@
+{
+  "id": "poem-cb32d77c397dcd4f4f2d6800",
+  "title": "古歌行",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "君不见汉家三叶从代至，高皇旧臣多富贵。",
+    "天子垂衣方晏如，庙堂拱手无余议。",
+    "苍生偃卧休征战，露台百金以为费。",
+    "田舍老翁不出门，洛阳少年莫论事。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-32ade105-6639-4a2d-8ba5-afb25200c6b3"
+}

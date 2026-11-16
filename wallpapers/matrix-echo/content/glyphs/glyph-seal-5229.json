@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5229",
+  "script": "seal",
+  "character": "利",
+  "reading": "lì",
+  "description": "lì：(1)好处，与害”弊”相对～弊。～害。～益。～令智昏。兴～除弊。\n(2)使顺利、得到好处～己。～用厚生（充分发挥物的作用，使民众生活优厚富裕起来）。\n(3)与愿望相符合吉～。顺～。\n(4)刀口快，针尖锐，与钝”相对～刃。～刀。～剑。～落。～口巧辩。\n(5)从事生产、交易、货款、储蓄所得超过本钱的收获～息。～率（lǜ）。一本万～。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-利"
+}

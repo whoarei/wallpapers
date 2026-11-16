@@ -1,0 +1,14 @@
+{
+  "id": "poem-72b54b0381ae6ba0386867c3",
+  "title": "上归州刺史代通状二首 一",
+  "author": "怀濬",
+  "dynasty": "唐",
+  "verses": [
+    "家在闽山西复西，其中岁岁有莺啼。",
+    "如今不在莺啼处，莺在旧时啼处啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c591cbbd-4b6d-4284-a265-d29ffb1db9b4"
+}

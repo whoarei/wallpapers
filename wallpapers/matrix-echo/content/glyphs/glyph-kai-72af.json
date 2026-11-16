@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-72af",
+  "script": "kai",
+  "character": "犯",
+  "reading": "fàn",
+  "description": "fàn：(1)抵触，违反～规。～法。～罪。～颜（旧时指冒犯君王或尊长的威严）。～讳。\n(2)违反法律的人，有罪的人～人。罪～。\n(3)侵害，进攻侵～。秋毫无～。\n(4)触发，发作～病。～愁。～疑。\n(5)做错事情～错误。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-犯"
+}

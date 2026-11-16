@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e31",
+  "script": "seal",
+  "character": "鸱",
+  "reading": "chī",
+  "description": "猫头鹰一类的鸟。又名鴞角鸱、怪鸱、鸺鸱\n用皮革制作的酒囊。鸱夷”的略称\n鸱吻\n鸱鸮,鸱枭\n⒈一种凶猛的鸟，又叫\"鹞鹰\"，已少见， 要保护，禁止猎杀。\n①〈古〉指鹪鹩，一种小鸟。\n②猫头鹰一类的鸟。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鸱"
+}

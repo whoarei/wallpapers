@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7092",
+  "script": "kai",
+  "character": "炒",
+  "reading": "chǎo",
+  "description": "chǎo：(1)把东西放在锅里搅拌着弄熟～菜。～米。～面。～冷饭（喻办事不讲效率，说话做事只是简单地重复过去，没有新的内容）。～鱿鱼（方言，因鱿鱼一炒就卷起来，因以借指卷铺盖，解雇。亦简作炒”）。\n(2)倒买倒卖～黄鱼（指倒买倒卖黄金）。～地皮。～买～卖（指对股票外汇的买卖）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-炒"
+}

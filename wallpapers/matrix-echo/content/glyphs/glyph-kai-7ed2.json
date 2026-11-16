@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7ed2",
+  "script": "kai",
+  "character": "绒",
+  "reading": "róng",
+  "description": "丝、棉纱或羊毛等的纺织物\n熟丝\n绒布,上面有一层绒毛的纺织品\n⒈柔软细小的毛～毛。羽～。鸭～。\n⒉带有细绒的纺织品～衣。灯草～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绒"
+}

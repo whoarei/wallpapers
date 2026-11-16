@@ -1,0 +1,17 @@
+{
+  "id": "poem-3a85ff0538184f5615603a43",
+  "title": "贺圣朝·牡丹盛拆春将暮",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "牡丹盛拆春将暮。",
+    "群芳羞妒。",
+    "几时流落在人间，半间仙露。",
+    "馨香艳冶，吟看醉赏，叹谁能留住。",
+    "莫辞持烛夜深深，怨等闲风雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-919",
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-afa8f4377523d1e679276e5e",
+  "title": "玉楼春·三衢太守文章伯",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "三衢太守文章伯。",
+    "七月政成如戏剧。",
+    "坐中咳唾落珠玑，笔下神明飞霹雳。",
+    "才高莫恨溪山窄。",
+    "且与燕公添秀发。",
+    "风流前辈渐无多，好在魏公门下客。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-767",
+  "tags": []
+}

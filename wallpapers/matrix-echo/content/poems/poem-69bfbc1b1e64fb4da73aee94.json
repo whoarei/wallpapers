@@ -1,0 +1,14 @@
+{
+  "id": "poem-69bfbc1b1e64fb4da73aee94",
+  "title": "婕妤怨",
+  "author": "皇甫冉",
+  "dynasty": "唐",
+  "verses": [
+    "花枝出建章，凤管发昭阳。",
+    "借问承恩者，双蛾几许长？"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-婕妤怨"
+}

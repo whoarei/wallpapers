@@ -1,0 +1,14 @@
+{
+  "id": "poem-8fa90d1d84c4a36cc5ab1964",
+  "title": "婺州宴上留别",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "双溪楼影向云横，歌舞高台晚更清。",
+    "独自下楼骑瘦马，摇鞭重入乱蝉声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-83a5843a-5c93-42cc-ac96-02a6e96e00e1"
+}

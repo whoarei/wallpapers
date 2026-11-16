@@ -1,0 +1,17 @@
+{
+  "id": "poem-38877a5a1144c935ed33585b",
+  "title": "临江仙·碧染长空池似镜",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "碧染长空池似镜，倚楼闲望凝情，满衣红藕细香清。",
+    "象床珍簟，山障掩，玉琴横。",
+    "暗想昔时欢笑事，如今赢得愁生。",
+    "博山炉暖淡烟轻。",
+    "蝉吟人静，残日傍，小窗明。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-31"
+}

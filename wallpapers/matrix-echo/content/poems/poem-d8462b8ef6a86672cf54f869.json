@@ -1,0 +1,14 @@
+{
+  "id": "poem-d8462b8ef6a86672cf54f869",
+  "title": "游城东王驸马亭",
+  "author": "陆畅",
+  "dynasty": "唐",
+  "verses": [
+    "城外无尘水间松，秋天木落见山容。",
+    "共寻萧史江亭去，一望终南紫阁峰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-578523ba-355b-4d06-8712-167e08b76262"
+}

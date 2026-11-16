@@ -1,0 +1,16 @@
+{
+  "id": "poem-469db1a0dec020b9e16ed813",
+  "title": "郊庙歌辞 享隐太子庙乐章 肃和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "岁肇春宗，干开震长。",
+    "瑶山既寂，戾园斯享。",
+    "玉肃其事，物昭其象。",
+    "弦诵成风，笙歌合响。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fce85010-8fcb-42b5-8ac1-db094c76e69e"
+}

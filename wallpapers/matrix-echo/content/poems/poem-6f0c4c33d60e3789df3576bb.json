@@ -1,0 +1,14 @@
+{
+  "id": "poem-6f0c4c33d60e3789df3576bb",
+  "title": "早春霁后发头陀寺寄院中",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "红楼金刹倚晴冈，雨雪初收望汉阳。",
+    "草檄可中能有暇，迎春一醉也无妨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-a3512f84-94d1-4088-87e2-c05dbb8ca17b"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-bd30d269b910499b3a49b2d7",
+  "title": "易水怀古",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "荆卿西去不复返，易水东流无尽期。",
+    "落日萧条蓟城北，黄沙白草任风吹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-72586e99-f113-4d0d-9f16-6015c4e7da47"
+}

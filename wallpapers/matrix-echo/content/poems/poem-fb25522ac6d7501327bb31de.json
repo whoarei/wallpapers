@@ -1,0 +1,16 @@
+{
+  "id": "poem-fb25522ac6d7501327bb31de",
+  "title": "七夕宴悬圃二首 二",
+  "author": "高宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "霓裳转云路，凤驾俨天潢。",
+    "亏星凋夜靥，残月落朝璜。",
+    "促欢今夕促，长离别后长。",
+    "轻梭聊驻织，掩泪独悲伤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-792e7017-3954-4a3b-a167-e183f17ca707"
+}

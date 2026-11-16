@@ -1,0 +1,16 @@
+{
+  "id": "poem-6f0ef8dba169ed3e25686b68",
+  "title": "送曹郎中南归时南中用军",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "桂水净和天，南归似谪仙。",
+    "系绦轻象笏，买布接蛮船。",
+    "海气蒸鼙软，江风激箭偏。",
+    "罢郎吟乱里，帝远岂知贤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-d9e89292-9e3a-485e-bb3a-8fd48ffe253f"
+}

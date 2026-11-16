@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-86d4",
+  "script": "seal",
+  "character": "蛔",
+  "reading": "huí",
+  "description": "huí：〔～虫〕寄生在人或其他动物肠子里的一种蠕形动物，像蚯蚓而没有环节。能损害人畜的健康。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蛔"
+}

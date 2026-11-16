@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-68c9",
+  "script": "kai",
+  "character": "棉",
+  "reading": "mián",
+  "description": "mián：一年生草本植物，果实像桃，内有白色的纤维和黑褐色的种子。纤维供纺织及絮衣被用。种子可榨油，供食用和工业用（通称棉花”）～袄。～被。～布。～纺。～桃。～纱。～线。～絮。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-棉"
+}

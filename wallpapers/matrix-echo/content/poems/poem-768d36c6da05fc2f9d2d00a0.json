@@ -1,0 +1,16 @@
+{
+  "id": "poem-768d36c6da05fc2f9d2d00a0",
+  "title": "送僧归天台寺",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "天台四绝寺，归去见师真。",
+    "莫折枸杞叶，令他十得嗔。",
+    "天空闻圣磬，瀑细落花巾。",
+    "必若云中老，他时得有邻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c047d8a4-35fa-4b1d-9244-4e32dd842048"
+}

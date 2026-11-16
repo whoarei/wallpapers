@@ -1,0 +1,14 @@
+{
+  "id": "poem-4f31dc533911e0f731a9fa02",
+  "title": "小游仙诗九十八首 八十六",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "太子真娥相领行，当天合曲玉箫清。",
+    "棃花新折东风软，犹在缑山乐笑声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-dca30bd2-ad66-4f22-8476-513998b07056"
+}

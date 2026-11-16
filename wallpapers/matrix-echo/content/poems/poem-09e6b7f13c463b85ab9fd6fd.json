@@ -1,0 +1,16 @@
+{
+  "id": "poem-09e6b7f13c463b85ab9fd6fd",
+  "title": "送司空十四北游宋州",
+  "author": "张南史",
+  "dynasty": "唐",
+  "verses": [
+    "九拒危城下，萧条送尔归。",
+    "寒风吹画角，暮雪犯征衣。",
+    "道里犹成间，亲朋重与违。",
+    "白云愁欲断，看入大梁飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-721bea36-8cbd-4787-974d-23b4760c8b6b"
+}

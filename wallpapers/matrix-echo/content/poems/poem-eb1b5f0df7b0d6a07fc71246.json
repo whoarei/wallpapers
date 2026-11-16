@@ -1,0 +1,20 @@
+{
+  "id": "poem-eb1b5f0df7b0d6a07fc71246",
+  "title": "菩萨蛮·春来晴雨常相半",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "春来晴雨常相半。",
+    "水光风力花撩乱。",
+    "山北与山南。",
+    "行歌或再三。",
+    "诵君诗过日。",
+    "才大真盘屈。",
+    "寿我敢言酬。",
+    "相望亦饮不。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-485",
+  "tags": []
+}

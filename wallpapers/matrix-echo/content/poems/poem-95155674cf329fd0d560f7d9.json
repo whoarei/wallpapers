@@ -1,0 +1,22 @@
+{
+  "id": "poem-95155674cf329fd0d560f7d9",
+  "title": "同从弟销南斋玩月忆山阴崔少府",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "verses": [
+    "高卧南斋时，开帷月初吐。",
+    "清辉淡水木，演漾在窗户。",
+    "苒苒几盈虚，澄澄变今古。",
+    "美人清江畔，是夜越吟苦。",
+    "千里其如何，微风吹兰杜。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言古诗",
+    "月亮",
+    "怀人"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-e2fec465-cea1-4829-b12d-3ba37a267562"
+}

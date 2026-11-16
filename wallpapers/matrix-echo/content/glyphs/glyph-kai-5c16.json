@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c16",
+  "script": "kai",
+  "character": "尖",
+  "reading": "jiān",
+  "description": "jiān：(1)锐利的末端或细小的部分～锐。～刻（说话尖酸刻薄）。～酸。打～。～端。\n(2)感觉敏锐眼～。\n(3)声音高而细～脆。～嫩。\n(4)出类拔萃的人或事物技术～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-尖"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-d6e4667a750381ab92af26d8",
+  "title": "夏日",
+  "author": "戴敏",
+  "dynasty": "宋",
+  "verses": [
+    "乳鸭池塘水浅深，熟梅天气半晴阴。",
+    "东园载酒西园醉，摘尽枇杷一树金。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-夏日"
+}

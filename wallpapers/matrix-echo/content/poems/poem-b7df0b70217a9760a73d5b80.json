@@ -1,0 +1,16 @@
+{
+  "id": "poem-b7df0b70217a9760a73d5b80",
+  "title": "酒泉子·罗带惹香",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "罗带惹香，犹系别时红豆。",
+    "泪痕新，金缕旧，断离肠。",
+    "一双娇燕语雕梁，还是去年时节。",
+    "绿阴浓，芳草歇，柳花狂。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-25",
+  "tags": []
+}

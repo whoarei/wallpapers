@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5bbd",
+  "script": "seal",
+  "character": "宽",
+  "reading": "kuān",
+  "description": "广阔;面积大。与狭”相对\n横的距离大\n度量宽宏;宽厚\n宽而栗\n⒈阔大，跟\"窄\"相对～阔。～敞。～广。～银幕。\n⒉松缓，放松～心。放～。〈引〉\n①脱去，解除请～了风衣。\n②伸延～限三天。\n③宽大～猛相济。处理从～。\n⒊富裕～裕。～绰。\n⒋度量大～宏大量。～大为怀。\n⒌物体横的距离～度。三尺～的布。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-宽"
+}

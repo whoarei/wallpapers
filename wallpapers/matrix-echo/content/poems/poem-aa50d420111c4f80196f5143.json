@@ -1,0 +1,17 @@
+{
+  "id": "poem-aa50d420111c4f80196f5143",
+  "title": "浣溪沙·醉里惊从月窟来",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "醉里惊从月窟来。",
+    "睡馀如梦蕊宫回。",
+    "碧云时度小崔嵬。",
+    "疑是海山怜我老，不论时节遣花开。",
+    "从今休数返魂梅。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-128",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-feaa6bae50f63fc0077f93ed",
+  "title": "早发故园",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "语别在中夜，登车离故乡。",
+    "曙钟寒出岳，残月迥凝霜。",
+    "风柳条多折，沙云气尽黄。",
+    "行逢海西鴈，零落不成行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e3bb8811-902f-45ed-bbde-517f8c5a1604"
+}

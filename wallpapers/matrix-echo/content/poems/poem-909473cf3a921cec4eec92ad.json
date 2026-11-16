@@ -1,0 +1,16 @@
+{
+  "id": "poem-909473cf3a921cec4eec92ad",
+  "title": "奉酬张洪州九龄江上见赠",
+  "author": "孙翃",
+  "dynasty": "唐",
+  "verses": [
+    "受命谳封疆，逢君牧豫章。",
+    "于焉审虞芮，复尔共舟航。",
+    "怅别秋阴尽，怀归客思长。",
+    "江臯枉离赠，持此慰他乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-1f5beb19-67e2-4773-b8f8-5effef828301"
+}

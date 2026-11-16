@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f74",
+  "script": "seal",
+  "character": "轴",
+  "reading": "zhóu",
+  "description": "车子\n字画下端便于悬挂或卷起的圆杆\n把平面或立体分成对称部分的直线\n⒈支持轮子或其它机件的圆柱形部件，有固定的和转动的两种汽车～。飞轮～。曲～磨床。\n⒉像轴的东西～儿线。\n⒊将平面或立体分成对称部分的直线～线。\n⒋指字、画卷下面的木杆，因而借指装裱成卷的书或字画壁上挂有三～画。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-轴"
+}

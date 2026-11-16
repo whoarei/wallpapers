@@ -1,0 +1,15 @@
+{
+  "id": "poem-b8c8a4e4e628a9ed34ab876d",
+  "title": "泂酌",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "泂酌彼行潦，挹彼注兹，可以餴饎。岂弟君子，民之父母。",
+    "泂酌彼行潦，挹彼注兹，可以濯罍。岂弟君子，民之攸归。",
+    "泂酌彼行潦，挹彼注兹，可以濯溉。岂弟君子，民之攸墍。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-250"
+}

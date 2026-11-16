@@ -1,0 +1,14 @@
+{
+  "id": "poem-410c973ffb9bdcea25489635",
+  "title": "忘归亭",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "两袖飘飘恍欲仙，半醒半醉酒明船。",
+    "太虚一室都无碍，皎月凉风石上眠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-521fec2b-c142-4e26-ae70-91b597d55fb2"
+}

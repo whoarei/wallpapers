@@ -1,0 +1,14 @@
+{
+  "id": "poem-d2a7412e8e0ece76650a48dd",
+  "title": "晚楼闲坐",
+  "author": "王安石",
+  "dynasty": "宋",
+  "verses": [
+    "四顾山光接水光，凭栏十里芰荷香。",
+    "清风明月无人管，并作南来一味凉。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-晚樓閒坐"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-aada14987a5ab11521719c49",
+  "title": "樛木",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "南有樛木，葛藟累之。乐只君子，福履绥之。",
+    "南有樛木，葛藟荒之。乐只君子，福履将之。",
+    "南有樛木，葛藟萦之。乐只君子，福履成之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-3"
+}

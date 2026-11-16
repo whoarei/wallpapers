@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-988f",
+  "script": "seal",
+  "character": "颏",
+  "reading": "kē",
+  "description": "下颌下方或下颌支之间的表面,通称下巴”\n颏宽\n颏kē下巴颏儿，在两腮及嘴的下面。它是脸的最下部分。\n颏ké 1.鸟名用字。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-颏"
+}

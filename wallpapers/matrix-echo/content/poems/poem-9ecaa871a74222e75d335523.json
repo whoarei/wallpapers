@@ -1,0 +1,16 @@
+{
+  "id": "poem-9ecaa871a74222e75d335523",
+  "title": "宿瓜洲寄柳中庸",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "怀人同不寐，清夜起论文。",
+    "月魄正出海，雁行斜上云。",
+    "寒潮来滟滟，秋叶下纷纷。",
+    "便送江东去，徘徊祗待君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-2213a457-daa0-4b8c-8576-928ab743e4cd"
+}

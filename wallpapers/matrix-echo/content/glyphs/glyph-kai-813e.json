@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-813e",
+  "script": "kai",
+  "character": "脾",
+  "reading": "pí",
+  "description": "pí：(1)人和动物内脏之一，在胃的左下侧，是重要的贮藏血液的器官和最大的淋巴器官～脏。\n(2)中医学指五脏之一～胃。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-脾"
+}

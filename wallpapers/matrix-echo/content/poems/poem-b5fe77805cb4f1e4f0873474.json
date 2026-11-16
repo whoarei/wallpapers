@@ -1,0 +1,15 @@
+{
+  "id": "poem-b5fe77805cb4f1e4f0873474",
+  "title": "潘丞孩子",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "爱子性情奇，初生玉树枝。",
+    "人曾天上见，名向月中知。",
+    "我识婴儿意，何须待佩觿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-620ec4d0-eaf2-420b-a6bd-6eff4dfa685e"
+}

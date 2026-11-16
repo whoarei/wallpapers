@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9609",
+  "script": "seal",
+  "character": "阉",
+  "reading": "yān",
+  "description": "特指宦官\n阉割\n⒈阉割，割去生殖腺～鸡。～猪。～牛。\n⒉封建时代宫廷中的宦官、太监～宦。～人。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阉"
+}

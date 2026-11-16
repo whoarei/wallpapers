@@ -1,0 +1,14 @@
+{
+  "id": "poem-dc4134e85bc0d8a70ee35ec3",
+  "title": "题泽翁小卷  其七",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "野渡人归处，纵横八九家。",
+    "晚来寒力健，风飐酒帘斜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-e65a9647-b7d3-4920-8d86-a0f9c06c3aa5"
+}

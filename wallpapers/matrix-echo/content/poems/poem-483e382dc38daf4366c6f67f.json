@@ -1,0 +1,14 @@
+{
+  "id": "poem-483e382dc38daf4366c6f67f",
+  "title": "山居四感 噪蝉",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "修竹茂林山寺幽，蝉声如沸满清秋。",
+    "吸风饮露无求世，嘒嘒何为噪不休。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-969ab3d0-4336-4c2d-9b3f-e8f464bb12e6"
+}

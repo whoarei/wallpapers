@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d27",
+  "script": "kai",
+  "character": "货",
+  "reading": "huò",
+  "description": "财物,金钱珠玉布帛的总称\n患货之不足。\n⒈钱～币。通～。\n⒊商品～物充足。百～齐全。\n⒋卖～出。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-货"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7231",
+  "script": "seal",
+  "character": "爱",
+  "reading": "ài",
+  "description": "对人或事物有深厚真挚的感情\n⒈对人或事物有真诚、深厚的感情～人民。～祖国。她～教育工作。\n⒉喜好～清洁。她～唱歌。\n⒊重视，保护～惜时间。～护公物。\n⒋容易喝冷水～生病。\n⒌特指男女间的感情～情。恩～夫妻。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-爱"
+}

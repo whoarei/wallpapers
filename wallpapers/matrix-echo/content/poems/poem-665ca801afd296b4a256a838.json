@@ -1,0 +1,16 @@
+{
+  "id": "poem-665ca801afd296b4a256a838",
+  "title": "永明山居诗（六十九首） 六十二",
+  "author": "延寿",
+  "dynasty": "唐",
+  "verses": [
+    "绿柳堤边春色多，数树重重袅翠萝。",
+    "红白花枝争鬬发，晴阴天气半相和。",
+    "中山谩醉千壶酒，易水徒悲一曲歌。",
+    "尘世无凭唯道外，荣枯瞬息尽消磨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-2abf200e-aa98-420a-b5d8-ee6b5a31ae87"
+}

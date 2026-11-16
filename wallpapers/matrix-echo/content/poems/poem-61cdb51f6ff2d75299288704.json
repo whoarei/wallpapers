@@ -1,0 +1,14 @@
+{
+  "id": "poem-61cdb51f6ff2d75299288704",
+  "title": "读杜紫微集",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "紫微才调复知兵，长觉风雷笔下生。",
+    "还有枉抛心力处，多于五柳赋闲情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-6825dad7-653d-4a02-85c0-ce50569da4bd"
+}

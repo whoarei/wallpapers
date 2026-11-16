@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-77ff",
+  "script": "kai",
+  "character": "矿",
+  "reading": "kuàng",
+  "description": "开采矿物的场所或单位\n石针,古代的一种医疗工具\n⒈蕴藏在地层中可供开采使用的自然资源铁～。煤～。金～。油～。气～。采～。\n⒉开采矿物的场所～山。～井。\n⒊特指矿石黄铁～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-矿"
+}

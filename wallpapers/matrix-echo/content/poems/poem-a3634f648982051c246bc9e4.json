@@ -1,0 +1,16 @@
+{
+  "id": "poem-a3634f648982051c246bc9e4",
+  "title": "下京口埭夜行",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "孤帆度绿氛，寒浦落红曛。",
+    "江树朝来出，吴歌夜渐闻。",
+    "南溟接潮水，北斗近乡云。",
+    "行役从兹去，归情入鴈群。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-46354a02-69ce-43b9-afd7-12a7b49ae671"
+}

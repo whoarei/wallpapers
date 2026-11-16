@@ -1,0 +1,15 @@
+{
+  "id": "poem-83c4344ba06e60a14c5396f1",
+  "title": "天仙子·洞口春红飞蔌蔌",
+  "author": "和凝",
+  "dynasty": "五代",
+  "verses": [
+    "洞口春红飞蔌蔌，仙子含愁眉黛绿。",
+    "阮郎何事不归来，懒烧金，慵篆玉。",
+    "流水桃花空断续。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-25"
+}

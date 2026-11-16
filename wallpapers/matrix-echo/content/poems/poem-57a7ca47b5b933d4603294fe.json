@@ -1,0 +1,16 @@
+{
+  "id": "poem-57a7ca47b5b933d4603294fe",
+  "title": "浣溪沙·咏五更，和湘真韵",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "微晕娇花湿欲流，簟纹灯影一生愁。",
+    "梦回疑在远山楼。",
+    "残月暗窥金屈戍，软风徐荡玉帘钩。",
+    "待听邻女唤梳头。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-79"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-8f7955f19f39d4e42e8bb825",
+  "title": "十无诗寄桂府杨中丞 十",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "膺门不避额逢珠，绝境由来卷轴须。",
+    "早忝阿戎诗友契，趋庭曾荐祢生无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-21c2e074-4b54-4742-83af-3a05c76be088"
+}

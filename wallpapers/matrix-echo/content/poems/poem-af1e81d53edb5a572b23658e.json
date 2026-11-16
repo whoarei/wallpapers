@@ -1,0 +1,18 @@
+{
+  "id": "poem-af1e81d53edb5a572b23658e",
+  "title": "听琴",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "清月转瑶轸，弄中湘水寒。",
+    "能令坐来客，不语自相看。",
+    "静恐鬼神出，急疑风雨残。",
+    "几时归岭峤，更过洞庭弹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-2d9c9d0b-eb38-4239-a506-d237cd207139"
+}

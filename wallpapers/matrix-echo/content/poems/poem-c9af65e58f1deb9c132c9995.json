@@ -1,0 +1,14 @@
+{
+  "id": "poem-c9af65e58f1deb9c132c9995",
+  "title": "题清远峡观音院二首 一",
+  "author": "卢肇",
+  "dynasty": "唐",
+  "verses": [
+    "清潭洞澈深千丈，危岫攀萝上几层。",
+    "秋尽更无黄叶树，夜阑唯对白头僧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-924eca61-cda9-41c2-bcd7-18aaae35802d"
+}

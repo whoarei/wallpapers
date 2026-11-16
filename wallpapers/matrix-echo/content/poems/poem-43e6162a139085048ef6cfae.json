@@ -1,0 +1,16 @@
+{
+  "id": "poem-43e6162a139085048ef6cfae",
+  "title": "杨柳枝·秋夜香闺思寂寞",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "秋夜香闺思寂寞，漏迢迢。",
+    "鸳帷罗幌麝烟销，烛光摇。",
+    "正忆玉郎游荡去，无寻处。",
+    "更闻帘外雨萧萧，滴芭蕉。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-15"
+}

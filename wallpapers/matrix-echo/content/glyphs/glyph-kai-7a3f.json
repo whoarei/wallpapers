@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7a3f",
+  "script": "kai",
+  "character": "稿",
+  "reading": "gǎo",
+  "description": "gǎo：(1)谷类植物的茎秆～秆。～荐（稻草编的垫子）。\n(2)文字、图画的草底，又喻事先考虑的计划文～。～本。～件。讲～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-稿"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-ae940336e8d0f81153eac137",
+  "title": "女冠子·双飞双舞",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "双飞双舞，春昼后园莺语。卷罗帷。",
+    "锦字书封了，银河雁过迟。",
+    "鸳鸯排宝帐，豆蔻绣连枝。",
+    "不语匀珠泪，落花时。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-3"
+}

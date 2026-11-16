@@ -1,0 +1,16 @@
+{
+  "id": "poem-86912219e4620feb57075fa8",
+  "title": "菩萨蛮·阑风伏雨催寒食",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "阑风伏雨催寒食，樱桃一夜花狼藉。",
+    "刚与病相宜，锁窗薰绣衣。",
+    "画眉烦女伴，央及流莺唤。",
+    "半晌试开奁，娇多直自嫌。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-175"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-f7e25738aa999c777d933809",
+  "title": "横吹曲辞 前出塞九首 六",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "挽弓当挽彊，用箭当用长。",
+    "射人先射马，擒贼先擒王。",
+    "杀人亦有限，列国自有疆。",
+    "苟能制侵陵，岂在多杀伤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "哲理",
+    "议论",
+    "战争"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-5683781e-f55a-49ad-8c3a-de7a2f217a35"
+}

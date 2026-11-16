@@ -1,0 +1,14 @@
+{
+  "id": "poem-6ada37cc654fb563b544aa02",
+  "title": "梦二叔",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "二叔年皆八十余，经年不见久无书。",
+    "江山不隔还乡梦，昨夜迢迢到佛庐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-87849cc3-455c-47a8-89be-665718913255"
+}

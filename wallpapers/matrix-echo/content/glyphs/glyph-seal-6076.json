@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6076",
+  "script": "seal",
+  "character": "恶",
+  "reading": "è；wù；wū",
+  "description": "è：(1)不好～感。～果。～劣。～名。丑～。\n(2)凶狠～霸。～棍。险～。凶～。\n(3)犯罪的事，极坏的行为～贯满盈。\n好；美；爱；善；\nwù：讨厌，憎恨，与好（hào）”相对可～。厌～∶（hào）～。\n好；美；爱；善；\n（噁）\ně：〔～心〕要呕吐的感觉；亦指对人和事的厌恶态度。\n好；美；爱；善；\nwū：(1)古同乌”，疑问词，哪，何。\n(2)文言叹词，表示惊讶～，是何言也！",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-恶"
+}

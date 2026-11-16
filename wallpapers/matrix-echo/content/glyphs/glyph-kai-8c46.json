@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8c46",
+  "script": "kai",
+  "character": "豆",
+  "reading": "dòu",
+  "description": "dòu：(1)双子叶植物的一科，木本、草本植物都有，如紫檀”、槐树”、黄豆”、绿豆”、红豆”、豌豆”、落花生”等，日常统称豆类植物，亦指这些植物的种子～科。～子。～荚（豆角儿）。～浆。～绿。煮～燃萁。目光如～。\n(2)形状像豆粒的东西土～儿。\n(3)古代盛肉或其他食品的器皿，形状像高脚盘俎～。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-豆"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-cd1222f2816773137bbf6bb8",
+  "title": "江上逢故人",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "故里琴樽侣，相逢近腊梅。",
+    "江村买一醉，破泪却成咍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-92f7c036-50fb-4b99-985b-d57199c9dbf0"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8840",
+  "script": "kai",
+  "character": "血",
+  "reading": "xuè；xie",
+  "description": "xuè：(1)人或动物体内循环系统的不透明液体，大多为红色，主要成分为血浆”、血细胞”和血绣”。味咸而腥～型。～脂。～压。～糖。～迹。～汗。～泪。～洗。～书。～雨腥风。～海深仇。\n(2)人类因生育而自然形成的关系～统。～缘。\n(3)喻刚强热烈～性。～气方刚。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-血"
+}

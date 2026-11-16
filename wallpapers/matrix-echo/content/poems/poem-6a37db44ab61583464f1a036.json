@@ -1,0 +1,14 @@
+{
+  "id": "poem-6a37db44ab61583464f1a036",
+  "title": "姜秦峰",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "郡侯不识国元勋，释子那知姜与秦。",
+    "隠士有灵应抚掌，相公死亦不容身。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-f06df5e2-df90-4cdc-b012-d72b10cff271"
+}

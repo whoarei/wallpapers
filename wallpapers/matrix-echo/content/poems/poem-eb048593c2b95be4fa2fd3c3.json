@@ -1,0 +1,16 @@
+{
+  "id": "poem-eb048593c2b95be4fa2fd3c3",
+  "title": "东归道中二首 一",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "平生事行役，今日始知非。",
+    "岁月老将至，江湖春未归。",
+    "传家有天爵，主祭用儒衣。",
+    "何必劳知己，无名亦息机。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-ea4cf60d-9597-42d1-86e4-5fd02035666f"
+}

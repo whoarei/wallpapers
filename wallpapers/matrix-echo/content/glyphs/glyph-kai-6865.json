@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6865",
+  "script": "kai",
+  "character": "桥",
+  "reading": "qiáo",
+  "description": "器物上的横杆\n木名\n架桥,修桥\n桥jiāo 1.桔槔。井上汲水工具。或指桔槔上的衡木。 2.通\"憍\"。骄傲。参见\"桥泄\"。\n通\"矫\"。矫正。 3.通\"矫\"。伪，虚假。参见\"桥言\"。 4.通\"挢\"。翘起;伸出。 5.劲疾。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-桥"
+}

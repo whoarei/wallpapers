@@ -1,0 +1,16 @@
+{
+  "id": "poem-3a213684b94a3cd652740c27",
+  "title": "生查子·寂寞掩朱门",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "寂寞掩朱门，正是天将暮。",
+    "暗淡小庭中，滴滴梧桐雨。",
+    "绣工夫，牵心绪，配尽鸳鸯缕。",
+    "待得没人时，偎倚论私语。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-11"
+}

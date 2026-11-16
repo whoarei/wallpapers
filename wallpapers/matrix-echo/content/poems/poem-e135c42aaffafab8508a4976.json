@@ -1,0 +1,14 @@
+{
+  "id": "poem-e135c42aaffafab8508a4976",
+  "title": "赵皮鞋",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "我的状元分付它：官员相见便没奈何。",
+    "还是妇女庄家到厅下，十三小杖，把门子打。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2655",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-4cdd9bc568cb1a0826701a44",
+  "title": "题落叶",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "霜景催危叶，今朝半树空。",
+    "萧条故国异，零落旅人同。",
+    "飒岸浮寒水，依堦拥夜虫。",
+    "随风偏可羡，得到洛阳宫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-35638e63-ef59-411d-a832-af24221fd0fd"
+}

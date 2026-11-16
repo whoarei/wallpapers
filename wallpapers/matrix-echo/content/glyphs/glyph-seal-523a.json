@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-523a",
+  "script": "seal",
+  "character": "刺",
+  "reading": "cì；cī",
+  "description": "cì：(1)用有尖的东西插入～绣。～伤。～杀。\n(2)暗杀～客。被～。行～。\n(3)侦探，打听～探。\n(4)用尖锐的话指出别人的坏处讽～。讥～。\n(5)尖锐像针的东西芒～。鱼～。～丛。\ncī：象声词～地滑了一跤。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-刺"
+}

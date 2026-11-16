@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5238",
+  "script": "seal",
+  "character": "券",
+  "reading": "quàn；xuàn",
+  "description": "quàn：古代的契据，常分为两半，双方各执其一，现代指票据或作凭证的纸片债～。国库～。入场～。证～。稳操胜～。\nxuàn：〔拱～〕门窗、桥梁等建筑成弧形的部分。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-券"
+}

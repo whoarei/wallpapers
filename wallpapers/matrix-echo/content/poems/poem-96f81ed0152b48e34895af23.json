@@ -1,0 +1,22 @@
+{
+  "id": "poem-96f81ed0152b48e34895af23",
+  "title": "岁除夜有怀",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "迢递三巴路，羁危万里身。",
+    "乱山残雪夜，孤灯异乡人。",
+    "渐与骨肉远，转于奴仆亲。",
+    "那堪正飘泊，来日岁华新。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "羁旅",
+    "五言律诗",
+    "春节",
+    "思乡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-0f5af383-765a-4d56-b00b-79ee2ccd5111"
+}

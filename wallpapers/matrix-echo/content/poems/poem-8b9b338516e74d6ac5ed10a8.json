@@ -1,0 +1,14 @@
+{
+  "id": "poem-8b9b338516e74d6ac5ed10a8",
+  "title": "答五陵太守",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "verses": [
+    "仗剑行千里，微躯敢一言。",
+    "曾为大梁客，不负信陵恩。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-答五陵太守"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-08440f86015cb69a04c7830f",
+  "title": "山坡羊",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "撇得我不尴不尬，闪得我无聊无赖。",
+    "亲家，你一霎时认真逼他去投江海，怎布摆，祸从天上来。",
+    "你嫡亲父母尚且不遮盖，反将他谐老夫妻生打开。",
+    "(合)哀哉！扑簌簌泪满腮。",
+    "伤怀，生擦擦痛怎挨！(外、净上)隔墙须有耳，窗外岂无人。",
+    "亲家为何啼哭？(老旦)亲家，不好了，我的媳妇投江死了。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8228",
+  "tags": []
+}

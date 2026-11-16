@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b96",
+  "script": "seal",
+  "character": "殖",
+  "reading": "zhí；shi",
+  "description": "zhí：(1)孳生生～。养～。繁～。～民地。\n(2)种植农～嘉谷”。\n(3)兴生财利货～（经商）。\nshi：〔骨～〕尸骨。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-殖"
+}

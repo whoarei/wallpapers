@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-64a4",
+  "script": "kai",
+  "character": "撤",
+  "reading": "chè",
+  "description": "chè：(1)免除，除去～职。～销。～任。\n(2)退，收回～退。～防。～岗。～回。～诉。～换。～离。\n(3)减轻，减退～味儿。～分量。～火。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撤"
+}

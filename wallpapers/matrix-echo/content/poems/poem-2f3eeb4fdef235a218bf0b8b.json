@@ -1,0 +1,14 @@
+{
+  "id": "poem-2f3eeb4fdef235a218bf0b8b",
+  "title": "明日雨止复招子骏尧夫游南园  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "遥思花寨交横锦，未分春心斗顿灰。",
+    "更与二三头白友，试携薄具上高台。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-1e78a72c-f7be-4cd4-be93-4cb3b97161bc"
+}

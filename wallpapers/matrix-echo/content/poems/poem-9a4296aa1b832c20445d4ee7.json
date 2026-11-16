@@ -1,0 +1,16 @@
+{
+  "id": "poem-9a4296aa1b832c20445d4ee7",
+  "title": "偶作五首 三",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "孰云我轻薄，石头如何唤作玉。",
+    "孰云我是非，随邪逐恶又争得。",
+    "古人终不事悠悠，一言道合死即休。",
+    "岂不见大鹏点翼盖十洲，是何之物鸣啾啾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-5f08a3dd-01f6-46b5-908c-3bfd21e509da"
+}

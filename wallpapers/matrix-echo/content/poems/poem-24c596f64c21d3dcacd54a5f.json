@@ -1,0 +1,16 @@
+{
+  "id": "poem-24c596f64c21d3dcacd54a5f",
+  "title": "南歌子·远山愁黛眉",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "远山愁黛眉，横波慢脸明，腻香红玉茜罗轻。",
+    "深院晚堂人静，理银筝。",
+    "鬓动行云影，裙遮点屐声，娇羞爱问曲中名。",
+    "杨柳杏花时节，几多情？"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-47"
+}

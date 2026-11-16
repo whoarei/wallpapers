@@ -1,0 +1,18 @@
+{
+  "id": "poem-f39b7a9e9e61946224a2080e",
+  "title": "石城晓",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "月落大隄上，女垣栖乌起。",
+    "细露湿团红，寒香解夜醉。",
+    "女牛渡天河，柳烟满城曲。",
+    "上客留断缨，残蛾鬬双绿。",
+    "春帐依微蝉翼罗，横茵突金隐体花。",
+    "帐前轻絮鹤毛起，欲说春心无所似。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-9f1b8b1c-d6f4-4117-91e5-e012a5c39f8d"
+}

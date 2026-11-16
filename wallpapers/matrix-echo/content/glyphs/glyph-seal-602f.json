@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-602f",
+  "script": "seal",
+  "character": "怯",
+  "reading": "qiè",
+  "description": "qiè：(1)胆小，没勇气～场。～懦。～弱。～步。～阵。羞～。\n(2)俗气，见识不广，不合时宜露～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怯"
+}

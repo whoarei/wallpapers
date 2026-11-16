@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-783a",
+  "script": "seal",
+  "character": "砺",
+  "reading": "lì",
+  "description": "引申为磨\n钻研;磨炼\n⒈粗的磨刀石。\n⒉磨～剑。～刀。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-砺"
+}

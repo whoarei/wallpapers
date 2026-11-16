@@ -1,0 +1,15 @@
+{
+  "id": "poem-111d1ec9b4e91ad2e2719154",
+  "title": "偈颂七十一首  其二一",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "年去年来，年来年去。",
+    "虽有去来年，且无来去路。",
+    "既无来去路，实无有去来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-9ae1b5ef-e1f0-473c-99da-b1b188be0879"
+}

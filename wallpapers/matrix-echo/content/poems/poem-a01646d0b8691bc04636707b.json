@@ -1,0 +1,16 @@
+{
+  "id": "poem-a01646d0b8691bc04636707b",
+  "title": "过锦湾望岳亭",
+  "author": "燮元圃",
+  "dynasty": "宋",
+  "verses": [
+    "十载重来一凭栏，光阴不改旧江山。",
+    "亭高下瞰龙藏室，天远遥瞻虎拜班。",
+    "耕钓每怀生处乐，驰驱未许老来闲。",
+    "雄风入座披襟好，静看渔舟上锦湾。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-86a90c39-7d1f-41d4-84ce-34357c67a8f6"
+}

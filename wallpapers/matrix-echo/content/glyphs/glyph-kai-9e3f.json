@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9e3f",
+  "script": "kai",
+  "character": "鸿",
+  "reading": "hóng",
+  "description": "鹄。即天鹅\n喻指\n⒈大型雁类的泛称。\n⒊大～文。～图。\n鸿hòng 1.见\"鸿絧\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鸿"
+}

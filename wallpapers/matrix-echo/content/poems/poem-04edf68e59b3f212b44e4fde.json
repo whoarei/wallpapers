@@ -1,0 +1,16 @@
+{
+  "id": "poem-04edf68e59b3f212b44e4fde",
+  "title": "解三酲",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "叹双亲把儿指望，教儿读古老文章。",
+    "比我会读书的到把亲撇漾，少甚么不识字的到得终养。",
+    "书，我只为你其中自有黄金屋，却教我撇却椿庭萱草堂。",
+    "还思想，休休，毕竟是文章误我，我误爹娘。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5218",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-63d67f314fe39f2b96cb0852",
+  "title": "禅师",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "独在西峰顶，年年闭石房。",
+    "定中无弟子，人到为焚香。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-9f27bad0-5a8e-45c1-ae8d-54652a436648"
+}

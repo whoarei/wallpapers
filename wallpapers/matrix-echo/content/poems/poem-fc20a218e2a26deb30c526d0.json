@@ -1,0 +1,16 @@
+{
+  "id": "poem-fc20a218e2a26deb30c526d0",
+  "title": "贺鹤林吴尚书赴召除隆兴",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "鸾翔芝检下溪堂，醉梦惊回午正凉。",
+    "宠报帝俞催宰相，且将州绂召文昌。",
+    "苹花襟袖宫花近，诗草帘栊谏草香。",
+    "大化一新多吉士，卷阿历历告成王。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-06b017a1-a926-41fd-a0a5-ca253d8bb08e"
+}

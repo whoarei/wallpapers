@@ -1,0 +1,23 @@
+{
+  "id": "poem-29aa98e7cc03804755b9873c",
+  "title": "送灵澈上人",
+  "author": "刘长卿",
+  "dynasty": "唐",
+  "verses": [
+    "苍苍竹林寺，杳杳钟声晚。",
+    "荷笠带夕阳，青山独归远。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "山水",
+    "抒情",
+    "送别",
+    "初中古诗",
+    "即景抒情",
+    "五言绝句",
+    "七年级下册(课外)"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a746d1f0-a72c-44d2-8b1c-c5c990749257"
+}

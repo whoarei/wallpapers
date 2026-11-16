@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9886",
+  "script": "kai",
+  "character": "领",
+  "reading": "lǐng",
+  "description": "领子,衣领\n要领\n山道,山坡\n⒈脖子引～北望。\n⒉衣服上围绕脖子的部分衣～子。\n⒊要点，纲要要～。纲～。提纲挈～。\n⒋带，引，统率～队。带～。率～。～兵百万。\n⒌接受，取得～教。失物招～。\n⒍了解，懂得，欣赏～会。～悟。～略。共～人间第一香。\n⒎占有，管辖占～。～土。～海。～空。～域。\n⒏量词锦裘三～。四～凉席。\n①率领并引导。\n②指领导人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-领"
+}

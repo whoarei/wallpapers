@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-76d0",
+  "script": "kai",
+  "character": "盐",
+  "reading": "yán",
+  "description": "由金属\n⒈盐，又叫\"咸～\" ，主要化学成份是氯化钠。放在食品里使有咸味加碘食～。\n⒉盐类，化学上的中性化合物。它是酸类中的氢根被金属元素置换而成。\n盐yàn 1.用盐腌物。 2.指海水﹑盐水等淹﹑浸。 3.通\"艳\"。羡慕。 4.通\"艳\"。美好。 5.古乐曲名。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-盐"
+}

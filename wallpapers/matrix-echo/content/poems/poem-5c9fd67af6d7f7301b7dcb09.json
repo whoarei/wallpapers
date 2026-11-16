@@ -1,0 +1,22 @@
+{
+  "id": "poem-5c9fd67af6d7f7301b7dcb09",
+  "title": "寻陆鸿渐不遇",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "移家虽带郭，野径入桑麻。",
+    "近种篱边菊，秋来未著花。",
+    "扣门无犬吠，欲去问西家。",
+    "报道山中去，归时每日斜。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隐士",
+    "访友",
+    "生活",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-565d931a-ff49-4f37-b633-524b48c2f4f0"
+}

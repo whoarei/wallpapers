@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5ba1",
+  "script": "kai",
+  "character": "审",
+  "reading": "shěn",
+  "description": "知道,知悉\n⒈周密，详细～慎。精～。用意详～。〈引〉细思，细查，推究，评定，弄明白～查。～核。～稿。～议。～定。～时度势。\n⒊知道，明白，也作\"谂\"～悉。当局者迷，旁观者～。\n⒋确实，果然～如其言。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-审"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-683c",
+  "script": "seal",
+  "character": "格",
+  "reading": "gé",
+  "description": "gé：(1)划分成的空栏和框子～子纸。方～儿布。\n(2)法式，标准～局。～律。～式。～言∠～。资～。\n(3)表现出来的品质～调。风～。人～。国～。性～。\n(4)阻碍，隔阂～～不入。\n(5)击，打～斗。～杀。\n(6)推究～致。\n(7)树的长枝。\n(8)至，来～于上下。\n(9)感通～于皇天。\n(10)变革，纠正～非。\n(11)某些语言中的语法范畴。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-格"
+}

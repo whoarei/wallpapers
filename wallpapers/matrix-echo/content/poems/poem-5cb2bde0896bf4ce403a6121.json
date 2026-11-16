@@ -1,0 +1,16 @@
+{
+  "id": "poem-5cb2bde0896bf4ce403a6121",
+  "title": "汉武帝思李夫人",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "惆怅冰颜不复归，晚秋黄叶满天飞。",
+    "迎风细荇传香粉，隔水残霞见画衣。",
+    "白玉帐寒鸳梦绝，紫阳宫远雁书稀。",
+    "夜深池上兰桡歇，断续歌声彻太微。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-16b38c69-8483-4e41-b359-ceadd408aeb1"
+}

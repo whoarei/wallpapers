@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e8b",
+  "script": "seal",
+  "character": "麋",
+  "reading": "mí",
+  "description": "mí：〔～鹿〕哺乳动物，比牛大，毛淡褐色，雄的有角，角像鹿，尾像驴，蹄像牛，颈像骆驼，但从整体看哪种动物都不像，原产中国，是一种珍贵的稀有兽类。俗称四不像”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-麋"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-339315e76572fbadeed31db5",
+  "title": "听晓角",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "边霜昨夜堕关榆，吹角当城汉月孤。",
+    "无限塞鸿飞不度，秋风卷入小单于。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "写景",
+    "凄凉",
+    "萧瑟",
+    "秋天",
+    "边塞"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-426eea46-266e-472d-8fe4-a558b28d18f9"
+}

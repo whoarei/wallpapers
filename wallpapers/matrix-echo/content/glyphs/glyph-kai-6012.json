@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6012",
+  "script": "kai",
+  "character": "怒",
+  "reading": "nù",
+  "description": "nù：(1)生气，气愤～色。～视。～叱。～骂。恼～。息～。\n(2)气势盛～涛。～火。心花～放。\n(3)中国少数民族，主要分布于云南省～族。\n(4)谴责若不可教而后～之”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怒"
+}

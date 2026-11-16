@@ -1,0 +1,24 @@
+{
+  "id": "poem-bfaa0c4891f8dfc2a18b1710",
+  "title": "杜少府之任蜀州",
+  "author": "王勃",
+  "dynasty": "唐",
+  "verses": [
+    "城阙辅三秦，风烟望五津。",
+    "与君离别意，同是宦游人。",
+    "海内存知己，天涯若比隣。",
+    "无为在岐路，儿女共沾巾。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "八年级下册(课外)",
+    "友情",
+    "送别",
+    "初中古诗",
+    "五言律诗",
+    "哲理"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-fe6f4b72-855c-43b9-8883-8b3fe3cd8bd4"
+}

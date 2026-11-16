@@ -1,0 +1,16 @@
+{
+  "id": "poem-71153a5fe73b167639cf96ec",
+  "title": "赤城李丹士",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "频年游岳洞，灵迹记无差。",
+    "学得长生术，常留锻死砂。",
+    "笛吹苍岛月，鞋踏赤城霞。",
+    "又欲腾空去，寻仙到九华。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-28baab79-4afb-498f-8bc4-8e91e9da86ce"
+}

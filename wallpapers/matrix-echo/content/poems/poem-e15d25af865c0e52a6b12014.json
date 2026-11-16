@@ -1,0 +1,16 @@
+{
+  "id": "poem-e15d25af865c0e52a6b12014",
+  "title": "送于兢补阙赴京",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "乱离吾道在，不觉到清时。",
+    "得句下雪岳，送君登玉墀。",
+    "冷惊蝉韵断，凉触火云隳。",
+    "倘遇南来使，无忘问所之。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c9a02462-e7d8-40d1-a13a-b1c674e72353"
+}

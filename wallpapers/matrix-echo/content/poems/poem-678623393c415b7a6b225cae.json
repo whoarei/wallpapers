@@ -1,0 +1,14 @@
+{
+  "id": "poem-678623393c415b7a6b225cae",
+  "title": "自君之出矣",
+  "author": "李康成",
+  "dynasty": "唐",
+  "verses": [
+    "自君之出矣，弦吹绝无声。",
+    "思君如百草，撩乱逐春生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-157dde0c-9fb0-4ca2-8c33-6f412582c028"
+}

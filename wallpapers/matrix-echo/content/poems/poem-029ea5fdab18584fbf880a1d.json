@@ -1,0 +1,14 @@
+{
+  "id": "poem-029ea5fdab18584fbf880a1d",
+  "title": "深山逢老僧二首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "山童貌顽名乞乞，放火烧畬采崖蜜。",
+    "担头何物带山香，一箩白蕈一箩栗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-76124fa1-0a96-470d-a832-8f0742278cd5"
+}

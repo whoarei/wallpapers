@@ -1,0 +1,23 @@
+{
+  "id": "poem-5c4507f39630487ea9b0f5f4",
+  "title": "辋川集 竹里馆",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "独坐幽篁里，弹琴复长啸。",
+    "深林人不知，明月来相照。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "孤独",
+    "生活",
+    "初中古诗",
+    "月亮",
+    "归隐",
+    "五言绝句",
+    "七年级下册(课外)"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-36e09cb4-4fb7-48be-b6c6-c9bd906d9331"
+}

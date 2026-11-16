@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-642d",
+  "script": "kai",
+  "character": "搭",
+  "reading": "dā",
+  "description": "dā：(1)支；架设；用棍棒等东西交接捆扎起来～建。～盖。～制。～桥。～救。～架子。\n(2)共同抬把桌子～起来。\n(3)交接，配合～配。～伙。～档。～售。～伴。～帮。～腔。～话。～界。～讪。\n(4)乘车船等～车。～船。～客。～载。\n(5)方言，指处、地方这～儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-搭"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1baf3e5e71006e71d00ecb01",
+  "title": "薄媚衮",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)因带酒回到后门，一跌疼难忍。",
+    "回首看时，瞥见一人，跌倒在草径，呼唤不醒。",
+    "忙扶起，血沾手，污我身。",
+    "不知何人，杀死他身？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1893",
+  "tags": []
+}

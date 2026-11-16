@@ -1,0 +1,16 @@
+{
+  "id": "poem-242580ee1314df8d082e3d86",
+  "title": "留题宿猿洞",
+  "author": "林迥",
+  "dynasty": "宋",
+  "verses": [
+    "几年形胜晦南州，一旦声名蔼湛侯。",
+    "夜色并来三岛月，水光分破五湖秋。",
+    "荔枝影里安吟榻，红藕香中系钓舟。",
+    "金印解还天子后，诏书征起不回头。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-67a5dca6-36a2-4a07-a013-f72a131ddcbd"
+}

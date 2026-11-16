@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-868a",
+  "script": "seal",
+  "character": "蚊",
+  "reading": "wén",
+  "description": "wén：昆虫，种类很多。雄的吸植物的汁液，雌的吸人畜的血液，有的传染疾病。幼虫称孑孓”～子。～香。～帐。聚～成雷。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蚊"
+}

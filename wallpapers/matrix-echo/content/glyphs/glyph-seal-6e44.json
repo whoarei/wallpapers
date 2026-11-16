@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6e44",
+  "script": "seal",
+  "character": "湄",
+  "reading": "méi",
+  "description": "méi：河岸，水与草交接的地方。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-湄"
+}

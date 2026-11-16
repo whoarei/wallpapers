@@ -1,0 +1,14 @@
+{
+  "id": "poem-3bb14dd3cae68c990fc2f5b6",
+  "title": "天仙子·晴野鹭鸶飞一只",
+  "author": "皇甫松",
+  "dynasty": "唐",
+  "verses": [
+    "晴野鹭鸶飞一只，水荭花发秋江碧。",
+    "刘郎此日别天仙，登绮席，泪珠滴，十二晚峰高历历。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-16",
+  "tags": []
+}

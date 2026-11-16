@@ -1,0 +1,14 @@
+{
+  "id": "poem-ae9e9849686ee2701520ee44",
+  "title": "金陵览古 石头城",
+  "author": "朱存",
+  "dynasty": "宋",
+  "verses": [
+    "五城楼雉各相望，山水英灵宅帝王。",
+    "此地定由天造险，古来长恃作金汤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-69cf5a0e-55c2-41ee-8bb8-812ce5637d84"
+}

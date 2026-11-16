@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-826e",
+  "script": "seal",
+  "character": "艮",
+  "reading": "gèn",
+  "description": "gèn：(1)八卦之一，代表山。\n(2)古代指时辰若依然葬书，多用乾、～二时，并是近半夜，此即文与礼违。”\n(3)指东北方～维。\n(4)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-艮"
+}

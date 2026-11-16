@@ -1,0 +1,20 @@
+{
+  "id": "poem-9b3bf6bfae150aa275d53348",
+  "title": "椶拂子",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "椶拂且薄陋，岂知身效能。",
+    "不堪代白羽，有足除苍蝇。",
+    "荧荧金错刀，擢擢朱丝蝇。",
+    "非独颜色好，亦用顾盼称。",
+    "吾老抱疾病，家贫卧炎蒸。",
+    "咂肤倦扑灭，赖尔甘服膺。",
+    "物微世竞弃，义在谁肯征。",
+    "三岁清秋至，未敢阙缄藤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-704494b5-291d-4f04-a07c-ac2a0c754edc"
+}

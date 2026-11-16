@@ -1,0 +1,16 @@
+{
+  "id": "poem-ae55e3acaca0e8bf3f36a82f",
+  "title": "贺昭国从叔员外转本曹郎中",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "苔砌塔阴浓，朝回尚叫蛬。",
+    "粟徴山县欠，官转水曹重。",
+    "灯照楼中雨，书求海上峰。",
+    "诗家无骤显，一一古人踪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8cd02cdc-e770-4791-ba47-6c81e32d600e"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-82df",
+  "script": "kai",
+  "character": "苟",
+  "reading": "gǒu",
+  "description": "gǒu：(1)姑且，暂且～安。～延残喘。～且。\n(2)马虎，随便～得。～合。不敢～同。\n(3)如果，假使～非其人。～富贵，无相忘”。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-苟"
+}

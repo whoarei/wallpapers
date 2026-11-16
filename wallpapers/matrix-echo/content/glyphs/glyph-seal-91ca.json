@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-91ca",
+  "script": "seal",
+  "character": "释",
+  "reading": "shì",
+  "description": "解释\n⒈放，放下，放弃～放。开～。如～重负。手不～卷。\n⒉排解，消除，消溶～难。～疑。冰～。\n⒊说明，解说～义。解～。注～。\n释yì 1.喜悦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-释"
+}

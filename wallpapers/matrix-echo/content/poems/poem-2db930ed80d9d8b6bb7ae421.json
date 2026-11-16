@@ -1,0 +1,14 @@
+{
+  "id": "poem-2db930ed80d9d8b6bb7ae421",
+  "title": "游仙词三十三首  其一七",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "夜半瑶宫上会开，龙车声轧凤飞来。",
+    "演穷灵宝玄元法，大梵天仙带月回。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-370e7dd8-7a41-4423-a8f1-292d727f1cd5"
+}

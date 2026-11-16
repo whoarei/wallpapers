@@ -1,0 +1,16 @@
+{
+  "id": "poem-66e7d1c8a8e3078869757beb",
+  "title": "渔歌子·楚山青",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "楚山青，湘水绿，春风淡荡看不足。",
+    "草芊芊，花簇簇，渔艇棹歌相续。",
+    "信浮沉，无管束，钓回乘月归湾曲。",
+    "酒盈樽，云满屋，不见人间荣辱。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-17"
+}

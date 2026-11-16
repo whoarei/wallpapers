@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5cab",
+  "script": "seal",
+  "character": "岫",
+  "reading": "xiù",
+  "description": "xiù：(1)山洞云无心以出～，鸟倦飞而知还”。～居。岩～。\n(2)山远～。巫～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-岫"
+}

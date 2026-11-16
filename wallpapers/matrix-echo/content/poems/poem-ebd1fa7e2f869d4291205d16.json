@@ -1,0 +1,18 @@
+{
+  "id": "poem-ebd1fa7e2f869d4291205d16",
+  "title": "西塞山下回舟作",
+  "author": "陶岘",
+  "dynasty": "唐",
+  "verses": [
+    "匡庐旧业是谁主，吴越新居安此生。",
+    "白发数茎归未得，青山一望计还成。",
+    "鸦翻枫叶夕阳动，鹭立芦花秋水明。",
+    "从此舍舟何所诣，酒旗歌扇正相迎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6b14551d-2650-480a-8bfd-4e38ec1c4f9e"
+}

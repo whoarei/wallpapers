@@ -1,0 +1,18 @@
+{
+  "id": "poem-bb0dda0a6b7bb03f29c4b580",
+  "title": "和留守相公九月八日与潞公宴赵令园有怀去年与景仁秉国游赏",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "今歳台星聚洛中，甘棠前后雨阴浓。",
+    "英辞唱和诗千首，高宴游陪禄万锺。",
+    "木末霜繁花未落，云间字小鴈相从。",
+    "西湖在望亲朋远，节物那堪处处逢。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-d0ca4b5a-2cc6-49df-ae0f-0cd3509cee1f"
+}

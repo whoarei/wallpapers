@@ -1,0 +1,17 @@
+{
+  "id": "poem-0e2573e93e87ac16b01ef81a",
+  "title": "奉和圣制天长节赐宰臣歌应制",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "太阳升兮照万方，开阊阖兮临玉堂。",
+    "俨冕旒兮垂衣裳，金天净兮丽三光。",
+    "彤庭曙兮延八荒，德合天兮礼神徧。",
+    "灵芝生兮庆云见，唐尧后兮稷卨臣。",
+    "匝宇宙兮华胥人，尽九服兮皆四邻，干降瑞兮坤降珍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-9c86dd14-c343-4536-9713-93ac4edbbf8e"
+}

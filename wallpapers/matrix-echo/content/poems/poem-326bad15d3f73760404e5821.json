@@ -1,0 +1,16 @@
+{
+  "id": "poem-326bad15d3f73760404e5821",
+  "title": "过卢秦卿旧居",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "五柳茅茨楚国贤，桔槔蔬圃水涓涓。",
+    "黄花寒后难逢蝶，红叶晴来忽有蝉。",
+    "韩康助采君臣药，支遁同看内外篇。",
+    "为问潜夫空著论，如何侍从赋甘泉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-f3dcc157-7b7f-43a1-b884-2aec0694612e"
+}

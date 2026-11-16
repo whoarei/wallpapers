@@ -1,0 +1,18 @@
+{
+  "id": "poem-6bef516e676e30810900bbc8",
+  "title": "白雪曲",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "列鼎佩金章，泪眼看风枝。",
+    "却思食藜藿，身作屠沽儿。",
+    "负米无远近，所希升斗归。",
+    "为人无贵贱，莫学鸡狗肥。",
+    "斯言如不忘，别更无光辉。",
+    "斯言如或忘，即安用人为。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-e6c811cb-96d9-457c-98ec-4f68ef2eb3a1"
+}

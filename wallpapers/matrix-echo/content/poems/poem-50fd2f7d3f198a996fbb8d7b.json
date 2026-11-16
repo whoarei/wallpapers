@@ -1,0 +1,20 @@
+{
+  "id": "poem-50fd2f7d3f198a996fbb8d7b",
+  "title": "南乡子·十月小春天",
+  "author": "李石",
+  "dynasty": "宋",
+  "verses": [
+    "十月小春天。",
+    "红叶红花半雨烟。",
+    "点滴红酥真耐冷，争先。",
+    "夺取梅魂斗雪妍。",
+    "坐待晓莺迁。",
+    "织女机头蜀锦川。",
+    "枝上绿毛幺凤子，飞仙。",
+    "乞与双双作被眠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-272",
+  "tags": []
+}

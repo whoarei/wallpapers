@@ -1,0 +1,18 @@
+{
+  "id": "poem-9090de32c2865cd9eb5d30cf",
+  "title": "卜算子·驿外断桥边",
+  "author": "陆游",
+  "dynasty": "宋",
+  "verses": [
+    "驿外断桥边，寂寞开无主。",
+    "已是黄昏独自愁，更著风和雨。",
+    "无意苦争春，一任群芳妒。",
+    "零落成泥碾作尘，只有香如故。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-13"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8284",
+  "script": "seal",
+  "character": "芄",
+  "reading": "wán",
+  "description": "wán：〔～兰〕多年蔓生草本植物，断之有白汁，可食。叶对生，心脏形。花白色，有紫色斑点。茎、叶和种子均可入药。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芄"
+}

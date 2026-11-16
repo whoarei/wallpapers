@@ -1,0 +1,22 @@
+{
+  "id": "poem-639e6ed7f0c44b5c69231cdd",
+  "title": "常娥",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "云母屏风烛影深，长河渐落晓星沈。",
+    "常娥应悔偷灵药，碧海青天夜夜心。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "孤独",
+    "中秋",
+    "写人",
+    "三年级下册",
+    "七言绝句",
+    "小学古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-f7c9c409-9571-4eb8-abd9-91ec6c1ff564"
+}

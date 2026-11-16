@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8892",
+  "script": "seal",
+  "character": "袒",
+  "reading": "tǎn",
+  "description": "tǎn：(1)脱去上衣，露出身体的一部分～露。\n(2)不公正地维护一方～护。偏～。左～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-袒"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-d5415db6bc544995ad501ed3",
+  "title": "奉送严大夫再领容府二首 一",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "海风卷树冻岚消，忧国宁辞岭外遥。",
+    "自顾勤劳甘百战，不将功业负三朝。",
+    "劒澄黑水曾芟虎，箭劈黄云惯射雕。",
+    "代北天南尽成事，肯将心许霍嫖姚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-e0fca6bb-3db4-476d-a052-a47ead7b87ae"
+}

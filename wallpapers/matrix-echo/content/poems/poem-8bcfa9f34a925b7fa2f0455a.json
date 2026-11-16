@@ -1,0 +1,14 @@
+{
+  "id": "poem-8bcfa9f34a925b7fa2f0455a",
+  "title": "宫词  其一一",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "年华先到未央宫，嬉赏班班四序中。",
+    "潇洒梅花元耐雪，轻狂柳絮不嫌风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-9f0bb6b2-9025-42db-bc31-03138af344a2"
+}

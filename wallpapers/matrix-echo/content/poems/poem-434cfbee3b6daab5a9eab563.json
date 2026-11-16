@@ -1,0 +1,16 @@
+{
+  "id": "poem-434cfbee3b6daab5a9eab563",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦，丑上)前日已预名，届此良辰来殿庭。",
+    "拈香炷宝鼎，望慈悲作证盟。",
+    "(净)惟愿亡灵来受领，献取香花酒果饼。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8333",
+  "tags": []
+}

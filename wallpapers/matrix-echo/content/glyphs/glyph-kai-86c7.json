@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-86c7",
+  "script": "kai",
+  "character": "蛇",
+  "reading": "shé；yí",
+  "description": "shé：爬行动物，身体细长，体上有鳞，没有四肢。种类很多，有的有毒，有的无毒。以蛙、鼠为食，大蛇亦吞食大的兽类～蜕。～行。～蝎。～足（喻多余无用的事物）。画～添足。\nyí：〔委（wēi）～〕见委2”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蛇"
+}

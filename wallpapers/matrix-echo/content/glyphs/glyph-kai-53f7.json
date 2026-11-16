@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53f7",
+  "script": "kai",
+  "character": "号",
+  "reading": "hào",
+  "description": "哭而有言\n⒈名称称～。年～。牌～。\n⒉商店商～。分～。\n⒊人的名和字以外的别称别～。\n⒋标志记～。符～。信～。加减～。\n⒌排定次序，标上记号排坐～。编～码。将这些东西～上。\n⒍物品的规格、等级特大～。中～。均码～。\n⒎命令～令。发～施令。\n⒏军队或乐队中所用的喇叭～兵。军～队。吹冲锋～。\n⒈大声呼叫～叫◆～。北风怒～。\n⒉大声哭哀～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-号"
+}

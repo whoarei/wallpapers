@@ -1,0 +1,17 @@
+{
+  "id": "poem-0482933c5cc10f0c2ed09975",
+  "title": "洛阳春望",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "世事空悲衰复荣，慿音一望更添情。",
+    "红颜只向爱中尽，芳草先从愁处生。",
+    "佳气蔼空迷鳯阙，绿杨抵水挠宫城。",
+    "（「挠」，严疑当作「绕」。",
+    "）游执行驻马烟花外，玉笛不利何处声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-4351b470-b3b7-46a2-8329-1e450bac14bb"
+}

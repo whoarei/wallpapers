@@ -1,0 +1,21 @@
+{
+  "id": "poem-ff267505aa89f63c74bab53c",
+  "title": "登幽州台歌",
+  "author": "陈子昂",
+  "dynasty": "唐",
+  "verses": [
+    "前不见古人，后不见来者。",
+    "念天地之悠悠，独怆然而涕下。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "八年级下册(课外)",
+    "伤怀",
+    "初中古诗",
+    "七言古诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c244a5b4-0ed0-48fe-8694-95309acac184"
+}

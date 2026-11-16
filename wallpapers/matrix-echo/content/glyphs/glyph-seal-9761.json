@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9761",
+  "script": "seal",
+  "character": "靡",
+  "reading": "mí",
+  "description": "mí：(1)浪费，奢侈～荡。～费。侈～。\n(2)分散～散（消灭）。\n(3)古同糜”，糜烂。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-靡"
+}

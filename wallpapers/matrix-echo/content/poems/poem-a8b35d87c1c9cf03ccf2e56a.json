@@ -1,0 +1,18 @@
+{
+  "id": "poem-a8b35d87c1c9cf03ccf2e56a",
+  "title": "采桑子·时光只解催人老",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "时光只解催人老，不信多情。",
+    "长恨离亭。",
+    "泪滴春衫酒易醒。",
+    "梧桐昨夜西风急，淡月胧明。",
+    "好梦频惊。",
+    "何处高楼雁一声。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-467",
+  "tags": []
+}

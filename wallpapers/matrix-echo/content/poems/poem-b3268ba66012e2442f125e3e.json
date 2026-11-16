@@ -1,0 +1,16 @@
+{
+  "id": "poem-b3268ba66012e2442f125e3e",
+  "title": "和邵尧夫秋霁登石阁",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "飞簷危槛出林端，王屋嵩丘咫尺间。",
+    "独爱高明游佛阁，岂知忧喜满尘寰。",
+    "目穷莽苍纤毫尽，身得逍遥万象闲。",
+    "暇日登临无厌数，悲风残叶已珊珊。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-be337607-3a98-48df-8e8c-b38abba7b049"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2b6c48f86a1fb9af80118d90",
+  "title": "古鲍老",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "手提着太阿，碧澄澄恰如三尺波。",
+    "额攒着翠娥，恶狠狠怒如千丈火。",
+    "狂旗磨．战鼓敲，妖兵和。",
+    "你便吃了灵丹数颗，争似我风声偏大，半合儿敢着你难捞摸。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2352",
+  "tags": []
+}

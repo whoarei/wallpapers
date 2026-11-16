@@ -1,0 +1,18 @@
+{
+  "id": "poem-38d8a5b761787fd217b5ebbc",
+  "title": "公子家",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "种花满西园，花发青楼道。",
+    "花下一禾生，去之为恶草。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "写人",
+    "讽刺",
+    "写人诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ba1417d6-912a-4606-a798-d8971da31a7e"
+}

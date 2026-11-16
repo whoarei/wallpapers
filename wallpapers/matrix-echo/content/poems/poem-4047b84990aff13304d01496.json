@@ -1,0 +1,19 @@
+{
+  "id": "poem-4047b84990aff13304d01496",
+  "title": "点绛唇·浊酒黄花",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "浊酒黄花，画檐十日无秋燕。",
+    "梦中相见。",
+    "起作南柯观。",
+    "镜里朱颜，又减年时半。",
+    "江山远。",
+    "登高人健。",
+    "应问西来雁。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-716",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-aae3b1f62c7093d4d61cba8f",
+  "title": "残雪",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "前水花新霁，暾云日未升。",
+    "簷声都是雨，笕溜半成冰。",
+    "幌冷疑眠月，窗虚罢续灯。",
+    "独余林杪塔，犹自隠觚棱。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-42241090-7ae3-4ceb-b0e1-e8de5c39c520"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-bd100a195b90e9b0a1137c65",
+  "title": "闻蝉",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "绿槐阴里一声新，雾薄风轻力未匀。",
+    "莫道闻时总惆怅，有愁人有不愁人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c5acc0ee-6f84-4905-a0ec-791cf855d91a"
+}

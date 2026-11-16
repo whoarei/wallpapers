@@ -1,0 +1,14 @@
+{
+  "id": "poem-aa9c2d678c43f3dbf6af3d7b",
+  "title": "过骊山",
+  "author": "孟迟",
+  "dynasty": "唐",
+  "verses": [
+    "冷日微烟渭水愁，华清宫树不胜秋。",
+    "霓裳一曲千门锁，白尽梨园弟子头。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-8c7331f5-925d-4b37-b7a2-f94827e2a98f"
+}

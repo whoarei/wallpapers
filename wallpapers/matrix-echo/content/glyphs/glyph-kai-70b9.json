@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-70b9",
+  "script": "kai",
+  "character": "点",
+  "reading": "diǎn",
+  "description": "细小的黑色斑痕\n小滴\n汉字笔画名\n数学名词。数学上表示小数的符号叫小数点,省称为点”。\n几何系统,尤指欧几里",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-点"
+}

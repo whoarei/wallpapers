@@ -1,0 +1,21 @@
+{
+  "id": "poem-52c765f5e0f15c13bf7225c0",
+  "title": "相思",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "红豆生南国，秋来发故枝。",
+    "愿君多采撷，此物最相思。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "咏物",
+    "抒情",
+    "咏物诗",
+    "五言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-8baa7c35-9afb-40bf-b5e4-41d9895e2710"
+}

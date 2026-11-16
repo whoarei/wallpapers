@@ -1,0 +1,16 @@
+{
+  "id": "poem-43f0a6b96aa3a54069f1c193",
+  "title": "长安寓居寄赠贾岛",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "岁暮见华发，平生志半空。",
+    "孤云不我弃，归隐与谁同。",
+    "枉道紫宸谒，妨栽丹桂丛。",
+    "何如随野鹿，栖止石岩中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b4c9a9f7-1393-45dd-a112-4e508ca991f1"
+}

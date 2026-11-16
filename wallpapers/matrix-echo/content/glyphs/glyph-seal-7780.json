@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7780",
+  "script": "seal",
+  "character": "瞀",
+  "reading": "mào",
+  "description": "mào：(1)目眩，眼花～病（头目晕眩的病症）。～～（垂目下视的样子；形容眼睛昏花，引申为昏昏沉沉）。～瘛（中医指看不清，手脚拘挛的症状）。雀（qiǎo）～（古时称夜盲症）。\n(2)心绪紊乱。～乱。\n(3)愚昧世俗之沟犹～儒”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瞀"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-924b132bf7939e0f717093a4",
+  "title": "胜如花",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "辞亲去，别泪零，岂料登山蓦领。",
+    "只因人递简传书，教娘离乡背井，未知道何日欢庆？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8230",
+  "tags": []
+}

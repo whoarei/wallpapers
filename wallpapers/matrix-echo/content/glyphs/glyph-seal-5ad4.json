@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5ad4",
+  "script": "seal",
+  "character": "嫔",
+  "reading": "pín",
+  "description": "跟从\n古代妇女的通称。亦对妇人的美称\n帝王诸侯的姬妾\n⒈〈古〉皇宫里的女官。\n⒉女子出嫁。\n⒊〈古〉妻死后的称呼。\n⒋［嫔然］形容众多。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嫔"
+}

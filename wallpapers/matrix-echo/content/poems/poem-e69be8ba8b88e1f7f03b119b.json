@@ -1,0 +1,14 @@
+{
+  "id": "poem-e69be8ba8b88e1f7f03b119b",
+  "title": "游仙词三十三首  其三三",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "月娥树上赤花香，羽帐琼楼子夜长。",
+    "玉兔白蛙身不老，水银一臼结玄霜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-37021886-54c8-4238-8507-7522d9c40df8"
+}

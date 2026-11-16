@@ -1,0 +1,16 @@
+{
+  "id": "poem-57c3b377dfb843ff3dd66301",
+  "title": "慈恩寺塔下避暑",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "古松凌巨塔，修竹映空廊。",
+    "竟日闻虚籁，深山只此凉。",
+    "僧真生我静，水淡发茶香。",
+    "坐久东楼望，钟声振夕阳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-d10f711a-b2a1-4f39-8b6a-220594025cb2"
+}

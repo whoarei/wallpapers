@@ -1,0 +1,16 @@
+{
+  "id": "poem-e7e18f9c79ef5ed942aedf7f",
+  "title": "送孟八浩然归襄阳二首 二",
+  "author": "张子容",
+  "dynasty": "唐",
+  "verses": [
+    "杜门不欲出，久与世情疎。",
+    "以此为长策，劝君归旧庐。",
+    "醉歌田舍酒，笑读古人书。",
+    "好是一生事，无劳献子虚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-e4eb0fd5-78f5-4004-bed3-acd3a786062c"
+}

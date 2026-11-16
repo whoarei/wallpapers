@@ -1,0 +1,16 @@
+{
+  "id": "poem-06edead5d88230e027c15231",
+  "title": "送成都漕",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "里巷居偏近，生平月亦同。",
+    "开怀一笑语，转首两西东。",
+    "共是尘劳内，全输吏隠中。",
+    "鱼来勤尺素，淮汴古来通。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-6d6975e3-0fc9-4136-b16f-516d062a8331"
+}

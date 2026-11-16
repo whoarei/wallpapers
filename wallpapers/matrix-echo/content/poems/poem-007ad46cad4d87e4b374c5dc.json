@@ -1,0 +1,19 @@
+{
+  "id": "poem-007ad46cad4d87e4b374c5dc",
+  "title": "鹧鸪天·莫笑闲身老态多",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "莫笑闲身老态多。",
+    "避人避世欲如何。",
+    "分明画出山阴道。",
+    "太息吟成宁戚歌。",
+    "穿木石，泛烟波。",
+    "从前魑魅喜人过。",
+    "灵山西畔高溪上，一棹归来舞短蓑。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-463",
+  "tags": []
+}

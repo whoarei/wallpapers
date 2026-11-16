@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7262",
+  "script": "kai",
+  "character": "牢",
+  "reading": "láo",
+  "description": "láo：(1)养牲畜的圈（juàn）虎～。亡羊补～（喻事后补救还不为迟）。～笼。\n(2)古代称作祭品的牲畜太～（古代帝王、诸侯祭祀社稷时，牛、羊、豕三牲全备之称）。少～（诸侯宗庙，用羊、豕之称）。\n(3)监禁犯人的地方监～。坐～。\n(4)结实，坚固，固定～固。～稳（a.稳妥可靠；b.物体稳定，不摇晃）。～记。～不可破。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-牢"
+}

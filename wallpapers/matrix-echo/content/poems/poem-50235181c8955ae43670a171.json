@@ -1,0 +1,14 @@
+{
+  "id": "poem-50235181c8955ae43670a171",
+  "title": "浣溪沙·花榭香红烟景迷",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "花榭香红烟景迷，满庭芳草绿萋萋，金铺闲掩绣帘低。",
+    "紫燕一双娇语碎，翠屏十二晚峰齐，梦魂消散醉空闺。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-34"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c47",
+  "script": "kai",
+  "character": "汇",
+  "reading": "huì",
+  "description": "用外币或本国货币兑换的票据\n收集、分类和分送各种信息或其它需要广泛分送的情况或项目\n能汇\n中子汇\n河流会合\n迂回,围绕\n以即期汇票、\n⒈水流会合～成江河。\n⒉从甲地寄款到乙地～款。～兑。电～。\n⒊外汇多出口，多创～。\n⒋综合，聚合。会聚在一起～集。～编。词～。总～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-汇"
+}

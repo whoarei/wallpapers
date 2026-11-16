@@ -1,0 +1,16 @@
+{
+  "id": "poem-7bde37d258d845c5b4493426",
+  "title": "蕙香囊・鹊桥仙·身作琵琶",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "身作琵琶，调全宫羽，佳人自然用意。",
+    "宝檀槽在雪胸前，倚香脐、横枕琼臂。",
+    "组带金钩，背垂红绶，纤指转弦韵细。",
+    "愿伊只恁拨梁州，且多时、得在怀里。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-818",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ea2",
+  "script": "kai",
+  "character": "亢",
+  "reading": "kàng",
+  "description": "kàng：(1)高，高傲高～。不～不卑。\n(2)极度，非常～旱。～奋。\n(3)抗，匹敌～礼。～衡。\n(4)星名，二十八宿之一。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-亢"
+}

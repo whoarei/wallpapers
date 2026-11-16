@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6840",
+  "script": "seal",
+  "character": "桀",
+  "reading": "jié",
+  "description": "jié：(1)凶暴～鹜不驯。～黠。\n(2)古同杰”，杰出的人。\n(3)古同揭”，举起。\n(4)中国夏朝末代君主，相传是暴君～纣。～犬吠尧。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-桀"
+}

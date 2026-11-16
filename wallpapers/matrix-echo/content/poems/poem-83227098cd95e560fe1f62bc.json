@@ -1,0 +1,16 @@
+{
+  "id": "poem-83227098cd95e560fe1f62bc",
+  "title": "君不见简苏徯",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "君不见道边废弃池，君不见前者摧折桐。",
+    "百年死树中琴瑟，一斛旧水藏蛟龙。",
+    "丈夫盖棺事始定，君今幸未成老翁。",
+    "何恨顦顇在山中，深山穷谷不可处，霹雳魍魉兼狂风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-4cfeb483-2cfb-4f3e-8ed1-059eaccdd260"
+}

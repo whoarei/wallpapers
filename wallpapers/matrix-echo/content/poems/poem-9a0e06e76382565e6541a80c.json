@@ -1,0 +1,14 @@
+{
+  "id": "poem-9a0e06e76382565e6541a80c",
+  "title": "狂题十八首 三",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "交疎自古戒言深，肝胆徒倾致铄金。",
+    "不是史迁书与说，谁知孤负李陵心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-327c574e-005d-4b9e-94cd-9411f8e8b68a"
+}

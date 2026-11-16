@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b7c3475fd09f222a4c7f7a5",
+  "title": "白驹",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "皎皎白驹，食我场苗。絷之维之，以永今朝。所谓伊人，于焉逍遥？",
+    "皎皎白驹，食我场藿。絷之维之，以永今夕。所谓伊人，于焉嘉客？",
+    "皎皎白驹，贲然来思。尔公尔侯，逸豫无期？慎尔优游，勉尔遁思。",
+    "皎皎白驹，在彼空谷。生刍一束，其人如玉。毋金玉尔音，而有遐心。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-185"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-e53a421bf007ab181dfe3c84",
+  "title": "鹧鸪天·闲去街头赏大花",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "闲去街头赏大花。",
+    "翠帷珠幰护豪华。",
+    "西真宴罢群仙醉，千尺黄云错紫霞。",
+    "团粉黛，闹箫笳。",
+    "使星躔处住灵槎。",
+    "定知今夜游仙梦，不落西京姚魏家。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-416",
+  "tags": []
+}

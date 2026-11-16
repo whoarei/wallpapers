@@ -1,0 +1,14 @@
+{
+  "id": "poem-f278b3d835bf7c6fce83b71e",
+  "title": "江行无题一百首 三十一",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "岸草连荒色，村声乐稔年。",
+    "晚晴贪获稻，闲却采菱船。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c875f5b6-3f93-4d07-92f5-70078123cedb"
+}

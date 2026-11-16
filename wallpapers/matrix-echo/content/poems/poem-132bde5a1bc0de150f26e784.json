@@ -1,0 +1,16 @@
+{
+  "id": "poem-132bde5a1bc0de150f26e784",
+  "title": "织女怀牵牛",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "北斗佳人双泪流，眼穿肠断为牵牛。",
+    "封题锦字凝新恨，抛掷金梭织旧愁。",
+    "桂树三春烟漠漠，银河一水夜悠悠。",
+    "欲将心向仙郎说，借问榆花早晚秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-9997089f-74db-4739-9d9a-8e632fc48490"
+}

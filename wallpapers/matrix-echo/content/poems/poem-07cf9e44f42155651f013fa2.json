@@ -1,0 +1,16 @@
+{
+  "id": "poem-07cf9e44f42155651f013fa2",
+  "title": "邵尧夫先生哀辞二首  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "慕德闻风久，论交倾盖新。",
+    "何须半面旧，不待一言亲。",
+    "讲道切磋直，忘怀笑语真。",
+    "重言蒙跖实，佩服敢书绅。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-ad763840-3d39-48de-ba13-89cf95fcd8d1"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5480",
+  "script": "seal",
+  "character": "咀",
+  "reading": "jǔ；zuǐ；jv",
+  "description": "jǔ：含在嘴里细细玩味～嚼（jué）（a.细嚼；b.喻对事物反复体会）‖英～华（喻读书吸取精华）。\nzuǐ：同嘴”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-咀"
+}

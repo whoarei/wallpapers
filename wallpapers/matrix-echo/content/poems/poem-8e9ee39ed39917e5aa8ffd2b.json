@@ -1,0 +1,16 @@
+{
+  "id": "poem-8e9ee39ed39917e5aa8ffd2b",
+  "title": "菩萨蛮 其三",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "蕊黄无限当山额，宿妆隐笑纱窗隔。",
+    "相见牡丹时，暂来还别离。",
+    "翠钗金作股，钗上蝶双舞。",
+    "心事竟谁知，月明花满枝。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-2",
+  "tags": []
+}

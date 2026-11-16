@@ -1,0 +1,20 @@
+{
+  "id": "poem-34b14ae6193c34d5c09c213b",
+  "title": "红林擒近·晓起山光惨",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "晓起山光惨，晚来花意寒。",
+    "映月衣纤缟，因风佩琅玕。",
+    "三弄江梅听彻，几点岸柳飘残。",
+    "宛然舞曲初翻。",
+    "帘影卷波澜。",
+    "把酒同唤醒，促膝小留欢。",
+    "清狂痛饮，能消多少杯盘。",
+    "况人生如寄，相逢半老，岁华休作容易看。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-547",
+  "tags": []
+}

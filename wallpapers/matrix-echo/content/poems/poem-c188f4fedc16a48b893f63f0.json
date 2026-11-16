@@ -1,0 +1,18 @@
+{
+  "id": "poem-c188f4fedc16a48b893f63f0",
+  "title": "经隐叟",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "行蹋门外泉，坐披床上云。",
+    "谁将许由事，万古留与君。",
+    "虚洞闭金鏁，蠹简藏鸟文。",
+    "萝景深的的，蕙风闲薰薰。",
+    "余有世上心，此来未及群。",
+    "殷勤讳姓名，莫遣樵客闻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-a5a9e67a-1ff0-483c-bed5-852f681f22d6"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b87",
+  "script": "seal",
+  "character": "殇",
+  "reading": "shāng",
+  "description": "横死,非正常死亡\n未成年而死的人。亦称殇子”\n病变而药不变,向之寿民,今",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-殇"
+}

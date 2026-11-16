@@ -1,0 +1,14 @@
+{
+  "id": "poem-454725a3c0fb131156cd2a21",
+  "title": "题泾县水西寺",
+  "author": "宣宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "大殿连云接爽溪，钟声还与鼓声齐。",
+    "长安若问江南事，说道风光在水西。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-9abf192a-34e2-410d-addc-68171f00c3f0"
+}

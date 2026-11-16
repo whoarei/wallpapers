@@ -1,0 +1,17 @@
+{
+  "id": "poem-74db907cdc20d44ca7777d9a",
+  "title": "忆王孙·凉生冰簟怯衣单",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "凉生冰簟怯衣单。",
+    "明月楼高空画栏。",
+    "满院啼螀人未眠。",
+    "掩重关。",
+    "乌鹊南飞风露寒。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-994",
+  "tags": []
+}

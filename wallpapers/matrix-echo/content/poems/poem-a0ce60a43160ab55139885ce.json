@@ -1,0 +1,16 @@
+{
+  "id": "poem-a0ce60a43160ab55139885ce",
+  "title": "临江仙·南齐天子宠婵娟",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "南齐天子宠婵娟，六宫罗绮三千。",
+    "潘妃娇艳独芳妍，椒房兰洞，云雨降神仙。",
+    "纵态迷欢心不足，风流可惜当年。",
+    "纤腰婉约步金莲，妖君倾国，犹自至今传。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-40"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5947",
+  "script": "seal",
+  "character": "奇",
+  "reading": "qí；jī",
+  "description": "qí：(1)特殊的，稀罕，不常见的～闻。～迹。～志。～观。～妙。～巧。～耻大辱。\n(2)出人意料的，令人不测的～兵。～计。～袭。出～制胜。\n(3)惊异，引以为奇～怪。惊～。不足为～。\n偶；\njī：(1)数目不成双的，与偶”相对～数（不能被二整除的数，如一、三、五、七、九等，正的奇数亦称单数”）。\n(2)零数～零（不满整数的数）。～羡（赢余，积存的财物）。有～（如八分～～”即八分多一点）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-奇"
+}

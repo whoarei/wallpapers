@@ -1,0 +1,16 @@
+{
+  "id": "poem-42479bc404cc317c440aea99",
+  "title": "行思",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "千里岂云去，欲归如路穷。",
+    "人间无暇日，马上又秋风。",
+    "破月衔高岳，流星拂晓空。",
+    "此时皆在梦，行色独怱怱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-475caaa3-edca-4365-b4d8-f7dfba41ea1c"
+}

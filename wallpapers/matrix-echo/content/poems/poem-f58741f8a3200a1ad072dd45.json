@@ -1,0 +1,16 @@
+{
+  "id": "poem-f58741f8a3200a1ad072dd45",
+  "title": "柳梢青·品雅风流",
+  "author": "曾觌",
+  "dynasty": "宋",
+  "verses": [
+    "品雅风流，端端正正，堪人怜惜。",
+    "因甚新来，眉儿不展，愁情如织。",
+    "倡条冶叶无情，犹为他、千思万忆。",
+    "据恁当初，真心实意，如何亏得。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-351",
+  "tags": []
+}

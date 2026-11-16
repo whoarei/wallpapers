@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-955d",
+  "script": "seal",
+  "character": "镝",
+  "reading": "dí",
+  "description": "稀土族的三价金属元素,它形成的化合物属于已知的具有最大磁性的物质之列。其氧化物呈白色,而盐呈微黄色\n镝dí 1.箭头;箭。\n镝dī 1.金属元素。符号dy。是稀土元素之一。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镝"
+}

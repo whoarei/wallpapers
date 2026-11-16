@@ -1,0 +1,14 @@
+{
+  "id": "poem-9dd0f4d9cf0ab2373d199a64",
+  "title": "戏示语道",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "御史青骢持望重，将军赤兔得勋多。",
+    "乘黄騕褭今相见，垓下乌骓奈若何。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-81ef6f81-d538-40fa-9df3-fc2bf3cfa5f8"
+}

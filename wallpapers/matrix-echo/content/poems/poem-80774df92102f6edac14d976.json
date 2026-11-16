@@ -1,0 +1,16 @@
+{
+  "id": "poem-80774df92102f6edac14d976",
+  "title": "和梁签判颍州西湖十三题 西湖",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "椒泽疏源势不休，绕城冰玉湛寒流。",
+    "凫鹥容与菰蒲乱，占得江湖一望秋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-aabcacee-860f-4dd4-b1ce-08b813ed6c19"
+}

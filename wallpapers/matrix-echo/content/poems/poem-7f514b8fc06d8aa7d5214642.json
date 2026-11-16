@@ -1,0 +1,17 @@
+{
+  "id": "poem-7f514b8fc06d8aa7d5214642",
+  "title": "润州听暮角",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "江城吹角水茫茫，曲引边声怨思长。",
+    "惊起暮天沙上鴈，海门斜去两三行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "抒情",
+    "写景"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-cd1d93ca-b688-4ec1-a1e6-c4cf880695b7"
+}

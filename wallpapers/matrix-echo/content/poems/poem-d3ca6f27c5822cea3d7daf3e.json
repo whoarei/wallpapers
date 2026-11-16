@@ -1,0 +1,14 @@
+{
+  "id": "poem-d3ca6f27c5822cea3d7daf3e",
+  "title": "登山",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "终日昏昏醉梦间，忽闻春尽强登山。",
+    "因过竹院逢僧话，又得浮生半日闲。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-登山"
+}

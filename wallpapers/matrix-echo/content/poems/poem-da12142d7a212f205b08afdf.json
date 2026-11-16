@@ -1,0 +1,20 @@
+{
+  "id": "poem-da12142d7a212f205b08afdf",
+  "title": "河传·心情老懒",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "心情老懒。",
+    "对歌对舞，犹是当时眼。",
+    "巧笑靓妆，近我衰容华鬓。",
+    "似扶著、卖卜算。",
+    "思量好个当年见。",
+    "催酒催更，只怕归期短。",
+    "饮散灯稀，背锁落花深院。",
+    "好杀人、天不管。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-815",
+  "tags": []
+}

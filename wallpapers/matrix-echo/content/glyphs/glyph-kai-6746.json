@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6746",
+  "script": "kai",
+  "character": "杆",
+  "reading": "gǎn；gān",
+  "description": "gān：较长的棍～子（ａ．长棍；ｂ．方言，指揭竿而起的人；ｃ．指结伙抢劫的土匪）。旗～。桅～。电线～。\ngǎn：(1)器物上像棍子的细长部分～秤（区别于台秤等）。笔～儿。～菌。\n(2)量词，用于有杆的器物一～笔。一～步枪。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杆"
+}

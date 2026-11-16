@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c14",
+  "script": "kai",
+  "character": "尔",
+  "reading": "ěr",
+  "description": "后引作薾。华盛的样子\n近。通迩”\n浅近\n⑥词尾。相当于'地'、'然'卓～、率～。\n【尔曹】你们这些人。\n【尔虞我诈】互相猜疑，互相欺骗。又作尔诈我虞。\n【尔诈我虞】见【尔虞我诈】。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-尔"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-0e8d9d7ea7cce398fc90d064",
+  "title": "惠山斋中听雨",
+  "author": "李详",
+  "dynasty": "宋",
+  "verses": [
+    "云冷银蟾遯，香寒宝篆迟。",
+    "轻雷新破梦，好雨故知时。",
+    "池荇阴抽带，山茶暗展旗。",
+    "空阶闻夜响，楚客起题诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-165d4e40-27a8-4582-b02a-6b875fc2f0a5"
+}

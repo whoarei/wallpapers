@@ -1,0 +1,20 @@
+{
+  "id": "poem-54bbf917280090517d092a1b",
+  "title": "奉和圣制重阳赐会聊示所怀",
+  "author": "李泌",
+  "dynasty": "唐",
+  "verses": [
+    "大唐造昌运，品物荷时成。",
+    "乘秋逢令节，锡宴欢群情。",
+    "俯临秦山川，高会汉公卿。",
+    "未追赤松子，且泛黄菊英。",
+    "赓歌圣人作，海内同休明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "抒怀",
+    "重阳节"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-9ee1065e-adba-4eda-bec9-2b69c95bab2c"
+}

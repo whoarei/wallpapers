@@ -1,0 +1,18 @@
+{
+  "id": "poem-f6aa24b09b94646d2a6cb8e9",
+  "title": "过王濬暮",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "吴国分牛斗，晋室命龙骧。",
+    "受任敌已灭，策勋名不彰。",
+    "居美未尽善，矜功徒自伤。",
+    "长戟今何在？孤坟此路傍。",
+    "不观松柏茂，空余荆棘场。",
+    "叹嗟悬劒陇，谁识梦刀祥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6ae53f2c-48fa-464c-8453-de7b2434c716"
+}

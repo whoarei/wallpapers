@@ -1,0 +1,14 @@
+{
+  "id": "poem-292f596c4a2ec219091fb162",
+  "title": "谒寇忠愍祠堂六首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "一幸江南一蜀中，奋然廷议叱群公。",
+    "搀回天步虽良策，元是真皇听纳功。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-d03c7a03-cb4e-47e6-b04d-456d1ef07a91"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-0f1823fcd2afc1f9fab930ee",
+  "title": "同群公出猎海上",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "畋猎自古昔，况伊心赏俱。",
+    "偶与群公游，旷然出平芜。",
+    "层阴涨溟海，杀气穷幽都。",
+    "鹰隼何翩翩，驰骤相传呼。",
+    "豺狼窜榛莽，麋鹿罹艰虞。",
+    "高鸟下骍弓，困兽鬬匹夫。",
+    "尘惊大泽晦，火燎深林枯。",
+    "失之有余恨，获者无全躯。",
+    "咄彼工拙间，恨非指踪徒。",
+    "犹怀老氏训，感叹此欢娱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-e6078251-050b-4d8b-b77c-f416392eecf8"
+}

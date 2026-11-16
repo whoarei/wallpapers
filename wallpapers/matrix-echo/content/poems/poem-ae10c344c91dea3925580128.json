@@ -1,0 +1,14 @@
+{
+  "id": "poem-ae10c344c91dea3925580128",
+  "title": "歌者十二首 十二",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "鹤氅花香搭槿篱，枕前蛩迸酒醒时。",
+    "夕阳似照陶家菊，黄蝶无穷压故枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a6caaaef-0e8a-4c79-bafe-df9e1e8dfa0a"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-3e3c7d3d1d0b9c206f8fe667",
+  "title": "春恨三首 三",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "永巷频闻小苑游，旧恩如泪亦难收。",
+    "君前愿报新颜色，团扇须防白露秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-97778acd-7c68-44ef-b330-98dd0ed1b2fc"
+}

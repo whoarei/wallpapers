@@ -1,0 +1,16 @@
+{
+  "id": "poem-317eea887e1852ab23db02bc",
+  "title": "渔歌子·荻花秋",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "荻花秋，潇湘夜，橘洲佳景如屏画。",
+    "碧烟中，明月下，小艇垂纶初罢。",
+    "水为乡，篷作舍，鱼羹稻饭常餐也。",
+    "酒盈杯，书满架，名利不将心挂。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-18"
+}

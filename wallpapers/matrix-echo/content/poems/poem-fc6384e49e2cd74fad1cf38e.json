@@ -1,0 +1,16 @@
+{
+  "id": "poem-fc6384e49e2cd74fad1cf38e",
+  "title": "李郎中林亭",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "秪向砌边流野水，樽前上下看鱼儿。",
+    "笋蹊已长过人竹，藤径从添拂面丝。",
+    "若许白猿垂近户，即无红果压低枝。",
+    "大才必拟逍遥去，更遣何人佐盛时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-11fe4bfb-12c3-49ff-be32-c2d0c0eb526d"
+}

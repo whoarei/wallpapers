@@ -1,0 +1,16 @@
+{
+  "id": "poem-5a7c876e35f996da4dc482d6",
+  "title": "鹊桥仙·月波清霁",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "月波清霁，烟容明淡，灵汉旧期还至。",
+    "鹊迎桥路接天津，映夹岸、星榆点缀。",
+    "云屏未卷，仙鸡催晓，肠断去年情味。",
+    "多应天意不教长，恁恐把、欢娱容易。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-762",
+  "tags": []
+}

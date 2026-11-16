@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8dd1",
+  "script": "kai",
+  "character": "跑",
+  "reading": "pǎo；páo",
+  "description": "pǎo：(1)奔，两脚交互向前迅速跃进～步。奔～。赛～。\n(2)很快地移动～动。\n(3)逃～出笼子。\n(4)漏泄～电。～气。\n(5)为某种事物奔走～买卖。～外的。～堂。～码头。～单帮。\npáo：走兽用脚刨地～糟（牲口用蹄糟根）。虎～泉（在中国浙江省杭州市）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-跑"
+}

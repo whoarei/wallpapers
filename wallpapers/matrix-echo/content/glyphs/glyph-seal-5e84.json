@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e84",
+  "script": "seal",
+  "character": "庄",
+  "reading": "zhuāng",
+  "description": "谨严持重\n⒈严肃，端重～严。～重。亦～亦谐。\n⒉村子，田舍村～。山～。\n⒊封建社会里帝王贵族及地主占有的大片土地皇～。～园。祝家～。\n⒋某些商店的名称茶～。钱～。布～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-庄"
+}

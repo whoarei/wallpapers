@@ -1,0 +1,14 @@
+{
+  "id": "poem-d0f503e61b6428e9af1f9015",
+  "title": "狂题十八首 九",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "地下修文著作郎，生前饥处倒空墙。",
+    "何如神爽骑星去，犹自研几助玉皇。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6402c50c-a59c-4c76-aefb-f14e9be09d6b"
+}

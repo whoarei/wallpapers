@@ -1,0 +1,14 @@
+{
+  "id": "poem-97558ef4218d4c40837a0da2",
+  "title": "细言",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "蚊眉自可托，蜗角岂劳争。",
+    "欲効丝毫力，谁知蝼蚁诚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e1b6cceb-d0d9-47f7-a69d-823dff274f69"
+}

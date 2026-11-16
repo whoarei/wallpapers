@@ -1,0 +1,16 @@
+{
+  "id": "poem-125ee3552b4e7ef2d190aca0",
+  "title": "酒泉子·秋月婵娟",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "秋月婵娟，皎洁碧纱窗外。",
+    "照花穿竹冷沉沉，印池心。",
+    "凝露滴，砌蛩吟，惊觉谢娘残梦。",
+    "夜深斜傍枕前来，影徘徊。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-40"
+}

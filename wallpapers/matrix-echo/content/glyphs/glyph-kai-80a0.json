@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-80a0",
+  "script": "kai",
+  "character": "肠",
+  "reading": "cháng",
+  "description": "肠子或肠子制成的食品\n内心,情怀\n【肠断】形容极度悲伤忧愁。\n【肠肥脑满】见【脑满肠肥】。\n【肠骨】见【髂骨】。\n【肠管】肠。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肠"
+}

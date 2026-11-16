@@ -1,0 +1,16 @@
+{
+  "id": "poem-66ce04011ddeee8d88d1ae47",
+  "title": "蠡泽旅怀",
+  "author": "林滋",
+  "dynasty": "唐",
+  "verses": [
+    "谁言行旅日，况复桃花时。",
+    "水即沧溟远，星从天汉垂。",
+    "川光独鸟暮，林色落英迟。",
+    "岂是王程急，偏多游子悲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-37033da7-e91a-442b-99d0-08013f7f359f"
+}

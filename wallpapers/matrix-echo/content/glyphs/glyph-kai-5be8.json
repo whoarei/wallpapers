@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5be8",
+  "script": "kai",
+  "character": "寨",
+  "reading": "zhai；zhài",
+  "description": "zhài：(1)防守用的栅栏～子。鹿～（军事上常用的一种障碍物，古时多用削尖的竹木或枝杈，现多用铁蒺藜等做成）。\n(2)旧时驻兵的营地营～。山～。水～。安营扎～。～主。\n(3)村庄村～。苗～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-寨"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9aeb",
+  "script": "seal",
+  "character": "髫",
+  "reading": "tiáo",
+  "description": "tiáo：古代小孩头上扎起来的下垂头发垂～。～年（指幼年）。～龄。～龀（指童年）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-髫"
+}

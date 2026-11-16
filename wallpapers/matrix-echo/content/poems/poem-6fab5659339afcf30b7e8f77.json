@@ -1,0 +1,16 @@
+{
+  "id": "poem-6fab5659339afcf30b7e8f77",
+  "title": "寄卫别驾",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "晓屐归来岳寺深，尝思道侣会东林。",
+    "昏沈天竺看经眼，萧索净名老病心。",
+    "云盖数重横陇首，苔花千点遍松阴。",
+    "知君超达悟空旨，三径闲行抱素琴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3f4d7d31-3aba-4742-8b39-b2c3d406fd3a"
+}

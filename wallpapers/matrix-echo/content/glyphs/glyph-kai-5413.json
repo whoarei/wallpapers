@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5413",
+  "script": "kai",
+  "character": "吓",
+  "reading": "xià；he",
+  "description": "用以表示不满\n用来表示惊奇或赞叹\n使害怕\n⒈威胁人，使人害怕恐～。威～。\n⒉叹词。〈表〉不满～，你是怎么做的！。\n⒈受惊，使害怕～人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吓"
+}

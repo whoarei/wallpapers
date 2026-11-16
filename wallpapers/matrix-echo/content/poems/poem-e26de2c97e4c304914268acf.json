@@ -1,0 +1,14 @@
+{
+  "id": "poem-e26de2c97e4c304914268acf",
+  "title": "南歌子·岸柳拖烟绿",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "岸柳拖烟绿，庭花照日红。",
+    "数声蜀魄入帘栊，惊断碧窗残梦，画屏空。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-48"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-d388102458a4fb485cbbbfd8",
+  "title": "江城子·斜风细雨作春寒",
+  "author": "朱淑真",
+  "dynasty": "宋",
+  "verses": [
+    "斜风细雨作春寒。",
+    "对尊前。",
+    "忆前欢。",
+    "曾把梨花，寂寞泪阑干。",
+    "芳草断烟南浦路，和别泪，看青山。",
+    "昨宵结得梦夤缘。",
+    "水云间。",
+    "悄无言。",
+    "争奈醒来，愁恨又依然。",
+    "展转衾裯空懊恼，天易见，见伊难。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-864",
+  "tags": []
+}

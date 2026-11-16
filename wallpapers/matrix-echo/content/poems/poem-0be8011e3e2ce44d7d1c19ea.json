@@ -1,0 +1,16 @@
+{
+  "id": "poem-0be8011e3e2ce44d7d1c19ea",
+  "title": "金谷园",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "石家旧地聊登望，宠辱从兹信可惊。",
+    "鸟度野花迷锦障，蝉吟古树想歌声。",
+    "虽将玉貌同时死，却羡苍头此日生。",
+    "多积黄金买刑戮，千秋成得绿珠名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-69d79950-c3ac-4dd4-bb8e-9faa98b49c6a"
+}

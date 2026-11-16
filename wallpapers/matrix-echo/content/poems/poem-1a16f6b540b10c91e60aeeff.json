@@ -1,0 +1,14 @@
+{
+  "id": "poem-1a16f6b540b10c91e60aeeff",
+  "title": "宫中题",
+  "author": "李昂",
+  "dynasty": "唐",
+  "verses": [
+    "辇路生秋草，上林花满枝。",
+    "凭高何限意，无复侍臣知。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-宮中題"
+}

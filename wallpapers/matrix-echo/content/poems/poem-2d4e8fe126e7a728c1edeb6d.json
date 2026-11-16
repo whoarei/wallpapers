@@ -1,0 +1,18 @@
+{
+  "id": "poem-2d4e8fe126e7a728c1edeb6d",
+  "title": "三六",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "饮酒妨生敬，（一本作「计」。",
+    "）榻（一本作樗。",
+    "）蒲必破家。",
+    "但看此等色，不久作穷查。",
+    "（本作「茶」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d6046728-b612-4778-925c-95523fc47ae5"
+}

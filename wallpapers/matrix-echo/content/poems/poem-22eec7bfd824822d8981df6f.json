@@ -1,0 +1,16 @@
+{
+  "id": "poem-22eec7bfd824822d8981df6f",
+  "title": "同昼上人送郭秀才江南寻兄弟",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "地上春色生，眼前诗彩明。",
+    "手携片宝月，言是高僧名。",
+    "溪转万曲心，水流千里声。",
+    "飞鸣向谁去，江鸿弟与兄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-05979c1c-21bf-46ea-809e-ad7d6707eeff"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-94fa",
+  "script": "kai",
+  "character": "铺",
+  "reading": "pù",
+  "description": "铜器名。豆属。其上为一平的直壁浅盘。铺与豆的区别在于它没有细长的把柄,在盘下连铸一较宽的高圈足\n把东西展开或摊平\n⒈商店店～。饭～子。杂货～儿。\n⒉床床～。搭个～。\n⒊旧时指驿站。现多用于地名十里～。\n⒈陈设，展开，摊平摆置～设。～开。～平。～纸。～轨。平～直叙。\n⒉门环的底座金～交映。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-铺"
+}

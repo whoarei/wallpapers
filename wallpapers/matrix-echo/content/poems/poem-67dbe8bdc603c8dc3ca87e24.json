@@ -1,0 +1,16 @@
+{
+  "id": "poem-67dbe8bdc603c8dc3ca87e24",
+  "title": "寄乌龙山贾泰处士",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "庭果色如丹，相思夕照残。",
+    "云边踏烧去，月下把书看。",
+    "涧水仙居共，窗风漆树寒。",
+    "吾君方侧席，未可便怀安。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-086f8ae0-fcf0-4896-a691-940c0ed9af92"
+}

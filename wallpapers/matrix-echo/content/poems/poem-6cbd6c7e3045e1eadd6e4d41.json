@@ -1,0 +1,16 @@
+{
+  "id": "poem-6cbd6c7e3045e1eadd6e4d41",
+  "title": "酬李如山见寄",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "俗棼须尽扫，扫尽又纷华。",
+    "喧避蚁争市，静看蜂报衙。",
+    "竹梢斑殒箨，苹渚素浮花。",
+    "自把闲消遣，从容日又斜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-0dbeec49-1bbf-4a3b-a354-be34f6ea3840"
+}

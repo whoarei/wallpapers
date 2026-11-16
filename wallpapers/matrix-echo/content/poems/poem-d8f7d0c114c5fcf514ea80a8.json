@@ -1,0 +1,14 @@
+{
+  "id": "poem-d8f7d0c114c5fcf514ea80a8",
+  "title": "羊角埂晚行",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "葛裙蒲履帽乌纱，迤逦乘凉到水涯。",
+    "数寺晚钟声未歇，满身明月看荷花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-8dcb2c32-3758-4f7a-a340-60fd629857b9"
+}

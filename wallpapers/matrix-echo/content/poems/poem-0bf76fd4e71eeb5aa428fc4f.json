@@ -1,0 +1,16 @@
+{
+  "id": "poem-0bf76fd4e71eeb5aa428fc4f",
+  "title": "同崔员外秋宵寓直",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "建礼高秋夜，承明候晓过。",
+    "九门寒漏彻，万井曙钟多。",
+    "月迥藏珠斗，云消出绛河。",
+    "更慙衰朽质，南陌共鸣珂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ba54ac5b-a131-4af6-a7e0-938db34b82fb"
+}

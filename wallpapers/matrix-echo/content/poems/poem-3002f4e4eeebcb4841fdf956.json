@@ -1,0 +1,14 @@
+{
+  "id": "poem-3002f4e4eeebcb4841fdf956",
+  "title": "红衲袄",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［外］问：古人君所以贤，古人臣所可言，圣王汲汲思为善，为善还当何者先？子辈灯窗已有年，所得经书学问渊。",
+    "悉心为我敷陈也，毋视庸常泛泛然。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8044",
+  "tags": []
+}

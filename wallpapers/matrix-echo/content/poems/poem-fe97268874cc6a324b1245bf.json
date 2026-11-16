@@ -1,0 +1,20 @@
+{
+  "id": "poem-fe97268874cc6a324b1245bf",
+  "title": "琴曲歌辞 列女操",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "梧桐相待老，鸳鸯会双死。",
+    "贞妇贵徇夫，舍生亦如此。",
+    "波澜誓不起，妾心井中水。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "赞颂",
+    "妇女",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7ccd9915-51a1-4748-9989-af243036455b"
+}

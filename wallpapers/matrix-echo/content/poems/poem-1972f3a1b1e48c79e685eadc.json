@@ -1,0 +1,14 @@
+{
+  "id": "poem-1972f3a1b1e48c79e685eadc",
+  "title": "新安故关",
+  "author": "孟迟",
+  "dynasty": "唐",
+  "verses": [
+    "汉帝英雄重武材，崇山险处凿门开。",
+    "如今更有将军否，移取潼关向北来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-5580c982-d27d-40fb-9cee-c20e2bdda267"
+}

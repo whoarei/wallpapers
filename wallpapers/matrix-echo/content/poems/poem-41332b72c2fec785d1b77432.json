@@ -1,0 +1,14 @@
+{
+  "id": "poem-41332b72c2fec785d1b77432",
+  "title": "有客",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "有客有客，亦白其马。有萋有且，敦琢其旅。有客宿宿，有客信信。",
+    "言授之絷，以絷其马。薄言追之，左右绥之。既有淫威，降福孔夷。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-283"
+}

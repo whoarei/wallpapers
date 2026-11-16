@@ -1,0 +1,14 @@
+{
+  "id": "poem-04b45f5c74d9573f2b3cd083",
+  "title": "江行无题一百首 八十五",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "兴闲停桂楫，路好过松门。",
+    "不负佳山水，还开酒一樽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8b422a81-48ce-4768-9d6a-084896d74cff"
+}

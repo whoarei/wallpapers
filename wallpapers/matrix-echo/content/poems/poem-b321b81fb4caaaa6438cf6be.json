@@ -1,0 +1,14 @@
+{
+  "id": "poem-b321b81fb4caaaa6438cf6be",
+  "title": "柳二首 二",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "千条垂柳拂金丝，日暖牵风叶学眉。",
+    "愁见花飞狂不定，还同轻薄五陵儿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-99056766-ad1b-45f2-9f00-454f16c68bdd"
+}

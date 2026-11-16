@@ -1,0 +1,14 @@
+{
+  "id": "poem-6ad629f86ebe3b72103ca916",
+  "title": "章华台  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "章华夜饮晓从糜，翠被天寒雨雪霏。",
+    "马足车尘竟何往，空令子革诵招祈。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-ba52c005-e660-4eee-8c0d-6d72c29df8b0"
+}

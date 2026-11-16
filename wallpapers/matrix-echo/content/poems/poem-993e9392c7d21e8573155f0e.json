@@ -1,0 +1,16 @@
+{
+  "id": "poem-993e9392c7d21e8573155f0e",
+  "title": "和主司王起",
+  "author": "崔轩",
+  "dynasty": "唐",
+  "verses": [
+    "满朝朱紫半门生，新榜劳人又得名。",
+    "国器旧知收片玉，朝宗转觉集登瀛。",
+    "同升翰苑三年美，继入花源九族荣。",
+    "共仰莲峰听雪唱，欲赓仙曲意怔营。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e6b06eaa-d8c0-41d9-b404-8a0d3f57dcf1"
+}

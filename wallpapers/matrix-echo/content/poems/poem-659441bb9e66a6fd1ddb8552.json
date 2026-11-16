@@ -1,0 +1,15 @@
+{
+  "id": "poem-659441bb9e66a6fd1ddb8552",
+  "title": "丘中有麻",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "丘中有麻，彼留子嗟。彼留子嗟，将其来施施。",
+    "丘中有麦，彼留子国。彼留子国，将其来食。",
+    "丘中有李，彼留之子。彼留之子，贻我佩九。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-73"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-3a19ca40e68ccd64ced9bf96",
+  "title": "郊庙歌辞 禅社首乐章 顺和",
+  "author": "贺知章、源乾曜",
+  "dynasty": "唐",
+  "verses": [
+    "至哉含柔德，万物资以生。",
+    "常顺称厚载，流谦通变盈。",
+    "圣心事能察，增广陈厥诚。",
+    "黄祇僾如在，泰折俟咸亨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "抒情",
+    "叙事",
+    "写景"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-089b535d-2b28-486b-b58d-d8a3670c83b2"
+}

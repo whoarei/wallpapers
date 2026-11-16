@@ -1,0 +1,19 @@
+{
+  "id": "poem-7c9fc5cd9254d2c106e5ad75",
+  "title": "无题二首 一",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "凤尾香罗薄几重，碧文圆顶夜深缝。",
+    "扇裁月魄羞难掩，车走雷声语未通。",
+    "曾是寂寥金烬暗，断无消息石榴红。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "思念",
+    "七言律诗",
+    "唐诗三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-e006dfd3-40be-40ef-ba3b-552428931ae3"
+}

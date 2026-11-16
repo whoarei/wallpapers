@@ -1,0 +1,14 @@
+{
+  "id": "poem-6647ff673aa7e8a26ed4e962",
+  "title": "春宵（原作「霄」）有怀",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "独坐春宵（原作「霄」）月见高，月下思君心郁陶。",
+    "踌躇不觉三更尽，空见豺狼数遍号。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-355b0eeb-afcd-4677-a198-9ab96bdfd70e"
+}

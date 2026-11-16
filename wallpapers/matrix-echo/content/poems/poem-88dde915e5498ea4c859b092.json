@@ -1,0 +1,21 @@
+{
+  "id": "poem-88dde915e5498ea4c859b092",
+  "title": "留客住·嗟乌兔",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "嗟乌兔。",
+    "正茫茫、相催无定，只恁东生西没，半均寒暑。",
+    "昨见花红柳绿，处处林茂。",
+    "又睹霜前篱畔，菊散馀香，看看又还秋暮。",
+    "忍思虑。",
+    "念古往贤愚，终归何处。",
+    "争似高堂，日夜笙歌齐举。",
+    "选甚连宵彻昼，再三留住。",
+    "待拟沈醉扶上马，怎生向、主人未肯交去。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-491",
+  "tags": []
+}

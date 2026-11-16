@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6653",
+  "script": "kai",
+  "character": "晓",
+  "reading": "xiǎo",
+  "description": "清晨\n晓光浮\n⒈天亮拂～。天～。\n⒉知道，明白～得。家喻户～。\n⒊告知～以利弊。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-晓"
+}

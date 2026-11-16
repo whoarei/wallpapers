@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5207",
+  "script": "seal",
+  "character": "切",
+  "reading": "qiē；qiè",
+  "description": "qiē：用刀从上往下用力～菜。～除。～磋（本义是把骨角玉石加工制成器物，引申为在业务、思想各方面互相吸取长处，纠正缺点，如～～琢磨”）。\nqiè：(1)密合，贴近～当（dàng）。～肤（切身）。～己。亲～。\n(2)紧急急～。迫～。\n(3)实在～忌。恳～。\n(4)旧时汉语标音的一种方法，用两个字，取上一字的声母与下一字的韵母拼成一个音。亦称反切”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-切"
+}

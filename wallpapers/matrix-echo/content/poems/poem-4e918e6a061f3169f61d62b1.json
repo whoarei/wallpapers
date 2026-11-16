@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e918e6a061f3169f61d62b1",
+  "title": "送郑尚书赴广州",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "圣朝选将持符节，内使宣时百辟听。",
+    "海北蛮夷来舞蹈，岭南封管送图经。",
+    "白鹇飞遶迎官舫，红槿开当䜩客亭。",
+    "此处莫言多瘴疠，天边看取老人星。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-43966955-c47e-428d-92e8-0803ac8bb4de"
+}

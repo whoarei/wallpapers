@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6be1",
+  "script": "seal",
+  "character": "毡",
+  "reading": "zhān",
+  "description": "毡包\n这个时候,一个牧民匆匆忙忙钻进毡包来\n他背着毡包到野外去接回初生的羊羔\n⒈用兽毛压制而成的片状物，可作各种垫衬材料或防寒用品等～帽。～子毯。\n⒉像毡的东西油毛～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-毡"
+}

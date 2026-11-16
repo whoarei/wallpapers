@@ -1,0 +1,22 @@
+{
+  "id": "poem-5cfdf1ee271194cfdcc3e6fc",
+  "title": "无题四首 一",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "来是空言去绝踪，月斜楼上五更钟。",
+    "梦为远别啼难唤，书被催成墨未浓。",
+    "蜡照半笼金翡翠，麝熏微度绣芙蓉。",
+    "刘郎已恨蓬山远，更隔蓬山一万重。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "记梦",
+    "七言律诗",
+    "爱情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7377e34a-1aab-47e3-a6dd-376c98a5d6b7"
+}

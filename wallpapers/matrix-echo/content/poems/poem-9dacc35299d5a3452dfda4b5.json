@@ -1,0 +1,20 @@
+{
+  "id": "poem-9dacc35299d5a3452dfda4b5",
+  "title": "端午",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "端午临中夏，时清日复长。",
+    "盐梅已佐鼎，曲糵且传觞。",
+    "事古人留迹，年深缕积长。",
+    "当轩知槿茂，向水觉芦香。",
+    "亿兆同归寿，群公共保昌。",
+    "忠贞如不替，贻厥后昆芳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "端午节"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6ac93ab8-f32b-49b6-8f72-938e414c9cca"
+}

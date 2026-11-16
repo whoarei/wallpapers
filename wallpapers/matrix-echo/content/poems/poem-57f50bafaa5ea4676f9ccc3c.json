@@ -1,0 +1,16 @@
+{
+  "id": "poem-57f50bafaa5ea4676f9ccc3c",
+  "title": "河传·渺莽云水",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "渺莽云水，惆怅暮帆，去程迢递。",
+    "夕阳芳草，千里万里，雁声无限起。",
+    "梦魂悄断烟波里，心如醉。",
+    "相见何处是，锦屏香冷无睡，被头多少泪。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-39"
+}

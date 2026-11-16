@@ -1,0 +1,14 @@
+{
+  "id": "poem-ffefba2e7ca3c54a3f0862b8",
+  "title": "句",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "周原五稼起，云海百川归。",
+    "愿此零陵燕，长随征斾飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a1016bc1-1af5-4bf3-862d-98bf3406c2aa"
+}

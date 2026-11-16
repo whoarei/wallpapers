@@ -1,0 +1,14 @@
+{
+  "id": "poem-fa6441a2c2f531a617e48f9f",
+  "title": "拙斋",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "大巧曾闻窃得灵，主司关籥镇随身。",
+    "巧还有尽无如拙，却笑天孙未识真。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-41c3c913-ed1c-4837-a96c-f0244016f29d"
+}

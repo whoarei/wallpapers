@@ -1,0 +1,19 @@
+{
+  "id": "poem-17a2c2e9c82f51b0e695cd0a",
+  "title": "献衷心·见好花颜色",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "见好花颜色，争笑东风。",
+    "双脸上，晚妆同。",
+    "闭小楼深阁，春景重重。",
+    "三五夜，偏有恨，月明中。",
+    "情未已，信曾通，满衣犹自染檀红。",
+    "恨不如双燕，飞舞帘栊。",
+    "春欲暮，残絮尽，柳条空。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-8"
+}

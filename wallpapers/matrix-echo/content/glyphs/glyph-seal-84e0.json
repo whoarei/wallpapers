@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-84e0",
+  "script": "seal",
+  "character": "蓠",
+  "reading": "lí",
+  "description": "红藻的一种。也叫龙须菜”\n古书上说的一种香菜\n蓠 lí 〈名〉即\"江蓠 \"。藻类植物的一种。暗红色。可用来制琼脂。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蓠"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f29",
+  "script": "seal",
+  "character": "缩",
+  "reading": "suō",
+  "description": "收缩\n⒈用绳子捆起来。\n⒉退～回。退～。\n⒊蜷，收敛收～。畏～。～手～脚。\n⒋减少，变小，变短压～。紧～。～减。～小。～短。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缩"
+}

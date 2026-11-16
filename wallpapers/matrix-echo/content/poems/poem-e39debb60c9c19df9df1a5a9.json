@@ -1,0 +1,16 @@
+{
+  "id": "poem-e39debb60c9c19df9df1a5a9",
+  "title": "野望",
+  "author": "王绩",
+  "dynasty": "唐",
+  "verses": [
+    "东皋薄暮望，徙倚欲何依。",
+    "树树皆秋色，山山惟落晖。",
+    "牧人驱犊返，猎马带禽归。",
+    "相顾无相识，长歌怀采薇。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-野望"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b17b1bc0f15d38cd8c8e3765",
+  "title": "偈颂（幷序○序为南岳齐己撰） 二十七",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "缘觉（《景德传灯录》卷二九作「菩萨」）声闻未尽空，人天来往访真宗。",
+    "争如（《景德传灯录》作「知」）佛是无疑士，端坐无心祇么通。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-5728316f-ee67-4171-835c-01e2e12026a0"
+}

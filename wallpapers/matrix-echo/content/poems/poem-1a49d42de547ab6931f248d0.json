@@ -1,0 +1,16 @@
+{
+  "id": "poem-1a49d42de547ab6931f248d0",
+  "title": "题凌云寺",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "春山古寺遶沧波，石磴盘空鸟道过。",
+    "百丈金身开翠壁，万龛灯焰隔烟萝。",
+    "云生客到侵衣湿，花落僧禅覆地多。",
+    "不与方袍同结社，下归尘世竟如何。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-225e5b02-b302-47a3-b95f-526b2acd82ac"
+}

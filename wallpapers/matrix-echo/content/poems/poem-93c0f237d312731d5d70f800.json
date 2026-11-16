@@ -1,0 +1,15 @@
+{
+  "id": "poem-93c0f237d312731d5d70f800",
+  "title": "偈",
+  "author": "丰禅师",
+  "dynasty": "唐",
+  "verses": [
+    "骏马机前异，游人肘后悬。",
+    "既参云外客，试为老僧看。",
+    "（《景德传灯录》卷二十三、《五灯会元》卷十五）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-f5e32596-f21a-4833-9feb-31d9f45f7392"
+}

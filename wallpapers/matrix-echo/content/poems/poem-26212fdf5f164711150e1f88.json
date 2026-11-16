@@ -1,0 +1,22 @@
+{
+  "id": "poem-26212fdf5f164711150e1f88",
+  "title": "题灵岩寺",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "北寺三年别，西湖十里程。",
+    "山门桥上转，石路阁中行。",
+    "地入千重险，江分一面平。",
+    "引藤闻鼠乱，窥洞见龙惊。",
+    "嶂月排簷出，屏风倚槛成。",
+    "猿寻青壁过，树遶碧崖生。",
+    "小殿灵云影，高廊下水声。",
+    "何当还梦谢，尽我一诗情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d7d635b2-178e-4e6a-8bce-8a4cab75e2fa"
+}

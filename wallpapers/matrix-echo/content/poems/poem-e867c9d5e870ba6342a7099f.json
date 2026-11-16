@@ -1,0 +1,14 @@
+{
+  "id": "poem-e867c9d5e870ba6342a7099f",
+  "title": "送僧游宣州",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "楚山千里一僧行，念尔初缘道未成。",
+    "莫向舒姑泉口泊，此中呜咽为伤情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-0c49dce5-ed9c-43dc-8375-bed3229dc819"
+}

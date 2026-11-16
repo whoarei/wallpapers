@@ -1,0 +1,16 @@
+{
+  "id": "poem-ee02ce658d17356b31ff683f",
+  "title": "郊庙歌辞 享太庙乐章 永和三章 一",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "肃九室，谐八音。",
+    "歌皇慕，动神心。",
+    "礼宿设，乐妙寻。",
+    "声明备，[祼]奠临。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-712d4015-f37f-4b13-9445-f14daa6586fd"
+}

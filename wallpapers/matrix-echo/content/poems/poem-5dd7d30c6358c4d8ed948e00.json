@@ -1,0 +1,14 @@
+{
+  "id": "poem-5dd7d30c6358c4d8ed948e00",
+  "title": "南园十三首 三",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "竹里缲丝挑网车，青蝉独噪日光斜。",
+    "桃胶迎夏香琥珀，自课越佣能种瓜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-21e0b774-e999-4b7a-9e1d-25160d5398c8"
+}

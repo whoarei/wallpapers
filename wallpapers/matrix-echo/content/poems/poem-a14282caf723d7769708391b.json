@@ -1,0 +1,16 @@
+{
+  "id": "poem-a14282caf723d7769708391b",
+  "title": "菩萨蛮·玉楼冰簟鸳鸯锦",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "玉楼冰簟鸳鸯锦，粉融香汗流山枕。",
+    "帘外辘轳声，敛眉含笑惊。",
+    "柳阴烟漠漠，低鬓蝉钗落。",
+    "须作一生拌，尽君今日欢。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-20"
+}

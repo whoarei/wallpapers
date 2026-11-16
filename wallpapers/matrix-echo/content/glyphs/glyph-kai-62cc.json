@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62cc",
+  "script": "kai",
+  "character": "拌",
+  "reading": "bàn；pàn",
+  "description": "bàn：(1)搅和搅～。～和（huò）。～面。～菜。～草料。\n(2)口角～嘴。\npàn：(1)古同拚”，舍弃。\n(2)古同判”，分开。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拌"
+}

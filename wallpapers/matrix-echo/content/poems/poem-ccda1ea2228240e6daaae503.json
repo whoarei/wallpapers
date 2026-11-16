@@ -1,0 +1,16 @@
+{
+  "id": "poem-ccda1ea2228240e6daaae503",
+  "title": "山居诗  其九",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "幽斋独坐绝参详，兀尔何如骤世忙。",
+    "拯济终凭宏愿力，安闲须得守愚方。",
+    "柴门半掩花空落，苔径虚踪草自荒。",
+    "最好静中无一事，翛然唯得道芽长。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-3826c3a3-65d9-497f-9418-5e8264dbe3b5"
+}

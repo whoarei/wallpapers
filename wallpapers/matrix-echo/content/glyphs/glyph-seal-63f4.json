@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-63f4",
+  "script": "seal",
+  "character": "援",
+  "reading": "yuán",
+  "description": "yuán：(1)牵引攀～。～之以手。\n(2)帮助，救助支～。～外。～助。～军。～救。增～。孤立无～。\n(3)引用～用。～引。～据。\n(4)执，持～笔（拿起笔来写，如～～而书”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-援"
+}

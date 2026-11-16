@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fed",
+  "script": "seal",
+  "character": "俭",
+  "reading": "jiǎn",
+  "description": "节俭,节省\n⒈节省，不浪费～省。衣着～朴。勤～办一切事业。\n⒉约束，不放纵恭～。\n⒊贫乏，歉收。旧时称青黄不接之时为\"俭月\"，荒年为\"俭岁\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-俭"
+}

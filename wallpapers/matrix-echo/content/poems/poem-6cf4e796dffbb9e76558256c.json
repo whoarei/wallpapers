@@ -1,0 +1,16 @@
+{
+  "id": "poem-6cf4e796dffbb9e76558256c",
+  "title": "古塞上曲七首 三",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "白雁兼羌笛，几年垂泪听。",
+    "阴风吹杀气，永日在青冥。",
+    "远戍秋添将，边烽夜杂星。",
+    "嫖姚头半白，犹自看兵经。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-74e6902f-8152-4c25-84e3-b6dc1965eb78"
+}

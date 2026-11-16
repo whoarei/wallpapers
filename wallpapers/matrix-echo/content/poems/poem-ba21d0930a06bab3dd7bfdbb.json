@@ -1,0 +1,18 @@
+{
+  "id": "poem-ba21d0930a06bab3dd7bfdbb",
+  "title": "如梦令·小院春风不老",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "小院春风不老。",
+    "鹊碧霓裳缥缈。",
+    "雪脸间朱颜，各自一般轻妙。",
+    "忒掉。",
+    "忒掉。",
+    "真个一双两好。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-104",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6729d072a6a1263ce51693fa",
+  "title": "咏史诗 鲁城",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "鲁公城阙已丘墟，荒草无由认玉除。",
+    "因笑臧孙才智少，东门钟鼓祀鶢鶋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-b353d75d-8f32-4b2b-836b-643f2f5a4887"
+}

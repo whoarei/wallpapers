@@ -1,0 +1,16 @@
+{
+  "id": "poem-dc76122efc68d79311e80d13",
+  "title": "乱后途中",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "乱离寻故园，朝市不如村。",
+    "恸哭翻无泪，颠狂觉少魂。",
+    "诸侯贪割据，群盗恣幷吞。",
+    "为问登坛者，何年答汉恩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-4a224e8b-7580-49b4-9906-caef628be9c0"
+}

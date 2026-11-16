@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6b89",
+  "script": "kai",
+  "character": "殉",
+  "reading": "xùn",
+  "description": "xùn：(1)古代用人或物随葬～葬。\n(2)为某种目的而牺牲生命～国。～节。～难（nàn）。～情。～职。～道（指为坚持某种信仰或理论而牺牲自己的生命）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-殉"
+}

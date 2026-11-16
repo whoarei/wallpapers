@@ -1,0 +1,14 @@
+{
+  "id": "poem-69d6c181a93bccb97f2e7d1a",
+  "title": "春秋战国门 虞卿",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "割地求和国必危，安知坚守绝来思。",
+    "年年来伐年年割，割尽韩郸何所之。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9f05d684-2335-4aef-9deb-dec38328bb7b"
+}

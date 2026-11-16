@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-997f",
+  "script": "seal",
+  "character": "饿",
+  "reading": "è",
+  "description": "使受饿;感到饥饿\n①肚子没食，想吃东西。\n②使受饿别～着。\n【饿莩】见【饿殍】。\n【饿殍】饿死的人。又作饿莩。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-饿"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-3056561356a6f05cb99ac686",
+  "title": "杂兴六首 四",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "独高庭中鹤，意远贵氛埃。",
+    "有时青冥游，顾我还下来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-ee47c307-2b14-4a7f-b10b-3ec948ad6c32"
+}

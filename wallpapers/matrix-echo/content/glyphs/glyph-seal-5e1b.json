@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5e1b",
+  "script": "seal",
+  "character": "帛",
+  "reading": "bó",
+  "description": "bó：丝织品的总称布～。～书。～画。化干戈为玉～（喻变争斗为友善）。竹～（指书籍）。简蠹～裂（书坏了）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-帛"
+}

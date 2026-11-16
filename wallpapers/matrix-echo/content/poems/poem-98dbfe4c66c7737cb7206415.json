@@ -1,0 +1,14 @@
+{
+  "id": "poem-98dbfe4c66c7737cb7206415",
+  "title": "七娘子",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(老旦上)孩儿美貌体天然，似洛浦神仙，荏苒芳年。",
+    "(旦)凛烈寒风垂幕，喜得晴明天气。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8817",
+  "tags": []
+}

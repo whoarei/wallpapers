@@ -1,0 +1,18 @@
+{
+  "id": "poem-12f0239dcec70e9f3ac87d4d",
+  "title": "如梦令·红杏白梨肌理",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "红杏白梨肌理。",
+    "时样新妆淡伫。",
+    "真个是观音，少个杨枝净水。",
+    "欢喜。",
+    "欢喜。",
+    "尽此一锺醇美。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-169",
+  "tags": []
+}

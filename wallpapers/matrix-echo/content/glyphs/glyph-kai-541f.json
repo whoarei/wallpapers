@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-541f",
+  "script": "kai",
+  "character": "吟",
+  "reading": "yín",
+  "description": "yín：(1)唱，声调抑扬地念～咏。～诵。～味（吟咏玩味，体味）。～讽（吟咏讽诵）。\n(2)叹息，痛苦的声音～啸（ａ．悲哀愤慨地长叹；ｂ．吟咏）。呻～。\n(3)．中国古代诗歌的一种名称秦妇～。\n(4)鸣，叫风～。猿～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吟"
+}

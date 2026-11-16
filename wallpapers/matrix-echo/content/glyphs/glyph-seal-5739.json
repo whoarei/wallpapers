@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5739",
+  "script": "seal",
+  "character": "圹",
+  "reading": "kuàng",
+  "description": "原野\n通旷”。荒废\n敬谋无圹,敬事无圹,敬吏无圹,敬众无圹,敬敌无圹,夫是之\n⒈墓穴。\n⒉圹野，野外。\n⒊〈古〉通\"旷\"。荒废，历时久远。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-圹"
+}

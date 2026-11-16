@@ -1,0 +1,14 @@
+{
+  "id": "poem-62ec049de08298beba5bcf2e",
+  "title": "范真传侍御累有寄因奉酬十首 五",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "闻道中山酒，一杯千日醒。",
+    "黄莺似传语，劝酒太叮咛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-83e0373b-c0ca-429b-a44b-595d9dcd8002"
+}

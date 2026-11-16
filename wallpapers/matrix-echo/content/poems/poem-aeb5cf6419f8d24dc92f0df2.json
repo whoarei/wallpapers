@@ -1,0 +1,18 @@
+{
+  "id": "poem-aeb5cf6419f8d24dc92f0df2",
+  "title": "秾华",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "秾华侈春艳，松柏凌霜雪。",
+    "芳时若转盼，万族畏销歇。",
+    "人生金石交，所贵在黄发。",
+    "同衾异寒燠，抱蕴应未察。",
+    "贫贱张与陈，利达胡与越。",
+    "安得皎洁心，长年似明月。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-fab52358-fe8e-45eb-8c4b-1c0c3bc524bb"
+}

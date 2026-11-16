@@ -1,0 +1,14 @@
+{
+  "id": "poem-1fa87458759c97a554e5019e",
+  "title": "游长宁公主流杯池二十五首 四",
+  "author": "上官昭容",
+  "dynasty": "唐",
+  "verses": [
+    "仰循茅宇，俯眄乔枝。",
+    "烟霞问讯，风月相知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f696fcf6-52a5-4637-bf2e-0feda4325bc6"
+}

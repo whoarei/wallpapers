@@ -1,0 +1,15 @@
+{
+  "id": "poem-571166c669aa55478acfa691",
+  "title": "晨风",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "𫛣彼晨风，郁彼北林。未见君子，忧心钦钦。如何如何，忘我实多！",
+    "山有苞栎，隰有六駮。未见君子，忧心靡乐。如何如何，忘我实多！",
+    "山有苞棣，隰有树檖。未见君子，忧心如醉。如何如何，忘我实多！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-131"
+}

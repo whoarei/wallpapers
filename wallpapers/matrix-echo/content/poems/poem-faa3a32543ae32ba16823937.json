@@ -1,0 +1,22 @@
+{
+  "id": "poem-faa3a32543ae32ba16823937",
+  "title": "塞芦子",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "五城何迢迢，迢迢隔河水。",
+    "边兵尽东征，城内空荆杞。",
+    "思明割怀卫，秀岩西未已。",
+    "回略大荒来，崤函盖虚尔。",
+    "延州秦北户，关防犹可倚。",
+    "焉得一万人，疾驱塞芦子。",
+    "岐有薛大夫，旁制山贼起。",
+    "近闻昆戎徒，为退三百里。",
+    "芦关扼两寇，深意实在此。",
+    "谁能叫帝阍，胡行速如鬼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-cbebf2b4-fabb-4c07-b8bc-f2efcfe377ad"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6ce5",
+  "script": "kai",
+  "character": "泥",
+  "reading": "ní；nì",
+  "description": "ní：(1)土和水合成的东西～巴。～垢。～浆。～煤。～淖（泥污的洼地）。～泞。～洼。\n(2)像泥的东西枣～。山药～。印～（盖图章用的印色）。蒜～。\nnì：(1)涂抹～墙。～缝儿（fèngr）。\n(2)固执，死板拘～。～古（拘泥古代的制度和说法，不根据具体情况加以变通）。～守。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-泥"
+}

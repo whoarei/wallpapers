@@ -1,0 +1,14 @@
+{
+  "id": "poem-ad080eedd07e404bd3679597",
+  "title": "政黄牛赞",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "屈膝跨牛腰，山遥水更遥。",
+    "有诗吟未就，白鹭下溪桥。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-75defc42-ee10-428a-912f-d356c8ced3c7"
+}

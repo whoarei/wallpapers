@@ -1,0 +1,16 @@
+{
+  "id": "poem-9d06277974397499fb09520e",
+  "title": "寒食二首 二",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "风烟放荡花披猖，秋千女儿飞短墙。",
+    "绣袍驰马拾遗翠，锦袖鬬鸡喧广塲。",
+    "天地气和融霁色，池台日暖烧春光。",
+    "自怜尘土无他事，空脱荷衣泥醉乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-bc04b5a5-f7ea-4040-8872-19f2d1912c11"
+}

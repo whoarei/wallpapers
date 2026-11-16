@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7bad",
+  "script": "seal",
+  "character": "箭",
+  "reading": "jiàn",
+  "description": "jiàn：(1)用弓发射到远处的兵器弓～。～镞。～头。～在弦上（喻事情已经到了不得不做或话已经到了不得不说的地步）。\n(2)箭能射到的距离一～之遥。～步。\n(3)形容急切、迅速归心似～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-箭"
+}

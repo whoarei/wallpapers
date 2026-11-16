@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6750",
+  "script": "kai",
+  "character": "材",
+  "reading": "cái",
+  "description": "cái：(1)木料，泛指一切原料或资料～料。教（jiào）～。素～。题～。就地取～。\n(2)能力，资质～干（gàn）。大～小用。因～施教（jiào）。\n(3)棺木寿～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-材"
+}

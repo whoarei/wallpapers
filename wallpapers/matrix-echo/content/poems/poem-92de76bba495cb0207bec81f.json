@@ -1,0 +1,23 @@
+{
+  "id": "poem-92de76bba495cb0207bec81f",
+  "title": "列仙文 金母飞空歌",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "驾我八景舆，歘然入玉清。",
+    "龙群拂霄上，虎旗摄朱兵。",
+    "逍遥三弦际，万流无暂停。",
+    "哀此去留会，劫尽天地倾。",
+    "当寻无中景，不死亦不生。",
+    "体彼自然道，寂观合大冥。",
+    "南岳挺直干，玉英曜颕精。",
+    "有任靡期事，无心自虚灵。",
+    "嘉会绛河内，相与乐未英。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-4628c2c7-4349-42b8-92ab-e6a1bf0f6e7e"
+}

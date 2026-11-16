@@ -1,0 +1,16 @@
+{
+  "id": "poem-8daf92916022eecd44ea0600",
+  "title": "秋中霖雨",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "寒雨霖霖竟不停，覊愁寂寂夜何宁？",
+    "山遥塞阔阻乡国，草白风悲感客情。",
+    "西瞻瀚海肠堪断，东望咸秦思转盈。",
+    "才薄孰知无所用，独嗟戎俗滞微名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-7e2ef05b-1d4b-487f-b074-56917b2d0637"
+}

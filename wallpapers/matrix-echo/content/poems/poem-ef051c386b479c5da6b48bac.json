@@ -1,0 +1,16 @@
+{
+  "id": "poem-ef051c386b479c5da6b48bac",
+  "title": "唐明堂乐章 迎送王公",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "千官肃事，万国朝宗。",
+    "载延百辟，爰集三宫。",
+    "君臣德合，鱼水斯同。",
+    "睿图方永，周历长隆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f9ad1795-2a0b-4397-8589-cb53fb7f65f1"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-82ac",
+  "script": "seal",
+  "character": "芬",
+  "reading": "fēn",
+  "description": "fēn：花草的香气～芳。清～。～香。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芬"
+}

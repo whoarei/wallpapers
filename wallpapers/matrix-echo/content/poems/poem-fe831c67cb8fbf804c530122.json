@@ -1,0 +1,22 @@
+{
+  "id": "poem-fe831c67cb8fbf804c530122",
+  "title": "菩萨蛮·哀筝一弄湘江曲",
+  "author": "晏几道",
+  "dynasty": "宋",
+  "verses": [
+    "哀筝一弄湘江曲。",
+    "声声写尽湘波绿。",
+    "纤指十三弦。",
+    "细将幽恨传。",
+    "当筵秋水慢。",
+    "玉柱斜飞雁。",
+    "弹到断肠时。",
+    "春山眉黛低。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-27"
+}

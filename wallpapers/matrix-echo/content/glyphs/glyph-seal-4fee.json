@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fee",
+  "script": "seal",
+  "character": "修",
+  "reading": "xiū",
+  "description": "xiū：(1)装饰，使完美～饰。～辞。装～。\n(2)整治，恢复完美～复。～治。～缮（修理）。～浚（修理疏通）。～好。～明（古代指政治清明）。\n(3)剪或削～剪。\n(4)兴建，建造～建。～筑。\n(5)编纂，撰写～书。～史。～纂。\n(6)（学问，品行方面）钻研、学习、锻炼～学。～业。～养。\n(7)长（cháng），高～长。\n(8)信奉宗教的人虔诚地学习教义，并付诸行动～行。～女。\n(9)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-修"
+}

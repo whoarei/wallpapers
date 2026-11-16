@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-767b",
+  "script": "seal",
+  "character": "登",
+  "reading": "dēng",
+  "description": "dēng：(1)上，升～山。～车。～门。～天。～台。～场（chǎng）。～高。～攀。～临。～科。～程。～堂入室。\n(2)踩，践踏，脚向下用力～踏。踢～。\n(3)记载～记。～报。～载。\n(4)谷物成熟～岁（丰年）。五谷丰～。\n(5)立刻～时。～即相许和，便可作婚姻。”\n(6)进～崇（进用推崇）。\n(7)方言，穿～上靴子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-登"
+}

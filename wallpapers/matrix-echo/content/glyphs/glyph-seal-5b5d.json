@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b5d",
+  "script": "seal",
+  "character": "孝",
+  "reading": "xiào",
+  "description": "xiào：(1)对父母尽心奉养并顺从～敬。～廉（ａ．中国汉代盐官吏的科目之一，孝”指孝子；廉”指廉洁的人；ｂ．中国明、清两代对举人的称呼）。～道。～子贤孙。\n(2)居丧的事守～。吊～。\n(3)丧服戴～。～衣。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-孝"
+}

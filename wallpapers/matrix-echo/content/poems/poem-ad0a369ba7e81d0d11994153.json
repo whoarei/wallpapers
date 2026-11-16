@@ -1,0 +1,14 @@
+{
+  "id": "poem-ad0a369ba7e81d0d11994153",
+  "title": "客淮南病",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "扬州蒸毒似燂汤，客病清枯鬓欲霜。",
+    "且喜闭门无俗物，四肢安稳一张床。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-070f7ff7-71cb-4969-b3b5-d138eaaddfed"
+}

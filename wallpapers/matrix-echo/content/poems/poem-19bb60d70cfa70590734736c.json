@@ -1,0 +1,18 @@
+{
+  "id": "poem-19bb60d70cfa70590734736c",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "不须多忧，送婆婆是我身下有。",
+    "你但小心承直公公，莫教又成不救。",
+    "(合前)(旦白)如此，谢得公公！只为无钱送老娘。",
+    "(末白)娘子放心，须知此事有商量。",
+    "(合)正是：归家不敢高声哭，只恐人闻也断肠。",
+    "(并下)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5082",
+  "tags": []
+}

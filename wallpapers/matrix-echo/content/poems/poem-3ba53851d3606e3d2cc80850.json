@@ -1,0 +1,14 @@
+{
+  "id": "poem-3ba53851d3606e3d2cc80850",
+  "title": "荷花",
+  "author": "江万里",
+  "dynasty": "宋",
+  "verses": [
+    "结亭临水似舟中，夜雨潇潇乱打篷。",
+    "荷叶晓看元不湿，却疑误听五更风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-12a115e1-e433-4fc8-8459-6d3c44d75c08"
+}

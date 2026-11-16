@@ -1,0 +1,14 @@
+{
+  "id": "poem-8de5f6919c6b3d430b678498",
+  "title": "杨柳枝·万株枯槁怨亡隋",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "万株枯槁怨亡隋，似吊吴台各自垂。",
+    "好是淮阴明月里，酒楼横笛不胜吹。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-44"
+}

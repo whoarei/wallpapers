@@ -1,0 +1,16 @@
+{
+  "id": "poem-d5229f9c9375787b796b4177",
+  "title": "和段相公夏登张仪楼",
+  "author": "杨汝士",
+  "dynasty": "唐",
+  "verses": [
+    "从公城上来，秋近绝纤埃。",
+    "楼古秦规在，江分蜀望开。",
+    "远山标宿雪，末席本寒灰。",
+    "陪赏今为忝，临欢敢诉杯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-06ba6fc0-85d9-4e2f-9701-a69616b9c0cb"
+}

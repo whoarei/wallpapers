@@ -1,0 +1,18 @@
+{
+  "id": "poem-fca4942c7e55fea35b76d3b6",
+  "title": "诗品二十四则 旷达",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "生者百岁，相去几何。",
+    "欢乐苦短，忧愁实多。",
+    "何如尊酒，日往烟萝。",
+    "花覆茆簷，疎雨相过。",
+    "倒酒既尽，杖藜行过。",
+    "孰不有古，南山峨峨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-2c9e4874-a933-4ae0-ac01-4c0bfc39d6c5"
+}

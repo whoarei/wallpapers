@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8bf2",
+  "script": "kai",
+  "character": "诲",
+  "reading": "huì",
+  "description": "明示,诱使\n教导的话\n诲huì教导，指教教～。学而不厌，～人不倦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诲"
+}

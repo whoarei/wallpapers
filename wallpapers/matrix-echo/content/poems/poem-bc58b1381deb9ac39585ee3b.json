@@ -1,0 +1,15 @@
+{
+  "id": "poem-bc58b1381deb9ac39585ee3b",
+  "title": "蝃𬟽",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "蝃𬟽在东，莫之敢指。女子有行，远父母兄弟。",
+    "朝𬯀于西，崇朝其雨。女子有行，远兄弟父母。",
+    "乃如之人也，怀婚姻也。大无信也，不知命也！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-50"
+}

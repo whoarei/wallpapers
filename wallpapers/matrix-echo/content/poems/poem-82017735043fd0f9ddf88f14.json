@@ -1,0 +1,14 @@
+{
+  "id": "poem-82017735043fd0f9ddf88f14",
+  "title": "废宅",
+  "author": "周𣸣",
+  "dynasty": "宋",
+  "verses": [
+    "牢落画堂空锁尘，荒凉庭树暗消春。",
+    "豪家莫笑此中事，曾见此中人笑人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-7c5c27c2-da30-4c45-ad91-c74c5e22eae5"
+}

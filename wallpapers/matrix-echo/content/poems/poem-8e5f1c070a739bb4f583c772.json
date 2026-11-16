@@ -1,0 +1,16 @@
+{
+  "id": "poem-8e5f1c070a739bb4f583c772",
+  "title": "遣兴五首 一",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "朔风飘胡雁，惨澹带砂砾。",
+    "长林何萧萧，秋草萋更碧。",
+    "北里富熏天，高楼夜吹笛。",
+    "焉知南邻客，九月犹𫄨绤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-1bcd81fb-6fb5-4994-b9ec-6baf5bbd4142"
+}

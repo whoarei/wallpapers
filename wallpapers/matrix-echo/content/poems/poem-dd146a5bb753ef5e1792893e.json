@@ -1,0 +1,16 @@
+{
+  "id": "poem-dd146a5bb753ef5e1792893e",
+  "title": "夜游湖",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "合那官员有万千。",
+    "(丑)甚人才先来拜见。",
+    "(净)小子名为柳屯田。",
+    "(合)揖揖两个通寒暄。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2714",
+  "tags": []
+}

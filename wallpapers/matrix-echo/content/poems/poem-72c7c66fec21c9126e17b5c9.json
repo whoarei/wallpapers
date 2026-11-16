@@ -1,0 +1,14 @@
+{
+  "id": "poem-72c7c66fec21c9126e17b5c9",
+  "title": "幺",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "不刺刺却是战马拖缰敌将死，今日似困虎藏牙守洞时。",
+    "因老病不能辞，奉圣旨勉强行之，问师父求取法名儿。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-10105",
+  "tags": []
+}

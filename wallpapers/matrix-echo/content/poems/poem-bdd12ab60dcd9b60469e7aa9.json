@@ -1,0 +1,14 @@
+{
+  "id": "poem-bdd12ab60dcd9b60469e7aa9",
+  "title": "酬隐珪舍人寄红烛",
+  "author": "郑畋",
+  "dynasty": "唐",
+  "verses": [
+    "蜜炬殷红画不如，且将归去照吾庐。",
+    "今来并得三般事，灵运诗篇逸少书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-97b16580-163e-4807-9a76-846468bfe735"
+}

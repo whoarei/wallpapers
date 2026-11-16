@@ -1,0 +1,16 @@
+{
+  "id": "poem-0f7d1538128e7f04f8cf6662",
+  "title": "赠臧文仲四首  其二",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "夫君根柢学，宜我屡即之。",
+    "罢马取长道，顾肯过我为。",
+    "索宝黔娄家，怪君焉取斯。",
+    "颇尝见此客，且用诧吾儿。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-d0dc1db8-4099-4f52-b7ba-b98d024b5bec"
+}

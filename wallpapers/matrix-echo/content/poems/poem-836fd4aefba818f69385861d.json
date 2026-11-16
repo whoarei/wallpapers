@@ -1,0 +1,16 @@
+{
+  "id": "poem-836fd4aefba818f69385861d",
+  "title": "赠道者",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "晏来知养气，度日语时稀。",
+    "到处留丹井，终寒不絮衣。",
+    "病乡多惠药，鬼俗有符威。",
+    "自说身轻健，今年数梦飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-1f3c63ce-c129-4339-b35b-9f58b7f68b8c"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-e87914273c2c58026af28213",
+  "title": "送潘三入京",
+  "author": "周瑀",
+  "dynasty": "唐",
+  "verses": [
+    "故人嗟此别，相送出烟坰。",
+    "柳色分官路，荷香入水亭。",
+    "离歌未尽曲，酌酒共忘形。",
+    "把手河桥上，孤山日暮青。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-4880b25c-7b97-489c-adc7-68049ef84083"
+}

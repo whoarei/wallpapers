@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-63a7",
+  "script": "kai",
+  "character": "控",
+  "reading": "kòng",
+  "description": "kòng：(1)告状，指出罪恶～告。～诉。指～。被～。\n(2)节制，驾驭～制。遥～。\n(3)开弓弓不再～。\n(4)投～于地。\n(5)人的头部朝下或使让残液流出容器的口朝下～净。～一～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-控"
+}

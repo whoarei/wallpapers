@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-72b6",
+  "script": "seal",
+  "character": "状",
+  "reading": "zhuàng",
+  "description": "情形;状况\n⒈样子，形态，情形～态。～况。形～。喜笑～。重病～。\n⒋诉讼～纸。告～。\n⒌特殊格式的凭证。指嘉奖、委任等奖～。委任～。军令～。\n居首位的人养鸡～元。种菜～元。\n语。状语后有时要用助词\"地\"，如\"非常地激烈\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-状"
+}

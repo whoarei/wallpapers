@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6050",
+  "script": "seal",
+  "character": "恐",
+  "reading": "kǒng",
+  "description": "kǒng：(1)害怕，畏惧～惧。～怖。～慌。惊～。有恃无～。\n(2)恫吓（hè）～吓（hè）。\n(3)疑虑～怕。～不能成功。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-恐"
+}

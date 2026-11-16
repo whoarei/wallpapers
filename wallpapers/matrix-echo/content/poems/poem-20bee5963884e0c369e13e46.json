@@ -1,0 +1,15 @@
+{
+  "id": "poem-20bee5963884e0c369e13e46",
+  "title": "采蘩",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "于以采蘩？于沼于沚。于以用之？公侯之事。",
+    "于以采蘩？于涧之中。于以用之？公侯之宫。",
+    "被之僮僮，夙夜在公。被之祁祁，薄言还归。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-12"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-e515b087c19d0507b4253c11",
+  "title": "醉妆词",
+  "author": "后主衍",
+  "dynasty": "唐",
+  "verses": [
+    "者边走，那边走，只是寻花柳。",
+    "那边走，者边走，莫厌金杯酒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f27f6d5d-9d1b-4e86-b88e-efd452c1d424"
+}

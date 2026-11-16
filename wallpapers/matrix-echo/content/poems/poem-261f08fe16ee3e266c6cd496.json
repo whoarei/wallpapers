@@ -1,0 +1,16 @@
+{
+  "id": "poem-261f08fe16ee3e266c6cd496",
+  "title": "江南杂题三十首 其三",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "鸟逸溪云静，人行野岸稀。",
+    "茅峰三点翠，练水一条辉。",
+    "晚蝶花心少，阴莹草里微。",
+    "何妨孟朱舍，夜饮醉歌归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c17453f5-e2bf-455c-9dae-eaafe575c41f"
+}

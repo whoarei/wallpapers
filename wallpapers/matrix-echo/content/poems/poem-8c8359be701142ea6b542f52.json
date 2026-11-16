@@ -1,0 +1,14 @@
+{
+  "id": "poem-8c8359be701142ea6b542f52",
+  "title": "田家春望",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "出门何所见，春色满平芜。",
+    "可叹无知己，高阳一酒徒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-992319d5-c110-4285-9302-cb6d8144bd85"
+}

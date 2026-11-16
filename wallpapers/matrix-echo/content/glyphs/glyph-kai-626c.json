@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-626c",
+  "script": "kai",
+  "character": "扬",
+  "reading": "yáng",
+  "description": "⒈举起，高举～起。～鞭。～帆。\n⒉称颂赞～。颂～。表～。\n⒊振作士气不～。\n⒋显示～兵耀武。\n⒌容貌出众其貌不～。\n⒍飘动，翻腾飞～。风～电激。\n⒎播散，传播～场。～声。宣～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-扬"
+}

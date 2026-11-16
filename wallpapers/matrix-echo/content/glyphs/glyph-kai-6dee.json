@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6dee",
+  "script": "kai",
+  "character": "淮",
+  "reading": "huái",
+  "description": "huái：〔～河〕水名，源于中国河南省桐柏山，流经安徽、江苏两省入洪泽湖。简称淮”，如～北”。～南”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淮"
+}

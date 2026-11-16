@@ -1,0 +1,14 @@
+{
+  "id": "poem-25dc06ab0b28380b7e641ec3",
+  "title": "路中口号",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "还乡不见家，年老眼多泪。",
+    "车马上河桥，城中好天气。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-aad0a00e-1871-44e1-ae2a-1a92eab081b4"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-2b4dfa4e0015008cc89a996e",
+  "title": "寒夜闻霜钟",
+  "author": "卢景亮",
+  "dynasty": "唐",
+  "verses": [
+    "洪钟发长夜，清响出层岑。",
+    "暗入繁霜切，遥传古寺深。",
+    "何城乱远漏，几处杂疎砧。",
+    "已警离人梦，仍沾旅客襟。",
+    "待时当命侣，抱器本无心。",
+    "傥若无知者，谁能设此音。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b164994f-94c1-4b16-920a-0725c091bedb"
+}

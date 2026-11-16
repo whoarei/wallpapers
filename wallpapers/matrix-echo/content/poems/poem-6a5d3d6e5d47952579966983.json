@@ -1,0 +1,14 @@
+{
+  "id": "poem-6a5d3d6e5d47952579966983",
+  "title": "玉簪花和希纯  其四",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "凤尾成阴蕉叶重，金钿相对菊花繁。",
+    "莫悲举世无相识，佩蕙纫兰有屈原。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-7e7e4321-03d4-4fc3-a7d0-5715945f4442"
+}

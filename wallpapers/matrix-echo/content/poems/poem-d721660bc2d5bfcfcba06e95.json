@@ -1,0 +1,14 @@
+{
+  "id": "poem-d721660bc2d5bfcfcba06e95",
+  "title": "樊川寒食二首 一",
+  "author": "卢延让",
+  "dynasty": "唐",
+  "verses": [
+    "寒食权豪尽出行，一川如画雨初晴。",
+    "谁家络络游春盛，担入花间轧轧声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-79c5dff5-e887-460a-a766-002473728f95"
+}

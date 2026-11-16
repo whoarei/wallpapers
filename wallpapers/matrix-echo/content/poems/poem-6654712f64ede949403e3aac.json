@@ -1,0 +1,20 @@
+{
+  "id": "poem-6654712f64ede949403e3aac",
+  "title": "贾生",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "宣室求贤访逐臣，贾生才调更无伦。",
+    "可怜夜半虚前席，不问苍生问鬼神。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "托古讽今",
+    "七言绝句",
+    "怀才不遇"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-02456f60-6ab5-4de8-b9ed-f7519818f0ca"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5171",
+  "script": "kai",
+  "character": "共",
+  "reading": "gòng；gōng",
+  "description": "gòng：(1)相同，一样～性。～同。同甘～苦。\n(2)彼此都具有、使用或承受患难与～。休戚与～。\n(3)一起，一齐～鸣。～勉。～议。～处（chǔ）。\n(4)总计，合计～计。总～。\n(5)与，和落霞与孤鹜齐飞，秋水～长天一色。”\n(6)共产党”的简称。\n同；\ngōng：(1)古同恭”，恭敬。\n(2)古同供”，供奉，供给。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-共"
+}

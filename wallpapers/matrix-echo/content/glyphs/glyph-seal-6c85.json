@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c85",
+  "script": "seal",
+  "character": "沅",
+  "reading": "yuán",
+  "description": "yuán：〔～江〕水名，发源于中国贵州省，流经湖南省入洞庭湖。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沅"
+}

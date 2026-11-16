@@ -1,0 +1,14 @@
+{
+  "id": "poem-3df74a6d936f338023515a13",
+  "title": "过马当",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "风波隐隐石苍苍，送客灵鸦拂去樯。",
+    "三月尽头云叶秀，小姑新著好衣裳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-8691918b-6845-4472-be12-e5173044f98c"
+}

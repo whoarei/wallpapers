@@ -1,0 +1,15 @@
+{
+  "id": "poem-5d10a93f3776d07993eb1a0c",
+  "title": "浣溪沙·酒醒香销愁不胜",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "酒醒香销愁不胜，如何更向落花行。",
+    "去年高摘斗径盈，夜雨几番销瘦了，繁华如梦总无凭。",
+    "人间何处问多情。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-137"
+}

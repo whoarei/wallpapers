@@ -1,0 +1,19 @@
+{
+  "id": "poem-633cdf3cf79a18ae00df2d24",
+  "title": "点绛唇·病起恹恹",
+  "author": "韩琦",
+  "dynasty": "宋",
+  "verses": [
+    "病起恹恹，画堂花谢添憔悴。",
+    "乱红飘砌。",
+    "滴尽胭脂泪。",
+    "惆怅前春，谁向花前醉。",
+    "愁无际。",
+    "武陵回睇。",
+    "人远波空翠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-857",
+  "tags": []
+}

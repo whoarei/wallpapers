@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6cc4",
+  "script": "seal",
+  "character": "泄",
+  "reading": "xiè；yì",
+  "description": "xiè：(1)液体或气体排出排～。～洪。～泻。\n(2)漏，露～劲。～露。～漏。～密。\n(3)尽量发出（情绪、情欲等）～愤。～恨。发～。\n鼓；\nyì：〔～～〕ａ．缓飞的样子，如雄雉于飞，～～其羽”；ｂ．闲散自得，如十亩外兮，桑者～～兮”；ｃ．弛缓的样子，如天之方噘，无然～～”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-泄"
+}

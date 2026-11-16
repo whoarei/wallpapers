@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5ac2",
+  "script": "seal",
+  "character": "嫂",
+  "reading": "sǎo",
+  "description": "sǎo：(1)哥哥的妻子～～。～子。兄～。\n(2)泛称年岁不大的已婚妇女大～。～夫人（对朋友妻子的尊称）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嫂"
+}

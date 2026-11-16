@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8026",
+  "script": "seal",
+  "character": "耦",
+  "reading": "ǒu",
+  "description": "ǒu：(1)两个人在一起耕地。\n(2)同偶”②。\n〔～合〕物理学上指两个或两个以上的体系或两种运动形式之间通过各种相互作用而彼此影响以至联合起来的现象。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-耦"
+}

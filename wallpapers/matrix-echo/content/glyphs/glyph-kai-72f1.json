@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-72f1",
+  "script": "kai",
+  "character": "狱",
+  "reading": "yù",
+  "description": "讼案\n⒈监牢，监禁罪犯的场所监～。入～。\n⒉官司，罪案有～。冤～。文字～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-狱"
+}

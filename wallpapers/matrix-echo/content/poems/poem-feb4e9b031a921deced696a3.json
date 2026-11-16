@@ -1,0 +1,22 @@
+{
+  "id": "poem-feb4e9b031a921deced696a3",
+  "title": "九歌·河伯",
+  "author": "屈原",
+  "dynasty": "先秦",
+  "verses": [
+    "与女游兮九河，冲风起兮水扬波。",
+    "乘水车兮荷盖，驾两龙兮骖螭。",
+    "登昆仑兮四望，心飞扬兮浩荡。",
+    "日将暮兮怅忘归，惟极浦兮寤怀。",
+    "鱼鳞屋兮龙堂，紫贝阙兮珠宫。",
+    "灵何惟兮水中。",
+    "乘白鼋兮逐文鱼，与女游兮河之渚。",
+    "流澌纷兮将来下。",
+    "子交手兮东行，送美人兮南浦。",
+    "波滔滔兮来迎，鱼鳞鳞兮媵予。"
+  ],
+  "enabled": true,
+  "collection": "楚辞",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/楚辞/chuci.json#record-8"
+}

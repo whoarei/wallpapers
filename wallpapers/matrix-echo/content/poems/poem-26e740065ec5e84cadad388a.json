@@ -1,0 +1,14 @@
+{
+  "id": "poem-26e740065ec5e84cadad388a",
+  "title": "颂古十九首  其五",
+  "author": "释法全",
+  "dynasty": "宋",
+  "verses": [
+    "天高地厚寻常事，海阔山重更要论。",
+    "霹雳震摧山鬼窟，独携霜剑定乾坤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-c78a91c0-a70d-4b8a-88ec-b184072a8f47"
+}

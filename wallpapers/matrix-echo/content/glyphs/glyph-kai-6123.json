@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6123",
+  "script": "kai",
+  "character": "愣",
+  "reading": "lèng",
+  "description": "lèng：(1)发呆，失神～怔。～神儿。发～。\n(2)卤莽，说话做事不考虑效果～头～脑。～冲冲。他～是要去。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-愣"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-e9a776ba574b7eeb30037031",
+  "title": "古杭感事  其一",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "国事雕零王气衰，东南豪杰竟何之。",
+    "云寒废殿排班石，草卧前朝记事碑。",
+    "沙涨浙江龙去远，天宽北阙凤归迟。",
+    "可怜不老吴山月，曾照官家宠幸时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-f3c855c5-a4b6-4388-9df4-f488a246ac0d"
+}

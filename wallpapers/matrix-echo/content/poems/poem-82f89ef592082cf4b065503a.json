@@ -1,0 +1,16 @@
+{
+  "id": "poem-82f89ef592082cf4b065503a",
+  "title": "无生庵",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "大士今何在，空山旧隠存。",
+    "百年闲藓径，终日敞尘阍。",
+    "砌暖晴添草，窗寒暝叫猿。",
+    "当时团坐客，相顾竟何言。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-e46e7a32-8d60-4aea-8dbc-0913eade5b70"
+}

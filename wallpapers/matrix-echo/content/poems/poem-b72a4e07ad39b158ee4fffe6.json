@@ -1,0 +1,18 @@
+{
+  "id": "poem-b72a4e07ad39b158ee4fffe6",
+  "title": "许真君铁柱",
+  "author": "李翔",
+  "dynasty": "唐",
+  "verses": [
+    "恐老蛟重作患深[一]，独埋铁柱至如今。",
+    "根牢直下蟠江底，势壮长留镇郡心。",
+    "神鬼每闻趋夜后，风雷不敢犯塘阴。",
+    "无因更走横泉窟，压断祈精气永沉。",
+    "（[一]首句有误，疑当作「深恐老蛟重作患」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-6c289403-1a7a-4999-abea-a2007d73c984"
+}

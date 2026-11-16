@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f2d",
+  "script": "seal",
+  "character": "弭",
+  "reading": "mǐ",
+  "description": "mǐ：(1)平息，停止，消除～除。～谤（止息诽谤）。～患。～兵（平息战争）。\n(2)安抚，安定内～父兄，外抚诸侯。\n(3)顺服～从。\n(4)弓末的弯曲处。\n(5)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-弭"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2b64f321ad243e37a6ed53cf",
+  "title": "送魏骑曹充宇文侍御判官分按山南",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "云雨阳台路，光华驿骑巡。",
+    "劝农开梦土，恤隐惠荆人。",
+    "楼迥吟黄鹤，江长望白苹。",
+    "观风布明诏，更是汉南春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-5bd0fc18-bedb-4192-a865-06b3578c688e"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-55d1",
+  "script": "seal",
+  "character": "嗑",
+  "reading": "kē；kè",
+  "description": "kē：方言，话唠～儿。\nkè：(1)用上下门牙咬有壳的或硬的东西～瓜子儿。\n(2)闲谈，多话～牙。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嗑"
+}

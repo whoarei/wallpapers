@@ -1,0 +1,19 @@
+{
+  "id": "poem-fbe0d50516ee50a7af8b4286",
+  "title": "止酒",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "渊明通达士，止酒乃成诗。",
+    "终焉未能忘，寄意良在兹。",
+    "勇哉典午君，覆觞无再期。",
+    "念彼万乘贵，艰难有深思。",
+    "况乃一介士，而或志可移。",
+    "祓斋揆前训，刚制圣所辞。",
+    "铭心谅无斁，多言亦奚为。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-d20ec042-bc0b-462f-bb41-9f76796caa0e"
+}

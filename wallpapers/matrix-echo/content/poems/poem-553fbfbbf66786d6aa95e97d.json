@@ -1,0 +1,24 @@
+{
+  "id": "poem-553fbfbbf66786d6aa95e97d",
+  "title": "落花",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "高阁客竟去，小园花乱飞。",
+    "参差连曲陌，迢遰送斜晖。",
+    "肠断未忍扫，眼穿仍欲归。",
+    "芳心向春尽，所得是沾衣。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "咏物",
+    "五言律诗",
+    "写花",
+    "抒怀",
+    "花",
+    "咏物诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-da157c27-d317-4205-9cdc-a254445659fc"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-4cce86f0ededf871c94f9ff6",
+  "title": "定西番·帝子枕前秋夜",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "帝子枕前秋夜，霜幄冷，月华明，正三更。",
+    "何处戍楼寒笛，梦残闻一声。",
+    "遥想汉关万里，泪纵横。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-29"
+}

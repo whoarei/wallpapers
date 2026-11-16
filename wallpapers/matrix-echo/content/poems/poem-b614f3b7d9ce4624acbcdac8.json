@@ -1,0 +1,16 @@
+{
+  "id": "poem-b614f3b7d9ce4624acbcdac8",
+  "title": "又和开叔",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "寒梅犯雪荣，大隐久专名。",
+    "异种生江渚，何年到洛城。",
+    "色如虚室白，香似主人清。",
+    "响使吴儿见，不思菰菜羮。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8c7657bb-4130-476d-a30e-aa340486e653"
+}

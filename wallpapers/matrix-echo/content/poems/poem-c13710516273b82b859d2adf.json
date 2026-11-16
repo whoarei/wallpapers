@@ -1,0 +1,16 @@
+{
+  "id": "poem-c13710516273b82b859d2adf",
+  "title": "寄寒泉",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "贫则安之岂病焉，乘桴未暇况笺天。",
+    "翰林足避将军污，内史灰从廷尉然。",
+    "口伐固应无大敌，笔耕元自有丰年。",
+    "讲明人爵君何欠，只欠苏司业酒钱。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-f74ea40d-4c10-4074-b241-de1380a11fa2"
+}

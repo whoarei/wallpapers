@@ -1,0 +1,14 @@
+{
+  "id": "poem-32f8a1d340055424338462b5",
+  "title": "有女同车",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "有女同车，颜如舜华。将翱将翔，佩玉琼琚。彼美孟姜，洵美且都。",
+    "有女同行，颜如舜英。将翱将翔，佩玉将将。彼美孟姜，德音不忘。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-82"
+}

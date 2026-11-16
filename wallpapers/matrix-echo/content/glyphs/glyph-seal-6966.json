@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6966",
+  "script": "seal",
+  "character": "楦",
+  "reading": "xuàn",
+  "description": "xuàn：(1)做鞋用的模型～子。鞋～。\n(2)拿东西把物体中空的部分填满使物体鼓起来鞋楦～鞋。装运鸡蛋，把箱子～好。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-楦"
+}

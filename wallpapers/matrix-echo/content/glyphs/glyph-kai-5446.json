@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5446",
+  "script": "kai",
+  "character": "呆",
+  "reading": "dāi",
+  "description": "dāi：(1)傻，愚蠢～子。～气。～里撒（sā）奸（表面痴呆，暗藏奸诈）。\n(2)不灵活，发愣～板。～滞。～若木鸡（形容因惊恐而发愣）。\n(3)同待2”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-呆"
+}

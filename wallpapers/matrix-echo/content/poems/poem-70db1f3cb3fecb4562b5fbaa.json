@@ -1,0 +1,16 @@
+{
+  "id": "poem-70db1f3cb3fecb4562b5fbaa",
+  "title": "晚泊汉江渡",
+  "author": "刘畋",
+  "dynasty": "唐",
+  "verses": [
+    "末秋云木轻，莲折晚香清。",
+    "雨下侵苔色，云凉出浪声。",
+    "叠帆依岸尽，微照夹隄明。",
+    "渡吏已头白，遥知客姓名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-b5ab00ce-47a8-423b-80f8-acccfe48dc27"
+}

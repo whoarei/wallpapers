@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5265",
+  "script": "seal",
+  "character": "剥",
+  "reading": "bāo；bō",
+  "description": "bāo：去掉外面的皮或其他东西～皮。～花生。\nbō：义同（一），用于复合词～夺。～削（xuē）。～落。～蚀。生吞活～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-剥"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6da883acc96001087d8a74bd",
+  "title": "卖花声",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "那日红楼数里，要纳夫婿，谁知道苦相嫌弃？(净扶后出接)孩儿饮气，尽日没情没绪。",
+    "阿娘怎知，恹恹害自觉着体。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2637",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-060fc6cca7491cdc37bf1b25",
+  "title": "过剡  其一",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "曹娥泪血点江潮，百里都无绿半篙。",
+    "剡水迎潮须款曲，小分清莹洗浑涛。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-55018551-bab5-47f9-b724-ddaa6bba0b94"
+}

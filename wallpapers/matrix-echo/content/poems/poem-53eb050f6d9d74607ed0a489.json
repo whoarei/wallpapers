@@ -1,0 +1,16 @@
+{
+  "id": "poem-53eb050f6d9d74607ed0a489",
+  "title": "挽郑十一府君并夫人",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "君子言无玷，夫人德有邻。",
+    "丝桐人世远，窀穸陇头新。",
+    "粧合闲明镜，吟窗积暗尘。",
+    "西风原上路，鸣铎为悲辛。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-825b7fa0-976f-41da-9ebe-2e7b75419109"
+}

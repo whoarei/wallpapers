@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-67b3",
+  "script": "seal",
+  "character": "枳",
+  "reading": "zhǐ；zhī",
+  "description": "zhī：落叶灌木或小乔木，小枝多刺，果实黄绿色，味酸不可食，可入药（亦称枸橘”）～实（中药称枳”、构橼”等的近成熟的果实）。～壳（中药称枳”、枸橼”等的成熟的果实）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-枳"
+}

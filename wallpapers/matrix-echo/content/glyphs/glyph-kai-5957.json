@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5957",
+  "script": "kai",
+  "character": "套",
+  "reading": "tào",
+  "description": "tào：(1)罩在外面的东西褥～。手～。外～。\n(2)加罩～裤。～袖。\n(3)重叠的～版。～耕。～种（zhòng）。\n(4)装在衣物里的棉絮被～。\n(5)同类事物合成的一组一～制服。～路。～数。～曲。配～。\n(6)模拟，照做～用。～语。生搬硬～。\n(7)用绳子等做成的环牲口～。圈～（喻陷害人的布置）。\n(8)栓系～车。\n(9)用谎骗取～取。～购。～汇。\n(10)河流或山势弯曲之处（大多用于地名）河～。连环～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-套"
+}

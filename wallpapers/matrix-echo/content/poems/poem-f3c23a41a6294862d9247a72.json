@@ -1,0 +1,18 @@
+{
+  "id": "poem-f3c23a41a6294862d9247a72",
+  "title": "诉衷情·闲中一首醉时歌",
+  "author": "张抡",
+  "dynasty": "宋",
+  "verses": [
+    "闲中一首醉时歌。",
+    "此乐信无过。",
+    "阳春自来寡和，谁与乐和。",
+    "言不尽，意何多。",
+    "且蹉跎。",
+    "功名莫问，富贵休言，到底如何。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-972",
+  "tags": []
+}

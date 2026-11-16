@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-66dd",
+  "script": "kai",
+  "character": "曝",
+  "reading": "pù；bào",
+  "description": "pù：晒～晒（用强烈阳光照晒）。一～十寒（喻无恒心）。\nbào：〔～光〕使感光纸或摄影胶片感光。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-曝"
+}

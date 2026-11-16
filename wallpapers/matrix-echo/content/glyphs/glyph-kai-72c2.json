@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-72c2",
+  "script": "kai",
+  "character": "狂",
+  "reading": "kuáng",
+  "description": "kuáng：(1)本称狗发疯，后亦指人精神失常～犬。疯～。癫～。发～。～人。\n(2)纵情任性或放荡骄恣的态度轻～。～妄（极端自高自大）。～吠（狗狂叫，借指疯狂的叫嚣）。～乱。～野。～躁。～恣。～草（草书的一种，风格狂放无羁）。\n(3)气势猛烈，超出常度～风。～飙。～热。力挽～澜。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-狂"
+}

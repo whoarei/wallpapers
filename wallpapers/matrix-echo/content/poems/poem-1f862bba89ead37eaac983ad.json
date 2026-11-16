@@ -1,0 +1,20 @@
+{
+  "id": "poem-1f862bba89ead37eaac983ad",
+  "title": "虞美人·严陵滩畔香醪好",
+  "author": "葛胜仲",
+  "dynasty": "宋",
+  "verses": [
+    "严陵滩畔香醪好。",
+    "遮莫东方晓。",
+    "春风盎盎如寒肌。",
+    "人道霜浓腊月、我还疑。",
+    "红炉火热香围坐。",
+    "梅蕊迎春破。",
+    "一声清唱解人颐。",
+    "人道牢愁千斛、我谁知。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-23",
+  "tags": []
+}

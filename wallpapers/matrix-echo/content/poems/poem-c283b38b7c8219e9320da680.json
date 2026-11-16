@@ -1,0 +1,22 @@
+{
+  "id": "poem-c283b38b7c8219e9320da680",
+  "title": "满庭芳·欲买庐山",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "欲买庐山，山前三亩，小桥横过松间。",
+    "变名吴市，谁认旧容颜。",
+    "最好栖贤峡外，应自此、都隔尘寰。",
+    "人稀到，壶中化国，光景更堪闲。",
+    "无心，求至道，柴门闭了，饱睡甘飡。",
+    "幸儿成孙长，为扫家山。",
+    "若问它年归去，蓦地也、双桨来还。",
+    "愁难舍，清风万壑，高处正跻攀。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-182",
+  "tags": [
+    "庐山"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-a676d76b5d789500519a6bee",
+  "title": "贡院垂成双莲呈瑞因成鄙语勉士子",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "大厦垂垂就，嘉莲得得开。",
+    "双双戴千物，两两应三台。",
+    "欢意重重合，香风比比来。",
+    "人人宜自勉，举举有廷魁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-9d070915-ae07-43b0-bad3-b973b8d3adc8"
+}

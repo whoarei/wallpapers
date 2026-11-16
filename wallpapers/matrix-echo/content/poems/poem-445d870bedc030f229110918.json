@@ -1,0 +1,16 @@
+{
+  "id": "poem-445d870bedc030f229110918",
+  "title": "奉和七夕两仪殿会宴应制",
+  "author": "赵彦昭",
+  "dynasty": "唐",
+  "verses": [
+    "青女三秋节，黄姑七日期。",
+    "星桥度玉珮，云阁掩罗帷。",
+    "河气通仙掖，天文入睿词。",
+    "今宵望灵汉，应得见蛾眉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-357a9b75-35fa-4e0c-9a10-1d51f84a1e6f"
+}

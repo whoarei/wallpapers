@@ -1,0 +1,14 @@
+{
+  "id": "poem-cea5a1a924b19ee7d2b277f7",
+  "title": "忆多娇",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "心痛悲，珠泪暗滴。",
+    "不知我娘为下鬼，儿在囚牢谁看觑？(和)祸不单行，苦也娘亲怎知？(末)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8662",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-8e8a2ad95359732fd2a4e508",
+  "title": "淮阴夜宿二首 二",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "永夕卧烟塘，萧条天一方。",
+    "秋风淮水落，寒夜楚歌长。",
+    "宿莽非中土，鲈鱼岂我乡。",
+    "孤舟行已倦，南越尚茫茫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-103fde91-0c2f-4bc6-8502-de2bf38b26f2"
+}

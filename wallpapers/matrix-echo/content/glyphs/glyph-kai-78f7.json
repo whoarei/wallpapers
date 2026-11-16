@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-78f7",
+  "script": "kai",
+  "character": "磷",
+  "reading": "lín",
+  "description": "lín：一种非金属元素，常见的有白磷”和红磷”～火（俗称鬼火”）。～肥。～脂（含磷和氮的类脂质，是生物体的重要组成成分，动物的脑、肝、卵等含量较多）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-磷"
+}

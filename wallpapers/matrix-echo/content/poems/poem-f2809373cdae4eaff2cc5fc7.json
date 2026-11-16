@@ -1,0 +1,18 @@
+{
+  "id": "poem-f2809373cdae4eaff2cc5fc7",
+  "title": "郊庙歌辞 释奠武成王乐章 迎俎酌献",
+  "author": "于邵",
+  "dynasty": "唐",
+  "verses": [
+    "五齐洁，九牢硕。",
+    "梡橛循，罍斝涤。",
+    "进具物，扬鸿绩。",
+    "和奏发，高灵寂。",
+    "虔告终，繁祉锡。",
+    "昭秩祀，永无易。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-b9d3edd9-a17c-47ce-b299-241f611917cd"
+}

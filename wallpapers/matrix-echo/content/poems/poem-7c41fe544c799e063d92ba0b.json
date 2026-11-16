@@ -1,0 +1,15 @@
+{
+  "id": "poem-7c41fe544c799e063d92ba0b",
+  "title": "白",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "我底女孩儿，它爹爹是当朝宰执，妈妈是两国夫人，终不成不求得一个好姻缘。",
+    "除非嫁个读书人，不问簪缨不问贫。",
+    "但愿五湖风月在，不愁无处下丝纶(下)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2539",
+  "tags": []
+}

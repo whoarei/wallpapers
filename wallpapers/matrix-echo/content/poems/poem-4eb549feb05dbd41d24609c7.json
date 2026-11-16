@@ -1,0 +1,14 @@
+{
+  "id": "poem-4eb549feb05dbd41d24609c7",
+  "title": "杜鹃花",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "染得深红剪万葩，春归独自绚韶华。",
+    "丁宁莫受西风误，误使人看顷刻花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-2ff939e4-c1e1-4301-9db6-fab4c68cbc1c"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-f0dcc8c352e18e8012d6d059",
+  "title": "句",
+  "author": "钱元瓘",
+  "dynasty": "唐",
+  "verses": [
+    "别泪已多红蜡泪，离杯须满绿荷杯。",
+    "（《两浙金石志》卷四和凝《大晋故天下兵马都元帅守尚书令吴越国王谥文穆钱公神道碑》引。",
+    "）（〖1〗《钱公神道碑》：「天福六年，王以弟兄归任，丝竹张筵，因抒嘉篇，久吟警句。",
+    "〖诗略〗诗罢酒阑，情伤疾作。",
+    "」）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-6a7ab35b-8b96-48f3-9083-bd2190867ad4"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-1d3faeed2ad9166d10cc21b0",
+  "title": "横吹曲辞 后出塞五首 三",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "古人重守边，今人重高勋。",
+    "岂知英雄主，出师亘长云。",
+    "六合已一家，四夷且孤军。",
+    "遂使貔虎士，奋身勇所闻。",
+    "拔劒击大荒，日牧胡马群。",
+    "誓开玄冥北，持以奉吾君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-dffcc914-3b19-401d-963b-59c75a017857"
+}

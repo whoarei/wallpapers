@@ -1,0 +1,14 @@
+{
+  "id": "poem-7801840295005d58916d3af9",
+  "title": "终南",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "终南何有？有条有梅。君子至止，锦衣狐裘。颜如渥丹，其君也哉！",
+    "终南何有？有纪有堂。君子至止，黻衣绣裳。佩玉将将，寿考不忘！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-129"
+}

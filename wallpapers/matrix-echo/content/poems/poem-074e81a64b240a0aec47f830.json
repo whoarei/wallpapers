@@ -1,0 +1,16 @@
+{
+  "id": "poem-074e81a64b240a0aec47f830",
+  "title": "早蝉",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "门柳不连野，乍闻为早蝉。",
+    "游人无定处，入耳更应先。",
+    "暂默斜阳雨，重吟远岸烟。",
+    "前年湘竹里，风激遶离筵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-978164b2-cc71-4ee7-b99e-250dbee9f7f5"
+}

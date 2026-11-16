@@ -1,0 +1,18 @@
+{
+  "id": "poem-d9213fee34db4e60f9238398",
+  "title": "洗苎歌",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "白水浣白苎，濯濯霜不如。",
+    "亭匀拣经纬，霜澌寒疎疎。",
+    "天质本无玷，况复随时染。",
+    "秋阳曝皜皜，不受红紫谄。",
+    "丹茸碧缕明相掩，玉手苎纱秋潋潋。",
+    "拜了穿针楼上月，细与天孙话新洁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-fb00c660-0a62-4367-985a-d4d178f4622c"
+}

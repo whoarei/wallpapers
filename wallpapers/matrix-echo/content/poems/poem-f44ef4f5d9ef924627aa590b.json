@@ -1,0 +1,14 @@
+{
+  "id": "poem-f44ef4f5d9ef924627aa590b",
+  "title": "送酒与邵尧夫因戏之",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "林下虽无忧可消，许由闻说挂空瓢。",
+    "请君呼取孟光饮，共插花枝煮药苗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-ce173b2b-b06d-4b3b-901c-3b65b2c62701"
+}

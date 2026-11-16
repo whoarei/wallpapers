@@ -1,0 +1,16 @@
+{
+  "id": "poem-62b45ea7b894e14e97d997a2",
+  "title": "更漏子·南浦情",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "南浦情，红粉泪，怎奈两人深意。",
+    "低翠黛，卷征衣，马嘶霜叶飞。",
+    "招手别，寸肠结，还是去年时节。",
+    "书托雁，梦归家，觉来江月斜。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-12"
+}

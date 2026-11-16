@@ -1,0 +1,16 @@
+{
+  "id": "poem-f6f77c653eee54f566266688",
+  "title": "李先辈擢第东归有赠送",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "金榜前头无是非，平人分得一枝归。",
+    "正怜日煖云飘路，何处宴回风满衣？",
+    "门掩长淮心更远，渡连芳草马如飞。",
+    "茂陵自笑犹多病，空有书斋在翠微。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-f690b93a-075c-47b6-8ced-efb42f55cb90"
+}

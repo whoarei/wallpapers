@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7275",
+  "script": "seal",
+  "character": "牵",
+  "reading": "qiān",
+  "description": "⒈拉,挽着,挽引向前～牛。手～手。～着向前走。\n⒉连带，带累～连。～累。～制。～一发而动全身。\n⒊惦念，缠连～肠挂肚。意惹情～。\n⒋拘束，拘泥～于所闻。\n牵qiàn 1.挽船的绳索。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-牵"
+}

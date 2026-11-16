@@ -1,0 +1,19 @@
+{
+  "id": "poem-c655a8c2f904d2347789b7cb",
+  "title": "峡哀 六",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "谗人峡虬心，渴罪呀然浔。",
+    "所食无直肠，所语饶枭音。",
+    "石齿嚼百泉，石风号千琴。",
+    "幽哀莫能远，分雪何由寻。",
+    "月魄高卓卓，峡窟清沉沉。",
+    "衔诉何时明，抱痛已不禁。",
+    "犀飞空波涛，裂石千嵚岑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-06de6be3-0257-4ee5-9fde-2e2fef90ad9b"
+}

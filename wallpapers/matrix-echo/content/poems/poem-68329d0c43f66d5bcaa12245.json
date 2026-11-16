@@ -1,0 +1,16 @@
+{
+  "id": "poem-68329d0c43f66d5bcaa12245",
+  "title": "将别寄友人",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "帝乡归未得，辛苦事羇游。",
+    "别馆一尊酒，客程千里秋。",
+    "霜风红叶寺，夜雨白苹洲。",
+    "长恐此时泪，不禁和恨流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-dc7ad1fe-4b03-4e4a-8b03-c1ae0841c11b"
+}

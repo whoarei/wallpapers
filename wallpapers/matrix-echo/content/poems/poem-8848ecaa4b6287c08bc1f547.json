@@ -1,0 +1,18 @@
+{
+  "id": "poem-8848ecaa4b6287c08bc1f547",
+  "title": "思佳客·有约湖山却解襟",
+  "author": "高观国",
+  "dynasty": "宋",
+  "verses": [
+    "有约湖山却解襟。",
+    "昼眠占得一庭深。",
+    "树边风色寒滋味，愁里年华雁信音。",
+    "惊楚梦，听瑶琴。",
+    "黄花尚可伴孤斟。",
+    "断云万一成疏雨，却向湖边看晚阴。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-380",
+  "tags": []
+}

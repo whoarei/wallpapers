@@ -1,0 +1,15 @@
+{
+  "id": "poem-2ca41d92f44736c60679b119",
+  "title": "句 一",
+  "author": "罗隐",
+  "dynasty": "唐",
+  "verses": [
+    "曹韩沙嘴团，铜陵出状元。",
+    "（见影印天一阁藏本《嘉靖池州府志》卷一。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-c74c46c0-1260-47bf-b1c9-f474863db70a"
+}

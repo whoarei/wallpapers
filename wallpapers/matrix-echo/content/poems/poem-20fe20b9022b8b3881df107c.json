@@ -1,0 +1,20 @@
+{
+  "id": "poem-20fe20b9022b8b3881df107c",
+  "title": "梁谿四友赞序 粲华赞",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "我有佳友，粲粲其华。",
+    "金英炜煌，翠叶交加。",
+    "风露洒濯，色香相知。",
+    "宛如美人，象服逶迤。",
+    "可以忘忧，莫如旨酒。",
+    "泛此粲华，益我眉寿。",
+    "渊明一樽，子美三嗅。",
+    "永结清欢，相从白首。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-e8c1946d-eaf4-491a-a876-0e4d51e59715"
+}

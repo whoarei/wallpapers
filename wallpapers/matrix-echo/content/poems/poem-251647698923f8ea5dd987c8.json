@@ -1,0 +1,18 @@
+{
+  "id": "poem-251647698923f8ea5dd987c8",
+  "title": "酬故人还山",
+  "author": "宋鼎",
+  "dynasty": "唐",
+  "verses": [
+    "举櫂乘春水，归山抚岁华。",
+    "碧潭宵见月，红树晚开花。",
+    "肃穆轻风度，依微隐径斜。",
+    "危亭暗松石，幽涧落云霞。",
+    "思鸟吟高树，游鱼戏浅沙。",
+    "安知余兴尽，相望紫烟赊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-cbbe3dfd-98f0-403f-b4b4-1fd4b5d5f951"
+}

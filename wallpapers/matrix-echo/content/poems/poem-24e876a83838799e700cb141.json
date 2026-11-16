@@ -1,0 +1,15 @@
+{
+  "id": "poem-24e876a83838799e700cb141",
+  "title": "荷叶杯·春尽小庭花落",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "春尽小庭花落，寂寞。",
+    "凭槛敛双眉，忍教成病忆佳期。",
+    "知么知，知么知。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-21"
+}

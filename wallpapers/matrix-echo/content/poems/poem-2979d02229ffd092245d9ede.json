@@ -1,0 +1,16 @@
+{
+  "id": "poem-2979d02229ffd092245d9ede",
+  "title": "赠来进士鹏",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "语玄人不到，星汉在灵空。",
+    "若使无良遇，虚言有至公。",
+    "月明千峤雪，滩急五更风。",
+    "此际苦吟力，分将造化功。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-7eecbf0f-c2f3-45b8-8626-eba2f3fc57b0"
+}

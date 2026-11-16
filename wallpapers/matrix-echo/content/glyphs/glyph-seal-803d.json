@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-803d",
+  "script": "seal",
+  "character": "耽",
+  "reading": "dān",
+  "description": "dān：(1)沉溺，入迷～乐。\n(2)迟延～误。～搁。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-耽"
+}

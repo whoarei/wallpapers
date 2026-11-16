@@ -1,0 +1,16 @@
+{
+  "id": "poem-85e1045c005a31d6344ccd32",
+  "title": "次韵徐秀才十首  其三",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "向来孟浩然，醉眼高宇宙。",
+    "清诗落京师，苏李欲束咮。",
+    "蔗陇槎头鳊，未觉黄金富。",
+    "纤钩饵虾蝇，但取浮阳嗅。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-7ada2ea4-c26d-4235-b551-b9bdaa9dd91b"
+}

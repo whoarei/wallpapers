@@ -1,0 +1,14 @@
+{
+  "id": "poem-6ae8c65f38177cd3863735e6",
+  "title": "和定国湖上  其二",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "雨过松篁多样翠，风回苹藻一般香。",
+    "玉兰桃李非无意，兴味由来静处长。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-a65eae47-12aa-4d4f-a369-483e6a6c7d09"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-0623c6783f1928209582cae2",
+  "title": "谒韩祠",
+  "author": "陈知柔",
+  "dynasty": "宋",
+  "verses": [
+    "斯文何罪窜南荒，来谒孤祠泪数行。",
+    "恐有遗书藏坏壁，岂无哀赋吊沅湘。",
+    "精神不受氛烟蔽，道义长涵日月光。",
+    "四壁萧萧香火冷，何人能与作堂皇。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-af002946-e5fa-4bb7-8c64-ca7f5f0781c1"
+}

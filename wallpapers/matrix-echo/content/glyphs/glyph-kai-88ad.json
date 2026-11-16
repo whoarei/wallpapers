@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-88ad",
+  "script": "kai",
+  "character": "袭",
+  "reading": "xí",
+  "description": "衣一套为一袭\n⒈乘人不备而攻击～击。夜～。奇～。\n⒉因循，继承，照样做因～。世～。抄～。沿～。\n⒊侵入侵～‘气～人。\n⒋量词。一副，一套衣服一～。一～被褥。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-袭"
+}

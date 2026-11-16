@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6817",
+  "script": "kai",
+  "character": "栗",
+  "reading": "lì",
+  "description": "lì：(1)落叶乔木，果实为坚果，称栗子”，味甜，可食～色。火中取～。\n(2)发抖，因害怕或寒冷肢体颤动战～。\n(3)坚实缜密以～”。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-栗"
+}

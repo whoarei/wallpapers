@@ -1,0 +1,16 @@
+{
+  "id": "poem-8b5efcd4d04bafb466ce2ea5",
+  "title": "后庭花·景阳钟动宫莺啭",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "景阳钟动宫莺啭，露凉金殿。",
+    "轻飙吹起琼花旋，玉叶如剪。",
+    "晚来高阁上，珠帘卷，见坠香千片。",
+    "修蛾慢脸陪雕辇，后庭新宴。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-9"
+}

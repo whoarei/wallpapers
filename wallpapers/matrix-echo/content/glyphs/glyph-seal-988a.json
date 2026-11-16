@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-988a",
+  "script": "seal",
+  "character": "颊",
+  "reading": "jiá",
+  "description": "侧,旁边\n堂内正室旁边的房间\n颊带",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-颊"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-3d7c3af95e6c2355c040617f",
+  "title": "守岁",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "暮景斜芳殿，年华丽绮宫。",
+    "寒辞去冬雪，暖带入春风。",
+    "阶馥舒梅素，盘花卷烛红。",
+    "共欢新故岁，迎送一宵中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "闲适",
+    "春节"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-95db82fe-9e50-4bc6-be79-d1c79c61ce32"
+}

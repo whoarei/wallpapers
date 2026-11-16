@@ -1,0 +1,16 @@
+{
+  "id": "poem-4db592f948396c2b1efeaea4",
+  "title": "游华山云际寺",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "少华中峰寺，高秋众景归。",
+    "地连秦塞起，河隔晋山微。",
+    "晚木蝉相应，凉天鴈并飞。",
+    "殷勤记岩石，秪恐再来稀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-11bab6c9-81b8-4c27-a60c-9b50385cdf35"
+}

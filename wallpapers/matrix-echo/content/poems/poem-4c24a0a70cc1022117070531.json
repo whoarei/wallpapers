@@ -1,0 +1,14 @@
+{
+  "id": "poem-4c24a0a70cc1022117070531",
+  "title": "题温泉",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "能使时平四十春，开元圣主得贤臣。",
+    "当时姚宋幷燕许，尽是骊山从驾人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-aef512bc-1c46-4b17-8a03-a7fe50f5ad25"
+}

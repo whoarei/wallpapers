@@ -1,0 +1,15 @@
+{
+  "id": "poem-431c6d5c126b821d4fd36775",
+  "title": "秋夜自泸溪泛舟入泽泺二首  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "浮舟入浩渺，有楫任逶迟。",
+    "望迷烟树合，影回星汉移。",
+    "清静水月界，身到始应知。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-6d7733eb-dc8f-490d-9c16-061244889387"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-aa1a0103c0badf95dff30b17",
+  "title": "秋夜达萧关",
+  "author": "于邺",
+  "dynasty": "唐",
+  "verses": [
+    "扰扰浮梁路，人忙月自闲。",
+    "去年为塞客，今夜宿萧关。",
+    "辞国几经岁，望乡空见山。",
+    "不知江叶下，又作布衣还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-26899957-16a6-43b4-b70e-7bfbb254b686"
+}

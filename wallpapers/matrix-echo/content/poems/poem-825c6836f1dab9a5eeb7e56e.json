@@ -1,0 +1,14 @@
+{
+  "id": "poem-825c6836f1dab9a5eeb7e56e",
+  "title": "颂古三十一首  其二二",
+  "author": "释安永",
+  "dynasty": "宋",
+  "verses": [
+    "入草亲寻草里人，重重有路掌中平。",
+    "不遇大商空突晓，日高犹听打三更。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-f48590ce-ea86-48d3-9c03-ce6c00c8693c"
+}

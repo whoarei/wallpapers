@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8ba9",
+  "script": "seal",
+  "character": "让",
+  "reading": "ràng",
+  "description": "退让;谦让\n允恭\n⒈不争，尽给旁人谦～。辞～。退～。〈引〉请把客人～进屋里来。特指让位、让权～贤。\n⒉将东西转给别人转～。廉价出～。\n⒊叫，许，使，任凭～他试试。～她去做。决不～国家财产受损失。～他们提意见。\n⒋被这本书～他弄坏了。泥土～雨水冲走了。\n⒌责备，责怪诮～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-让"
+}

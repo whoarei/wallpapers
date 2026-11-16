@@ -1,0 +1,16 @@
+{
+  "id": "poem-4b8b85e0469ef0a7f1aee3c4",
+  "title": "酬沈先辈卷",
+  "author": "归仁",
+  "dynasty": "唐",
+  "verses": [
+    "一百八十首，清泠韵可敲。",
+    "任从人不爱，终是我难抛。",
+    "桂魄吟来满，蒲团坐得凹。",
+    "先生声价在，寰宇几人抄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-54e63514-fd37-4d2c-bc84-cdd9bdf10efe"
+}

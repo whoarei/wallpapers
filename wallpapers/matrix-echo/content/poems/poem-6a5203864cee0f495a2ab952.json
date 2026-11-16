@@ -1,0 +1,18 @@
+{
+  "id": "poem-6a5203864cee0f495a2ab952",
+  "title": "河满子·细雨裛开红杏",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "细雨裛开红杏，新妆粉面鲜明。",
+    "东君何事交来早，更无绿叶同荣。",
+    "独倚青楼吟赏，目前无限轻盈。",
+    "命薄不依栏槛，或占郊坰。",
+    "清香繁艳真堪爱，枉教寂寞凋零。",
+    "相次牡丹芍药，王孙谁道多情。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-896",
+  "tags": []
+}

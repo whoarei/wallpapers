@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6302",
+  "script": "seal",
+  "character": "挂",
+  "reading": "guà",
+  "description": "挂字耳。”\n悬挂;下垂\n⒈悬，悬吊～图片。悬～。彩灯高～。\n⒉牵绊，勾住，惦记牵～。～钩。～怀。～记。\n⒊登记去～号。快～失。\n⒋粘上，附着裤子上～了一层泥。\n⒌量词。用于成串的东西两～葡萄。三～珠子。\n①喜庆日子悬挂彩绸。\n②作战中负伤流血。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-挂"
+}

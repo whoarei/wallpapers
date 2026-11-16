@@ -1,0 +1,14 @@
+{
+  "id": "poem-93a6f8581cafc8d10f1c35a0",
+  "title": "宫词  其二",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "朱字衙香伴玉𬬻，丁丁莲漏月来初。",
+    "交龙画烛摇红影，准拟君王夜读书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-cf6e9e2c-d414-4660-85b7-61f11c6ca549"
+}

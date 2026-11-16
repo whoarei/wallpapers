@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6ec7",
+  "script": "kai",
+  "character": "滇",
+  "reading": "diān",
+  "description": "diān：(1)古族名，在今中国云南省东部滇池附近地区。\n(2)中国云南省的别称～红（云南出产的红茶）。～剧。～池。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-滇"
+}

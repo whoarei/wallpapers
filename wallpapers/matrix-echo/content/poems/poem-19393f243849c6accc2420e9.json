@@ -1,0 +1,16 @@
+{
+  "id": "poem-19393f243849c6accc2420e9",
+  "title": "鄂渚除夜书怀",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "鹦鹉洲头夜泊船，此时形影共凄然。",
+    "难归故国干戈后，欲告何人雨雪天。",
+    "筯拨冷灰书闷字，枕陪寒席带愁眠。",
+    "自嗟落魄无成事，明日春风又一年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-291649a3-b0c3-4d02-b55f-21927738cc04"
+}

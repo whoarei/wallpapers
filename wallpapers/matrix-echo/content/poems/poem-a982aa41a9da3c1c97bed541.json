@@ -1,0 +1,14 @@
+{
+  "id": "poem-a982aa41a9da3c1c97bed541",
+  "title": "春陪相公看花宴会二首 二",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "木兰花谢可怜条，远道音书转寂寥。",
+    "春去一年春又尽，几回空上望江桥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-485b786c-c2e9-4167-a5de-26b61e3c0aa5"
+}

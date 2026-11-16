@@ -1,0 +1,13 @@
+{
+  "id": "poem-b965c36b11c046ddf4de1eaf",
+  "title": "句",
+  "author": "杨虞卿",
+  "dynasty": "唐",
+  "verses": [
+    "河势昆仑远，山形菡萏秋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ebfb90a0-ccf4-4f10-bfe4-b8b1d253edf6"
+}

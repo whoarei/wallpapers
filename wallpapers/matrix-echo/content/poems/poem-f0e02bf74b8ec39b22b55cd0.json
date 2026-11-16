@@ -1,0 +1,21 @@
+{
+  "id": "poem-f0e02bf74b8ec39b22b55cd0",
+  "title": "初发扬子寄元大校书",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "verses": [
+    "凄凄去亲爱，泛泛入烟雾。",
+    "归棹洛阳人，残钟广陵树。",
+    "今朝此为别，何处还相遇。",
+    "世事波上舟，沿洄安得住。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "离别",
+    "五言古诗",
+    "依恋"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-5b3a5651-2a80-4fb1-b1bf-c9fb5ec38905"
+}

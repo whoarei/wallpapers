@@ -1,0 +1,17 @@
+{
+  "id": "poem-477af587b656717053cad0d9",
+  "title": "浣溪沙·风送清香过短墙",
+  "author": "黄公度",
+  "dynasty": "宋",
+  "verses": [
+    "风送清香过短墙。",
+    "烟笼晚色近修篁。",
+    "夕阳楼外角声长。",
+    "欲去还留无限思，轻匀淡抹不成妆。",
+    "一尊相对月生凉。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-444",
+  "tags": []
+}

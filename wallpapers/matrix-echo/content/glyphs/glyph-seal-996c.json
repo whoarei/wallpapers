@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-996c",
+  "script": "seal",
+  "character": "饬",
+  "reading": "chì",
+  "description": "命令\n告诫。通敕”\n⒈整顿，整治整～。～武备。\n⒉谨慎谨～。\n⒊通\"敕\"。命令，告诫～令。～知。申～。\n饬shì 1.装饰；修饰。 2.巧饰；巧伪。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-饬"
+}

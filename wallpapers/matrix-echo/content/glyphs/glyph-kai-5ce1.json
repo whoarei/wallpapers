@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5ce1",
+  "script": "kai",
+  "character": "峡",
+  "reading": "xiá",
+  "description": "从峡度栈以上。\n形容词。狭窄\n⒈两面有山夹着的水道长江三～。\n⒉两山之间或两陆地之间的狭窄地带～谷。地～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-峡"
+}

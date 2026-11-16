@@ -1,0 +1,15 @@
+{
+  "id": "poem-4f1ad8fb75a0b0512c0e6cac",
+  "title": "杭州秋日别故友",
+  "author": "长孙佐辅",
+  "dynasty": "唐",
+  "verses": [
+    "相见又相别，大江秋水深。",
+    "悲欢一世事，去住两乡心。",
+    "淅沥篱下叶，凄清阶上琴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-3355f85a-00ae-422d-b446-f3df558da00c"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-7feb367b2b22bad5877152a1",
+  "title": "秋怀五首 三",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "九月夜如年，幽房劳别梦。",
+    "不知别日远，夜夜犹相送。",
+    "玉床暗虫响，锦席寒泪冻。",
+    "明镜失旧人，空林误归凤。",
+    "新年堪爱惜，锦字亦珍重。",
+    "一念皎皎时，幽襟非所用。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-f3a94c12-7462-4174-891e-4e1f01a80821"
+}

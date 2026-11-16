@@ -1,0 +1,16 @@
+{
+  "id": "poem-e1e1b5d2bf083270129a2fde",
+  "title": "虞美人·触帘风送景阳钟",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "触帘风送景阳钟，鸳被绣花重。",
+    "晓帷初卷冷烟浓，翠匀粉黛好仪容，思娇慵。",
+    "起来无语理朝妆，宝匣镜凝光。",
+    "绿荷相倚满池塘，露清枕簟藕花香，恨悠扬。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-34"
+}

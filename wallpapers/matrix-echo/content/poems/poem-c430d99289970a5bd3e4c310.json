@@ -1,0 +1,17 @@
+{
+  "id": "poem-c430d99289970a5bd3e4c310",
+  "title": "秋江送别",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "徐徐步野径，晓痕青柳弄金。",
+    "东风尚料峭，丽日升寒渐轻。",
+    "(生出)记得年时投上国，早一年珠泪泠。",
+    "此山又登，此身渐亨，是你否极还泰生。",
+    "(旦)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2678",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-663cd76a9d2a11a16f43e012",
+  "title": "赠维扬故人",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "东京少长认维桑，书剑谁教入帝乡。",
+    "一事无成空放逐，故人相见重凄凉。",
+    "楼台寂寞官河晚，人物稀疏驿路长。",
+    "莫怪临风惆怅久，十年春色忆维扬。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-a42af670-1dc2-4202-8edc-b61424a62c5e"
+}

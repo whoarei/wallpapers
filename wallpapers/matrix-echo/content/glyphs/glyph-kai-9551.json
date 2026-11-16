@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9551",
+  "script": "kai",
+  "character": "镑",
+  "reading": "bàng",
+  "description": "镑张\n莫要镑张\n镑pāng 1.切削。 2.铲子的别名。\n镑bàng 1.英语pound的音译。英国﹑埃及﹑爱尔兰等国的本位货币。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镑"
+}

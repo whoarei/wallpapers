@@ -1,0 +1,16 @@
+{
+  "id": "poem-6b0353ba4316b772ca643d56",
+  "title": "和梁签判颍州西湖十三题 碧澜堂",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "北渚清泠十顷波，偶来凭槛意如何。",
+    "且观秋水蒙庄论，休听沧浪渔父歌。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-7b6eb166-9fe4-4b23-a719-077a31f2bb10"
+}

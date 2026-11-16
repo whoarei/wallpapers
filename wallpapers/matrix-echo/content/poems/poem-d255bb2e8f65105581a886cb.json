@@ -1,0 +1,25 @@
+{
+  "id": "poem-d255bb2e8f65105581a886cb",
+  "title": "送友人",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "青山横北郭，白水遶东城。",
+    "此地一为别，孤蓬万里征。",
+    "浮云游子意，落日故人情。",
+    "挥手自兹去，萧萧班马鸣。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "八年级上册(课外)",
+    "友情",
+    "写景",
+    "送别",
+    "五言律诗",
+    "初中古诗",
+    "惜别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-1f83fccf-7476-464b-8cd4-8a2b4569c7a0"
+}

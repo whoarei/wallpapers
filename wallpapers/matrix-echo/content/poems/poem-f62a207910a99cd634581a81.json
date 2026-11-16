@@ -1,0 +1,17 @@
+{
+  "id": "poem-f62a207910a99cd634581a81",
+  "title": "画眉郎・好女儿·雪絮雕章",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "雪絮雕章。",
+    "梅粉华妆。",
+    "小芒台、榧机罗湘素，鼓铜蟾砚滴，金雕琴写，玉燕钗梁。",
+    "五马徘徊长路，漫非意、凤求凰。",
+    "认兰情、自有怜才处，似题桥贵客，栽花潘令，真画眉郎。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-871",
+  "tags": []
+}

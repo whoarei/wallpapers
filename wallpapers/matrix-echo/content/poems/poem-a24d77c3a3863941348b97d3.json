@@ -1,0 +1,16 @@
+{
+  "id": "poem-a24d77c3a3863941348b97d3",
+  "title": "宿瓜州",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "烟昏水郭津亭晚，回望金陵若动摇。",
+    "冲浦回风翻宿浪，照沙低月歛残潮。",
+    "柳经寒露看萧索，人改衰容自寂寥。",
+    "官冷旧谙唯旅馆，岁阴轻薄是凉飙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-fc48d76d-a666-4b6b-9d4e-b54ce368198f"
+}

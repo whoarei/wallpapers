@@ -1,0 +1,16 @@
+{
+  "id": "poem-14acfac279f71c5e3d600847",
+  "title": "王寺丞后圃",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "不独甘棠茂午阴，浄如止水照人心。",
+    "楼通阊阖天垂斗，云锁蜿蜒鼎篆金。",
+    "袖里有春还自乐，尊前无客不能吟。",
+    "古菱花里青青鬓，半点吴霜不敢侵。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-4759c823-612f-4dd3-9f08-89296306e10c"
+}

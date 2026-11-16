@@ -1,0 +1,15 @@
+{
+  "id": "poem-e5fbb0f0ad0b3d4743560bf8",
+  "title": "句 一",
+  "author": "沈彬",
+  "dynasty": "唐",
+  "verses": [
+    "花片乱飞愁杀人。",
+    "（《永乐大典》卷八二二引《考古质疑》引葛次仲集句引。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-cb6e057e-9cba-43e7-b8e1-f7633442de22"
+}

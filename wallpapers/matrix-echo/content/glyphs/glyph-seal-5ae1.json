@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5ae1",
+  "script": "seal",
+  "character": "嫡",
+  "reading": "dí",
+  "description": "dí：(1)封建宗法制度中指正妻～庶。\n(2)正妻所生的～子。～出（正妻所生，区别于庶出”）。\n(3)亲的，血统最近的，封建宗法制度下家庭的正支～亲。～嗣。\n(4)系统最近的，正统的～系。～派。～传。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嫡"
+}

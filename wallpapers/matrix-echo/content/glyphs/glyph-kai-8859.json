@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8859",
+  "script": "kai",
+  "character": "衙",
+  "reading": "yá",
+  "description": "yá：(1)旧时官署之称公～。～门。～参（cān）（官吏到上司衙门，排班参见，禀白公事）。～役。\n(2)唐代皇帝前殿元和十五年正月……群臣始朝于宣政～”。\n(3)排列成行的事物槐～。柳～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-衙"
+}

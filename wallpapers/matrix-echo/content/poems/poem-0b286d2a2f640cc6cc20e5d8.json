@@ -1,0 +1,16 @@
+{
+  "id": "poem-0b286d2a2f640cc6cc20e5d8",
+  "title": "渡扬子江",
+  "author": "丁仙芝",
+  "dynasty": "唐",
+  "verses": [
+    "桂楫中流望，空波两岸明。",
+    "林开扬子驿，山出润州城。",
+    "海尽边阴静，江寒朔吹生。",
+    "更闻枫叶下，淅沥度秋声。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-渡揚子江"
+}

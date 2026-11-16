@@ -1,0 +1,18 @@
+{
+  "id": "poem-19c2c2823df5c4434f594afa",
+  "title": "始为奉礼忆昌谷山居",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "扫断马蹄痕，衙回自闭门。",
+    "长鎗江米熟，小树枣花春。",
+    "向壁悬如意，当帘阅角巾。",
+    "犬书曾去洛，鹤病悔游秦。",
+    "土甑封茶叶，山杯锁竹根。",
+    "不知船上月，谁櫂满溪云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-1bec046f-3d2a-4202-8402-29a7f60269ee"
+}

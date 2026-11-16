@@ -1,0 +1,19 @@
+{
+  "id": "poem-d133c6f7fe297b70b54e2388",
+  "title": "画堂春·东堂西畔有池塘",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "东堂西畔有池塘。",
+    "使君棐几明窗。",
+    "日西人吏散东廊。",
+    "蒲苇送清凉。",
+    "翠管细通岩溜，小峰重叠山光。",
+    "近池催置琵琶床。",
+    "衣带水风香。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-702",
+  "tags": []
+}

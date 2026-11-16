@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8e51",
+  "script": "seal",
+  "character": "蹑",
+  "reading": "niè",
+  "description": "蹑履相逢迎。\n⒉跟踪，追随追～。～踪。\n⒊动作很轻的样子，也作\"捏\"～手～脚。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蹑"
+}

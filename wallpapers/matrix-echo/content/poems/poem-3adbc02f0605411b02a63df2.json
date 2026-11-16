@@ -1,0 +1,18 @@
+{
+  "id": "poem-3adbc02f0605411b02a63df2",
+  "title": "西江月·我性入诸佛性",
+  "author": "张伯端",
+  "dynasty": "宋",
+  "verses": [
+    "我性入诸佛性，诸方佛性皆然。",
+    "亭亭蟾影照寒泉。",
+    "一月千潭普现。",
+    "小则毫分莫识，大时遍满三千。",
+    "高低不约信方圆。",
+    "说甚短长深浅。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-984",
+  "tags": []
+}

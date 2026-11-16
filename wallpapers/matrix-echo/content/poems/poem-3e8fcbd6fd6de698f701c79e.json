@@ -1,0 +1,16 @@
+{
+  "id": "poem-3e8fcbd6fd6de698f701c79e",
+  "title": "临江仙·雨停荷芰逗浓香",
+  "author": "阎选",
+  "dynasty": "五代",
+  "verses": [
+    "雨停荷芰逗浓香，岸边蝉噪垂杨。",
+    "物华空有旧池塘，不逢仙子，何处梦襄王。",
+    "珍簟对欹鸳枕冷，此来尘暗凄凉。",
+    "欲凭危槛恨偏长，藕花珠缀，犹似汗凝妆。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-21"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-e941ab99316fe6a099fd4992",
+  "title": "宿九华化成寺庄",
+  "author": "泠然",
+  "dynasty": "唐",
+  "verses": [
+    "佛寺孤庄千嶂间，我来诗境强相关。",
+    "岩边树动猿下涧，云里锡鸣僧上山。",
+    "松月影寒生碧落，石泉声乱喷潺湲。",
+    "明朝更蹑层霄去，誓共烟霞到老闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-2f55c11b-e673-49e6-a099-8c374336da3a"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "poem-09b3d44dc27da0440d9b1313",
+  "title": "横吹曲辞 出塞 一",
+  "author": "王昌龄",
+  "dynasty": "唐",
+  "verses": [
+    "秦时明月汉时关，万里长征人未还。",
+    "但使龙城飞将在，不教胡马度阴山。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-de6b7e3d-03cd-4daa-bdc2-7fb820fda441",
+  "tags": [
+    "唐诗三百首",
+    "战争",
+    "写景",
+    "忧国忧民",
+    "爱国",
+    "乐府",
+    "山",
+    "边塞"
+  ]
+}

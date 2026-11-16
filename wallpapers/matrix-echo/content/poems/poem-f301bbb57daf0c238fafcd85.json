@@ -1,0 +1,17 @@
+{
+  "id": "poem-f301bbb57daf0c238fafcd85",
+  "title": "浣溪沙·暖日温风破浅寒",
+  "author": "吕本中",
+  "dynasty": "宋",
+  "verses": [
+    "暖日温风破浅寒。",
+    "短青无数簇幽栏。",
+    "三年春在病中看。",
+    "中酒心情浑似梦，探花时候不曾闲。",
+    "几年芳信隔秦关。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-735",
+  "tags": []
+}

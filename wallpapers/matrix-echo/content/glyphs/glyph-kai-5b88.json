@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5b88",
+  "script": "kai",
+  "character": "守",
+  "reading": "shǒu",
+  "description": "shǒu：(1)保持，卫护～成（在事业上保持前人的成就）。～御。～身（爱护自身，保持自己的品节）。～节。～恒。～望相助。墨～成规。\n(2)看管看～。～护。\n(3)在一个地方不动～株待兔。留～。\n(4)遵照遵～。～法。～时。\n(5)维持原状，不想改变保～。因循～旧。\n(6)呆在一起厮～。\n(7)节操操～。\n(8)靠近，依傍～着水的地方，可多种稻子。\n(9)古代官名太～。～祧（中国周代掌管祭祀宗庙的官）。～刺（太守，刺史）。～令（指太守、刺史、县令等地方官）。\n(10)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-守"
+}

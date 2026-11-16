@@ -1,0 +1,16 @@
+{
+  "id": "poem-b0712f145c5a035711abc4d4",
+  "title": "观碁",
+  "author": "子兰",
+  "dynasty": "唐",
+  "verses": [
+    "拂局尽消时，能因长路迟。",
+    "点头初得计，格手待无疑。",
+    "寂默亲遗景，凝神入过思。",
+    "共藏多少意，不语两相知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-07a74718-94be-41f9-a43a-5c30490492f1"
+}

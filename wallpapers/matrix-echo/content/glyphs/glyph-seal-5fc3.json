@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5fc3",
+  "script": "seal",
+  "character": "心",
+  "reading": "xīn",
+  "description": "xīn：(1)人和高等动物体内主管血液循环的器官（通称心脏”）～包。～律。～衰。～悸。\n(2)中央，枢纽，主要的～腹。中～。\n(3)习惯上指思想的器官和思想情况，感情等～理。～曲。～魄。～地。～扉。衷～。～旷神怡。人～惟危。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-心"
+}

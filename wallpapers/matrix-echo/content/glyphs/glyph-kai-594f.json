@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-594f",
+  "script": "kai",
+  "character": "奏",
+  "reading": "zòu",
+  "description": "zòu：(1)作乐（yuè），依照曲调吹弹乐器演～。～国歌。～鸣曲。\n(2)封建时代臣子对皇帝陈述意见或说明事情启～。～议。～疏。～折。～本。～对。\n(3)呈现，取得～效。～功。～捷（取得胜利）。大～奇功。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-奏"
+}

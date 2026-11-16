@@ -1,0 +1,20 @@
+{
+  "id": "poem-0d580cd361242262b0391262",
+  "title": "浪淘沙·万恨苦绵绵",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "万恨苦绵绵。",
+    "旧约前欢。",
+    "桃花溪畔柳阴间。",
+    "几度日高春垂重，绣户深关。",
+    "楼外夕阳闲。",
+    "独自凭阑。",
+    "一重水隔一重山。",
+    "水阔山高人不见，有泪无言。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-729",
+  "tags": []
+}

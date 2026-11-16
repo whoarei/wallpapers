@@ -1,0 +1,16 @@
+{
+  "id": "poem-5236789f210300290323faaf",
+  "title": "僻居秋思寄友人",
+  "author": "伍乔",
+  "dynasty": "宋",
+  "verses": [
+    "门巷秋归更寂寥，雨余闲砌委兰苗。",
+    "梦回月夜虫吟壁，病起茅斋药满瓢。",
+    "泽国旧游关远思，竹林前会负佳招。",
+    "身名未立犹辛苦，何许流年晚鬓凋。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-f2bd645b-940c-41d1-a5a0-de0c495c6d7c"
+}

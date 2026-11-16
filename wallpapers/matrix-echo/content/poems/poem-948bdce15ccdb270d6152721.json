@@ -1,0 +1,21 @@
+{
+  "id": "poem-948bdce15ccdb270d6152721",
+  "title": "庆佳节·芳菲节",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "芳菲节。",
+    "芳菲节。",
+    "天意应不虚设。",
+    "对酒高歌玉壶阙。",
+    "慎莫负、狂风月。",
+    "人间万事何时歇。",
+    "空赢得、鬓成雪。",
+    "我有闲愁与君说。",
+    "且莫用、轻离别。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-295",
+  "tags": []
+}

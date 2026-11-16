@@ -1,0 +1,16 @@
+{
+  "id": "poem-2c45054f964dc5d2c2a4d716",
+  "title": "不雨",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "田欲龟文晓尚龟，高高如燎恐云焦。",
+    "未应天上无炎热，可是山中欠燮调。",
+    "草偃风颠凉自至，雨随车后暑应消。",
+    "冷菰寒玉关心外，却立虚庭望泬寥。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-aacbde8b-adf9-4438-ada6-a4dbc143c760"
+}

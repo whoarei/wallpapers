@@ -1,0 +1,14 @@
+{
+  "id": "poem-ecfb58b17eaa26920025bbe5",
+  "title": "长干行",
+  "author": "崔颢",
+  "dynasty": "唐",
+  "verses": [
+    "君家在何处？妾住在横塘。",
+    "停船暂借问，或恐是同乡。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-長幹行"
+}

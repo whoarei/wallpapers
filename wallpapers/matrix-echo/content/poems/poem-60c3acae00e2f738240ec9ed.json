@@ -1,0 +1,16 @@
+{
+  "id": "poem-60c3acae00e2f738240ec9ed",
+  "title": "感寓二首 一",
+  "author": "梁德裕",
+  "dynasty": "唐",
+  "verses": [
+    "彩云呈瑞质，五色发人寰。",
+    "独作龙虎状，孤飞天地间。",
+    "隐隐临北极，峨峨象南山。",
+    "恨在帝乡外，不逢枝叶攀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-12ae270e-cab4-4a34-b9a1-0aaa66c16f98"
+}

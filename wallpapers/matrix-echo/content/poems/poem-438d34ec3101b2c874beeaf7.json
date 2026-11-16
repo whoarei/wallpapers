@@ -1,0 +1,16 @@
+{
+  "id": "poem-438d34ec3101b2c874beeaf7",
+  "title": "拟长安春词",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "春信在河源，春风荡妾魂。",
+    "春歌杂𫛸鴂，春梦绕轘辕。",
+    "春絮愁偏满，春丝闷更繁。",
+    "春期不可定，春曲嬾新翻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-965c0cc3-6966-41d7-b599-eb83a6ee328d"
+}

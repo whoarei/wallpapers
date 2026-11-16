@@ -1,0 +1,24 @@
+{
+  "id": "poem-b657b1f89f3520847974c01f",
+  "title": "无题二首 一",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "昨夜星辰昨夜风，画楼西畔桂堂东。",
+    "身无彩凤双飞翼，心有灵犀一点通。",
+    "隔座送钩春酒暖，分曹射复蜡灯红。",
+    "嗟余听鼓应官去，走马兰台类断蓬。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "宴饮",
+    "七言律诗",
+    "爱情",
+    "相思",
+    "感慨",
+    "组诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-3410e7ce-df3a-4ab8-bea3-7f681661b240"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "poem-b0eeaee231d968cc29bed082",
+  "title": "客夜与故人偶集",
+  "author": "戴叔伦",
+  "dynasty": "唐",
+  "verses": [
+    "天秋月又满，城阙夜千重。",
+    "还作江南会，翻疑梦里逢。",
+    "风枝惊暗鹊，露草覆寒蛩。",
+    "羁旅长堪醉，相留畏晓钟。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "友情",
+    "写景",
+    "秋天",
+    "五言律诗",
+    "相聚"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-94ae3e7e-eb5d-414c-bfd6-124f50687ce5"
+}

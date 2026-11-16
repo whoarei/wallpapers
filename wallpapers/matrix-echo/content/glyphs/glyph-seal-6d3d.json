@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6d3d",
+  "script": "seal",
+  "character": "洽",
+  "reading": "qià",
+  "description": "qià：(1)跟人联系，商量面～。接～。\n(2)谐和融～。\n(3)广博，周遍博识～闻。\n(4)沾湿，浸润内～五脏。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-洽"
+}

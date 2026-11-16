@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9b3c",
+  "script": "seal",
+  "character": "鬼",
+  "reading": "guǐ",
+  "description": "guǐ：(1)某些宗教或迷信的人所说的人死后的灵魂～魂。～魅。～蜮（ａ．鬼怪；ｂ．阴险害人的）。\n(2)阴险，不光明～话。～黠。～胎。\n(3)对人的蔑称或憎称酒～。烟～。～子。吝啬～。\n(4)恶劣，糟糕（限做定语）～天气。\n(5)机灵，敏慧（多指小孩子）～精灵。\n(6)表示爱昵的称呼小～。机灵～。\n(7)星名，二十八宿之一。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鬼"
+}

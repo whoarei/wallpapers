@@ -1,0 +1,18 @@
+{
+  "id": "poem-e91911a5e12b4885e82c5826",
+  "title": "丑奴儿令・采桑子·红楼紫陌青春路",
+  "author": "康与之",
+  "dynasty": "宋",
+  "verses": [
+    "红楼紫陌青春路，柳色皇州。",
+    "月淡烟柔。",
+    "袅袅亭亭不自由。",
+    "旧时扶上雕鞍处，此地重游。",
+    "总是新愁。",
+    "柳自轻盈水自流。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-298",
+  "tags": []
+}

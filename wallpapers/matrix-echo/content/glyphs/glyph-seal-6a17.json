@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6a17",
+  "script": "seal",
+  "character": "樗",
+  "reading": "chū",
+  "description": "chū：〔～树〕即臭椿”。\n〔～蚕〕一种蚕，幼虫绿色，有白色黏粉，成虫灰白色，幼虫吃樗叶、蓖麻叶等。亦称椿蚕”。\n〔～蒲〕古代一种赌博游戏，像后代的掷骰子，后亦作为赌博的通称。\n〔～栎〕喻无用之材，亦作自谦之辞。亦称樗材”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-樗"
+}

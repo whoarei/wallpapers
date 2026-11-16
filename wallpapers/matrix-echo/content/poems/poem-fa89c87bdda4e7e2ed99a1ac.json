@@ -1,0 +1,13 @@
+{
+  "id": "poem-fa89c87bdda4e7e2ed99a1ac",
+  "title": "句",
+  "author": "扈蒙",
+  "dynasty": "宋",
+  "verses": [
+    "五凤齐飞入翰林。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-a83b6e27-3ab0-44da-9bd1-935864e53828"
+}

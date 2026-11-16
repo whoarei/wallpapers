@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-59e8",
+  "script": "kai",
+  "character": "姨",
+  "reading": "yí",
+  "description": "yí：(1)称母亲的姊妹～母。～妈。～父。\n(2)妻的姊妹大～子。小～子。\n(3)妾～太太。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-姨"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-832d",
+  "script": "seal",
+  "character": "茭",
+  "reading": "jiāo",
+  "description": "jiāo：(1)喂牲畜的干草峙乃刍～”。\n(2)用竹篾或芦苇编成的缆索。\n〔～白〕菰的嫩茎经某种病菌寄生后膨大，可做蔬菜。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茭"
+}

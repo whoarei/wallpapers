@@ -1,0 +1,16 @@
+{
+  "id": "poem-987fee62e2b45ba9d4b7a801",
+  "title": "偈颂（幷序○序为南岳齐己撰） 七十六",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "道死如枯木，波涛岂更违。",
+    "时人虽不顾，能歇海盲龟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-c6651441-1841-498e-8837-c70ed78b0f2f"
+}

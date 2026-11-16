@@ -1,0 +1,16 @@
+{
+  "id": "poem-c46ee02ef065f316a29edc81",
+  "title": "送李给事归徐州觐省",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "列位登青琐，还乡复彩衣。",
+    "共言晨省日，便是昼游归。",
+    "春水经梁宋，晴山入海沂。",
+    "莫愁东路远，四牡正𬴂𬴂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6bfafcb5-a3c8-43b7-892d-179ca8445df4"
+}

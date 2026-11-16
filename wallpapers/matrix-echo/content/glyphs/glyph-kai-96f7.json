@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-96f7",
+  "script": "kai",
+  "character": "雷",
+  "reading": "léi",
+  "description": "léi：(1)由于下雨时带异性电的两块云相接，空中闪电发出的强大的声音～电。～鸣。～动。～雨。～霆。～厉风行。\n(2)军事用的爆炸武器地～。鱼～。布～。扫～。～管。\n(3)姓。\n〔～池〕古水名，在今中国安徽省望江县。现用于成语不敢越～～一步”，喻不敢越出一定的范围。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-雷"
+}

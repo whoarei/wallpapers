@@ -1,0 +1,21 @@
+{
+  "id": "poem-0b5785a12de0a595dc2f1cdc",
+  "title": "河传·秋光向晚",
+  "author": "赵鼎",
+  "dynasty": "宋",
+  "verses": [
+    "秋光向晚。",
+    "叹羁游坐见。",
+    "年华将换。",
+    "一纸素书，拟托南来征雁。",
+    "奈雪深、天更远。",
+    "东窗皓月今宵满。",
+    "浅酌芳尊，暂倩嫦娥伴。",
+    "应念夜长，旅枕孤衾不暖。",
+    "便莫教、清影转。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-955",
+  "tags": []
+}

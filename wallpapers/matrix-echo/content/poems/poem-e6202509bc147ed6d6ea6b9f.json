@@ -1,0 +1,15 @@
+{
+  "id": "poem-e6202509bc147ed6d6ea6b9f",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生)一碗家常饭，何须苦挂牵？略且止饥寒。",
+    "有日春雷动，管取朝帝辇。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8797",
+  "tags": []
+}

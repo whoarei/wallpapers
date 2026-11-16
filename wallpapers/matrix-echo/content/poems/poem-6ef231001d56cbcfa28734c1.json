@@ -1,0 +1,19 @@
+{
+  "id": "poem-6ef231001d56cbcfa28734c1",
+  "title": "菊花新·怎奈花残又莺老",
+  "author": "杜安世",
+  "dynasty": "宋",
+  "verses": [
+    "怎奈花残又莺老。",
+    "槛里青梅数枝小。",
+    "新荷长池沼。",
+    "当晴昼、燕子声闹。",
+    "亭栏花绽颜色好。",
+    "风雨催催、等闲开了。",
+    "酒醒暗思量，无个事、甚刚烦恼。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-937",
+  "tags": []
+}

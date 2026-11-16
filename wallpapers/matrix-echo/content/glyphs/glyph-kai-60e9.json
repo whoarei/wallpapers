@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-60e9",
+  "script": "kai",
+  "character": "惩",
+  "reading": "chéng",
+  "description": "处罚\n改定\n克制;制止\n①处罚～处。\n②警戒～前毖后。\n【惩恶劝善】惩罚坏人，奖励好人。\n【惩戒】通过惩罚来达到警戒的目的。\n【惩前毖后】以过去的教训为警戒，谨防以后重犯错误。毖使谨慎。\n⒈警戒～前毖后。\n⒉责罚，处罚～罚。～办。严～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-惩"
+}

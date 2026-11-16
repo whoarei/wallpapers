@@ -1,0 +1,14 @@
+{
+  "id": "poem-c7fb2c4a19c3e42ce1f816b8",
+  "title": "扬之水",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "扬之水，不流束楚。终鲜兄弟，维予与女。无信人之言，人实诳女。",
+    "扬之水，不流束薪。终鲜兄弟，维予二人。无信人之言，人实不信。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-91"
+}

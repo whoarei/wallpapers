@@ -1,0 +1,18 @@
+{
+  "id": "poem-5ce37b8f89e8c52d8bc37807",
+  "title": "阁夜",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "岁暮阴阳催短景，天涯霜雪霁寒宵。",
+    "五更鼓角声悲壮，三峡星河影动摇。",
+    "野哭几家闻战伐，夷歌数处起渔樵。",
+    "卧龙跃马终黄土，人事依依漫寂寥。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-0f5874bf-3748-44c9-bc3a-be4a8c3eb2f6"
+}

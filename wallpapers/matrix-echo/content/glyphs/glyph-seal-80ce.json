@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80ce",
+  "script": "seal",
+  "character": "胎",
+  "reading": "tāi",
+  "description": "tāi：(1)人或其他哺乳动物母体内的幼体～儿。～生。～教（jiào）（指通过母体对胎儿施加影响，为胎儿发育提供良好的条件）。胚～。怀～。\n(2)事的开始，根源祸～。\n(3)器物的粗坯泥～。铜～。\n(4)衬在衣服、被褥面子和里子之间的东西棉花～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胎"
+}

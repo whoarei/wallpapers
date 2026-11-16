@@ -1,0 +1,16 @@
+{
+  "id": "poem-f578f1992f843ad4462eb500",
+  "title": "西",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "密云郊外已回秋，日下崦嵫景懒收。",
+    "秦帝城高坚似铁，李斯书上曲如钩。",
+    "宁惟东岳凌天秀，更有长庚瞰曙流。",
+    "见说山傍偏出将，犬戎降尽复何愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8987a0f6-a89c-4224-a462-67cb9e1a7282"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51a4",
+  "script": "kai",
+  "character": "冤",
+  "reading": "yuān",
+  "description": "yuān：(1)屈枉，无故受到指责或处分～枉。～屈。～案。～狱。～愤。伸～。鸣～叫屈。\n(2)仇恨～头。～家。～孽。\n(3)欺骗不许～人。\n(4)吃亏，上当～大头。花～钱。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-冤"
+}

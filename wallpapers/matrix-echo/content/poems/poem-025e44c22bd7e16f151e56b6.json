@@ -1,0 +1,16 @@
+{
+  "id": "poem-025e44c22bd7e16f151e56b6",
+  "title": "竹风亭",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "尽鉏菑翳了，华构绕筼筜。",
+    "矗矗半簷绿，疎疎六月凉。",
+    "雪林听响玉，粉节晕零霜。",
+    "话到杨州鹤，无非俗肺肠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-325bf593-4704-4cf8-96cb-db7c31c44f08"
+}

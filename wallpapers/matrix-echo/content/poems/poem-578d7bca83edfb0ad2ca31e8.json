@@ -1,0 +1,16 @@
+{
+  "id": "poem-578d7bca83edfb0ad2ca31e8",
+  "title": "客舍书情寄赵中丞",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "东楚复西秦，浮云类此身。",
+    "关山劳策蹇，僮仆惯投人。",
+    "孤客来千里，全家托四邻。",
+    "生涯难自料，中夜问[情亲]。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-039c2a5b-73bc-47b4-a6dd-68cb46a8dc59"
+}

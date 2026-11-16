@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8231",
+  "script": "kai",
+  "character": "舱",
+  "reading": "cāng",
+  "description": "船或飞机中分隔开来载人或装东西的部分\n构成宇宙飞船整体结构的一部分的一个独立单元\n船上用来盛水、油或液体的分隔仓柜\n①船或飞机中隔开用来载人或装行李物品的部分船～、客～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舱"
+}

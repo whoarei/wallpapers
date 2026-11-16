@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-71ce",
+  "script": "seal",
+  "character": "燎",
+  "reading": "liáo；liǎo",
+  "description": "liáo：(1)延烧～荒。～原烈火。\n(2)烫～泡。\n(3)照明。\nliǎo：挨近火而烧焦把头发～了。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-燎"
+}

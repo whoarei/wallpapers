@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e43",
+  "script": "kai",
+  "character": "乃",
+  "reading": "nǎi",
+  "description": "nǎi：(1)才今～得之。断其喉，尽其肉，～去”。\n(2)是，为～大丈夫也。\n(3)竟～至如此。\n(4)于是，就因山势高峻，～在山腰休息片时”。\n(5)你，你的～父。～兄。家祭无忘告～翁”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-乃"
+}

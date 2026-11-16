@@ -1,0 +1,14 @@
+{
+  "id": "poem-341367d3b44a41a21d749dcc",
+  "title": "过当涂",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "鸥鹭依寒水，蒹葭静晚风。",
+    "烟光秋雨细，树色碧山重。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-07de35b1-2bb7-4da6-a1da-bebf8fa105eb"
+}

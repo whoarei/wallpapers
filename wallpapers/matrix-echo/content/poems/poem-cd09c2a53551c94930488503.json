@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd09c2a53551c94930488503",
+  "title": "茤谷",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "赋就垂天起隠沦，鹜飞难并鹄亭亭。",
+    "池塘早已腾春馥，龙麝何烦乱德馨。",
+    "虚应有神元不死，静观无物不长灵。",
+    "双眸弗见南州士，莫作西山雨后青。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-1c6446ed-10e9-4ccb-a122-ceebe0ea52ce"
+}

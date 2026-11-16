@@ -1,0 +1,18 @@
+{
+  "id": "poem-49b1d0b109ab068555b9766b",
+  "title": "题马远作四皓弈棋图横卷",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "落落四皓翁，山林养其静。",
+    "羞为汉家臣，若辟秦苛政。",
+    "商颜高峨峨，坐待天下定。",
+    "欻起佐储皇，上前启名姓。",
+    "堪怜羽翼成，难将口舌争。",
+    "无语及扶苏，空歌紫芝咏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-7649c70d-88a1-4a3c-8c80-0d24cda7bec3"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-9e885a60663cad2039fe53b1",
+  "title": "闻城哭声有作",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "昨闻河畔哭哀哀，见说分离凡几回。",
+    "昔别长男居异域，今殇小子瘗泉台。",
+    "覊愁对此肠堪断，客舍闻之心转摧。",
+    "漂泊自然无限苦，况复存亡有去来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-a4240a32-199c-479d-8885-12984bfcc0c0"
+}

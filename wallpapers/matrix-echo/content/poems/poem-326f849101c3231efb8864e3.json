@@ -1,0 +1,22 @@
+{
+  "id": "poem-326f849101c3231efb8864e3",
+  "title": "和陶渊明归田园居六诗  其一",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "一室类蜂房，为食来穷山。",
+    "仅救饥火煎，跋履恐雕年。",
+    "平生丘壑念，回首鱼脱渊。",
+    "乡居何许家，菰茭满中田。",
+    "有儿可耕牧，枉滞章句间。",
+    "昨日鹊啅余，鴈书忽堕前。",
+    "云集南荡工，数灶腾青烟。",
+    "书卖犹可市，前功戒颓颠。",
+    "官业讵宜老，倦客志在闲。",
+    "置书命鸱夷，心事今泰然。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-22ac3c1a-6bb3-4956-a101-726daf34a4e0"
+}

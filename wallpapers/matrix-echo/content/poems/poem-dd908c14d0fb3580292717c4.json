@@ -1,0 +1,16 @@
+{
+  "id": "poem-dd908c14d0fb3580292717c4",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "适来它不担那酒米，我婆遂撩拨它说与，改日娘行与你娶贫女。",
+    "它欢喜冒雪担至。",
+    "你莫道，没这样儿。",
+    "苦欺它道没张志！。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2519",
+  "tags": []
+}

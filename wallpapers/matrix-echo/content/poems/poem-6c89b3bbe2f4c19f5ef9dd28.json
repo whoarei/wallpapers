@@ -1,0 +1,16 @@
+{
+  "id": "poem-6c89b3bbe2f4c19f5ef9dd28",
+  "title": "雪巢三首  其一",
+  "author": "林宪",
+  "dynasty": "宋",
+  "verses": [
+    "居闲我所愿，谋拙人所虑。",
+    "平淡固可嘉，饥来欲谁诉。",
+    "八十日彭泽，四十年郑圃。",
+    "前贤去就意，三复成喜惧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-60ee2d17-1b05-42a9-8068-1e2b06527307"
+}

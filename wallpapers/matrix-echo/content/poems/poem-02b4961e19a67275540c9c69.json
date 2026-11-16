@@ -1,0 +1,16 @@
+{
+  "id": "poem-02b4961e19a67275540c9c69",
+  "title": "郊庙歌辞 享太庙乐章 金奏",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "肃肃清庙，巍巍盛唐。",
+    "配天立极，累圣重光。",
+    "乐和管磬，礼备烝尝。",
+    "永惟来格，降福无疆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-15e0461a-bd33-4197-8613-4c7adffe3fdd"
+}

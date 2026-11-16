@@ -1,0 +1,14 @@
+{
+  "id": "poem-1a87cbfbda686ce7c03e03f3",
+  "title": "送晊师",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "九星台下煎茶别，五老峰头觅寺居。",
+    "作得新诗旋相寄，人来请莫达空书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-55839370-dff8-405f-a7fa-38486feffa91"
+}

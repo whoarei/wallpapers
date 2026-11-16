@@ -1,0 +1,16 @@
+{
+  "id": "poem-e9275b248409d934c59d4988",
+  "title": "同望幸新亭赐钱公宴",
+  "author": "李憕",
+  "dynasty": "唐",
+  "verses": [
+    "感梦通玄化，覃恩降紫宸。",
+    "赐钱开汉府，分帛醉尧人。",
+    "地隔朝宗庆，亭临卜洛新。",
+    "行看广云雨，二月次东巡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d10809a9-e7c1-4d27-8759-b4b32fe17fd4"
+}

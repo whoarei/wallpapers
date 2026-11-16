@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f2b",
+  "script": "seal",
+  "character": "伫",
+  "reading": "zhù",
+  "description": "zhù：长时间地站着～立。～候。～听。～思（久望而辗转思念）。～结（思念之情，积集于心）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-伫"
+}

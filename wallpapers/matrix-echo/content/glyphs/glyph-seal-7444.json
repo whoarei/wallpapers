@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7444",
+  "script": "seal",
+  "character": "瑄",
+  "reading": "xuān",
+  "description": "瑄xuān〈古〉用于祭天的璧。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瑄"
+}

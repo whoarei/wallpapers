@@ -1,0 +1,14 @@
+{
+  "id": "poem-2efcd54c53efd167ea8f7778",
+  "title": "临滹沱见蕃使列名",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "漠南春色到滹沱，碧柳青青塞马多。",
+    "万里关山今不闭，汉家频许郅支和。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-8806295e-05bb-40d8-9776-e4eaeee89d1a"
+}

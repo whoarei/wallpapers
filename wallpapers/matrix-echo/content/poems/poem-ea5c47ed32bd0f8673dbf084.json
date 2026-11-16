@@ -1,0 +1,16 @@
+{
+  "id": "poem-ea5c47ed32bd0f8673dbf084",
+  "title": "秋望",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "云阴惨澹柳阴稀，游子天涯一望时。",
+    "风闪雁行疎又密，地回江势急还迟。",
+    "荣枯物理终难测，贵贱人生自不知。",
+    "未达谁能多叹息，尘埃争损得男儿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6ae7f452-3573-4dac-8db4-11f0d6c266c0"
+}

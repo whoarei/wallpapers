@@ -1,0 +1,16 @@
+{
+  "id": "poem-36097dd927b59989b8b88155",
+  "title": "寄题寻真观",
+  "author": "李翔",
+  "dynasty": "唐",
+  "verses": [
+    "见说寻真地势雄，面临湖北倚高峰。",
+    "奔涛入夏雷声迅，险嶂凌秋黛色浓。",
+    "坛上步虚频降鹤，洞中投简数惊龙。",
+    "何劳更访桃源路，水曲云深千万重。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-e101ee7c-d8d2-4ffa-88a4-b8f18b9e6c4b"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5d1b",
+  "script": "kai",
+  "character": "崛",
+  "reading": "jué",
+  "description": "jué：高起，突起～起（a.山峰突起，如泰山平地～～”；b.喻兴起，如义军～～于村野”）。～立（耸立）。～崎。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-崛"
+}

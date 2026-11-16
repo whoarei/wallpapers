@@ -1,0 +1,16 @@
+{
+  "id": "poem-0461fa6c0a6e9c4b64f0cbe8",
+  "title": "敦煌廿咏（并序） 十七、望京门咏",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "郭门望京处，楼上启重𬮱。",
+    "水北通西域，桥东路入秦。",
+    "黄沙吐双径[三四]，白草生[三五]三春。",
+    "不见中华使，翩翩起虏尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-aeaf2ad5-abad-4d11-afbf-018e5f285f0e"
+}

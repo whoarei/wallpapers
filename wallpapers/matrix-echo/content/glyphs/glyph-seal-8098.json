@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8098",
+  "script": "seal",
+  "character": "肘",
+  "reading": "zhǒu",
+  "description": "zhǒu：上臂与前臂相接处向外凸起的部分胳膊～儿。掣～（捉住其肘，喻阻挠别人做事）。～子（a.肘；b.指食品的猪腿上半部）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肘"
+}

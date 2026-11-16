@@ -1,0 +1,15 @@
+{
+  "id": "poem-419bdf06fe7a3f834c8d6cf1",
+  "title": "黄台瓜辞",
+  "author": "章怀太子",
+  "dynasty": "唐",
+  "verses": [
+    "种瓜黄台下，瓜熟子离离。",
+    "一摘使瓜好，再摘使瓜稀。",
+    "三摘犹自可，摘绝抱蔓归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ef8c04bf-a29b-4537-bebb-256c6604126c"
+}

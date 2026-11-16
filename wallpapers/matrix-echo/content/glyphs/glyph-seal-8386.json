@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8386",
+  "script": "seal",
+  "character": "莆",
+  "reading": "pú",
+  "description": "pú：姓。\n〔～田〕地名，在中国福建省。\n〔～仙戏〕中国福建地方戏曲剧种之一，流行于莆田，游仙县一带。亦称兴化戏”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-莆"
+}

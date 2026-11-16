@@ -1,0 +1,21 @@
+{
+  "id": "poem-d771fcf08153bd134c7ea5cf",
+  "title": "和钱侍郎甘露",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "玄天何以言，瑞露青松繁。",
+    "忽见垂书迹，还惊涌澧源。",
+    "春枝晨袅袅，香味晓翻翻。",
+    "子礼忽来献，臣心固易敦。",
+    "清风惜不动，薄雾肯蒙昏。",
+    "嘉昼色更晶，仁慈久乃存。",
+    "一方难独占，天下恐争论。",
+    "侧听飞中使，重荣华德门。",
+    "从公乐万寿，余庆及儿孙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-2563d416-de47-440e-a4ae-30ffaa438e29"
+}

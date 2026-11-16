@@ -1,0 +1,20 @@
+{
+  "id": "poem-0167368eaa52075af2343de1",
+  "title": "水调歌头·九金增宋重",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "九金增宋重，八玉变秦馀。",
+    "千年清浸，洗净河洛出图书。",
+    "一段升平光景，不但五星循轨，万点共连珠。",
+    "垂衣本神圣，补衮妙工夫。",
+    "朝元去，锵环佩，冷云衢。",
+    "芝房雅奏，仪凤矫首听笙竽。",
+    "天近黄麾仗晓，春早红鸾扇暖，迟日上金铺。",
+    "万岁南山色，不老对唐虞。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-702",
+  "tags": []
+}

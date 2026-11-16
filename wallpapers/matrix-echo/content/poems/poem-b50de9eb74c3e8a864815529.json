@@ -1,0 +1,14 @@
+{
+  "id": "poem-b50de9eb74c3e8a864815529",
+  "title": "咏史诗 岘山",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "晓日登临感晋臣，古碑零落岘山春。",
+    "松间残露频频滴，酷似当时堕泪人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-cb4c81d1-250f-4421-b195-8e83c20edf9b"
+}

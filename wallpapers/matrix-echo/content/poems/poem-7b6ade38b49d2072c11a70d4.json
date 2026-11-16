@@ -1,0 +1,16 @@
+{
+  "id": "poem-7b6ade38b49d2072c11a70d4",
+  "title": "军山前马退石",
+  "author": "李翔",
+  "dynasty": "唐",
+  "verses": [
+    "山亘南丰石亘山，石横山路马登难。",
+    "非论蹇步须回驾，纵使追风亦解鞍。",
+    "恐是龙宫通洞府，莫应猿岭建星坛。",
+    "何因不许超骧辈，踏着连云大麓端。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-28958c31-0d3d-4757-bbf3-0511f02f2c03"
+}

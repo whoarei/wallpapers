@@ -1,0 +1,14 @@
+{
+  "id": "poem-f391f51ee06351e91d214b34",
+  "title": "独醒午坐",
+  "author": "王琮",
+  "dynasty": "宋",
+  "verses": [
+    "小槽停溜务厅闲，幕府文书省却难。",
+    "竟日裴回无俗意，祇因竹外有秋山。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-fab22fd5-7333-4e15-a337-a720306b7922"
+}

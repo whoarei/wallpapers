@@ -1,0 +1,16 @@
+{
+  "id": "poem-178fefc5521c88d9533832a8",
+  "title": "登骊山高顶寓目",
+  "author": "中宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "四郊秦汉国，八水帝王都。",
+    "阊阖雄里闬，城阙壮规模。",
+    "贯渭称天邑，含岐实奥区。",
+    "金门披玉馆，因此识皇图。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-c4305274-656b-4379-a658-eed9909fbaa2"
+}

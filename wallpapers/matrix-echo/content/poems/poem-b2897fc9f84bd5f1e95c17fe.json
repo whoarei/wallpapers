@@ -1,0 +1,19 @@
+{
+  "id": "poem-b2897fc9f84bd5f1e95c17fe",
+  "title": "忆王孙·萋萋芳草忆王孙",
+  "author": "李重元",
+  "dynasty": "宋",
+  "verses": [
+    "萋萋芳草忆王孙。",
+    "柳外楼高空断魂。",
+    "杜宇声声不忍闻。",
+    "欲黄昏。",
+    "雨打梨花深闭门。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-110"
+}

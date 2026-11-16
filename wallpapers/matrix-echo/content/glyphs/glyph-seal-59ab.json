@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-59ab",
+  "script": "seal",
+  "character": "妫",
+  "reading": "guī",
+  "description": "即妫水\n古州名。辖境相当于今河北省赤城、怀来等地\n妫guì 1.健狡。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-妫"
+}

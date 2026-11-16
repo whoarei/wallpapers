@@ -1,0 +1,16 @@
+{
+  "id": "poem-8d47a15a606a8154970e183c",
+  "title": "木兰花令·拟古决绝词",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "人生若只如初见，何事秋风悲画扇。",
+    "等闲变却故人心，却道故心人易变。",
+    "骊山语罢清宵半，泪雨霖铃终不怨。",
+    "何如薄幸锦衣郎，比翼连枝当日愿。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-1"
+}

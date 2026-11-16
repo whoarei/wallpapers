@@ -1,0 +1,17 @@
+{
+  "id": "poem-238a52a4bd520f94ae8e8ab4",
+  "title": "句",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "青山旧路在，白首醉还乡。",
+    "试到第三桥，便入千顷花。",
+    "乱后见淮水，归心忽迢遥。",
+    "乍疑鲸喷浪，忽似鹢凌风。",
+    "呀呷汀洲动，喧阗里巷空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-a91e04b7-d45c-4a8c-9305-6ddb40a840eb"
+}

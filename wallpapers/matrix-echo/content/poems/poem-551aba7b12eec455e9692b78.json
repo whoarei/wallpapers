@@ -1,0 +1,20 @@
+{
+  "id": "poem-551aba7b12eec455e9692b78",
+  "title": "咏古",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "大智思济物，道行心始休。",
+    "垂纶自消息，岁月任春秋。",
+    "纣虐武既贤，风云固可求。",
+    "顺天行杀机，所向协良谋。",
+    "况以丈人师，将济安川流。",
+    "何劳问枯骨，再取阴阳筹。",
+    "霸国不务仁，兵戈恣相酬。",
+    "空令渭水迹，千古独悠悠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b098ed67-25f5-43e3-ab71-d3ebec7caa1a"
+}

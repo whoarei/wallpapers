@@ -1,0 +1,14 @@
+{
+  "id": "poem-b8e4b3d76ad1acce95c10f40",
+  "title": "古风二首 一",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "春种一粒粟，秋成万颗子。",
+    "四海无闲田，农夫犹饿死。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-04970036-9dd8-4ad6-9193-4ac9731ad381"
+}

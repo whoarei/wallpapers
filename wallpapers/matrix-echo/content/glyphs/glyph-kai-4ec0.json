@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ec0",
+  "script": "kai",
+  "character": "什",
+  "reading": "shí；shén",
+  "description": "shí：(1)十（多用于分数或倍数）～百（十倍和百）。～一（十分之一）。～袭珍藏（形容极其珍重地收藏物品）。\n(2)各种的，各样的～锦（各种各样东西凑成的食品）。～物。\n(3)诗篇篇～。雅～。\nshén：〔～么〕ａ．代词，表示疑问，如～～人？”ｂ．代词，指不确定的事物，如没～～问题”（么”均读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-什"
+}

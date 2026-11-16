@@ -1,0 +1,14 @@
+{
+  "id": "poem-1ac07bcc2e060f95a3cf0c69",
+  "title": "丹霞本老见示拂子并颂次韵",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "钝根不会世间机，且作东山老住持。",
+    "有个旄牛闲拂子，用时由我不由伊。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-f85d7752-97ac-43b9-a363-3874c44f1572"
+}

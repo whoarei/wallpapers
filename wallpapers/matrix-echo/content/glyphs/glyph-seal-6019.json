@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6019",
+  "script": "seal",
+  "character": "怙",
+  "reading": "hù",
+  "description": "hù：依靠，仗恃～势。～恃（亦为父母的代称）。～乱（乘祸乱之际谋取私利）。～恶不悛（坚持作恶，不肯悔改）。失～（失了父亲）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怙"
+}

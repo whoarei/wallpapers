@@ -1,0 +1,16 @@
+{
+  "id": "poem-a29a39b81b26fdb7132902b9",
+  "title": "女冠子·四月十七",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "四月十七，正是去年今日。",
+    "别君时，忍泪佯低面，含羞半敛眉。",
+    "不知魂已断，空有梦相随。",
+    "除却天边月，没人知。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-20"
+}

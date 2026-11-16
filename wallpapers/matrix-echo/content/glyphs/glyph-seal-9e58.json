@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e58",
+  "script": "seal",
+  "character": "鹘",
+  "reading": "gǔ",
+  "description": "鹘鸼,鹘鸠\n鸷鸟名。即隼\n山中栖鹘。\n鹘仑吞枣\n⒉见hú。\n⒈鸟名。一种小鸠。似山鹊而小,短尾,青黑色,多声。古书上说的一种鸟即\"隼\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鹘"
+}

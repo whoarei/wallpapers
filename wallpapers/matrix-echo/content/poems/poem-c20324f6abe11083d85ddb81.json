@@ -1,0 +1,14 @@
+{
+  "id": "poem-c20324f6abe11083d85ddb81",
+  "title": "晓起",
+  "author": "赵崇鉘",
+  "dynasty": "宋",
+  "verses": [
+    "雨漂窗纸湿成瑕，风压瓷瓶卧枕沙。",
+    "晓起无悰饧粥冷，自添新水救梨花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-6081fc5c-ff29-4bfb-bebc-26b360e6b0d2"
+}

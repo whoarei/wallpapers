@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-55e3",
+  "script": "seal",
+  "character": "嗣",
+  "reading": "sì",
+  "description": "sì：(1)接续，继承～后（以后）。～岁（来年）。～响（继承前人之业，如回声之相应）。～徽（继承先人的美德、声誉）。\n(2)子孙后～。～子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嗣"
+}

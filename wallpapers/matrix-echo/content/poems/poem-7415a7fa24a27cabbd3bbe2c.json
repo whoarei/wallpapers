@@ -1,0 +1,17 @@
+{
+  "id": "poem-7415a7fa24a27cabbd3bbe2c",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(丑)潋滟流霞。",
+    "(生)酒保，你怎么把脸儿遮了？(丑)小人脸儿不那个，恐娘子见了不肯吃酒。",
+    "不比寻常卖酒家。",
+    "娘子请一杯。",
+    "(旦)我不会吃。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2978",
+  "tags": []
+}

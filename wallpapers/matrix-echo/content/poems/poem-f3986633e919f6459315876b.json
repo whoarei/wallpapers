@@ -1,0 +1,14 @@
+{
+  "id": "poem-f3986633e919f6459315876b",
+  "title": "绝句",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "两个黄鹂鸣翠柳，一行白鹭上青天。",
+    "窗含西岭千秋雪，门泊东吴万里船。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-絕句"
+}

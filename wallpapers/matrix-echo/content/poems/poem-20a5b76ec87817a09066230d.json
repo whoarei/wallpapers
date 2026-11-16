@@ -1,0 +1,21 @@
+{
+  "id": "poem-20a5b76ec87817a09066230d",
+  "title": "同题仙游观",
+  "author": "韩翃",
+  "dynasty": "唐",
+  "verses": [
+    "仙台下见五城楼，风物凄凄宿雨收。",
+    "山色遥连秦树晚，砧声近报汉宫秋。",
+    "疎松影落空坛静，细草香闲小洞幽。",
+    "何用别寻方外去，人间亦自有丹丘。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "向往",
+    "七言律诗",
+    "游历"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b411ce1e-ac09-4427-ab32-f8dc7a57e566"
+}

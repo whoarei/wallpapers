@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-87e0",
+  "script": "seal",
+  "character": "蟠",
+  "reading": "pán",
+  "description": "pán：屈曲，环绕，盘伏～蜿。～萦。～结。～踞（亦作蟠据”）。～道。～龙。～螭纹（中国春秋战国青铜器上纹饰之一，以盘曲的龙蛇组成）。～夔纹（中国殷和西周青铜器上纹饰之一，以盘曲的夔龙组成）。龙～虎踞。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蟠"
+}

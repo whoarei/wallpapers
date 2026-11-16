@@ -1,0 +1,16 @@
+{
+  "id": "poem-a944ce2b7878d81e23ddd357",
+  "title": "故观文建安刘公挽诗四首  其三",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "平日多奇节，中间似富公。",
+    "天从庐墓请，人说救荒功。",
+    "辛苦培邦本，雍容遏乱锋。",
+    "文传遗奏切，更过子囊忠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-df9f2149-af8e-4eb7-accb-3a711d2f8176"
+}

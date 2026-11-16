@@ -1,0 +1,16 @@
+{
+  "id": "poem-3ed0af08717647dbfbecd69c",
+  "title": "饮修仁茶",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "北苑龙团久不尝，修仁茗饮亦甘芳。",
+    "夸研鬭白工夫拙，辟瘴消烦气味长。",
+    "江表露芽空绝品，蜀中仙掌可同行。",
+    "从容饭罢何为者，一椀还兼一炷香。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-12c9f768-92aa-4862-a79b-589536d61be5"
+}

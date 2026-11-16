@@ -1,0 +1,16 @@
+{
+  "id": "poem-90c48bde38197c0d1c3c4209",
+  "title": "题裴晋公华岳庙题名",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "岳前大队赴淮西，从此中原息鼓鼙。",
+    "石阙莫教苔藓上，分明认取晋公题。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "华山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6faaea56-dbe9-459c-8592-d6cb02069bf2"
+}

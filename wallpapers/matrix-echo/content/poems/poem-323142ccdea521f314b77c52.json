@@ -1,0 +1,14 @@
+{
+  "id": "poem-323142ccdea521f314b77c52",
+  "title": "海棠",
+  "author": "苏轼",
+  "dynasty": "宋",
+  "verses": [
+    "东风袅袅泛崇光，香雾空蒙月转廊。",
+    "只恐夜深花睡去，故烧高烛照红妆。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-海棠"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-0bd76998e931485784d1fffe",
+  "title": "蓦山溪·楼前疏柳",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "楼前疏柳，柳外无穷路。",
+    "翠色四天垂，数峰青、高城阔处。",
+    "江湖病眼，偏向此山明，愁无语。",
+    "空凝伫。",
+    "两两昏鸦去。",
+    "平康巷陌，往事如花雨。",
+    "十载却归来，倦追寻、酒旗戏鼓。",
+    "今宵幸有，人似月婵娟，霞袖举。",
+    "杯深注。",
+    "一曲黄金缕。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-517",
+  "tags": []
+}

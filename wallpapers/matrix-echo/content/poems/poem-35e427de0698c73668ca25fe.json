@@ -1,0 +1,20 @@
+{
+  "id": "poem-35e427de0698c73668ca25fe",
+  "title": "减字木兰花·朝云横渡",
+  "author": "蒋氏女",
+  "dynasty": "宋",
+  "verses": [
+    "朝云横渡。",
+    "辘辘车声如水去。",
+    "白草黄沙。",
+    "月照孤村三两家。",
+    "飞鸿过也。",
+    "万结愁肠无昼夜。",
+    "渐近燕山。",
+    "回首乡关归路难。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-845",
+  "tags": []
+}

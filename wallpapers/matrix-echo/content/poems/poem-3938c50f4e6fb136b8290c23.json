@@ -1,0 +1,14 @@
+{
+  "id": "poem-3938c50f4e6fb136b8290c23",
+  "title": "春堤曲",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "野塘䴔䴖飞树头，绿蒲紫菱盖碧流。",
+    "狂客谁家爱云水，日日独来城下游。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0e878fb0-293f-4513-8624-4c57000921ff"
+}

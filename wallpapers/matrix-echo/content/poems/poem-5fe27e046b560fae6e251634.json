@@ -1,0 +1,14 @@
+{
+  "id": "poem-5fe27e046b560fae6e251634",
+  "title": "和子华游君贶园  其二",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "小桃似喜相君来，争发新花继落梅。",
+    "更仗环溪醒残酒，没篙春水绿于苔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-e594403f-015c-4a16-a5d6-16066ee5c06f"
+}

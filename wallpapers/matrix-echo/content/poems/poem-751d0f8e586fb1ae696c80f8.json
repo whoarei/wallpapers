@@ -1,0 +1,14 @@
+{
+  "id": "poem-751d0f8e586fb1ae696c80f8",
+  "title": "渔人",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "不求豪富不求官，衣钵相传一钓竿。",
+    "醉展绿蓑眠便得，满城风雨自春寒。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b77ee346-78c2-427b-aa10-aadfd2a717ca"
+}

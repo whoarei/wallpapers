@@ -1,0 +1,14 @@
+{
+  "id": "poem-7b4b068e0396b8f194b22161",
+  "title": "题云际寺暕上人故院",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "白发怱怱色，青山草草心。",
+    "远公仍下世，从此别东林。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-0b4365f7-5f12-44bf-aef1-b30e2762fe41"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-388f56f00741180322609103",
+  "title": "听绍上人琴",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "悠然勇变划然鸣，古恨沉沉易水生。",
+    "短发不禁愁触绪，恰如猿叫第三声。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-741960cf-ad91-4fe1-8ea3-3bf1733016cc"
+}

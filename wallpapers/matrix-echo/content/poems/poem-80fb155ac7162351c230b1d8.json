@@ -1,0 +1,15 @@
+{
+  "id": "poem-80fb155ac7162351c230b1d8",
+  "title": "敦煌廿咏（并序） 十六、贺拔堂咏",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "英雄传贺拔，割据王[三二]敦煌。",
+    "五郡征般匠，千金造寝堂。",
+    "绮檐安兽瓦，粉壁架鸿[三三]梁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-11dddae7-85fc-491c-8a2f-7cb4ef7c736a"
+}

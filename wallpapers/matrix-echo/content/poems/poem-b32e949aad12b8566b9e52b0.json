@@ -1,0 +1,21 @@
+{
+  "id": "poem-b32e949aad12b8566b9e52b0",
+  "title": "万年欢·秋后花窠",
+  "author": "程大昌",
+  "dynasty": "宋",
+  "verses": [
+    "秋后花窠，放两枝三朵，来通芳信。",
+    "诗眼惊观，谓是春光倒运。",
+    "便即移尊就赏，更不惜、黄封赤印。",
+    "何期道，青女专时，露华忽变霜阵。",
+    "诗翁笑、但休问。",
+    "那阳和有脚，骎骎日进。",
+    "待得灰飞，梅畹果先骋俊。",
+    "次后连天红紫，向东风、万般娇韵。",
+    "恁时节，玉勒狨鞍，郊原莫论远近。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-246",
+  "tags": []
+}

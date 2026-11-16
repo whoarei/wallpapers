@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-57ae",
+  "script": "kai",
+  "character": "垮",
+  "reading": "kuǎ",
+  "description": "kuǎ：(1)倒塌，坍塌房子～了。\n(2)败，坏～台。打～敌人。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-垮"
+}

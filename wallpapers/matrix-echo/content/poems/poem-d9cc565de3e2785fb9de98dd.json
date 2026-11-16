@@ -1,0 +1,15 @@
+{
+  "id": "poem-d9cc565de3e2785fb9de98dd",
+  "title": "越女词",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "越女芙蓉妆，浣纱清浅水。",
+    "忽惊春心晓，不敢思君子。",
+    "君子纵我思，宁来浣溪里。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-d5febff1-aa0d-482a-91ce-09733762f19d"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-30407b3f71b0e701789e70b7",
+  "title": "梅花",
+  "author": "林逋",
+  "dynasty": "宋",
+  "verses": [
+    "众芳摇落独鲜妍，占断风情向小园。",
+    "疏影横斜水清浅，暗香浮动月黄昏。",
+    "霜禽欲下先偷眼，粉蝶如知合断魂。",
+    "幸有微吟可相狎，不须檀板共金樽。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-梅花"
+}

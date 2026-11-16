@@ -1,0 +1,16 @@
+{
+  "id": "poem-8c2b04553e35017949b2024d",
+  "title": "女冠子·春山夜静",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "春山夜静，愁闻洞天疏磬。",
+    "玉堂虚，细雾垂珠佩，轻烟曳翠裙。",
+    "对花情脉脉，望月步徐徐。",
+    "刘阮今何处？绝来书。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-36"
+}

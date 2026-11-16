@@ -1,0 +1,14 @@
+{
+  "id": "poem-b22c7e71138b0b0b277fc8c1",
+  "title": "咏史诗 函谷关",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "寂寂函关锁未开，田文车马出秦来。",
+    "朱门不养三千客，谁为鸡鸣得放回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-96465c8a-c13e-451a-bef6-3b0b06e93e7c"
+}

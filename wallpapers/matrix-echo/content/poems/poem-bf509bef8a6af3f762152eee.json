@@ -1,0 +1,14 @@
+{
+  "id": "poem-bf509bef8a6af3f762152eee",
+  "title": "浣溪沙·翡翠屏开绣幄红",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "翡翠屏开绣幄红，谢娥无力晓妆慵，锦帷鸳被宿香浓。",
+    "微雨小庭春寂寞，燕飞莺语隔帘栊，杏花凝恨倚东风。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-31"
+}

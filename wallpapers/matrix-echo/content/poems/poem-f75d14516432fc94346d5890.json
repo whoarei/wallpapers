@@ -1,0 +1,20 @@
+{
+  "id": "poem-f75d14516432fc94346d5890",
+  "title": "虞美人·荒城又见重阳到",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "荒城又见重阳到。",
+    "狂醉还吹帽。",
+    "人生开口笑难逢。",
+    "何况良辰一半，别离中。",
+    "平台朱履登高处。",
+    "犹自怀人否。",
+    "且簪黄菊满头归。",
+    "惟有此花风韵、似年时。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-233",
+  "tags": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-c1197a16bfbf3ff665745635",
+  "title": "清平乐·留春不住",
+  "author": "王安石",
+  "dynasty": "宋",
+  "verses": [
+    "留春不住。",
+    "费尽莺儿语。",
+    "满地残红宫锦污。",
+    "昨夜南园风雨。",
+    "小怜初上琵琶。",
+    "晓来思绕天涯。",
+    "不肯画堂朱户，春风自在杨花。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-16"
+}

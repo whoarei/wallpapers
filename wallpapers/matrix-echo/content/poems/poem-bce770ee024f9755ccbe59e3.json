@@ -1,0 +1,15 @@
+{
+  "id": "poem-bce770ee024f9755ccbe59e3",
+  "title": "摘得新·酌一卮",
+  "author": "皇甫松",
+  "dynasty": "唐",
+  "verses": [
+    "酌一卮，须教玉笛吹。",
+    "锦筵红蜡烛，莫来迟。",
+    "繁红一夜经风雨，是空枝。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-22",
+  "tags": []
+}

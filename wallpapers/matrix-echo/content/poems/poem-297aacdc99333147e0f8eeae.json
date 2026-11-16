@@ -1,0 +1,15 @@
+{
+  "id": "poem-297aacdc99333147e0f8eeae",
+  "title": "麻婆子",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(丑上)做奴做奴空惆怅，何时得嫁马上郎？做奴做奴空劳攘，只落得一个晓夜忙。",
+    "遇冬节，巧梳妆，身穿一套好衣裳。",
+    "市人见了都夸奖，道我是个风流好养娘。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8323",
+  "tags": []
+}

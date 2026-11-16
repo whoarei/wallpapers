@@ -1,0 +1,18 @@
+{
+  "id": "poem-22c2c0888af48311ac00e07c",
+  "title": "江行有怀",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "秋水明川路，轻舟转石圻。",
+    "霜多山橘熟，寒至浦禽稀。",
+    "飞席乘风势，回流荡日晖。",
+    "昼行疑海若，夕梦识江妃。",
+    "野霁看吴尽，天长望洛非。",
+    "不知何岁月，一似暮潮归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-70185202-25af-412a-b5f9-5dc38903619d"
+}

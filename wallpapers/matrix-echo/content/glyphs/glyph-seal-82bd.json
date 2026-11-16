@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-82bd",
+  "script": "seal",
+  "character": "芽",
+  "reading": "yá",
+  "description": "yá：(1)植物的幼体，可以发育成茎、叶或花的那一部分发～。嫩～。幼～。萌～。豆～。\n(2)形状像芽的东西肉～（伤口愈合后多长出的肉）。银～（银矿苗）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芽"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-14171ba4bbffb42e86d595c8",
+  "title": "横吹曲辞 入塞曲 一",
+  "author": "僧贯休",
+  "dynasty": "唐",
+  "verses": [
+    "单于烽火动，都护去天涯。",
+    "别赐黄金甲，亲临白玉墀。",
+    "塞垣须静谧，师旅审安危。",
+    "定远条支宠，如今胜古时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-5dd824cf-e4bc-4a99-a85a-48e2688ebbb2"
+}

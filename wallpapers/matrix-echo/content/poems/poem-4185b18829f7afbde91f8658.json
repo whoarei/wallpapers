@@ -1,0 +1,16 @@
+{
+  "id": "poem-4185b18829f7afbde91f8658",
+  "title": "金山寺空上人院",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "已老金山顶，无心上石桥。",
+    "讲移三楚遍，梵译五天遥。",
+    "板阁禅秋月，铜瓶汲夜潮。",
+    "自慙昏醉客，来坐亦通宵。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-d1b869eb-0d87-4dbc-be12-8c3611e6891c"
+}

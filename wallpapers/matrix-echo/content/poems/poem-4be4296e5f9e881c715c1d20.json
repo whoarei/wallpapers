@@ -1,0 +1,16 @@
+{
+  "id": "poem-4be4296e5f9e881c715c1d20",
+  "title": "唐大飨拜洛乐章 通和",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "皇皇灵睠，穆穆神心。",
+    "暂动凝质，还归积阴。",
+    "功玄枢纽，理寂高深。",
+    "衔恩佩德，耸志翘襟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-8ee6bcb7-cb08-467c-91bd-ece8e555228c"
+}

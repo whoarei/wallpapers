@@ -1,0 +1,15 @@
+{
+  "id": "poem-75fd2b54b16959d2b27afd7a",
+  "title": "次韵郑教授见寄",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "泛梗飘萍逐水流，故人书到正霜秋。",
+    "扶颠拯溺多迂论，问舍求田更拙谋。",
+    "辇道凄凉沙碛外，钩陈寂寞楚江头。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-86562740-2d14-4236-b931-31a90d561659"
+}

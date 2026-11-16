@@ -1,0 +1,16 @@
+{
+  "id": "poem-26e4596385b7ae6c39131e30",
+  "title": "越公上人洛中归寄南孟家兄弟",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "洛下因归去，官西忆二龙。",
+    "笠漫河岸雪，衣着虢城钟。",
+    "睡鸭浮寒水，樵人出远峰。",
+    "贺当化闾俗，护取草堂松。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e0b8de07-28a5-44c2-8fb1-a70c701ba2a0"
+}

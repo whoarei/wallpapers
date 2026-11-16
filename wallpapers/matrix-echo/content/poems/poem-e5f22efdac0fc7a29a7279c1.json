@@ -1,0 +1,20 @@
+{
+  "id": "poem-e5f22efdac0fc7a29a7279c1",
+  "title": "郊庙歌辞 周宗庙乐舞辞 善庆舞",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "卜世长，帝祚昌。",
+    "定中国，服四方。",
+    "修明祀，从旧章。",
+    "奏激楚，转清商。",
+    "罗俎豆，列簪裳。",
+    "歌累累，容皇皇。",
+    "望来格，降休祥。",
+    "祝敢告，寿无疆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f8e557fd-6b68-47b3-b14f-b26de587fe6b"
+}

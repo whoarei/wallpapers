@@ -1,0 +1,22 @@
+{
+  "id": "poem-967295b0e8bca637237bd653",
+  "title": "蝶恋花·九里山前千里路",
+  "author": "陈师道",
+  "dynasty": "宋",
+  "verses": [
+    "九里山前千里路。",
+    "流水无情，只送行人去。",
+    "路转河回寒日暮。",
+    "连峰不许重回顾。",
+    "水解随人花却住。",
+    "衾冷香销，但有残妆污。",
+    "泪入长江空几许。",
+    "双洪一抹无寻处。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-330",
+  "tags": [
+    "长江"
+  ]
+}

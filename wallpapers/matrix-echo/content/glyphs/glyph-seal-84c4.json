@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-84c4",
+  "script": "seal",
+  "character": "蓄",
+  "reading": "xù",
+  "description": "xù：(1)积聚，储藏，保存～藏。～洪。～发（fà）。～养。积～。储～。兼收并～。\n(2)存于心中～志。～怨。～谋。～意‖～。\n(3)等待孰谓时之可～？”",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蓄"
+}

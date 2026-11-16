@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f96",
+  "script": "seal",
+  "character": "辖",
+  "reading": "xiá",
+  "description": "侍卫\n管辖\n卡,夹\n⒈车上的部件，用于挡住车轮，不使脱落车～。\n⒉管理统～。直～市。\n辖hé 1.见\"輵辖\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辖"
+}

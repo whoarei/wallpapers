@@ -1,0 +1,16 @@
+{
+  "id": "poem-75932ad1ef53d537f78623f2",
+  "title": "游仙窟诗 游后园",
+  "author": "崔五嫂",
+  "dynasty": "唐",
+  "verses": [
+    "极目游芳苑，相将对花林。",
+    "露净山光出，池鲜树影沈。",
+    "落花时泛酒，歌鸟或鸣琴。",
+    "是时日将夕，携樽就树阴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-e062740a-1ef6-4155-97bb-1909c7f67109"
+}

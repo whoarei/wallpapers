@@ -1,0 +1,14 @@
+{
+  "id": "poem-4102b569a1a45c7f9265720d",
+  "title": "和裴仆射看樱桃花",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "昨日南园新雨后，樱桃花发旧枝柯。",
+    "天明不待人同看，遶树重重履迹多。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-badab31e-682c-4658-9a2e-cb2b13e317f0"
+}

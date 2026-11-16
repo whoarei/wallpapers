@@ -1,0 +1,20 @@
+{
+  "id": "poem-caf32e59a5a385b726e34dc4",
+  "title": "看花回·屈指劳生百岁期",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "屈指劳生百岁期。",
+    "荣瘁相随。",
+    "利牵名惹逡巡过，奈两轮、玉走金飞。",
+    "红颜成白发，极品何为。",
+    "尘事常多雅会稀。",
+    "忍不开眉。",
+    "画堂歌管深深处，难忘酒盏花枝。",
+    "醉乡风景好，携手同归。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-75",
+  "tags": []
+}

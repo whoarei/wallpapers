@@ -1,0 +1,14 @@
+{
+  "id": "poem-210cff5d04dcba949136b9ed",
+  "title": "宫怨二首 一",
+  "author": "柯崇",
+  "dynasty": "唐",
+  "verses": [
+    "尘满金炉不炷香，黄昏独自立重廊。",
+    "笙歌何处承恩宠，一一随风入上阳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-b26c5161-22f5-4a5f-b324-e9f2928a73e4"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b40abd09b9c32f754d9d9587",
+  "title": "寒食野望",
+  "author": "熊孺登",
+  "dynasty": "唐",
+  "verses": [
+    "拜扫无过骨肉亲，一年唯此两三辰。",
+    "冢头莫种有花树，春色不关泉下人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-86979e4a-c861-428f-b333-b4f4a82f4f6d"
+}

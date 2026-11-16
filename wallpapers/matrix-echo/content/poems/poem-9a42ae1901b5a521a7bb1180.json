@@ -1,0 +1,16 @@
+{
+  "id": "poem-9a42ae1901b5a521a7bb1180",
+  "title": "同刘晃喜雨",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "节变寒初尽，时和气已春。",
+    "繁云先合寸，膏雨自依旬。",
+    "飒飒飞平野，霏霏静暗尘。",
+    "悬知花叶意，朝夕望中新。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-865bf66e-c1ad-4fee-8ab0-45876065155a"
+}

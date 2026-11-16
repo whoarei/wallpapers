@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-954c",
+  "script": "seal",
+  "character": "镌",
+  "reading": "juān",
+  "description": "用凹线、凹面或点雕刻\n喻深刻记住\n降低;减少\n降职\n镌刻\n⒈凿，开掘可～。〈引〉刻，雕刻～板。～碑文。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镌"
+}

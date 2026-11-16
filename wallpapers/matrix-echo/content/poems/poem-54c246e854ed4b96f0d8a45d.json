@@ -1,0 +1,15 @@
+{
+  "id": "poem-54c246e854ed4b96f0d8a45d",
+  "title": "挂真儿",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "东岳灵祠几程路，还心愿只得前去。",
+    "只虑家中，无人看觑，叫出孩儿说与。",
+    "(生上唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8628",
+  "tags": []
+}

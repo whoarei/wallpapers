@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65c4",
+  "script": "seal",
+  "character": "旄",
+  "reading": "máo；mào",
+  "description": "máo：古代用牦牛尾装饰的旗子上将拥～西出征，平明吹笛大军行”。\nmào：古同耄”，年老。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-旄"
+}

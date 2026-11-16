@@ -1,0 +1,16 @@
+{
+  "id": "poem-cc52541e8f47201b085a9ff6",
+  "title": "和李舍人直中书对月见寄",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "名卿步月正淹留，上客裁诗怨别游。",
+    "素魄近成班女扇，清光远似庾公楼。",
+    "婵娟更称凭高望，皎洁能传自古愁。",
+    "盈手入怀皆不见，阳春曲丽转难酬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-668bda10-2fcd-45a3-9795-a8393e22ae00"
+}

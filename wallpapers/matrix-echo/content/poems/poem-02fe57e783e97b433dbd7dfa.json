@@ -1,0 +1,16 @@
+{
+  "id": "poem-02fe57e783e97b433dbd7dfa",
+  "title": "画堂春·一生一代一双人",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "一生一代一双人，争教两处销魂。",
+    "相思相望不相亲，天为谁春。",
+    "浆向蓝桥易乞，药成碧海难奔。",
+    "若容相访饮牛津，相对忘贫。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-3"
+}

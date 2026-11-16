@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-69d0",
+  "script": "seal",
+  "character": "槐",
+  "reading": "huái",
+  "description": "huái：(1)落叶乔木。木材可供建筑和制家具。花蕾可做黄色染料～火（用槐木取火）。～序。～楝（ａ．中国周代朝廷种三槐九棘，公卿大夫分坐其下，后因以槐棘”指三公或三公之位；ｂ．指听讼的处所。均亦称棘槐”）。～鼎（喻三公）。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-槐"
+}

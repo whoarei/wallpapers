@@ -1,0 +1,14 @@
+{
+  "id": "poem-2eb5689a1f2093deb00d03a7",
+  "title": "诗二首  其二",
+  "author": "刘望之",
+  "dynasty": "宋",
+  "verses": [
+    "孤舟未晚泊，烟火傍人家。",
+    "小市常忧虎，空城不见花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-17ea9e13-671c-429d-bf63-aaabc501075d"
+}

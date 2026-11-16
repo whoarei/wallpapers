@@ -1,0 +1,16 @@
+{
+  "id": "poem-37675fb40165081bb6074185",
+  "title": "薄暮步村径",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "竹里荆扉掩，村前万物幽。",
+    "飞虫抟涧舞，鸣鹊抱巢修。",
+    "川上渔歌断，坡前牧课休。",
+    "淡烟随杖履，吾意自悠悠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-59a32830-79c2-4176-b0f9-c15f449dde45"
+}

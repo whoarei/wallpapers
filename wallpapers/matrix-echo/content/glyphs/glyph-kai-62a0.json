@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62a0",
+  "script": "kai",
+  "character": "抠",
+  "reading": "kōu",
+  "description": "抓牢\n⒈使用手指或细小的东西挖～个小孔。把钉子从壁缝中～出来。〈引〉向片面狭窄的方面去深求专～字眼。死～条文。\n⒉雕刻～花纹。\n⒊吝啬，小气此人太～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抠"
+}

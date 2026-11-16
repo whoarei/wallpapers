@@ -1,0 +1,16 @@
+{
+  "id": "poem-29bf8ac0d7459aa187db1308",
+  "title": "送王判官",
+  "author": "徐安贞",
+  "dynasty": "唐",
+  "verses": [
+    "明月开三峡，花源出五谿。",
+    "城池青壁里，烟火绿林西。",
+    "不畏王程促，惟愁仙路迷。",
+    "巴东下归櫂，莫待夜猨啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-0e108e6e-25e0-4682-b0c6-c985af3c67f4"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1b8ad9238cff2da4e2dd44fe",
+  "title": "寄宋使君",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "寺倚乌龙腹，窗中见碧棱。",
+    "空廊人画祖，古殿鹤窥灯。",
+    "风吼深松雪，炉寒一鼎冰。",
+    "唯应谢内史，知此道心澄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-958ba357-f213-43d2-b5c5-da1e222cfabc"
+}

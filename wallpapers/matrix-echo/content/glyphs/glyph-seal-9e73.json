@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e73",
+  "script": "seal",
+  "character": "鹳",
+  "reading": "guàn",
+  "description": "水鸟名\n鹳鹤\n鹳guàn鸟名。形状像鹤，嘴长而直，翼大尾短，羽毛灰色、白色或黑色。常见的为白～、黑～。生活于江、湖、池、沼的近旁，捕食鱼虾等。此鸟已少见，要保护，禁止猎杀。\n鹳huān 1.见\"鹳鷒\"。\n鹳quán 1.见\"鹳鹆\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鹳"
+}

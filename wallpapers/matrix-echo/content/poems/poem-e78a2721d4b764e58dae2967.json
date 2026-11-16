@@ -1,0 +1,18 @@
+{
+  "id": "poem-e78a2721d4b764e58dae2967",
+  "title": "上包祭酒",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "岳岳冠盖彦，英英文字雄。",
+    "琼音独听时，尘韵固不同。",
+    "春云生纸上，秋涛起胸中。",
+    "时吟五君咏，再举七子风。",
+    "何幸松桂侣，见知勤苦功。",
+    "愿将黄鹤翅，一借飞云空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-2bbe57c4-65b2-4f16-8039-2e2a70c1316a"
+}

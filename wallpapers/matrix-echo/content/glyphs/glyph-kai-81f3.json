@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-81f3",
+  "script": "kai",
+  "character": "至",
+  "reading": "zhì",
+  "description": "zhì：(1)到～此。自始～终。从古～今。～于。以～。甚～。\n(2)极、最～少。～亲。～交（最相好的朋友）。～诚。～高无上。～理名言。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-至"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-de9bb4a69227d501c438c6fd",
+  "title": "水调歌头·江水自石纽",
+  "author": "魏了翁",
+  "dynasty": "宋",
+  "verses": [
+    "江水自石纽，灌口怒腾辉。",
+    "便如黑水北出，迤逦到三危。",
+    "百尺长虹夭矫，两岸苍龙偃蹇，翠碧互因依。",
+    "古树百夫长，修竹万竿旗。",
+    "画堂开，风与月，巧相随。",
+    "史君领客行乐，旌纛立披披。",
+    "慨想二江遗迹，更起三闾忠愤，此日最为宜。",
+    "推本美功意，禹甸六章诗。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-421",
+  "tags": []
+}

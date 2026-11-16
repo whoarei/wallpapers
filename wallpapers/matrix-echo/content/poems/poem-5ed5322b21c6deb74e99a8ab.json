@@ -1,0 +1,20 @@
+{
+  "id": "poem-5ed5322b21c6deb74e99a8ab",
+  "title": "菩萨蛮·银潢清浅填乌鹊",
+  "author": "陈师道",
+  "dynasty": "宋",
+  "verses": [
+    "银潢清浅填乌鹊。",
+    "画檐急雨长河落。",
+    "初月未成圆。",
+    "明星惜此筵。",
+    "愁来无断绝。",
+    "岁岁年年别。",
+    "不用泪红滋。",
+    "年年岁岁期。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-294",
+  "tags": []
+}

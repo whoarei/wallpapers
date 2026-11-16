@@ -1,0 +1,15 @@
+{
+  "id": "poem-3902be1abada0c61be8611d9",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(外)休皱双眉，听俺从头说仔细。",
+    "我在东瓯发足，渡足登舟，一梦跷蹊。",
+    "(生)梦见甚的？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8348",
+  "tags": []
+}

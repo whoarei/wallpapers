@@ -1,0 +1,16 @@
+{
+  "id": "poem-4c03fab7dd597843f7067f94",
+  "title": "送鄂渚秋官陈伯奇兼柬阮广文",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "荣如李郭舟，小为蜀僧留。",
+    "江汉渺何许，琴书占上游。",
+    "贪程人易别，劳劝酒难酬。",
+    "黄鹤风烟古，何曾怕搅搜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-c838945a-684d-4f9c-b548-83b845e9884d"
+}

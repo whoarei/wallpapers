@@ -1,0 +1,16 @@
+{
+  "id": "poem-07143397bc086d6aa69ac413",
+  "title": "龙眠居士画十六大阿罗汉赞  其四",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "华林扰虎，手举数珠。",
+    "驯彼鬰屈，亦用兹乎。",
+    "巨颡修鳞，能怖童子。",
+    "慈眼视之，毒心自弭。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-1bfa6e45-aeea-4e83-9a7d-d636cacb0f96"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-5275aea13dbb95184517978c",
+  "title": "梦还京·夜来匆匆饮散",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "夜来匆匆饮散，敧枕背灯睡。",
+    "酒力全轻，醉魂易醒，风揭帘栊，梦断披衣重起。",
+    "悄无寐。",
+    "追悔当初，绣阁话别太容易。",
+    "日许时、犹阻归计。",
+    "甚况味。",
+    "旅馆虚度残岁。",
+    "想娇媚。",
+    "那里独守鸳帏静，永漏迢迢，也应暗同此意。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-70",
+  "tags": []
+}

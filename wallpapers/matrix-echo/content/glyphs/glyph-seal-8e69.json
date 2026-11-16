@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8e69",
+  "script": "seal",
+  "character": "蹩",
+  "reading": "bié",
+  "description": "bié：跛，扭伤了脚腕子～脚（ａ．跛脚；ｂ．；质量不好或技艺低劣、本领不高）。～伤。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蹩"
+}

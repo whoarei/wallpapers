@@ -1,0 +1,18 @@
+{
+  "id": "poem-6bc276650a8361edf005d090",
+  "title": "蓦山溪·梅花初谢",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "梅花初谢，雪后寒微峭。",
+    "谁送一城春，绮罗香、风光窈窕。",
+    "插花走马，天近宝鞭寒，金波上，玉轮边，不是红尘道。",
+    "玻璃山畔，夜色无由到。",
+    "深下水晶帘，拥严妆、铅华相照。",
+    "珠楼缈缈，人月两婵娟，尊前月，月中人，相见年年好。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-781",
+  "tags": []
+}

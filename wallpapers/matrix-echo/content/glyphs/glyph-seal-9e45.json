@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e45",
+  "script": "seal",
+  "character": "鹅",
+  "reading": "é",
+  "description": "鹅 é家禽。像鸭但比鸭大，颈长，喙扁阔，脚有蹼。羽毛白色或灰色，额部有橙黄色或黑褐色肉质突起，雄的突起较大。能游泳，吃谷物、蔬菜、鱼虾等。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鹅"
+}

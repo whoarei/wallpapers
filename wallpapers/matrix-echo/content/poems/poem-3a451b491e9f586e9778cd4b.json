@@ -1,0 +1,16 @@
+{
+  "id": "poem-3a451b491e9f586e9778cd4b",
+  "title": "送人出塞",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "北风吹雨雪，举目已凄凄。",
+    "战鬼秋频哭，征鸿夜不栖。",
+    "沙平关路直，碛广郡楼低。",
+    "此去非东鲁，人多事鼓鼙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-0a7a2237-9f1c-485e-a2b7-10d862ff7349"
+}

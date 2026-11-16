@@ -1,0 +1,16 @@
+{
+  "id": "poem-38952e24bb6fce38b92d7c40",
+  "title": "郊庙歌辞 五郊乐章 黑帝羽音 雍和",
+  "author": "魏征",
+  "dynasty": "唐",
+  "verses": [
+    "阳月斯纪，应钟在候。",
+    "载洁牲牷，爰登俎豆。",
+    "既高既远，无声无臭。",
+    "静言格思，惟神保祐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-db05caa8-e760-4912-9bd2-d17b2764abe8"
+}

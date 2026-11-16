@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ff6",
+  "script": "seal",
+  "character": "俶",
+  "reading": "chù；tì",
+  "description": "chù：(1)开始～扰。\n(2)作。\n(3)整理～装（整理行装）。\n(4)善令终有～”。\ntì：同倜”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-俶"
+}

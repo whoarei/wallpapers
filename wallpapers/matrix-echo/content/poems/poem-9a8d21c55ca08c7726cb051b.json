@@ -1,0 +1,16 @@
+{
+  "id": "poem-9a8d21c55ca08c7726cb051b",
+  "title": "郊庙歌辞 享太庙乐章 象德舞",
+  "author": "段文昌",
+  "dynasty": "唐",
+  "verses": [
+    "肃肃清庙，登显至德。",
+    "泽周八荒，兵定四极。",
+    "生物咸遂，群盗灭息。",
+    "明圣钦承，子孙千亿。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-24daec53-cf05-46fb-bfac-051e9eb4b8ce"
+}

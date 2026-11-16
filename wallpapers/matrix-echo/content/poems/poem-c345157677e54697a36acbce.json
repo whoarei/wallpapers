@@ -1,0 +1,20 @@
+{
+  "id": "poem-c345157677e54697a36acbce",
+  "title": "菩萨蛮·双双紫燕来华屋",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "双双紫燕来华屋。",
+    "雨馀芳草池塘绿。",
+    "一夜摆花风。",
+    "莺花满树红。",
+    "杯深君莫诉。",
+    "醉袖歌金缕。",
+    "无奈惜花心。",
+    "老来情转深。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-983",
+  "tags": []
+}

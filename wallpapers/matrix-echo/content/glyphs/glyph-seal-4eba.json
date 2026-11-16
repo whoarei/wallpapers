@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4eba",
+  "script": "seal",
+  "character": "人",
+  "reading": "rén",
+  "description": "rén：(1)由类人猿进化而成的能制造和使用工具进行劳动、并能运用语言进行交际的动物～类。\n(2)别人，他人～为刀俎，我为鱼肉”。待～热诚。\n(3)人的品质、性情、名誉丢～，文如其～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-人"
+}

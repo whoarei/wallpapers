@@ -1,0 +1,14 @@
+{
+  "id": "poem-3a0c4cdc3dfa99a87393e9b5",
+  "title": "戏题",
+  "author": "卢肇",
+  "dynasty": "唐",
+  "verses": [
+    "神女初离碧玉堦，彤云犹拥牡丹鞋。",
+    "知道相公怜玉腕，强将纤手整金钗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-8a75702b-396d-448c-916d-0dab9cde542b"
+}

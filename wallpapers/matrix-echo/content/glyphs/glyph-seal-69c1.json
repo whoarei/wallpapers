@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-69c1",
+  "script": "seal",
+  "character": "槁",
+  "reading": "gǎo",
+  "description": "gǎo：(1)枯干～木。枯～。～悴。～木死灰（喻心情冷漠，对一切事情无动于衷）。\n(2)古同藁”，草。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-槁"
+}

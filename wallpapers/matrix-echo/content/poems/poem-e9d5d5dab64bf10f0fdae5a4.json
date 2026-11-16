@@ -1,0 +1,19 @@
+{
+  "id": "poem-e9d5d5dab64bf10f0fdae5a4",
+  "title": "渡中江望石城泣下",
+  "author": "后主煜",
+  "dynasty": "唐",
+  "verses": [
+    "江南江北旧家乡，三十年来梦一场。",
+    "吴苑宫闱今冷落，广陵台殿已荒凉。",
+    "云笼远岫愁千片，雨打归舟泪万行。",
+    "兄弟四人三百口，不堪闲坐细思量。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "抒情",
+    "伤怀"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6533dc36-cc73-4798-b24a-fbff04fc2a85"
+}

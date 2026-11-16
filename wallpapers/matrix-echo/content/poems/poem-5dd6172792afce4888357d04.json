@@ -1,0 +1,16 @@
+{
+  "id": "poem-5dd6172792afce4888357d04",
+  "title": "古塞曲三首 三",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "百万精兵动，参差便渡辽。",
+    "如何好白日，亦照此天骄。",
+    "远树深疑贼，惊蓬迥似雕。",
+    "凯歌何日唱，碛路共天遥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-d71efae1-1556-4efc-83e4-500de066aa44"
+}

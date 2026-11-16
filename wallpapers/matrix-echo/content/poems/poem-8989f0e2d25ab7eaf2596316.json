@@ -1,0 +1,16 @@
+{
+  "id": "poem-8989f0e2d25ab7eaf2596316",
+  "title": "和君贶题潞公东庄",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "嵩峰远叠千重雪，伊浦低临一片天。",
+    "百顷平皋连别馆，两行疏柳拂清泉。",
+    "国须柱石扶丕构，人待楼航济巨川。",
+    "萧相方如左右手，且于穷僻置闲田。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-daab84ed-bf23-4614-a84e-a3cf367296e8"
+}

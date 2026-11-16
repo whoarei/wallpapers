@@ -1,0 +1,16 @@
+{
+  "id": "poem-eae2759be82a741bb9740cfb",
+  "title": "折槛行",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "呜呼房魏不复见，秦王学士时难羡。",
+    "青衿胄子困泥涂，白马将军若雷电。",
+    "千载少似朱云人，至今折槛空嶙峋。",
+    "娄公不语宋公语，尚忆先皇容直臣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-479f5094-eb0e-4254-a729-84bef1043f97"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5fad29a19745eb94db6e51ea",
+  "title": "秦筝怨（伯三八八五）",
+  "author": "宋家娘子",
+  "dynasty": "唐",
+  "verses": [
+    "玳瑁秦筝里，声声怨别离。",
+    "只缘多苦调，欲奏泪还垂。",
+    "妾意如弦直，君心学柱移。",
+    "𫏐时停不弄，音调早参差。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c987e46b-4ec1-40ae-a454-553d40735424"
+}

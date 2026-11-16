@@ -1,0 +1,14 @@
+{
+  "id": "poem-64f159d522ed310754e6c550",
+  "title": "月夜怀刘秀才",
+  "author": "元孚",
+  "dynasty": "唐",
+  "verses": [
+    "独夜相思但自劳，阮生吟罢梦云涛。",
+    "此时小定未禅寂，古塔月中松磬高。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-e9c101d4-3425-442b-bce2-dbd80d9f958e"
+}

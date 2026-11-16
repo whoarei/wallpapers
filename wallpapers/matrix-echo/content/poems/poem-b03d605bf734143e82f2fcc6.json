@@ -1,0 +1,14 @@
+{
+  "id": "poem-b03d605bf734143e82f2fcc6",
+  "title": "杨柳枝二首 二",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "数枝珍重蘸沧浪，无限尘心暂免忙。",
+    "烦暑若和烟露裛，便同佛手洒清凉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6da4721a-bf15-4aac-895e-db29bbadccd6"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-16a02b0a4ca12e301111db24",
+  "title": "登百丈峰二首 一",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "朝登百丈峰，遥望燕支道。",
+    "汉垒青冥间，胡天白如扫。",
+    "忆昔霍将军，连年此征讨。",
+    "匈奴终不灭，寒山徒草草。",
+    "唯见鸿雁飞，令人伤怀抱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-d42cb59a-2f8d-4fe9-9db7-1e973995ef42"
+}

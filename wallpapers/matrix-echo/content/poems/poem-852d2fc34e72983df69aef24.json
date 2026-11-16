@@ -1,0 +1,16 @@
+{
+  "id": "poem-852d2fc34e72983df69aef24",
+  "title": "谢白乐天招",
+  "author": "韬光",
+  "dynasty": "唐",
+  "verses": [
+    "山僧野性好林泉，每向岩阿倚石眠。",
+    "不解栽松陪玉勒，惟能引水种金莲。",
+    "白云乍可来青嶂，明月难教下碧天。",
+    "城市不能飞锡去，恐妨莺啭翠楼前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-d337e5a0-0265-4747-972f-d41a99d83489"
+}

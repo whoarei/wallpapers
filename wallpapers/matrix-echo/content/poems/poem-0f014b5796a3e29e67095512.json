@@ -1,0 +1,18 @@
+{
+  "id": "poem-0f014b5796a3e29e67095512",
+  "title": "题弋阳徐明府水亭",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "小邑不劳贤，心期胜地偏。",
+    "树微青嶂耸，沙浅碧波旋。",
+    "荡桨投昏岸，烧燔指湿烟。",
+    "板簷傍眺寺，石路上登舡。",
+    "水槛推衣浴，风轩侧枕眠。",
+    "无因长寄此，吟和酒中仙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-852966ee-e24a-40e8-be08-f9b7987aec6d"
+}

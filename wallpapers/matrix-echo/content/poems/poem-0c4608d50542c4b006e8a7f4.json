@@ -1,0 +1,16 @@
+{
+  "id": "poem-0c4608d50542c4b006e8a7f4",
+  "title": "古塞曲三首 一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "单于烽火动，都护去天涯。",
+    "别赐黄金甲，亲临白玉除。",
+    "塞垣须静谧，师旅审安危。",
+    "定远条支宠，如今胜古时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4f49601d-f757-4cd2-b8f0-4b8d6f05bb9d"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-77cd",
+  "script": "seal",
+  "character": "矍",
+  "reading": "jué",
+  "description": "jué：惊慌地看着～然（惊视的样子）。～～（左右惊顾的样子）。\n〔～铄〕形容年老而有精神的样子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-矍"
+}

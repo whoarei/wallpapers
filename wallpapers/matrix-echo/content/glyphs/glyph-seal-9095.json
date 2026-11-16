@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9095",
+  "script": "seal",
+  "character": "邕",
+  "reading": "yōng",
+  "description": "yōng：(1)古同雍”，和睦，和谐。\n(2)古同壅”，堵塞。\n(3)中国广西壮族自治区南宁市的别称。\n〔～江〕水名，在中国广西壮族自治区。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-邕"
+}

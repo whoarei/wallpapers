@@ -1,0 +1,16 @@
+{
+  "id": "poem-7a35bde8e83114be4bd95e6a",
+  "title": "驻马听",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "大众虔诚，法鼓金铙出寺迎。",
+    "诸天相敬，铜钟玉磬映山鸣。",
+    "眼前罗着药师灯，心中悬托着轩辕镜。",
+    "但能勾灵光一点明，登时间跳出琉璃井。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3408",
+  "tags": []
+}

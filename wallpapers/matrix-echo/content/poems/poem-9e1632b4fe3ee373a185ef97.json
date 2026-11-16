@@ -1,0 +1,18 @@
+{
+  "id": "poem-9e1632b4fe3ee373a185ef97",
+  "title": "纳凉",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "乔木万余株，清流贯其中。",
+    "前临大川口，豁达来长风。",
+    "涟漪涵白沙，素鲔如游空。",
+    "偃卧盘石上，翻涛沃微躬。",
+    "漱流复濯足，前对钓鱼翁。",
+    "贪饵凡几许，徒思莲叶东。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-4ba4b85f-3539-42c6-8cd7-c054d79b9331"
+}

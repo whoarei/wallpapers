@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9a82",
+  "script": "kai",
+  "character": "骂",
+  "reading": "mà",
+  "description": "增益。通雈”\n痛斥\n⒈用粗野的话侮辱人辱～。莫～人。\n⒉用严厉的话斥责～了他。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骂"
+}

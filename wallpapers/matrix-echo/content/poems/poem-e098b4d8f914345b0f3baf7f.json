@@ -1,0 +1,19 @@
+{
+  "id": "poem-e098b4d8f914345b0f3baf7f",
+  "title": "吊元鲁山 六",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "言从鲁山宦，尽化尧时心。",
+    "豺狼耻狂噬，齿牙闭霜金。",
+    "竞来辟田土，相与畊嵚岑。",
+    "当宵无关锁，竟岁饶歌吟。",
+    "善教复天术，美词非俗箴。",
+    "精微自然事，视听不可寻。",
+    "因书鲁山绩，庶合箫韶音。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-31ccc74f-fcdc-4ff9-a842-3380efbaaab2"
+}

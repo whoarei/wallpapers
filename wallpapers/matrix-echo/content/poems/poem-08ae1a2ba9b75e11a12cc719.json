@@ -1,0 +1,19 @@
+{
+  "id": "poem-08ae1a2ba9b75e11a12cc719",
+  "title": "越州怀古",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "振檝大江东，前林波万顷。",
+    "高秋海天阔，色落湖山影。",
+    "行寻王谢迹，望望登绝岭。",
+    "荒林草木瘦，古树泉石冷。",
+    "昔游不可见，牢落余风景。",
+    "穷愁心未死，一笔聊复秉。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-7c477b22-0ef3-48ee-86d4-b9403d805cb6"
+}

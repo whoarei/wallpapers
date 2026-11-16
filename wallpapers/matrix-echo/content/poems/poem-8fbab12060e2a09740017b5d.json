@@ -1,0 +1,16 @@
+{
+  "id": "poem-8fbab12060e2a09740017b5d",
+  "title": "送姚合郎中任杭州",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "水陆中分程，看花一月行。",
+    "会稽山隔浪，天竺树连城。",
+    "候吏赍鱼印，迎船载斾旌。",
+    "渡江春始半，列屿草初生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-303ad4fe-b67f-476e-aa48-0de91ba3e9f4"
+}

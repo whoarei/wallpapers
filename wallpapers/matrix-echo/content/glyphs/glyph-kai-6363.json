@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6363",
+  "script": "kai",
+  "character": "捣",
+  "reading": "dǎo",
+  "description": "冲击;攻打\n①用棍、杵之类砸、舂～蒜、～米。\n②捶打～衣服。\n③搅扰～乱。\n【捣鬼】暗中使用诡计。\n【捣毁】砸坏；击垮。\n捣chóu 1.丛集，稠密。参见\"捣蓍\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-捣"
+}

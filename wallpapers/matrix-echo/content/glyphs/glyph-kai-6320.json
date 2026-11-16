@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6320",
+  "script": "kai",
+  "character": "挠",
+  "reading": "náo",
+  "description": "搅,搅动\n⒈搅，搅动，扰乱～乱。阻～。\n⒉弯曲，屈服贞而不～。百折不～。\n⒊抓，搔～痒。\n挠rào 1.缠绕。 2.船桨。\n挠xiāo 1.见\"挠挑\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-挠"
+}

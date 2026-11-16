@@ -1,0 +1,14 @@
+{
+  "id": "poem-0694d74c7aa6333fb013fdd9",
+  "title": "北苑侍宴杂咏诗 松",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "细韵风中远，寒青雪后浓。",
+    "繁阴堪避雨，效用待东封。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-2c24b0c9-4ca8-4cc1-98b4-08e59f977e62"
+}

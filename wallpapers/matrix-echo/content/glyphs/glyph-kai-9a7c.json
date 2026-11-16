@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9a7c",
+  "script": "kai",
+  "character": "驼",
+  "reading": "tuó",
+  "description": "成块的东西。也作坨”\n人身体背部向后成拱形的\n用牲口负物。也作驮”\n其兽则\n⒈骆驼。\n⒉身体前曲，背脊突起如骆驼峰的样子～背。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-驼"
+}

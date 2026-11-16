@@ -1,0 +1,15 @@
+{
+  "id": "poem-180e532b931e8c95ced499a8",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(丑)撒盐未是比宜，不若柳絮风吹。",
+    "看氏空素魄团圆，并无-点尘翳。",
+    "看梅花香清韵美，比三姐娇容无二。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8803",
+  "tags": []
+}

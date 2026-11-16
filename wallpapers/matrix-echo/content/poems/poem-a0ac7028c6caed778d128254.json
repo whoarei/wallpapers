@@ -1,0 +1,14 @@
+{
+  "id": "poem-a0ac7028c6caed778d128254",
+  "title": "寻僧二首 二",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "溪户无人谷鸟飞，石桥横木挂禅衣。",
+    "看云日暮倚松立，野水乱鸣僧未归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-6a06afff-5756-4039-99c3-9c471a29613b"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e8c50d4de3be7be8a4a7f27",
+  "title": "生查子·暖日策花骢",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "暖日策花骢，亸鞚垂杨陌。",
+    "芳草惹烟青，落絮随风白。",
+    "谁家绣毂动香尘，隐遇难神仙客。",
+    "狂杀玉鞭郎，咫尺音容隔。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-12"
+}

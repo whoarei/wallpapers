@@ -1,0 +1,19 @@
+{
+  "id": "poem-dbf8f1acfca1dd8904a85f99",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)三娘本娇媚，三娘本娇媚，父母多年纪。",
+    "生长村庄勤纺织，攻针指。",
+    "愿降慈祥，父母双全喜。",
+    "(合前)生偷鸡介。",
+    "众惊介。",
+    "(外)神道灵异，把我祭物，金龙爪去了。",
+    "(末)这方见太公来得志诚。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8813",
+  "tags": []
+}

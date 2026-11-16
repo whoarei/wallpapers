@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-732b",
+  "script": "kai",
+  "character": "猫",
+  "reading": "māo；máo",
+  "description": "māo：(1)哺乳动物，面呈圆形，脚有利爪，行动敏捷，会捉老鼠。\n(2)方言，躲藏。\nmáo：〔～腰〕弯腰。亦称毛腰”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-猫"
+}

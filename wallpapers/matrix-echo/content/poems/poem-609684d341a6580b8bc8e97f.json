@@ -1,0 +1,16 @@
+{
+  "id": "poem-609684d341a6580b8bc8e97f",
+  "title": "村居",
+  "author": "林之奇",
+  "dynasty": "宋",
+  "verses": [
+    "日影满松窗，云开雨初止。",
+    "晴林梨栗熟，晓巷儿童喜。",
+    "牛羊深涧下，凫雁寒塘里。",
+    "田父酒新成，瓶瓮馈邻里。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-a24d8b39-ce77-4bbb-b7b3-b4804479ae80"
+}

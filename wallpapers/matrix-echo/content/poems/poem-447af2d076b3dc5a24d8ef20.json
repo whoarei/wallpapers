@@ -1,0 +1,14 @@
+{
+  "id": "poem-447af2d076b3dc5a24d8ef20",
+  "title": "太平歌",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "他求科举，指望锦衣归，不想道你留他为女婿。",
+    "(外)有缘千里能相会，须强他不得，。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5175",
+  "tags": []
+}

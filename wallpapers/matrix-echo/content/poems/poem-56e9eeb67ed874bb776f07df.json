@@ -1,0 +1,16 @@
+{
+  "id": "poem-56e9eeb67ed874bb776f07df",
+  "title": "再会夏石芝",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "自与君相别，骎骎已数年。",
+    "一缄书不寄，千里梦徒然。",
+    "雨店花新长，风櫺月几圆。",
+    "岭梅无恙否，愁满鬓丝边。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-f9338e03-2b4f-4bf8-9ab0-4c7fd65cccff"
+}

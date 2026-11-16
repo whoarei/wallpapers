@@ -1,0 +1,16 @@
+{
+  "id": "poem-f0f72a7889556f0a53207b3b",
+  "title": "卜居",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "桑弧蓬矢是男儿，故国松楸亦重违。",
+    "架搆自知惟壁立，绸缪谁敢羡翚飞。",
+    "桑麻地狭妻孥笑，堂庑簷低燕雀稀。",
+    "清世薄才何所用，求田问舍未应非。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-25004067-8dfc-4d2d-a70d-aa7224d8d2dc"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bb2",
+  "script": "seal",
+  "character": "讲",
+  "reading": "jiǎng",
+  "description": "⒈谈，说～普通话。～故事。\n⒉解释，说明～解。～课。\n⒊注重，顾到，谋求～清洁。～政策。～团结。\n⒋商讨，商议～价。～条件。\n①注重，探求～究整洁。～究效益。\n②精致，美观这个实验室相当～究。\n③一定的方法、道理或值得注意的翻译外国文学，在技巧上是大有～究的。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-讲"
+}

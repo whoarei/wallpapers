@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7406",
+  "script": "seal",
+  "character": "理",
+  "reading": "lǐ",
+  "description": "lǐ：(1)物质本身的纹路、层次，客观事物本身的次序心～。肌～。条～。事～。\n(2)事物的规律，是非得失的标准，根据～由。～性。～智。～论。～喻。～解。～想。道～。～直气壮。\n(3)自然科学，有时特指物理学”～科，数～化。～疗。\n(4)按事物本身的规律或依据一定的标准对事物进行加工、处置～财。～事。管～。自～。修～。总～。\n(5)对别人的言行作出反应～睬。答～。\n(6)古代指狱官、法官。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-理"
+}

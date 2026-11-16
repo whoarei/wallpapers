@@ -1,0 +1,14 @@
+{
+  "id": "poem-34efbf259c2e5c8b1dc521af",
+  "title": "酒醒",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "酒醒拨剔残灰火，多少凄凉在此中。",
+    "炉畔自斟还自醉，打窗深夜雪兼风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9f3e021b-7f42-4a98-b8da-1cd77f15ba57"
+}

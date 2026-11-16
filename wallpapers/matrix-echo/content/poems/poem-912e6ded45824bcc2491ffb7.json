@@ -1,0 +1,14 @@
+{
+  "id": "poem-912e6ded45824bcc2491ffb7",
+  "title": "和公度",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "多情佳客送春来，雉尾猫头次第栽。",
+    "从此庭前共苍翠，夭桃繁杏不须开。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-13cdfc9e-ec9a-4d52-815b-3a223002c654"
+}

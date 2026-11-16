@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-78c5",
+  "script": "kai",
+  "character": "磅",
+  "reading": "páng；bàng",
+  "description": "bàng：(1)英美制重量单位，一磅合0.45359237公斤。\n(2)用金属制成，底座上有承重金属板的台秤。\npáng：〔～礴〕ａ．广大无边，如气势～～”；ｂ．扩展，充满，如热情～～”。\n〔～音〕在证券、外汇等市场上，表示价格涨落的单位。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-磅"
+}

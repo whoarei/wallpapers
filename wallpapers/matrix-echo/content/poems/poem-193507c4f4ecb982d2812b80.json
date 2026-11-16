@@ -1,0 +1,16 @@
+{
+  "id": "poem-193507c4f4ecb982d2812b80",
+  "title": "使青夷军入居庸三首 二",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "古镇青山口，寒风落日时。",
+    "岩峦鸟不过，冰雪马堪迟。",
+    "出塞应无策，还家赖有期。",
+    "东山足松桂，归去结茅茨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-80a539fd-75f1-4590-83b2-5c7bf5c0c34c"
+}

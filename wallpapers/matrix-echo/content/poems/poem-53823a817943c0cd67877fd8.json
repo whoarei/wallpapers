@@ -1,0 +1,14 @@
+{
+  "id": "poem-53823a817943c0cd67877fd8",
+  "title": "赠薛勋下第",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "一掷虽然未得卢，惊人不用绕床呼。",
+    "牢之坐被青云逼，祗问君能酷似无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-b10ee1ae-744a-4af9-933a-05ca3cd49c06"
+}

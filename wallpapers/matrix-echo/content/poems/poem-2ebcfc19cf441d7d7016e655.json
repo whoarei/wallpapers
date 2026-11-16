@@ -1,0 +1,20 @@
+{
+  "id": "poem-2ebcfc19cf441d7d7016e655",
+  "title": "七谏·怨思",
+  "author": "东方朔",
+  "dynasty": "汉",
+  "verses": [
+    "贤士穷而隐处兮，廉方正而不容。",
+    "子胥谏而靡躯兮，比干忠而剖心。",
+    "子推自割而飤君兮，德日忘而怨深。",
+    "行明白而曰黑兮，荆棘聚而成林。",
+    "江离弃于穷巷兮，蒺藜蔓乎东厢。",
+    "贤者蔽而不见兮，谗谀进而相朋。",
+    "枭鸮并进而俱鸣兮，凤皇飞而高翔。",
+    "原壹往而径逝兮，道壅绝而不通。"
+  ],
+  "enabled": true,
+  "collection": "楚辞",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/楚辞/chuci.json#record-33",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6ce8",
+  "script": "kai",
+  "character": "注",
+  "reading": "zhù",
+  "description": "zhù：(1)灌进去～入。～射。大雨如～。\n(2)（精神、力量）集中在一点～视。～目。～意。\n(3)用文字来解释词名～解。～释。～音。夹～。\n(4)解释词句所用的文字～疏（注解和解释注解的文字的合称）。\n(5)记载，登记～册。～销。\n(6)赌博时所下金钱财物下～。赌～。\n(7)量词，多用于款项或交易一～钱。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-注"
+}

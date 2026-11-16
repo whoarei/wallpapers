@@ -1,0 +1,14 @@
+{
+  "id": "poem-2d2def792d9798c75f53c032",
+  "title": "浣溪沙·雁响遥天玉漏清",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "雁响遥天玉漏清，小纱窗外月胧明，翠帷金鸭炷香平。",
+    "何处不归音信断，良宵空使攀魂惊，簟凉枕冷不胜情。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-6"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-fcbe71d08e1b15adc96090ec",
+  "title": "虞美人·飞梁石径关山路",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "飞梁石径关山路。",
+    "惨淡秋容暮。",
+    "一行新雁破寒空。",
+    "肠断碧云千里、水溶溶。",
+    "鸾衾欲展谁堪共。",
+    "帘幕霜华重。",
+    "鸭炉香尽锦屏中。",
+    "幽梦今宵何许、与君同。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-960",
+  "tags": []
+}

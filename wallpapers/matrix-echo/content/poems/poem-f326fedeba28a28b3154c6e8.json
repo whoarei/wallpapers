@@ -1,0 +1,16 @@
+{
+  "id": "poem-f326fedeba28a28b3154c6e8",
+  "title": "晦日陪颜使君白苹洲集",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "南朝分古郡，山水似湘东。",
+    "堤月吴风在，湔裾楚客同。",
+    "桂寒初结斾，苹小欲成丛。",
+    "时晦佳游促，高歌听未终。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-d1b53657-010b-4711-969f-c489cace7eb5"
+}

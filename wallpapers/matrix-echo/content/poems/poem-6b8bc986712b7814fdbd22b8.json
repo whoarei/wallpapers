@@ -1,0 +1,16 @@
+{
+  "id": "poem-6b8bc986712b7814fdbd22b8",
+  "title": "次韵李西美舍人见寄二首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "虏骑长驱犯帝𬮱，滥陪国论敢谋身。",
+    "十年不得关河信，四海犹飞战伐尘。",
+    "驾驭英雄归睿主，扶持宗社赖元臣。",
+    "自惭老病无长策，徒奉藩条牧细民。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-503030e8-7558-4fff-9f65-2cf068d0157d"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-7aad2e9181cb8d8a8caff54b",
+  "title": "潇湘游",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "夷女采山蕉，缉纱浸江水。",
+    "野花满髻妆色新，闲歌[欸]乃深峡里。",
+    "[欸]乃知从何处生，当时泣舜肠断声。",
+    "翠华寂寞婵娟没，野筿空余红泪情。",
+    "青烟冥冥覆杉桂，崖壁凌天风雨细。",
+    "昔人幽恨此地遗，绿芳红艳含怨姿。",
+    "清猨未尽鼯鼠切，泪水流到湘妃祠。",
+    "北人莫作潇湘游，九疑云入苍梧愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-6f8b1f28-3851-4b7f-bd62-2b63eb67793d"
+}

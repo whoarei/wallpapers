@@ -1,0 +1,14 @@
+{
+  "id": "poem-2148dd1ebbf0ff147108d563",
+  "title": "即事",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "竹扉半掩不须敲，掠面融风著柳梢。",
+    "燕子不知春寂寞，自衔泥补去年巢。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-7e95c6ff-27f3-4966-aa3e-077c0b8dcfa8"
+}

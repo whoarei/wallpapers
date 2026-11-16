@@ -1,0 +1,16 @@
+{
+  "id": "poem-be8c4209d39c51cda307795f",
+  "title": "苦战行",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "苦战身死马将军，自云伏波之子孙。",
+    "干戈未定失壮士，使我叹恨伤精魂。",
+    "去年江南讨狂贼，临江把臂再难得。",
+    "别时孤云今不飞，时独看云泪横臆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-30658953-4fd6-4433-9d53-632ddbdd6113"
+}

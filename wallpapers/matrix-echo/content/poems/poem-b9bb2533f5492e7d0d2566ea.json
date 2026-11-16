@@ -1,0 +1,16 @@
+{
+  "id": "poem-b9bb2533f5492e7d0d2566ea",
+  "title": "偈",
+  "author": "重恽",
+  "dynasty": "唐",
+  "verses": [
+    "云幽一只箭，虚空无背面。",
+    "射去遍十方，要且无人见。",
+    "（《五灯会元》卷六。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-67e74460-e7c4-4b9b-b7eb-81f72b898b62"
+}

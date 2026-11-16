@@ -1,0 +1,18 @@
+{
+  "id": "poem-c991f1123f749bf757a91a57",
+  "title": "柳梢青·雨过风微",
+  "author": "曾觌",
+  "dynasty": "宋",
+  "verses": [
+    "雨过风微。",
+    "温泉浴倦，妃子妆迟。",
+    "翠袖牵云，朱唇得酒，脸晕胭脂。",
+    "年年海燕新归。",
+    "怎奈向、黄昏恁时。",
+    "倚遍琼干，烧残银烛，花又争知。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-422",
+  "tags": []
+}

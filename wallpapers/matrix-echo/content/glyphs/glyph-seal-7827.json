@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7827",
+  "script": "seal",
+  "character": "砧",
+  "reading": "zhēn",
+  "description": "zhēn：(1)捶、砸或切东西的时候，垫在底下的器具～板。～子。\n(2)形状和作用像砧子的～骨（听骨之一）。～木。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-砧"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6912",
+  "script": "kai",
+  "character": "椒",
+  "reading": "jiāo",
+  "description": "jiāo：〔花～〕ａ．落叶灌木或小乔木，果实球形，暗红色，种子黑色，可供药用或调味；ｂ．这种植物的果实，简称椒”，如～盐”。～酒”。～桂”（常用来喻贤人）。\n〔胡～〕ａ．常绿藤本植物，果实球形，红色，成熟后红黑色，味辛辣，可供药用或调味；ｂ．这种植物的果实。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-椒"
+}

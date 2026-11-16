@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7fb2",
+  "script": "seal",
+  "character": "羲",
+  "reading": "xī",
+  "description": "xī：姓。\n〔伏～〕中国神话中人类的始祖，和女祸”、神农”并称太古的三皇。简称羲”，如～皇”，～炎”（伏羲和炎帝。炎帝即神农），～轩”（伏羲和轩辕），～黄”（伏羲和黄帝），～经”（即《易经》，传说《易经》八卦为伏羲所作），～文”（伏羲和文王，传说伏羲画八卦，文王作卦辞）。\n〔～和〕a.羲氏”、和氏”，传说中掌天文历法的官吏；b.神话中驾日车的神；c.神话中太阳的母亲；d.中国汉代王莽时所设官名。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-羲"
+}

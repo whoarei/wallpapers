@@ -1,0 +1,16 @@
+{
+  "id": "poem-f2fb29b1bd8ccbd9ef443e10",
+  "title": "惠山寺",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "从来未到山头寺，应在武陵深处藏。",
+    "汉水文人生自拙，香山居士兴何长。",
+    "四旁岛屿娟娟绿，万顷菰蒲靡靡香。",
+    "且醉尊中眼前物，瀛洲蓬岛两微茫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-65c88cf7-ad70-4d08-a46c-94847a743b30"
+}

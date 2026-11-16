@@ -1,0 +1,15 @@
+{
+  "id": "poem-7c46abb27aed0425e756d93d",
+  "title": "扶南曲歌词五首 二",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "堂上青弦动，堂前绮席陈。",
+    "齐歌卢女曲，双舞洛阳人。",
+    "倾国徒相看，宁知心所亲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-200e8a61-6549-499e-99f4-3cb6a8172a6d"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-5dff6a3ef7dd9da19f674650",
+  "title": "生日  其二",
+  "author": "孙嵩",
+  "dynasty": "宋",
+  "verses": [
+    "鸿雁关河秋满眼，梧桐风雨冷吹衣。",
+    "蓼莪自是长休废，独立苍苔一叹欷。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-afb93102-f324-4ee7-8427-35868f559f45"
+}

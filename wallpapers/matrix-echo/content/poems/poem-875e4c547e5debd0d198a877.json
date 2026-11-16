@@ -1,0 +1,16 @@
+{
+  "id": "poem-875e4c547e5debd0d198a877",
+  "title": "寒食书事二首 二",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "出城烟火少，况复是今朝。",
+    "闲坐将谁语，临觞只自谣。",
+    "堦前春藓徧，衣上落花飘。",
+    "妓乐州人戏，使君心寂寥。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-186a3ef0-4ea6-4e6d-a87e-e60fd78cb793"
+}

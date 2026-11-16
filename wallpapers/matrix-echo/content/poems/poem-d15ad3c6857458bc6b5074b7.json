@@ -1,0 +1,14 @@
+{
+  "id": "poem-d15ad3c6857458bc6b5074b7",
+  "title": "寄河上段十六",
+  "author": "卢象",
+  "dynasty": "唐",
+  "verses": [
+    "与君相识即相亲，闻道君家住孟津。",
+    "为见行舟试借问，客中时有洛阳人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a6306074-ffac-44d0-848d-eb72dfc04a9b"
+}

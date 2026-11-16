@@ -1,0 +1,14 @@
+{
+  "id": "poem-35ed34be23c12fb5b9213c37",
+  "title": "恋芳春",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［旦止］宝篆香消，绣窗日永，又还节近清明。",
+    "暗里时更换，月老逼椿庭，惟愿双亲福寿康宁。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8074",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-bfba7462ecf81908bef01db7",
+  "title": "恭禧皇太后挽歌词三首 一",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "八月曾殊选，三星固异仪。",
+    "祔陵经灞浐，归赗杂华夷。",
+    "旌去题新谥，宫存鏁素帏。",
+    "重泉应不恨，生见太平时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-f71ef698-2204-4c30-9ee2-f9dcebb80ed4"
+}

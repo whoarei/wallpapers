@@ -1,0 +1,15 @@
+{
+  "id": "poem-0f45a14831077d54fb93c345",
+  "title": "荷叶杯·歌发谁家筵上",
+  "author": "顾敻",
+  "dynasty": "五代",
+  "verses": [
+    "歌发谁家筵上，寥亮。",
+    "别恨正悠悠，兰釭背帐月当楼。",
+    "愁么愁，愁么愁。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-22"
+}

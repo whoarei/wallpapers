@@ -1,0 +1,18 @@
+{
+  "id": "poem-c7530c58d1c3108c4b340cb0",
+  "title": "忆仙姿・如梦令·江上潮回风细",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "江上潮回风细。",
+    "红袖倚楼凝睇。",
+    "天际认归舟，但见平林如荠。",
+    "迢递。",
+    "迢递。",
+    "人更远于天际。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-38",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-64c5",
+  "script": "seal",
+  "character": "擅",
+  "reading": "shàn",
+  "description": "shàn：(1)超越职权，自作主张～专。～自。～行（xíng）。～断（专行）。专～独行。～离职守。\n(2)独揽，占有～权。～利。～兵（拥有兵权）。～国。～美。\n(3)长（cháng）于，善于～长（cháng）。不～辞令。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-擅"
+}

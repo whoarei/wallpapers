@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-95ee",
+  "script": "seal",
+  "character": "问",
+  "reading": "wèn",
+  "description": "⒈不知的或不明白的请人解答请～。询～。去～明白。\n⒉审讯，查究，惩办～案。～罪。胁从不～。\n⒊管，追究，考察，干预过～。这件事你要亲自去～。\n⒋安慰，慰劳～候。慰～。\n①要求回答或解释的题目。\n②需要研究讨论或尚待解决之事遗留～题。\n③关键或重要之点～题所在。\n④事故或意外那辆汽车出～题了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-问"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9694",
+  "script": "kai",
+  "character": "隔",
+  "reading": "gé",
+  "description": "gé：(1)遮断～开。～离。～绝。～断。阻～。\n(2)相去有一段距离～壁。～年。～行（háng）。～岸观火（喻见人遇到困难，漠不关心，采取观望或看热闹的态度）。～墙有耳。\n(3)思想感情有距离～阂。～膜。～心。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-隔"
+}

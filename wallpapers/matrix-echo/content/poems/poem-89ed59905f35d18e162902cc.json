@@ -1,0 +1,18 @@
+{
+  "id": "poem-89ed59905f35d18e162902cc",
+  "title": "春草凝露",
+  "author": "张友正",
+  "dynasty": "唐",
+  "verses": [
+    "苍苍芳草色，含露对青春。",
+    "已赖阳和长，仍慙润泽频。",
+    "日临残未滴，风度欲成津。",
+    "蕙叶垂偏重，兰丛洗转新。",
+    "将行愁裛迳，欲采畏濡身。",
+    "独爱池塘畔，清华远袭人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8bd75875-20ad-4b0c-8e73-948d5f282e4b"
+}

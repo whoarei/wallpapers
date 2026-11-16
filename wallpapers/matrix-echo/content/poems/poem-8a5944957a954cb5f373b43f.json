@@ -1,0 +1,14 @@
+{
+  "id": "poem-8a5944957a954cb5f373b43f",
+  "title": "光化踏青有感",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "引得车回莫认恩，却成寂寞与谁论。",
+    "到头不是君王意，羞插垂杨更傍门。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-03c930d2-cb7d-493a-a5df-0ba66deace2c"
+}

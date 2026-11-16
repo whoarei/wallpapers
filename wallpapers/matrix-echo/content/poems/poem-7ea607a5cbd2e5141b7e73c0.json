@@ -1,0 +1,16 @@
+{
+  "id": "poem-7ea607a5cbd2e5141b7e73c0",
+  "title": "三",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "兄弟相怜爱，同生莫异居。",
+    "为人欲得别，（「人」，伯三六五六卷作「若」。",
+    "）此则是兵奴。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-041d246a-3b2e-4a83-91c9-2e60952dc3a1"
+}

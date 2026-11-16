@@ -1,0 +1,14 @@
+{
+  "id": "poem-e4ff23d02aca31d39aad59c5",
+  "title": "题时遁泽画卷十首  其四",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "礉礉石林立，滃滃云壑閟。",
+    "万杉最深中，莫有前朝寺。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-6b387495-c99b-4d66-846e-ede5fe5cba6b"
+}

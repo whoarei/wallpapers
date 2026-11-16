@@ -1,0 +1,16 @@
+{
+  "id": "poem-4c50e73265a1885169f40961",
+  "title": "所居即事六首（原注：丹阳闲居寄郑明府如范上人。） 其四（原注：春日寓言。）",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "寂寞春风意未降，酒狂诗癖旧无双。",
+    "柳花飞处曾逢雪，桃叶开提忆渡江。",
+    "自古不堪居陋巷，从今休更犯危邦。",
+    "圣朝何用询名姓，从放书生老北窗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-eca96d99-534b-4d9f-865a-944e3e79e8ea"
+}

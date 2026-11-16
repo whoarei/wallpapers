@@ -1,0 +1,14 @@
+{
+  "id": "poem-6b9341bd13146cb45305e799",
+  "title": "咏史诗 嶓冢",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "夏禹崩来一万秋，水从嶓冢至今流。",
+    "当时若诉胼胝苦，更使何人别九州。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-91514ffb-c29d-4129-81e1-9d89cc13c7e7"
+}

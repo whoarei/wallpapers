@@ -1,0 +1,19 @@
+{
+  "id": "poem-9e8189a15214624937c17250",
+  "title": "点绛唇·病卧秋风",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "病卧秋风，懒寻杯酒追欢宴。",
+    "梦游都甸。",
+    "不改当年观。",
+    "故旧雕零，天下今无半。",
+    "烟尘远。",
+    "泪珠零乱。",
+    "怕问随阳雁。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-159",
+  "tags": []
+}

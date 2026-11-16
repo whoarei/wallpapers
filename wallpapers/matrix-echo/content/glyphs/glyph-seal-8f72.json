@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f72",
+  "script": "seal",
+  "character": "轲",
+  "reading": "kē",
+  "description": "专指古代孟子名\n⒈〈古〉一种车子。\n⒉见于人名。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-轲"
+}

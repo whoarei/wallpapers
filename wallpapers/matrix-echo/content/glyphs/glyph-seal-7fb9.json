@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7fb9",
+  "script": "seal",
+  "character": "羹",
+  "reading": "gēng",
+  "description": "gēng：用蒸煮等方法做成的糊状、冻状食物～汤。肉～。鸡蛋～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-羹"
+}

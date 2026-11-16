@@ -1,0 +1,14 @@
+{
+  "id": "poem-2c2c566f0b9875b77da1082e",
+  "title": "金谷览古",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "金谷园中数尺土，问人知是绿珠台。",
+    "绿珠歌舞天下绝，唯与石家生祸胎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-60bc0251-0d8a-488b-858c-310f6559d0d0"
+}

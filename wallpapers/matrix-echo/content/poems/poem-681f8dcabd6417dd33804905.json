@@ -1,0 +1,16 @@
+{
+  "id": "poem-681f8dcabd6417dd33804905",
+  "title": "春晴",
+  "author": "史卫卿",
+  "dynasty": "宋",
+  "verses": [
+    "平明晴可爱，眼界一湖春。",
+    "不见水中鹭，惟多堤上人。",
+    "梅花已白尽，柳色正青新。",
+    "日暮无歌舞，清幽属野身。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-b64bf08f-68a9-49af-a5c8-6f831b6930c5"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5e9ed48b5b661ad4c866b399",
+  "title": "探春令",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "彤云缭绕，六花飞遍，楼台银砌。",
+    "拥红炉，添兽炭，犹嫌冷。",
+    "看贫者谁肯相怜？尽道丰年瑞，丰年瑞若何？长安有贫者，宜瑞不宜多。",
+    "奴家岳氏秀英，不免上层楼上，做些女工针指。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8907",
+  "tags": []
+}

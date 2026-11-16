@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-666e",
+  "script": "kai",
+  "character": "普",
+  "reading": "pǔ",
+  "description": "pǔ：全，广，遍～遍。～通。～查。～照。～天同庆。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-普"
+}

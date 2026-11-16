@@ -1,0 +1,16 @@
+{
+  "id": "poem-ccbff3e63b9fe1e58bbb20e9",
+  "title": "鹭鸶",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "秋江清浅时，鱼过亦频窥。",
+    "却为分明极，翻成所得迟。",
+    "浴偎红日色，栖压碧芦枝。",
+    "会共鹓同侣，翺翔应可期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3cb2e663-bb27-40b3-abec-ba6ff12afce9"
+}

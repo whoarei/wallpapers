@@ -1,0 +1,23 @@
+{
+  "id": "poem-90cfaa9d50704003cd01fff8",
+  "title": "筹笔驿",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "猿鸟犹疑畏简书，风云常为护储胥。",
+    "徒令上将挥神笔，终见降王走传车。",
+    "管乐有才终不忝，关张无命欲何如。",
+    "他年锦里经祠庙，梁父吟成恨有余。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "七言律诗",
+    "典故",
+    "写人",
+    "咏史怀古"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-131c9f87-273f-4684-9b67-bd7b58ad4008"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-af5f057386027261e9acc7ec",
+  "title": "溪村晚望",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "宿鹭分行落照边，村藏深树远吹烟。",
+    "天然诗句无人识，划记寒沙抄一篇。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-bfa4d0af-82ff-48e2-96aa-3e8a976500b6"
+}

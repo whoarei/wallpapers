@@ -1,0 +1,16 @@
+{
+  "id": "poem-d9156ef4437bab139be1553c",
+  "title": "临江仙·暮蝉声尽落斜阳",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "暮蝉声尽落斜阳，银蟾影挂潇湘。",
+    "黄陵庙侧水茫茫。楚山红树，烟雨隔高唐。",
+    "岸泊渔灯风飐碎，白苹远散浓香。",
+    "灵娥鼓瑟韵清商，朱弦凄切，云散碧云长。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-32"
+}

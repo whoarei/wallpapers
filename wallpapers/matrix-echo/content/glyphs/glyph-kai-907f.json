@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-907f",
+  "script": "kai",
+  "character": "避",
+  "reading": "bì",
+  "description": "bì：(1)躲，设法躲开～雨。～暑。～世。～讳。回～。～重就轻。～世绝俗。\n(2)防止～免。～孕。～嫌。～雷针。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-避"
+}

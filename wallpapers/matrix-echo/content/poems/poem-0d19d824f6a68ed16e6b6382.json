@@ -1,0 +1,16 @@
+{
+  "id": "poem-0d19d824f6a68ed16e6b6382",
+  "title": "卜算子·一叶鉴中来",
+  "author": "魏杞",
+  "dynasty": "宋",
+  "verses": [
+    "一叶鉴中来，两岸青山起。",
+    "送我红蕖万柄香，疑在蓬壶里。",
+    "天地莹无尘，巾袂凉如水。",
+    "白浪无声月自高，不是人间世。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-546",
+  "tags": []
+}

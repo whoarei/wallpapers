@@ -1,0 +1,14 @@
+{
+  "id": "poem-6f7e833cb35808ec98beb602",
+  "title": "经涢川馆寄使府群公",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "涢川水竹十家余，渔艇蓬门对岸居。",
+    "大胜尘中走鞍马，与他军府判文书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-11804387-bd3a-45ad-87fc-186e892ef378"
+}

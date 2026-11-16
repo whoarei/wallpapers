@@ -1,0 +1,20 @@
+{
+  "id": "poem-601b11f8b8d773de4cfc134a",
+  "title": "长相思·沙棠舟",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "沙棠舟。",
+    "小棹游。",
+    "池水澄澄人影浮。",
+    "锦鳞迟上钩。",
+    "烟云愁。",
+    "箫鼓休。",
+    "再得来时已变秋。",
+    "欲归须少留。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-525",
+  "tags": []
+}

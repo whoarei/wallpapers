@@ -1,0 +1,14 @@
+{
+  "id": "poem-e4e4934a23861c7a7989b695",
+  "title": "颂古十九首  其一二",
+  "author": "释法全",
+  "dynasty": "宋",
+  "verses": [
+    "钵里饭，桶里水，狗子咬人不露齿。",
+    "堪笑韶阳老古锥，倒地至今犹未起。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-e77c1f60-06ee-4b7d-ae91-b99bc6382d13"
+}

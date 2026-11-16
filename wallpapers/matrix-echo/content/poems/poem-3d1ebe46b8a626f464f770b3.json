@@ -1,0 +1,14 @@
+{
+  "id": "poem-3d1ebe46b8a626f464f770b3",
+  "title": "西溪冬夜",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "并堤松柏与云齐，月夜青山一望低。",
+    "山鸟不惊人迹绝，步随流水到前溪。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-9196686b-cded-41b4-8256-722fb776418f"
+}

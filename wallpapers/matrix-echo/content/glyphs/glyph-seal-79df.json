@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-79df",
+  "script": "seal",
+  "character": "租",
+  "reading": "zū",
+  "description": "zū：(1)出代价暂用别人的东西～房。～用。～借地。\n(2)收取一定的代价，把房屋、土地、器物等借给别人使用～佃。～价。～让。～赁（ａ．出租；ｂ．租用）。\n(3)出租所收取的钱或实物房～。地～。\n(4)田赋～税。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-租"
+}

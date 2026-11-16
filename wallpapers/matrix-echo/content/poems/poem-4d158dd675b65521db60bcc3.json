@@ -1,0 +1,15 @@
+{
+  "id": "poem-4d158dd675b65521db60bcc3",
+  "title": "偈颂 四",
+  "author": "文偃",
+  "dynasty": "唐",
+  "verses": [
+    "是机是对对机迷，辟机（一作「尘」）尘远远机（《僧宝传》卷二作「尘」）栖。",
+    "夕日日中谁有挂，因底底事隔情（《僧宝传》作「尘」）迷。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-60918b7c-cb83-44ae-bbab-9a6732b1a956"
+}

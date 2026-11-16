@@ -1,0 +1,17 @@
+{
+  "id": "poem-9adb915024c7daf2aa8b2b0f",
+  "title": "遣兴五首 四",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "蓬生非无根，漂荡随高风。",
+    "天寒落万里，不复归本丛。",
+    "客子念故宅，三年门巷空。",
+    "怅望但烽火，戎车满关东。",
+    "生涯能几何，常在羁旅中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-cf5404fd-70f0-47b7-a4a8-8a2a7fb671c4"
+}

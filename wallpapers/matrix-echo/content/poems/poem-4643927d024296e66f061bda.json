@@ -1,0 +1,16 @@
+{
+  "id": "poem-4643927d024296e66f061bda",
+  "title": "惠州访东坡旧隐",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "海上归来访老坡，依然遗迹未销磨。",
+    "松风亭下梅花老，鹤观峰头乔木多。",
+    "垂世文章灿星斗，平生忧患足风波。",
+    "华堂满龛题诗笔，人事其如天定何。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-49c0c62d-a301-4394-9966-1b8e6a941f8c"
+}

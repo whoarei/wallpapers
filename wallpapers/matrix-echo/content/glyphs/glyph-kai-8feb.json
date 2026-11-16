@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8feb",
+  "script": "kai",
+  "character": "迫",
+  "reading": "pò；pǎi",
+  "description": "pò：(1)用强力压制，硬逼逼～。～害。压～。强～。胁～。～降（jiàng）。～降（xiáng）。～不得已。\n(2)接近～近。～冬。\n(3)急促急～。～切。～不及待。\n(4)狭窄地势局～。\npǎi：〔～击炮〕一种火炮。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-迫"
+}

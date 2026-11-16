@@ -1,0 +1,16 @@
+{
+  "id": "poem-217f8127d03a9432d532e8c3",
+  "title": "君贶环溪",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "地胜风埃外，门深花竹间。",
+    "波光冷于玉，溪势曲如环。",
+    "荣路回翔厌，华轩啸咏闲。",
+    "堪羞谢太傅，不复到东山。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-dcd6f171-0707-41a3-93f1-751f3afe4c66"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-c015bc372d7c10d2d0cd86cd",
+  "title": "浣溪沙·风递残香出绣帘",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "风递残香出绣帘，团窠金凤舞襜襜，落花微雨恨相兼。",
+    "何处去来狂太甚，空推宿酒睡无厌，怎教人不别猜嫌。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-43"
+}

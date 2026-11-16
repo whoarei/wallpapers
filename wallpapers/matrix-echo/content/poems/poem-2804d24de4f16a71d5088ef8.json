@@ -1,0 +1,14 @@
+{
+  "id": "poem-2804d24de4f16a71d5088ef8",
+  "title": "牧童",
+  "author": "卢肇",
+  "dynasty": "唐",
+  "verses": [
+    "谁人得似牧童心，牛上横眠秋听深。",
+    "时复往来吹一曲，何愁南北不知音。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-65e7bb97-8b44-486d-9046-9a575f9ec7a7"
+}

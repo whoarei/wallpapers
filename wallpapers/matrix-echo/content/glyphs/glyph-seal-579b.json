@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-579b",
+  "script": "seal",
+  "character": "垛",
+  "reading": "duǒ；duò",
+  "description": "duǒ：(1)墙或某些建筑物突出的部分，有支撑或掩蔽作用～子。～堞（城墙上凹凸状矮墙，即女儿墙”）。城～。\n(2)土筑的箭靶子箭～。射～。中（zhòng）～。\nduò：(1)整齐地堆积起来～积。堆～。\n(2)整齐地堆积成的堆麦～。草～。\n(3)量词，用于堆砌起来的东西一～墙。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-垛"
+}

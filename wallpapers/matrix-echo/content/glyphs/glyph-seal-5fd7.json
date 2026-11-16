@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5fd7",
+  "script": "seal",
+  "character": "志",
+  "reading": "zhì",
+  "description": "zhì：(1)意向～愿。～气。～趣（志向和兴趣）。～士（有坚决意志和高尚节操的人）。～学。\n(2)记，记在心里～喜。～哀。永～不忘。\n(3)记号标～。\n(4)记载的文字杂～。～怪（记载怪异的事）。\n(5)称轻重，量长短、多少～子。用碗～～。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-志"
+}

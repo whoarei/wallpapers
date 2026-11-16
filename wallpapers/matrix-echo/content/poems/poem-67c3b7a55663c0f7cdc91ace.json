@@ -1,0 +1,14 @@
+{
+  "id": "poem-67c3b7a55663c0f7cdc91ace",
+  "title": "颂古三十一首  其一○",
+  "author": "释安永",
+  "dynasty": "宋",
+  "verses": [
+    "不放溪东西，随分纳些儿。",
+    "冷暖只自知，分明说向谁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-cfe64923-c032-4303-b333-d4fdb580be57"
+}

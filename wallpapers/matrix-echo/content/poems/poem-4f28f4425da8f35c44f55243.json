@@ -1,0 +1,15 @@
+{
+  "id": "poem-4f28f4425da8f35c44f55243",
+  "title": "日诗",
+  "author": "赵匡胤",
+  "dynasty": "唐",
+  "verses": [
+    "欲出未出光辣达（一作「太阳初出光赫赫」），千山万山如火发，须臾走向天下来（一作「一轮顷刻上天衢」），逐却（一作「退」）残（一作「群」）星赶却（一作「与残」）月。",
+    "（见《说郛》卷五陈郁《藏一话腴》，校以陈岩肖《庚溪诗话》卷上。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-eb5dcddd-59f7-4e4a-a2e3-e20c2a0e3d47"
+}

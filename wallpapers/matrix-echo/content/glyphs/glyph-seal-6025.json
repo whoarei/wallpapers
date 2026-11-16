@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6025",
+  "script": "seal",
+  "character": "急",
+  "reading": "jí",
+  "description": "jí：(1)焦燥～燥。着～。焦～。\n(2)气恼，发怒～眼。\n(3)使着急这件事真～人。\n(4)匆促～促。～功近利（急于求目前的成效和利益）。\n(5)迅速，又快又猛～流。～进。～先锋。～风暴雨。\n(6)迫切，要紧～切。～诊。～事。\n(7)严重告～。\n(8)对大家的事情或别人的困难尽快帮助～人之难。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-急"
+}

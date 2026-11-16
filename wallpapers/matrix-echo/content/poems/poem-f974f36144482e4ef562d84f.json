@@ -1,0 +1,20 @@
+{
+  "id": "poem-f974f36144482e4ef562d84f",
+  "title": "蝶恋花·一望瑶华初委地",
+  "author": "黄裳",
+  "dynasty": "宋",
+  "verses": [
+    "一望瑶华初委地。",
+    "更约幽人，共赏岩边翠。",
+    "拭把方诸聊与试。",
+    "无情争得无中泪。",
+    "飞瀑恐从星汉至。",
+    "渐向宾筵，但觉寒如水。",
+    "自爱一轮方得意。",
+    "轻随箕毕还成累。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-639",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-c49fb4a579b1262de1194988",
+  "title": "山中冬夜",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "寒叶风摇尽，空林鸟宿稀。",
+    "涧冰妨鹿饮，山雪阻僧归。",
+    "夜坐尘心定，长吟语力微。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-6d853633-4327-42cd-aed2-ee371fe58ec5"
+}

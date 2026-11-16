@@ -1,0 +1,15 @@
+{
+  "id": "poem-196c6da4a58157d9c8aeee89",
+  "title": "定西番·海燕欲飞调羽",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "海燕欲飞调羽。萱草绿，杏花红，隔帘栊。",
+    "双鬓翠霞金缕，一枝春艳浓。",
+    "楼上月明三五，琐窗中。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-27",
+  "tags": []
+}

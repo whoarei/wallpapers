@@ -1,0 +1,16 @@
+{
+  "id": "poem-756836e409f9418d4ad7bbf1",
+  "title": "吊进士杨邺",
+  "author": "卢肇",
+  "dynasty": "唐",
+  "verses": [
+    "名未荣身亲在堂，九重泉路去何忙。",
+    "夫妻镜里鸾分影，兄弟云中雁断行。",
+    "林木萧疏花失色，池亭牢落月无光。",
+    "思君欲向灵山哭，又恐猿闻更断肠。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-cc0d859d-e13c-4ea7-88e8-b7735d131dc9"
+}

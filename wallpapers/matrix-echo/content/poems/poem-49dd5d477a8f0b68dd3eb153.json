@@ -1,0 +1,22 @@
+{
+  "id": "poem-49dd5d477a8f0b68dd3eb153",
+  "title": "秋霁·木落山明",
+  "author": "曾纡",
+  "dynasty": "宋",
+  "verses": [
+    "木落山明，暮江碧，楼倚太虚寥廓。",
+    "素手飞觞，钗头笑取，金英满浮桑落。",
+    "鬓云慢约。",
+    "酒红拂破香腮薄。",
+    "细细酌。",
+    "帘外任教、月转画阑角。",
+    "当年快意登临，异乡节物，难禁离索。",
+    "故人远、凌波何在，惟有残英共寂寞。",
+    "愁到断肠无处著。",
+    "寄寒香与，凭渠问讯佳时，弄粉吹花，为谁梳掠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-68",
+  "tags": []
+}

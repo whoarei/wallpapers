@@ -1,0 +1,16 @@
+{
+  "id": "poem-aeca31e574b833d2c27c7c97",
+  "title": "天台瀑布",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "万仞得名云瀑布，远看如织挂天台。",
+    "休疑宝尺难量度，直恐金刀易剪裁。",
+    "喷向林梢成夏雪，倾来石上作春雷。",
+    "欲知便是银河水，堕落人间合却廻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e3381503-fa01-421e-844d-f5001c50b7cc"
+}

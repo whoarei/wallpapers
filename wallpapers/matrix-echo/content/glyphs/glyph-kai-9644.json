@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9644",
+  "script": "kai",
+  "character": "附",
+  "reading": "fù",
+  "description": "fù：(1)另外加上，随带着～体。～件。～带（ａ．另外有所补充的；ｂ．非主要的）。～庸。～会（ａ．把不相关连的事勉强拉到一起，如牵强～～”；ｂ．组织文章、布局谋篇、命意修辞等创作活动，如精思～～，十年乃成”）。～赘悬疣。\n(2)同意，赞同随声～和。～议。\n(3)捎带一男～书至”。\n(4)靠近～近。～耳低言。\n(5)依从依～。归～。趋炎～势。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-附"
+}

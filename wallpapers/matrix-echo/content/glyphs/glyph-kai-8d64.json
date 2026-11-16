@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d64",
+  "script": "kai",
+  "character": "赤",
+  "reading": "chì",
+  "description": "chì：(1)红色，比朱色稍暗的颜色～血。～字。\n(2)真诚，忠诚～诚（极其真诚）。～忱。～子（纯洁无暇的初生婴儿，古代亦指百姓）。～胆忠心。\n(3)空无所有～手空拳。～地千里。\n(4)裸露～脚（光脚）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赤"
+}

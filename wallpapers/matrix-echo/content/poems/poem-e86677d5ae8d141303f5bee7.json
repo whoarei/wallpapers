@@ -1,0 +1,14 @@
+{
+  "id": "poem-e86677d5ae8d141303f5bee7",
+  "title": "离歌辞五首  其四",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "暂别劳相送，佳期愿莫违。",
+    "朱颜不须老，留取待郎归。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-d8056244-45fe-4f7c-9d0a-85cee8a335d2"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-85dc",
+  "script": "seal",
+  "character": "藜",
+  "reading": "lí",
+  "description": "lí：一年生草本植物，茎直立，嫩叶可吃。茎可以做拐杖（亦称灰条菜”）～仗。～藿（指粗劣的饭菜）。\n〔～芦〕多年生草本植物，叶细长，花紫黑色，有毒，可入药。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-藜"
+}

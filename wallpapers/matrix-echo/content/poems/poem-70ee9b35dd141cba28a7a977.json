@@ -1,0 +1,16 @@
+{
+  "id": "poem-70ee9b35dd141cba28a7a977",
+  "title": "庆云见",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "礼成中岳陈金册，祥报卿云冠玉峰。",
+    "轻未透林疑待凤，细非行雨讵从龙。",
+    "卷风变彩霏微薄，照日笼光映隐重。",
+    "还入九霄成沆瀣，夕岚生处鹤归松。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-d30fdec9-9662-4837-8d6f-c781bf7355ae"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-21911a695d9f7b3d5dcead41",
+  "title": "又和六日四老会",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "萸房迎令节，菊蘂入芳筵。",
+    "华烛初长夜，清霜未冷天。",
+    "悲风咽横吹，骤雨送繁弦。",
+    "聊附邹枚客，敢希园绮贤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-a8f67dbd-a21f-41fc-a10b-49f95bcedf2c"
+}

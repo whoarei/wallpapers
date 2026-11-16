@@ -1,0 +1,14 @@
+{
+  "id": "poem-c447b11e9da70c9c881d4e56",
+  "title": "孤雁",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "叫入青云忆弟兄，影随双翮见分明。",
+    "黄昏独过秋江上，自拣芦花歇又惊。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-05a3a57f-35e2-4e39-9910-aae4a533b9cd"
+}

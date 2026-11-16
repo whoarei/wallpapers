@@ -1,0 +1,14 @@
+{
+  "id": "poem-19b5998e002407070034a152",
+  "title": "偶题二首 一",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "买骨须求骐骥骨，爱毛宜采凤皇毛。",
+    "驽骀燕雀堪何用，仍向人前价例高。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-409ac501-f726-41d2-b592-d21557e75699"
+}

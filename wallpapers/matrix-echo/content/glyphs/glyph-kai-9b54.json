@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9b54",
+  "script": "kai",
+  "character": "魔",
+  "reading": "mó",
+  "description": "mó：(1)宗教或神话传说中指害人性命、迷惑人的恶鬼，喻邪恶的势力～王。～爪。～怪。～鬼。～掌。～窟。恶～。妖～。病～。\n(2)不平常，奇异的～力。～术。～怔（举动异常，像有精神病。怔”读轻声）。～法。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-魔"
+}

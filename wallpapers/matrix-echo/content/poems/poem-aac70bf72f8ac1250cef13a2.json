@@ -1,0 +1,18 @@
+{
+  "id": "poem-aac70bf72f8ac1250cef13a2",
+  "title": "洛阳道",
+  "author": "任翻",
+  "dynasty": "唐",
+  "verses": [
+    "憧憧洛阳道，尘下生青草。",
+    "行者岂无家，无人在家老。",
+    "鸡鸣前结束，争去恐不早。",
+    "百年路傍尽，白日车中晓。",
+    "求富江海狭，取贵山岳小。",
+    "二端立在途，奔走无由了。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-2171e44d-f83c-4277-9155-6d06f66a9fab"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-f6da6f29b238dbe0a8f97a0f",
+  "title": "舟过孤山",
+  "author": "王琮",
+  "dynasty": "宋",
+  "verses": [
+    "寂寞梅花处士坟，竹围岩脚一泉深。",
+    "隃瞻翠辇曾游处，水钥年年护绿阴。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-7f5b578f-7ce0-4893-a658-87b82e03e3dc"
+}

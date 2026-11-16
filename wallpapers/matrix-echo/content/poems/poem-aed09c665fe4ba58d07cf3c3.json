@@ -1,0 +1,14 @@
+{
+  "id": "poem-aed09c665fe4ba58d07cf3c3",
+  "title": "偈颂六十七首  其四五",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "三千世界作炉，百亿须弥为炭。",
+    "生铁铸就禅和，炙得通身红烂。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-e18d1e4f-6555-41a0-83ce-56e89068b73e"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f43",
+  "script": "seal",
+  "character": "佃",
+  "reading": "diàn；tián",
+  "description": "diàn：向地主或官府租种土地的农民～户。～农。～客（晋代世家豪强荫庇下的一种依附农民）。～东。\ntián：(1)耕作。\n(2)古同畋”，打猎。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-佃"
+}

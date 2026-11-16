@@ -1,0 +1,16 @@
+{
+  "id": "poem-2cf1a8b76d8459218daf83bc",
+  "title": "题雍丘崔明府丹灶（伯二五六七。下同）",
+  "author": "李昂",
+  "dynasty": "唐",
+  "verses": [
+    "闻君小邑𫏐鸣弦，隐几灰心有岁年。",
+    "白石既烧应化鹤，黄金未熟且烹鲜。",
+    "𬬻中近染三花气，树里新飞五色烟。",
+    "伊尹即今须负鼎，王乔何事欲冲天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-061b5fe2-b247-4d80-88fb-c76b48027e5e"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5916",
+  "script": "seal",
+  "character": "外",
+  "reading": "wài",
+  "description": "wài：(1)与内”、里”相对～边。～因。里应（yìng）～合。～行（háng）。\n(2)不是自己这方面的～国。～路（同外地”）。～族。～省。～星人。\n(3)指外国”～域。～宾。～商。\n(4)称母亲、姐妹或女儿方面的亲戚～公。～婆。～甥。\n(5)称岳父母～父。～姑（岳母）。\n(6)称丈夫～子（亦指非婚生之子）。\n(7)关系疏远的～人。\n(8)对正式的而言，指非正式的～号（绰号）。～史（指正史以外的野史、杂史和以叙述人物为主的旧小说）。～传（zhuàn）。\n(9)传统戏剧角色名～旦。～末。～净。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-外"
+}

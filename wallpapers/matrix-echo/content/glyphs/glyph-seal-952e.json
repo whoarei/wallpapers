@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-952e",
+  "script": "seal",
+  "character": "键",
+  "reading": "jiàn",
+  "description": "车辖。安在车轴两端,管住车轮不脱离轴的铁棍\n钥匙\n竖着插的门闩\n⒈车轴上的铁条，用以管住车轮。又叫\"辖\"。\n⒉插在门上，用以关锁门户的金属棍子。\n⒊琴、电脑、发报机等物上可以按动的部分～盘。\n⒋〈古〉称钥匙。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-键"
+}

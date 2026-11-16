@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-760c",
+  "script": "seal",
+  "character": "瘌",
+  "reading": "là",
+  "description": "là：〔～痢〕生在人头上的皮肤病。亦称秃疮”。\n〔疤～〕见疤”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瘌"
+}

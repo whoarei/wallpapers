@@ -1,0 +1,16 @@
+{
+  "id": "poem-ba8d9d74179f8d6c30cd25d9",
+  "title": "郊庙歌辞 仪坤庙乐章 永和",
+  "author": "徐彦伯",
+  "dynasty": "唐",
+  "verses": [
+    "猗若清庙，肃肃荧荧。",
+    "国荐严祀，坤兴淑灵。",
+    "有几在室，有乐在庭。",
+    "临兹孝享，百禄惟宁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-1c5a317d-fe60-4e67-a0b5-a9ed42e5aa6a"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-f0e57f573f8ba7289bfcb6bc",
+  "title": "近试上张籍水部",
+  "author": "朱庆余",
+  "dynasty": "唐",
+  "verses": [
+    "洞房昨夜停红烛，待晓堂前拜舅姑。",
+    "[妆]罢低声问夫壻，画眉深浅入时无。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "新婚",
+    "七言绝句",
+    "考试"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-27ff54ab-4861-43d8-b3c1-69113d2e4e10"
+}

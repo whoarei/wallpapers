@@ -1,0 +1,16 @@
+{
+  "id": "poem-b5d27677f93e861525f32153",
+  "title": "郊庙歌辞 享先蚕乐章 昭庆",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "仙坛礼既毕，神驾俨将升。",
+    "伫属深祥起，方期庶绩凝。",
+    "虔诚资宇内，务本勖黎蒸。",
+    "灵心昭备享，率土洽休征。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-3df7186e-9419-4cd7-81b0-3f8eafda73e1"
+}

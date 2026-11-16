@@ -1,0 +1,17 @@
+{
+  "id": "poem-99356388f5aad56821b3fb35",
+  "title": "夜发军中",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "边马枥上惊，雄劒匣中鸣。",
+    "半夜军书致，匈奴寇六城。",
+    "中坚分暗阵，太乙起神兵。",
+    "出没风云合，苍黄豺虎争。",
+    "今日边庭战，缘赏不缘名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-7a6b502b-cb9c-497a-9d54-9ba097e0ea2d"
+}

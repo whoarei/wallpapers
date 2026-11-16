@@ -1,0 +1,15 @@
+{
+  "id": "poem-1312e4b322c822c2fbe6f156",
+  "title": "伴读书",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "我、我、我，使金枪法力强，恁、恁、恁，持宝杵威风壮。",
+    "众神祗齐保护他无恙，恁、恁离了上方。",
+    "他、他，往了西方，俺程程保护他消灾障。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-10124",
+  "tags": []
+}

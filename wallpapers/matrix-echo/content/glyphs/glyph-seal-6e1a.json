@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6e1a",
+  "script": "seal",
+  "character": "渚",
+  "reading": "zhǔ",
+  "description": "zhǔ：水中小块陆地洲～。～田。鼋头～（中国江苏省无锡市太湖边的一处著名风景区）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-渚"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-4580d1e0cf641f9bc82b4a92",
+  "title": "宫词  其八",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "晨光初动阁门开，百辟匆匆避路回。",
+    "千步画廊敲杖子，朱衣双引相公来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-919bc965-3409-4063-bbb9-8c6f4a600b87"
+}

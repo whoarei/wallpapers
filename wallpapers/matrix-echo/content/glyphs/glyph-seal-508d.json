@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-508d",
+  "script": "seal",
+  "character": "傍",
+  "reading": "bàng",
+  "description": "bàng：(1)靠依山～水。\n(2)临近～晚。～黑。～亮。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-傍"
+}

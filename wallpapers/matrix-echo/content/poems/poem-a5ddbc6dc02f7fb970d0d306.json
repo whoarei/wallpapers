@@ -1,0 +1,17 @@
+{
+  "id": "poem-a5ddbc6dc02f7fb970d0d306",
+  "title": "送淡公 二",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "坐爱青草上，意含沧海滨。",
+    "渺渺独见水，悠悠不问人。",
+    "镜浪洗手绿，剡花入心春。",
+    "虽然防外触，无奈饶衣新。",
+    "行当译文字，慰此吟殷勤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-36d5b37a-fcc1-4f31-9234-0ff7fba0036b"
+}

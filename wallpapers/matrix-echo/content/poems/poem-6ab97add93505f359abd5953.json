@@ -1,0 +1,17 @@
+{
+  "id": "poem-6ab97add93505f359abd5953",
+  "title": "浣溪沙·谁道飘零不可怜",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "西郊冯氏园看海棠，因忆《香严词》有感。",
+    "谁道飘零不可怜，旧游时节好花天。",
+    "断肠人去自经年。",
+    "一片晕红才著雨，几丝柔绿乍和烟。",
+    "倩魂销尽夕阳前。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-103"
+}

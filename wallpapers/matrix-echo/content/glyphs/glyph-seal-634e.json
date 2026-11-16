@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-634e",
+  "script": "seal",
+  "character": "捎",
+  "reading": "shāo；shào",
+  "description": "shāo：(1)顺便给别人带东西～带。～话。～信。\n(2)掠拂风～鲪滴难开幌”。\n(3)芟除拔剑～罗网”。\nshào：(1)稍微向后倒退（多指骡马等）往后～。\n(2)退～色。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-捎"
+}

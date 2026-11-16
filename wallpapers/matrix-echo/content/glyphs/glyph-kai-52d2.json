@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-52d2",
+  "script": "kai",
+  "character": "勒",
+  "reading": "lè；lēi",
+  "description": "lè：(1)套在牲畜上带帽子的笼头马～。\n(2)收住缰绳不使前进悬崖～马。\n(3)强制～令。～索。\n(4)统率～兵。\n(5)雕刻～石。～碑。～铭。\nlēi：(1)用绳子等捆住和套住，然后用力拉紧～紧。\n(2)方言，强制，逼迫。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-勒"
+}

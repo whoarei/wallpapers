@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9566",
+  "script": "seal",
+  "character": "镦",
+  "reading": "duì；dun",
+  "description": "矛戟柄末的平底金属套。同錿”\n冲压金属板,使其变形。不加热叫冷镦”,加热叫热镦”\n阉割\n镦短，镦粗\n镦宽\n镦 duì矛戟柄下端的平底金属套。又见dūn。\n镦 dūn冲压加工金属板。又见duì。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镦"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-6cfa2f7f475db40b009b398d",
+  "title": "望江南・忆江南·江南酒",
+  "author": "王琪",
+  "dynasty": "宋",
+  "verses": [
+    "江南酒，何处味偏浓。",
+    "醉卧春风深巷里，晓寻香旆小桥东。",
+    "竹叶满金锺。",
+    "檀板醉，人面粉生红。",
+    "青杏黄梅朱阁上，鲥鱼苦笋玉盘中。",
+    "酩酊任愁攻。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-843",
+  "tags": []
+}

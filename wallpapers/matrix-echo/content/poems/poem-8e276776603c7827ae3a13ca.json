@@ -1,0 +1,16 @@
+{
+  "id": "poem-8e276776603c7827ae3a13ca",
+  "title": "浮云三章 三",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "浮云浮云，集于高舂。",
+    "高舂蒙蒙，日夕之容。",
+    "匪日之夕，浮云之积。",
+    "嗟我怀人，忧心如[惄]。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-71677a05-d3f4-4e2c-82a1-6d2212d84729"
+}

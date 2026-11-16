@@ -1,0 +1,16 @@
+{
+  "id": "poem-7ecc8bf51a5babe8e0fbcc17",
+  "title": "小重山·秋到长门秋草黄",
+  "author": "薛昭蕴",
+  "dynasty": "五代",
+  "verses": [
+    "秋到长门秋草黄，画梁双燕去，出宫墙。",
+    "玉箫无复理霓裳，金蝉坠，鸾镜掩休妆。",
+    "忆昔在昭阳，舞衣红绶带，绣鸳鸯。",
+    "至今犹惹御炉香，魂梦断，愁听漏更长。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-38"
+}

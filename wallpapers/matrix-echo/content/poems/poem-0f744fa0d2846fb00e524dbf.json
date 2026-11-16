@@ -1,0 +1,16 @@
+{
+  "id": "poem-0f744fa0d2846fb00e524dbf",
+  "title": "哭胡十八遇",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "早得声名年尚少，寻常志气出风尘。",
+    "文场继续成三代，家族辉华在一身。",
+    "幼子见生才满月，选书知写未呈人。",
+    "送君帐下衣裳白，数尺坟头栢树新。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-1d7fc68f-be35-464b-b70a-06725f99238a"
+}

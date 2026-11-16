@@ -1,0 +1,16 @@
+{
+  "id": "poem-b4a883d53f1769beab4d8a10",
+  "title": "幸秦始皇陵",
+  "author": "中宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "眷言君失德，骊邑想秦余。",
+    "政烦方改篆，愚俗乃焚书。",
+    "阿房久已灭，阁道遂成墟。",
+    "欲厌东南气，翻伤掩鲍车。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-651e8254-c709-49e8-86fd-0153306ff555"
+}

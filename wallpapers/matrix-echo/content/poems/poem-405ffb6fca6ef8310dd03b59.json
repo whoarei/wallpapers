@@ -1,0 +1,20 @@
+{
+  "id": "poem-405ffb6fca6ef8310dd03b59",
+  "title": "滴滴金·阴阴湿雾霜无汁",
+  "author": "王质",
+  "dynasty": "宋",
+  "verses": [
+    "阴阴湿雾霜无汁。",
+    "江气逼、树声滴。",
+    "荒林只见夕阳入。",
+    "谁唤晚烟集。",
+    "渔翁犹把钓竿执。",
+    "蓑共笠、时时葺。",
+    "风刚浪猛早收拾。",
+    "天外暮云黑。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-322",
+  "tags": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-aee8c1fa355cde223b903e7f",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "小姐，你曾和他共鸳衾，同象床。",
+    "直恁的你认不得他形共庞。",
+    "(旦)面貌身材果然厮像，行动举止没两样。",
+    "(外暗听。",
+    "丑)既认得真时合主张。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8338",
+  "tags": []
+}

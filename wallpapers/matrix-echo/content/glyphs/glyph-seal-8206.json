@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8206",
+  "script": "seal",
+  "character": "舆",
+  "reading": "yú",
+  "description": "车辆,尤指马车\n轿子\n①车箱。\n②车。\n③指载柩车。\n④轿子。\n⑤制作车箱的工匠。\n⑥古代职位低贱的吏卒。\n⑦特指驾车的人。\n⑧抬;扛。\n⑨运载。\n舆2 yù通\"誉\"。名誉;荣誉。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舆"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-71db6938776b9503cfd1ab6e",
+  "title": "句 一",
+  "author": "江为",
+  "dynasty": "唐",
+  "verses": [
+    "亦同元亮旧生涯。",
+    "（史铸《百菊集谱》卷六集句引。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-2772b4d3-f708-4cdf-9f02-6d7da9aad47f"
+}

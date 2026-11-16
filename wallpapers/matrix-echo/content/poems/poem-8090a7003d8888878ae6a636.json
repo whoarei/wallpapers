@@ -1,0 +1,14 @@
+{
+  "id": "poem-8090a7003d8888878ae6a636",
+  "title": "十无诗寄桂府杨中丞 三",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "遥闻桂水遶城隅，城上江山满画图。",
+    "为问訾家洲畔月，清秋拟许醉狂无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-fdfbac87-6a5c-42cb-8fab-98bae5fe4c07"
+}

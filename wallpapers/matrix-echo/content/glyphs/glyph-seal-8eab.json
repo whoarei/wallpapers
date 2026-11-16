@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8eab",
+  "script": "seal",
+  "character": "身",
+  "reading": "shēn",
+  "description": "shēn：(1)人、动物的躯体，物体的主要部分～躯。人～。～材。～段。船～。树～。\n(2)指人的生命或一生～世。献～。\n(3)亲自，本人自～。亲～。～教。～体力行。\n(4)统指人的地位、品德出～。～分（fèn）。～败名裂。\n(5)孕，娠～孕。\n(6)量词，指整套衣服做了一～儿新衣服。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-身"
+}

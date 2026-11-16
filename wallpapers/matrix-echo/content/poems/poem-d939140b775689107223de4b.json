@@ -1,0 +1,16 @@
+{
+  "id": "poem-d939140b775689107223de4b",
+  "title": "郊行即事",
+  "author": "程颢",
+  "dynasty": "宋",
+  "verses": [
+    "芳原绿野恣行时，春入遥山碧四围。",
+    "兴逐乱红穿柳巷，困临流水坐苔矶。",
+    "莫辞盏酒十分劝，只恐风花一片飞。",
+    "况是清明好天气，不妨游衍莫忘归。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-郊行即事"
+}

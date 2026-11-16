@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8328",
+  "script": "seal",
+  "character": "茨",
+  "reading": "cí",
+  "description": "cí：(1)用茅或苇覆盖房子茅～（用茅草覆盖屋顶）。～宇（茅屋）。～檐。～门。\n(2)蒺藜～藿（藿”，野菜；指以茨藿充饥，引申为粗劣的食物）。\n(3)积土填满～其所决而高之。”",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茨"
+}

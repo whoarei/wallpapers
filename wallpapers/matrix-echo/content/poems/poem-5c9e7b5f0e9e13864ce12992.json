@@ -1,0 +1,13 @@
+{
+  "id": "poem-5c9e7b5f0e9e13864ce12992",
+  "title": "维天之命",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "维天之命，于穆不已。于乎不显，文王之德之纯。假以溢我，我其收之。骏惠我文王，曾孙笃之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-266"
+}

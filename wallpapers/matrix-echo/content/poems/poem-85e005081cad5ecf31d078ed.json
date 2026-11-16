@@ -1,0 +1,15 @@
+{
+  "id": "poem-85e005081cad5ecf31d078ed",
+  "title": "江城子·䴔䴖飞起郡城东",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "䴔䴖飞起郡城东，碧江空，半滩风。",
+    "越王宫殿，苹叶藕花中。",
+    "帘卷水楼鱼浪起，千片雪，雨蒙蒙。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-25"
+}

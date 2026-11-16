@@ -1,0 +1,19 @@
+{
+  "id": "poem-b9bc548e7f70208af0b4b9b1",
+  "title": "画堂春·外潮莲子长参差",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "外潮莲子长参差。",
+    "霁山青处鸥飞。",
+    "水天溶漾画桡迟。",
+    "人影鉴中移。",
+    "桃叶浅声双唱，杏红深色轻衣。",
+    "小荷障面避斜晖。",
+    "分得翠阴归。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-397",
+  "tags": []
+}

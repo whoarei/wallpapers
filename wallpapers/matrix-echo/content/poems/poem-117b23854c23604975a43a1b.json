@@ -1,0 +1,16 @@
+{
+  "id": "poem-117b23854c23604975a43a1b",
+  "title": "湖山堂",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "自从幽处得官居，不向良工觅画图。",
+    "青绕帘帷山极望，冷侵庭户水平铺。",
+    "渔歌历历来天外，帆影飞飞入坐隅。",
+    "俸粟有余公事少，卧听风雨落江湖。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-7b8bd8a3-9cd4-430d-a8ab-d20b4434eb13"
+}

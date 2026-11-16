@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-629a",
+  "script": "seal",
+  "character": "抚",
+  "reading": "fǔ",
+  "description": "扶持;护持\n⒈扶持，保护，养育～养。～育。～其老弱。\n⒉慰问～恤。安～。优～。\n⒊按摩，轻轻地摸～摩。～摸。\n⒋拍，击～背。～掌欢笑。\n抚mó 1.仿效。 2.临摹。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抚"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-d0d95015193eda60325dae3a",
+  "title": "泊海子口",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "池口至海口，望望三舍外。",
+    "辰发莫已到，回首西日在。",
+    "风师肯怜客，祖道烦一嗌。",
+    "我舟疑凌虚，楚山真历块。",
+    "蜚鸟相让疾，惊浪乃弗逮。",
+    "穷涂坐局缩，颇尝得此快。",
+    "遄迈自本图，阙供恐贻悔。",
+    "未办问村胶，且计具薪菜。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-4945077e-15b3-4bc5-9120-9e3117f20b4d"
+}

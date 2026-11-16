@@ -1,0 +1,20 @@
+{
+  "id": "poem-5affc2547639e84661b579b2",
+  "title": "别俞君任通判三首  其三",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "房陵望毗陵，计舍六十余。",
+    "今我从远役，羡君方逸居。",
+    "逸劳不足道，会合嗟愈疎。",
+    "向来江南北，二年能几书。",
+    "残山賸水地，诗题当不虚。",
+    "得句茹不吐，思君定愁予。",
+    "溯江日千里，岂无红尾鱼。",
+    "交情傥未忘，与问今何如。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-5a4593e6-0dff-432d-8499-005e1ae1e9d6"
+}

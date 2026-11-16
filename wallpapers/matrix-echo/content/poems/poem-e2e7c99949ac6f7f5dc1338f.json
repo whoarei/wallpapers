@@ -1,0 +1,16 @@
+{
+  "id": "poem-e2e7c99949ac6f7f5dc1338f",
+  "title": "别杨秀才",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "因乱与君别，相逢悲且惊。",
+    "开襟魂自慰，拭泪眼空明。",
+    "故国已无业，旧交多不生。",
+    "如何又分袂，难话别离情。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-409a9707-4097-4323-8693-49ee24a47bd0"
+}

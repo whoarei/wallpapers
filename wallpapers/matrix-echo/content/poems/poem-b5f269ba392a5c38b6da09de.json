@@ -1,0 +1,21 @@
+{
+  "id": "poem-b5f269ba392a5c38b6da09de",
+  "title": "送僧归日本",
+  "author": "钱起",
+  "dynasty": "唐",
+  "verses": [
+    "上国随缘住，来途若梦行。",
+    "浮天沧海远，去世法舟轻。",
+    "水月通禅观，鱼龙听梵声。",
+    "惟怜一灯影，万里眼中明。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "送别",
+    "五言律诗",
+    "惜别"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-15274300-bd45-4898-ab14-9a3dead4b620"
+}

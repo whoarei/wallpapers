@@ -1,0 +1,14 @@
+{
+  "id": "poem-7edc3d008db93cb401b1f781",
+  "title": "杨柳枝·烂漫春归水国时",
+  "author": "皇甫松",
+  "dynasty": "唐",
+  "verses": [
+    "烂漫春归水国时，吴王宫殿柳丝垂。",
+    "黄莺长叫空闺畔，西子无因更得知。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-21",
+  "tags": []
+}

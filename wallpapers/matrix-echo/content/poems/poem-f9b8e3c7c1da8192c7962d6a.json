@@ -1,0 +1,14 @@
+{
+  "id": "poem-f9b8e3c7c1da8192c7962d6a",
+  "title": "和吴可权长官",
+  "author": "廖正一",
+  "dynasty": "宋",
+  "verses": [
+    "士元应展骥，百里聊尔绊。",
+    "函继三异声，江述凭东观。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-d411c784-286b-4408-adbc-bcbe7f37cd5c"
+}

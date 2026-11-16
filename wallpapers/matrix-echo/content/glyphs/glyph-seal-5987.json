@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5987",
+  "script": "seal",
+  "character": "妇",
+  "reading": "fù",
+  "description": "泛指妇女,常指成年女子\n⒈女性的通称～孺。～科。三八国际～女节。\n⒉妻，已婚的女子，跟\"夫\"相对～人。夫～平等。\n⒊儿媳媳～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-妇"
+}

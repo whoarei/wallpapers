@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53f9",
+  "script": "kai",
+  "character": "叹",
+  "reading": "tàn",
+  "description": "⒉因忧闷悲痛而呼气出声～息。忧～。\n⒊因高兴而发出赞许或赞美的长声～为观止。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-叹"
+}

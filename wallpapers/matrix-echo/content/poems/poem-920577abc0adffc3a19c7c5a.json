@@ -1,0 +1,16 @@
+{
+  "id": "poem-920577abc0adffc3a19c7c5a",
+  "title": "宫词五首 二",
+  "author": "顾况",
+  "dynasty": "唐",
+  "verses": [
+    "玉楼天半起笙歌，风送宫嫔笑语和。",
+    "月殿影开闻夜漏，水精帘卷近银河。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-aa9f9e4d-aa34-496e-89cf-cfef61efa89d"
+}

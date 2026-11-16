@@ -1,0 +1,16 @@
+{
+  "id": "poem-5dcd9ee7d8b91d2c3de78194",
+  "title": "闻王慥常侍卒三首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "宗社运微衰，山摧甘井枯。",
+    "不知千载后，更有此人无。",
+    "政入龚黄甲，诗轻沈宋徒。",
+    "受恩酬未得，不觉祗长吁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-5fbe45d0-4760-4422-87b2-96df7becce86"
+}

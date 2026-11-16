@@ -1,0 +1,16 @@
+{
+  "id": "poem-f13ddace4c9aba2c5cbc6ca5",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生)紧降阶，释缚扶将起，是兄弟负恩忘义。",
+    "这是何人？(生)是我浑家。",
+    "(小生)尊嫂受礼。",
+    "谁知此地能完聚？(旦)愁为喜，深谢得贤叔盗跖。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2965",
+  "tags": []
+}

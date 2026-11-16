@@ -1,0 +1,16 @@
+{
+  "id": "poem-99e046bfe9bc48e4e017dfa6",
+  "title": "伏读三月六日内禅诏书及传将士牓檄慨王室之艰危悯生灵之涂炭悼前策之不从恨奸回之误国感愤有作聊以述怀四首  其四",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "建炎虚席待经纶，恩赐宸章宝墨新。",
+    "学际天人何敢尔，忠开金石庶当仁。",
+    "孔明得主规模壮，陆贽离朝谤讟频。",
+    "今日追思惭至意，御书重执泪盈巾。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-ccff016c-40c9-4411-a95a-e45b5058ae15"
+}

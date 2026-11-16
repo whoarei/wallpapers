@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8f67",
+  "script": "seal",
+  "character": "轧",
+  "reading": "zhá；ga",
+  "description": "挤入;拥挤\n结交\n核查\n排挤,倾轧\n⒈〈方〉\n①挤，拥挤不要～。\n②结交～朋友。\n③核算，查对～清帐目。\n⒉见yà、zhá。\n⒈排挤，碾压倾～。～棉花。～马路。\n⒈压～辊。～钢机。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-轧"
+}

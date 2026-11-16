@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-53d6",
+  "script": "seal",
+  "character": "取",
+  "reading": "qǔ",
+  "description": "qǔ：(1)拿索～。～书。～款。窃～。\n(2)选择选～。～材。～景。～道。～样。\n(3)采用采～。听～。吸～。可～。～精用弘。\n(4)得到，招致获～。～经。～偿。～悦。\n(5)消去～消。～缔。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-取"
+}

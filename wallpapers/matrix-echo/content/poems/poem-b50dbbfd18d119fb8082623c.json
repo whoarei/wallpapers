@@ -1,0 +1,16 @@
+{
+  "id": "poem-b50dbbfd18d119fb8082623c",
+  "title": "题简上人西亭诗文后",
+  "author": "刘翼",
+  "dynasty": "宋",
+  "verses": [
+    "真如非字义，绮语道之疵。",
+    "未见西亭作，长为北磵欺。",
+    "晚因僧媚远，初实客从㬢。",
+    "多少才名士，沉沦世不知。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-10f87e90-b4bb-46e7-9ef5-b0aece31acc5"
+}

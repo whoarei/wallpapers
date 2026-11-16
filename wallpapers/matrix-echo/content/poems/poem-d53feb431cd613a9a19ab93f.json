@@ -1,0 +1,23 @@
+{
+  "id": "poem-d53feb431cd613a9a19ab93f",
+  "title": "留别王侍御维",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "寂寂竟何待，朝朝空自归。",
+    "欲寻芳草去，惜与故人违。",
+    "当路谁相假，知音世所稀。",
+    "秪应守索寞，还掩故园扉。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "归隐",
+    "友情",
+    "离别",
+    "哀怨",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7f4cacb5-cde8-40de-9b14-e223879cc2f4"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e18",
+  "script": "kai",
+  "character": "丘",
+  "reading": "qiū",
+  "description": "qiū：(1)小土山土～。沙～。～陵。～壑。\n(2)像小土山凸起的～疹。\n(3)坟墓～墓（大墓）。～垄。\n(4)量词，指用田塍隔开的水田一～十亩大的小田。\n(5)众人聚居的地方～民（乡民，邑民）。\n(6)用砖石封闭有尸体的棺材。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丘"
+}

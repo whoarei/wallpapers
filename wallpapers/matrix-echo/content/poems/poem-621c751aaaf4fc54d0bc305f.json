@@ -1,0 +1,14 @@
+{
+  "id": "poem-621c751aaaf4fc54d0bc305f",
+  "title": "又",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "隔绝羊肠已数旬，到来春霭正盈盈。",
+    "山神拟欲求新句，牵住衣裳不放行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-3537b123-de58-4b25-8f3d-7314effbe8a2"
+}

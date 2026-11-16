@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5ad6",
+  "script": "seal",
+  "character": "嫖",
+  "reading": "piáo；piāo",
+  "description": "piáo：玩弄娼妓的堕落行为～妓。～宿。～客。吃喝～赌。\npiāo：〔～姚〕勇健轻捷的样子，如以～～校尉再从大将军”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嫖"
+}

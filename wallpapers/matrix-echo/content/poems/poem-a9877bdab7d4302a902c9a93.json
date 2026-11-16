@@ -1,0 +1,16 @@
+{
+  "id": "poem-a9877bdab7d4302a902c9a93",
+  "title": "摊破浣溪沙·手卷真珠上玉钩",
+  "author": "李璟",
+  "dynasty": "五代",
+  "verses": [
+    "手卷真珠上玉钩，依前春恨锁重楼。",
+    "风里落花谁是主？思悠悠。",
+    "青鸟不传云外信，丁香空结雨中愁。",
+    "回首绿波三楚暮，接天流。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-2"
+}

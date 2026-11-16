@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9e7f",
+  "script": "kai",
+  "character": "鹿",
+  "reading": "lù",
+  "description": "lù：(1)哺乳动物，四肢细长，尾短。雄鹿头上有树枝状的角。毛多为棕褐色，有的有花斑或条纹。听觉和嗅觉都很灵敏。种类很多，常见的有梅花鹿、水鹿、白唇鹿、马鹿等。\n(2)方形的粮仓市无赤米，而囷～空虚。”\n(3)粗，粗劣～裘。～布。～床。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鹿"
+}

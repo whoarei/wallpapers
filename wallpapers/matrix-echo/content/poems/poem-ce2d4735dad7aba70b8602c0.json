@@ -1,0 +1,14 @@
+{
+  "id": "poem-ce2d4735dad7aba70b8602c0",
+  "title": "南歌子·转盼如波眼",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "转盼如波眼，娉婷似柳腰。",
+    "花里暗相招，忆君肠欲断，恨春宵。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-42",
+  "tags": []
+}

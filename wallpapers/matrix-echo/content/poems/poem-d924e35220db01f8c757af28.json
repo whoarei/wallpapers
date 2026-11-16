@@ -1,0 +1,18 @@
+{
+  "id": "poem-d924e35220db01f8c757af28",
+  "title": "狮子序",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "张协恨时未至，居家出路，长是不利。",
+    "(旦)不在疏狂惟在自守己，看造物何如。",
+    "(生)张协只仗托诗书。",
+    "(旦)奴家惟凭针指。",
+    "(合)逆来顺受，须有通时。",
+    "(旦)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2512",
+  "tags": []
+}

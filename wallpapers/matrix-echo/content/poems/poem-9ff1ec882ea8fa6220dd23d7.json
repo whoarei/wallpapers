@@ -1,0 +1,14 @@
+{
+  "id": "poem-9ff1ec882ea8fa6220dd23d7",
+  "title": "春梦",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "东风敲碎玉阑干，蝴蝶纷飞梦欲残。",
+    "翠被压床银烛暗，夜深谁问海棠寒。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-9fec99d9-fdcb-4f11-be79-b2e9f268cd28"
+}

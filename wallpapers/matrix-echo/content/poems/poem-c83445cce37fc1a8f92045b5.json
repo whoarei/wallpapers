@@ -1,0 +1,13 @@
+{
+  "id": "poem-c83445cce37fc1a8f92045b5",
+  "title": "哭相思",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生、小旦)兄妹当初两分散，谁知此地重相见？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-3110",
+  "tags": []
+}

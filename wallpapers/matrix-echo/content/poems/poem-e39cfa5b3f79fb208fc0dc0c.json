@@ -1,0 +1,14 @@
+{
+  "id": "poem-e39cfa5b3f79fb208fc0dc0c",
+  "title": "书云后三日游致道观",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "九日同游柱史家，野英羞涩未成花。",
+    "重来又是书云后，刚德才抽四日芽。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-04e7add6-e2df-427c-9f2f-e7d4c5a02190"
+}

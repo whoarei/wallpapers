@@ -1,0 +1,14 @@
+{
+  "id": "poem-fc1c88b52cd017e0b4641348",
+  "title": "小游仙诗九十八首 九十二",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "北斗西风吹白榆，穆公相笑夜投壶。",
+    "花前玉女来相问，赌得青龙许赎无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-93715a3c-0494-4fde-9cbe-f62af5ee8f76"
+}

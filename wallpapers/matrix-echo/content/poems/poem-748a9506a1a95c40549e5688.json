@@ -1,0 +1,16 @@
+{
+  "id": "poem-748a9506a1a95c40549e5688",
+  "title": "送长社胡明府",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "黄绶系未稳，桂枝香尚新。",
+    "琴堂宁久次，谏署正求人。",
+    "皎皎凉秋月，飘飘清路尘。",
+    "元常有遗翰，求作箧中珍。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-40bef844-9932-4695-a19e-700be1316fc8"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-01643cb04e3838691a731c9d",
+  "title": "汉宫春·黯黯离怀",
+  "author": "晁冲之",
+  "dynasty": "宋",
+  "verses": [
+    "黯黯离怀，向东门系马，南浦移舟。",
+    "薰风乱飞燕子，时下轻鸥。",
+    "无情渭水，问谁教、日日东流。",
+    "常是送、行人去后，烟波一向离愁。",
+    "回首旧游如梦，记踏青𣨼饮，拾翠狂游。",
+    "无端彩云易散，覆水难收。",
+    "风流未老，拚千金，重入扬州。",
+    "应又是、当年载酒，依前名占青楼。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-658",
+  "tags": []
+}

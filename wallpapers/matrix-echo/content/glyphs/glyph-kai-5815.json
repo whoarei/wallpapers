@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5815",
+  "script": "kai",
+  "character": "堕",
+  "reading": "duò",
+  "description": "脱落\n堕 duò掉下；坠落。\n【堕落】思想行为向坏的方向发展。\n堕huī 1.荒废;废弃。 2.损毁;败坏。 3.输，送。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-堕"
+}

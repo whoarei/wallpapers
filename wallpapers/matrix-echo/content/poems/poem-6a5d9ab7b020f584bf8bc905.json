@@ -1,0 +1,16 @@
+{
+  "id": "poem-6a5d9ab7b020f584bf8bc905",
+  "title": "感物",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "朝看新燕飞，暮聼子规啼。",
+    "尺蠖身藏叶，神龟尾曳泥。",
+    "鞲鹰何用掣，枥马不当嘶。",
+    "自伐憎狙巧，颓然忧木鸡。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-09463ae8-ee71-45cc-aa8b-217983f05184"
+}

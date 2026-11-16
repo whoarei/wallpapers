@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-54c7",
+  "script": "seal",
+  "character": "哇",
+  "reading": "wa；wā",
+  "description": "wā：(1)象声词，形容哭声、呕吐声～地吐了一地。\n(2)指靡靡之音淫～。\nw：助词，大致相当于啊”（前面紧挨着的音一定是ｕ、ａｏ、ｏｕ等结尾的）多好～！快走～！",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哇"
+}

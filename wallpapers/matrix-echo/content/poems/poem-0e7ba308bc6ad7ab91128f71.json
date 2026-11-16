@@ -1,0 +1,18 @@
+{
+  "id": "poem-0e7ba308bc6ad7ab91128f71",
+  "title": "幽居",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "茅茨何潇潇，邱园复寥廓。",
+    "黄冠此中居，眷言寄高托。",
+    "理乱无闻声，荣辱不相着。",
+    "有书聊把娱，有酒自斟酌。",
+    "侵晨课田桑，归来日华薄。",
+    "盘桓松竹间，鸟动残云落。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-572dec6b-b8c3-4c87-8026-244a64c7c647"
+}

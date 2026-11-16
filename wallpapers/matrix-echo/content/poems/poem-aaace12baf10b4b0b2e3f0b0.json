@@ -1,0 +1,16 @@
+{
+  "id": "poem-aaace12baf10b4b0b2e3f0b0",
+  "title": "过宋州",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "睢阳陷虏日，外绝救兵来。",
+    "世乱忠臣死，时清明主哀。",
+    "荒郊春草徧，故垒野花开。",
+    "欲为将军哭，东流水不回。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6381e1ed-6c1f-4b0a-b4aa-26fd2370c2c4"
+}

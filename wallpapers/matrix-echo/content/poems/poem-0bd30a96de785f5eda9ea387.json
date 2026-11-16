@@ -1,0 +1,14 @@
+{
+  "id": "poem-0bd30a96de785f5eda9ea387",
+  "title": "酬彭伉",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "公孙阁里见君初，衣锦南归二十余。",
+    "莫叹屈声犹未展，同年今日在中书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-cf80c19d-9ccb-4870-a50b-6653f4c33241"
+}

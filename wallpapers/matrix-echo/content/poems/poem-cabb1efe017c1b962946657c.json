@@ -1,0 +1,14 @@
+{
+  "id": "poem-cabb1efe017c1b962946657c",
+  "title": "送从翁中丞奉使黠戛斯六首 四",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "牢山望断绝尘氛，滟滟河西拂地云。",
+    "谁见鲁儒持汉节，玉关降尽可汗军。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-1ce6e84a-ef90-4870-aad3-b11948c19d92"
+}

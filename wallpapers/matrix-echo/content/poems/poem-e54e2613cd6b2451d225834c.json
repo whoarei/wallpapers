@@ -1,0 +1,16 @@
+{
+  "id": "poem-e54e2613cd6b2451d225834c",
+  "title": "送程给事知越州",
+  "author": "宋敏求",
+  "dynasty": "宋",
+  "verses": [
+    "浙东歌舞望旌麾，远泛樵风羽𬘫飞。",
+    "论譔内通仙殿籍，拜兴初别夕郎闱。",
+    "老人日俟刘公至，狂客今无贺监归。",
+    "闻有新诗频寄我，莫嗟梅雨裛朝衣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-ab42167c-ec48-4e7a-927d-f8c609ad51be"
+}

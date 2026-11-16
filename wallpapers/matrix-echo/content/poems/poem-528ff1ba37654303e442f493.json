@@ -1,0 +1,16 @@
+{
+  "id": "poem-528ff1ba37654303e442f493",
+  "title": "酬秘书王丞见寄",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "相看头白来城阙，却忆漳溪旧往还。",
+    "今体诗中偏出格，常参官里每同班。",
+    "街西借宅多临水，马上逢人亦说山。",
+    "芸阁水曹虽最冷，与君长喜得身闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-9d8abe6e-b38b-4777-9219-083db49583cb"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9975",
+  "script": "seal",
+  "character": "饵",
+  "reading": "ěr",
+  "description": "钓鱼用的鱼食\n药饵\n食物的总称\n筋腱\n吞食\n①糕饼果～。\n②钓鱼用的鱼食鱼～。\n③引诱以此～敌。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-饵"
+}

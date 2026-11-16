@@ -1,0 +1,16 @@
+{
+  "id": "poem-7dde1e8ae467dfa19001a67f",
+  "title": "寄旧友二首  其二",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "微官宁得似穷儒，俛首逢迎气不舒。",
+    "便是伐薪能煮海，何如烧叶自观书。",
+    "半蓬寒雨苕溪酒，一线西风震泽鱼。",
+    "但得此身无系束，江南有地著顽疎。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b23e3bdc-1052-4e73-8125-ff0966202c40"
+}

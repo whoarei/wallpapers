@@ -1,0 +1,17 @@
+{
+  "id": "poem-7778e85cb587212d909b7a7b",
+  "title": "越江吟·神仙神仙瑶池宴",
+  "author": "苏易简",
+  "dynasty": "宋",
+  "verses": [
+    "神仙神仙瑶池宴。",
+    "片片。",
+    "碧桃零落春风晚。",
+    "翠云开处，隐隐金舆挽。",
+    "玉麟背冷清风远。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-4",
+  "tags": []
+}

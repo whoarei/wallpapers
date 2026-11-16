@@ -1,0 +1,23 @@
+{
+  "id": "poem-18f23e05316ae589d752caf6",
+  "title": "赤壁",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "折戟沈沙铁未销，自将磨洗认前朝。",
+    "东风不与周郎便，铜雀春深锁二乔。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "战争",
+    "八年级下册(课内)",
+    "初中古诗",
+    "七言绝句",
+    "咏史怀古",
+    "怀才不遇"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-ae660471-84bc-4a58-a438-005b8a99c3c1"
+}

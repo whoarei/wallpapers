@@ -1,0 +1,13 @@
+{
+  "id": "poem-ea94dbd910d37229b341cef8",
+  "title": "句",
+  "author": "林之奇",
+  "dynasty": "宋",
+  "verses": [
+    "耿耿一寸心，不能去庭闱。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-d015eff7-a03c-4d68-bae9-a4fee50adb21"
+}

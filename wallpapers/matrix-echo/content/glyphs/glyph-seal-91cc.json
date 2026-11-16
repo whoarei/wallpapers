@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-91cc",
+  "script": "seal",
+  "character": "里",
+  "reading": "lǐ",
+  "description": "内,中。与外相反\n⒈长度单位1公～为1000米，合二市～，即三百丈。\n⒉〈古〉一种居民组织。五家为邻，五邻为～。今指街坊～弄。邻～。\n⒋衣服里层绿衣黄～。〈引〉里面，内部城市～。手掌～。柜子～。\n⒌物体内层，跟\"表\"、\"面\"相对～层。～面。袜～儿。被盖～子。表～如一。\n⒍一定范围以内山～。那～。哪～？黑夜～。\n①靠左边，靠里的那边。\n②〈方〉内行知识～手。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-里"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-1bab6a2b3adf9c2ca6dbe385",
+  "title": "黄鸟",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "黄鸟黄鸟，无集于谷，无啄我粟。此邦之人，不我肯谷。言旋言归，复我邦族。",
+    "黄鸟黄鸟，无集于桑，无啄我粱。此邦之人，不可与明。言旋言归，复我诸兄。",
+    "黄鸟黄鸟，无集于栩，无啄我黍。此邦之人，不可与处。言旋言归，复我诸父。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-186"
+}

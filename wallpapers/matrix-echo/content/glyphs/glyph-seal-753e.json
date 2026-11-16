@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-753e",
+  "script": "seal",
+  "character": "甾",
+  "reading": "zāi；zī",
+  "description": "zāi：(1)有机化合物的一类，广泛存在于动植物体内，胆固醇和多种激素都属于甾类化合物。\n(2)古同灾”，祸难。\nzī：古同淄”，水名。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-甾"
+}

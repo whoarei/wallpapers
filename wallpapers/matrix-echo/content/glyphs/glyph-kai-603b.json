@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-603b",
+  "script": "kai",
+  "character": "总",
+  "reading": "zǒng",
+  "description": "聚合;汇集\n无总\n⒈全，全部，主要的，为首的～的。～纲。～则。～统。～指挥。～司令。\n⒉聚合，汇集～括。～共。～计。\n⒊一直，经常她～爱笑。他～是吃苦在前。\n⒋一定，毕竟～会胜利。这件事～要办理。\n⒌统领～兵西下。\n①终究，终于～算成功了。\n②勉强，还可以这孩子能做到这样，～算不错了。\n总zōng 1.丝数名。古以丝八十根为\"总\"。\n总cōng 1.通\"纒\"。绢的一种。 2.通\"恠\"。参见\"总至\"。 3.通\"葱\"。参见\"总极\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-总"
+}

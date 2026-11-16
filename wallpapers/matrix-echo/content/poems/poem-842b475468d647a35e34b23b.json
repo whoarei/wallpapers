@@ -1,0 +1,14 @@
+{
+  "id": "poem-842b475468d647a35e34b23b",
+  "title": "边上作三首 一",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "山无绿兮水无清，风既毒兮沙亦腥。",
+    "胡儿走马疾飞鸟，联翩射落云中声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4135e905-70cf-4329-9c96-d95134949a77"
+}

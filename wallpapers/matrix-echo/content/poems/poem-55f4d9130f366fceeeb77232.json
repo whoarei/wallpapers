@@ -1,0 +1,18 @@
+{
+  "id": "poem-55f4d9130f366fceeeb77232",
+  "title": "月诗",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "金波绚彩丽初筵，玉冕（友人蒋礼鸿同志谓当作「玉菟」。",
+    "菟，同兔。",
+    "）流辉满大圆。",
+    "镜里山川同炯炯，楼前风露共娟娟。",
+    "（清康熙间仁和孙之𫘧《玉川子诗注》收此诗，云见《万花谷后集》。",
+    "）（见《锦绣万花谷后集》卷一《月》）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-0d46c47a-b5eb-4ebf-9856-3de1e69552ee"
+}

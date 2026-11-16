@@ -1,0 +1,15 @@
+{
+  "id": "poem-503eea8df9cb8c61ba012841",
+  "title": "江有汜",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "江有汜，之子归，不我以。不我以，其后也悔。",
+    "江有渚，之子归，不我与。不我与，其后也处。",
+    "江有沱，之子归，不我过。不我过，其啸也歌。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-21"
+}

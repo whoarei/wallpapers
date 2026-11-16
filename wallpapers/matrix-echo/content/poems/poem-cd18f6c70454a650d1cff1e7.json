@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd18f6c70454a650d1cff1e7",
+  "title": "秋月收兵献钟侍郎",
+  "author": "茹芝翁",
+  "dynasty": "宋",
+  "verses": [
+    "强兵义勇威严令，化靖由来不战征。",
+    "疆境复时归马健，鼓鼙休处乱云轻。",
+    "霜凝积恨怀边戍，月落冲寒夜上城。",
+    "黄叶树头风凛凛，碧波江远路平平。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-ea3f7ea8-124a-4acf-9979-9040059ee827"
+}

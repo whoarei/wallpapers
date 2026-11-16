@@ -1,0 +1,21 @@
+{
+  "id": "poem-03e4335f3bd9fbdb3b197248",
+  "title": "满江红·潇洒星郎",
+  "author": "赵老",
+  "dynasty": "宋",
+  "verses": [
+    "潇洒星郎，吹绿鬓、胜游霞举。",
+    "秋又半，月磨云翳，籁传风语。",
+    "太一青黎光对射，中流荡漾莲舟舞。",
+    "戏人间、今夜水精宫，前无古。",
+    "吾家是，蓬山侣。",
+    "歌舞袖，苹花渚。",
+    "拟问津斜汉，乘槎南浦。",
+    "谒帝通明今得便，素娥拍手心先许。",
+    "笑画阑、三十六宫秋，花如土。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-272",
+  "tags": []
+}

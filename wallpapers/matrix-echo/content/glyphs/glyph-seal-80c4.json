@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80c4",
+  "script": "seal",
+  "character": "胄",
+  "reading": "zhòu",
+  "description": "zhòu：(1)盔，古代战士戴的帽子甲～（甲衣和头盔）。介～（介”，甲衣）。\n(2)帝王或贵族的子孙贵～。～裔。～子（古代帝王和贵族的长子，都要进入国学学习，后亦泛称国子学生）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胄"
+}

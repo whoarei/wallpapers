@@ -1,0 +1,18 @@
+{
+  "id": "poem-b67a12d5eeb0b6ba9ba4e8d1",
+  "title": "少年游·含羞倚醉不成歌",
+  "author": "张耒",
+  "dynasty": "宋",
+  "verses": [
+    "含羞倚醉不成歌。",
+    "纤手掩香罗。",
+    "偎花映烛，偷传深意，酒思入横波。",
+    "看朱成碧心迷乱，翻脉脉、敛双蛾。",
+    "相见时稀隔别多。",
+    "又春尽、奈愁何。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-351",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-fcf6708296a255fc528d087e",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "五百位官员，何可向前？又何苦特骨底，要嫁状元？(丑)伊着我，此心坚。",
+    "石头须，定教它穿。",
+    "(合同前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2626",
+  "tags": []
+}

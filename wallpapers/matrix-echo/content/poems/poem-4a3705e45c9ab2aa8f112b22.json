@@ -1,0 +1,16 @@
+{
+  "id": "poem-4a3705e45c9ab2aa8f112b22",
+  "title": "移居静安坊答元八郎中",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "长安寺里多时住，虽守卑官不苦贫。",
+    "作活每常嫌费力，移居祗是贵容身。",
+    "初开井浅偏宜树，渐觉街闲省踏尘。",
+    "更喜往还相去近，门前减却送书人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-5ee04935-b05b-427d-be12-d1015dfabff7"
+}

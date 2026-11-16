@@ -1,0 +1,20 @@
+{
+  "id": "poem-6023ed8f23fc3a6809c884ee",
+  "title": "鹧鸪天·肥水东流无尽期",
+  "author": "姜夔",
+  "dynasty": "宋",
+  "verses": [
+    "肥水东流无尽期。",
+    "当初不合种相思。",
+    "梦中未比丹青见，暗里忽惊山鸟啼。",
+    "春未绿，鬓先丝。",
+    "人间别久不成悲。",
+    "谁教岁岁红莲夜，两处沈吟各自知。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-122"
+}

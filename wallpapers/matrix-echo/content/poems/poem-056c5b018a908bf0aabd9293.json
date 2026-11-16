@@ -1,0 +1,15 @@
+{
+  "id": "poem-056c5b018a908bf0aabd9293",
+  "title": "鱼藻",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "鱼在在藻，有颁其首。王在在镐，岂乐饮酒。",
+    "鱼在在藻，有莘其尾。王在在镐，饮酒乐岂。",
+    "鱼在在藻，依于其蒲。王在在镐，有那其居。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-220"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-a66e91ea43a41c5d9f121d8c",
+  "title": "奉和圣制荅张说南出雀鼠谷",
+  "author": "崔翘",
+  "dynasty": "唐",
+  "verses": [
+    "硖路绕河汾，晴光拂曙氛。",
+    "笳吟中岭树，仗入半峰云。",
+    "顿觉山原尽，平看邑里分。",
+    "早行芳草迥，晚憩好风熏。",
+    "嘉颂推英宰，春游扈圣君。",
+    "共欣承睿渥，日月照天文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d0e731e2-f5c3-412d-8aef-36ca8f5bf159"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-25c1a9eb23ae19bd4714b842",
+  "title": "渐堂",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "君家仲季乐天长，书史优游共一堂。",
+    "雁序此时详进止，鸰原异日竟轩昂。",
+    "阶前兰菊幽香远，座上埙篪逸韵长。",
+    "肃穆清风在华榜，可令进躁坐销亡。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-a6418f68-70d7-4f00-975d-a4905b1cd2fb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3dffba1e56a12e2e5a79b23f",
+  "title": "宿江店",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "野店临西浦，门前有橘花。",
+    "停灯待贾客，卖酒与渔家。",
+    "夜静江水白，路回山月斜。",
+    "闲寻泊船处，潮落见平沙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-89c302eb-ba2e-41eb-ba00-12993d2db718"
+}

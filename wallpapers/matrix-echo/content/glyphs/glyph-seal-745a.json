@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-745a",
+  "script": "seal",
+  "character": "瑚",
+  "reading": "hú",
+  "description": "hú：〔～琏〕古代盛黍稷的祭器，用以喻人有立朝执政的才能。\n〔珊～〕见珊”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瑚"
+}

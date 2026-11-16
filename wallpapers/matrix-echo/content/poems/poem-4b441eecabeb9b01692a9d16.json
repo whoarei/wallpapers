@@ -1,0 +1,16 @@
+{
+  "id": "poem-4b441eecabeb9b01692a9d16",
+  "title": "游南岳",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "入岩仙境清，行尽复重行。",
+    "若得闲无事，长来寄此生。",
+    "涧松闲易老，笼烛晚生明。",
+    "一宿泉声里，思乡梦不成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3805cb81-114a-40ca-8eb5-028c0c9d0165"
+}

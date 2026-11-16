@@ -1,0 +1,18 @@
+{
+  "id": "poem-d301fce7858dae31843b997b",
+  "title": "韦侍郎山居",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "幸忝君子顾，遂陪尘外踪。",
+    "闲花满岩谷，瀑水映杉松。",
+    "啼鸟忽临涧，归云时抱峰。",
+    "良游盛簪绂，继迹多夔龙。",
+    "讵枉青门道，胡闻长乐钟。",
+    "清晨去朝谒，车马何从容。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-65cea96b-411f-4bc8-85aa-9febbeaa4d2c"
+}

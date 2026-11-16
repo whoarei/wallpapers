@@ -1,0 +1,16 @@
+{
+  "id": "poem-6d7d0e32eb6ba1ac9235ca0c",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(丑)道消遣长空叹嗟，画堂中且安享骄奢。",
+    "看纷纷绿拥红遮，绮罗香散沉麝。",
+    "辟寒犀开元此日，曾远贡喧传朝野。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8328",
+  "tags": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-48cf70b8d9c75a7ee104912b",
+  "title": "马诗二十三首 十八",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "伯乐向前看，旋毛在腹间。",
+    "祗今掊白草，何日蓦青山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "马",
+    "写马",
+    "愤慨",
+    "怀才不遇"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-cb5a4269-c06a-4c8a-bb03-a65a24b5baeb"
+}

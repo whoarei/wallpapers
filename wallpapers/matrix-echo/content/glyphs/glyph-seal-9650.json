@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9650",
+  "script": "seal",
+  "character": "限",
+  "reading": "xiàn",
+  "description": "xiàn：(1)指定的范围期～。界～。权～。局～。～额。\n(2)指定范围～制。～于。～期。～价（官方指定最高或最低价格，不得超越）。无～。\n(3)门槛门～。\n(4)险阻关～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-限"
+}

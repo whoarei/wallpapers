@@ -1,0 +1,16 @@
+{
+  "id": "poem-cde22f49dab93f8f98c6612b",
+  "title": "菩萨蛮·梨花满院飘香雪",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "梨花满院飘香雪，高楼夜静风筝咽。",
+    "斜月照帘帷，忆君和梦稀。",
+    "小窗灯影背，燕语惊愁态。",
+    "屏掩断香飞，行云山外归。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-10"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-914d7407405e758c65d593d4",
+  "title": "偈颂（幷序○序为南岳齐己撰） 八十一",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "破布裹闻身，无言可示人。",
+    "居山山得乐，住郭郭还欣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-99ea3bb5-446e-4f73-b053-bb7fc2326e90"
+}

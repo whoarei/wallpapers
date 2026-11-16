@@ -1,0 +1,16 @@
+{
+  "id": "poem-2730da44bb18478131d38e20",
+  "title": "登岳阳楼",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "昔闻洞庭水，今上岳阳楼。",
+    "吴楚东南坼，乾坤日月浮。",
+    "亲朋无一字，老病有孤舟。",
+    "戎马关山北，凭轩涕泗流。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-登岳陽樓"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-82cc",
+  "script": "seal",
+  "character": "苌",
+  "reading": "cháng",
+  "description": "即苌楚\n①苌楚，古书上说的一种植物。\n②姓。\n【苌弘化碧】苌弘的血化作了碧玉。形容精诚。苌弘，又称苌叔，春秋时周大夫。神话传说苌弘被杀后，其血三年化为碧玉。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-苌"
+}

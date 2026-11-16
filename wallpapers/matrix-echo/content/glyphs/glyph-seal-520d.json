@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-520d",
+  "script": "seal",
+  "character": "刍",
+  "reading": "chú",
+  "description": "用草喂牲口\n刍 〈名〉\n喂牲畜的草\n民争负\n①喂牲畜用的草～秣。\n②割草。\n【刍议】谦辞。指自己粗浅的意见、议论。\n⒈割草～牧田中。\n⒉牲畜吃的草。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-刍"
+}

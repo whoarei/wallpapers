@@ -1,0 +1,14 @@
+{
+  "id": "poem-18868459af29e623979b952c",
+  "title": "寄杨侍御",
+  "author": "包何",
+  "dynasty": "唐",
+  "verses": [
+    "一官何幸得同时，十载无媒独见遗。",
+    "今日不论腰下组，请君看取鬓边丝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-2a8dc382-dabc-4d44-933a-a9cd5d1d198f"
+}

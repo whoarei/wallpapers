@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5240",
+  "script": "seal",
+  "character": "剀",
+  "reading": "kǎi",
+  "description": "磨,磨刀\n规劝,讽喻\n杀;砍\n中肯,切实\n⒈讽喻，以此喻彼～讽。\n⒉确实，切实～晓大义。\n①切实～切开导。\n②与事理相符合～切中理。～切详明。\n剀ái 1.捱，挨。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-剀"
+}

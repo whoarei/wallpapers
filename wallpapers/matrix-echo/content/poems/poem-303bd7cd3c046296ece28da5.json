@@ -1,0 +1,14 @@
+{
+  "id": "poem-303bd7cd3c046296ece28da5",
+  "title": "少仪",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "昨日登班缀柏台，更惭起草属微才。",
+    "锦窠不是寻常锦，兼向丘迟夺得来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-19a00417-968f-41c2-87d2-ba89c05b5058"
+}

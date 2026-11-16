@@ -4,6 +4,7 @@
   const table = Uint32Array.from({ length: 256 }, (_, i) => { for (let n = 0; n < 8; n++) i = i & 1 ? 0xedb88320 ^ (i >>> 1) : i >>> 1; return i >>> 0; });
   function crc32(data) { let crc = 0xffffffff; for (const b of data) crc = table[(crc ^ b) & 255] ^ (crc >>> 8); return (crc ^ 0xffffffff) >>> 0; }
   function zip(files) {
+    if (files.length > 65535) throw new Error('单个仓库文件 ZIP 最多包含 65535 个文件，请使用 JSON 备份。');
     const encoder = new TextEncoder(), parts = [], central = []; let offset = 0, centralSize = 0;
     files.forEach(file => {
       const name = encoder.encode(file.name), data = typeof file.data === 'string' ? encoder.encode(file.data) : file.data;

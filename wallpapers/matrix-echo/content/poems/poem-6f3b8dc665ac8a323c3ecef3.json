@@ -1,0 +1,14 @@
+{
+  "id": "poem-6f3b8dc665ac8a323c3ecef3",
+  "title": "送客之蜀",
+  "author": "杨凌",
+  "dynasty": "唐",
+  "verses": [
+    "西蜀三千里，巴南水一方。",
+    "晓云天际断，夜月峡中长。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-e82dfaab-abac-499f-a438-8258a87ac7ce"
+}

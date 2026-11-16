@@ -1,0 +1,16 @@
+{
+  "id": "poem-a8c36d15878c01d99e31d45c",
+  "title": "柳含烟·章台柳",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "章台柳，近垂旒。",
+    "低拂往来冠盖，鞭胧春色满皇州，瑞烟浮。",
+    "直与路边江畔别，免被离人攀折。",
+    "最怜京兆画蛾眉，叶纤时。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-19"
+}

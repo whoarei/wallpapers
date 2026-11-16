@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5f31",
+  "script": "kai",
+  "character": "弱",
+  "reading": "ruò",
+  "description": "ruò：(1)力气小，势力小，与强”相对～小。柔～。脆～。薄～。～不禁风。柔心～骨（形容人心地温柔，性格和顺）。\n(2)年纪小～冠（泛指男子二十岁左右的年纪）。\n(3)不够，差点儿，与强”相对三分之一～。\n(4)差，不如～于。～点。\n(5)丧失（指人死）又～了一个。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-弱"
+}

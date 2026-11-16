@@ -1,0 +1,16 @@
+{
+  "id": "poem-3bfdc524971a0ec8d79431e1",
+  "title": "拟齐梁体寄冯使君三首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "露益蝉声长，蕙兰垂紫带。",
+    "清吟代明月，孤云忽为盖。",
+    "伊余石林人，本是烧畬辈。",
+    "频接谢公棋，输多未曾赛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3dc179e3-6b97-4513-9d55-8b9cdb6673e6"
+}

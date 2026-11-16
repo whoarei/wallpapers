@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-864f",
+  "script": "kai",
+  "character": "虏",
+  "reading": "lǔ",
+  "description": "亦指虏掠、抄掠\n⒈俘获～获。俘～敌军万余人。\n⒉打仗时捉到的敌人优待俘～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-虏"
+}

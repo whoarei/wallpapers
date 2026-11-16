@@ -1,0 +1,18 @@
+{
+  "id": "poem-5dc646cf3f90e60d5e7e5272",
+  "title": "木兰花・玉楼春·溶溶水映娟娟秀",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "溶溶水映娟娟秀。",
+    "浅约宫妆笼翠袖。",
+    "舞馀杨柳乍萦风，睡起海棠犹带酒。",
+    "憔悴萧郎缘底瘦。",
+    "那日花前相见后。",
+    "西窗疑是故人来，费得罗笺诗几首。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-530",
+  "tags": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "poem-6d4e845510e3701ef3d25fde",
+  "title": "郊庙歌辞 享太庙乐章 崇德舞",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "五运改卜，千龄启圣。",
+    "彤云晓聚，黄星夜映。",
+    "叶阐珠囊，基开玉镜。",
+    "下临万宇，上齐七政。",
+    "雾开三象，尘清九服。",
+    "海溓星晖，远安迩肃。",
+    "天地交泰，华夷辑睦。",
+    "翔泳归仁，中外禔福。",
+    "绩逾黜夏，勋高翦商。",
+    "武陈七德，刑设三章。",
+    "祥禽巢阁，仁兽游梁。",
+    "卜年惟永，景福无疆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-064b1fa2-3649-4b01-a0c0-4bc73c9d8a89"
+}

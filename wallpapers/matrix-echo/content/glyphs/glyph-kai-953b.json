@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-953b",
+  "script": "kai",
+  "character": "锻",
+  "reading": "duàn",
+  "description": "锤击\n罗织罪状,陷人于罪\n锻铁用的砧石\n锻 duàn把金属加热后锤打加工。\n【锻锤】金属压力加工用的机器，由动力带动锤头上下移动而产生压力。\n【锻铁】用生铁精炼而成，含碳量在0.15%以下。又称熟铁。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锻"
+}

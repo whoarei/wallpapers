@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9ca4",
+  "script": "seal",
+  "character": "鲤",
+  "reading": "lǐ",
+  "description": "鲤鱼\n一种软鳍淡水鱼,素栖于池塘或缓流中,主要吃植物性食物,可长得相当大,有时能活得很长,原为亚洲产物\n书信的代称\n鲤庭\n鲤lǐ鱼名。鲤鱼体侧扁，嘴边有长短须各一对。生活在淡水中，它是常见的养殖鱼类之一，供食用。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲤"
+}

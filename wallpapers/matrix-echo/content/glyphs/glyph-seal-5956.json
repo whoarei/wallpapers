@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5956",
+  "script": "seal",
+  "character": "奖",
+  "reading": "jiǎng",
+  "description": "劝勉;鼓励\n辅助\n⒉称赞，表扬夸～。嘉～。～罚分明。\n⒊为了鼓励、表扬而给予的荣誉或财物等～状。～章。～金。～品。\n⒋指彩金抽～券。中头～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-奖"
+}

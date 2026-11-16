@@ -1,0 +1,16 @@
+{
+  "id": "poem-23212480718c21128a60a5cf",
+  "title": "采桑子·庭前春逐红英尽",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "庭前春逐红英尽，舞态徘徊。",
+    "细雨霏微，不放双眉时暂开。",
+    "绿窗冷静芳英断，香印成灰。",
+    "可奈情怀，欲睡朦胧入梦来。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-12"
+}

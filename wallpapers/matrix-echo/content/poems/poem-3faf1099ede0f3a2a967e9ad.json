@@ -1,0 +1,16 @@
+{
+  "id": "poem-3faf1099ede0f3a2a967e9ad",
+  "title": "日东病僧",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "云水绝归路，来时风送船。",
+    "不言身后事，犹坐病中禅。",
+    "深壁藏灯影，空窗出艾烟。",
+    "已无乡土信，起塔寺门前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-bf4d1d67-24f7-4e25-8672-5bb1ad607810"
+}

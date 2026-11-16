@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c7d",
+  "script": "kai",
+  "character": "汽",
+  "reading": "qì",
+  "description": "qì：(1)蒸气，液体或固体变成的气体～车。～灯。～化。\n(2)特指水蒸气～船。～笛。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-汽"
+}

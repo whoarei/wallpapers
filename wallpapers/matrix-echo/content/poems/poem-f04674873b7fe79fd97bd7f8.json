@@ -1,0 +1,16 @@
+{
+  "id": "poem-f04674873b7fe79fd97bd7f8",
+  "title": "同韩侍郎秋朝使院",
+  "author": "张南史",
+  "dynasty": "唐",
+  "verses": [
+    "重门启曙关，一叶报秋还。",
+    "露井桐柯湿，风庭鹤翅闲。",
+    "忘情簪白笔，假梦入青山。",
+    "惆怅祗应此，难裁语默间。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6fa1dc58-6378-4da2-9b04-640aa565ab05"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c5f076471952f2a256db620f",
+  "title": "候人",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "彼候人兮，何戈与祋。彼其之子，三百赤芾。",
+    "维鹈在梁，不濡其翼。彼其之子，不称其服。",
+    "维鹈在梁，不濡其咮。彼其之子，不遂其媾。",
+    "荟兮蔚兮，南山朝𬯀。婉兮娈兮，季女斯饥。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-150"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-8bf97acb779c9852a0cb0615",
+  "title": "醉桃源・阮郎归·鸳鸯浓睡碧溪沙",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "鸳鸯浓睡碧溪沙。",
+    "荷花深处家。",
+    "快风收电掣金蛇。",
+    "凉波流素华。",
+    "吴国艳，楚宫娃。",
+    "红潮连翠霞。",
+    "坐来忽忽烛光斜。",
+    "城头闻乱鸦。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-540",
+  "tags": []
+}

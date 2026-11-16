@@ -1,0 +1,15 @@
+{
+  "id": "poem-adc240c42a86344fc6978ed2",
+  "title": "九歌·礼魂",
+  "author": "屈原",
+  "dynasty": "先秦",
+  "verses": [
+    "成礼兮会鼓，传芭兮代舞。",
+    "姱女倡兮容与。",
+    "春兰兮秋菊，长无绝兮终古。"
+  ],
+  "enabled": true,
+  "collection": "楚辞",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/楚辞/chuci.json#record-11"
+}

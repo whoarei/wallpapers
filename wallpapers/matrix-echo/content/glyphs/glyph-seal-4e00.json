@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e00",
+  "script": "seal",
+  "character": "一",
+  "reading": "yī",
+  "description": "yī：(1)数名，最小的正整数（在钞票和单据上常用大写壹”代）。\n(2)纯；专专～。～心～意。\n(3)全；满～生。～地水。\n(4)相同～样。颜色不～。\n(5)另外的蟋蟀～名促织。\n(6)表示动作短暂，或是一次，或具试探性算～算。试～试。\n(7)乃；竞～至于此。\n(8)部分联成整体统～。整齐划～。\n(9)或者～胜～负。\n(10)初次～见如故。\n(11)助词，表示程度深吏呼～何怒，妇啼～何苦！”\n(12)中国古代乐谱记音符号，相当于简谱7”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-一"
+}

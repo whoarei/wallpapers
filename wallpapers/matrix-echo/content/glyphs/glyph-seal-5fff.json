@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5fff",
+  "script": "seal",
+  "character": "忿",
+  "reading": "fèn",
+  "description": "fèn：生气，恨～恨。～怒。～詈（因愤怒而骂）。不～（不服气，不平）。气不～（看到不平的事，心中不服气）。～～不平。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-忿"
+}

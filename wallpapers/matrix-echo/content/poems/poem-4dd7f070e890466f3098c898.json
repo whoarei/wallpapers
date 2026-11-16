@@ -1,0 +1,20 @@
+{
+  "id": "poem-4dd7f070e890466f3098c898",
+  "title": "海阳泉",
+  "author": "无名氏",
+  "dynasty": "唐",
+  "verses": [
+    "人谁无耽爱，各亦有所偏。",
+    "于吾喜尚中，不厌千万泉。",
+    "诚知湟水曲，远在南海壖。",
+    "自从得海阳，便欲终老焉。",
+    "怪石状五岳，旋回枕深渊。",
+    "激繁似涌云，静同冰镜悬。",
+    "吾欲以海阳，跨于河洛间。",
+    "使彼云林客，来游皆忘还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-add85a26-6caf-4763-97e7-6a02560b90f9"
+}

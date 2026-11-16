@@ -1,0 +1,14 @@
+{
+  "id": "poem-5efd2d67d83d02bed6a7ae6e",
+  "title": "秋夕",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "银烛秋光冷画屏，轻罗小扇扑流萤。",
+    "天街夜色凉如水，卧看牵牛织女星。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-秋夕"
+}

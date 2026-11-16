@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6003",
+  "script": "seal",
+  "character": "怃",
+  "reading": "wǔ",
+  "description": "哀怜\n怅然失意的样子\n惊愕的样子\n通妩”。媚好的样子\n⒈茫然失意的样子～然。\n⒉惊愕。\n怃hū 1.傲慢。参见\"怃敖\"。 2.通\"幠\"。大;粗。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怃"
+}

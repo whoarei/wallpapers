@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-91b4",
+  "script": "seal",
+  "character": "醴",
+  "reading": "lǐ",
+  "description": "lǐ：(1)甜酒。\n(2)甜美的泉水～泉。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-醴"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-c4ad5776ca5694af5ccfff7f",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "何须虑，不用焦，人世上离多欢会少。",
+    "大丈夫当万里封侯，肯守着故园空老？毕竟事君事亲一般道，人生怎全得忠和孝？却不见母死王陵归汉朝？(生唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5033",
+  "tags": []
+}

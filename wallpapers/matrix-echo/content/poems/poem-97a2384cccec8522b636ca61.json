@@ -1,0 +1,17 @@
+{
+  "id": "poem-97a2384cccec8522b636ca61",
+  "title": "朝中措·斜斜整整暗江湾",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "斜斜整整暗江湾。",
+    "蓑笠有无间。",
+    "应与君家却暑，冷看白满群山。",
+    "想来何处，金炉焰兽，玉斝酡颜。",
+    "好是溪涵寒影，山影一棹人还。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-158",
+  "tags": []
+}

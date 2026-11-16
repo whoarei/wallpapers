@@ -1,0 +1,18 @@
+{
+  "id": "poem-9e07b3284440c4e918d0edf3",
+  "title": "杭州北郭戴氏荷池送侯愉",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "秋近万物肃，况当临水时。",
+    "折花赠归客，离绪断荷丝。",
+    "谁谓江国永，故人感在兹。",
+    "道存过北郭，情极望东菑。",
+    "乔木故园意，鸣蝉穷巷悲。",
+    "扁舟竟何待，中路每迟迟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-91abfcf4-bf83-443d-976f-11f3b1b332f1"
+}

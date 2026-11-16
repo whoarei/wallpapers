@@ -1,0 +1,16 @@
+{
+  "id": "poem-3294a5700ef9bc07330f30b1",
+  "title": "赠城郭道士",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "望里失却山，听中遗却泉。",
+    "松枝休策云，药囊翻贮钱。",
+    "曾依青桂隣，学得白雪弦。",
+    "别来意未回，世上为隐仙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a4a41811-d96e-4c66-bd18-54f4a135d638"
+}

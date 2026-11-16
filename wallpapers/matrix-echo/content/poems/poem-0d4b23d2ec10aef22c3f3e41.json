@@ -1,0 +1,20 @@
+{
+  "id": "poem-0d4b23d2ec10aef22c3f3e41",
+  "title": "断火谣",
+  "author": "苏拯",
+  "dynasty": "唐",
+  "verses": [
+    "谁谓之推贤，于世何功果。",
+    "绝尔晋侯交，禁我唐虞火。",
+    "国闭檀榆烟，大礼成隳堕。",
+    "暗室枯槁饭，冷面相看坐。",
+    "阳升既非佑，阴伏若为佐。",
+    "焉冻群生腹，将止天下祸。",
+    "但究冤滥刑，天道无不可。",
+    "鄙哉前朝翊赞臣，𬣙谟之规何琐琐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9b4fe8ad-ec28-4e02-b811-6d0be1debfe4"
+}

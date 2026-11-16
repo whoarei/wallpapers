@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5261",
+  "script": "seal",
+  "character": "剡",
+  "reading": "yǎn；shàn",
+  "description": "yǎn：(1)尖，锐利曾枝～棘”。\n(2)削，刮～木为楫。\nshàn：〔～溪〕水名，在中国浙江省。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-剡"
+}

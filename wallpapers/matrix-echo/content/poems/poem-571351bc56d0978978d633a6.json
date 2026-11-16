@@ -1,0 +1,14 @@
+{
+  "id": "poem-571351bc56d0978978d633a6",
+  "title": "杨柳枝寿杯词十八首 二",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "撼晚梳空不自持，与君同折上楼时。",
+    "春风还有常情处，系得人心免别离。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-991b7a35-43c0-43cc-9695-e99329ecdf08"
+}

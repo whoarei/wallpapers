@@ -1,0 +1,16 @@
+{
+  "id": "poem-2f07800ae1ba9dbd3b3bf47a",
+  "title": "四六",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "恶口深乖礼，条中却没文。",
+    "若能不骂詈，即便是贤人。",
+    "（「即便是」，伯三七一六卷作「即是大」，伯三六五六卷作「却便是」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c94a2244-f51b-46c5-88db-cf1b01607dc0"
+}

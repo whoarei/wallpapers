@@ -1,0 +1,16 @@
+{
+  "id": "poem-c35e1f946753b68a0dbe5bfa",
+  "title": "闲园书事招畅当",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "闻蝉昼眠后，欹枕对蓬蒿。",
+    "羸病嬾寻戴，田园方咏陶。",
+    "傍簷虫挂静，出树蝶飞高。",
+    "惆怅临清镜，思君见鬓毛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-8f23af48-ed87-40b3-bbfd-2824769aa0ae"
+}

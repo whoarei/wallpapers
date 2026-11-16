@@ -1,0 +1,16 @@
+{
+  "id": "poem-238b2af8af384ea20b0bb7eb",
+  "title": "哭王注",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "已叹漳滨卧，何言驻隙难。",
+    "异才伤促短，诸友哭门阑。",
+    "古道松声暮，荒阡草色寒。",
+    "延陵今葬子，空使鲁人观。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-287ab2db-8089-4449-bfaa-a292facd81cf"
+}

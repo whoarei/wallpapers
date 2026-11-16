@@ -1,0 +1,16 @@
+{
+  "id": "poem-d68dcd99655961d4007ddaf5",
+  "title": "虞美人·宝檀金缕鸳鸯枕",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "宝檀金缕鸳鸯枕，绶带盘宫锦。",
+    "夕阳低映小窗明，南园绿树语莺莺，梦难成。",
+    "玉炉香暖频添炷，满地飘轻絮。",
+    "珠帘不卷度沉烟，庭前间立画秋千，艳阳天。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-5"
+}

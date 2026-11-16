@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-60ac",
+  "script": "kai",
+  "character": "悬",
+  "reading": "xuán",
+  "description": "牵挂;挂念\n凭空设想;揣测\n⒈吊，挂～挂。～灯。～梁刺股。\n⒉挂念，惦记，关切的心情～念。\n⒊无着落，没结果～案。～而未决。\n⒋无依据，凭空揣度～断。～揣。\n⒌距离远～隔。～殊。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-悬"
+}

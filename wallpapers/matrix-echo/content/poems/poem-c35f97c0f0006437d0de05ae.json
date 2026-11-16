@@ -1,0 +1,16 @@
+{
+  "id": "poem-c35f97c0f0006437d0de05ae",
+  "title": "郊庙歌辞 祀九宫贵神乐章 豫和 四",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "夜如何其，明星煌煌。",
+    "天清容卫，露结坛场。",
+    "树羽幢幢，佩玉锵锵。",
+    "凝精驻目，瞻望神光。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-a859f0e3-355f-4385-bde8-1c793381a587"
+}

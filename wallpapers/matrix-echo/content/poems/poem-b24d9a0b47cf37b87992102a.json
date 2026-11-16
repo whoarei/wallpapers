@@ -1,0 +1,16 @@
+{
+  "id": "poem-b24d9a0b47cf37b87992102a",
+  "title": "临江仙·暮雨凄凄深院闭",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "暮雨凄凄深院闭，灯前凝坐初更。",
+    "玉钗低压鬓云横，半垂罗幕，相映烛光明。",
+    "终是有心投汉佩，低头但理秦筝。",
+    "燕双鸾耦不胜情，只愁明发，将逐楚云行。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-15"
+}

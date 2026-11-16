@@ -1,0 +1,16 @@
+{
+  "id": "poem-6519b38de3f77511c92124c8",
+  "title": "龙翔宫",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "地辟金光界，龙飞析木津。",
+    "指麾开辇路，祠祀拜元辰。",
+    "天近云光煖，花浓雨脉春。",
+    "君王自仁寿，闲杀华封人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-9f2fbb4c-1f5d-47e1-a281-4219dc1a27c8"
+}

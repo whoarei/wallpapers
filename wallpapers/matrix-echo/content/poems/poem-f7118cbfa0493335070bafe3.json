@@ -1,0 +1,26 @@
+{
+  "id": "poem-f7118cbfa0493335070bafe3",
+  "title": "过故人庄",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "故人具鸡黍，邀我至田家。",
+    "绿树村边合，青山郭外斜。",
+    "开筵面场圃，把酒话桑麻。",
+    "待到重阳日，还来就菊花。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "生活",
+    "田园",
+    "友情",
+    "初中古诗",
+    "五言律诗",
+    "山",
+    "七年级上册(课外)",
+    "四年级上册"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-9309205e-1d08-4a7b-99ef-4a05a9ee4370"
+}

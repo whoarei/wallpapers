@@ -1,0 +1,16 @@
+{
+  "id": "poem-63831fba3d7c1ad1c6653c2e",
+  "title": "郊庙歌辞 德明兴圣庙乐章 送神",
+  "author": "李舒",
+  "dynasty": "唐",
+  "verses": [
+    "元精回复，灵贶繁滋。",
+    "风洒兰路，云摇桂旗。",
+    "高丘缅邈，凉部逶迟。",
+    "瞻望靡及，缠绵永思。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-db9b8092-5124-4685-8416-c092806d6bef"
+}

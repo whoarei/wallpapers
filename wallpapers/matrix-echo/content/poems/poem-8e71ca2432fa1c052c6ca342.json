@@ -1,0 +1,14 @@
+{
+  "id": "poem-8e71ca2432fa1c052c6ca342",
+  "title": "途中口号",
+  "author": "卢僎",
+  "dynasty": "唐",
+  "verses": [
+    "抱玉三朝楚，怀书十上秦。",
+    "年年洛阳陌，花鸟弄归人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-05c58936-42d2-4418-87b3-0e60e3c0b046"
+}

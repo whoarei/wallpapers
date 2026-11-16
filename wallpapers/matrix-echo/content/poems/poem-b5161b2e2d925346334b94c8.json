@@ -1,0 +1,15 @@
+{
+  "id": "poem-b5161b2e2d925346334b94c8",
+  "title": "三换头",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "名缰利锁，先自将人摧锉。",
+    "况鸾拘风束，甚日得到家？我也休怨他咱，这其间，只是我，不合来，长安看花。",
+    "闷杀我爹娘也，珠泪窄暗堕。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5055",
+  "tags": []
+}

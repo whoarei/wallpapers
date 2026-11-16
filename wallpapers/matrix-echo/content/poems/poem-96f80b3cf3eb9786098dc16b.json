@@ -1,0 +1,14 @@
+{
+  "id": "poem-96f80b3cf3eb9786098dc16b",
+  "title": "保真院",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "野寺荒山涧水滨，古藤翠筿自摇春。",
+    "僧闲晏坐无人到，内保禅心一味真。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-5b07251d-787d-4c6f-a98e-fb26d4e9699d"
+}

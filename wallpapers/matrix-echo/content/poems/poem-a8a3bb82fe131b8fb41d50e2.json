@@ -1,0 +1,14 @@
+{
+  "id": "poem-a8a3bb82fe131b8fb41d50e2",
+  "title": "宫怨",
+  "author": "任翻",
+  "dynasty": "唐",
+  "verses": [
+    "泪乾红落脸，心尽白垂头。",
+    "自此方知怨，从来岂信愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-f69af4c2-f99b-4593-a732-969d99243fd3"
+}

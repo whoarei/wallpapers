@@ -1,0 +1,18 @@
+{
+  "id": "poem-db529cf91fa3b1f09f537b66",
+  "title": "踏莎行·人问山中",
+  "author": "张抡",
+  "dynasty": "宋",
+  "verses": [
+    "人问山中，因何无暑。",
+    "山堂恰在山深处。",
+    "藤阴满地走龙蛇，泉声万壑鸣风雨。",
+    "且弄青松，休挥白羽。",
+    "相逢况有烟霞侣。",
+    "长天一任火云飞，夜凉踏月相将去。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-938",
+  "tags": []
+}

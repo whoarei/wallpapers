@@ -1,0 +1,20 @@
+{
+  "id": "poem-cc2d7310d6017e433e9fba4c",
+  "title": "和乐天春词",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "verses": [
+    "新妆面面下朱楼，深锁春光一院愁。",
+    "行到中庭数花朵，蜻蜓飞上玉搔头。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "孤独",
+    "春天",
+    "女子",
+    "七言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-297dd100-6aab-4685-a52d-983fb0999c7a"
+}

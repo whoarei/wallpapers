@@ -1,0 +1,15 @@
+{
+  "id": "poem-4770a1ab0afaef461ff7d32c",
+  "title": "赏宫花",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(末)你两个歹凶，拐钱图使用。",
+    "怎知遇着我，你手拿空。",
+    "(合)好似雁从天上过，急忙归去炒油葱。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1784",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-595d2c4ed17cd533c95aaafe",
+  "title": "新堤",
+  "author": "赵崇鉘",
+  "dynasty": "宋",
+  "verses": [
+    "淡烟衰草雨丝丝，小醉微吟倒接篱。",
+    "吟到水西云影北，莞然一笑已无诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-b97f70b7-1d14-4998-b2b2-3510e3acbba6"
+}

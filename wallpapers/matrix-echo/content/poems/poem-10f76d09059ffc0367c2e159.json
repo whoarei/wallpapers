@@ -1,0 +1,16 @@
+{
+  "id": "poem-10f76d09059ffc0367c2e159",
+  "title": "敦煌廿咏（并序） 十四、半壁树咏",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "半壁生奇木，盘根到水涯。",
+    "高柯宠（笼）宿雾，密叶隐朝霞。",
+    "二月含青翠，三秋带紫花。",
+    "森森神树下，祈赛不应赊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-beecc6e1-1682-4a49-9a03-c86501e35bd4"
+}

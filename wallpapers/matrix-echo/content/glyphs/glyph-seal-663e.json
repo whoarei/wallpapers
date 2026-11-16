@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-663e",
+  "script": "seal",
+  "character": "显",
+  "reading": "xiǎn",
+  "description": "表面,外面\n明显;显示得很清楚\n⒈露在外面，易于看出～露。～明。～著。～然。～而易见。\n⒉表现～示。～现。大～身手。\n⒊有声望、有地位的，旧称有权有势的～扬。～达。～赫。～贵。～宦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-显"
+}

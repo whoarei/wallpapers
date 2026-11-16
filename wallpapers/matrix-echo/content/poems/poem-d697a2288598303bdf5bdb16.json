@@ -1,0 +1,14 @@
+{
+  "id": "poem-d697a2288598303bdf5bdb16",
+  "title": "又泛西溪诗十首  其九",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "淡淡春烟夕照微，渡头已觉行人稀。",
+    "玉罇未尽宾朋意，两桨何妨待月归。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-1b89f173-93ee-44d1-b9dc-d74c76c13eb4"
+}

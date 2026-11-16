@@ -1,0 +1,16 @@
+{
+  "id": "poem-cd77fd6b5b8f4de1a93ff370",
+  "title": "送僧游天台",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "囊空心亦空，城郭去腾腾。",
+    "眼作么是眼，僧谁识此僧。",
+    "歇隈红树久，笑看白云崩。",
+    "已有天台约，深秋必共登。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-ff40d41a-7501-4e90-ac9e-62288b730b87"
+}

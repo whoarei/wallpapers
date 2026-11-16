@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7a14",
+  "script": "seal",
+  "character": "稔",
+  "reading": "rěn",
+  "description": "rěn：(1)庄稼成熟丰～。～年（丰收之年）。岁比登～”。\n(2)年，古代谷一熟为年凡五～。\n(3)熟悉，习知～知。～熟。素～。相～。\n(4)事物酝酿成熟恶积衅～”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-稔"
+}

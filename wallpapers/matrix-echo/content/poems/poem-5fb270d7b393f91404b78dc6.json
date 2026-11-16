@@ -1,0 +1,17 @@
+{
+  "id": "poem-5fb270d7b393f91404b78dc6",
+  "title": "摊声浣溪沙・浣溪沙·雨色流香绕坐中",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "雨色流香绕坐中。",
+    "映阶疏竹一丛丛。",
+    "不奈晚来萧瑟意，子猷风。",
+    "潋滟满倾金凿落，淋漓从湿绣芙蓉。",
+    "吸尽百川天上去，看长虹。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-756",
+  "tags": []
+}

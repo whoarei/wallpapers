@@ -1,0 +1,14 @@
+{
+  "id": "poem-79d23398283c13dbdbbd44ca",
+  "title": "生姜芽",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［外］从他往京畿，两月余，一心指望登科第，回乡里，怎舍得轻辜负？相门重赘多娇女，不思量撇下荆钗妇。",
+    "［合］弃旧怜新小人儒，亏心折尽平生福。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8189",
+  "tags": []
+}

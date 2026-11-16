@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5760",
+  "script": "kai",
+  "character": "坠",
+  "reading": "zhuì",
+  "description": "剑之所从坠。\n⒈落，掉下，下沉～落。～下。天欲～。船锚正在下～。\n⒉系在物体上的垂着之东西扇～儿。耳～子。\n①耳坠。\n②河南、山东等地的一种曲艺河南～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-坠"
+}

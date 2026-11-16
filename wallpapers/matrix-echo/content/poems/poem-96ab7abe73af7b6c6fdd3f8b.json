@@ -1,0 +1,14 @@
+{
+  "id": "poem-96ab7abe73af7b6c6fdd3f8b",
+  "title": "偈颂三十首  其一",
+  "author": "释印肃",
+  "dynasty": "宋",
+  "verses": [
+    "捏不成团拨不开，何须南岳又天台。",
+    "六根门首无人用，惹得胡僧特地来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-58bd5e35-186b-43c5-aca2-4f6d626ea93c"
+}

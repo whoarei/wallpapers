@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-900f",
+  "script": "kai",
+  "character": "透",
+  "reading": "tòu",
+  "description": "tòu：(1)通过，穿通～明。～镜。～视。～析。渗～。穿～。\n(2)通达～彻。～辟。\n(3)泄露～露。\n(4)极度恨～了。\n(5)显露这朵花白里～红。\n(6)达到饱满、充分的程度雨下～了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-透"
+}

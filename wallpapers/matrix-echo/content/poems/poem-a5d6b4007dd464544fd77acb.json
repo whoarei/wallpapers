@@ -1,0 +1,20 @@
+{
+  "id": "poem-a5d6b4007dd464544fd77acb",
+  "title": "塞北二首 一",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "虏障天骄起，秦城地脉分。",
+    "柏坛飞五将，梅吹动三军。",
+    "锋刃奔涛色，旌旗焰火文。",
+    "朔风吹汗漫，飘砾洒轒辒。",
+    "海气如秋雨，边烽似夏云。",
+    "二庭无岁月，百战有功勋。",
+    "形影随鱼贯，音书在雁群。",
+    "归来拜天子，凯乐助南薰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-385583d6-9a4d-4e07-baf6-256cb67f49bf"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7303",
+  "script": "seal",
+  "character": "猃",
+  "reading": "xiǎn",
+  "description": "长嘴的狗\n载猃歇骄\n猃狁\n黄头黑犬\n猃狁，玭狁\n⒈〈古〉指一种长嘴的狗。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-猃"
+}

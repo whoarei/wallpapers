@@ -1,0 +1,16 @@
+{
+  "id": "poem-dda4071e421ebe340245a726",
+  "title": "摊破浣溪沙·风絮飘残已化萍",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "风絮飘残已化萍，泥莲刚倩藕丝萦。",
+    "珍重别拈香一瓣，记前生。",
+    "人到情多情转薄，而今真个悔多情。",
+    "又到断肠回首处，泪偷零。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-123"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2c46979caec1baad2f952147",
+  "title": "曳鼎歌",
+  "author": "则天皇后",
+  "dynasty": "唐",
+  "verses": [
+    "羲农首出，轩昊膺期。",
+    "唐虞继踵，汤禹乘时。",
+    "天下光宅，海内雍熙。",
+    "上玄降鉴，方建隆基。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-623de378-ac00-4dec-99c2-10e4668ff7ce"
+}

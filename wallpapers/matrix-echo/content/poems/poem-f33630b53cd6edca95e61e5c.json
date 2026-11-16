@@ -1,0 +1,16 @@
+{
+  "id": "poem-f33630b53cd6edca95e61e5c",
+  "title": "思越人·渚莲枯",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "渚莲枯，宫树老，长洲废萧条。",
+    "想象玉人空处所，月明独上溪桥。",
+    "经春初败秋风起，江兰绿蕙愁死。",
+    "一片风流伤心地，魂销目断西子。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-40"
+}

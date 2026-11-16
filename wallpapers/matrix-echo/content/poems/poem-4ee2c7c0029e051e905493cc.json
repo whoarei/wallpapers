@@ -1,0 +1,14 @@
+{
+  "id": "poem-4ee2c7c0029e051e905493cc",
+  "title": "云门山投龙诗刻（并序）",
+  "author": "赵居贞",
+  "dynasty": "唐",
+  "verses": [
+    "（按《全唐诗》卷二百五十八收此诗，《山左金石志》石刻亦载之，惟异文较多，且序中有二十余字，诗中有四句为《全唐诗》所无，故重为录出，而以《全唐诗》校之。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-a1869336-c181-482e-922b-093660e76dcc"
+}

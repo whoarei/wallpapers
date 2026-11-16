@@ -1,0 +1,16 @@
+{
+  "id": "poem-b232186104cbd1fc221d089b",
+  "title": "芜城",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "昔人登此地，丘陇已前悲。",
+    "今日又非昔，春风能几时。",
+    "风吹城上树，草没城边路。",
+    "城里月明时，精灵自来去。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-1187b7da-e4e4-4d63-800b-3e6e9d99d57e"
+}

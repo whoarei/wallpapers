@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-933e",
+  "script": "seal",
+  "character": "錾",
+  "reading": "zàn",
+  "description": "小凿,雕凿金石的工具\n雕,刻\n磨刀出锋\n錾刀\n錾子\n⒈雕凿金石的小凿子钢～子。\n⒉在金石上雕刻～字画。～花纹。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-錾"
+}

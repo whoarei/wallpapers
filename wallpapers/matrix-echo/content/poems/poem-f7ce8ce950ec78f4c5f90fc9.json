@@ -1,0 +1,18 @@
+{
+  "id": "poem-f7ce8ce950ec78f4c5f90fc9",
+  "title": "鹧鸪天·说著分飞百种猜",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "说著分飞百种猜。",
+    "泥人细数几时回。",
+    "风流可惯曾孤冷，怀抱如何得好开。",
+    "垂玉箸，下香阶。",
+    "凭肩小语更兜鞋。",
+    "再三莫遣归期误，第一频教入梦来。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-752",
+  "tags": []
+}

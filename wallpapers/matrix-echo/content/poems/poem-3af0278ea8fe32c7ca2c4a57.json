@@ -1,0 +1,16 @@
+{
+  "id": "poem-3af0278ea8fe32c7ca2c4a57",
+  "title": "临江仙·一番荷芰生池沼",
+  "author": "尹鹗 六首",
+  "dynasty": "五代",
+  "verses": [
+    "一番荷芰生池沼，槛前风送馨香。",
+    "昔年于此伴萧娘，相偎伫立，牵惹叙衷肠。",
+    "时逞笑容无限态，还如菡萏争芳。",
+    "别来虚遣思悠飏，慵窥往事，金锁小兰房。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-27"
+}

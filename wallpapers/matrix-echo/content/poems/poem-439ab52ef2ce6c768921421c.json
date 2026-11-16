@@ -1,0 +1,14 @@
+{
+  "id": "poem-439ab52ef2ce6c768921421c",
+  "title": "寓北山小阁因事偶作",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "老去将贫买得闲，十层梯下是人间。",
+    "忽因送客闻新事，又嘱山童紧著关。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-9c369509-b307-460c-87eb-b2e45608af4c"
+}

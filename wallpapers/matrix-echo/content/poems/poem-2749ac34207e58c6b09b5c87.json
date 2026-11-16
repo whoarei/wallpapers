@@ -1,0 +1,16 @@
+{
+  "id": "poem-2749ac34207e58c6b09b5c87",
+  "title": "观山水障子",
+  "author": "伍乔",
+  "dynasty": "宋",
+  "verses": [
+    "功绩精妍世少伦，图时应倍用心神。",
+    "不知草木承何异，但见江山长带春。",
+    "云势似离岩底石，浪花如动岸边苹。",
+    "更疑独泛渔舟者，便是其中旧隠人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-eadf400c-75c9-4736-8b37-4ad04fd92fdc"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3eb028fb9ad136aa79914939",
+  "title": "送别驾赴晋陵即舍人叔之兄",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "诸宗称叔父，从子亦光辉。",
+    "谢脁中书直，王祥别乘归。",
+    "江帆冲雨上，海树隔潮微。",
+    "南阮贫无酒，唯将泪湿衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-0f2f5bed-450c-40f4-b45c-4838badedf18"
+}

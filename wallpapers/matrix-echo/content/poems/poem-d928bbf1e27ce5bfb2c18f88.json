@@ -1,0 +1,16 @@
+{
+  "id": "poem-d928bbf1e27ce5bfb2c18f88",
+  "title": "赠皇甫侍御赴都八首 六",
+  "author": "元希声",
+  "dynasty": "唐",
+  "verses": [
+    "载怀朋情，尝接闲宴。",
+    "好洽昆弟，官联州县。",
+    "如彼松竹，春荣冬蒨。",
+    "柯叶蔼然，不渝霜霰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-30769653-572f-4c56-8a3c-b01750734092"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-dee284477b30d8b6499d77d0",
+  "title": "幸梨园亭观打毬应制",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "今春芳苑游，接武上琼楼。",
+    "宛转萦香骑，飘飖拂画毬。",
+    "俯身迎未落，回辔逐傍流。",
+    "秖为看花鸟，时时误失筹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-70585fc1-31c6-4d25-92a0-f8c52cc26957"
+}

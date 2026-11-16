@@ -1,0 +1,16 @@
+{
+  "id": "poem-66b959ab52d16e4d105c82b1",
+  "title": "暮秋迁客增思寄京华",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "宋玉怨三秋，张衡复四愁。",
+    "思乡雁北至，欲别水东流。",
+    "倚树看黄叶，逢人诉白头。",
+    "佳期不可失，落日自登楼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-0167aaca-d4f5-4e4b-9fb8-bd29260f31b7"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6979",
+  "script": "seal",
+  "character": "楹",
+  "reading": "yíng",
+  "description": "yíng：(1)堂屋前部的柱子～联（亦称楹帖”）。\n(2)量词，古代计算房屋的单位，一说一列为一楹；一说一间为一楹。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-楹"
+}

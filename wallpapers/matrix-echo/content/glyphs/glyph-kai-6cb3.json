@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6cb3",
+  "script": "kai",
+  "character": "河",
+  "reading": "hé",
+  "description": "hé：(1)水道的通称～道。～沟。～谷。～流。～滩。～沿。～鲜（供食用的新鲜河鱼、河虾等）。～港。～湾。～网。～运。内～。\n(2)特指中国黄河～套。～防。\n(3)指银河系”天～。～汉。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-河"
+}

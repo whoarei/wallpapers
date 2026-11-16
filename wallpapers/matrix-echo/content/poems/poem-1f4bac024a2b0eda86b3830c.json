@@ -1,0 +1,16 @@
+{
+  "id": "poem-1f4bac024a2b0eda86b3830c",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "闻道是关西，老将太尉。",
+    "(净)本不敢，直入来谒见，托在同官，又是亲戚。",
+    "请郡主出来这里，听洒拜启，休要致疑。",
+    "(合同前)(旦出)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2730",
+  "tags": []
+}

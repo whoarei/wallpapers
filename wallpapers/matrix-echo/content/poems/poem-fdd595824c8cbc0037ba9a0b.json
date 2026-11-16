@@ -1,0 +1,14 @@
+{
+  "id": "poem-fdd595824c8cbc0037ba9a0b",
+  "title": "宿冽上人房",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "浮生不定若蓬飘，林下真僧偶见招。",
+    "觉后始知身是梦，更闻寒雨滴芭蕉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-4d73b24b-e146-42ff-b054-a36690c29a0c"
+}

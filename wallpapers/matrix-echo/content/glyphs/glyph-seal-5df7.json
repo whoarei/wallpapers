@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5df7",
+  "script": "seal",
+  "character": "巷",
+  "reading": "xiàng；hàng",
+  "description": "xiàng：胡同，里弄小～。陋～。穷～。～陌（街道）。～战（在城市街巷里进行的战斗）。穷街陋～。\nhàng：义同（一）。\n〔～道〕采矿或探矿时挖的坑道。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-巷"
+}

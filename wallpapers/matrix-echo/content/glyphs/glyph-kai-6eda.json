@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6eda",
+  "script": "kai",
+  "character": "滚",
+  "reading": "gǔn",
+  "description": "gǔn：(1)水流翻腾大江～～东去。\n(2)形容急速地翻腾风烟～～。\n(3)水煮开，沸腾～沸。～开。\n(4)旋转着移动～动。翻～◇～翻。～筒。～珠。～雪球。\n(5)走开，离开（含斥责意）～出去！\n(6)一种缝纫方法，沿着衣服等的边缘缝上布条、带子等～边。\n(7)很，极，特别～烫。～圆。～瓜流油。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-滚"
+}

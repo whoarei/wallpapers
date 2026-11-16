@@ -1,0 +1,20 @@
+{
+  "id": "poem-3d1c689ea8bc32ac03bad430",
+  "title": "岁暮归南山",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "北阙休上书，南山归敝庐。",
+    "不才明主弃，多病故人疎。",
+    "白发催年老，青阳逼岁除。",
+    "永怀愁不寐，松月夜窗虚。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "抒情",
+    "失意"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-542cb326-1037-4bd9-b0f6-6479d165dc4c"
+}

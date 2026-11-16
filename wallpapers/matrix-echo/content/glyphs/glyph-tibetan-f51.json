@@ -4,5 +4,7 @@
   "character": "ད",
   "reading": "da",
   "description": "藏文基本字母之一。这里展示字母本身，具体词义取决于组合与语境。",
-  "enabled": true
+  "enabled": true,
+  "collection": "藏文基本字母",
+  "source": "原有内置文字简注；汉字按常用义说明，彝藏文字按音节或字母名说明。"
 }

@@ -1,0 +1,16 @@
+{
+  "id": "poem-c33a1062b371b1dfc104cf15",
+  "title": "谒金门·秋已暮",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "秋已暮，重叠关山岐路。",
+    "嘶马摇鞭何处去，晓禽霜满树。",
+    "梦断禁城神鼓，泪滴枕檀无数。",
+    "一点凝红和薄雾，翠蛾愁不语。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-43"
+}

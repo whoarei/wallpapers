@@ -1,0 +1,16 @@
+{
+  "id": "poem-111ed30d0196202949e71de8",
+  "title": "应天长·平江波暖鸳鸯语",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "平江波暖鸳鸯语，两两镏般归极浦。",
+    "芦州一夜风和雨，飞起浅沙翘雪鹭。",
+    "渔灯明远渚，兰棹今宵何处。",
+    "罗袂从风轻举，愁杀采莲女。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-30"
+}

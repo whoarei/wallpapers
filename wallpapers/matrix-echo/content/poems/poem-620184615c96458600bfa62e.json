@@ -1,0 +1,17 @@
+{
+  "id": "poem-620184615c96458600bfa62e",
+  "title": "醋葫芦",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "我问你何处是家？那个是亲？几年上落发做僧人？(唐僧云)出母胞胎，便做僧人。",
+    "(夫人唱)出胞胎便怎生离世尘？也是你前生有分，便是离母腹中出家，也须索有你爷娘。",
+    "与我从头一一说缘因。",
+    "(唐僧云)我父姓陈，母姓殷。",
+    "(夫人唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-7961",
+  "tags": []
+}

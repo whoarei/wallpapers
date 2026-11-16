@@ -1,0 +1,16 @@
+{
+  "id": "poem-434d9c5638b93acefc625cfb",
+  "title": "归国遥·春欲暮",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "春欲暮，满地落花红带雨。",
+    "惆怅玉笼鹦鹉，单栖无伴侣。",
+    "南望去程何许，问花花不语。",
+    "早晚得同归去，恨无双翠羽。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-38"
+}

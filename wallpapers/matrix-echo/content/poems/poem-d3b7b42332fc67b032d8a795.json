@@ -1,0 +1,16 @@
+{
+  "id": "poem-d3b7b42332fc67b032d8a795",
+  "title": "早行",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "万类半已动，此心宁自安。",
+    "月沈平野尽，星隐曙空残。",
+    "马渡横流广，人行湛露寒。",
+    "还思犹梦者，不信早行难。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-190bb6b0-5c3e-46bd-afa7-1aa2f21e2fbf"
+}

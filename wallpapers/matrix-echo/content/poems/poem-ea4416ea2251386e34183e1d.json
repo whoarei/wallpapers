@@ -1,0 +1,20 @@
+{
+  "id": "poem-ea4416ea2251386e34183e1d",
+  "title": "转调蝶恋花・蝶恋花·渐近朱门香夹道",
+  "author": "沈蔚",
+  "dynasty": "宋",
+  "verses": [
+    "渐近朱门香夹道。",
+    "一片笙歌，依约楼台杪。",
+    "野色和烟满芳草。",
+    "溪光曲曲山回抱。",
+    "物华不逐人间老。",
+    "日日春风，在处花枝好。",
+    "莫恨云深路难到。",
+    "刘郎可惜归来早。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-988",
+  "tags": []
+}

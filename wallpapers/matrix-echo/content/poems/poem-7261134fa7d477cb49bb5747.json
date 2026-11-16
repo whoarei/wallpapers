@@ -1,0 +1,14 @@
+{
+  "id": "poem-7261134fa7d477cb49bb5747",
+  "title": "闲吟",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "考摭妍媸用破心，翦裁千古献当今。",
+    "闲吟不是闲吟事，事有闲思闲要吟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-35b0faff-992f-41d0-a4a3-b00784bcfb34"
+}

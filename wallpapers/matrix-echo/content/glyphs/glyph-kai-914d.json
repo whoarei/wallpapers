@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-914d",
+  "script": "kai",
+  "character": "配",
+  "reading": "pèi",
+  "description": "pèi：(1)两性结合～偶。～种（zhǒng）。\n(2)相互分工合作～合。～器。\n(3)用适当的标准加以调和～料。～制。～伍。～药。～色。～餐。\n(4)有计划地分派、安排～备。～置。～给（jǐ）。分～。搭～。\n(5)把缺少的补足～套。～乐（yuè）。装～。\n(6)衬托，陪衬～搭。～角儿（juér）。～殿§花～绿叶。\n(7)够得上～得上。\n(8)古代把罪人遣放到边远地区充军～军。发～。刺～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-配"
+}

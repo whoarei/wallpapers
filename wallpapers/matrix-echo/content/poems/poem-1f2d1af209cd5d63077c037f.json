@@ -1,0 +1,14 @@
+{
+  "id": "poem-1f2d1af209cd5d63077c037f",
+  "title": "赠从弟谷",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "此世荣枯岂足惊，相逢惟要眼长青。",
+    "从来不爱三闾死，今日凭君莫独醒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-917638b9-f60e-4f06-adba-4b2564f8657c"
+}

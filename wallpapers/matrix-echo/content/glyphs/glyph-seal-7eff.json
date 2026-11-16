@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7eff",
+  "script": "seal",
+  "character": "绿",
+  "reading": "lǜ",
+  "description": "通菉”。一种野菜\n绿林\n绿林好汉\n绿林起义\n⒈一般草和树叶的颜色。\n②旧时指上山为匪，抢劫财物的集团。\n⒈像一般草或树叶的颜色，蓝和黄混合而成的颜色～叶。～水青山。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绿"
+}

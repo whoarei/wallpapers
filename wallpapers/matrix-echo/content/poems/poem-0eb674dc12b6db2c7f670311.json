@@ -1,0 +1,14 @@
+{
+  "id": "poem-0eb674dc12b6db2c7f670311",
+  "title": "桂",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "金虫镂月影玲珑，璧叶将秋锁翠栊。",
+    "昨夜楼台风露冷，几人魂梦入林中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-5aaae42b-f243-47ea-82ed-9e97c2c2aff7"
+}

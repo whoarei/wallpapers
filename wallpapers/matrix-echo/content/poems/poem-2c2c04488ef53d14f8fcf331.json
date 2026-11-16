@@ -1,0 +1,17 @@
+{
+  "id": "poem-2c2c04488ef53d14f8fcf331",
+  "title": "石留",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "江流汤汤，日夜不休。",
+    "瞿塘滟滪，屹然不流。",
+    "人心人心，反复难任。",
+    "昨日朱丝琴，今日白头吟。",
+    "望夫石，留到今。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-d0158ad6-201c-49f5-928f-1466002a1c5b"
+}

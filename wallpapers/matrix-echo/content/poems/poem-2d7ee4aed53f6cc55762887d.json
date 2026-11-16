@@ -1,0 +1,18 @@
+{
+  "id": "poem-2d7ee4aed53f6cc55762887d",
+  "title": "上元日梦王母献白玉环",
+  "author": "张佐",
+  "dynasty": "唐",
+  "verses": [
+    "梦中朝上日，阙下拜天颜。",
+    "仿佛瞻王母，分明献玉环。",
+    "灵姿趋甲帐，悟道契玄关。",
+    "似见霜姿白，如看月彩弯。",
+    "霓裳归物外，凤历晓人寰。",
+    "仙圣非相远，昭昭寤寐间。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-a8ad6062-6360-4804-8a85-e123e41c7058"
+}

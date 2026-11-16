@@ -1,0 +1,25 @@
+{
+  "id": "poem-fae407601d79fd2e22c49a72",
+  "title": "秋登兰山寄张五",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "北山白云里，隐者自怡悦。",
+    "相望试登高，心飞逐鸟灭。",
+    "愁因薄暮起，兴是清秋发。",
+    "时见归村人，沙行渡头歇。",
+    "天边树若荠，江畔舟如月。",
+    "何当载酒来，共醉重阳节。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言古诗",
+    "秋天",
+    "登高",
+    "山",
+    "怀人"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-56ca5b29-4bb9-4f12-9200-6bc7c72e4e47"
+}

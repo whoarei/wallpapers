@@ -1,0 +1,15 @@
+{
+  "id": "poem-7c81f00b2817e40457d5c72f",
+  "title": "匪风",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "匪风发兮，匪车偈兮。顾瞻周道，中心怛兮。",
+    "匪风飘兮，匪车嘌兮。顾瞻周道，中心吊兮。",
+    "谁能亨鱼？溉之釜鬵。谁将西归？怀之好音。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-148"
+}

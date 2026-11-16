@@ -1,0 +1,16 @@
+{
+  "id": "poem-b8e7847757c2a07b863e180a",
+  "title": "菩萨蛮·朔风吹散三更雪",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "朔风吹散三更雪，倩魂犹恋桃花月。",
+    "梦好莫催醒，由他好处行。",
+    "无端听画角，枕畔红冰薄。",
+    "塞马一声嘶，残星拂大旗。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-105"
+}

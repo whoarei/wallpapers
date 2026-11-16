@@ -1,0 +1,14 @@
+{
+  "id": "poem-a665d36e90789b2c4a9b0571",
+  "title": "见色便见心颂",
+  "author": "本先",
+  "dynasty": "唐",
+  "verses": [
+    "若是见色便见心，人来问著方难答。",
+    "更求道理说多般，孤负平生三事衲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-ea95db3f-9de6-4fef-9d65-c3d9494b95f9"
+}

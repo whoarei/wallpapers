@@ -1,0 +1,17 @@
+{
+  "id": "poem-7c0bb796c45321abc05c20c7",
+  "title": "短歌行",
+  "author": "冯著",
+  "dynasty": "唐",
+  "verses": [
+    "寂寞草中兰，亭亭山上松。",
+    "贞芳日有分，生长耐相容。",
+    "结根各得地，幸沾雨露功。",
+    "参辰无停泊，且顾一西东。",
+    "君但开怀抱，猜恨莫怱怱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-90a5027b-b4c8-4f7b-a79a-0590bbba125d"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-535c",
+  "script": "seal",
+  "character": "卜",
+  "reading": "bo；bǔ",
+  "description": "bǔ：(1)古人迷信，用火灼龟甲，以为看了那灼开的裂纹就可以推测出行事的吉凶。\n(2)预料，估计，猜测预～。\n(3)选择（处所）～宅。～邻。\n（蕁）\nbo：〔萝～〕见萝”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-卜"
+}

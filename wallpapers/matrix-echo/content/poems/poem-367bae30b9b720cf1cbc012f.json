@@ -1,0 +1,14 @@
+{
+  "id": "poem-367bae30b9b720cf1cbc012f",
+  "title": "立春偶成",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "律回岁晚冰霜少，春到人间草木知。",
+    "便觉眼前生意满，东风吹水绿参差。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-立春偶成"
+}

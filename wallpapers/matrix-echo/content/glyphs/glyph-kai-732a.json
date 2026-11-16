@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-732a",
+  "script": "kai",
+  "character": "猪",
+  "reading": "zhū",
+  "description": "zhū：(1)哺乳动物，肉可食，鬃可制刷，皮可制革，粪是很好的肥料～倌。～场。～圈（juàn）。～肉。生～。野～。种（zhǒng）～。\n(2)古同潴”，水积存之处。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-猪"
+}

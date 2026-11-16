@@ -1,0 +1,16 @@
+{
+  "id": "poem-fc17f00efcd29535febff58f",
+  "title": "送从叔阳冰祇召赴都",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "自小从游惯，多由戏笑偏。",
+    "常时矜礼数，渐老荷优怜。",
+    "见主承休命，为郎贵晚年。",
+    "伯喈文与篆，虚作汉家贤。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-528dac78-a720-4031-8164-12f0f165c2e1"
+}

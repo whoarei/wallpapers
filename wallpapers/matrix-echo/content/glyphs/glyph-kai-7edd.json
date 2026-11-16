@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7edd",
+  "script": "kai",
+  "character": "绝",
+  "reading": "jué",
+  "description": "引申为断,断绝\n以绝秦望。\n秦王惊,自引而起,袖\n⒈断，隔断～交。～缘体。\n⒉完，完全，穷尽气～。～无例外。～处逢生。敌人陷入～境。\n⒊极，非常～密。～伦。～妙。～大多数。～无仅有。〈引〉高超，独特～技。～招。\n⒋一定，无论如何～不允许贪赃枉法。\n①极端，非常～顶的聪明。\n②最高峰泰山～顶。会当凌～顶。\n①最，极～对可靠。\n②完全，一定～对办得好。\n③无条件的，不受任何限制的～对存在于相对之中，在相对中有～对。\n④只根据一个条件测算的～对温度。～对高度。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-绝"
+}

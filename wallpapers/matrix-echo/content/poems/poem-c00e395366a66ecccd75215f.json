@@ -1,0 +1,14 @@
+{
+  "id": "poem-c00e395366a66ecccd75215f",
+  "title": "偈颂七十一首  其三六",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "火种深埋冷寂中，几回拨著煖烘烘。",
+    "不知将谓吹嘘力，元是东君信息通。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-3589d06f-44b6-4a35-b96c-cf757b81ae3e"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6cb8",
+  "script": "kai",
+  "character": "沸",
+  "reading": "fèi",
+  "description": "fèi：(1)开，滚，液体受热到一定温度时，内部发生气泡，表面翻滚，变成蒸气～点。～水。～涌。～腾（亦喻事物蓬勃发展或情绪高涨）。～反盈天（形容人声喧闹，乱成一片）。人声鼎～。\n(2)波涌的样子～郁（ａ．翻涌的样子；ｂ．愤懑不平的样子）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沸"
+}

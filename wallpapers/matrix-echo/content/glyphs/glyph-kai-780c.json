@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-780c",
+  "script": "kai",
+  "character": "砌",
+  "reading": "qì；qiè",
+  "description": "qì：(1)建筑时垒砖石，用泥灰粘合～墙。堆～（亦喻写文章时使用大量华丽而无用的词语）。\n(2)台阶雕栏玉～。\nqiè：〔～末〕中国元曲中称戏曲舞台上所用的简单布景和特制的器物。亦作切末”（末”均读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-砌"
+}

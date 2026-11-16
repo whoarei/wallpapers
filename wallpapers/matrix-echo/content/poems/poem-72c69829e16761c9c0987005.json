@@ -1,0 +1,14 @@
+{
+  "id": "poem-72c69829e16761c9c0987005",
+  "title": "春秋战国门 再吟",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "好龙天为降真龙，及见真龙瘁厥躬。",
+    "接下不勤徒好士，叶公何异鲁哀公。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-31319f1a-06c4-441d-a68a-de98bc663a47"
+}

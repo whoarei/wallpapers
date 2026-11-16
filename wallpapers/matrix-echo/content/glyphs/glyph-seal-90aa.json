@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-90aa",
+  "script": "seal",
+  "character": "邪",
+  "reading": "xié；yá；yé；yú；xú",
+  "description": "xié：(1)不正当，不正派～恶（è）。～念。～说。\n(2)中医指引起疾病的环境因素寒～。风～。\n(3)迷信的人指鬼神给予的灾祸中（zhòng）～。\n(4)妖异怪诞～魔。～术。\n(5)古同斜”。\n正；\nyá：古同玡”，琅玡山。\n正；\nyé：古同耶”，疑问词。\n正；\nyú：古同餹”。\n正；\nxú：古同徐”，缓慢。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-邪"
+}

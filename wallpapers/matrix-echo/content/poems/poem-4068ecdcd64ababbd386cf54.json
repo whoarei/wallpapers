@@ -1,0 +1,14 @@
+{
+  "id": "poem-4068ecdcd64ababbd386cf54",
+  "title": "百舌鸟二首 二",
+  "author": "无则",
+  "dynasty": "唐",
+  "verses": [
+    "长截隣鸡叫五更，数般名字百般声。",
+    "饶伊摇舌先知晓，也待青天明即鸣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-46fa6fc6-61d8-478a-ae84-429cf9a4871a"
+}

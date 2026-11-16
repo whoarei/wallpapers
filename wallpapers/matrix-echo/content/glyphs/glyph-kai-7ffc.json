@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7ffc",
+  "script": "kai",
+  "character": "翼",
+  "reading": "yì",
+  "description": "yì：(1)翅膀～翅。比～双飞。卵～。羽～。～护。～蔽。\n(2)左右两侧中的一侧左～。侧～。\n(3)帮助，辅佐～助。\n(4)古同翌”，明天，明年。\n(5)星名，二十八宿之一。\n(6)姓。\n〔～～〕a.谨慎，如小心～～”；b.严整有秩序；c.繁盛，众多。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-翼"
+}

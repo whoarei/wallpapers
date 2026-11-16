@@ -1,0 +1,14 @@
+{
+  "id": "poem-83231689a4a5f22474e2a83f",
+  "title": "春恨三首 一",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "负罪将军在北朝，秦淮芳草绿迢迢。",
+    "高台爱妾魂销尽，始得丘迟为一招。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-30a8471a-2b0f-482d-80b6-7606855a84fc"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7a91e2cbbee78603010696c1",
+  "title": "李舍人山园送庞邵",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "符传有光辉，諠諠出帝畿。",
+    "东隣借山水，南陌驻骖𬴂。",
+    "握手凉风至，当歌秋日微。",
+    "高幨去勿缓，人吏待霜威。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-0c70f20d-13fe-412e-8f42-c5a39ee16831"
+}

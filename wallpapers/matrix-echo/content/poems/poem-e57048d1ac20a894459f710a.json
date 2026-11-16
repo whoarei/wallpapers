@@ -1,0 +1,16 @@
+{
+  "id": "poem-e57048d1ac20a894459f710a",
+  "title": "鼓吹曲辞 巫山高二首 二",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "神女向高唐，巫山下夕阳。",
+    "裴回作行雨，婉娈逐荆王。",
+    "电影江前落，雷声峡外长。",
+    "霁云无处所，台馆晓苍苍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-37063ab6-a303-4864-b68d-9888d19a5124"
+}

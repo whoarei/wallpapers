@@ -1,0 +1,20 @@
+{
+  "id": "poem-40f97fe241a9c8e12400e775",
+  "title": "虞美人·风前玉树玱金韵",
+  "author": "谢逸",
+  "dynasty": "宋",
+  "verses": [
+    "风前玉树玱金韵。",
+    "碧落佳期近。",
+    "疏云影里鹊桥低。",
+    "檐外一弯新月、印修眉。",
+    "星河渐晓铜壶噎。",
+    "又是经年别。",
+    "此情莫与玉人知。",
+    "引起旧家离恨、泪珠垂。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-614",
+  "tags": []
+}

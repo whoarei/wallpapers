@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e2d",
+  "script": "seal",
+  "character": "鸭",
+  "reading": "yā",
+  "description": "水禽名。俗称鸭子\n对其妻有外遇者的称呼\n鸭yā水鸟名。分家～和野～，嘴扁，颈长，脚短，趾间有蹼，善游泳。野鸭会飞。通常指家鸭，不能高飞，可成群饲养，肉、卵供食用，鸭绒供做衣、被等。已有人工饲养野～",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鸭"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-7afac4310fbc88ef7e4a49c8",
+  "title": "过浯溪",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "胡羯自干纪，唐纲竟不维。",
+    "可怜德业浅，有愧此碑词。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-ead0f25a-a569-43c7-b95c-e8037447c9ce"
+}

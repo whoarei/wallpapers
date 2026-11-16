@@ -1,0 +1,16 @@
+{
+  "id": "poem-87c03ee1f9292c71123c719d",
+  "title": "车遥遥",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "自从车马出门朝，便入空房守寂寥。",
+    "玉枕夜残鱼信绝，金钿秋尽雁书遥。",
+    "脸边楚雨临风落，头上春云向日销。",
+    "芳草又衰还不至，碧天霜冷转无憀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-45f4448e-7f26-41ff-a75f-91dfbdd58c04"
+}

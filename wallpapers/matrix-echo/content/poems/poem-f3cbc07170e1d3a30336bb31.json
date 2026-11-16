@@ -1,0 +1,16 @@
+{
+  "id": "poem-f3cbc07170e1d3a30336bb31",
+  "title": "送流人",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "闻说南中事，悲君重窜身。",
+    "山村枫子鬼，江庙石郎神。",
+    "童稚留荒宅，图书托故人。",
+    "青门好风景，为尔一沾巾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6be2f191-b7c7-4861-9212-88a2eb7a5723"
+}

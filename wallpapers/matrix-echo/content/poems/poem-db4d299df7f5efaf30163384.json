@@ -1,0 +1,18 @@
+{
+  "id": "poem-db4d299df7f5efaf30163384",
+  "title": "诗品二十四则 高古",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "畸人乘真，手把芙蓉。",
+    "泛彼浩劫，窅然空纵。",
+    "月出东斗，好风相从。",
+    "太华夜碧，人闻清钟。",
+    "虚伫神素，脱然畦封。",
+    "黄唐在独，落落玄宗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-96104c85-c9df-4967-8fd3-a33d09cd71cb"
+}

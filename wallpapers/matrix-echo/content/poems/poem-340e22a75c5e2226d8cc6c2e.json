@@ -1,0 +1,15 @@
+{
+  "id": "poem-340e22a75c5e2226d8cc6c2e",
+  "title": "笑和尚",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "二郎神神通广，五显圣驱兵将。",
+    "顿剑摇环显出那英雄相，一路上保护唐三藏。",
+    "轰雷掣电从天降，压伏定魔王。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-10123",
+  "tags": []
+}

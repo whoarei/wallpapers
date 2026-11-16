@@ -1,0 +1,16 @@
+{
+  "id": "poem-cba973335e19046dc50faf66",
+  "title": "适南亭",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "子真埋照地，千载委榛莽。",
+    "知音久未会，遗踪寂谁赏。",
+    "华堂始基搆，皂盖日来往。",
+    "高风邈已远，兹焉竞长想。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-aa0743e8-3c10-4d4d-9250-3ccc724ad185"
+}

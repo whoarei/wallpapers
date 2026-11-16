@@ -1,0 +1,21 @@
+{
+  "id": "poem-641cfdfa46ae154c8d54c4a2",
+  "title": "秦中感秋寄远上人",
+  "author": "孟浩然",
+  "dynasty": "唐",
+  "verses": [
+    "一丘常欲卧，三径苦无资。",
+    "北土非吾愿，东林怀我师。",
+    "黄金然桂尽，壮志逐年衰。",
+    "日夕凉风至，闻蝉但益悲。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "归隐",
+    "抒情",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-0613f575-4f07-4326-8591-603fb3d1da45"
+}

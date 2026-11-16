@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65b0",
+  "script": "seal",
+  "character": "新",
+  "reading": "xīn",
+  "description": "xīn：(1)刚有的，刚经验到的；初始的，没有用过的，与旧”、老”相对～生。～鲜。～奇。～贵。～绿。～星。～秀。～闻。～陈代谢。\n(2)性质改变得更好，与旧”相对改过自～。推陈出～。\n(3)不久以前，刚才～近。\n(4)表示一种有异于旧质的状态和性质～时代。～社会。～观念。～思维。\n(5)称结婚时的人或物～娘。～郎。～房。\n(6)中国新疆维吾尔自治区的简称。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-新"
+}

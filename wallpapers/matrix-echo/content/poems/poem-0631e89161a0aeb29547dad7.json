@@ -1,0 +1,17 @@
+{
+  "id": "poem-0631e89161a0aeb29547dad7",
+  "title": "铧锹儿",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "从来你行惯，曾途中历遍。",
+    "今日此行，须是意莫留连。",
+    "遣我朝夕恁忧煎，望得孩儿眼穿。",
+    "子母心，两处悬。",
+    "(和)鸿飞不到处，总被利名牵(末)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8584",
+  "tags": []
+}

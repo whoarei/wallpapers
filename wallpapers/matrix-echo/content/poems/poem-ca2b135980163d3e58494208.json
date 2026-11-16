@@ -1,0 +1,14 @@
+{
+  "id": "poem-ca2b135980163d3e58494208",
+  "title": "咏黄莺",
+  "author": "孙处玄",
+  "dynasty": "唐",
+  "verses": [
+    "欲啭声犹涩，将飞羽未调。",
+    "高风不借便，何处得迁乔。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6fc9de56-4aca-4cbb-8abe-4cfcdb96d3a6"
+}

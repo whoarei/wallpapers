@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d70",
+  "script": "seal",
+  "character": "走",
+  "reading": "zǒu",
+  "description": "zǒu：(1)行～路。～步。\n(2)往来～亲戚。\n(3)移动～向（延伸的方向）。～笔（很快地写）。钟表不～了。\n(4)往来运送～信。～私。\n(5)离去～开。刚～。出～。\n(6)经过～账。～内线。～后门。\n(7)透漏出去，超越范围～气（漏气）。\n(8)失去原样～形。～样。\n(9)古代指奔跑～马。不胫而～。\n(10)仆人，我”的谦辞牛马～（当牛作马的仆人，如太史公～～～。”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-走"
+}

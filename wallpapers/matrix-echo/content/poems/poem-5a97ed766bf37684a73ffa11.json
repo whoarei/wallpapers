@@ -1,0 +1,21 @@
+{
+  "id": "poem-5a97ed766bf37684a73ffa11",
+  "title": "和张仆射塞下曲 二",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "林暗草惊风，将军夜引弓。",
+    "平明寻白羽，没在石棱中。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "将军",
+    "乐府",
+    "边塞",
+    "赞美",
+    "狩猎"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-6d2e12c0-c1b8-4242-888c-9dba1a8f93ce"
+}

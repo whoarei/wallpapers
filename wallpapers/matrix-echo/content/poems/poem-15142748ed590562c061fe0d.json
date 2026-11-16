@@ -1,0 +1,14 @@
+{
+  "id": "poem-15142748ed590562c061fe0d",
+  "title": "谢王连州送海阳图",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "谢家为郡实风流，画得青山寄楚囚。",
+    "惊起草堂寒气晚，海阳潮水到床头。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-bff69f38-a9de-47a9-aa2b-ae8c4a47b7b8"
+}

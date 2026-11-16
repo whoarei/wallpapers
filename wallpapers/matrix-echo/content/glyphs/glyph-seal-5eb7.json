@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5eb7",
+  "script": "seal",
+  "character": "康",
+  "reading": "kāng",
+  "description": "kāng：(1)安宁～乐（lè）。～平。～宁。\n(2)空，空虚萝卜～了。\n(3)宽阔～庄。～衢（四通八达的大路）。\n(4)无病～健。～复。～泰。健～。\n(5)丰盛小～。～年。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-康"
+}

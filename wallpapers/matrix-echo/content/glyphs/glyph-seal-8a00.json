@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8a00",
+  "script": "seal",
+  "character": "言",
+  "reading": "yán",
+  "description": "yán：(1)讲，说～说。～喻。～道。～欢。～情。～必有中（zhòng）（一说就说到点子上）。\n(2)说的话～论。～辞（亦作言词”）。语～。～语。～简意赅。\n(3)汉语的字五～诗。七～绝句。洋洋万～。\n(4)语助词，无义～归于好。～告师氏，～告～归”。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-言"
+}

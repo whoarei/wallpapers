@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7b19",
+  "script": "kai",
+  "character": "笙",
+  "reading": "shēng",
+  "description": "shēng：管乐器名，一般用十三根长短不同的竹管制成，吹奏～歌。芦～。～管乐（yuè）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-笙"
+}

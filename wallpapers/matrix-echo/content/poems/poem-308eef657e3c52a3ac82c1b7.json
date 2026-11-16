@@ -1,0 +1,18 @@
+{
+  "id": "poem-308eef657e3c52a3ac82c1b7",
+  "title": "郊庙歌辞 太清宫乐章 煌煌",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "煌煌道宫，肃肃太清。",
+    "礼光尊祖，乐备充庭。",
+    "罄竭诚至，希夷降灵。",
+    "云凝翠盖，风燄红旌。",
+    "众真以从，九奏初迎。",
+    "永惟休祐，是锡和平。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fe138730-cbf4-45ab-9763-ed22317873a9"
+}

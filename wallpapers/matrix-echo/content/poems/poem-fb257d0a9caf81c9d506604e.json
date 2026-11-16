@@ -1,0 +1,16 @@
+{
+  "id": "poem-fb257d0a9caf81c9d506604e",
+  "title": "横吹曲辞 陇头水",
+  "author": "罗隐",
+  "dynasty": "唐",
+  "verses": [
+    "借问陇头水，年年恨何事。",
+    "全疑呜咽声，中有征人泪。",
+    "自古无长策，况我非深智。",
+    "何计谢潺湲，一宵空不寐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ca2d41ce-a190-4d9b-b000-1670b6ffc9f6"
+}

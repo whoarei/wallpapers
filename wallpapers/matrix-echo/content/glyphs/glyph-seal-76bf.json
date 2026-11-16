@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-76bf",
+  "script": "seal",
+  "character": "皿",
+  "reading": "mǐn",
+  "description": "mǐn：碗、碟、杯、盘一类用器的统称器～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-皿"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-9a42140a433eabb512fe9034",
+  "title": "寄前黄州窦使君",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "池上笙歌寂不闻，楼中愁杀碧虚云。",
+    "玉壶凝尽重重泪，寄与风流旧使君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-df71e847-2c43-4330-93b6-d9746cc9ce74"
+}

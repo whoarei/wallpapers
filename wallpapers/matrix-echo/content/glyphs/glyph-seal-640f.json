@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-640f",
+  "script": "seal",
+  "character": "搏",
+  "reading": "bó",
+  "description": "bó：(1)对打～斗。～击（奋力进击）。～战。～膺（捶胸，表示愤怒）。肉～。拼～。\n(2)跳动～动。脉～。\n(3)捕捉～噬。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-搏"
+}

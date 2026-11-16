@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-73a9",
+  "script": "seal",
+  "character": "玩",
+  "reading": "wán",
+  "description": "wán：(1)游戏～耍。～笑。～兴（xìng）。～具。～偶。\n(2)戏弄，搬弄～弄。～狎。～花招儿。\n(3)观赏～赏。～味。瞻～。～物丧志。\n(4)可供观赏的东西古～。\n(5)轻视，忽视～忽职守。～世不恭。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-玩"
+}

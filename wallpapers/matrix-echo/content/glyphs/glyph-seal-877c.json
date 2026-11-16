@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-877c",
+  "script": "seal",
+  "character": "蝼",
+  "reading": "lóu",
+  "description": "谓肉有臭味如蝼蛄\n谓被蚁蛀蚀\n蝼蛄\n称蝲蝲蛄”,有",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蝼"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-88d9",
+  "script": "kai",
+  "character": "裙",
+  "reading": "qún",
+  "description": "qún：(1)一种围在腰以下的服装～子。～钗。筒～。连衣～。百褶～。\n(2)像裙子的东西墙～。鳖～。～礁（海岸边的珊瑚礁）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-裙"
+}

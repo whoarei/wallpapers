@@ -1,0 +1,16 @@
+{
+  "id": "poem-92e714bf2855ad848bdb1616",
+  "title": "山东兰若遇静公夜归",
+  "author": "唐求",
+  "dynasty": "唐",
+  "verses": [
+    "松门一径微，苔滑往来稀。",
+    "半夜闻钟后，浑身带雪归。",
+    "问寒僧接杖，辨语犬衔衣。",
+    "又是安禅去，呼童闭竹扉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-6b13138e-e63e-4232-89a9-552ad6f21002"
+}

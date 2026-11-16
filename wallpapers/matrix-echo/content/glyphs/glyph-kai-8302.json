@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8302",
+  "script": "kai",
+  "character": "茂",
+  "reading": "mào",
+  "description": "mào：(1)草木旺盛～盛。丰～。\n(2)美，有才德～士。～才（即秀才”）。\n(3)有机化合物，环戊间二烯的简称。无色液体，用来制农药、塑料等。\n(4)古同懋”，勉。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茂"
+}

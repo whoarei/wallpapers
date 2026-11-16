@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-780d",
+  "script": "kai",
+  "character": "砍",
+  "reading": "kǎn",
+  "description": "kǎn：(1)用刀斧等猛剁，用力劈～柴。～伐。\n(2)方言，把东西扔出去～砖头。\n(3)喻取缔（某组织）或取消（某项目、条款）原定的基建项目～了三分之一。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-砍"
+}

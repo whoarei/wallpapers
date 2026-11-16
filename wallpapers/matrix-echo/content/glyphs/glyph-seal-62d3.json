@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62d3",
+  "script": "seal",
+  "character": "拓",
+  "reading": "tuò；tà；zhí",
+  "description": "tuò：(1)开辟，扩充～荒。开～。～展。～落（a.宽广；b.潦倒失意。亦作落拓”）。\n(2)以手推物孔子之劲，能～国门之关，而不肯以力闻”。\n(3)姓。\ntà：在刻铸有文字或图像的器物上，涂上墨，蒙上一层纸，捶打后使凹凸分明，显出文字图像来～印。～本。～片。\nzhí：古同摭”，拾取。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拓"
+}

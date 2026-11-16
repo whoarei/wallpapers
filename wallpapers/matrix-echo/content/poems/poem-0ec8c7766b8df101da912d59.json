@@ -1,0 +1,16 @@
+{
+  "id": "poem-0ec8c7766b8df101da912d59",
+  "title": "浣溪沙·庚申除夜",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "收取闲心冷处浓，舞裙犹忆柘枝红。",
+    "谁家刻烛待春风。",
+    "竹叶樽空翻采燕，九枝灯灺颤金虫。",
+    "风流端合倚天公。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-13"
+}

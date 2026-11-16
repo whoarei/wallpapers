@@ -1,0 +1,16 @@
+{
+  "id": "poem-955da2000148c9ca45c195a6",
+  "title": "白田西忆楚州使君弟",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "山阳郭里无潮，野水自向新桥。",
+    "鱼网平铺荷叶，鹭鸶闲步稻苗。",
+    "秣陵归人惆怅，楚地连山寂寥。",
+    "却忆士龙宾阁，清琴绿竹萧萧。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-cb4f4170-b86e-44bf-813e-516858bef701"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-745abe692f4a33715adde6b6",
+  "title": "踏雪寻梅",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "探春绕遍玉阑干，香暗冰痕屐齿寒。",
+    "怕有花头遭冻损，枝枝呵手掐来看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-66f65ae3-79e4-4e06-800e-ad23450d2627"
+}

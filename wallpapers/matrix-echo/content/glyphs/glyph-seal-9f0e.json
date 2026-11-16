@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9f0e",
+  "script": "seal",
+  "character": "鼎",
+  "reading": "dǐng",
+  "description": "dǐng：(1)古代烹煮用的器物，一般是三足两耳铜～。～食（列鼎而食，指豪侈生活）。～镬。\n(2)锅～罐。～锅。\n(3)古代视为立国的重器，是政权的象征～彝。九～。定～。问～。～祚（国运）。\n(4)象征三方并立、互相对峙～峙。～足之势。\n(5)大～族。～臣。～力支持。\n(6)正当，正在～盛（shèng）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鼎"
+}

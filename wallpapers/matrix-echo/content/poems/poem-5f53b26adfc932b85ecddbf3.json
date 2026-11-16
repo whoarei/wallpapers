@@ -1,0 +1,19 @@
+{
+  "id": "poem-5f53b26adfc932b85ecddbf3",
+  "title": "失调名·犹将歌扇向人遮",
+  "author": "李清照",
+  "dynasty": "宋",
+  "verses": [
+    "犹将歌扇向人遮。",
+    "水晶山枕象牙床。",
+    "彩云易散月长亏。",
+    "几多深恨断人肠。",
+    "罗衣消尽恁时香。",
+    "闲愁也似月明多。",
+    "直送凄凉到画屏。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-704",
+  "tags": []
+}

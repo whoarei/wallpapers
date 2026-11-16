@@ -1,0 +1,15 @@
+{
+  "id": "poem-6a8a00869bcac39fe3b51840",
+  "title": "采葛",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "彼采葛兮，一日不见，如三月兮！",
+    "彼采萧兮，一日不见，如三秋兮！",
+    "彼采艾兮！一日不见，如三岁兮！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-71"
+}

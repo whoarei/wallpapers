@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7272",
+  "script": "kai",
+  "character": "牲",
+  "reading": "shēng",
+  "description": "shēng：(1)家畜～口。～灵。～畜。\n(2)古代特指供宴飨祭祀用的牛、羊、猪三～。献～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-牲"
+}

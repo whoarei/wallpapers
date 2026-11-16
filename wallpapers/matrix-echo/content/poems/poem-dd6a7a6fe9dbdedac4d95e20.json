@@ -1,0 +1,15 @@
+{
+  "id": "poem-dd6a7a6fe9dbdedac4d95e20",
+  "title": "怀方干张为",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "冥搜入仙窟，半夜水堂前。",
+    "吾道祗如此，古人多亦然。",
+    "萤沈荒坞雾，月苦绿梧蝉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3305e7cf-60ac-4306-87a1-79c080ecb2c7"
+}

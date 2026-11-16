@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-60dc",
+  "script": "kai",
+  "character": "惜",
+  "reading": "xī",
+  "description": "xī：(1)爱，重视爱～。顾～。怜～。珍～。\n(2)舍不得吝～。～别。～力。～指失掌（喻因小失大）。～墨如金。\n(3)感到遗憾，哀痛可～。～悯。惋～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-惜"
+}

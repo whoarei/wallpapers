@@ -1,0 +1,18 @@
+{
+  "id": "poem-6ced98468378410bb9755dfe",
+  "title": "风不鸣条",
+  "author": "黄颇",
+  "dynasty": "唐",
+  "verses": [
+    "五纬起祥飙，无声瑞圣朝。",
+    "稍开含露蘂，才转惹烟条。",
+    "密叶应潜变，低枝几暗摇。",
+    "林间莺欲啭，花下蝶微飘。",
+    "初满沿堤草，因生逐水苗。",
+    "太平无一事，天外奏虞韶。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-7bee6ea7-4c8e-4c50-972a-82cac662b932"
+}

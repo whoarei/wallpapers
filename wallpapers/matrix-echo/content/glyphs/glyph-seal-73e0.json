@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-73e0",
+  "script": "seal",
+  "character": "珠",
+  "reading": "zhū",
+  "description": "zhū：(1)蛤蚌因沙粒窜入壳内受到刺激而分泌的物质，逐层包起来形成圆粒，乳白色或略带黄色，有光泽，可做装饰品，亦可入药。称珍珠”（亦作真珠”，简称珠”）～蚌。～宝。～花。夜明～。～玑（喻优美的词藻或诗文）。～联璧合（珍珠联成串，美玉放在一起，喻人才或美好的事物聚集在一起）。\n(2)像珠子的东西汗～。泪～。露～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-珠"
+}

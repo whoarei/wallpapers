@@ -1,0 +1,16 @@
+{
+  "id": "poem-5b0e65089bd0ad46b29865b6",
+  "title": "玉蝴蝶·霞帔云发",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "秋风凄切伤离，行客未归时。",
+    "塞外草先衰江，南雁到迟。",
+    "芙蓉凋嫩脸，杨柳堕新眉。",
+    "摇落使人悲，断肠谁得知。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-49",
+  "tags": []
+}

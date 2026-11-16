@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6e32",
+  "script": "kai",
+  "character": "渲",
+  "reading": "xuàn",
+  "description": "xuàn：把水、墨淋在纸上再擦匀的画法～染（ａ．中国画技法之一，用水墨或淡的色彩烘涂画面，以加强艺术效果；ｂ．喻夸大地形容；ｃ．文艺作品中通过多方面的描写、形容或烘托来突出形象）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-渲"
+}

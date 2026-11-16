@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-67a2",
+  "script": "kai",
+  "character": "枢",
+  "reading": "shū",
+  "description": "木名,即刺榆\n泛指转轴\n半弦弧不满圜半径者,以矢\n⒈门上的转轴户～。\n⒉事物的关键或中心部分～纽。～要。中～神经。\n枢ōu 1.木名。即刺榆。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-枢"
+}

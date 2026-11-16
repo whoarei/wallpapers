@@ -1,0 +1,18 @@
+{
+  "id": "poem-54f17c9728f02814f3bb1128",
+  "title": "春色满皇州",
+  "author": "封敖",
+  "dynasty": "唐",
+  "verses": [
+    "帝里春光正，葱茏喜气浮。",
+    "锦铺仙禁侧，镜写曲江头。",
+    "红蕚开萧阁，黄丝拂御楼。",
+    "千门歌吹动，九陌绮罗游。",
+    "日近风先满，仁深泽共流。",
+    "应非顦顇质，辛苦在神州。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-63f8c6d2-590e-42f7-ab7f-200d0ca8dd42"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-fbafaa9dec163b1afbd51584",
+  "title": "清明",
+  "author": "王禹偁",
+  "dynasty": "宋",
+  "verses": [
+    "无花无酒过清明，兴味萧然似野僧。",
+    "昨日邻家乞新火，晓窗分与读书灯。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-清明"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-f9e7d9d1f8a76df27b967f8f",
+  "title": "浣溪沙·楼上晴天碧四垂",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "楼上晴天碧四垂。",
+    "楼前芳草接天涯。",
+    "劝君莫上最高梯。",
+    "新笋已成堂下竹，落花都上燕巢泥。",
+    "忍听林表杜鹃啼。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-383",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-19ce1af15c56db9e0f32fb70",
+  "title": "赋东城梅花示哲上人",
+  "author": "綦崇礼",
+  "dynasty": "宋",
+  "verses": [
+    "一枝冷落为谁开，欲遣寒香入酒杯。",
+    "铁石心肠犹解赋，芝兰风味合相陪。",
+    "腊前颇讶疏疏见，春尽何妨得得来。",
+    "十里东城不嫌远，待看山月照徘徊。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-2d1d41e3-cb42-45dc-be92-0b8717de4cf7"
+}

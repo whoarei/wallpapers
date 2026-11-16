@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b79",
+  "script": "seal",
+  "character": "歹",
+  "reading": "dǎi",
+  "description": "dǎi：不好、坏、恶～人。～意。～毒（阴险狠毒）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-歹"
+}

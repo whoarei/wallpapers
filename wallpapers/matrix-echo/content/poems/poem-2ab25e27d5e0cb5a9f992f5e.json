@@ -1,0 +1,20 @@
+{
+  "id": "poem-2ab25e27d5e0cb5a9f992f5e",
+  "title": "翔隼歌送王端公",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "古人赏神骏，如何秋隼击。",
+    "独立高标望霜翮，应看天宇如咫尺。",
+    "低回拂地凌风翔，鹏雏敢下鴈断行。",
+    "晴空四顾忽不见，有时独出青霞傍。",
+    "穷阴万里落寒日，气杀草枯增奋逸。",
+    "云塞斜飞搅叶迷，雪天直上穿花疾。",
+    "见君高情有所属，赠别因歌翔隼曲。",
+    "离亭惨惨客散时，歌尽路长意不足。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-8151068a-111c-4566-8baf-ec3d41d23356"
+}

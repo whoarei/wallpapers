@@ -1,0 +1,20 @@
+{
+  "id": "poem-bc0889502759acacb5b770bd",
+  "title": "过太乙观贾生房",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "昔余栖遯日，之子烟霞邻。",
+    "共携松叶酒，俱𥮾竹皮巾。",
+    "攀林遍岩洞，采药无冬春。",
+    "谬以道门子，征为骖御臣。",
+    "常恐丹液就，先我紫阳宾。",
+    "夭促万涂尽，哀伤百虑新。",
+    "迹峻不容俗，才多反累真。",
+    "泣对双泉水，还山无主人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-8d05b6e8-b232-40e7-a66d-41d8980f00d5"
+}

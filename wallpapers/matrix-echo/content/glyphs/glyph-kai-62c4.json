@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62c4",
+  "script": "kai",
+  "character": "拄",
+  "reading": "zhǔ",
+  "description": "zhǔ：(1)用手扶着杖或棍支持身体的平衡～着拐棍走。\n(2)讽刺，驳倒（云）既论难，连～五鹿君”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拄"
+}

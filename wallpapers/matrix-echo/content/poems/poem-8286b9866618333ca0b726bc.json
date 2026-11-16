@@ -1,0 +1,20 @@
+{
+  "id": "poem-8286b9866618333ca0b726bc",
+  "title": "满庭芳·玉鼎翻香",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "玉鼎翻香，红炉叠胜，绮窗疏雨潇潇。",
+    "故人相过，情话款良宵。",
+    "酒晕微红衬脸，横波浸、满眼春娇。",
+    "云屏掩，鸳鸯被暖，敧枕听寒潮。",
+    "如今，成别恨，临风对月，总是无聊。",
+    "念伤心南陌，执手河桥。",
+    "还似一声春梦，离魂断、楚些难招。",
+    "佳期在，踏青时候，花底听鸣镳。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-924",
+  "tags": []
+}

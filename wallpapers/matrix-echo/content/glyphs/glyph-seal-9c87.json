@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9c87",
+  "script": "seal",
+  "character": "鲇",
+  "reading": "nián",
+  "description": "鲇鱼\n鲇nián鱼名。～鱼，体前部扁平，后部扁侧，灰黑色，有羞。皮有粘质，无鳞。头大口宽。生活在淡水中，可供食用。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鲇"
+}

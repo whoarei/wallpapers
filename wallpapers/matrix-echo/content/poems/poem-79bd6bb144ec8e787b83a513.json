@@ -1,0 +1,16 @@
+{
+  "id": "poem-79bd6bb144ec8e787b83a513",
+  "title": "经无锡县醉后吟",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "客过无名姓，扁舟系柳阴。",
+    "穷秋南国泪，残日故乡心。",
+    "京洛衣尘在，江湖酒病深。",
+    "何须觅陶令，乘醉自横琴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-5684ca6d-deb6-4095-8c06-82a92e2bd47a"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-755c",
+  "script": "seal",
+  "character": "畜",
+  "reading": "chù；xù",
+  "description": "xù：养禽兽～产。～牧。～养。\nchù：禽兽，有时专指家养的禽兽～肥。～力。～疫。幼～。牲～。家～。～生。六～兴旺。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-畜"
+}

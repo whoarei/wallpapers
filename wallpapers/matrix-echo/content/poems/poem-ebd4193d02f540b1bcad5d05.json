@@ -1,0 +1,16 @@
+{
+  "id": "poem-ebd4193d02f540b1bcad5d05",
+  "title": "挽严四府君",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "岁事时无失，先畴手自耘。",
+    "克家亲有养，投老意弥勤。",
+    "方羡高年庆，旋惊白日曛。",
+    "可怜坟上土，仍占垅头云。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-1b35cc18-64a7-4059-9752-04b2daf56afb"
+}

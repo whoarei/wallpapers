@@ -1,0 +1,21 @@
+{
+  "id": "poem-fbbcc939b404aa89c86ed8f7",
+  "title": "酬程延秋夜即事见赠",
+  "author": "韩翃",
+  "dynasty": "唐",
+  "verses": [
+    "长簟迎风早，空城澹月华。",
+    "星河秋一雁，砧杵夜千家。",
+    "节候看应晚，心期卧亦赊。",
+    "向来吟秀句，不觉已鸣鸦。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写景",
+    "酬答",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-ce493923-7c4b-41a9-94e9-cf95741c018c"
+}

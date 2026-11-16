@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f00",
+  "script": "seal",
+  "character": "缀",
+  "reading": "zhuì",
+  "description": "著作。组织文字以成篇章\n⒈缝，连结～合。～上。～补。～辞成文。\n⒉装饰点～。\n缀chuò 1.拘束。 2.牵制。 3.通\"辍\"。停;中止。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缀"
+}

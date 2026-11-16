@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53c9",
+  "script": "kai",
+  "character": "叉",
+  "reading": "chā；chá；chǎ",
+  "description": "chā：(1)交错～腰。\n(2)一头分歧便于扎取的器具～子。\nchá：挡住，堵塞住，互相卡住一辆车～在路口。\nchǎ：分开张开～开两腿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-叉"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-77f3",
+  "script": "seal",
+  "character": "石",
+  "reading": "shí；dàn",
+  "description": "shí：(1)构成地壳的矿物质硬块～破天惊（喻文章议论新奇惊人）。\n(2)指石刻金～。\n(3)指古代用来治病的针药～。药～之言（喻规劝别人的话）。\n(4)中国古代乐器八音之一。\n(5)姓。\ndàn：中国市制容量单位，十斗为一石。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-石"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-84b947e095919e7da488f1bb",
+  "title": "题定武兰亭古本",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "翰墨风流冠古今，鹅池谁不赏山阴。",
+    "此书虽向昭陵朽，刻石犹能易黄金。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-8c59b478-b5a4-4e57-b428-be88d607b08b"
+}

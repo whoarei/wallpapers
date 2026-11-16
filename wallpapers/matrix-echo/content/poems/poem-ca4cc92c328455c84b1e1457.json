@@ -1,0 +1,14 @@
+{
+  "id": "poem-ca4cc92c328455c84b1e1457",
+  "title": "荅卢邺",
+  "author": "良乂",
+  "dynasty": "唐",
+  "verses": [
+    "风泉秪向梦中闻，身外无余可寄君。",
+    "当户一轮惟晓月，挂簷数片是秋云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-bb3a71a3-2c27-40d6-a58a-a0753f145b75"
+}

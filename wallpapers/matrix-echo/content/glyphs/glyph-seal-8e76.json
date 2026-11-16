@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8e76",
+  "script": "seal",
+  "character": "蹶",
+  "reading": "juě；jué",
+  "description": "jué：(1)跌倒。\n(2)挫折，失败一～不振。\n(3)竭尽，枯竭天下财产，何得不～？\n(4)踏，踩。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蹶"
+}

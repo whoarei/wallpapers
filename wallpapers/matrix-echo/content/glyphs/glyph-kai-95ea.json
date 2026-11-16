@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-95ea",
+  "script": "kai",
+  "character": "闪",
+  "reading": "shǎn",
+  "description": "忽有忽无, 突然显现\n⒈天空的电光～电。〈引〉突然一亮～亮。灯光一～。\n⒉转侧身体躲避～开。躲～。\n⒊动作过猛或颠扑，以致扭伤～了脚。\n⒋光亮不定或晃动或忽明忽暗～动。～烁。～耀。\n⒌光辉耀眼，光芒四射～金光§星～ ～亮。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-闪"
+}

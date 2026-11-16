@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-58c1",
+  "script": "kai",
+  "character": "壁",
+  "reading": "bì",
+  "description": "bì：(1)墙四～。～报。～画。～挂。～毯。～橱。～灯。铜墙铁～。\n(2)指某些物体内部的表层胃～。肠～。\n(3)陡削的山崖峭～。～立。\n(4)军营的围墙～垒。坚～清野。作～上观（坐观双方成败，不帮助任何一方）。\n(5)星名，二十八宿之一。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-壁"
+}

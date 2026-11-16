@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-85ae",
+  "script": "seal",
+  "character": "薮",
+  "reading": "sǒu",
+  "description": "sǒu：(1)生长着很多草的湖泽～泽。\n(2)人或物聚集的地方渊～。\n(3)指民间、草野辞朝（cháo）归～。\n(4)古同搜”，搜求。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-薮"
+}

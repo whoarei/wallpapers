@@ -1,0 +1,20 @@
+{
+  "id": "poem-bfe30083c464efcaa278bc2e",
+  "title": "蝶恋花·小院深深门掩亚",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "小院深深门掩亚。",
+    "寂寞珠帘，画阁重重下。",
+    "欲近禁烟微雨罢。",
+    "绿杨深处秋千挂。",
+    "傅粉狂游犹未舍。",
+    "不念芳时，眉黛无人画。",
+    "薄幸未归春去也。",
+    "杏花零落香红谢。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-642",
+  "tags": []
+}

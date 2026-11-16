@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-64b0",
+  "script": "kai",
+  "character": "撰",
+  "reading": "zhuàn",
+  "description": "zhuàn：(1)才能异乎三子者之～”。\n(2)写作，著书～著。～述。～写。～文。～稿。～次（编辑、排列）。～序（撰写叙述）。～录。～集。杜～（臆造，没有根据地编造）。\n(3)持，拿着～余辔兮高驼翔”。\n(4)指天地阴阳等自然现象的变化规律。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-撰"
+}

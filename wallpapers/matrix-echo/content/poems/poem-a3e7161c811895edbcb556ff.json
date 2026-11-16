@@ -1,0 +1,16 @@
+{
+  "id": "poem-a3e7161c811895edbcb556ff",
+  "title": "登总持阁",
+  "author": "岑参",
+  "dynasty": "唐",
+  "verses": [
+    "高阁逼诸天，登临近日边。",
+    "晴开万井树，愁看五陵烟。",
+    "槛外低秦岭，窗中小渭川。",
+    "早知清净理，常愿奉金仙。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-登總持閣"
+}

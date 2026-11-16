@@ -1,0 +1,14 @@
+{
+  "id": "poem-35d25cf7d932a02c061a48e9",
+  "title": "南歌子·锦荐红㶉𫛶",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "锦荐红㶉𫛶，罗衣绣凤凰。",
+    "绮疏飘雪北风狂，帘幕尽垂无事，郁金香。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-49"
+}

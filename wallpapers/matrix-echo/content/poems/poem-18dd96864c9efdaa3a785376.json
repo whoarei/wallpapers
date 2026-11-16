@@ -1,0 +1,16 @@
+{
+  "id": "poem-18dd96864c9efdaa3a785376",
+  "title": "郊庙歌辞 隐太子庙乐章 迎神",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "苍震有位，黄离蔽明。",
+    "江充祸结，戾据灾成。",
+    "衔冤昔痛，赠典今荣。",
+    "享灵有秩，奉乐以迎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-78ae9964-a188-450b-ba7c-7c6386a2a980"
+}

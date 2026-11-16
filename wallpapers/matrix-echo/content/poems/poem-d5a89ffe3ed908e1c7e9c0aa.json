@@ -1,0 +1,14 @@
+{
+  "id": "poem-d5a89ffe3ed908e1c7e9c0aa",
+  "title": "叶梦授送家园梅花且以绝句十五章见示次其韵  其五",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "傍雨移梅趁小寒，探春几度独凭栏。",
+    "不知冷淡缘何事，偏得幽人带笑看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-59db40a7-d075-4d7a-8dfc-5a254dbd2677"
+}

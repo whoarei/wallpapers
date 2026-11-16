@@ -1,0 +1,16 @@
+{
+  "id": "poem-3c6a611450ed8237043b5edb",
+  "title": "送孔征士",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "谷口山多处，君归不可寻。",
+    "家贫青史在，身老白云深。",
+    "扫雪开松径，疏泉过竹林。",
+    "余生负丘壑，相送亦何心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-5bb0cf37-0685-4b52-b9b5-45e959d05e12"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-883a1dec8cb7496feb6988c6",
+  "title": "同沈驸马赋得御沟水",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "入苑白泱泱，宫入正靥黄。",
+    "遶堤龙骨冷，拂岸鸭头香。",
+    "别馆惊残梦，停杯泛小觞。",
+    "幸因流浪处，暂得见何郎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-06007eea-c3e4-4a76-86c1-c2917fdff50f"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-987524f1df3211d22353bdaf",
+  "title": "三月初晚晴寄高缙之三首  其三",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "曲栏倚青冥，万井入指顾。",
+    "湖光漾明霞，照我凭栏处。",
+    "森木倦鸟归，遥空征鸿度。",
+    "定知待月人，破竹有奇句。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-4301afed-5e4f-4790-ab88-549d3c1cad0e"
+}

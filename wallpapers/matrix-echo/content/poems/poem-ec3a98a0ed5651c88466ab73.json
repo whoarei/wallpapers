@@ -1,0 +1,18 @@
+{
+  "id": "poem-ec3a98a0ed5651c88466ab73",
+  "title": "渔父",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "一叶一竿竹，眉须雪欲零。",
+    "陆应无祖业，香必是伊腥。",
+    "儿亦名鱼鹧，歌称我洞庭。",
+    "回头深自媿，旧业近沧溟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-f70914bd-6189-41db-b71d-0150db9ea2f9"
+}

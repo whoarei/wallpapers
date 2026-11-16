@@ -1,0 +1,14 @@
+{
+  "id": "poem-284dfc5df573648868b64b9c",
+  "title": "式微",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "式微，式微，胡不归？微君之故，胡为乎中露！",
+    "式微，式微，胡不归？微君之躬，胡为乎泥中！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-35"
+}

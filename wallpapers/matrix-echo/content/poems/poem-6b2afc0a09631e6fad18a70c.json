@@ -1,0 +1,14 @@
+{
+  "id": "poem-6b2afc0a09631e6fad18a70c",
+  "title": "李化文书堂",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "世路嵚崎两鬓丝，山中留客且伸眉。",
+    "竹林胜践虽相似，犹恨前贤所欠诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-2a2ee969-1f81-4083-b6a2-e94aa8591f2c"
+}

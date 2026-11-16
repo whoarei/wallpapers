@@ -1,0 +1,16 @@
+{
+  "id": "poem-4a50a96da5f6470527925a87",
+  "title": "次韵李粹伯登镇江倅厅富览亭",
+  "author": "曾协",
+  "dynasty": "宋",
+  "verses": [
+    "酒余共逍遥，散步升高冈。",
+    "万物困霜雪，岁晏俱老苍。",
+    "江山一临眺，志欲凌八荒。",
+    "青霞傥见分，谁能束冠裳。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-88e21c0f-7d2a-4655-a049-04ed53aeba43"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-573913bd5d6f762afd018624",
+  "title": "贝母",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "贝母阶前蔓百寻，双桐盘绕叶森森。",
+    "刚强顾我蹉跎甚，时欲低柔警寸心。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-bf2b46e0-f93c-4e7a-b7ac-f47ac0e86ed7"
+}

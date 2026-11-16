@@ -1,0 +1,16 @@
+{
+  "id": "poem-e481a86ed3b888e5627d835a",
+  "title": "塞上  其一",
+  "author": "谭用之",
+  "dynasty": "宋",
+  "verses": [
+    "秋风汉北雁飞天，单骑那堪遶贺兰。",
+    "碛暗更无岩树影，地平时有野烧瘢。",
+    "貂披寒色和衣冷，剑佩胡霜隔匣寒。",
+    "早晚横戈似飞尉，拥旄深入异田单。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-2a3d9878-990e-4711-9fd6-84a6059f076e"
+}

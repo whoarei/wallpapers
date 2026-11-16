@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-53cd",
+  "script": "seal",
+  "character": "反",
+  "reading": "fǎn",
+  "description": "fǎn：(1)翻转，颠倒～手（ａ．翻过手，手到背后；ｂ．反掌）。～复。～侧。\n(2)翻转的，颠倒的，与正”相对正～两方面的经验。～间（利用敌人的间谍，使敌人内部自相矛盾）。～诉。～馈。适得其～。物极必～。\n(3)抵制，背叛，抗拒～霸。\n(4)和原来的不同，和预感的不同～常。\n(5)回击，回过头来～驳。～攻。～诘。～思。～躬自问。\n(6)类推举一～三。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-反"
+}

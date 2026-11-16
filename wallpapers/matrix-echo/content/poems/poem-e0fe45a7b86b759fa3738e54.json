@@ -1,0 +1,14 @@
+{
+  "id": "poem-e0fe45a7b86b759fa3738e54",
+  "title": "九华观看花",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "街西无数闲游处，不似九华仙观中。",
+    "花里可怜池上景，几重墙壁贮春风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-8ccf17af-4e7a-46c0-826b-657b84f20989"
+}

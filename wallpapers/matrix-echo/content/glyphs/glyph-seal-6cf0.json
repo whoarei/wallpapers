@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6cf0",
+  "script": "seal",
+  "character": "泰",
+  "reading": "tài",
+  "description": "tài：(1)平安，安定～适（幽闲安适）。～安。～然处之。\n(2)佳，美好～运。否（pǐ）极～来。\n(3)极～西（旧指欧洲）。\n(4)骄纵，傲慢～侈（骄纵奢侈）。骄～。\n(5)通天地交～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-泰"
+}

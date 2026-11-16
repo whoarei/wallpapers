@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-90ca",
+  "script": "seal",
+  "character": "郊",
+  "reading": "jiāo",
+  "description": "jiāo：城外～区。～外。～游。～野。荒～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-郊"
+}

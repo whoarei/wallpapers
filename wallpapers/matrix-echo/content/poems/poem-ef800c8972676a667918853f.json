@@ -1,0 +1,20 @@
+{
+  "id": "poem-ef800c8972676a667918853f",
+  "title": "金陵五题 乌衣巷",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "verses": [
+    "朱雀桥边野草花，乌衣巷口夕阳斜。",
+    "旧时王谢堂前燕，飞入寻常百姓家。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "怀古",
+    "七言绝句",
+    "带有地名",
+    "地名"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-4fa92777-9bd6-45ca-9272-bac30459cf5e"
+}

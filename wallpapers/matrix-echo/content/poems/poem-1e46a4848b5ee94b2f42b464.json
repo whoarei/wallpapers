@@ -1,0 +1,24 @@
+{
+  "id": "poem-1e46a4848b5ee94b2f42b464",
+  "title": "寻西山隐者不遇",
+  "author": "丘为",
+  "dynasty": "唐",
+  "verses": [
+    "绝顶一茅茨，直[上]三十里。",
+    "扣关无僮仆，窥室唯案几。",
+    "若非巾柴车，应是钓秋水。",
+    "差池不相见，黾勉空仰止。",
+    "草色新雨中，松声晚牕里。",
+    "及兹契幽绝，自足荡心耳。",
+    "虽无宾主意，颇得清净理。",
+    "兴尽方下山，何必待之子。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "五言古诗",
+    "友情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-10a0aedc-4b39-494b-a36c-28c6df28a668"
+}

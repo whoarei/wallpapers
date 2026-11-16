@@ -1,0 +1,16 @@
+{
+  "id": "poem-33f77ed6af6a9a300bdb4f2c",
+  "title": "横吹曲辞 陇头水 一",
+  "author": "僧皎然",
+  "dynasty": "唐",
+  "verses": [
+    "陇头心欲绝，陇水不堪闻。",
+    "碎影摇枪垒，寒声咽帐军。",
+    "素从盐海积，绿带柳城分。",
+    "日落天边望，逶迤入塞云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d531f315-bcc5-45b6-af4d-8752eef92780"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-fd3538bcb31b972cefd78075",
+  "title": "塞外三首 二",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "荒垒三秋夕，穷郊万里平。",
+    "海阴凝独树，日气下连营。",
+    "戎斾霜旋重，边裘夜更轻。",
+    "将军犹转战，都尉不成名。",
+    "折柳悲春曲，吹笳断夜声。",
+    "明年汉使返，须筑受降城。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-42964d1f-7861-457b-8a4c-ddb01c8e4161"
+}

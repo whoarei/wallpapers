@@ -1,0 +1,13 @@
+{
+  "id": "poem-3734843341e8eb2601298506",
+  "title": "维清",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "维清缉熙，文王之典。肇禋，迄用有成，维周之祯。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-267"
+}

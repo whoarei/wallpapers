@@ -1,0 +1,16 @@
+{
+  "id": "poem-b747d31f6efaafcf89b5cf38",
+  "title": "江舍人宅筵上有妓唱和州韩舍人歌辞因以寄",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "良宵丝竹偶成欢，中有佳人俯翠鬟。",
+    "白雪飘飖传乐府，阮郎憔悴在人间。",
+    "清风朗月长相忆，佩蕙纫兰早晚还。",
+    "深夜酒空筵欲散，向隅惆怅鬓堪斑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-6727bb56-6ecc-4b49-9866-83a3a78cee33"
+}

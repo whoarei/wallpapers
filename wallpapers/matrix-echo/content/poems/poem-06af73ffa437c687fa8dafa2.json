@@ -1,0 +1,18 @@
+{
+  "id": "poem-06af73ffa437c687fa8dafa2",
+  "title": "金山",
+  "author": "皇甫冉",
+  "dynasty": "唐",
+  "verses": [
+    "中江一柱碧崚嶒，壁立千寻我独登。",
+    "梵呗波随招过客，钟声船载送归僧。",
+    "窗前白上浪三尺，岭上青堆云几层。",
+    "六代风流衰歇尽，慿栏感喟意难胜。",
+    "（见丹徒陶绍莱辑《润州唐人集》卷七，云：「见净谈《金山志》及缪潜《新志》。",
+    "」）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-239006e5-0f8f-4e06-94fc-3454403affff"
+}

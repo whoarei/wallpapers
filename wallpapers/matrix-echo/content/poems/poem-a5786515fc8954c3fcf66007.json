@@ -1,0 +1,16 @@
+{
+  "id": "poem-a5786515fc8954c3fcf66007",
+  "title": "闲中有富贵",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "闲中有富贵，迥与俗尘殊。",
+    "水浄齐纨展，花繁蜀锦纡。",
+    "竹风寒扣玉，荷雨急跳珠。",
+    "可笑公孙衍，酣歌夸丈夫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-e65fc924-1163-4e47-8ef0-43183e5a6d0e"
+}

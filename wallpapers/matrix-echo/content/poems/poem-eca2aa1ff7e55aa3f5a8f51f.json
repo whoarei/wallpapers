@@ -1,0 +1,14 @@
+{
+  "id": "poem-eca2aa1ff7e55aa3f5a8f51f",
+  "title": "杂兴六首 三",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "谁高齐公子，泣听雍门琴。",
+    "死且何足伤，殊非达人心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-c320b71e-2a0e-4b3b-bd6b-c9843bc7ee05"
+}

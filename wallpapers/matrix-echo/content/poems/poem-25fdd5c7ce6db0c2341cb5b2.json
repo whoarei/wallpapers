@@ -1,0 +1,16 @@
+{
+  "id": "poem-25fdd5c7ce6db0c2341cb5b2",
+  "title": "郊庙歌辞 雩祀乐章 肃和",
+  "author": "褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "朱鸟开辰，苍龙启映。",
+    "大帝昭飨，群生展敬。",
+    "礼备怀柔，功宣舞咏。",
+    "旬液应序，年祥协庆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-4d28776f-732f-41d4-bef1-52195b731076"
+}

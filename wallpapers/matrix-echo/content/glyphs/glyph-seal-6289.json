@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6289",
+  "script": "seal",
+  "character": "抉",
+  "reading": "jué",
+  "description": "jué：剔出～择（挑选）。～摘（a.抉择；如～～真伪”；b.揭发指摘，如～～弊端”）。～剔。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抉"
+}

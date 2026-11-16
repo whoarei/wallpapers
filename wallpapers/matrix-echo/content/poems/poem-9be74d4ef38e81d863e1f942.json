@@ -1,0 +1,16 @@
+{
+  "id": "poem-9be74d4ef38e81d863e1f942",
+  "title": "菩萨蛮·等闲将度三春景",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "等闲将度三春景，帘垂碧砌参差影。",
+    "曲槛日初斜，杜鹃啼落花。",
+    "恨君容易处，又话潇湘去。",
+    "凝思倚屏山，泪流红脸斑。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-44"
+}

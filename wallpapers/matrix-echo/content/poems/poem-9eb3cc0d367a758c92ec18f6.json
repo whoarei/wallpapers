@@ -1,0 +1,16 @@
+{
+  "id": "poem-9eb3cc0d367a758c92ec18f6",
+  "title": "白藕花寄袁状元仓使",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "澄练彻山脉，玉透山池沙。",
+    "老火奋残烁，凛姿炖不瑕。",
+    "方方秋一奁，弹压红万葩。",
+    "安得濂溪叟，来赋东林花。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-d81720c9-d8bd-4abc-adc4-8867616c785d"
+}

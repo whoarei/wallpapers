@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5584",
+  "script": "kai",
+  "character": "善",
+  "reading": "shàn",
+  "description": "shàn：(1)心地仁爱，品质淳厚～良。～心。～举。～事。～人。～男信女。慈～。\n(2)好的行为、品质行～。惩恶扬～。\n(3)高明的，良好的～策。～本。\n(4)友好，和好友～。亲～⊥～。\n(5)熟悉面～。\n(6)办好，弄好～后。\n(7)擅长，长（cháng）于～辞令。多谋～断。\n(8)赞许群臣百姓之所～，则君～之”。\n(9)好好地～待。～罢甘休。\n(10)容易，易于～变。～忘。多愁～感。\n(11)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-善"
+}

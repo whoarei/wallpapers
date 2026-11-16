@@ -1,0 +1,20 @@
+{
+  "id": "poem-e3d0d7282f66b6221c58c78f",
+  "title": "蝶恋花·翠箔垂云香喷雾",
+  "author": "曾觌",
+  "dynasty": "宋",
+  "verses": [
+    "翠箔垂云香喷雾。",
+    "年少疏狂，载酒寻芳路。",
+    "多少惜花春意绪。",
+    "劝人金盏歌金缕。",
+    "桃李飘零风景暮。",
+    "只有闲愁，不逐流年去。",
+    "旧事而今谁共语。",
+    "画楼空指行云处。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-370",
+  "tags": []
+}

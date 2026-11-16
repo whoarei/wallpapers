@@ -1,0 +1,20 @@
+{
+  "id": "poem-ee55e1739992fc7e50495e88",
+  "title": "满庭芳·爱日轻融",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "爱日轻融，阴云初敛，一番雪意阑珊。",
+    "柳摇金缕，梅绽五腮寒。",
+    "知是东皇翠葆，飞星汉、来止人间。",
+    "开新宴，笙歌逗晓，和气满城寰。",
+    "风光，偏舜水，贤侯政美，棠荫多欢。",
+    "更圜扉草鞠，木索长闲。",
+    "休向今朝惜醉，红妆映、群玉颓山。",
+    "相将见，宜春帖子，清夜写金銮。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-52",
+  "tags": []
+}

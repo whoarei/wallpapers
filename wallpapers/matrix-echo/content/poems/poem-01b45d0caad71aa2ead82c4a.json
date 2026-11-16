@@ -1,0 +1,16 @@
+{
+  "id": "poem-01b45d0caad71aa2ead82c4a",
+  "title": "送夏侯审游蜀",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "西望烟绵树，愁君上蜀时。",
+    "同林息商客，隔栈见罛师。",
+    "石滑羊肠险，山空杜宇悲。",
+    "琴心正幽怨，莫奏凤凰诗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-2fb33cc4-43fb-42b9-8e7e-2790d9a01d6b"
+}

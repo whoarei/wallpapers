@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e58",
+  "script": "kai",
+  "character": "乘",
+  "reading": "chéng；shèng",
+  "description": "chéng：(1)骑，坐～马。～车。～客。～警。\n(2)趁着，就着～便。～机（趁着机会）。～势。～兴（xìng）。因利～便。\n(3)算术中指一个数使另一个数变成若干倍～法。～幂（mì）。～数。\n(4)佛教的教派或教法大～。小～。上～。下～。\n(5)姓。\nshèng：(1)古代称兵车，四马一车为一乘～舆。千～之国。\n(2)古代称四为乘～矢。～壶。以～韦先牛十二犒师”。\n(3)中国春秋时晋国的史书称乘”，后通称一般的史书史～。野～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-乘"
+}

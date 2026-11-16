@@ -1,0 +1,17 @@
+{
+  "id": "poem-d7a9945cfa6487755d365776",
+  "title": "浣溪沙·堤上游人逐画船",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "堤上游人逐画船。",
+    "拍堤春水四垂天。",
+    "绿杨楼外出秋千。",
+    "白发戴花君莫笑，六么催拍盏频传。",
+    "人生何处似尊前。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-739",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-8394944e8974813eb9aea4af",
+  "title": "忆多娇",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(末)心痛惜，情惨戚，将身赴江学抱石。",
+    "可怜夫妇鸾凤拆，(合)即日登程，即日登程，渺渺音容远隔。",
+    "(末)老安人，不须啼哭，趱行前去。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8240",
+  "tags": []
+}

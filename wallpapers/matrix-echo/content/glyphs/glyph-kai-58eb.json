@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-58eb",
+  "script": "kai",
+  "character": "士",
+  "reading": "shì",
+  "description": "shì：(1)古代统治阶级中次于卿大夫的一个阶层～族。～大夫。\n(2)旧时指读书人～子。～民。学～。\n(3)未婚的男子，泛指男子～女。\n(4)对人的美称志～。烈～。女～。\n(5)军衔的一级，在尉以下；亦泛指军人；上～。～兵。～卒。～气。\n(6)称某些专业人员医～。护～。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-士"
+}

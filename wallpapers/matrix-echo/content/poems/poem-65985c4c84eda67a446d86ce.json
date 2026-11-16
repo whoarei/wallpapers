@@ -1,0 +1,16 @@
+{
+  "id": "poem-65985c4c84eda67a446d86ce",
+  "title": "生查子·寂寞画堂空",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "寂寞画堂空，深夜垂罗幕。",
+    "灯暗锦屏欹，月冷珠帘薄。",
+    "愁恨梦难成，何处贪欢乐。",
+    "看看又春来，还是长萧索。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-10"
+}

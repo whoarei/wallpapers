@@ -1,0 +1,17 @@
+{
+  "id": "poem-e7cedc9b9e2d2c0af20bb280",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "不是我自夸，它自定及第。",
+    "着鞭衣锦归，便是荣贵时。",
+    "(净)我做婆婆，你做当直度。",
+    "(末白)又占有好底。",
+    "(合)那时价喜，买炷明香，大家答谢天地。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2596",
+  "tags": []
+}

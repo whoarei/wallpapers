@@ -1,0 +1,16 @@
+{
+  "id": "poem-3c33cfcb5ffd84977a4c30af",
+  "title": "更漏子·钟鼓寒",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "钟鼓寒，楼阁暝，月照古桐金井。",
+    "深院闭，小庭空，落花香露红。",
+    "烟柳重，春雾薄，灯背水窗高阁。",
+    "闲倚户，暗沾衣，待郎郎不归。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-22"
+}

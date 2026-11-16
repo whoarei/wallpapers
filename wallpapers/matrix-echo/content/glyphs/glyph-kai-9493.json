@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9493",
+  "script": "kai",
+  "character": "钓",
+  "reading": "diào",
+  "description": "引申为诱取\n①将饵挂在钓钩上放入水中诱捕鱼虾等～鱼。\n③钓鱼钩垂～。\n【钓鱼岛】中国台湾省的附属岛屿。在台湾岛东北约180公里处，面积约5平方公里。自古以来是中国的领土。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钓"
+}

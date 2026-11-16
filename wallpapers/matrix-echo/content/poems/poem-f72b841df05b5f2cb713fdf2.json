@@ -1,0 +1,14 @@
+{
+  "id": "poem-f72b841df05b5f2cb713fdf2",
+  "title": "洋州三十景 筼筜谷",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "晖晖蓝田山，山下多绿玉。",
+    "安得结茅茨，林间许容足。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-85854fcf-b966-41bd-88b0-183cfe0b99ec"
+}

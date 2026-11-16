@@ -1,0 +1,15 @@
+{
+  "id": "poem-e768dadd6845728a77bced3c",
+  "title": "刘衮",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "乘驿骑，乘驿骑，陈留去开旨。",
+    "(净丑上唱)略请行轩，到此少住。",
+    "(外)唯，此间是何处？住此还怎地？(净丑)此间站里，待将鞍马来换取。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5269",
+  "tags": []
+}

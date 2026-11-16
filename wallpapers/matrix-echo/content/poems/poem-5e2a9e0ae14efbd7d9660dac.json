@@ -1,0 +1,14 @@
+{
+  "id": "poem-5e2a9e0ae14efbd7d9660dac",
+  "title": "观郑州崔郎中诸妓绣样",
+  "author": "胡令能",
+  "dynasty": "唐",
+  "verses": [
+    "日暮堂前花蘂娇，争拈小笔上床描。",
+    "绣成安向春园里，引得黄莺下柳条。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c740ff6c-2a8d-4d11-9a7e-9e699c7c7998"
+}

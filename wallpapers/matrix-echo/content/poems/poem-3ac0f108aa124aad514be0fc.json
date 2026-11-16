@@ -1,0 +1,20 @@
+{
+  "id": "poem-3ac0f108aa124aad514be0fc",
+  "title": "浪淘沙·凉露洗秋空",
+  "author": "吕渭老",
+  "dynasty": "宋",
+  "verses": [
+    "凉露洗秋空。",
+    "菊径鸣蛩。",
+    "水晶帘外月玲珑。",
+    "烛蕊双悬人似玉，簌簌啼红。",
+    "宋玉在墙东。",
+    "醉袖摇风。",
+    "心随月影入帘栊。",
+    "戏著锦茵天样远，一段愁浓。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-83",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-160365218d6dcf488edce758",
+  "title": "白马金砂洞",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "准拟朝餐洞口霞，更穷泓碧涨桃花。",
+    "可曾石罅潴成玉，多是金边拣得沙。",
+    "符说有灵寻汉篆，人因鉴止见胡麻。",
+    "依稀似入天台路，不属刘家与阮家。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-d096d5c1-0564-4d75-8199-c89e84874297"
+}

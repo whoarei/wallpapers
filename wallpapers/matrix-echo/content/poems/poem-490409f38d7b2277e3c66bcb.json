@@ -1,0 +1,14 @@
+{
+  "id": "poem-490409f38d7b2277e3c66bcb",
+  "title": "题城南书院三十四咏  其七",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "山色顿清秋欲半，湖光更净日平西。",
+    "凉风猎猎低荷盖，归翼翩翩度柳堤。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-8e5afe4b-6462-4a63-86cf-9e46fb3a50ca"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-eaea2938a58758addda34ad0",
+  "title": "登柳州城楼寄漳汀封连四州",
+  "author": "柳宗元",
+  "dynasty": "唐",
+  "verses": [
+    "城上高楼接大荒，海天愁思正茫茫。",
+    "惊风乱飐芙蓉水，密雨斜侵薜荔墙。",
+    "岭树重遮千里目，江流曲似九廻肠。",
+    "共来百越文身地，犹自音书滞一乡。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言律诗",
+    "抒情",
+    "怀人"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-3d26433c-a673-4094-8c83-cadb1b08412a"
+}

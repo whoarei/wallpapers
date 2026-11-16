@@ -1,0 +1,20 @@
+{
+  "id": "poem-17892547c6661f3960a1ef8f",
+  "title": "谒金门·人已醉",
+  "author": "韩淲",
+  "dynasty": "宋",
+  "verses": [
+    "人已醉。",
+    "溪北溪南春意。",
+    "击鼓吹箫花落未。",
+    "杏梅桃共李。",
+    "水底鱼龙惊起。",
+    "推枕月明千里。",
+    "伊吕衰翁徒尔耳。",
+    "我怀犹未是。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-445",
+  "tags": []
+}

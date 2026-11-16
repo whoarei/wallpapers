@@ -1,0 +1,16 @@
+{
+  "id": "poem-ed00d6725c8c17f3fff688ab",
+  "title": "郊庙歌辞 祭方丘乐章 肃和",
+  "author": "褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "至矣坤德，皇哉地祇。",
+    "开元统纽，合大承规。",
+    "九宫肃列，六典相仪。",
+    "永言配命，长保无亏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-44cc1286-e8d7-4374-8cb6-96067c6a09fa"
+}

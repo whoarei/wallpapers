@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8165",
+  "script": "seal",
+  "character": "腥",
+  "reading": "xīng",
+  "description": "xīng：(1)像鱼的气味～气。血～。～膻。～秽。～臭。～臊。～风血雨。\n(2)鱼或肉一类的食品荤～。\n(3)生肉君赐～，必熟而蔫之”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-腥"
+}

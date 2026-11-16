@@ -1,0 +1,16 @@
+{
+  "id": "poem-0404ccd93d30fbc4cde3f747",
+  "title": "秋千",
+  "author": "僧惠洪",
+  "dynasty": "宋",
+  "verses": [
+    "画架双裁翠络偏，佳人春戏小楼前。",
+    "飘扬血色裙拖地，断送玉容人上天。",
+    "花皮润沾红杏雨，彩绳斜挂绿杨烟。",
+    "下来闲处从容立，疑是蟾宫谪神仙。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-鞦韆"
+}

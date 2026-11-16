@@ -1,0 +1,15 @@
+{
+  "id": "poem-32c77dd366938107abf87b69",
+  "title": "叔于田",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "叔于田，巷无居人。岂无居人？不如叔也。洵美且仁。",
+    "叔于狩，巷无饮酒。岂无饮酒？不如叔也。洵美且好。",
+    "叔适野，巷无服马。岂无服马？不如叔也。洵美且武。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-76"
+}

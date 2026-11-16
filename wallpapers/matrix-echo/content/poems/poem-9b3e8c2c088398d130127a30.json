@@ -1,0 +1,14 @@
+{
+  "id": "poem-9b3e8c2c088398d130127a30",
+  "title": "浣溪沙·马上凝情忆旧游",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "马上凝情忆旧游，照花淹竹小溪流，钿筝罗幕玉搔头。",
+    "早是出门长带月，可堪分袂又经秋，晚风斜日不胜愁。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-28"
+}

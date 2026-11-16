@@ -1,0 +1,19 @@
+{
+  "id": "poem-a68fc350b2fef78c5ab9e6d0",
+  "title": "留春令·画屏天畔",
+  "author": "晏几道",
+  "dynasty": "宋",
+  "verses": [
+    "画屏天畔，梦回依约，十洲云水。",
+    "手拈红笺寄人书，写无限、伤春事。",
+    "别浦高楼曾漫倚。",
+    "对江南千里。",
+    "楼下分流水声中，有当日、凭高泪。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-34"
+}

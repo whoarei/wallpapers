@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e27",
+  "script": "seal",
+  "character": "丧",
+  "reading": "sàng",
+  "description": "⒈失掉，死亡～失。～胆。～命。\n①事情进行不顺利而情绪低落垂头～气。\n②迷信者所谓\"不吉利\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丧"
+}

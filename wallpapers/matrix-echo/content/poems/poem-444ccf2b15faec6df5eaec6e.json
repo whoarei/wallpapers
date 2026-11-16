@@ -1,0 +1,16 @@
+{
+  "id": "poem-444ccf2b15faec6df5eaec6e",
+  "title": "赠晦公禅人",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "流阳为役者，相访叶纷纷。",
+    "有句虽如我，无心未似君。",
+    "搆林青及竹，茆屋暖于云。",
+    "何日相将去，千山麋鹿群。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4fbc473c-0e44-4473-a652-e2d492942c4c"
+}

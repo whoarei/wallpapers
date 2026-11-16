@@ -1,0 +1,16 @@
+{
+  "id": "poem-3ebe3c9f6f4ecd7dd1bcd874",
+  "title": "寄梅处士",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "扰扰人间是与非，官闲自觉省心机。",
+    "六行班里身常下，九列符中事亦稀。",
+    "市客惯曾赊贱药，家僮惊见著新衣。",
+    "君今独得居山乐，应喜多时未办归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-599ee7ca-7e82-4689-b92a-709e51bfce33"
+}

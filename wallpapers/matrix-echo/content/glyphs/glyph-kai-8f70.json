@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8f70",
+  "script": "kai",
+  "character": "轰",
+  "reading": "hōng",
+  "description": "雷鸣、炮击、爆破等的隆隆声\n枪炮、雷电等对准或瞄准爆发\n猛烈攻击\n驱赶;赶开\n⒈像声词。雷鸣、炮击等发出的巨大响声～鸣。～隆。\n⒉用大炮、炸弹、导弹等破坏～击。～炸。\n⒊赶，驱逐～出去。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-轰"
+}

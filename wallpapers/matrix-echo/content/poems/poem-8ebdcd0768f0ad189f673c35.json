@@ -1,0 +1,14 @@
+{
+  "id": "poem-8ebdcd0768f0ad189f673c35",
+  "title": "寄题江山叶氏翠香亭  其一",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "此君来与小山盟，共挹周扬一世英。",
+    "何用偷它当日意，男儿自要立芳名。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-cd79d818-5cbf-4f6e-b3ed-597abbe04353"
+}

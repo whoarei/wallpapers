@@ -1,0 +1,14 @@
+{
+  "id": "poem-bca590c3c0340def5957f5ba",
+  "title": "路旁草",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "楚甸秦原万里平，谁教根向路傍生。",
+    "轻蹄绣毂长相蹋，合是荣时不得荣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3c1efd5a-19b5-4bf9-9fcf-7c9b46d2d342"
+}

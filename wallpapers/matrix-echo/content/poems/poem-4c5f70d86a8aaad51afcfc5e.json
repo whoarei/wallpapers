@@ -1,0 +1,16 @@
+{
+  "id": "poem-4c5f70d86a8aaad51afcfc5e",
+  "title": "和程员外春日东郊即事",
+  "author": "包何",
+  "dynasty": "唐",
+  "verses": [
+    "郎官休浣怜迟日，野老欢娱为有年。",
+    "几处折花惊蝶梦，数家留叶待蚕眠。",
+    "藤垂宛地萦珠履，泉迸侵堦浸绿钱。",
+    "直到闭关朝谒去，莺声不散柳含烟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-6dbed00f-b5d4-4276-8de1-d65054b3d4a7"
+}

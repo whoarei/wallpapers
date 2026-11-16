@@ -1,0 +1,16 @@
+{
+  "id": "poem-8c86216a89b9241bba9dd942",
+  "title": "奉试咏青",
+  "author": "荆冬倩",
+  "dynasty": "唐",
+  "verses": [
+    "路辟天光远，春还月道临。",
+    "草浓河畔色，槐结路边阴。",
+    "未映君王史，先标胄子襟。",
+    "经明如可拾，自有致云心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-f558fbb7-b8d7-413b-bc61-fbafc0b99404"
+}

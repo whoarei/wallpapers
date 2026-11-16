@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9540",
+  "script": "kai",
+  "character": "镀",
+  "reading": "dù",
+  "description": "利用化学、机械或电镀的方法使一种金属附着在别的金属或物体的表面上\n通过一种熔液涂上一层薄薄的金属\n用一层贵重金属覆盖表面\n镀 dù用电解或其他化学方法使一种金属的分子微粒附着到别的金属或物体表面，形成一层薄膜。\n【镀金】\n①在器物的表面镀上一薄层黄金。\n②讥讽一些人为取得虚名而到某个地方去做短期的锻炼或学习。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镀"
+}

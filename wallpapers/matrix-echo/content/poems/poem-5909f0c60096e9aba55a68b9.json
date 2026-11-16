@@ -1,0 +1,16 @@
+{
+  "id": "poem-5909f0c60096e9aba55a68b9",
+  "title": "咸阳送房济侍御归太原幕",
+  "author": "卢纶",
+  "dynasty": "唐",
+  "verses": [
+    "旧居无旧邻，似见故乡春。",
+    "复对别离酒，欲成衰老人。",
+    "客衣频染泪，军旅亦多尘。",
+    "握手重相勉，平生心所因。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-dacfff7a-fffe-423e-9c52-14f2efccae80"
+}

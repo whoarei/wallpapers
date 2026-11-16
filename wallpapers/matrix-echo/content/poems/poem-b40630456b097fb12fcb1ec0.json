@@ -1,0 +1,19 @@
+{
+  "id": "poem-b40630456b097fb12fcb1ec0",
+  "title": "用看云体",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "上有悬石崖，下有滑石道。",
+    "中有观空人，容颜半枯槁。",
+    "坐息穷年岁，抱此希世宝。",
+    "虽然欠奇俊，尘翳已一扫。",
+    "或云大道初，不剩亦不少。",
+    "用力勤修为，苦辛坐中老。",
+    "新州有樵人，此意极了了。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-f5aa5a1f-2a2c-4640-a320-4bbfb3e03618"
+}

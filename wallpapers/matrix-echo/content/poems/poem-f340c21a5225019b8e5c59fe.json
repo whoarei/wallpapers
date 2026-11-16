@@ -1,0 +1,23 @@
+{
+  "id": "poem-f340c21a5225019b8e5c59fe",
+  "title": "櫂歌行",
+  "author": "徐坚",
+  "dynasty": "唐",
+  "verses": [
+    "櫂女饰银钩，新妆下翠楼。",
+    "霜丝青桂檝，兰栧紫霞舟。",
+    "水落金陵曙，风起洞庭秋。",
+    "扣舷过曲浦，飞帆越回流。",
+    "影入桃花浪，香飘杜若洲。",
+    "洲长殊未返，萧散云霞晚。",
+    "日下大江平，烟生归岸远。",
+    "岸远闻潮波，争途游戏多。",
+    "因声赵津女，来听采菱歌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-605462fe-3bcc-4503-a9ef-22ae16636dd2"
+}

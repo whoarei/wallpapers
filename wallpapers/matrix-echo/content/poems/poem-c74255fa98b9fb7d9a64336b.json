@@ -1,0 +1,18 @@
+{
+  "id": "poem-c74255fa98b9fb7d9a64336b",
+  "title": "鹧鸪天·又向荆州住半年",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "又向荆州住半年。",
+    "西风催放五湖船。",
+    "来时露菊团金颗，去日池荷叠绿钱。",
+    "斟别酒，扣离弦。",
+    "一时宾从最多贤。",
+    "今宵拼醉花迷坐，后夜相思月满川。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-242",
+  "tags": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-32fde0dd6a79d7185964caaf",
+  "title": "感皇恩·画舸白苹洲",
+  "author": "程大昌",
+  "dynasty": "宋",
+  "verses": [
+    "画舸白苹洲，如归故里。",
+    "老幼欢迎僮婢喜。",
+    "较量心事，岁岁春风弧矢。",
+    "今年称寿处，尤欢美。",
+    "嫁得黔娄，苦耽书史。",
+    "文字流传曾贵纸。",
+    "便同黼黻，何似实头龟紫。",
+    "天公闻此语，应怜许。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-248",
+  "tags": []
+}

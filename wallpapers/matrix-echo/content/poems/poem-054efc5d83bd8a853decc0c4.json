@@ -1,0 +1,16 @@
+{
+  "id": "poem-054efc5d83bd8a853decc0c4",
+  "title": "猿",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "曾宿三巴路，今来不愿听。",
+    "云根啼片白，峰顶掷尖青。",
+    "护果憎禽啄，栖霜觑叶零。",
+    "唯应卧岚客，怜尔傍嵒扃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-6cf5fdd1-ff56-4375-b5c9-9ddb33684b1c"
+}

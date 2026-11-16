@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6f13",
+  "script": "kai",
+  "character": "漓",
+  "reading": "lí",
+  "description": "浅薄;浇薄\n漓江\n⒉漓江，在广西壮族自治区。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-漓"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-96ea1f2379821935e5059ec4",
+  "title": "阅田禾",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "村南村北稻花明，碧影清光夹望平。",
+    "节弄暑风轻拂拂，尖悬晚露澹盈盈。",
+    "道傍妪妇呼鸡返，坡外儿童跨犊行。",
+    "独坐小桥幽兴满，蟪蛄声在柳梢鸣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-95be15f7-5e76-4eeb-bcc5-2754b6e0d55a"
+}

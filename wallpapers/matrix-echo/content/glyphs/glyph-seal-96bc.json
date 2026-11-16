@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-96bc",
+  "script": "seal",
+  "character": "隼",
+  "reading": "sǔn",
+  "description": "sǔn：鸟类的一科，翅膀窄而尖，上嘴呈钩曲状，背青黑色，尾尖白色，腹部黄色。饲养驯熟后，可以帮助打猎。亦称鹘”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-隼"
+}

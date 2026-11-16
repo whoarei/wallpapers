@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d6d",
+  "script": "seal",
+  "character": "赭",
+  "reading": "zhě",
+  "description": "zhě：红褐色～石（矿物，土状赤铁矿，可做颜料）。～衣（古代罪人穿的赤褐色的衣服，借指罪人）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-赭"
+}

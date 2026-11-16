@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9ec4",
+  "script": "seal",
+  "character": "黄",
+  "reading": "huáng",
+  "description": "huáng：(1)像金子或向日葵花的颜色～色。～昏。牛～。～澄澄。信口雌～。\n(2)特指中国黄河～灾。治～。～泛区。\n(3)指黄帝”（即轩辕氏”，传说中原始社会部落联盟首领）～老（黄帝和老子）。炎～子孙。\n(4)事情失败或计划不能实现事情～了。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-黄"
+}

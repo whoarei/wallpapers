@@ -1,0 +1,20 @@
+{
+  "id": "poem-a765a40c3bfa26ce14682151",
+  "title": "左丞相说右丞相璟太子少傅乾曜同日上官命宴东堂赐诗",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "赤帝收三杰，黄轩举二臣。",
+    "由来丞相重，分掌国之钧。",
+    "我有握中璧，双飞席上珍。",
+    "子房推道要，仲子讶风神。",
+    "复辍台衡老，将为调护人。",
+    "鹓鸾同拜日，车骑拥行尘。",
+    "乐聚南宫宴，觞连北斗醇。",
+    "俾予成百揆，垂拱问彝伦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-d1ba29c5-333c-4b5d-978f-d5bfdf29a89b"
+}

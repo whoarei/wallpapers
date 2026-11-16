@@ -1,0 +1,16 @@
+{
+  "id": "poem-81b8c292b876b252764a5588",
+  "title": "寄舒州杜员外",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "信到得君书，知君已下车。",
+    "粉闱情在否，莲幕兴何如。",
+    "人望征贤入，余思从子居。",
+    "灊山真隠地，凭为卜茅庐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-e4ff3b2e-4ee0-4fed-8f7b-ba5ca1e46c86"
+}

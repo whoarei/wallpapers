@@ -1,0 +1,16 @@
+{
+  "id": "poem-02ca323fdb046da5db81ef41",
+  "title": "清平乐·野花芳草",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "野花芳草，寂寞关山道。",
+    "柳吐金丝莺语早，惆怅香闺暗老。",
+    "罗带悔结同心，独凭朱栏思深。",
+    "梦觉半床斜月，小窗风触鸣琴。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-46"
+}

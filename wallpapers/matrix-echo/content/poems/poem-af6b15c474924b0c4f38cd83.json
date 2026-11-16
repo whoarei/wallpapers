@@ -1,0 +1,16 @@
+{
+  "id": "poem-af6b15c474924b0c4f38cd83",
+  "title": "凯风",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "凯风自南，吹彼棘心。棘心夭夭，母氏劬劳。",
+    "凯风自南，吹彼棘薪。母氏圣善，我无令人。",
+    "爰有寒痊？在浚之下。有子七人，母氏劳苦。",
+    "𪾢睆黄鸟，载好其音。有子七人，莫慰母心。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-31"
+}

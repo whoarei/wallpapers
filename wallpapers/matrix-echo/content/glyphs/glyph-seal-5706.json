@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5706",
+  "script": "seal",
+  "character": "圆",
+  "reading": "yuán",
+  "description": "圆通;灵活\n如今到外头去作官,自然非家居可比,总得学些\n⒈在平面上，定点和定距离的动点之轨迹的称谓。定点称\"～心\"。定距离称\"～的半径\"。有时也称轨迹所围的部分为～。称轨迹为～周。\n⒉像球形的滚～。～房顶。\n⒊完备，周全～满。大团～。\n⒋使完备，使周全～谎。自～其说。\n⒌婉转字正腔～。深～似转簧。\n⒍货币名。也作\"元\"一百～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-圆"
+}

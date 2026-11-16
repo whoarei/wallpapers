@@ -1,0 +1,16 @@
+{
+  "id": "poem-f42f40490af2164765d7001a",
+  "title": "偈颂（幷序○序为南岳齐己撰） 四十八",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "在梦那知梦是虚，觉来方觉梦中无。",
+    "迷时恰似梦中士，悟后还同睡起夫。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-5419a820-25a2-4603-a207-b629f494641b"
+}

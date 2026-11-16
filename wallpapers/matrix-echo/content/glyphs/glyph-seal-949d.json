@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-949d",
+  "script": "seal",
+  "character": "钝",
+  "reading": "dùn",
+  "description": "呆;笨拙\n①不锋利；不锐利刀～了。\n②笨拙；不灵活迟～。\n【钝角】大于直角小于平角的角。若a为钝角，则90°",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钝"
+}

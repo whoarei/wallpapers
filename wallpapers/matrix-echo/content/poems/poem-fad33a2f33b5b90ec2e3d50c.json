@@ -1,0 +1,16 @@
+{
+  "id": "poem-fad33a2f33b5b90ec2e3d50c",
+  "title": "郊庙歌辞 祀九宫贵神乐章 豫和 三",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "帝临中坛，受厘元神。",
+    "皇灵萃止，羽旄肃陈。",
+    "摄提运衡，招摇移轮。",
+    "光光宇宙，电耀雷震。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-7c3567ec-56b5-4ca3-be4a-0be999fa4cfa"
+}

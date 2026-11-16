@@ -1,0 +1,16 @@
+{
+  "id": "poem-0115711f7e9a2ea5e3e26788",
+  "title": "卜算子·不忍更回头",
+  "author": "黄童",
+  "dynasty": "宋",
+  "verses": [
+    "不忍更回头，别泪多于雨。",
+    "肺腑相看四十秋，奚止朝朝暮暮。",
+    "何事值花时，又是匆匆去。",
+    "过了阳关更向西，总是思兄处。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-446",
+  "tags": []
+}

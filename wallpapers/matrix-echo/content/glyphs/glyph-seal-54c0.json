@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-54c0",
+  "script": "seal",
+  "character": "哀",
+  "reading": "āi",
+  "description": "āi：(1)悲痛悲～。～求。～叹。～鸣。～思。～鸿遍野（哀鸿”，哀鸣的大雁；喻到处都是呻吟呼号，流离失所的灾民）。～艳（诗文凄测动人而华丽）。\n(2)悼念～悼。默～。\n(3)旧时称死去母亲～子（a.母丧而父存；b.古称居父母丧的人）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哀"
+}

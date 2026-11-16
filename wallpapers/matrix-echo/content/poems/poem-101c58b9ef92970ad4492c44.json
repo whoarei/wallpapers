@@ -1,0 +1,14 @@
+{
+  "id": "poem-101c58b9ef92970ad4492c44",
+  "title": "宿潭上二首 一",
+  "author": "畅当",
+  "dynasty": "唐",
+  "verses": [
+    "夜潭有仙舸，与月当水中。",
+    "嘉宾爱明月，游子惊秋风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-dabec09f-0fd1-4a09-b0c2-c3aae3db4c82"
+}

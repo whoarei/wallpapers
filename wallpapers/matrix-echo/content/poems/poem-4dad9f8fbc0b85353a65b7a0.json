@@ -1,0 +1,23 @@
+{
+  "id": "poem-4dad9f8fbc0b85353a65b7a0",
+  "title": "满庭芳",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "昔日孙家，双名必达。",
+    "花朝行乐春风。",
+    "琼梅李氏，卖酒亭上幸相逢。",
+    "从此娉为夫妇。",
+    "兄弟谋苦不相从。",
+    "因往外，琼梅水性，再续旧情浓。",
+    "暗去梅香首级，潜奔它处，夫主劳笼。",
+    "陷兄弟必贵，盆吊死郊中。",
+    "幸得天教再活，逢嫂妇说破狂踪。",
+    "三见鬼，一齐擒住，迢断在开封。",
+    "(末下)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8562",
+  "tags": []
+}

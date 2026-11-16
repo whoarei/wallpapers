@@ -1,0 +1,14 @@
+{
+  "id": "poem-319880bdf10cc7866707584c",
+  "title": "太子刘舍人邀看花",
+  "author": "陆畅",
+  "dynasty": "唐",
+  "verses": [
+    "年少风流七品官，朱衣白马冶游盘。",
+    "负心不报春光主，几处偷看红牡丹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-a0255d23-1e3b-4c2d-a6bf-7deb4477ade6"
+}

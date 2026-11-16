@@ -1,0 +1,16 @@
+{
+  "id": "poem-d83290a34eba3a20bf893c1d",
+  "title": "却入泗口",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "洪河一派清淮接，堤草芦花万里秋。",
+    "烟树寂寥分楚泽，海云明灭满扬州。",
+    "望深江汉连天远，思起乡闾满眼愁。",
+    "惆怅路岐真此处，夕阳西没水东流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-b92fefdd-ddbc-478b-8d8d-8724abe2176d"
+}

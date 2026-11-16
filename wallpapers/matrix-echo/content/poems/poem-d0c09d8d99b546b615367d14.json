@@ -1,0 +1,16 @@
+{
+  "id": "poem-d0c09d8d99b546b615367d14",
+  "title": "送李秀才赴婺州招",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "山开江色上，孤赏去应迟。",
+    "绿水迎吴榜，秋风入楚词。",
+    "猨清独宿处，木落远行时。",
+    "见说东阳守，登楼为尔期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-cd6dc609-00ed-4d26-9b1c-797f0d1c67d7"
+}

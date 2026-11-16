@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-969c",
+  "script": "seal",
+  "character": "障",
+  "reading": "zhàng",
+  "description": "zhàng：(1)阻隔，遮挡～蔽。～翳。～碍。故～。～眼法。一叶～目，不见泰山。\n(2)中国秦、汉两代边塞上作防御用的城堡出五原塞数百里，远者千里，筑城～列亭，至庐朐”。\n(3)用作遮蔽、防卫的东西屏～。\n(4)古同幛”，画轴。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-障"
+}

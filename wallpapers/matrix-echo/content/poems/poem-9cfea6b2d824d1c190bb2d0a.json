@@ -1,0 +1,14 @@
+{
+  "id": "poem-9cfea6b2d824d1c190bb2d0a",
+  "title": "省试日上崔侍郎四首 三",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "戚里称儒媿小才，礼闱公道此时开。",
+    "他人何事虚相指，明主无私不是媒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-27ad0030-f8e6-4193-8ead-5cb8709856d6"
+}

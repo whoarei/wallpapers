@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-88b7",
+  "script": "seal",
+  "character": "袷",
+  "reading": "jiá；jié；qiā",
+  "description": "jiá：同夹2”①。\njié：古代交叠于胸前的衣领。\nqiā：〔～袢〕无领大衣；中国维吾尔和塔吉克等民族的对襟长袍。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-袷"
+}

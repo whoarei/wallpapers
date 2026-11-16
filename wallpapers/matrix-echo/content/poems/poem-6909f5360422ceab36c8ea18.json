@@ -1,0 +1,19 @@
+{
+  "id": "poem-6909f5360422ceab36c8ea18",
+  "title": "清平乐·东风桂影",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "东风桂影。",
+    "低拂姮娥镜。",
+    "镜里妆寒酥粉莹。",
+    "越恁十分端正。",
+    "素光行处随人。",
+    "柳边照见青春。",
+    "一片笙箫何处，花阴定有遗簪。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-716",
+  "tags": []
+}

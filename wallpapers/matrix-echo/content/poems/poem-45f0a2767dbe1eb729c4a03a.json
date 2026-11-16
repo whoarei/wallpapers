@@ -1,0 +1,14 @@
+{
+  "id": "poem-45f0a2767dbe1eb729c4a03a",
+  "title": "前腔",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)上告公公见怜，再告婆婆听言，这恩德铭心镂肝。",
+    "若是收留在宅上，大凡事自当向前。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8823",
+  "tags": []
+}

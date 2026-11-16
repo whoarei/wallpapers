@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6cee",
+  "script": "seal",
+  "character": "泮",
+  "reading": "pàn",
+  "description": "pàn：(1)散，解冰～。～涣（融解，分散）。\n(2)姓。\n〔～池〕古代学宫前的水池。\n〔～宫〕古代的学校。\n〔～汗〕水广大的样子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-泮"
+}

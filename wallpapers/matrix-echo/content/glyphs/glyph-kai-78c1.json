@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-78c1",
+  "script": "kai",
+  "character": "磁",
+  "reading": "cí",
+  "description": "cí：(1)物质能吸引铁、镍等金属的性质～性。～力。～石。～极。～场。～化。～能。～感应。\n(2)同瓷”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-磁"
+}

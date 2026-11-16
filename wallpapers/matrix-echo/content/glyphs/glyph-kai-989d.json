@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-989d",
+  "script": "kai",
+  "character": "额",
+  "reading": "é",
+  "description": "店铺或厅堂正面和顶部挂的有字的板,牌匾\n规定的数目\n①人脸眉毛之上头发之下的部分。也指某些动物头部与人额相当的部分。俗称脑门子。\n②牌匾门～。\n③规定的数量定～、超～。\n【额外价值】见【剩余价值】。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-额"
+}

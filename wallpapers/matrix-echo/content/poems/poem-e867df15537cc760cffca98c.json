@@ -1,0 +1,18 @@
+{
+  "id": "poem-e867df15537cc760cffca98c",
+  "title": "木兰花・玉楼春·辘轳轭轭门前井",
+  "author": "李石",
+  "dynasty": "宋",
+  "verses": [
+    "辘轳轭轭门前井。",
+    "不道隔窗人睡醒。",
+    "柔弦无力玉琴寒，残麝彻心金鸭冷。",
+    "一莺啼破帘栊静。",
+    "红日渐高槐转影。",
+    "起来情绪寄游丝，飞绊翠翘风不定。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-270",
+  "tags": []
+}

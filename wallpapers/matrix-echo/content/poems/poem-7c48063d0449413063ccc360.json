@@ -1,0 +1,16 @@
+{
+  "id": "poem-7c48063d0449413063ccc360",
+  "title": "题兴化高田院桥亭",
+  "author": "郑良士",
+  "dynasty": "唐",
+  "verses": [
+    "到此溪亭上，浮生始觉非。",
+    "野僧还惜别，游客亦忘归。",
+    "月满千岩静，风清一磬微。",
+    "何时脱尘役，杖履愿相依。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-51e55e97-cc29-4408-9fd9-0b20e8c54581"
+}

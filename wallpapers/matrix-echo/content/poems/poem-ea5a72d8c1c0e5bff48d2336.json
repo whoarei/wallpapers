@@ -1,0 +1,16 @@
+{
+  "id": "poem-ea5a72d8c1c0e5bff48d2336",
+  "title": "上吏部崔相公",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "龙门曾共战惊澜，雷电浮云出濬湍。",
+    "紫府有名同羽化，碧霄无路却泥蟠。",
+    "公车未结王生袜，客路虚弹贡禹冠。",
+    "今日罏锤任真宰，暂回风水不应难。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-1784cb92-b5fb-4807-9534-e4e1bef1bed1"
+}

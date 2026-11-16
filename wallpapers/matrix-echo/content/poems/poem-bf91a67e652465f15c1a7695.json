@@ -1,0 +1,14 @@
+{
+  "id": "poem-bf91a67e652465f15c1a7695",
+  "title": "即事三首  其三",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "森森榕木碧参天，夏日初闻第一蝉。",
+    "美荫羡君诚得计，何须凄怨嘒风前。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-4c8ea1df-5f49-4ccc-9e4e-d223fbce5e44"
+}

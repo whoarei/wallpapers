@@ -1,0 +1,16 @@
+{
+  "id": "poem-7784d134907b09448ad2b5b9",
+  "title": "别黄吟隠",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "饮干分别酒，话久未移舟。",
+    "潮水催行客，海山生远愁。",
+    "蝉声秋岸树，雁影夕阳楼。",
+    "今夜相思梦，芦花第几洲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-148ac550-d6d1-4c21-acfe-3246363d3898"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8f91",
+  "script": "kai",
+  "character": "辑",
+  "reading": "jí",
+  "description": "整套书籍、资料等按内容或发表先后次序分成的各个部分\n聚集\n敛,拖着不使脱落\n把各种来源的书面材料或项目经加工汇编成一个文件或\n⒈〈古〉车厢。泛指车子。\n⒉聚集甲～而兵聚。特指编书报等或编成的书编～。丛书第四～。\n⒊和睦～睦。〈引〉安抚，安定以～一方。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-辑"
+}

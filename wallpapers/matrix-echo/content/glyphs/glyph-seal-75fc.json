@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75fc",
+  "script": "seal",
+  "character": "痼",
+  "reading": "gù",
+  "description": "gù：(1)经久难治愈的病～疾。\n(2)长期养成的不易克服的癖好、习惯～癖。～习。～弊。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-痼"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-7eeb7408f3e00922c29f801c",
+  "title": "送豆卢策归别墅",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "短松鹤不巢，高石云不栖。",
+    "君今潇湘去，意与云鹤齐。",
+    "力买奇险地，手开清浅溪。",
+    "身披薜荔衣，山陟莓苔梯。",
+    "一卷冰雪文，避俗常自携。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-7f7f9ddf-5c2d-4d93-ac43-d2e1ca1c3e2e"
+}

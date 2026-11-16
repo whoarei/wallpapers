@@ -1,0 +1,14 @@
+{
+  "id": "poem-3de126f58f8ba0cb856d8ef4",
+  "title": "三游巾子山寺感述",
+  "author": "任翻",
+  "dynasty": "唐",
+  "verses": [
+    "清秋绝顶竹房开，松鹤何年去不回。",
+    "惟有前峰明月在，夜深犹过半江来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-28b2104f-d0ca-46e5-af36-f99951136d3a"
+}

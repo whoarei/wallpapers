@@ -1,0 +1,16 @@
+{
+  "id": "poem-ffb699e5ddbaafed828ca8a0",
+  "title": "八十",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "相交莫嫉妬，相劝莫蛆儜。",
+    "一日无常去，王前罢手行。",
+    "（「罢」，项楚校作「摆」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-847fe556-19f6-46d0-982b-511cfecff1e2"
+}

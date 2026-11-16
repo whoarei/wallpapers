@@ -1,0 +1,20 @@
+{
+  "id": "poem-ad41ab3de52fd681887cb809",
+  "title": "故行宫",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "寥落古行宫，宫花寂寞红。",
+    "白头宫女在，闲坐说玄宗。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "怀古",
+    "宫怨",
+    "五言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a6c85d29-ad02-4f54-a347-63800213a7b4"
+}

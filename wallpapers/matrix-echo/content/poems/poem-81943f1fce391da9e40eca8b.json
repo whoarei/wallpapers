@@ -1,0 +1,20 @@
+{
+  "id": "poem-81943f1fce391da9e40eca8b",
+  "title": "临江仙·高咏楚词酬午日",
+  "author": "陈与义",
+  "dynasty": "宋",
+  "verses": [
+    "高咏楚词酬午日，天涯节序匆匆。",
+    "榴花不似舞裙红。",
+    "无人知此意，歌罢满帘风。",
+    "万事一身伤老矣，戌葵凝笑墙东。",
+    "酒杯深浅去年同。",
+    "试浇桥下水，今夕到湘中。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-112"
+}

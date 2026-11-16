@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-89cf",
+  "script": "seal",
+  "character": "觏",
+  "reading": "gòu",
+  "description": "遭遇\n构成。通构”\n⒈遇，遭遇，遇见～疾。相～≤少～到。\n⒉看见登高楼～平川。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-觏"
+}

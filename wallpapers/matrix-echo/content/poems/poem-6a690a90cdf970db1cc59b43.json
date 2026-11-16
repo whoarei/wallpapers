@@ -1,0 +1,14 @@
+{
+  "id": "poem-6a690a90cdf970db1cc59b43",
+  "title": "偈颂十四首  其三",
+  "author": "释印肃",
+  "dynasty": "宋",
+  "verses": [
+    "若得桥行心亦行，莫教孤负见贫僧。",
+    "不因通济何如此，暗室千年忽遇灯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-f7d99944-b4ea-4d3a-9529-439377d1a75c"
+}

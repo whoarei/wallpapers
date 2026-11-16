@@ -1,0 +1,14 @@
+{
+  "id": "poem-46b94788443f5dfb33877203",
+  "title": "文宗嗜蛤蜊",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "螺师蚌蛤类，大唐天子心。",
+    "嗜好即深信，南无观世音。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-4fa68ea9-9672-4b5b-bbb7-70d7d048a16f"
+}

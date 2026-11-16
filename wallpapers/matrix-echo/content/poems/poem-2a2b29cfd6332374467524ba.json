@@ -1,0 +1,14 @@
+{
+  "id": "poem-2a2b29cfd6332374467524ba",
+  "title": "忆故人 一",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "别君彼此两平安，别后恓惶凡几般。",
+    "虽然更寄新书去，忆时捻取旧诗看。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-94ab29b0-062c-4fa6-ba6b-205ec986e920"
+}

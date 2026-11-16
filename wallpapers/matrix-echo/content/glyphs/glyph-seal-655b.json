@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-655b",
+  "script": "seal",
+  "character": "敛",
+  "reading": "liǎn",
+  "description": "收获\n征收\n豹因重敛百姓\n⒈收，聚集收～。聚～。秋～冬藏。〈引〉征收横征暴～。\n⒉约束，检点～迹。闭门自～。\n敛lián 1.见\"敛盂\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-敛"
+}

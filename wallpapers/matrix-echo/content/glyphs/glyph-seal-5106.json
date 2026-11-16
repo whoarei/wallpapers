@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5106",
+  "script": "seal",
+  "character": "儆",
+  "reading": "jǐng",
+  "description": "jǐng：(1)使人警醒，不犯过错～戒。～省（xǐng）（使人觉悟、反省）。惩一～百。以～效尤。\n(2)古同警”，警报。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-儆"
+}

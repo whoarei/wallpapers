@@ -1,0 +1,20 @@
+{
+  "id": "poem-f28dc6dfd0d3a6e2a13dcede",
+  "title": "望江南・忆江南·江南水",
+  "author": "王琪",
+  "dynasty": "宋",
+  "verses": [
+    "江南水，江路转平沙。",
+    "雨霁高烟收素练，风晴细浪吐寒花。",
+    "迢递送星槎。",
+    "名利客，飘泊未还家。",
+    "西塞山前渔唱远，洞庭波上雁行斜。",
+    "征棹宿天涯。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-848",
+  "tags": [
+    "洞庭湖"
+  ]
+}

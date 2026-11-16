@@ -1,0 +1,16 @@
+{
+  "id": "poem-1db8628fc2d3f34ee5a4818c",
+  "title": "玉楼春·寂寂画堂梁上燕",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "寂寂画堂梁上燕，高卷翠帘横数扇。",
+    "一庭春色恼人来，满地落花红几片。",
+    "愁倚锦屏低雪面，泪滴绣罗金缕线。",
+    "好天凉月尽伤心，为是玉郎长不见。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-2"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5071949d8f2961310a8e02bf",
+  "title": "送令狐尚书赴东都留守",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "朝廷重寄在关东，共说从前选上公。",
+    "勋业新城大梁镇，恩荣更守洛阳宫。",
+    "行香暂出天桥上，巡礼常过禁殿中。",
+    "每领群臣拜章庆，半开门仗日曈曈。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c90e225a-331a-4f78-9e14-f930489e2cff"
+}

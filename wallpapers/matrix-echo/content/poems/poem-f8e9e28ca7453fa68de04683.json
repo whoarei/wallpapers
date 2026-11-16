@@ -1,0 +1,14 @@
+{
+  "id": "poem-f8e9e28ca7453fa68de04683",
+  "title": "枫桥夜泊",
+  "author": "张继",
+  "dynasty": "唐",
+  "verses": [
+    "月落乌啼霜满天，江枫渔火对愁眠。",
+    "姑苏城外寒山寺，夜半钟声到客船。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-楓橋夜泊"
+}

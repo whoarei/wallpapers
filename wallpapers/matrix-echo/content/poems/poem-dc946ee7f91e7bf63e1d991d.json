@@ -1,0 +1,16 @@
+{
+  "id": "poem-dc946ee7f91e7bf63e1d991d",
+  "title": "游上雪窦诗",
+  "author": "延寿",
+  "dynasty": "唐",
+  "verses": [
+    "下雪窦游上雪窦，过云峰后望云峰。",
+    "如趋仙府经三岛，似入天门彻九重。",
+    "无日不飞丹顶鹤，有时忽起隐潭龙。",
+    "祇因奉诏西归去，此境何由得再逢。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-38fcb454-becf-4284-9824-1c899f8ee917"
+}

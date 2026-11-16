@@ -1,0 +1,14 @@
+{
+  "id": "poem-426793b6bb081c61c844420d",
+  "title": "董逃歌词",
+  "author": "曹操",
+  "dynasty": "汉",
+  "verses": [
+    "德行不亏缺，变故自难常。",
+    "郑康成行酒，伏地气绝；郭景图命尽于园桑。"
+  ],
+  "enabled": true,
+  "collection": "曹操诗集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/曹操诗集/caocao.json#record-25"
+}

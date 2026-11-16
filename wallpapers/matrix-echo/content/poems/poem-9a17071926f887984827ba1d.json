@@ -1,0 +1,16 @@
+{
+  "id": "poem-9a17071926f887984827ba1d",
+  "title": "七夕",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "秋近雁行稀，天高鹊夜飞。",
+    "妆成应懒织，今夕渡河归。",
+    "月皎宜穿线，风轻得曝衣。",
+    "来时不可觉，神验有光辉。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-04d92f40-d412-4eb5-ab64-d58aa0a779c6"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-50b4099f999002bb161a2ca3",
+  "title": "张次东中奉挽词三首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "贾父褰帷日，于公驷马门。",
+    "十年持使节，两郡拥朱轓。",
+    "无复功名会，空余气槩存。",
+    "凄凉九原路，楚些与招魂。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-05ce676a-486b-4a48-b6b4-0f55b7dc1809"
+}

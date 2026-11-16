@@ -1,0 +1,21 @@
+{
+  "id": "poem-b1171a51d0728e1003eb39ef",
+  "title": "题江陵崔兵曹林亭",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "小隐蜀江边，重峦尽一川。",
+    "山形分断岸，水势尽平田。",
+    "嫩碧生栏浅，轻红落砌蔫。",
+    "短桥扶竹过，欹路把藤缘。",
+    "南巷纤埃隔，东郊远思延。",
+    "月庭潜润石，风渚自移舡。",
+    "滴露蒲光冷，摇波柳翠鲜。",
+    "关心每来胜，幸尔必相然。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-3ae06bee-e8ad-4a7d-abbd-f22b890d2f4b"
+}

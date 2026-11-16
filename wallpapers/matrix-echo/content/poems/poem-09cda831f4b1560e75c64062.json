@@ -1,0 +1,14 @@
+{
+  "id": "poem-09cda831f4b1560e75c64062",
+  "title": "题城南书院三十四咏  其二",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "新竹成林蕉叶青，隔篱深处有蝉鸣。",
+    "晚凉更觉长堤静，自遶荷花待月明。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-8fbfdae9-9a7a-4e2e-8470-43e19a845db0"
+}

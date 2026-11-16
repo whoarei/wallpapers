@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6e7e",
+  "script": "kai",
+  "character": "湾",
+  "reading": "wān",
+  "description": "海湾\n村庄\n系泊,在水湾处停泊\n用于水或水面,相当于处\n⒈水流弯曲的地方河～。\n⒉海洋向陆地凹入的地方港～。渤海～。\n⒊使船停住将船～在这儿。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-湾"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-39b2d14b3d623406d1a9f586",
+  "title": "满江红·春色匆匆",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "春色匆匆，三分过、二分光景。",
+    "吾老矣，坡轮西下，可堪弄影。",
+    "曲水流觞时节好，茂林修竹池台永。",
+    "望前村、绿柳荫茅檐，云封岭。",
+    "蜂蝶闹，烟花整。",
+    "百年梦，如俄顷。",
+    "这回头陈迹，漫劳深省。",
+    "吹竹弹丝谁不爱，焚琴煮鹤人何肯。",
+    "尽三觥、歌罢酒来时，风吹醒。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-744",
+  "tags": []
+}

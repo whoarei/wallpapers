@@ -1,0 +1,19 @@
+{
+  "id": "poem-64ba35878f18c37226990db7",
+  "title": "行香子·柳态纤柔",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "柳态纤柔，雪艳疏明。",
+    "问人来、人道轻盈。",
+    "张琵莲脸，一寸横波。",
+    "比潇洒处，犹难称，此嘉名。",
+    "花前烛下，微频浅笑，要题诗、盏畔低声。",
+    "司空自惯，狂眼须惊。",
+    "也不辞写，双罗带，恐牵情。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-258",
+  "tags": []
+}

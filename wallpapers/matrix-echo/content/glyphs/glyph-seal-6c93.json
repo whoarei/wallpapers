@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c93",
+  "script": "seal",
+  "character": "沓",
+  "reading": "tà；dá",
+  "description": "tà：(1)多，重复～～（ａ．话多；ｂ．弛缓；ｃ．疾行）。杂～。\n(2)水翻腾沸涌漏流昔吞翕，～浪竞奔注”。\n(3)合天与地～。\n(4)贪，黩～贪。～吏。\ndá：量词，用于叠起来的纸张或其他薄的东西一～儿纸。一～子。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沓"
+}

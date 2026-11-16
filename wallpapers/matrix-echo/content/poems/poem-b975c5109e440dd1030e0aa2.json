@@ -1,0 +1,16 @@
+{
+  "id": "poem-b975c5109e440dd1030e0aa2",
+  "title": "郊庙歌辞 祭方丘乐章 顺和",
+  "author": "褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "阴祇协赞，厚载方贞。",
+    "牲币具举，箫管备成。",
+    "其礼惟肃，其德惟明。",
+    "神之听矣，式鉴虔诚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-98035eea-d155-46b8-aca0-45c7a343993c"
+}

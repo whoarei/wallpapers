@@ -1,0 +1,14 @@
+{
+  "id": "poem-e772e8c251578ef8df68bc22",
+  "title": "赋残雪",
+  "author": "释干康",
+  "dynasty": "宋",
+  "verses": [
+    "六出奇花已住开，郡城相次见楼台。",
+    "时人莫把和泥看，一片飞从天上来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-5deea0c7-645b-4858-a13d-c56bdfbe7ae3"
+}

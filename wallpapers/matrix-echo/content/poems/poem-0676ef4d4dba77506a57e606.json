@@ -1,0 +1,14 @@
+{
+  "id": "poem-0676ef4d4dba77506a57e606",
+  "title": "见薛大臂鹰作",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "寒楚十二月，苍鹰八九毛。",
+    "寄言燕雀莫相啅，自有云霄万里高。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-17c901f7-75d0-48ce-ac16-95724c21dad9"
+}

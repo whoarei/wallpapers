@@ -1,0 +1,15 @@
+{
+  "id": "poem-a287ec73448f6e39ec420788",
+  "title": "秋宵",
+  "author": "钱遹",
+  "dynasty": "宋",
+  "verses": [
+    "南邻灯火冷，三叹愁夜永。",
+    "北里歌未终，已惊初日红。",
+    "不知昼夜谁拘管，一等秋宵有长短。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-fe4fbca9-dec3-47bf-8084-1bc9288ae340"
+}

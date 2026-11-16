@@ -1,0 +1,25 @@
+{
+  "id": "poem-7f7dfe0cd9292b46958b2a61",
+  "title": "如鱼水·轻霭浮空",
+  "author": "柳永",
+  "dynasty": "宋",
+  "verses": [
+    "轻霭浮空，乱峰倒影，潋滟十里银塘。",
+    "绕岸垂杨。",
+    "红楼朱阁相望。",
+    "芰荷香。",
+    "双双戏、㶉𫛶鸳鸯。",
+    "乍雨过、兰芷汀洲，望中依约似潇湘。",
+    "风淡淡，水茫茫。",
+    "动一片晴光。",
+    "画舫相将。",
+    "盈盈红粉清商。",
+    "紫薇郎。",
+    "修禊饮、且乐仙乡。",
+    "更归去，遍历銮坡凤沼，此景也难忘。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-185",
+  "tags": []
+}

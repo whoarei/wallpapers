@@ -1,0 +1,16 @@
+{
+  "id": "poem-85609183e4915d2f78f82180",
+  "title": "寓天台水南四首  其一",
+  "author": "林宪",
+  "dynasty": "宋",
+  "verses": [
+    "小雨凄暮春，入夜寒更作。",
+    "泠泠竹间风，振我衣袂薄。",
+    "野田鸣流泉，密树纷翠幄。",
+    "蹑屐徐我行，长怀付寥廓。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-43ad5ead-7254-477f-b143-658c161cafd9"
+}

@@ -2,7 +2,9 @@
   "id": "glyph-seal-5730",
   "script": "seal",
   "character": "地",
-  "reading": "dì",
-  "description": "大地、土地，也指人们生活的地方。",
-  "enabled": true
+  "reading": "dì；de",
+  "description": "dì：地面，大地；地方、地域。de：结构助词，连接状语和中心词，如认真地读书。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "矩阵回声编者简注（常用义）"
 }

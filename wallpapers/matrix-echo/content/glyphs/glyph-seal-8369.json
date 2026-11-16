@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8369",
+  "script": "seal",
+  "character": "荩",
+  "reading": "jìn",
+  "description": "荩草\n烧剩的柴木。也泛指剩余的事物。通烬”\n通进”。进用◇引申为忠诚\n⒈荩草，一年生草本，茎细，花灰绿或带紫色。茎可编器物，茎与叶可做黄色染料，茎的纤维可用于造纸。\n⒉忠诚～臣。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-荩"
+}

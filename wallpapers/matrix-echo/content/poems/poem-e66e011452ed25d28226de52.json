@@ -1,0 +1,16 @@
+{
+  "id": "poem-e66e011452ed25d28226de52",
+  "title": "木兰花·独上小楼春欲暮",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "独上小楼春欲暮，愁望玉关芳草路。",
+    "消息断，不逢人，欲敛细眉归绣户。",
+    "坐看落花空叹息，罗袂湿斑红泪滴。",
+    "千山万水不曾行，魂梦欲教何处觅。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-3-juan.json#record-24"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-4142453dc85ca03f01fc7789",
+  "title": "移兰",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "莸劣薰优只自强，寄林亦足称孤芳。",
+    "故应纫佩成春服，不为无人閟国香。",
+    "移傍瘦筠同雨露，怕随行苇践牛羊。",
+    "客非九畹同心事，莫反离骚吊碧湘。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-86df2e49-a1d1-4cd2-b70d-476edf087ba0"
+}

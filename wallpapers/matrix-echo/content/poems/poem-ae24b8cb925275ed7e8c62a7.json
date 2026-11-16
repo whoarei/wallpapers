@@ -1,0 +1,16 @@
+{
+  "id": "poem-ae24b8cb925275ed7e8c62a7",
+  "title": "罗汉岭上古杉",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "一亩蔽苍苔，昙猷手自栽。",
+    "滴高零露馥，蟠厚烈风哀。",
+    "黛色垂云黑，丹心阅世灰。",
+    "儿孙几度老，独立暝云隈。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-cb73b3f4-353d-4d28-920c-82e190d603f0"
+}

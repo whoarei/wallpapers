@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7b80",
+  "script": "kai",
+  "character": "简",
+  "reading": "jiǎn",
+  "description": "⒈不复杂，不烦琐，跟\"繁\"相对～单些。太～陋。～化。～明扼要。精兵～政。\n⒉轻忽，怠慢～慢。\n⒊盐，选择～拔。～选。\n⒋〈古〉用来写字的竹片或木片竹～。木～。〈引〉书信书～。来～。\n②〈方〉作\"索性\"讲天黑，雨又大，你～直别回去了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-简"
+}

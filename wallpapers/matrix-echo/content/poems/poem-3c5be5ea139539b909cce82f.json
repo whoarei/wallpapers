@@ -1,0 +1,16 @@
+{
+  "id": "poem-3c5be5ea139539b909cce82f",
+  "title": "生查子·见汝小溪湾",
+  "author": "王质",
+  "dynasty": "宋",
+  "verses": [
+    "见汝小溪湾，修竹连疏影。",
+    "林杪动风声，惊下毵毵粉。",
+    "见汝大江郊，高浪摇枯本。",
+    "飞雪密封枝，直到斜阳醒。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-308",
+  "tags": []
+}

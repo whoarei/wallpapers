@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8292",
+  "script": "kai",
+  "character": "芒",
+  "reading": "máng",
+  "description": "máng：(1)某些禾本科植物种子壳上的细刺针尖对麦～。初露锋～。\n(2)像芒的东西光～。\n(3)多年生草本植物，叶细长有尖，叶除可作绿篱和布置庭园外，又可作造纸原料和编织草鞋，嫩叶可做牛的饲料。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芒"
+}

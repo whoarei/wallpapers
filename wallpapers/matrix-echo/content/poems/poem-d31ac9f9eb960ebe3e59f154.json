@@ -1,0 +1,14 @@
+{
+  "id": "poem-d31ac9f9eb960ebe3e59f154",
+  "title": "元祐己巳岁维扬后斋为亳州使君蒋公写二首  其一",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "水竹风清一梦苏，涛生月破紫瓯须。",
+    "满堂爱客谈书画，且展宣王扇暍图。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-de963f10-a54b-443d-a669-b3892186c7c5"
+}

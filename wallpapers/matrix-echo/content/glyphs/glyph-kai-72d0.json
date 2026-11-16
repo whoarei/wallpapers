@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-72d0",
+  "script": "kai",
+  "character": "狐",
+  "reading": "hú",
+  "description": "hú：(1)哺乳动物的一属，形状略像狼。毛赤黄色，性狡猾多疑，遇见攻击时肛门放出臭气，乘机逃跑。皮可做衣服（通称狐狸”）～臭（腋下臭气）。～肷（狐腋下和腹部的毛皮）。～疑（多疑）。～媚（曲意逢迎，投入所好）。～死首丘（传说狐狸将死，头必向出生的山丘。喻不忘本，亦喻对故乡的思念）。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-狐"
+}

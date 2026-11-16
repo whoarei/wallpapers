@@ -1,0 +1,20 @@
+{
+  "id": "poem-9b2b38541ab7833b0ea95d3b",
+  "title": "满庭芳·北苑春风",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "北苑春风，方圭圆璧，万里名动京关。",
+    "碎身粉骨，功合上凌烟。",
+    "尊俎风流战胜，降春睡、开拓愁边。",
+    "纤纤捧，研膏溅乳，金缕鹧鸪斑。",
+    "相如，虽病渴，一觞一咏，宾有群贤。",
+    "为扶起灯前，醉玉颓山。",
+    "搜搅心中万卷，还倾动、三峡词源。",
+    "归来晚，文君未寝，相对小窗前。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-652",
+  "tags": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-dd69cf03134d39e1460999f3",
+  "title": "耒阳杜工部墓（题拟）",
+  "author": "孟宾于",
+  "dynasty": "唐",
+  "verses": [
+    "南游何感思，更甚叶缤纷。",
+    "一夜耒江雨，百年工部文。",
+    "青山当日见，白酒至今闻。",
+    "惟有为诗者，经过时吊君。",
+    "（见钱谦益《笺注杜工部集唱酬题就是》引《耒阳祠志》。",
+    "《增修诗话总龟》卷四三引刘斧《摭遗》引「一夜耒江雨，百年工部文」二句，称为「唐人诗」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-eaa78063-2d62-497b-ac47-ad72ffa5f2e0"
+}

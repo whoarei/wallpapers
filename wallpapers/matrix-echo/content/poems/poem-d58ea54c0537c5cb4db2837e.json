@@ -1,0 +1,20 @@
+{
+  "id": "poem-d58ea54c0537c5cb4db2837e",
+  "title": "芳树",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "连理无分影，同心岂独芳。",
+    "傍檐巢翡翠，临水宿鸳鸯。",
+    "叶叶含春思，枝枝向画廊。",
+    "君情若比树，妾意复何伤。",
+    "陌上谁攀折，闺中思复侵。",
+    "眼凝清露重，眉敛翠烟深。",
+    "羌笛临风曲，悲笳出塞音。",
+    "纵垂千万缕，那系别离心。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-252"
+}

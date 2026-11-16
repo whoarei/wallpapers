@@ -1,0 +1,14 @@
+{
+  "id": "poem-da23cc9c6315430092fabc57",
+  "title": "淳熙四年二月既望静江守臣张某奉诏劝农于郊乃作熙熙阳春之诗二十四章章四句以示父老俾告于其乡之人而歌之  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "熙熙阳春，既发既舒。",
+    "翼翼南亩，是展是图。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-bfad9e1f-9a26-4086-ab55-482e9d8e6cfc"
+}

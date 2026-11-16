@@ -1,0 +1,16 @@
+{
+  "id": "poem-58ba841066f79c3ffe8f2b62",
+  "title": "碧角簟",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "细皮重叠织霜纹，滑腻铺床胜锦茵。",
+    "八尺碧天无点翳，一方青玉绝纤尘。",
+    "蝇行只恐烟黏足，客卧混疑水浸身。",
+    "五月不教炎气入，满堂秋色冷龙鳞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-86ed60df-bb60-4663-98c4-008fc8facbae"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-4a5b9cceae9f1097c2fd9958",
+  "title": "莺梭",
+  "author": "刘克庄",
+  "dynasty": "宋",
+  "verses": [
+    "掷柳迁乔太有情，交交时作弄机声。",
+    "洛阳三月花如锦，多少工夫织得成。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-鶯梭"
+}

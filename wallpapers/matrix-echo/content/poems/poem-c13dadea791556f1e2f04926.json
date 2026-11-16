@@ -1,0 +1,16 @@
+{
+  "id": "poem-c13dadea791556f1e2f04926",
+  "title": "生查子·一岁会盘洲",
+  "author": "洪适",
+  "dynasty": "宋",
+  "verses": [
+    "一岁会盘洲，月月生查子。",
+    "弟劝复兄酬，举案灯花喜。",
+    "曲终人半酣，添酒留罗绮。",
+    "车马不须喧，且听三更未。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-731",
+  "tags": []
+}

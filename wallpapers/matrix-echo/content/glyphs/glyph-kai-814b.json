@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-814b",
+  "script": "kai",
+  "character": "腋",
+  "reading": "yè",
+  "description": "yè：(1)胳肢窝，上肢同肩膀相连处靠里凹入的部分～窝。～下。集～成裘。\n(2)其他生物体上与腋类似的部分～芽。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-腋"
+}

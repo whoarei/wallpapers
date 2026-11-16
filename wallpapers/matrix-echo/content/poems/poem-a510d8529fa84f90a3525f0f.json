@@ -1,0 +1,22 @@
+{
+  "id": "poem-a510d8529fa84f90a3525f0f",
+  "title": "江城子·华灯高宴水精宫",
+  "author": "沈与求",
+  "dynasty": "宋",
+  "verses": [
+    "华灯高宴水精宫。",
+    "浪花中。",
+    "意无穷。",
+    "十载江湖，重绾汉符铜。",
+    "应有青藜存往事，人缥缈，佩丁东。",
+    "卧听萧寺响疏钟。",
+    "渡溪风。",
+    "转空蒙。",
+    "月上孤窗，邻唱有渔翁。",
+    "追念使君清坐久，歌一发，恨千重。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-818",
+  "tags": []
+}

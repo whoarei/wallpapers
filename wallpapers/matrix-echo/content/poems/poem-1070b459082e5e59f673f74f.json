@@ -1,0 +1,14 @@
+{
+  "id": "poem-1070b459082e5e59f673f74f",
+  "title": "新晴爱月",
+  "author": "陆畅",
+  "dynasty": "唐",
+  "verses": [
+    "野性平生惟爱月，新晴半夜覩婵娟。",
+    "起来自擘纱窗破，恰漏清光落枕前。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-13816ee9-b5c3-456c-947c-6b8cab1c4f4e"
+}

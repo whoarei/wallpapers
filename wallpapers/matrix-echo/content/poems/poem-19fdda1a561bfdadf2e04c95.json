@@ -1,0 +1,19 @@
+{
+  "id": "poem-19fdda1a561bfdadf2e04c95",
+  "title": "调笑・调笑令·芳草",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "芳草。",
+    "恨春老。",
+    "自是寻春来不早。",
+    "落花风起红多少。",
+    "记得一枝春小。",
+    "绿阴青子空相恼。",
+    "此恨平生怀抱。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-895",
+  "tags": []
+}

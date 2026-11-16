@@ -1,0 +1,20 @@
+{
+  "id": "poem-b6834a8ad8f36066b6fb191a",
+  "title": "浪淘沙·黄道雨初干",
+  "author": "谢懋",
+  "dynasty": "宋",
+  "verses": [
+    "黄道雨初干。",
+    "霁霭空蟠。",
+    "东风杨柳碧毵毵。",
+    "燕子不归花有恨，小院春寒。",
+    "倦客亦何堪。",
+    "尘满征衫。",
+    "明朝野水几重山。",
+    "归梦已随芳草绿，先到江南。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-304",
+  "tags": []
+}

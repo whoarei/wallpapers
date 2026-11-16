@@ -1,0 +1,14 @@
+{
+  "id": "poem-e45298a9038f15c07b1a05cc",
+  "title": "蝴蝶三首 一",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "不并难飞茧里蛾，有花芳处定经过。",
+    "天风相送轻飘去，却笑[蜘蛛]谩织罗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-5454a82f-723b-4df9-8c00-057f3d24f305"
+}

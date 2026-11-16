@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ed7",
+  "script": "kai",
+  "character": "仗",
+  "reading": "zhàng",
+  "description": "zhàng：(1)兵器仪～。明火执～。\n(2)拿着兵器～剑。\n(3)战争打～。胜～。\n(4)凭借，依靠倚～。仰～。～恃。～义执言（为了正义说公道话）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-仗"
+}

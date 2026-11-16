@@ -1,0 +1,16 @@
+{
+  "id": "poem-8628767c9b503c659c419950",
+  "title": "禁署早春晴望",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "御林闻有早莺声，玉槛春香九陌晴。",
+    "寒著霁云归紫阁，暖浮佳气动芳城。",
+    "宫池日到冰初解，辇路风吹草欲生。",
+    "鸳侣此时皆赋咏，商山雪在思尤清。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-0864c886-51ed-4774-979c-f3503805d74f"
+}

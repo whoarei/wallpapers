@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6308",
+  "script": "seal",
+  "character": "挈",
+  "reading": "qiè",
+  "description": "qiè：(1)用手提着提～。提纲～领。\n(2)带，领～带。～眷。扶老～幼。\n(3)古同锲”，刻。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-挈"
+}

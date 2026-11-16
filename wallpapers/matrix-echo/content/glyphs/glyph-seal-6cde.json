@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6cde",
+  "script": "seal",
+  "character": "泞",
+  "reading": "nìng",
+  "description": "按,荥泞叠韵连语,小水之貌。\n泞zhù 1.见\"澹泞\"。\n泞níng 1.见\"汀泞\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-泞"
+}

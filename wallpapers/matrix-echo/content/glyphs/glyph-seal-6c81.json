@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c81",
+  "script": "seal",
+  "character": "沁",
+  "reading": "qìn",
+  "description": "qìn：(1)渗入；浸润～润。～人心脾。\n(2)汲水义泉虽至近，盗索不敢～”。\n(3)头向下垂～着头。\n(4)纳入水中。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沁"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-c76df91668e11b441c28d19d",
+  "title": "菩萨蛮·喧喧车马西郊道",
+  "author": "陈师道",
+  "dynasty": "宋",
+  "verses": [
+    "喧喧车马西郊道。",
+    "临行更觉人情好。",
+    "住有一年情。",
+    "去留千载名。",
+    "离歌声欲尽。",
+    "只作常时听。",
+    "天上玉堂东。",
+    "阳春是梦中。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-298",
+  "tags": []
+}

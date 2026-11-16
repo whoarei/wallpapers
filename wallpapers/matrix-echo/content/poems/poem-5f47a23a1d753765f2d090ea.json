@@ -1,0 +1,16 @@
+{
+  "id": "poem-5f47a23a1d753765f2d090ea",
+  "title": "杏殇 七",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "哭此不成春，泪痕三四斑。",
+    "失芳蝶既狂，失子老亦孱。",
+    "且无生生力，自有死死颜。",
+    "灵凤不衔诉，谁为扣天关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-22024e09-ca03-4c28-a9c9-9cc3f7a12281"
+}

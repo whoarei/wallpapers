@@ -1,0 +1,16 @@
+{
+  "id": "poem-bc107dc1f927b9da15506e92",
+  "title": "古意四首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "鸾凤招不来，鸱鸢麾不去。",
+    "君看酒肉败，坐使醯鸡聚。",
+    "小人为身谋，无复及远虑。",
+    "国敝身亦危，何殊木中蠧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-a2c87561-3598-44b3-a967-ee2ef9f38106"
+}

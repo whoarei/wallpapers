@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8863",
+  "script": "seal",
+  "character": "衣",
+  "reading": "yī",
+  "description": "yī：(1)人穿在身上用以蔽体的东西～服。～着（zhuó）。～冠。～架。～锦还（huán）乡。\n(2)披或包在物体外面的东西炮～。糖～。肠～。\n(3)中医把胎盘和胎膜统称为胞衣”。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-衣"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-198b9018e0f02e86caa9c94a",
+  "title": "昭君怨三首 一",
+  "author": "东方虬",
+  "dynasty": "唐",
+  "verses": [
+    "汉道方全盛，朝廷足武臣。",
+    "何须薄命妾，辛苦事和亲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-aa7be51f-e588-45a0-87db-e727a54b9d88"
+}

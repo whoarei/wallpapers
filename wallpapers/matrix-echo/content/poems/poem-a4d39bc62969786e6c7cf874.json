@@ -1,0 +1,14 @@
+{
+  "id": "poem-a4d39bc62969786e6c7cf874",
+  "title": "雨意  其一",
+  "author": "王同祖",
+  "dynasty": "宋",
+  "verses": [
+    "春愁如织雨如麻，倦倚吟窗拾落花。",
+    "坐不忍眠心似醉，悠悠身世在天涯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-62adb4fd-99c0-40a8-bd3b-d4c0e3fa5bac"
+}

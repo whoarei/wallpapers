@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9178",
+  "script": "kai",
+  "character": "酸",
+  "reading": "suān",
+  "description": "suān：(1)像醋的气味或味道～菜。～溜溜。～梅。～甜。～奶。～枣。\n(2)化学上称能在水溶液中产生氢离子的化合物，分无机酸”、有机酸”两大类盐～。碳～。硝～。硫～。～碱度。\n(3)讥讽人的迂腐穷～‘～。\n(4)悲痛，伤心～楚。辛～（亦作酸辛”）。～苦。～怆。～怀。\n(5)因疲劳或疾病引起的微痛而无力的感觉～痛。腰～腿疼。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-酸"
+}

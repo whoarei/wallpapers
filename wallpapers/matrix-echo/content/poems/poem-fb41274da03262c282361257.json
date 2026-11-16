@@ -1,0 +1,16 @@
+{
+  "id": "poem-fb41274da03262c282361257",
+  "title": "秋日美晴郡楼闲眺寄荆南张书记",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "高槛凉风起，清川旭景开。",
+    "秋声向野去，爽气自山来。",
+    "霄外鸿初返，簷间燕已归。",
+    "不因烟雨夕，何处梦阳台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-a3af5d50-130f-4e9d-89ef-4538f1ac3fce"
+}

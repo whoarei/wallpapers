@@ -1,0 +1,14 @@
+{
+  "id": "poem-bf4172e1aaabb606b8897aa7",
+  "title": "一剪梅",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "浪暖桃香欲化鱼，期逼春闱，诏赴春闱。",
+    "郡中空有辟贤书，心恋亲闱，难舍亲闱。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4929",
+  "tags": []
+}

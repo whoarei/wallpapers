@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-832b",
+  "script": "kai",
+  "character": "茫",
+  "reading": "máng",
+  "description": "máng：(1)凝不清，对事理全无所知～然。～昧。\n(2)遥远，面积大，看不清边沿～～。～漠。渺～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茫"
+}

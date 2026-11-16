@@ -1,0 +1,18 @@
+{
+  "id": "poem-6b23b67a6cbadce30d1cbf63",
+  "title": "奉和舍人叔直省时思琴",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "蔼蔼紫薇直，秋意深无穷。",
+    "滴沥仙阁漏，肃穆禁池风。",
+    "竹月泛凉影，萱露澹幽丛。",
+    "地清物态胜，宵闲琴思通。",
+    "时属雅音际，逈凝虚抱中。",
+    "达人掌枢近，常与隐默同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-d462022f-de0f-450b-9410-3dacca1f1d4d"
+}

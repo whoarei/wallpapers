@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-76d7",
+  "script": "seal",
+  "character": "盗",
+  "reading": "dào",
+  "description": "dào：(1)偷窃，用不正当的手段营私或谋取～窃。～贼。～伐。～掘。～运。～卖。～用。～名欺世（亦称欺世盗名”）。\n(2)偷窃或抢劫财物的人海～。强～。窃国大～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-盗"
+}

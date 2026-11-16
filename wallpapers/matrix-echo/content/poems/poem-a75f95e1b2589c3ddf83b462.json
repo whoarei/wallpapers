@@ -1,0 +1,15 @@
+{
+  "id": "poem-a75f95e1b2589c3ddf83b462",
+  "title": "青蝇",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "营营青蝇，止于樊。岂弟君子，无信谗言。",
+    "营营青蝇，止于棘。谗人罔极，交乱四国。",
+    "营营青蝇，止于榛。谗人罔极，构我二人。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-218"
+}

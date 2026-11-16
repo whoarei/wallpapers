@@ -1,0 +1,18 @@
+{
+  "id": "poem-a159fc43f613c9541cb86a00",
+  "title": "酒泉子·连面霜风",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "连面霜风。",
+    "野馆山村逢至日，开怀欲𣨼酒杯空。",
+    "与谁同。",
+    "一缄来信托飞鸿。",
+    "信里催归无限意，黄昏应是出房栊。",
+    "夜香浓。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-154",
+  "tags": []
+}

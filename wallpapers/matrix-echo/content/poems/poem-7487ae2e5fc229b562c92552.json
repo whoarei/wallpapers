@@ -1,0 +1,14 @@
+{
+  "id": "poem-7487ae2e5fc229b562c92552",
+  "title": "春秋战国门 百里奚",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "船骥由来是股肱，在虞虞灭在秦兴。",
+    "裁量何异刀将尺，秪系用之能不能。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-67892ebe-6081-4b38-bee6-0dfcd6aacbcc"
+}

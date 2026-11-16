@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9a90",
+  "script": "seal",
+  "character": "骐",
+  "reading": "qí",
+  "description": "骏马\n通麒”。麒麟\n骐骥\n⒈有青黑色纹理的马。\n⒉青黑色的。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骐"
+}

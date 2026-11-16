@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b3a",
+  "script": "seal",
+  "character": "欺",
+  "reading": "qī",
+  "description": "qī：(1)诈骗，蒙混～骗。～诈。～哄。～瞒。～诬。～诳。～蒙。童叟无～。\n(2)压迫，侮辱～负。～侮。～压。～凌。～生。～善怕恶。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-欺"
+}

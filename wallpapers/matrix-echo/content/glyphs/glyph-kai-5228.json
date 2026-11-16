@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5228",
+  "script": "kai",
+  "character": "刨",
+  "reading": "páo；bào",
+  "description": "páo：(1)挖掘～坑。～土。～根问底（喻追究底细）。\n(2)减，除去～去五天。\nbào：(1)推刮木料等，使其平滑的一种工具～子。～床（推刮金属材料使平滑的机器）。\n(2)用刨子或刨床推刮。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-刨"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6bd2",
+  "script": "seal",
+  "character": "毒",
+  "reading": "dú；dài",
+  "description": "dú：(1)有害的性质或有害的东西～气。～性。～饵。～药。～蛇。吸～。贩～。\n(2)害，伤害～害。～化。～杀。莫予～也（没有谁能桅我，即谁也不能把我怎么样）。\n(3)凶狠，猛烈～辣。～计。～刑≥～。恶～。\n(4)恨，以为苦令人愤～。\ndài：古同玳”，玳瑁。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-毒"
+}

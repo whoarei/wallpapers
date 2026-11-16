@@ -1,0 +1,14 @@
+{
+  "id": "poem-5fe42a08fd71bca65f98fd26",
+  "title": "翡翠岩",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "芙蓉幕里千场醉，翡翠岩前半日闲。",
+    "惆怅晋朝人不到，谢公抛力上东山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-40b14c6a-1ee6-4703-ba08-780fa7d023b9"
+}

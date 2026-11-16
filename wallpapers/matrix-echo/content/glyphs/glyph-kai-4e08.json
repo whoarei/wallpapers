@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e08",
+  "script": "kai",
+  "character": "丈",
+  "reading": "zhàng",
+  "description": "zhàng：(1)中国市制长度单位，十尺万～高楼。\n(2)测量长度和面积～量（liáng）。\n(3)对老年男子的尊称～人（a.古代对老人的尊称；b.岳父。人”均读轻声）。老～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丈"
+}

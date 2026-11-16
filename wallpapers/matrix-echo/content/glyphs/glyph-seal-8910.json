@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8910",
+  "script": "seal",
+  "character": "褐",
+  "reading": "hè",
+  "description": "hè：(1)粗布或粗布衣服短～。\n(2)黑黄色～煤（煤的一种，多为褐色，除可作燃料外，还可以提炼汽油、煤油、焦油等。亦称褐炭”）。～藻（藻类植物的一大类，褐色，是海底最主要的藻类，富含碘质和胶质，海带就是供食用的褐藻）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-褐"
+}

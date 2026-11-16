@@ -1,0 +1,15 @@
+{
+  "id": "poem-6ddd285b3ea79d6cd7a09f13",
+  "title": "宣城北楼昔从顺阳公会于此",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "诗楼郡城北，窗牖敬亭山。",
+    "几步尘埃隔，终朝世界闲。",
+    "凭师看粉壁，名姓在其间。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-3d0e4cd4-51ef-4292-ad62-647d8205615f"
+}

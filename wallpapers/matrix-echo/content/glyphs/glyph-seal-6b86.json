@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6b86",
+  "script": "seal",
+  "character": "殆",
+  "reading": "dài",
+  "description": "dài：(1)危危～。熙～哉。知足不辱，知止不～（懂得满足不贪心就不会受辱，懂得适可而止就不会遭到危险）。\n(2)大概，几乎伤亡～尽。\n(3)古同怠”，懈怠。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-殆"
+}

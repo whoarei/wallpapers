@@ -1,0 +1,16 @@
+{
+  "id": "poem-085e201b443af3d8694251d8",
+  "title": "感恩多·自从南浦别",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "自从南浦别，愁见丁香结。",
+    "近来情转深，忆鸳衾。",
+    "几度将书托烟雁，泪盈襟。",
+    "泪盈襟，礼月求天，愿君知我心。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-7"
+}

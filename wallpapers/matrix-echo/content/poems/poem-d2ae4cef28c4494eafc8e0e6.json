@@ -1,0 +1,21 @@
+{
+  "id": "poem-d2ae4cef28c4494eafc8e0e6",
+  "title": "古意九首 九",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "忆在山中时，丹桂花葳蕤。",
+    "红泉浸瑶草，白日生华滋。",
+    "箬屋开地𬬻，翠墙挂藤衣。",
+    "看经竹窗边，白猨三两枝。",
+    "东峰有老人，眼碧头骨奇。",
+    "种薤煮白石，旨趣如婴儿。",
+    "月上来打门，月落方始归。",
+    "授我微妙诀，恬澹无所为。",
+    "别来六七年，只恐白日飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-96cbc2fa-2200-466f-b851-2fb48769623d"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2d2444aeda5fb5a1c99500fe",
+  "title": "经士马中作",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "偷儿成大寇，处处起烟尘。",
+    "黄叶满空宅，青山见俗人。",
+    "妖星芒刺越，鬼哭势连秦。",
+    "惆怅还惆怅，茫茫江海滨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-3f216211-6e9e-4ca8-b22f-6309fabbe25c"
+}

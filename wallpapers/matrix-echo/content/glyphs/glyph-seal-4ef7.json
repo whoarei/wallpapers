@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ef7",
+  "script": "seal",
+  "character": "价",
+  "reading": "jià；jiè",
+  "description": "jiè：旧时称派遣传递东西或传达事情的人走～驰书来诣”。\n（價）\njie：(1)方言，用在否定副词后面加强语气不～。\n(2)副词性词尾震天～响。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-价"
+}

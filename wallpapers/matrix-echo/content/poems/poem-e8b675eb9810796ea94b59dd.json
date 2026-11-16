@@ -1,0 +1,16 @@
+{
+  "id": "poem-e8b675eb9810796ea94b59dd",
+  "title": "再次韵  其二",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "覆觞课五升，秘诀不待传。",
+    "百里三万家，优主师帅权。",
+    "坐肉荒岁骨，岂但医十全。",
+    "高郎径刺史，况论担弛肩。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-cc330c76-c152-4fda-8d84-fe0372f6a583"
+}

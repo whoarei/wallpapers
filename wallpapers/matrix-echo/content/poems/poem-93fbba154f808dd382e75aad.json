@@ -1,0 +1,17 @@
+{
+  "id": "poem-93fbba154f808dd382e75aad",
+  "title": "二三",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "尊人对客饮，卓立莫东西。",
+    "（「卓立」，斯三三九三卷作「侧立」。",
+    "）使唤须依命，弓身莫不齐。",
+    "（「弓身」，伯三五五八、伯三六五六、斯四六六九卷作「躬身」。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-5a120593-720e-4811-a28b-b869a9c8bc84"
+}

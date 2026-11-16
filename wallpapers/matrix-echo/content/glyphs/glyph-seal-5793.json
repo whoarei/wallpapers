@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5793",
+  "script": "seal",
+  "character": "垓",
+  "reading": "gāi",
+  "description": "gāi：(1)荒远之地，一方广大区域～埏（极远的地方）。天子居九～之田”。～极（荒远之外）。\n(2)界限～坫（边界）。重（chóng）垠累（lěi）～（重重的限制）。\n(3)古代数名，指一万万。\n(4)古同陔”，层，阶次。\n(5)指战场、陆地～心（战地中心）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-垓"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-db2035a7cdbbe35a47da313b",
+  "title": "郊庙歌辞 明堂乐章 肃和",
+  "author": "褚亮",
+  "dynasty": "唐",
+  "verses": [
+    "象天御宇，乘时布政。",
+    "严配申虔，宗禋展敬。",
+    "罇罍盈列，树羽交映。",
+    "玉币通诚，祚隆皇圣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-50b7a780-78ba-4e4c-acee-b185d8f6571f"
+}

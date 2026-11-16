@@ -1,0 +1,24 @@
+{
+  "id": "poem-44d8163e629897cc26277eeb",
+  "title": "青玉案·红尘冉冉长安路",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "红尘冉冉长安路。",
+    "看风度、凝然去。",
+    "唱彻阳关留不住。",
+    "甘棠庭院，芰荷香渚。",
+    "尽是相思处。",
+    "龟鱼从此谁为主。",
+    "好记江湖断肠句。",
+    "万斛离愁休更诉。",
+    "洞庭烟棹，楚楼风露。",
+    "去作为霖雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-225",
+  "tags": [
+    "洞庭湖"
+  ]
+}

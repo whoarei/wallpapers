@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-79c6",
+  "script": "seal",
+  "character": "秆",
+  "reading": "gǎn",
+  "description": "gǎn：稻麦等植物的茎麦～儿。麻～儿。高粱～儿。烟～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-秆"
+}

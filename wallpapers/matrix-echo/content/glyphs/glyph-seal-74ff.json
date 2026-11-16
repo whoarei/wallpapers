@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-74ff",
+  "script": "seal",
+  "character": "瓿",
+  "reading": "bù",
+  "description": "bù：古代的一种小瓮，青铜或陶制，用以盛酒或水。\n〔～畆〕小瓮，圆口，深腹，圈足，用以盛物。简称瓿”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瓿"
+}

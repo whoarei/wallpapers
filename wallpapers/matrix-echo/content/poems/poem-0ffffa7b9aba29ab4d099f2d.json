@@ -1,0 +1,20 @@
+{
+  "id": "poem-0ffffa7b9aba29ab4d099f2d",
+  "title": "蝶恋花·杨柳秋千旗斗舞",
+  "author": "张镃",
+  "dynasty": "宋",
+  "verses": [
+    "杨柳秋千旗斗舞。",
+    "漠漠轻烟，罩定黄鹂语。",
+    "红滴海棠娇半吐。",
+    "燕脂水似朝来雨。",
+    "行过池边携手路。",
+    "都把多情，变作无情绪。",
+    "惟有东风知住处。",
+    "凭君送取温存去。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-356",
+  "tags": []
+}

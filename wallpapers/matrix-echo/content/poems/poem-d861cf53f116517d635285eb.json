@@ -1,0 +1,16 @@
+{
+  "id": "poem-d861cf53f116517d635285eb",
+  "title": "寄刘员外长卿",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "南忆新安郡，千山带夕阳。",
+    "断猨知夜久，秋草助江长。",
+    "疎发应成素，青松独耐霜。",
+    "爱才称汉主，题柱待回乡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-997fc4da-ca67-42e2-99c4-7bd68a155c8a"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-64c879b7758320134a13a405",
+  "title": "偈颂六十七首  其五一",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "一百禅和三十州，无绳自缚万山头。",
+    "谁是护生谁是杀，白云影里铁船浮。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-ff4a9e5d-0f9a-4946-abf4-18de4aa35229"
+}

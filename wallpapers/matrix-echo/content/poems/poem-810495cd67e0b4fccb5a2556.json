@@ -1,0 +1,14 @@
+{
+  "id": "poem-810495cd67e0b4fccb5a2556",
+  "title": "都梁十景诗 清风山闻笛",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "铁笛谁吹一曲哀，清风约我上层台。",
+    "悠扬正到堪听处，怕惹闲愁却下来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-73472cbc-2243-43f6-919f-52044e1ef438"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-d5e4ce7c61b4a2051d0c2979",
+  "title": "古塞下曲七首 七",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "万战千征地，苍茫古塞门。",
+    "阴兵为客祟，恶酒发刀痕。",
+    "风落昆仑石，河崩苜蓿根。",
+    "将军更移帐，日日近西蕃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-601d8e9a-142c-4dfa-a390-8f422ac68e79"
+}

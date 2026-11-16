@@ -1,0 +1,14 @@
+{
+  "id": "poem-1b3fed7a9de240a5fbb04f50",
+  "title": "小圃即事四首  其三",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "练帨新裁衬缟衣，暝云垂地拥瑶姬。",
+    "自知素洁难谐俗，只赴梨花淡月期。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-a0617c55-73b5-4848-b01e-38a750fc20be"
+}

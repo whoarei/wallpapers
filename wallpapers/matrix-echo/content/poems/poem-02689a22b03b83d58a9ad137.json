@@ -1,0 +1,14 @@
+{
+  "id": "poem-02689a22b03b83d58a9ad137",
+  "title": "雪中访别魏使君  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "大雅离骚不入时，反骚变雅又奚为。",
+    "天台好处休提掇，只咏寒山拾得诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-6b5398ef-b2dd-4b9e-a43e-9d9b5da6618a"
+}

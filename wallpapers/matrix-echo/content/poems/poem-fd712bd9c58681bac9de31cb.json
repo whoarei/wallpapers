@@ -1,0 +1,15 @@
+{
+  "id": "poem-fd712bd9c58681bac9de31cb",
+  "title": "铜雀妓",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "日暮铜雀迥，秋深玉座清。",
+    "萧森松柏望，委郁绮罗情。",
+    "君恩不再得，妾舞为谁轻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-66fd0cb9-5f5b-4299-b7bd-a2d03ca5c89e"
+}

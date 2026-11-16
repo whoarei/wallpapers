@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-916a",
+  "script": "seal",
+  "character": "酪",
+  "reading": "lào",
+  "description": "lào：(1)用动物的乳汁做成的半凝固食品奶～。干～。～蛋白（一种含磷的复合蛋白。乳中蛋白质的主要成分。营养价值较高。可制成干酪）。\n(2)用果实做的糊状食品果～。杏仁～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-酪"
+}

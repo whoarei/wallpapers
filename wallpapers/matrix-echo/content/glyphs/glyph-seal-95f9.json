@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-95f9",
+  "script": "seal",
+  "character": "闹",
+  "reading": "nào",
+  "description": "渐不喜闹\n热闹\n浓盛\n⒈人多声音杂乱～市。热～。\n⒉吵，喧哗，搅扰～翻了。～得可欢。无理取～。\n⒊戏耍，玩笑～着玩的。\n⒋发生～水灾。\n⒌发作～情绪。\n⒍干，搞，弄～春耕。～革新。～清情况。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-闹"
+}

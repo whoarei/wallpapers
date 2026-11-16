@@ -1,0 +1,14 @@
+{
+  "id": "poem-645e180136967c10923a84d5",
+  "title": "行园树",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "松节凌霜久，蓬根逐吹频。",
+    "群生各有性，桃李但争春。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-d7d3fa70-7034-4af3-9ac2-245c6a93d353"
+}

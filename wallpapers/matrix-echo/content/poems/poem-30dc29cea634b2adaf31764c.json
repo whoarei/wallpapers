@@ -1,0 +1,14 @@
+{
+  "id": "poem-30dc29cea634b2adaf31764c",
+  "title": "偶题二首 二",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "水边箕踞静书空，欲解愁肠酒不浓。",
+    "可惜青天好雷雹，只能驱趂懒蛟龙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a60d0ee3-d3f3-44ed-87c3-d1c60ce06cb5"
+}

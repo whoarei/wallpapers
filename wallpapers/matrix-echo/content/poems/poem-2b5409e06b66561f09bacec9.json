@@ -1,0 +1,14 @@
+{
+  "id": "poem-2b5409e06b66561f09bacec9",
+  "title": "江楼有感",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "独上江楼思渺然，月光如水水如天。",
+    "同来玩月人何在，风景依稀似去年。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-江樓有感"
+}

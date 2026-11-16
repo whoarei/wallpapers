@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e9f",
+  "script": "seal",
+  "character": "麟",
+  "reading": "lín",
+  "description": "lín：〔麒～〕古代传说中的一种动物，像鹿，全身有鳞甲，有尾。古代以其象征祥瑞，亦用来喻杰出的人物。简称麟”，如凤毛～角”，～凤龟龙”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-麟"
+}

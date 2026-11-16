@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-55d4",
+  "script": "seal",
+  "character": "嗔",
+  "reading": "chēn",
+  "description": "chēn：(1)怒，生气～怒。～喝（hè）。～诟。～斥。～睨。\n(2)对人不满，怪罪～着。～怪。～责。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嗔"
+}

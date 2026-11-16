@@ -1,0 +1,16 @@
+{
+  "id": "poem-ff7a9c780d9d4cf93ffde6ce",
+  "title": "纱窗恨·新春燕子还来至",
+  "author": "毛文锡",
+  "dynasty": "五代",
+  "verses": [
+    "新春燕子还来至，一双飞。",
+    "垒巢泥湿时时坠，涴人衣。",
+    "后园里看百花发，香风拂，绣户金扉。",
+    "月照纱窗，恨依依。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-15"
+}

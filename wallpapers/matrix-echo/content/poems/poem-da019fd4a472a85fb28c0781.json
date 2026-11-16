@@ -1,0 +1,14 @@
+{
+  "id": "poem-da019fd4a472a85fb28c0781",
+  "title": "维摩赞",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "示疾毗耶方丈，文殊亦难近傍。",
+    "看来无药可医，只是忌口为上。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-4623ee83-a707-49e9-8ba8-72b24985fe61"
+}

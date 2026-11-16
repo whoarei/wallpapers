@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6536",
+  "script": "seal",
+  "character": "收",
+  "reading": "shōu",
+  "description": "shōu：(1)接到，接受～发。～信。～支。～讫。～益。\n(2)藏或放置妥当这是重要东西，要～好了。\n(3)割断成熟的农作物～割。～成。麦～。\n(4)招回～兵。～港。\n(5)聚，合拢～容。～理。～集。\n(6)结束～尾。～煞。～盘。\n(7)逮捕，拘押～捕。～监。～押。～审。\n(8)约束，控制（感情或行动）～束。～心。～伏（亦作收服”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-收"
+}

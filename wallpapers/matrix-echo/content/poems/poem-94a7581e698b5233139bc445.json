@@ -1,0 +1,14 @@
+{
+  "id": "poem-94a7581e698b5233139bc445",
+  "title": "泛舟",
+  "author": "朱熹",
+  "dynasty": "宋",
+  "verses": [
+    "昨夜江边春水生，艨艟巨舰一毛轻。",
+    "向来枉费推移力，此日中流自在行。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-泛舟"
+}

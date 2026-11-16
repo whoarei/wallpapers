@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-95f7",
+  "script": "kai",
+  "character": "闷",
+  "reading": "mèn",
+  "description": "气闷,因气不通畅而引起的不快之感\n沉默不出声或声音不响的样子\n密闭,使不透气\n呆在家里不出门\n过饱\n昏闷;失去知\n⒈气压低或空气不流通等引起的不舒服～气。～热。\n⒉不出门～在家里。\n⒊紧闭，不让出气刚泡的茶～一～再喝。\n⒋不出声或声音不响亮～声不响。～声～气。\n⒈心烦，不畅快烦～。～ ～不乐。\n⒉密封的～罐。～葫芦。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-闷"
+}

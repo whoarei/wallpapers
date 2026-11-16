@@ -1,0 +1,16 @@
+{
+  "id": "poem-7c81c7bb4bbd23eeb2ba06ba",
+  "title": "旅舍对雪赠考功王员外",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "杨花惊满路，面市忽狂风。",
+    "骤下摇兰叶，轻飞集竹丛。",
+    "欲将琼树比，不共玉人同。",
+    "独望徽之棹，青山在雪中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-5fbdbf12-a0c7-4e46-bca8-8d09a3dfdaa8"
+}

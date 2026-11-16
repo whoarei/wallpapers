@@ -1,0 +1,16 @@
+{
+  "id": "poem-eea4631c736a64682714e11f",
+  "title": "分岁",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "办得分年供，清哉亦称怀。",
+    "野槃均柿串，草具爨松钗。",
+    "指冷柑初破，灰红芋旋埋。",
+    "火边相枕藉，火尽又添柴。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-dd7e74e1-d26a-4c93-85ec-a5da5d5fa308"
+}

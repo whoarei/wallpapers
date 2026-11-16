@@ -1,0 +1,16 @@
+{
+  "id": "poem-2dbb1083178fddf12a690d42",
+  "title": "祭汾阴乐章",
+  "author": "卢从愿",
+  "dynasty": "唐",
+  "verses": [
+    "坤元载物，阳乐发生。",
+    "播植资始，品汇咸亨。",
+    "列俎棋布，方坛砥平。",
+    "神歆禋祀，后德惟明。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-f7022466-a984-4926-a64b-be9acb8d8b16"
+}

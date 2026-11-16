@@ -1,0 +1,16 @@
+{
+  "id": "poem-4f16a9192f8e282845fe9152",
+  "title": "与弟姪饮梅花下分韵得香字",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "日多色愈正，春和天与香。",
+    "提携一樽酒，问讯满园芳。",
+    "嗣岁诗多思，怀人心甚长。",
+    "更须多秉烛，玉立胜红粧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-4014c09c-f103-481b-bdb5-8884a88d6a33"
+}

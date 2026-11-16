@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-51eb",
+  "script": "seal",
+  "character": "凫",
+  "reading": "fú",
+  "description": "动物名。俗名野鸭\n另一说凫是家鸭”\n浮游;泅水\n⒈俗称\"野鸭\"。形状像鸭子，种类很多，但已逐年减少，要保护。常见的是绿头野鸭，雄的头部绿色背部黑褐色，颈下有一白环。雌的全身黑褐色。常群游湖泊中，能飞。现已\n有人工养殖,肉可吃，羽毛可制绒。\n⒉〈方〉同\"洑\"。游泳～水。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-凫"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-bd5c4d909ae82a43821517fd",
+  "title": "逢入京使",
+  "author": "岑参",
+  "dynasty": "唐",
+  "verses": [
+    "故园东望路漫漫，双袖龙钟泪不干。",
+    "马上相逢无纸笔，凭君传语报平安。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "生活",
+    "边塞",
+    "初中古诗",
+    "七言绝句",
+    "思乡",
+    "七年级下册(课外)"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-07238ad9-c348-43d4-b1d7-25d89369286d"
+}

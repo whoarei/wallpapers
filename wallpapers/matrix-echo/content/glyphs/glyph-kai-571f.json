@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-571f",
+  "script": "kai",
+  "character": "土",
+  "reading": "tǔ",
+  "description": "tǔ：(1)地面上的泥沙混合物～壤。黄～。\n(2)疆域国～。领～。\n(3)本地的，地方性的故～。\n(4)民间生产的（区别于洋”）～方（民间流传的药方，亦称偏方”）。\n(5)不合潮流～气。\n(6)未熬制的鸦片烟～。\n(7)中国古代乐器八音之一。\n(8)中国少数民族，主要分布于青海省～族。\n(9)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-土"
+}

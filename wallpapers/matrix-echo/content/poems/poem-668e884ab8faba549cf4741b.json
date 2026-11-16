@@ -1,0 +1,13 @@
+{
+  "id": "poem-668e884ab8faba549cf4741b",
+  "title": "柰子花",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "相将岳帝生干日，欲同去烧香献纸。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8630",
+  "tags": []
+}

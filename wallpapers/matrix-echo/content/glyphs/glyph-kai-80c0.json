@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-80c0",
+  "script": "kai",
+  "character": "胀",
+  "reading": "zhàng",
+  "description": "膨胀,体积变大\n⒈体积变大～大。膨～。热～冷缩。\n⒉身体内壁受到压迫而出现的不舒服感觉腹～。头～痛。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-胀"
+}

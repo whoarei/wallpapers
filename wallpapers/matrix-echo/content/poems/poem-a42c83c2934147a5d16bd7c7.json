@@ -1,0 +1,15 @@
+{
+  "id": "poem-a42c83c2934147a5d16bd7c7",
+  "title": "遐方怨·凭绣槛",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "凭绣槛，解罗帷。",
+    "未得君书，肠断，潇湘春雁飞。",
+    "不知征马几时归，海棠花谢也，雨霏霏。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-2",
+  "tags": []
+}

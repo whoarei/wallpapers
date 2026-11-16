@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6f6e",
+  "script": "kai",
+  "character": "潮",
+  "reading": "cháo",
+  "description": "cháo：(1)海水因为受了日月的引力而定时涨落的现象～水。～汐。涨～。落～。～汛。～流。～涌。\n(2)像潮水那样汹涌起伏的思～。热～。新～。～红。～热。心～澎湃。\n(3)湿～气。返～。～湿。\n(4)方言，技术不高手艺～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-潮"
+}

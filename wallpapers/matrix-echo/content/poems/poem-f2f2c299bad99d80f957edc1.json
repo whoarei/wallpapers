@@ -1,0 +1,16 @@
+{
+  "id": "poem-f2f2c299bad99d80f957edc1",
+  "title": "赠余干袁明府",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "一雨西城色，陶家心自清。",
+    "山衔中郭分，云卷下湖程。",
+    "公署闻流木，人烟入废城。",
+    "难忘楚尽处，新有越吟生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-d0eb8238-13ab-4dce-9ade-9fdc54d7da4e"
+}

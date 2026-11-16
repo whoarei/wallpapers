@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-521d",
+  "script": "kai",
+  "character": "初",
+  "reading": "chū",
+  "description": "chū：(1)开始时，开始的部分～始。正月～一。～旬。～稿。～等。～版。～试。～创。～绽。～叶（指某一历史时期的最初一段）。～夜（a.指进入夜晚不久的时候；b.指新婚第一夜）。\n(2)原来的，原来的情况～衷⊥好如～。\n(3)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-初"
+}

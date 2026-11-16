@@ -1,0 +1,15 @@
+{
+  "id": "poem-6f3e4e036cfb4266f6733ed3",
+  "title": "缁衣",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "缁衣之宜兮，敝予又改为兮。适子之馆兮。还予授子之粲兮。",
+    "缁衣之好兮，敝予又改造兮。适子之馆兮，还予授子之粲兮。",
+    "缁衣之席兮，敝予又改作兮。适子之馆兮，还予授子之粲兮。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-74"
+}

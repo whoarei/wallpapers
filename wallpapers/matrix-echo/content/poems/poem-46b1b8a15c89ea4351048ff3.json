@@ -1,0 +1,15 @@
+{
+  "id": "poem-46b1b8a15c89ea4351048ff3",
+  "title": "东门送客",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "绿杨新草路，白发故乡人。",
+    "既壮还应老，游梁复滞秦。",
+    "逢花莫漫折，能有几多春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-3cd9a856-d137-4760-8431-47fd482be3d3"
+}

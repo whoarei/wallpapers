@@ -1,0 +1,14 @@
+{
+  "id": "poem-73b28f8b4031e7aa6718a4e8",
+  "title": "洋州三十景 此君庵",
+  "author": "鲜于侁",
+  "dynasty": "宋",
+  "verses": [
+    "结庵已忘情，植竹更端操。",
+    "迢遥月上床，习静谁能造。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-d5a2e050-7553-4bfc-b02c-e33d15d398fe"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-f61b126a3630cdd9ed49be9e",
+  "title": "赋得听松声",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "庭际微风动，高松韵自生。",
+    "听时无物乱，尽日觉神清。",
+    "强与幽泉竝，翻嫌细雨幷。",
+    "拂空增鹤唳，过牖合琴声。",
+    "况复当秋暮，偏宜在月明。",
+    "不知深涧底，萧瑟有谁听。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-6777f6f1-7d62-44e7-b785-0fca3e34bb05"
+}

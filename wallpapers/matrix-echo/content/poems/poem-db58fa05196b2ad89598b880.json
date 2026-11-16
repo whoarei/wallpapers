@@ -1,0 +1,14 @@
+{
+  "id": "poem-db58fa05196b2ad89598b880",
+  "title": "却望无锡芙蓉湖 三",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "逐波云影参差远，背日岚光隐见深。",
+    "犹似望中连海树，月生湖上是山阴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-26c9b6ee-4ca2-4ecb-b153-4ac1415090a1"
+}

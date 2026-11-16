@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c28",
+  "script": "kai",
+  "character": "氨",
+  "reading": "ān",
+  "description": "ān：一种无机化合物，可制人造冰，亦可制硝酸、肥料和炸药，医药上用来做兴奋剂～基。～基酸。～水。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-氨"
+}

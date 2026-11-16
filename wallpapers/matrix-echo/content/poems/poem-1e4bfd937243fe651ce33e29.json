@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e4bfd937243fe651ce33e29",
+  "title": "夏（原作「冬」）日野望",
+  "author": "佚名",
+  "dynasty": "唐",
+  "verses": [
+    "出户过河梁，登高试望乡。",
+    "云随愁处断，川逐思弥长。",
+    "晚吹低藂草，遥山落夕阳。",
+    "徘徊噎不语，空使泪沾裳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-02ea8feb-8f55-47be-8d65-33ea4bd8d76b"
+}

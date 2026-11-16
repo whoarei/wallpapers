@@ -1,0 +1,20 @@
+{
+  "id": "poem-bb71159f846f59b7777cb5fd",
+  "title": "粉蝶儿·雪遍梅花",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "雪遍梅花，素光都共奇绝。",
+    "到窗前、认君时节。",
+    "下重帏，香篆冷，兰膏明灭。",
+    "梦悠扬，空绕断云残月。",
+    "沈郎带宽，同心放开重结。",
+    "褪罗衣、楚腰一捻。",
+    "正春风，新著摸，花花叶叶。",
+    "粉蝶儿，这回共花同活。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-888",
+  "tags": []
+}

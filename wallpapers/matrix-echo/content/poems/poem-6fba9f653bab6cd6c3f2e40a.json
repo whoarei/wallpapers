@@ -1,0 +1,17 @@
+{
+  "id": "poem-6fba9f653bab6cd6c3f2e40a",
+  "title": "菩萨蛮·问君何事轻离别",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "问君何事轻离别，一年能几团圆月。",
+    "杨柳乍如丝。",
+    "故园春尽时。",
+    "春归归不得，两桨松花隔。",
+    "旧事逐寒潮，啼鹃恨未消。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-6"
+}

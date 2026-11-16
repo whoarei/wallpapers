@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-51ed",
+  "script": "kai",
+  "character": "凭",
+  "reading": "píng",
+  "description": "依托;仰仗\n⒈靠着～栏。～窗。\n⒉依靠，仗持，依据全～大家。～仗。～借。～险固守。\n⒊根据～票进场。\n⒋证据～证。～据。真～实据。\n⒌任，随海阔～鱼跃。\n⒍登临～高独苦吟。\n⒎［凭空］没有依据～空捏造。\n⒏［凭吊］面对遗迹、坟墓等表示怀念～吊先烈。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-凭"
+}

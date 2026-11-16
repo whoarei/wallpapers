@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-955c",
+  "script": "seal",
+  "character": "镜",
+  "reading": "jìng",
+  "description": "其他光学用器\n⒈镜子，反映形象的器具。古用铜磨制，今用玻璃涂水银制成铜～。圆～子。穿衣～。〈喻〉取鉴的人或事以人为～。\n⒉使用光学原理制成的帮助视力或作科学实验等的器具眼～。放大～。电子显微～。天文望远～。三棱～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镜"
+}

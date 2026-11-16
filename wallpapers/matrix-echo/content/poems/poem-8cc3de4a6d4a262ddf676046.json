@@ -1,0 +1,15 @@
+{
+  "id": "poem-8cc3de4a6d4a262ddf676046",
+  "title": "如梦令·黄叶青苔归路",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "黄叶青苔归路，屧粉衣香何处。",
+    "消息竟沉沉，今夜相思几许。",
+    "秋雨，秋雨，一半因风吹去。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-55"
+}

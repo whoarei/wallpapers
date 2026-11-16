@@ -1,0 +1,16 @@
+{
+  "id": "poem-2e7c1a3d1ea674ee12f0959f",
+  "title": "除夜",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "残腊即又尽，东风应渐闻。",
+    "一宵犹几许，两岁欲平分。",
+    "燎暗倾时斗，春通绽处芬。",
+    "明朝遥捧酒，先合祝尧君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-13271d26-4e05-4c92-9081-fc65dea31af2"
+}

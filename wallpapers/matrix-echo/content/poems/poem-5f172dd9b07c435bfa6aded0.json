@@ -1,0 +1,14 @@
+{
+  "id": "poem-5f172dd9b07c435bfa6aded0",
+  "title": "昔年二首  其一",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "昔年携汝赴闽京，此日深儿尚未生。",
+    "今日携儿收叔骨，一如当日共伊行。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-8ea5c5f0-344a-46a7-b69f-84359eddf5a1"
+}

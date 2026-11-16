@@ -1,0 +1,17 @@
+{
+  "id": "poem-3e3bb7fee31b2e9943c60e8f",
+  "title": "浣溪沙·蝶粉蜂黄大小乔",
+  "author": "吴文英",
+  "dynasty": "宋",
+  "verses": [
+    "蝶粉蜂黄大小乔。",
+    "中庭寒尽雪微销。",
+    "一般清瘦各无聊。",
+    "窗下和香封远讯，墙头飞玉怨邻箫。",
+    "夜来风雨洗春娇。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-448",
+  "tags": []
+}

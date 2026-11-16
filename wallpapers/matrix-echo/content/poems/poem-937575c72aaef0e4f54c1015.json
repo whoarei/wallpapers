@@ -1,0 +1,22 @@
+{
+  "id": "poem-937575c72aaef0e4f54c1015",
+  "title": "莫相疑行",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "男儿生无所成头皓白，牙齿欲落真可惜。",
+    "忆献三赋蓬莱宫，自怪一日声辉赫。",
+    "集贤学士如堵墙，观我落笔中书堂。",
+    "往时文彩动人主，此日饥寒趋路旁。",
+    "晚将末契托年少，当面输心背面笑。",
+    "寄谢悠悠世上儿，不争好恶莫相疑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "厌倦",
+    "抒情",
+    "愤懑"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-840f36d1-df6e-4cfe-87ac-692fc102ff44"
+}

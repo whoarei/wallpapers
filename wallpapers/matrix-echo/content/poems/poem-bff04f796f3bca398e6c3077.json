@@ -1,0 +1,15 @@
+{
+  "id": "poem-bff04f796f3bca398e6c3077",
+  "title": "偈颂六十七首  其三五",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "身贫道贫，无法可亲。",
+    "一味盲枷瞎棒，闻者见者莫不生嗔。",
+    "黄金自有黄金价，终不和沙卖与人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-b8d01b35-2289-44eb-abbe-b2fb83069251"
+}

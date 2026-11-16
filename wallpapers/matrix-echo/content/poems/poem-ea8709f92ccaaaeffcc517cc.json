@@ -1,0 +1,16 @@
+{
+  "id": "poem-ea8709f92ccaaaeffcc517cc",
+  "title": "宿宣义池亭",
+  "author": "刘得仁",
+  "dynasty": "唐",
+  "verses": [
+    "暮色遶柯亭，南山幽竹青。",
+    "夜深斜舫月，风定一池星。",
+    "岛屿无人迹，菰蒲有鹤翎。",
+    "此中足吟眺，何用泛沧溟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-f7cc5d03-dbca-4ec7-9fc3-5c31a33d9bac"
+}

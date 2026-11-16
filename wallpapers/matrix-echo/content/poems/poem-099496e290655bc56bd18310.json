@@ -1,0 +1,18 @@
+{
+  "id": "poem-099496e290655bc56bd18310",
+  "title": "蝶恋花·遥夜亭皋闲信步",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "遥夜亭皋闲信步。",
+    "乍过清明，早觉伤春暮。",
+    "数点雨声风约住，朦胧淡月云来去。",
+    "桃李依依春暗度。",
+    "谁在秋千，笑里低低语？",
+    "一片芳心千万绪，人间没个安排处。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-14"
+}

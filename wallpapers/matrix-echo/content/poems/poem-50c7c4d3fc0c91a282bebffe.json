@@ -1,0 +1,18 @@
+{
+  "id": "poem-50c7c4d3fc0c91a282bebffe",
+  "title": "良田无晚岁",
+  "author": "张佐",
+  "dynasty": "唐",
+  "verses": [
+    "人功虽未及，地力信非常。",
+    "不任耕耘早，偏宜黍稷良。",
+    "无年皆有获，后种亦先芳。",
+    "膴膴盈千亩，青青保万箱。",
+    "何须祭田祖，讵要察农祥。",
+    "况是春三月，和风日又长。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-1c2a1bfc-9b0c-48ef-a5f1-c6a028bc0837"
+}

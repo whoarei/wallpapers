@@ -1,0 +1,14 @@
+{
+  "id": "poem-dcade768ad2c16970ecefa18",
+  "title": "题张于潜画轴五首  其五",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "飚生凉腋策茶勋，欲御刚风度海云。",
+    "任是蓬莱更高处，叫苍生苦有谁闻。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-47ef1cc1-730d-4776-83bc-93b2b82aec13"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-f5ffc51822ec15b985251b28",
+  "title": "元日早朝行",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "乾元发生春为宗，盛德在天斗建东。",
+    "东方岁星大明宫，南山喜气摇晴空。",
+    "望云五等舞万玉，献寿一声出千峰。",
+    "文章垂彩礼乐正，太白下直旌旗红。",
+    "旌旗不断春风前，直如朱绳非尔妍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1cd4d6dd-cfc6-44aa-8af3-30400208b3db"
+}

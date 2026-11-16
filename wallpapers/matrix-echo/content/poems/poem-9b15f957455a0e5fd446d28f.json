@@ -1,0 +1,19 @@
+{
+  "id": "poem-9b15f957455a0e5fd446d28f",
+  "title": "气出唱 其三",
+  "author": "曹操",
+  "dynasty": "汉",
+  "verses": [
+    "游君山，甚为真。",
+    "崔嵬砟硌，尔自为神。",
+    "乃到王母台，金阶玉为堂，芝草生殿旁。",
+    "东西厢，客满堂。",
+    "主人当行觞，坐者长寿遽何央。",
+    "长乐甫始宜孙子。",
+    "常愿主人增年，与天相守。"
+  ],
+  "enabled": true,
+  "collection": "曹操诗集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/曹操诗集/caocao.json#record-11"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-0fdc09e6b5f89e2b61dd64c9",
+  "title": "春夜闻笛",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "寒山吹笛唤春归，迁客相看泪满衣。",
+    "洞庭一夜无穷雁，不待天明尽北飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-590153bb-2f4d-419d-84ac-c4b9cb785a48"
+}

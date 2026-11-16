@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5973",
+  "script": "kai",
+  "character": "女",
+  "reading": "nǚ；rǔ",
+  "description": "nǚ：(1)女性，与男”相对。古代以未婚的为女”，已婚的为妇”。现通称妇女”～人。～士。～流（含轻蔑意）。少（shào）～。\n(2)以女儿作为人的妻（旧读nǜ）。\n(3)星名，二十八宿之一。亦称婺女”、须女”。\n儿；子；父；母；男；\nrǔ：古同汝”，你。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-女"
+}

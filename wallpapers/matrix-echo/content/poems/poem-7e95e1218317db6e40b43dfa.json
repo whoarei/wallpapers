@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e95e1218317db6e40b43dfa",
+  "title": "寄畅当",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "麦秀草芊芊，幽人好昼眠。",
+    "云霞生岭上，猿鸟下床前。",
+    "颜子方敦行，支郎久住禅。",
+    "中林轻暂别，约略已经年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-51169d5f-1218-48cf-873a-c2851aa0c9b7"
+}

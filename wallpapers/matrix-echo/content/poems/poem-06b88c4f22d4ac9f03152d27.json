@@ -1,0 +1,14 @@
+{
+  "id": "poem-06b88c4f22d4ac9f03152d27",
+  "title": "咏李",
+  "author": "张𬸦",
+  "dynasty": "唐",
+  "verses": [
+    "李树子，元来不是偏。",
+    "巧知娘子意，掷果到渠边。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-3023a38a-6841-4909-95e2-5f261c1f02e9"
+}

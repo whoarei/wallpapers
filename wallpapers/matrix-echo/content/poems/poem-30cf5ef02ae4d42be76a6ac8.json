@@ -1,0 +1,14 @@
+{
+  "id": "poem-30cf5ef02ae4d42be76a6ac8",
+  "title": "寒食",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "才见茅簷插柳条，便知寒食是今朝。",
+    "春应不恨相寻晚，应恨常阴一半消。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-c047156c-f935-4695-b8e1-15868d9fac30"
+}

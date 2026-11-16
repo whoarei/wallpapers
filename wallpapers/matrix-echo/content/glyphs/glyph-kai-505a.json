@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-505a",
+  "script": "kai",
+  "character": "做",
+  "reading": "zuò",
+  "description": "zuò：(1)进行工作或活动～活。～事。～工。～手脚（暗中进行安排）。\n(2)写文～诗。～文章。\n(3)制造～衣服。\n(4)当，为～人。～媒。～伴。～主。～客。看～。\n(5)装，扮～作。～功。～派。\n(6)举行，举办～寿。～礼拜。\n(7)用为芦苇可以～造纸原料。\n(8)结成（关系）～亲。～朋友。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-做"
+}

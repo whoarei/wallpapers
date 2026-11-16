@@ -1,0 +1,16 @@
+{
+  "id": "poem-f21aed10d71b3bc12349d25f",
+  "title": "诉衷情·金风轻透碧窗纱",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "金风轻透碧窗纱，银釭焰影斜。",
+    "倚枕卧，恨何赊，山掩小屏霞。",
+    "云雨别吴娃，想容华。",
+    "梦成几度绕天涯，到君家。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-7"
+}

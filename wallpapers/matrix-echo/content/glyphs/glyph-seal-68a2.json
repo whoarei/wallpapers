@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-68a2",
+  "script": "seal",
+  "character": "梢",
+  "reading": "shāo；sào",
+  "description": "shāo：(1)树枝或条状物的末端树～。末～。～头。～林。\n(2)末尾眉～。收～。\n(3)古代奏乐时拿的竿子。\n(4)古同艄”，船舵尾。\nsào：(1)像圆锥体的形状。\n(2)柱形物体的横剖面向一端面逐渐缩小的形式。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梢"
+}

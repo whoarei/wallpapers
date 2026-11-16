@@ -1,0 +1,15 @@
+{
+  "id": "poem-217f44a96857ee3d872f5530",
+  "title": "水旱祷",
+  "author": "苏拯",
+  "dynasty": "唐",
+  "verses": [
+    "祷祈勿告天，酒浆勿浇地。",
+    "阴阳和也无妖气，阴阳愆期乃人致。",
+    "病生心腹不自医，古屋澄潭何神祟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-3260b4ef-89e7-4942-87d7-45c7d1d6c630"
+}

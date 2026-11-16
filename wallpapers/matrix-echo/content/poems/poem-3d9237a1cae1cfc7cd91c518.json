@@ -1,0 +1,16 @@
+{
+  "id": "poem-3d9237a1cae1cfc7cd91c518",
+  "title": "咏史",
+  "author": "徐九臯",
+  "dynasty": "唐",
+  "verses": [
+    "亡国秦韩代，荣身刘项年。",
+    "金槌击政后，玉斗碎增前。",
+    "圣主称三杰，明离保四贤。",
+    "已申黄石祭，方慕赤松仙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-1ab1c514-5415-4e59-9139-bf6b53c4ae54"
+}

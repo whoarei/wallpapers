@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6084",
+  "script": "kai",
+  "character": "悄",
+  "reading": "qiāo；qiǎo",
+  "description": "qiǎo：(1)忧愁～切。～怆。～然落泪。忧心～～。\n(2)寂静无声～然无声。～寂。～静。～声。\nqiāo：没有声音或声音很低，不让人知道深夜静～～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-悄"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62c7",
+  "script": "seal",
+  "character": "拇",
+  "reading": "mǔ",
+  "description": "mǔ：(1)手、脚的大指～指。\n(2)划拳（亦称猜拳”），酒令的一种～战。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拇"
+}

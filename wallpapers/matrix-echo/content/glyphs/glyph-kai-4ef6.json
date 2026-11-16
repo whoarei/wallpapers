@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ef6",
+  "script": "kai",
+  "character": "件",
+  "reading": "jiàn",
+  "description": "jiàn：(1)量词，用于个体事物一～事。\n(2)指可以一一计算的事物零～儿。案～。\n(3)不平常的大事情事～。\n(4)文书证明之类文～。来～。证～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-件"
+}

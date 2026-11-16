@@ -1,0 +1,14 @@
+{
+  "id": "poem-379cede9b2456430823bde5f",
+  "title": "杂题二首 一",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "先知左袒始同行，须待龙楼羽翼成。",
+    "若使只凭三杰力，犹应汉鼎一毫轻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-1773dc56-420a-4e73-b4c4-5adfff1cb1d0"
+}

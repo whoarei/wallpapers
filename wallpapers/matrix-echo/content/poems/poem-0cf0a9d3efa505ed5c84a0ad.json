@@ -1,0 +1,14 @@
+{
+  "id": "poem-0cf0a9d3efa505ed5c84a0ad",
+  "title": "前腔",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生上)背尸骸出城去离，幸喜得巡军皆睡，且喜街上，没个人迹。",
+    "埋他在土沙中深草径，荒郊外回来贺喜。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1930",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-ae557ad2c1acb9ee6d52dac7",
+  "title": "送韩十四被鲁王推递往济南府",
+  "author": "崔国辅",
+  "dynasty": "唐",
+  "verses": [
+    "西候情何极，南冠怨有余。",
+    "梁王虽好事，不察狱中书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-c034f0a0-07a1-4254-a4ae-b7411adad5a8"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-504ddeec7a6b0315d5510a3b",
+  "title": "木兰花慢·桂乡云万缕",
+  "author": "吕渭老",
+  "dynasty": "宋",
+  "verses": [
+    "桂乡云万缕，更飞雨、洗香车。",
+    "念密会经年，银潢浪阻，玉露期赊。",
+    "灵星瑞桥对展，散匆匆、喜色满天涯。",
+    "回首丁宁晓角，未宜吹动梅花。",
+    "家家。",
+    "竟赏彩茸，穿桂影、醉流霞。",
+    "渐舞袖翻鸾，歌声缀凤，钗影交加。",
+    "人间共饶宴乐，算天孙、怎忍遣河斜。",
+    "莫惜西楼剪烛，大家同到啼鸦。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-95",
+  "tags": []
+}

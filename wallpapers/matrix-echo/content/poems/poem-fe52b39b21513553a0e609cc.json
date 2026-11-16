@@ -1,0 +1,20 @@
+{
+  "id": "poem-fe52b39b21513553a0e609cc",
+  "title": "念奴娇·吴松江畔",
+  "author": "崔敦礼",
+  "dynasty": "宋",
+  "verses": [
+    "吴松江畔，对烟波浩渺，相忘鸥鸟。",
+    "日日篮舆湖上路，十里珠帘惊笑。",
+    "高下楼台，浅深溪坞，著此香山老。",
+    "辋川图上，好风吹梦曾到。",
+    "不用金谷繁华，碧城修竹，自比封君号。",
+    "万壑千岩天付与，一洗寒酸郊岛。",
+    "霖雨方思，烟尘未扫，合挽三江倒。",
+    "功成名遂，却来依旧华表。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-407",
+  "tags": []
+}

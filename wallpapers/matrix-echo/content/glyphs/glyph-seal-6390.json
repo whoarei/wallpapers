@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6390",
+  "script": "seal",
+  "character": "掐",
+  "reading": "qiā",
+  "description": "qiā：(1)用指甲按或截断～算。～花。～尖儿。\n(2)割断，截去～头去尾。\n(3)用手的虎口及手指紧紧握住一把～住。\n(4)量词，一只手或两只手指尖相对握着的数量一～儿松枝。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-掐"
+}

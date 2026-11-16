@@ -1,0 +1,16 @@
+{
+  "id": "poem-a995547c8ee4e5549deabfba",
+  "title": "和彭进士感怀",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "人生谁肯便甘休，遇酒逢花且共游。",
+    "若向云衢陪骥尾，直须天畔落旄头。",
+    "三编大雅曾关兴，一册南华旋解忧。",
+    "四海英雄多独断，不知何者是长筹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-2ec90340-a1fe-4c02-9fc7-bf06b5767c08"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-495ba891dac2d02a1bc4b512",
+  "title": "苏幕遮·露堤平",
+  "author": "梅尧臣",
+  "dynasty": "宋",
+  "verses": [
+    "露堤平，烟墅杳。",
+    "乱碧萋萋，雨后江天晓。",
+    "独有庾郎年最少。",
+    "窣地春袍，嫩色宜相照。",
+    "接长亭，迷远道。",
+    "堪怨王孙，不记归期早。",
+    "落尽梨花春又了。",
+    "满地残阳，翠色和烟老。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-591",
+  "tags": []
+}

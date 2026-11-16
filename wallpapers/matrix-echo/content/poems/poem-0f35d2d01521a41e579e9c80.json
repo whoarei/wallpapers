@@ -1,0 +1,15 @@
+{
+  "id": "poem-0f35d2d01521a41e579e9c80",
+  "title": "衡门",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "衡门之下，可以栖迟。泌之洋洋，可以乐饥。",
+    "岂其食鱼，必河之鲂？岂其取妻，必齐之姜？",
+    "岂其食鱼，必河之鲤？岂其取妻，必宋之子？"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-137"
+}

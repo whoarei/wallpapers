@@ -1,0 +1,14 @@
+{
+  "id": "poem-d463b0e03d147ccb031bcfaf",
+  "title": "山居四卉 拒霜",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "道人多种木芙蓉，晓着清霜分外红。",
+    "万叶千花本何有，因空成色色成空。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-8ba37e52-64f9-47be-a669-890e4f68b2b8"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-f3b4f0c7c6d5f6a86e2e52e3",
+  "title": "川拨棹",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "更好笑哩，好着我笑微微，一个汉木雕成两个腿。",
+    "见几个回回，舞着面旌旗，阿剌剌口里不知道甚的，妆着鬼，人多我看不仔细。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-10110",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-bda0de71d6efbf85c770404f",
+  "title": "黄鹤楼",
+  "author": "崔颢",
+  "dynasty": "唐",
+  "verses": [
+    "昔人已乘黄鹤去，此地空余黄鹤楼。",
+    "黄鹤一去不复返，白云千载空悠悠。",
+    "晴川历历汉阳树，芳草萋萋鹦鹉州。",
+    "日暮乡关何处是，烟波江上使人愁。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-黃鶴樓"
+}

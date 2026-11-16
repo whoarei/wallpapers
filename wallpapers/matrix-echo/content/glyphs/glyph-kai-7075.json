@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7075",
+  "script": "kai",
+  "character": "灵",
+  "reading": "líng",
+  "description": "古时楚人称跳舞降神的巫为灵\n神灵\n⒈有效验～验。～丹妙药。\n⒉聪明，机敏，敏捷～敏。～活。～机。心～手巧。\n⒊活动迅速，准确这部仪器很～。失～。\n⒋传说中或迷信者称\"神\"及\"关于神仙\"的神～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-灵"
+}

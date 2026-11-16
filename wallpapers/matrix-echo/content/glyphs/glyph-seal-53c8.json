@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-53c8",
+  "script": "seal",
+  "character": "又",
+  "reading": "yòu",
+  "description": "yòu：(1)表示重复或继续，指相同的今天～下雨了。\n(2)表示加重语气、更进一层你～不是小孩！\n(3)表示几种情况或几种性质同时存在～高～大。\n(4)再加上，还有～及。十～五年。\n(5)表示转折这个人挺面熟，一下子～想不起来他叫什么。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-又"
+}

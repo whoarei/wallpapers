@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-89c2",
+  "script": "seal",
+  "character": "观",
+  "reading": "guān",
+  "description": "⒈看～看。～赏。登楼～望。袖手旁～。\n⒉对事物的认识或看法世界～。正确的～点。她很乐～。\n⒊看到的景物和景象美～。奇～。\n⒉楼台之类台～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-观"
+}

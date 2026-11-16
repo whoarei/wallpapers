@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f34",
+  "script": "kai",
+  "character": "伴",
+  "reading": "bàn",
+  "description": "bàn：(1)同在一起而能互助的人伙～。～侣。\n(2)陪同～随。陪～。～和（hè）。～舞。～奏。～读（古代官名，中国宋代有南北院伴读，负责宗室子弟的教学，辽、金至明代，皆为亲王府官）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-伴"
+}

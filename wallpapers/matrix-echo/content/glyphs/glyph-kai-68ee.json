@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-68ee",
+  "script": "kai",
+  "character": "森",
+  "reading": "sēn",
+  "description": "sēn：(1)树木众多，引申为众多、繁盛～林。～立。～～。～然。～郁。\n(2)幽深可怕的样子阴～。～邃。\n(3)严整的样子～严。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-森"
+}

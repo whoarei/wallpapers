@@ -1,0 +1,15 @@
+{
+  "id": "poem-2777ce37c84354ebf07b1999",
+  "title": "前腔换头",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "我爹爹，全不怕，人笑呵，这其间只是见差。",
+    "祸根芽，从此起，灾来怎躲？他只道我从着夫言，骂我不听亲话。",
+    "(生唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5180",
+  "tags": []
+}

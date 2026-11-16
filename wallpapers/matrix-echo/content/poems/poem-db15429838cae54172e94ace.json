@@ -1,0 +1,14 @@
+{
+  "id": "poem-db15429838cae54172e94ace",
+  "title": "杨柳枝词",
+  "author": "崔道融",
+  "dynasty": "唐",
+  "verses": [
+    "雾撚烟搓一索春，年年长似染来新。",
+    "应须唤作风流线，系得东西南北人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-9c5a93c9-8486-4e2c-a496-e9512e5ea123"
+}

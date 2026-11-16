@@ -1,0 +1,20 @@
+{
+  "id": "poem-cf9b3e9fb25abaeff1b97bde",
+  "title": "菩萨蛮·忆郎还上层楼曲",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "忆郎还上层楼曲。",
+    "楼前芳草年年绿。",
+    "绿似去时袍。",
+    "回头风袖飘。",
+    "郎袍应已旧。",
+    "颜色非长久。",
+    "惜恐镜中春。",
+    "不如花草新。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-266",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-795caaec41ffe6b294df22e4",
+  "title": "虞美人·黄昏又听城头角",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "黄昏又听城头角，病起心情恶。",
+    "药炉初沸短檠青，无那残香半缕恼多情。",
+    "多情自古原多病，清镜怜清影。",
+    "一声弹指泪如丝，央及东风休遣玉人知。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-200"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c01",
+  "script": "seal",
+  "character": "封",
+  "reading": "fēng",
+  "description": "fēng：(1)密闭，使跟外面隔绝～闭。密～。～口。～存。～条。～贮。～面。～底。～锁。～顶。冰～雪飘。～山育林。\n(2)用来装信、钱等物的纸套信～。赏～。\n(3)帝王把土地或爵位给予亲属或臣僚～侯。～君（领有封地的贵族）。～邑。～拜（拜官授爵）。～典。～建。\n(4)疆界～疆。～域。～界。\n(5)限制故步自～。\n(6)帝王筑坛祭天～禅（祭天为封”，祭地为禅”）。\n(7)量词，用于装封套的东西一～信。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-封"
+}

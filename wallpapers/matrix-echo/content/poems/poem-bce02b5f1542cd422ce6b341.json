@@ -1,0 +1,16 @@
+{
+  "id": "poem-bce02b5f1542cd422ce6b341",
+  "title": "九日送人",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "晴景应重阳，高台怆远乡。",
+    "水澄千室倒，雾卷四山长。",
+    "受节人逾老，惊寒菊半黄。",
+    "席前愁此别，未别已沾裳。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-11df3b79-9086-4902-840b-c9e9adf9fc25"
+}

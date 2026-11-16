@@ -1,0 +1,20 @@
+{
+  "id": "poem-ebfafa5d1c33d8a8c5c19cb6",
+  "title": "赠张均员外",
+  "author": "卢象",
+  "dynasty": "唐",
+  "verses": [
+    "公门世绪昌，才子冠裴王。",
+    "出自平津邸，还为吏部郎。",
+    "神仙余气色，列宿动辉光。",
+    "夜直南宫静，朝趋北禁长。",
+    "时人归水镜，明主赐衣裳。",
+    "翰苑飞鹦鹉，天池待凤凰。",
+    "承欢畴日顾，未纪后时伤。",
+    "去去图南远，微才幸不忘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-67d60c2f-ad7a-4101-a782-7e9cb01e570e"
+}

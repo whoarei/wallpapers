@@ -1,0 +1,16 @@
+{
+  "id": "poem-48bbad39416d86b64eb9b32d",
+  "title": "赠棋僧侣",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "机谋时未有，多向弈棋销。",
+    "已与山僧敌，无令海客饶。",
+    "静驱云阵起，疎点鴈行遥。",
+    "夜雨如相忆，松窗更见招。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-9d82ff7b-35f6-46fc-9d3c-ebfbd55d0b86"
+}

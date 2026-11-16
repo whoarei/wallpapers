@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-638c",
+  "script": "kai",
+  "character": "掌",
+  "reading": "zhǎng",
+  "description": "zhǎng：(1)手心，脚心～心。手～。脚～。鼓～。易如反～。\n(2)用巴掌打～嘴。\n(3)把握，主持，主管～管。～权。～勺。～柜。\n(4)鞋底或牲口蹄子底下的东西鞋～。马～儿。\n(5)姓。\n〔～故〕关于历史人物、典章制度等的故事或传说。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-掌"
+}

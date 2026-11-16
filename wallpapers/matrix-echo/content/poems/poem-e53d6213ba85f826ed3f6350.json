@@ -1,0 +1,16 @@
+{
+  "id": "poem-e53d6213ba85f826ed3f6350",
+  "title": "题弹枭",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "弹枭莫弹鹤，惜此孤飞翰。",
+    "鹤举即千里，渺在青云端。",
+    "弹之固无益，瘦不充君盘。",
+    "却恐梧桐枝，无复栖凤鸾。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-1f31066d-00b4-445c-bc94-76e2cf880824"
+}

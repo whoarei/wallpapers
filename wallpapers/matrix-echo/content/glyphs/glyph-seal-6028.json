@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6028",
+  "script": "seal",
+  "character": "怨",
+  "reading": "yuàn",
+  "description": "yuàn：(1)仇恨～恨。恩～。宿～。～仇。～敌。～府（大家怨恨的对象）。～声载道。\n(2)不满意，责备埋（mán）～。抱～。～言。任劳任～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-怨"
+}

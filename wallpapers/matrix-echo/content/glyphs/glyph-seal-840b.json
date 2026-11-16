@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-840b",
+  "script": "seal",
+  "character": "萋",
+  "reading": "qī",
+  "description": "qī：〔～～〕形容草生长茂盛的样子，如芳草～～”。\n〔～斐〕ａ．形容花纹错杂的样子，如萋兮斐兮，成是贝锦；彼潛人者，亦已大甚！”ｂ．喻谗言，如吞决之情深，则～～之辞作。”",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-萋"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-c5974d6e30df9c62a1255599",
+  "title": "诉衷情·涌金门外小瀛洲",
+  "author": "仲殊",
+  "dynasty": "宋",
+  "verses": [
+    "涌金门外小瀛洲。",
+    "寒食更风流。",
+    "红船满湖歌吹，花外有高楼。",
+    "晴日暖，淡烟浮。",
+    "恣嬉游。",
+    "三千粉黛，十二阑干，一片云头。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-913",
+  "tags": []
+}

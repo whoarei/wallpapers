@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-526f",
+  "script": "kai",
+  "character": "副",
+  "reading": "fù；pì",
+  "description": "fù：(1)第二位的，辅助的，区别于正”、主”～职。～手。～官。～使。\n(2)附带的，次要的～业。～品。～食。～刊。～歌。～产品。～作用。\n(3)相配，相称（chèn）名实相～。其实难～。\n(4)量词（a.一组或一套，如一～手套”，全～武装”；b.指态度，如一～笑脸”）。\n正；\npì：剖开，裂开不坼不～”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-副"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-2bd0effbf5f7fbc3574d50f9",
+  "title": "荔枝五首  其五",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "百马崩腾耆旧悲，只今戈戟暗江湄。",
+    "自知疏拙蒙恩重，犹得南来食荔枝。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-6fdefac5-7f01-451c-ac6f-45732454a92a"
+}

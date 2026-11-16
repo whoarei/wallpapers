@@ -1,0 +1,14 @@
+{
+  "id": "poem-44424804db79f85d40787266",
+  "title": "饯唐永昌",
+  "author": "徐坚",
+  "dynasty": "唐",
+  "verses": [
+    "郎官出宰赴伊瀍，征传骎骎灞水前。",
+    "此时怅望新丰道，握手相看共黯然。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-5a9c7cf3-39a4-48f7-8636-27915ed0004e"
+}

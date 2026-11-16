@@ -1,0 +1,16 @@
+{
+  "id": "poem-5cc8ed8f82ad8b4b33231a8e",
+  "title": "送张道士归山",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "先生何处去，王屋访茅君。",
+    "别妇留丹诀，驱鸡入白云。",
+    "人间若剩住，天上复离群。",
+    "当作辽城鹤，仙歌使尔闻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ae0f0690-88e2-4f08-8e30-ab9e370a1164"
+}

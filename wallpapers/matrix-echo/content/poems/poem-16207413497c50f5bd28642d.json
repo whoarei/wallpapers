@@ -1,0 +1,18 @@
+{
+  "id": "poem-16207413497c50f5bd28642d",
+  "title": "送权二",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "高人不可有，清论复何深。",
+    "一见如旧识，一言知道心。",
+    "明时当薄宦，解薜去中林。",
+    "芳草空隐处，白云余故岑。",
+    "韩侯久携手，河岳共幽寻。",
+    "怅别千余里，临堂鸣素琴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ee598cce-2501-42b3-8d77-1de2d9b58870"
+}

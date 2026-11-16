@@ -1,0 +1,16 @@
+{
+  "id": "poem-8677ef80f5bd752daeebc9fc",
+  "title": "送窦兵曹",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "梨花开上苑，游女著罗衣。",
+    "闻道情人怨，应须走马归。",
+    "御桥迟日暖，官渡早莺稀。",
+    "莫遣佳期过，看看蝴蝶飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-e8b648ab-64a5-4200-9a19-f721ca120ffb"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-fa9d4db5dae7f7ed90ee0a9c",
+  "title": "送远使",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "扬旌过陇头，陇水向西流。",
+    "塞路依山远，戍城逢笛秋。",
+    "寒沙阴漫漫，疲马去悠悠。",
+    "为问征行将，谁封定远侯。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-9c8e7368-a276-45e8-99ea-c23474cf39ef"
+}

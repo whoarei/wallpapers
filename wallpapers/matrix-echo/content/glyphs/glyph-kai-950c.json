@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-950c",
+  "script": "kai",
+  "character": "锌",
+  "reading": "xīn",
+  "description": "一种蓝白色的晶状的二价金属元素,有低至中等的硬度,纯时有延性,主要用作钢铁的保护性涂层\n锌白\n锌版",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-锌"
+}

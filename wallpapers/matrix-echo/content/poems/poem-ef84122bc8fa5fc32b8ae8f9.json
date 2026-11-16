@@ -1,0 +1,22 @@
+{
+  "id": "poem-ef84122bc8fa5fc32b8ae8f9",
+  "title": "酬张少府",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "晚年唯好静，万事不关心。",
+    "自顾无长策，空知返旧林。",
+    "松风吹解带，山月照弹琴。",
+    "君问穷通理，渔歌入浦深。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "赠别",
+    "友情",
+    "规劝",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-65e9c24b-bdbd-4ef9-9e14-012c8fde79b8"
+}

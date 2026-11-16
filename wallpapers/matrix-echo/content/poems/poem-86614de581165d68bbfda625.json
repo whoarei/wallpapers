@@ -1,0 +1,17 @@
+{
+  "id": "poem-86614de581165d68bbfda625",
+  "title": "浣溪沙·银字笙箫小小童",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "银字笙箫小小童。",
+    "梁洲吹过柳桥风。",
+    "阿谁劝我玉杯空。",
+    "小醉径须眠锦瑟，夜归不用照纱笼。",
+    "画船帘卷月明中。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-744",
+  "tags": []
+}

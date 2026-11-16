@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-626b",
+  "script": "kai",
+  "character": "扫",
+  "reading": "sǎo",
+  "description": "掠过\n⒈用扫帚等除去尘土、垃圾～地。洒～。\n⒉除掉，消除～除。～盲。～雷。\n⒊迅速掠过，使达到各方面～射。～视人群。\n⒋全，尽，所有的～数归还。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-扫"
+}

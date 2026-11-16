@@ -1,0 +1,14 @@
+{
+  "id": "poem-66bb49215bfef7436e64b720",
+  "title": "瓶梅",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "南枝斜插古军持，瘦影参差落砚池。",
+    "莫道人家窗户暖，等闲忘却陇头时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-820c167d-3627-4281-b424-6a9732bced39"
+}

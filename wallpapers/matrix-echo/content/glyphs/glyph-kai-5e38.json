@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e38",
+  "script": "kai",
+  "character": "常",
+  "reading": "cháng",
+  "description": "cháng：(1)长久，经久不变～数。～量（亦称恒量”）。～项。～任。～年。～驻。～住。～备不懈。\n(2)时时，不只一次～～。～客。时～。经～。\n(3)普通的，一般的～识。～务。～规。～情。～人。平～。反～。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-常"
+}

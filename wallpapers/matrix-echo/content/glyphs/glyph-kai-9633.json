@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9633",
+  "script": "kai",
+  "character": "阳",
+  "reading": "yáng",
+  "description": "泰山之阳,汶水西流。\n⒈跟\"阴\"相对。〈古〉我国哲学家把一切事物概括为\"阴阳\"两个对立统一的范畴火为～，水为阴。背为～，胸为阴。胸为～，腹为阴。\n⒉指太阳～光。向～花。\n⒊明亮，温暖多～。\n⒋凸出的，外露的～文。～沟。～奉阴违。\n⒌带正电的～电。～极。\n⒎迷信者所谓\"属于活人与人世\"的～寿。～间。\n⒏男性生殖器～物。\n①显露出来的化验～性。\n②雄性，男性的。\n⒑〈古〉通\"佯\"。假装。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阳"
+}

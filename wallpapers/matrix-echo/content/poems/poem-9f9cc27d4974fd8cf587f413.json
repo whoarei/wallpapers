@@ -1,0 +1,16 @@
+{
+  "id": "poem-9f9cc27d4974fd8cf587f413",
+  "title": "檄",
+  "author": "李峤",
+  "dynasty": "唐",
+  "verses": [
+    "羽檄本宣明，由来敷木声。",
+    "联翩通汉国，迢递入燕营。",
+    "毛义持书去，张仪韫璧行。",
+    "曹风虽觉愈，陈草始知名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-21dc9c0a-2c78-4268-8d76-58c50cc4c611"
+}

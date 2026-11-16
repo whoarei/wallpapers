@@ -1,0 +1,14 @@
+{
+  "id": "poem-d3c5912fb3759e933a39ffcc",
+  "title": "德山老人送茶至",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "数株香苕产松坡，野老新分半两多。",
+    "钓罢归来儿说与，引瓢旋汲涧中波。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-00cf58db-89e0-477e-b7c3-be9752977f5b"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-5efbe02af43d450d20cbdd69",
+  "title": "感皇恩",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "呀！遮莫你竹杖龙飞，华表鹤归。",
+    "恋荣辱有灾危，远是非无挂念，叹生死有迟疾。",
+    "你若要西天取经，先去这东土忘机，参菩萨，拜圣贤，礼摩尼。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-10316",
+  "tags": []
+}

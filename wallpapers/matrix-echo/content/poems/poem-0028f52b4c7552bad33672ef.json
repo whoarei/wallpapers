@@ -1,0 +1,16 @@
+{
+  "id": "poem-0028f52b4c7552bad33672ef",
+  "title": "咏扇",
+  "author": "徐夤",
+  "dynasty": "唐",
+  "verses": [
+    "为发凉飙满玉堂，每亲襟袖便难忘。",
+    "霜浓雪暗知何在，道契时来忽自扬。",
+    "曾伴一樽临小槛，几遮残日过回廊。",
+    "汉宫如有秋风起，谁信班姬泪数行。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-742f5e6f-b1eb-46d0-b3c7-e530d3aac46d"
+}

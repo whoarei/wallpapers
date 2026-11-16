@@ -1,0 +1,16 @@
+{
+  "id": "poem-63243e83ac9b875df0e49b52",
+  "title": "送望江张明府",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "之官别是荣，诏许侍亲行。",
+    "温凊自为乐，烟波不算程。",
+    "山留丹灶室，俗有故乡情。",
+    "无使千年后，空传曲令名。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-7ef4b494-3df6-4db1-b96c-758f1b2b58b6"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-fd88bc741047aae777b1c31d",
+  "title": "客舍有怀因呈诸在事",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "读书常苦节，待诏岂辞贫。",
+    "暮雪犹驱马，晡飡又寄人。",
+    "愁来占吉梦，老去惜良辰。",
+    "延首平津阁，家山日已春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-6b12c992-250e-4231-9b19-8fada6c0f668"
+}

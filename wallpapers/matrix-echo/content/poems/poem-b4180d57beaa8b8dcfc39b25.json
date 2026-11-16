@@ -1,0 +1,18 @@
+{
+  "id": "poem-b4180d57beaa8b8dcfc39b25",
+  "title": "钓竿篇",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "朝日敛红烟，垂竿向绿川。",
+    "人疑天上坐，鱼似镜中悬。",
+    "避檝时惊透，猜钩每误牵。",
+    "湍危不理辖，潭静欲留船。",
+    "钓玉君徒尚，征金我未贤。",
+    "为看芳饵下，贪得会无筌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-28c616fa-2fab-40c7-b4e1-eec241c762cc"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-80b1",
+  "script": "seal",
+  "character": "肱",
+  "reading": "gōng",
+  "description": "gōng：(1)胳膊由肘到肩的部分～骨。曲～两枕。\n(2)喻强大、得力的助手股～之臣。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肱"
+}

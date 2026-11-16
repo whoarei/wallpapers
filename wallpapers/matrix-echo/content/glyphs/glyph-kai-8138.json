@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8138",
+  "script": "kai",
+  "character": "脸",
+  "reading": "liǎn",
+  "description": "脸面,人头的前部,包括下巴、嘴、鼻、颊、眼,且通常包括前额\n你看你的脸…尽是血,我都不\n⒈面孔，头前部由额到下巴～形。～庞儿。〈引〉\n①体面，面子丢～。\n②物体的上部或前部桌～儿。鞋子～儿。柜子～儿。门～儿。\n⒉脸的表情笑～。变了～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-脸"
+}

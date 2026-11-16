@@ -1,0 +1,16 @@
+{
+  "id": "poem-1227c2c5ac5c7fc41b1c158c",
+  "title": "十日和张少监",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "重阳高会古平台，吟徧秋光始下来。",
+    "黄菊后期香未减，新诗捧得眼还开。",
+    "每因佳节知身老，却忆前欢似梦回。",
+    "且喜清时屡行乐，是非名利尽悠哉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-63b4d1a5-8963-4ad0-abd9-7d3964ca6991"
+}

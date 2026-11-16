@@ -1,0 +1,16 @@
+{
+  "id": "poem-ea63e142a37d5ce796b66333",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［旦］想前生曾结分缘，与才郎共成姻眷。",
+    "喜得他脱白挂绿，怕嫌奴体微名贱。",
+    "若得他贫相守，富相连，心不变，死而无怨。",
+    "［合前］。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8178",
+  "tags": []
+}

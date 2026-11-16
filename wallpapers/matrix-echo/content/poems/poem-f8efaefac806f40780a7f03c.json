@@ -1,0 +1,18 @@
+{
+  "id": "poem-f8efaefac806f40780a7f03c",
+  "title": "如梦令·花落莺啼春暮",
+  "author": "谢逸",
+  "dynasty": "宋",
+  "verses": [
+    "花落莺啼春暮。",
+    "陌上绿杨飞絮。",
+    "金鸭晚香寒，人在洞房深处。",
+    "无语。",
+    "无语。",
+    "叶上数声疏雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-616",
+  "tags": []
+}

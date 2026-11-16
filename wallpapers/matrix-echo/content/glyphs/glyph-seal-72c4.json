@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-72c4",
+  "script": "seal",
+  "character": "狄",
+  "reading": "dí",
+  "description": "dí：(1)中国古族名。春秋前，长期活动于齐、鲁、晋、卫、宋、郑等国之间，与诸国有频繁的接触。因为他们主要居住于北方，故又通称北狄”（亦作翟”）。\n(2)秦汉以后，中国对北方少数民族的统称。\n(3)古代最下级的官吏。\n(4)有力的麋鹿。\n(5)古同翟”，乐舞所用的雉羽。\n(6)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-狄"
+}

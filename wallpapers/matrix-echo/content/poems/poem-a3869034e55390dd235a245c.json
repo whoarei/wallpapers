@@ -1,0 +1,16 @@
+{
+  "id": "poem-a3869034e55390dd235a245c",
+  "title": "闻沈宏父讣",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "云裘未换貂，鬓已几茎雕。",
+    "璞美宜穹售，楼成或下招。",
+    "生无金润屋，死有玉蕃苗。",
+    "欲酹余不土，天浆弗满瓢。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-a9749fd8-c90d-475f-9edd-e9ac913924d0"
+}

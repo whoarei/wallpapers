@@ -1,0 +1,16 @@
+{
+  "id": "poem-71cc9ac07c3faffd2cf0dcfb",
+  "title": "清明",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "佳节清明桃李笑，野田荒冢只生愁。",
+    "雷惊天地龙蛇蛰，雨足郊原草木柔。",
+    "人乞祭余骄妾妇，士甘焚死不公侯。",
+    "贤愚千载知谁是，满眼蓬蒿共一丘。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-清明"
+}

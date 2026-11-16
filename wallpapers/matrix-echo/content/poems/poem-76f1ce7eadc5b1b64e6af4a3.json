@@ -1,0 +1,14 @@
+{
+  "id": "poem-76f1ce7eadc5b1b64e6af4a3",
+  "title": "腊月",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "腊月二十五，人家祓旧年。",
+    "山人无可祷，睡著不知天。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-5f0c6310-ac82-4b37-82e8-123a3eef1ae9"
+}

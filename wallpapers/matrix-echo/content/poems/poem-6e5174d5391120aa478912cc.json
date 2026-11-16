@@ -1,0 +1,16 @@
+{
+  "id": "poem-6e5174d5391120aa478912cc",
+  "title": "张丞见和次韵答之  其五",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "男儿鼎珍食，富贵倚稽古。",
+    "不然东山车，稳载十眉女。",
+    "可怜强项令，俗尘塞肠腑。",
+    "端如溧阳尉，老诉食荠苦。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-21121df0-d38f-4989-99c9-c43639e1b556"
+}

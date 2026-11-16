@@ -1,0 +1,14 @@
+{
+  "id": "poem-ea7a43c4a331c87489c23c27",
+  "title": "题曾氏山园十一咏 夕阳台",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "日暮天无风，岸巾夕阳中。",
+    "回首发遐想，明月已升东。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-169a700a-f5f0-4d6e-9152-d19ba410b26e"
+}

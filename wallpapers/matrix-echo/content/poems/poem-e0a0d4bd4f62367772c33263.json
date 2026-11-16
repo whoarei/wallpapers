@@ -1,0 +1,22 @@
+{
+  "id": "poem-e0a0d4bd4f62367772c33263",
+  "title": "天门谣·牛渚天门险",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "牛渚天门险。",
+    "限南北、七雄豪占。",
+    "清雾敛。",
+    "与闲人登览。",
+    "待月上潮平波滟滟。",
+    "塞管轻吹新《阿滥》。",
+    "风满槛。",
+    "历历数、西州更点。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-103"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b92fdd84e20bffaeabdb2601",
+  "title": "杨子津",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "风卷鱼龙暗楚关，白波沈却海门山。",
+    "鹏腾鼇倒且快性，地坼天开总是闲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-fcd6c448-bd3c-43dd-bdde-066f63af4013"
+}

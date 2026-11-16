@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f57",
+  "script": "seal",
+  "character": "彗",
+  "reading": "huì",
+  "description": "huì：扫帚～星（俗称扫帚星”）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-彗"
+}

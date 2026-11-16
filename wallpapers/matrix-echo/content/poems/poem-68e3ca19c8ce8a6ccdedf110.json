@@ -1,0 +1,14 @@
+{
+  "id": "poem-68e3ca19c8ce8a6ccdedf110",
+  "title": "偈颂六首 五",
+  "author": "神晏",
+  "dynasty": "唐",
+  "verses": [
+    "白云长满洞，论劫未曾亏。",
+    "不话曹溪旨，焉干道者机。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-d5e264cd-4a48-415a-a255-1401006cfb26"
+}

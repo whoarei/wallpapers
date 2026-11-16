@@ -1,0 +1,16 @@
+{
+  "id": "poem-38f464f8947c29438c0b096a",
+  "title": "送友人还洛",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "去国渡关河，蝉鸣古树多。",
+    "平原正超忽，行子复蹉跎。",
+    "去事不可想，旧游难再过。",
+    "何当嵩岳下，相见在烟萝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-0e58b1d3-ae22-41da-9995-93c3d985e01c"
+}

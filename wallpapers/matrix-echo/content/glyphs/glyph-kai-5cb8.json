@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5cb8",
+  "script": "kai",
+  "character": "岸",
+  "reading": "àn",
+  "description": "àn：(1)水边的陆地河～。上～。两～。\n(2)高大伟～（魁伟，高直）。魁～。\n(3)高傲～忽（傲慢）。傲～。\n(4)头饰高戴，前额外露～帻（把头巾掀起露出前额，表示态度洒脱，不拘束）。\n(5)古同犴”，乡间牢狱。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-岸"
+}

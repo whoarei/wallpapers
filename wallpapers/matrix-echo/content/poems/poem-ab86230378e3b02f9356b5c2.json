@@ -1,0 +1,19 @@
+{
+  "id": "poem-ab86230378e3b02f9356b5c2",
+  "title": "征怨",
+  "author": "柳中庸",
+  "dynasty": "唐",
+  "verses": [
+    "岁岁金河复玉关，朝朝马策与刀环。",
+    "三春白雪归青冢，万里黄河遶黑山。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "黄河",
+    "边塞",
+    "七言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-92dd65da-8301-4c83-b8f3-986b6095c481"
+}

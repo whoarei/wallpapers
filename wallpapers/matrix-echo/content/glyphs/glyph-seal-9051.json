@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9051",
+  "script": "seal",
+  "character": "遑",
+  "reading": "huáng",
+  "description": "huáng：(1)闲暇不～。未～。\n(2)古同惶”，恐惧。\n〔～～〕匆忙不安定的样子。亦作皇皇”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-遑"
+}

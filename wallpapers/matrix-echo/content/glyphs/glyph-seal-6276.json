@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6276",
+  "script": "seal",
+  "character": "扶",
+  "reading": "fú",
+  "description": "fú：(1)搀，用手支持人或物，使不倒搀～。～正。～老携幼。\n(2)帮助，援助～养。～植。～危济困。\n(3)用手按着或把持着～梯。沙发～手。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-扶"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-0bfc1c455f2177e88374caa9",
+  "title": "遣悲怀三首 二",
+  "author": "元稹",
+  "dynasty": "唐",
+  "verses": [
+    "昔日戏言身后意，今朝皆到眼前来。",
+    "衣裳已施行看尽，针线犹存未忍开。",
+    "尚想旧情怜婢仆，也曾因梦送钱财。",
+    "诚知此恨人人有，贫贱夫妻百事哀。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "追忆",
+    "悼亡",
+    "七言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-ea3f91f0-487e-4df7-826a-3692ef82e64d"
+}

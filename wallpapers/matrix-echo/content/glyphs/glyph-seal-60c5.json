@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-60c5",
+  "script": "seal",
+  "character": "情",
+  "reading": "qíng",
+  "description": "qíng：(1)外界事物所引起的喜、怒、爱、憎、哀、惧等心理状态感～。～绪。～怀。～操。～谊。～义。～致。～趣。～韵。性～。～愫（真情实意）。～投意合。～景交融。\n(2)专指男女相爱的心理状态及有关的事物爱～。～人。～书。～侣。～诗。殉～。～窦初开（形容少女初懂爱情）。\n(3)对异性的欲望，性欲～欲。发～期。\n(4)私意～面。说～。\n(5)状况实～。事～。国～。～形。～势。～节。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-情"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5317",
+  "script": "seal",
+  "character": "北",
+  "reading": "běi；bèi",
+  "description": "běi：(1)方向，早晨面对太阳，左手的一边，与南”相对～方。～辰（古书指北极星）。～上（古代以北为上，后指去本地以北的某地，与南下”相对）。～极星（出现在天空北部的一颗亮星，人常靠它辨别方向）。～国（指中国北部）。\n(2)打了败仗往回逃败～。\n南；\nbèi：古同背”，违背，违反。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-北"
+}

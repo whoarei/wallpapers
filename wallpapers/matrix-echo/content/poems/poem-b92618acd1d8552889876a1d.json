@@ -1,0 +1,15 @@
+{
+  "id": "poem-b92618acd1d8552889876a1d",
+  "title": "剔银灯",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "闲时节三言两语，从今后一笔勾除。",
+    "郎争舅子因合理，从此后一团和气。",
+    "(合)一杯冲破了是非，今晚向瓜园中调理。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8860",
+  "tags": []
+}

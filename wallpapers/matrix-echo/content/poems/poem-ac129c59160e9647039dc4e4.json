@@ -1,0 +1,22 @@
+{
+  "id": "poem-ac129c59160e9647039dc4e4",
+  "title": "春思",
+  "author": "李白",
+  "dynasty": "唐",
+  "verses": [
+    "燕草如碧丝，秦桑低绿枝。",
+    "当君怀归日，是妾断肠时。",
+    "春风不相识，何事入罗帏。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "五言古诗",
+    "春天",
+    "坚贞",
+    "妇女"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-7277c420-9f3f-4093-a5b2-6331494721e8"
+}

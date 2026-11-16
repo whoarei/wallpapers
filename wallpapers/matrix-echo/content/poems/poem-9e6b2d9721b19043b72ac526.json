@@ -1,0 +1,14 @@
+{
+  "id": "poem-9e6b2d9721b19043b72ac526",
+  "title": "和吕御史咏院中藂竹",
+  "author": "张纮",
+  "dynasty": "唐",
+  "verses": [
+    "闻君庭竹咏，幽意岁寒多。",
+    "叹息为冠小，良工将奈何。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-03bbaefb-d7af-4660-a669-842569a46c2d"
+}

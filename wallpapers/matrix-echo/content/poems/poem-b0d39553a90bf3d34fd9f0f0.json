@@ -1,0 +1,14 @@
+{
+  "id": "poem-b0d39553a90bf3d34fd9f0f0",
+  "title": "朝阳洞",
+  "author": "吕愿中",
+  "dynasty": "宋",
+  "verses": [
+    "半世观山鬓已皤，欲求钓艇老渔蓑。",
+    "杖藜又过烟霞洞，闻说当年烂斧柯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-5681506f-aa0c-4afc-8a41-53dda5cfd29f"
+}

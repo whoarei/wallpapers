@@ -1,0 +1,25 @@
+{
+  "id": "poem-49852b1673b5c57452992676",
+  "title": "高轩过",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "华裾织翠青如葱，金环压辔摇玲珑。",
+    "马蹄隐耳声隆隆，入门下马气如虹。",
+    "云是东京才子，文章巨公。",
+    "二十八宿罗心胸，九精照耀贯当中。",
+    "殿前作赋声摩空，笔补造化天无功。",
+    "庞眉书客感秋蓬，谁知死草生华风。",
+    "我今垂翅附冥鸿，他日不羞蛇作龙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "叙事",
+    "写人",
+    "访友",
+    "赞颂",
+    "写人诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-f4e6f5ab-ad75-4489-87f9-ffedbcc67926"
+}

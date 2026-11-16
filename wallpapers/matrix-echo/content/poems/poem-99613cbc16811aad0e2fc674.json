@@ -1,0 +1,14 @@
+{
+  "id": "poem-99613cbc16811aad0e2fc674",
+  "title": "代陈季若上张帅  其三",
+  "author": "林光朝",
+  "dynasty": "宋",
+  "verses": [
+    "晋公当日只平淮，何事都人尚尔怀。",
+    "客有昌黎韩吏部，独将大笔扫苍苔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-52a277c3-b009-4b07-b566-e8e8cb5cf726"
+}

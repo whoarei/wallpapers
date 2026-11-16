@@ -1,0 +1,17 @@
+{
+  "id": "poem-f1be11547403d2b959404b75",
+  "title": "浣溪沙·珠履三千巧斗妍",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "珠履三千巧斗妍。",
+    "就中弓窄只迁迁。",
+    "恼伊刬袜转堪怜。",
+    "舞罢有香留绣褥，步馀无迹在金莲。",
+    "好随云雨楚峰前。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-156",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-0ab2418c864304781c1781e4",
+  "title": "墙有茨",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "墙有茨，不可扫也。中冓之言，不可道也。所可道也，言之丑也。",
+    "墙有茨，不可襄也。中冓之言，不可详也。所可详也，言之长也。",
+    "墙有茨，不可束也。中冓之言，不可读也。所可读也，言之辱也。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-45"
+}

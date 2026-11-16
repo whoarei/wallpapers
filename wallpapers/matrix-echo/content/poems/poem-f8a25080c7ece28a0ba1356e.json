@@ -1,0 +1,15 @@
+{
+  "id": "poem-f8a25080c7ece28a0ba1356e",
+  "title": "双声子",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦)结交的，结交的，待他恩深厚。",
+    "急请来，急请来，到此移尸首。",
+    "(合)莫停留，莫停留，便去休，便去休，拖尸首葬了，免惹忧愁。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1895",
+  "tags": []
+}

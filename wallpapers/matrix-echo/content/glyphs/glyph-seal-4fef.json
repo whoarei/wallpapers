@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fef",
+  "script": "seal",
+  "character": "俯",
+  "reading": "fǔ",
+  "description": "fǔ：(1)向下，低头，与仰”相对～身。～视。～瞰。～首。～临。～拾即是。～仰。\n(2)潜伏，卧伏季秋之月蛰虫咸～在内”。\n(3)旧时公文及书信对上级或尊长的敬辞～允。～念。～恤（请求对方体恤）。～察。～顺。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-俯"
+}

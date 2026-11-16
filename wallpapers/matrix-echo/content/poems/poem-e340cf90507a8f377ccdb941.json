@@ -1,0 +1,20 @@
+{
+  "id": "poem-e340cf90507a8f377ccdb941",
+  "title": "虞美人·庐敖夫妇骖鸾侣",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "庐敖夫妇骖鸾侣。",
+    "相敬如宾主。",
+    "森然兰玉满尊前。",
+    "举案齐眉乐事、看年年。",
+    "我家白发双垂雪。",
+    "已是经年别。",
+    "今宵归梦楚江滨。",
+    "也学君家儿子、寿吾亲。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-245",
+  "tags": []
+}

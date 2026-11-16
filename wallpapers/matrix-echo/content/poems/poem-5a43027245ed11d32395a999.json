@@ -1,0 +1,16 @@
+{
+  "id": "poem-5a43027245ed11d32395a999",
+  "title": "郊庙歌辞 祭汾阴乐章 雍和",
+  "author": "贾曾",
+  "dynasty": "唐",
+  "verses": [
+    "蠲我饎餴，絜我膋芗。",
+    "有豆孔硕，为羞既臧。",
+    "至诚无昧，精意惟芳。",
+    "神其醉止，欣欣乐康。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-6c9b601a-649e-4380-8ce3-14e8d40b841f"
+}

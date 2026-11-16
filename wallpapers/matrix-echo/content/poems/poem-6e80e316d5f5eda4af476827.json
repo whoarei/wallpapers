@@ -1,0 +1,14 @@
+{
+  "id": "poem-6e80e316d5f5eda4af476827",
+  "title": "闲田",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "秦不耕兮汉不耘，镢头边事杳无闻。",
+    "年来也有秋成望，三合清风半合云。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-9964c3e7-aea3-48c2-b915-dc9bddc89805"
+}

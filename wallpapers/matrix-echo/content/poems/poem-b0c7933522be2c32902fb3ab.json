@@ -1,0 +1,17 @@
+{
+  "id": "poem-b0c7933522be2c32902fb3ab",
+  "title": "古钗叹",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "古钗堕井无颜色，百尺泥中今复得。",
+    "凤凰宛转有古仪，欲为首饰不称时。",
+    "女伴传看不知主，罗袖拂拭生光辉。",
+    "兰膏已尽股半折，雕文刻样无年月。",
+    "虽离井底入匣中，不用还与坠时同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a5466d66-fe78-40d7-a3e6-3bbb2cf58405"
+}

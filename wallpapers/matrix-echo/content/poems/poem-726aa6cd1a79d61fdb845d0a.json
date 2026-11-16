@@ -1,0 +1,18 @@
+{
+  "id": "poem-726aa6cd1a79d61fdb845d0a",
+  "title": "姑熟杂咏 天门山",
+  "author": "李赤",
+  "dynasty": "唐",
+  "verses": [
+    "迥出江水上，双峰自相对。",
+    "岸映松色寒，石分浪花碎。",
+    "参差远天际，缥缈晴霞外。",
+    "落日舟去遥，回首沈青霭。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "天门山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-765fdf4b-1622-4468-a1d7-809dff28a441"
+}

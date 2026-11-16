@@ -1,0 +1,14 @@
+{
+  "id": "poem-55d627dc372233292662834a",
+  "title": "浣溪沙·半醉凝情卧绣茵",
+  "author": "毛熙震",
+  "dynasty": "五代",
+  "verses": [
+    "半醉凝情卧绣茵，睡容无力卸罗裙，玉笼鹦鹉厌听闻。",
+    "慵整落钗金翡翠，象梳欹鬓月生云，锦屏销幌麝烟熏。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-39"
+}

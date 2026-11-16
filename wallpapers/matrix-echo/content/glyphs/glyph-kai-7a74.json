@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7a74",
+  "script": "kai",
+  "character": "穴",
+  "reading": "xué",
+  "description": "xué：(1)洞，窟窿孔～。石～。～居。～隙。龙潭虎～。\n(2)人体可以进行针灸的部位，多为神经末梢密集或较粗的神经干经过的地方～位。\n(3)旧艺人称在市场或广场上表演时所占的一块地方掌～的（指地主或班主）。走～。～头。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-穴"
+}

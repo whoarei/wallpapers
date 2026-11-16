@@ -1,0 +1,16 @@
+{
+  "id": "poem-6f689c2ad67d867631955aa7",
+  "title": "寄赤松舒道士二首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "余亦如君也，诗魔不敢魔。",
+    "一餐兼午睡，万事不如他。",
+    "雨阵冲溪月，蛛丝罥砌莎。",
+    "近知山果熟，还拟寄来么。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-def6beb6-726d-417c-a6d9-2ed535e096f4"
+}

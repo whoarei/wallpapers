@@ -1,0 +1,16 @@
+{
+  "id": "poem-bc88263449ee8357c7bc7331",
+  "title": "同茅郎中使君送河南裴文学",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "河南有归客，江风绕行襟。",
+    "送君无尘听，舞鹤清瑟音。",
+    "菱蔓缀楚棹，日华正嵩岑。",
+    "如何谢文学，还起会云吟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-310c962f-32b2-4f23-b973-59235cdf6fec"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53cb",
+  "script": "kai",
+  "character": "友",
+  "reading": "yǒu",
+  "description": "yǒu：(1)彼此有交情的人朋～。～谊。～情。\n(2)有亲近和睦关系的～邦。～邻。\n(3)相好，互相亲爱～爱。～善。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-友"
+}

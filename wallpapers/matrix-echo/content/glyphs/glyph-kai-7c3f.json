@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7c3f",
+  "script": "kai",
+  "character": "簿",
+  "reading": "bù；bó",
+  "description": "bù：(1)本子，册籍～册。～记。～籍。～录。\n(2)古代称公文、案卷对～公堂。\n(3)古代的仪仗侍从～伍。卤～（古代帝王、后妃、王公大臣外出时的仪仗队。次序排列严格并明文著之于簿籍）。\n(4)笏。\nbó：古同箔”，养蚕席。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-簿"
+}

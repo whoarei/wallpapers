@@ -1,0 +1,20 @@
+{
+  "id": "poem-0bab3a4c6cadc422b0b58bb9",
+  "title": "新嫁娘词三首 三",
+  "author": "王建",
+  "dynasty": "唐",
+  "verses": [
+    "三日入厨下，洗手作羹汤。",
+    "未谙姑食性，先遣小姑尝。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "新婚",
+    "五言绝句",
+    "女子",
+    "生活"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-efaaa86e-5628-40d3-a137-1ae8fcbe41b8"
+}

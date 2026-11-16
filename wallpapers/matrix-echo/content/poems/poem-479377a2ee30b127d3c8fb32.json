@@ -1,0 +1,16 @@
+{
+  "id": "poem-479377a2ee30b127d3c8fb32",
+  "title": "南歌子·古戍",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "古戍饥乌集，荒城野雉飞。",
+    "何年劫火剩残灰，试看英雄碧血，满龙堆。",
+    "玉帐空分垒，金笳已罢吹。",
+    "东风回首尽成非，不道兴亡命也，岂人为。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-156"
+}

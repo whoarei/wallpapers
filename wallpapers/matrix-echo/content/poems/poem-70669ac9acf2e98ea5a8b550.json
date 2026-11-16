@@ -1,0 +1,16 @@
+{
+  "id": "poem-70669ac9acf2e98ea5a8b550",
+  "title": "送人归夏口",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "鴈鴈叶纷纷，行人岂易闻。",
+    "千山与万水，何处更逢君？",
+    "貌不长如玉，人生祗似云。",
+    "倘经三祖寺，一为礼龛坟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-69b92e14-b8e7-450c-b2ad-6dc1eb640c6e"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3c171ecad2558846e0b76b60",
+  "title": "赠别王侍御赴任陕州司马",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "京城在处闲人少，唯共君行并马蹄。",
+    "更和诗篇名最出，时倾杯酒户常齐。",
+    "同趋阙下听钟漏，独向军前闻鼓鼙。",
+    "今日春明门外别，更无因得到街西。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a8765dbf-31c4-46a6-bd1e-0accbdc6fe95"
+}

@@ -4,19 +4,30 @@
   function culture(value = {}) {
     if (!value || typeof value !== 'object' || Array.isArray(value)) throw new Error('诗词与文字设置格式无效。');
     const P = root.MatrixPoetry, G = root.MatrixGlyphs;
-    const overrides = Array.isArray(value.overrides) && value.overrides.length ? P.collection(value.overrides) : [];
-    const glyphOverrides = Array.isArray(value.glyphOverrides) && value.glyphOverrides.length ? G.collection(value.glyphOverrides, root.MATRIX_GLYPH_COVERAGE) : [];
-    const ids = value => Array.isArray(value) ? value.filter(id => typeof id === 'string' && /^[a-z0-9][a-z0-9-]{0,63}$/.test(id)).slice(0, 500) : [];
+    let overrides = Array.isArray(value.overrides) && value.overrides.length ? P.collection(value.overrides) : [];
+    let glyphOverrides = Array.isArray(value.glyphOverrides) && value.glyphOverrides.length ? G.collection(value.glyphOverrides, root.MATRIX_GLYPH_COVERAGE) : [];
+    const ids = value => Array.isArray(value) ? [...new Set(value.filter(id => typeof id === 'string' && /^[a-z0-9][a-z0-9-]{0,63}$/.test(id)))].slice(0, P.limits.poems) : [];
+    const groups = value => Array.isArray(value) ? [...new Set(value.filter(s => typeof s === 'string' && s.length <= 60 && !/[\u0000-\u001f\u007f-\u009f]/u.test(s)))].slice(0, 1000) : [];
     const poems = new Map((root.MATRIX_POEMS || []).map(p => [p.id, p]));
+    overrides = overrides.filter(p => !poems.has(p.id) || JSON.stringify(P.normalize(poems.get(p.id))) !== JSON.stringify(p));
+    const originalGlyphs = new Map((root.MATRIX_GLYPHS || []).map(e => [e.id, e]));
+    const preservedGlyphIds = ids(value.preservedGlyphIds);
+    if (value.contentVersion !== 2) {
+      const legacy = new Set(root.MATRIX_LEGACY_GLYPH_IDS || [...originalGlyphs.keys()]);
+      for (const entry of glyphOverrides) if (!entry.collection && !entry.source && originalGlyphs.has(entry.id) && !legacy.has(entry.id)
+        && !preservedGlyphIds.includes(entry.id)) preservedGlyphIds.push(entry.id);
+    }
+    glyphOverrides = glyphOverrides.filter(e => !originalGlyphs.has(e.id) || JSON.stringify(G.normalize(originalGlyphs.get(e.id), root.MATRIX_GLYPH_COVERAGE)) !== JSON.stringify(e));
     overrides.forEach(p => poems.set(p.id, p));
-    if (poems.size > P.limits.poems) throw new Error('诗词库最多保存 500 首，包含可恢复的内置作品。');
-    const glyphs = new Map((root.MATRIX_GLYPHS || []).map(e => [e.id, e]));
-    glyphOverrides.forEach(e => glyphs.set(e.id, e));
-    if (glyphs.size) G.collection([...glyphs.values()], root.MATRIX_GLYPH_COVERAGE);
+    if (poems.size > P.limits.poems) throw new Error('诗词库最多保存 100000 首，包含可恢复的内置作品。');
+    const glyphs = G.merge(root.MATRIX_GLYPHS || [], glyphOverrides);
+    if (glyphs.length) G.collection(glyphs, root.MATRIX_GLYPH_COVERAGE);
     return { poems: value.poems !== false, floating: value.floating !== false,
       scale: [1, 1.5, 2, 2.5, 3].includes(value.scale) ? value.scale : 2,
       scripts: Array.isArray(value.scripts) ? G.scripts.filter(s => value.scripts.includes(s.id)).map(s => s.id) : G.scripts.map(s => s.id),
+      contentVersion: 2, preservedGlyphIds,
       overrides, removed: ids(value.removed), glyphOverrides, glyphRemoved: ids(value.glyphRemoved),
+      excludedPoemCollections: groups(value.excludedPoemCollections), excludedGlyphCollections: groups(value.excludedGlyphCollections),
       importSeed: typeof value.importSeed === 'string' ? value.importSeed.slice(0, 80) : '' };
   }
   function host() {

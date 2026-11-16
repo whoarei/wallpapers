@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9e28",
+  "script": "seal",
+  "character": "鸨",
+  "reading": "bǎo",
+  "description": "鸟名。头小颈长。鸨科中型和大型狩猎鸟类,与鹤形目的鹤和秧鸡有亲缘关系,比雁略大,背上有黄褐色和黑色斑纹,不善于飞,而善于走\n旧时的老妓女\n①鸟类的一属，不善飞，能涉水。\n②鸨母老～。\n【鸨儿】见【鸨母】。\n【鸨母】旧社会开设妓院的女人。又叫鸨儿、老鸨。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鸨"
+}

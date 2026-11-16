@@ -1,0 +1,16 @@
+{
+  "id": "poem-5ee9034bfcb1a231c5e9a82e",
+  "title": "表兄话旧",
+  "author": "窦叔向",
+  "dynasty": "唐",
+  "verses": [
+    "夜合花开香满庭，夜深微雨醉初醒。",
+    "远书珍重何由达，旧事凄凉不可听。",
+    "去日儿童皆长大，昔年亲友半凋零。",
+    "明朝又是孤舟别，愁见河桥酒幔青。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-表兄話舊"
+}

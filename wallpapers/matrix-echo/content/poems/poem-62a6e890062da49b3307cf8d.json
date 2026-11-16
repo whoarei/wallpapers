@@ -1,0 +1,14 @@
+{
+  "id": "poem-62a6e890062da49b3307cf8d",
+  "title": "小游仙诗九十八首 十八",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "洞里烟霞无歇时，洞中天地足金芝。",
+    "月明朗朗溪头树，白发老人相对棋。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-698e79de-d181-44ba-b407-a875130650af"
+}

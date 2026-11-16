@@ -1,0 +1,18 @@
+{
+  "id": "poem-e829e1f101d40a27814cf039",
+  "title": "临江仙",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(旦上)父母一朝抛弃，夫妻两下分张。",
+    "哥哥嫂嫂铁心肠，交奴受万千磨障。",
+    "今日我身分娩，始知恩爱难忘。",
+    "自将心事细思量，眼下这般情况。",
+    "我儿，生下你来，受了万千疼痛苦楚。",
+    "想我母亲养我下来，也受这般苦楚。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8927",
+  "tags": []
+}

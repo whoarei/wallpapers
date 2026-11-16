@@ -1,0 +1,20 @@
+{
+  "id": "poem-44848eaf097290c500967e1a",
+  "title": "白头吟",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "请君漆上琴，弹我白头吟。",
+    "忆昔君前娇笑语，两情宛转如萦素。",
+    "宫中为我起高楼，更开花池种芳树。",
+    "春天百草秋始衰，弃我不待白头时。",
+    "罗襦玉珥色未暗，今朝已道不相宜。",
+    "扬州青铜作明镜，暗中持照不见影。",
+    "人心回互自无穷，眼前好恶那能定。",
+    "君恩已去若再返，菖蒲花开月长满。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-fef3b512-d4e0-473b-9b3a-b1d87831dfdd"
+}

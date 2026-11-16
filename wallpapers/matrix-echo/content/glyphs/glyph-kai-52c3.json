@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-52c3",
+  "script": "kai",
+  "character": "勃",
+  "reading": "bó；bèi",
+  "description": "bó：(1)突然，忽然～然（a.突然，如～～大怒”；b.兴起的样子，如～～作色”）。\n(2)变色的样子～腾腾（怒气上冲的样子）。\n(3)旺盛，兴起～起。～发。～蓬。\nbèi：古同悖”，违背事理，惑乱糊涂。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-勃"
+}

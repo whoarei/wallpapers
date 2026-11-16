@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-88e8",
+  "script": "seal",
+  "character": "裨",
+  "reading": "bì；pí",
+  "description": "bì：增添，补助大有～益。～补。\npí：(1)古代的次等礼服。\n(2)副，偏，小～将。偏～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-裨"
+}

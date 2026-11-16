@@ -1,0 +1,16 @@
+{
+  "id": "poem-31c6f53fdef9442958be333b",
+  "title": "席上酬东川严中丞叙旧见赠",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "昔记披云日，今逾二十年。",
+    "声名俱是梦，恩旧半归泉。",
+    "朱绂慙衰齿，红妆惨别筵。",
+    "离歌正凄切，休更促危弦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-d297092f-106d-4103-b3b2-32ffaca6ea56"
+}

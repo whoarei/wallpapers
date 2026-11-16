@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c0f",
+  "script": "kai",
+  "character": "氏",
+  "reading": "shì；zhī",
+  "description": "shì：(1)古代姓”和氏”分用。姓是总的，氏是分支，后来姓和氏不分，可以混用。\n(2)古代称呼帝王贵族等，后称呼名人、专家神农～。太史～。摄～表。\nzhī：〔阏（yān）～〕见阏”。\n〔月～〕见月”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-氏"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-9430248724276775925d4fe5",
+  "title": "咏史诗 滹沱河",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "光武经营业未兴，王郎兵革正凭陵。",
+    "须知后汉功臣力，不及滹沱一片冰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-9db4fe23-a3be-4b05-87ef-282f72f785f3"
+}

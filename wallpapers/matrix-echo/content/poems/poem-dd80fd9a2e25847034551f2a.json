@@ -1,0 +1,16 @@
+{
+  "id": "poem-dd80fd9a2e25847034551f2a",
+  "title": "卷耳",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "采采卷耳，不盈顷筐。嗟我怀人，置彼周行。",
+    "陟彼崔嵬，我马虺𬯎。我姑酌彼金罍，维以不永怀。",
+    "陟彼高冈，我马玄黄。我姑酌彼兕觥，维以不永伤。",
+    "陟彼砠矣，我马瘏矣，我仆痡矣，云何吁矣。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-2"
+}

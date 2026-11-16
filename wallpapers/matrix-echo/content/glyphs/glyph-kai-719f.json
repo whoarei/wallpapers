@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-719f",
+  "script": "kai",
+  "character": "熟",
+  "reading": "shú",
+  "description": "shú：(1)食物烧煮到可吃的程度饭～了。\n(2)植物的果实或种子长成，又特指庄稼可收割或有收成成～。瓜～蒂落。\n(3)程度深～睡。～思（经久而周密地思考）。深思～虑。\n(4)做某种工作时间长了，精通而有经验～练。娴～。～习。～能生巧。\n(5)习惯，常见，知道清楚～人。～悉。～记（强记）。　　　　　　　　　　　　　　　　　　　　　　　　　轻车～路。\n(6)经过加工炼制的～铁。～皮子。～石膏。～石灰。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-熟"
+}

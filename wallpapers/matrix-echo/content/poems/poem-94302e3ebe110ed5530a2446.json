@@ -1,0 +1,21 @@
+{
+  "id": "poem-94302e3ebe110ed5530a2446",
+  "title": "望蓟门",
+  "author": "祖咏",
+  "dynasty": "唐",
+  "verses": [
+    "燕台一望客心惊，箫鼓喧喧汉将营。",
+    "万里寒光生积雪，三边曙色动危旌。",
+    "沙场烽火连胡月，海畔云山拥蓟城。",
+    "少小虽非投笔吏，论功还欲请长缨。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言律诗",
+    "冬天",
+    "边塞"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-6beb5cc2-ae49-4e23-952a-1cb92fa11512"
+}

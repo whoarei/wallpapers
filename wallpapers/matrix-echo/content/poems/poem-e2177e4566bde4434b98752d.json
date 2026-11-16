@@ -1,0 +1,14 @@
+{
+  "id": "poem-e2177e4566bde4434b98752d",
+  "title": "柳絮",
+  "author": "杨凝",
+  "dynasty": "唐",
+  "verses": [
+    "河畔多杨柳，追游尽狭斜。",
+    "春风一回送，乱入莫愁家。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-a5b107aa-c8fe-43b3-a3af-631a839b9a40"
+}

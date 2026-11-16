@@ -1,0 +1,14 @@
+{
+  "id": "poem-4f21919646ddf45e7bd1a7eb",
+  "title": "颂古七十六首  其九",
+  "author": "释士珪",
+  "dynasty": "宋",
+  "verses": [
+    "海水翻空衮底流，鱼龙虾蟹信沉浮。",
+    "可怜金色头陀子，直至如今笑未休。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-3f3a7e4b-b1b7-4699-b9e3-303a8a820eba"
+}

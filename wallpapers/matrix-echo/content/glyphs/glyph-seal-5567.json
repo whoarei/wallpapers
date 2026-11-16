@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5567",
+  "script": "seal",
+  "character": "啧",
+  "reading": "zé",
+  "description": "大呼,大声喊叫\n争辩\n咂嘴\n同赜”。事物的幽深、细微处\n鸟声。多叠用\n啧啧野\n①鸟鸣声。\n②赞叹声～ ～称善。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-啧"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-1970419ea91b629ec94c54c6",
+  "title": "客有出示御制登中和堂诗小臣斐然仰次宸韵二首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "贱子志丘壑，敢怀要路津。",
+    "偶乘风云会，冀拯凋瘵民。",
+    "误被圣主知，坐期功业新。",
+    "飘零继三黜，奔走亦已勤。",
+    "生还鲸海中，仰荷皇天仁。",
+    "不然铄金口，何有鸿毛身。",
+    "当从玄豹隐，无复尺蠖伸。",
+    "感叹魏公言，愿使为良臣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-52644717-47bc-445f-b17d-411b19b39037"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-46f33c771250ba0303c35e54",
+  "title": "临江仙·柳带摇风汉水滨",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "柳带摇风汉水滨，平芜两岸争匀。",
+    "鸳鸯对浴浪痕新。弄珠游女，微笑自含春。",
+    "轻步暗移蝉鬓动，罗裙风惹轻尘。",
+    "水晶宫殿岂无因？空劳牵手，解佩赠情人。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-38"
+}

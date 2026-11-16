@@ -1,0 +1,22 @@
+{
+  "id": "poem-b4054f9ad593e800b7a49e3e",
+  "title": "横吹曲辞 出塞",
+  "author": "王之涣",
+  "dynasty": "唐",
+  "verses": [
+    "黄砂直上白云间，一片孤城万仞山。",
+    "羌笛何须怨杨柳，春风不度玉门关。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "山水",
+    "写景",
+    "唐诗三百首",
+    "乐府",
+    "思乡",
+    "边塞",
+    "将士"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-bcdf6f13-4cb9-418f-9279-c690522e0a27"
+}

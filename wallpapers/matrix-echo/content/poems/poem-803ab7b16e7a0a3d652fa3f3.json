@@ -1,0 +1,15 @@
+{
+  "id": "poem-803ab7b16e7a0a3d652fa3f3",
+  "title": "五供养",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "十中缺九，喜姑姑产下穷刘。",
+    "儿夫曾嘱付。",
+    "怎干休？把花言觅诱，倘说得儿入手，管交一命丧清流。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8932",
+  "tags": []
+}

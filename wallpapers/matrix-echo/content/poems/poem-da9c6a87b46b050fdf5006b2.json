@@ -1,0 +1,18 @@
+{
+  "id": "poem-da9c6a87b46b050fdf5006b2",
+  "title": "临江仙·槛竹敲风初破睡",
+  "author": "史浩",
+  "dynasty": "宋",
+  "verses": [
+    "槛竹敲风初破睡，楚台梦雨精神。",
+    "背屏斜映小腰身。",
+    "山明双翦水，香满一钗云。",
+    "炉袅金丝帘窣地，绮窗秋静无尘。",
+    "半钩春笋带湘筠。",
+    "兰亭初写就，愁杀卫夫人。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-78",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-e3dbaa30501cfbbac70bd3c1",
+  "title": "下第寄友人",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "金门君待问，石室我思归。",
+    "圣主尊黄屋，何人荐白衣。",
+    "年来御沟柳，赠别雨霏霏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4dfad3ed-9a51-4112-942e-1e84207fdf2c"
+}

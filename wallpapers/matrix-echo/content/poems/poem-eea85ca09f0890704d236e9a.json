@@ -1,0 +1,14 @@
+{
+  "id": "poem-eea85ca09f0890704d236e9a",
+  "title": "山居四景 岭云",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "玉洁烟轻一片深，飘然出岫本无心。",
+    "孤飞远映碧天去，也解重来为作霖。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-328bb663-4393-4e3a-aabd-b81c9850c9a3"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-8e37e7c859d9c38a3adc18f9",
+  "title": "桃红菊",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "野方直入庙中，见一佳人困穷。",
+    "似胜花娘子无异，血染得衣衫煞红。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2699",
+  "tags": []
+}

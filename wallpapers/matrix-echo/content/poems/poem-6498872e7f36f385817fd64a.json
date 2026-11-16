@@ -1,0 +1,20 @@
+{
+  "id": "poem-6498872e7f36f385817fd64a",
+  "title": "咏史",
+  "author": "王丘",
+  "dynasty": "唐",
+  "verses": [
+    "高洁非养正，盛名亦险艰。",
+    "伟哉谢安石，携妓入东山。",
+    "云岩响金奏，空水滟朱颜。",
+    "兰露滋香泽，松风鸣珮环。",
+    "歌声入空尽，舞影到池闲。",
+    "杳眇同天上，繁华非代间。",
+    "卷舒混名迹，纵诞无忧患。",
+    "何必苏门子，冥然闭清关。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a13f9919-7528-4a5d-8347-c7a862412b89"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-62ff",
+  "script": "kai",
+  "character": "拿",
+  "reading": "ná",
+  "description": "ná：(1)用手取，握在手里～笔。～枪。\n(2)掌握，把握～主意。～权。～手。\n(3)挟（xié）制～捏（故意刁难人，要挟人）。～大（自以为比别人强，看不起人，摆架子）。\n(4)侵蚀，侵害让药水～白了。\n(5)逮捕，捉～获。擒～。～问。\n(6)攻下，占领一定要把敌人的碉堡～下来。\n(7)介绍，引出对象，相当于把”我～你当亲人看待。\n(8)介词，引出所凭借的工具、材料、方法等，相当于用”～笔来写。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拿"
+}

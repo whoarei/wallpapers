@@ -1,0 +1,14 @@
+{
+  "id": "poem-a63c2a0bb8326686eeb7d8ed",
+  "title": "又和董氏东园桧屏石床",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "密叶萧森翠幕纡，暂来犹恨不长居。",
+    "脱冠解带坐终日，花落石床春自如。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-f209e49d-b073-4237-9f94-a636027bd417"
+}

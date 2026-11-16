@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8058",
+  "script": "seal",
+  "character": "聘",
+  "reading": "pìn",
+  "description": "pìn：(1)访问～问（古代指代表国家访问友邦）。通～。～使往来。\n(2)请人担任职务～书。～用。～请。招～。\n(3)定婚或女子出嫁～礼（彩礼）。～金。～姑娘。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-聘"
+}

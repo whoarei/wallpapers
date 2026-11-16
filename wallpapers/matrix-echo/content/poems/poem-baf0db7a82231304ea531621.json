@@ -1,0 +1,13 @@
+{
+  "id": "poem-baf0db7a82231304ea531621",
+  "title": "玉井莲后",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "忍饿担饥，未知何日是了？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5068",
+  "tags": []
+}

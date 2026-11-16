@@ -1,0 +1,14 @@
+{
+  "id": "poem-d9eadad9919e51490ed8de27",
+  "title": "南歌子·似带如丝柳",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "似带如丝柳，团酥握雪花。",
+    "帘卷玉钩斜，九衢尘欲暮，逐香车。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-38",
+  "tags": []
+}

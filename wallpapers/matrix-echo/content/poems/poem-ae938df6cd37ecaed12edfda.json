@@ -1,0 +1,16 @@
+{
+  "id": "poem-ae938df6cd37ecaed12edfda",
+  "title": "寄栖一上人",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "花堑接沧洲，阴云闲楚丘。",
+    "雨声虽到夜，吟味不如秋。",
+    "古屋藏花鸽，荒园聚乱流。",
+    "无机心便是，何用话归休。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-0339c075-3dce-4d7d-8854-c9de165977ca"
+}

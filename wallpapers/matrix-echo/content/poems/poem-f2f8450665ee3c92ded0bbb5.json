@@ -1,0 +1,14 @@
+{
+  "id": "poem-f2f8450665ee3c92ded0bbb5",
+  "title": "读渊明传",
+  "author": "高吉",
+  "dynasty": "宋",
+  "verses": [
+    "谁为栖栖鲁孔丘，辙环天下果何求。",
+    "爱人学道行吾志，束带何伤见督邮。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-dec833e8-e10d-4656-bf40-a7c7cb2d7095"
+}

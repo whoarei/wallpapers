@@ -1,0 +1,20 @@
+{
+  "id": "poem-72138b59e612fe31a062cdee",
+  "title": "途经华岳",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "饬驾去京邑，鸣鸾指洛川。",
+    "循途经太华，回跸暂周旋。",
+    "翠崿留斜影，悬岩冒夕烟。",
+    "四方皆石壁，五位配金天。",
+    "仿佛看高掌，依稀听子先。",
+    "终当铭岁月，从此记灵仙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "华山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-dedf14b9-362c-435a-b206-bdccc02811e3"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-a4bdef952877c049da7a2a86",
+  "title": "日暮天无云",
+  "author": "熊孺登",
+  "dynasty": "唐",
+  "verses": [
+    "杳杳复苍然，无云日暮天。",
+    "象分青气外，景尽赤霄前。",
+    "渐吐星河色，遥生水木烟。",
+    "从容难附丽，顾步欲澄鲜。",
+    "但见收三素，何能测上玄。",
+    "应非暂呈瑞，不许出山川。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-f5e2ca2f-9094-4b19-a87a-23b411269a9f"
+}

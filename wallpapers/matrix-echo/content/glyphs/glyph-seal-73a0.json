@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-73a0",
+  "script": "seal",
+  "character": "玠",
+  "reading": "náo",
+  "description": "玠náo 1.亦作\"玪\"。同\"猱\"。兽名，猿属。 2.亦作\"玪\"。见\"玠人\"。 3.通\"扰\"。乱，惊乱。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-玠"
+}

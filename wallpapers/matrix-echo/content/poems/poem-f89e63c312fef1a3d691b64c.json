@@ -1,0 +1,17 @@
+{
+  "id": "poem-f89e63c312fef1a3d691b64c",
+  "title": "关雎",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "关关雎鸠，在河之洲。窈窕淑女，君子好逑。",
+    "参差荇菜，左右流之。窈窕淑女，寤寐求之。",
+    "求之不得，寤寐思服。悠哉悠哉，辗转反侧。",
+    "参差荇菜，左右采之。窈窕淑女，琴瑟友之。",
+    "参差荇菜，左右芼之。窈窕淑女，钟鼓乐之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-0"
+}

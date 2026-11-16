@@ -1,0 +1,17 @@
+{
+  "id": "poem-dd1c8587bbd82402f22b1ed9",
+  "title": "浣溪沙·腊日银罂翠管新",
+  "author": "张纲",
+  "dynasty": "宋",
+  "verses": [
+    "腊日银罂翠管新。",
+    "潘舆迎腊庆生辰。",
+    "卷帘花簇锦堂春。",
+    "百和宝薰笼瑞雾，一声珠唱驻行云。",
+    "流霞深劝莫辞频。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-651",
+  "tags": []
+}

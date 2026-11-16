@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-75db",
+  "script": "seal",
+  "character": "痛",
+  "reading": "tòng",
+  "description": "tòng：(1)疾病、创伤等引起的难受的感觉头～。肚子～。～风。～痒（ａ．喻疾苦，如～～相关”；ｂ．喻紧要的事，如不关～～”）。\n(2)悲伤悲～。哀～。～楚。～惜。～不欲生。\n(3)尽情地，深切地，彻底地～击。～悼。～责。～快。～改前非。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-痛"
+}

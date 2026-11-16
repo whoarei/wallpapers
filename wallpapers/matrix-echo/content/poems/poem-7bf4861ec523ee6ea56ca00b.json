@@ -1,0 +1,20 @@
+{
+  "id": "poem-7bf4861ec523ee6ea56ca00b",
+  "title": "宫使蔡太师寿诗",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "天贻真宰赞重熙，何日来符命世期。",
+    "五夜燕游元夕后，三阳交泰上春时。",
+    "维师事业前无吕，先觉心灵世有伊。",
+    "首斡化机熙帝载，暂休祠馆动民思。",
+    "和羹终付盐梅手，仗节难稽柱石姿。",
+    "华屋早开丞相第，衮衣新赋我公诗。",
+    "缃桃满院光风转，素李成蹊淑景迟。",
+    "鼎席具瞻何所愿，祝公眉寿等莲龟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-86c8d79c-06c0-4051-bdfa-aa84d80c20a9"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-4177ae4a3a7303d56c615922",
+  "title": "横吹曲辞 陇头水",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "陇头水，千古不堪闻。",
+    "生归苏属国，死别李将军。",
+    "细响风凋草，清哀雁落云。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-5e38232f-f517-43be-8d90-4945ae90b92b"
+}

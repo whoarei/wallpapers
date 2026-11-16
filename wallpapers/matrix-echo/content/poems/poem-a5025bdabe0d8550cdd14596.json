@@ -1,0 +1,15 @@
+{
+  "id": "poem-a5025bdabe0d8550cdd14596",
+  "title": "生查子·春山烟欲收",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "春山烟欲收，天淡稀星小。",
+    "残月脸边明，别泪临清晓。",
+    "语已多，情未了，回首犹重道：记得绿罗裙，处处怜芳草。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-41"
+}

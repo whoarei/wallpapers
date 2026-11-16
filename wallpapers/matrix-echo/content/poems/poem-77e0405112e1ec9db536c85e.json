@@ -1,0 +1,20 @@
+{
+  "id": "poem-77e0405112e1ec9db536c85e",
+  "title": "扬州送伯龄过江",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "伯龄不厌山，山不养伯龄。",
+    "松颠有樵堕，石上无禾生。",
+    "不忍六尺躯，遂作东南行。",
+    "诸侯尽食肉，壮气吞八纮。",
+    "不唧溜钝汉，何由通姓名。",
+    "夷齐饿死日，武王称圣明。",
+    "节义士枉死，何异鸿毛轻。",
+    "努力事干谒，我心终不平。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-f658ef82-ee49-4fc2-b63f-81fe26a6bc06"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-3ebbecb38ecf4cb0f5d027fc",
+  "title": "和长安郭明府与友人县中会饮",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "一尊清酒两人同，好在街西水县中。",
+    "自恨病身相去远，此时闲坐对秋风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0c499a93-bbd0-406b-a428-7bfe13f77626"
+}

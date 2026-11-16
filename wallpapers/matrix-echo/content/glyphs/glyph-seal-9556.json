@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9556",
+  "script": "seal",
+  "character": "镖",
+  "reading": "biāo",
+  "description": "旧式投掷暗器。通作镳”。一端较重有尖,像长枪的头\n标枪,多用木或竹杆为柄,铁镞\n镖 biāo旧式一种投掷武器。形状如长矛的尖端飞～。\n【镖客】旧时给行旅或运输中的货物保镖的人。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镖"
+}

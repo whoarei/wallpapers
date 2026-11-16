@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-60c7",
+  "script": "seal",
+  "character": "惇",
+  "reading": "dūn",
+  "description": "dūn：(1)敦厚～厚。～朴。～谨。\n(2)劝勉，勤勉～诲（殷勤劝导）。～学。\n(3)推崇，尊重～信明义。～任仁人。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-惇"
+}

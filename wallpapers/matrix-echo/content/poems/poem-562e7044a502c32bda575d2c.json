@@ -1,0 +1,14 @@
+{
+  "id": "poem-562e7044a502c32bda575d2c",
+  "title": "春秋战国门 再吟",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "周室衰微不共匡，干戈终日互争强。",
+    "诸侯若解尊天子，列国何因次第亡。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e81c7639-f9f2-4967-868c-9bd3f63ee8d8"
+}

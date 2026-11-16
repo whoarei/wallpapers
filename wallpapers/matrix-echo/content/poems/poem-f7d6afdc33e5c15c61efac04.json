@@ -1,0 +1,15 @@
+{
+  "id": "poem-f7d6afdc33e5c15c61efac04",
+  "title": "南乡子·嫩草如烟",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "嫩草如烟，石榴花发海南天。",
+    "日暮江亭春影绿，鸳鸯浴。",
+    "水远山长看不足。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-0"
+}

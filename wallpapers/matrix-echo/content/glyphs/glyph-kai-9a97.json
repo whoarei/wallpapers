@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9a97",
+  "script": "kai",
+  "character": "骗",
+  "reading": "piàn",
+  "description": "跃上马背而骑乘;骑。同騗”\n欺骗;哄劝\n超越;跨越\n引诱,吸引\n⒈欺蒙，说假话欺～。～人。\n⒉用欺骗手段谋取～取。～局。诓～。诈～犯。算命～人钱财。\n⒊跨过去，跳跃上去一～腿上了船。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骗"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-742e",
+  "script": "seal",
+  "character": "琮",
+  "reading": "cóng",
+  "description": "cóng：古代一种玉器，外边八角，中间圆形，常用作祭地的礼器。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-琮"
+}

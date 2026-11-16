@@ -1,0 +1,16 @@
+{
+  "id": "poem-b7a5b662483f7021f463a5fe",
+  "title": "酒泉子·日映纱窗",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "日映纱窗，金鸭小屏山碧。",
+    "故乡春，烟霭隔，背兰釭。",
+    "宿妆惆怅倚高阁，千里云影薄。",
+    "草初齐，花又落，燕双双。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-23",
+  "tags": []
+}

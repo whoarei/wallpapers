@@ -1,0 +1,21 @@
+{
+  "id": "poem-9bc826d9ab1a282c2c39527c",
+  "title": "旅宿",
+  "author": "杜牧",
+  "dynasty": "唐",
+  "verses": [
+    "旅馆无良伴，凝情自悄然。",
+    "寒灯思旧事，断鴈警愁眠。",
+    "远梦归侵晓，家书到隔年。",
+    "湘江好烟月，门系钓鱼船。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "羁旅",
+    "思乡",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-200fe9fa-0221-4123-86de-4d63ce9d3daf"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-c76196c4a8edb40c98bad94c",
+  "title": "杨柳枝·宜春苑外最长条",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "宜春苑外最长条，闲袅春风伴舞腰。",
+    "正是玉人肠绝处，一渠春水赤栏桥。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-29",
+  "tags": []
+}

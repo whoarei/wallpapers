@@ -1,0 +1,18 @@
+{
+  "id": "poem-6043a4402bfc09971407d0a7",
+  "title": "送程秀才",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "悠悠多路岐，相见又别离。",
+    "东风催节换，燄燄春阳散。",
+    "楚草渐烟绵，江云亦芜漫。",
+    "送子恨何穷，故关如梦中。",
+    "游人尽还北，旅雁辞南国。",
+    "枫树几回青，逐臣归不得。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d2454276-7690-4f8a-8a84-f594d3856f05"
+}

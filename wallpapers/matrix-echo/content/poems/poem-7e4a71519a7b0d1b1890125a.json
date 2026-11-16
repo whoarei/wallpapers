@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e4a71519a7b0d1b1890125a",
+  "title": "字字双",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "一石两石米和谷，也一担担。",
+    "两桶三桶臭物事，也一担担。",
+    "四把五把大枥柴，也一担担。",
+    "豆腐一头酒一头，也一担担。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2516",
+  "tags": []
+}

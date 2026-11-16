@@ -1,0 +1,14 @@
+{
+  "id": "poem-d00f54c564f6e9da7e8f047b",
+  "title": "十无诗寄桂府杨中丞 一",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "琴酒曾将风月须，谢公名迹满江湖。",
+    "不知贵拥旌旗后，犹暇怜诗爱酒无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-55d37a59-81c0-4c02-adab-5ec0a29b67c4"
+}

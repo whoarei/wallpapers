@@ -1,0 +1,16 @@
+{
+  "id": "poem-15703401e441cb5df9665bd2",
+  "title": "秋郊夕望",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "度鸟向栖急，阴虫逢夜多。",
+    "余霞媚秋汉，迥月濯沧波。",
+    "蔓草将萎绝，流年其奈何。",
+    "耿然摇落思，独酌不成歌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-59ecaa7b-6657-4be0-9b30-9188b5101bc0"
+}

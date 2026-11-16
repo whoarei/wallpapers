@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-543b",
+  "script": "seal",
+  "character": "吻",
+  "reading": "wěn",
+  "description": "wěn：(1)嘴唇～合（意见、看法完全相同）。\n(2)用嘴唇接触表喜爱、亲热接～。～别。\n(3)动物的嘴。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吻"
+}

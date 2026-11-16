@@ -1,0 +1,15 @@
+{
+  "id": "poem-a182d7399e98973fd5bd9079",
+  "title": "菀柳",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "有菀者柳，不尚息焉。上帝甚蹈，无自暱焉。俾予靖之，后予极焉。",
+    "有菀者柳，不尚愒焉。上帝甚蹈，无自瘵焉。俾予靖之，后予迈焉。",
+    "有鸟高飞，亦傅于天。彼人之心，于何其臻。曷予靖之，居以凶矜。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-223"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-2f7aff191a25e007b4090457",
+  "title": "寄安抚曹观使  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "筼筜抱节癯，风味似楼居。",
+    "自是宦情薄，容教杯酒疎。",
+    "扫除新筑室，收拾旧观书。",
+    "何必陶元亮，斜阳自荷鉏。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-9d428a14-3641-472c-a536-906cfc235901"
+}

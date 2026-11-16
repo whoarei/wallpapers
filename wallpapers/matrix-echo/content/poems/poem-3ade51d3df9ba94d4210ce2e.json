@@ -1,0 +1,16 @@
+{
+  "id": "poem-3ade51d3df9ba94d4210ce2e",
+  "title": "次韵江南感事",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "京洛倦游后，江南感慨多。",
+    "壮怀伤岁月，醉眼小山河。",
+    "无路通谈说，穷年谩揣摩。",
+    "知音如有遇，终采击辕歌。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-01c941fa-7dcb-4489-92a4-2008e624f649"
+}

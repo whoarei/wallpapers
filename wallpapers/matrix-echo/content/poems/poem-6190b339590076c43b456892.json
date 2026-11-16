@@ -1,0 +1,14 @@
+{
+  "id": "poem-6190b339590076c43b456892",
+  "title": "谢侯彦明惠白莲栽  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "添得湖光百亩余，湖边早已成菰蒲。",
+    "更移玉井峰头种，还有花开十丈无。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-4b82b866-106c-4e97-84cd-5a75d16caec2"
+}

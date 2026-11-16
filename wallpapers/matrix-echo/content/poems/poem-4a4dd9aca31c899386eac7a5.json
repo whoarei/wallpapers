@@ -1,0 +1,13 @@
+{
+  "id": "poem-4a4dd9aca31c899386eac7a5",
+  "title": "水底鱼",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［生上］仰之弥高，钻之弥坚，忽焉在后，赡之忽在前。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8041",
+  "tags": []
+}

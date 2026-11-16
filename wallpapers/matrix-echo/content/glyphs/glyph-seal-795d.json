@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-795d",
+  "script": "seal",
+  "character": "祝",
+  "reading": "zhù",
+  "description": "zhù：(1)表示对人对事的美好愿望～福。～寿。～捷。～辞。馨香祷～。\n(2)古代指男巫。\n(3)在神庙里管香火的人～融。庙～。\n(4)断～发（fà）（断发，后指僧尼削发出家）。\n(5)姓。\n(6)古同注”，敷涂。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-祝"
+}

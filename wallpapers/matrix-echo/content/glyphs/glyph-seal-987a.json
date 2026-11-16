@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-987a",
+  "script": "seal",
+  "character": "顺",
+  "reading": "shùn",
+  "description": "顺从;顺应\n⒈向着同一个方向，跟\"逆\"相对～水。～应。～风而呼。～于民心。\n⒉沿，循，依次～大路走。因雨～延。～次前进。\n⒊随，趁便～便。～手关电。～口而出。\n⒋整理，使有条理理～头发。这篇文章，还要～一～。\n⒌适合，符合心意～眼。～心。～意。\n⒍服从～从。～着。\n⒎匀和风调雨～。\n⒏道理通达，符合事理～理。名正言～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-顺"
+}

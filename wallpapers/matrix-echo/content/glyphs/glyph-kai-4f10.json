@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f10",
+  "script": "kai",
+  "character": "伐",
+  "reading": "fá",
+  "description": "fá：(1)砍～树。砍～。\n(2)征讨讨～。～罪（征讨有罪的人）。口诛笔～。\n(3)自夸～善（夸自己的好处）。～智。不矜不～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-伐"
+}

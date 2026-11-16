@@ -1,0 +1,16 @@
+{
+  "id": "poem-2a73b5203d096549bfa62f67",
+  "title": "戏赠阌乡秦少公短歌",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "去年行宫当太白，朝回君是同舍客。",
+    "同心不减骨肉亲，每语见许文章伯。",
+    "今日时清两京道，相逢苦觉人情好。",
+    "昨夜邀欢乐更无，多才依旧能潦倒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-0f6b5485-6ead-48e3-b211-46aaa1be1238"
+}

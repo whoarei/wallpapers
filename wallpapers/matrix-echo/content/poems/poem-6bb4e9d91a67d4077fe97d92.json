@@ -1,0 +1,16 @@
+{
+  "id": "poem-6bb4e9d91a67d4077fe97d92",
+  "title": "答王福娘红笺题诗（题拟）",
+  "author": "孙棨",
+  "dynasty": "唐",
+  "verses": [
+    "韶妙如何有远图，未能相为信非夫。",
+    "泥中莲子虽无染，移入家园未得无。",
+    "（见《北里志》。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-ec157f71-c18b-4188-8f30-8024077ca1b1"
+}

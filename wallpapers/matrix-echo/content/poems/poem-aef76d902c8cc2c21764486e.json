@@ -1,0 +1,16 @@
+{
+  "id": "poem-aef76d902c8cc2c21764486e",
+  "title": "郊庙歌辞 梁太庙乐舞辞 大合舞",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "於穆皇祖，濬哲雍熙。",
+    "美溢中夏，化被南陲。",
+    "后稷累德，公刘创基。",
+    "肇兴九庙，乐合来仪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-f87f89bd-21a1-4861-9590-eb27a2888aa2"
+}

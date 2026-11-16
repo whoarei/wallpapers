@@ -1,0 +1,16 @@
+{
+  "id": "poem-1944a4b6d97da468723305ad",
+  "title": "郊庙歌辞 享太庙乐章 凯安四章 三",
+  "author": "张说",
+  "dynasty": "唐",
+  "verses": [
+    "总总干戚，填填鼓钟。",
+    "奋扬争气，坐作为容。",
+    "离若鸷鸟，合如战龙。",
+    "万方观德，肃肃雝雝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-fd5cc7ad-fb0e-434e-b731-6967676f7f39"
+}

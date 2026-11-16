@@ -1,0 +1,18 @@
+{
+  "id": "poem-2aa34b2f4ea0345d721e1bd5",
+  "title": "白鼋涡",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "南山之瀑水兮，激石瀥瀑似雷惊。",
+    "人相对兮，不闻语声。",
+    "翻涡跳沫兮苍苔湿，藓老且厚，春草为之不生。",
+    "兽不敢惊动，鸟不敢飞鸣。",
+    "白鼋涡涛戏濑兮，委身以纵横。",
+    "王人之仁兮，不网不钓，得遂性以生成。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-e7f7681d-2be9-4d46-8186-e3fe25b52634"
+}

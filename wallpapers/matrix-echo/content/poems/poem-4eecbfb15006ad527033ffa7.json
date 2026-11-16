@@ -1,0 +1,18 @@
+{
+  "id": "poem-4eecbfb15006ad527033ffa7",
+  "title": "自淇涉黄河途中作十三首 二",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "清晨泛中流，羽族满汀渚。",
+    "黄鹄何处来，昂藏寡俦侣。",
+    "飞鸣无人见，饮啄岂得所。",
+    "云汉尔固知，胡为不轻举。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-6ec03821-1ece-4cdc-97cb-c7b976ac47b1"
+}

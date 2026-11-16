@@ -1,0 +1,16 @@
+{
+  "id": "poem-0be01b090b4aa033e466b831",
+  "title": "采桑子·拨灯书尽红笺也",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "拨灯书尽红笺也，依旧无聊。",
+    "玉漏迢迢，梦里寒花隔玉箫。",
+    "几竿修竹三更雨，叶叶萧萧。",
+    "分付秋潮，莫误双鱼到谢桥。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-47"
+}

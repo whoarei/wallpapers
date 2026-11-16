@@ -1,0 +1,16 @@
+{
+  "id": "poem-76d15003ad2bafda16aff129",
+  "title": "河渎神·铜鼓赛神来",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "铜鼓赛神来，满庭幡盖徘徊。",
+    "水村江浦过风雷，楚山如画烟开。",
+    "离别橹声空萧索，玉容惆怅妆薄。",
+    "青麦燕飞落落，卷帘愁对珠阁。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-46",
+  "tags": []
+}

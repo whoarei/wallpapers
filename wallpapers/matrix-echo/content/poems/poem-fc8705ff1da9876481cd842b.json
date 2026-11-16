@@ -1,0 +1,16 @@
+{
+  "id": "poem-fc8705ff1da9876481cd842b",
+  "title": "临海太守惠予赤城石报以是诗",
+  "author": "李德裕",
+  "dynasty": "唐",
+  "verses": [
+    "闻君采奇石，剪断赤城霞。",
+    "潭上倒虹影，波中摇日华。",
+    "仙岩接绛气，谿路杂桃花。",
+    "若值客星去，便应随海槎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-c376716e-14a2-4ef3-99eb-f6ab69daff67"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-336f8f3b421316e257f2f7db",
+  "title": "寄宜阳兄弟",
+  "author": "易重",
+  "dynasty": "唐",
+  "verses": [
+    "六年雁序恨分离，诏下今朝遇已知。",
+    "上国皇风初喜日，御堦恩渥属身时。",
+    "内庭再考称文异，圣主宣名奖艺奇。",
+    "故里仙才若相问，一春攀得两重枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4f11dd0a-0bac-48a1-89a4-dcf9902c2fa0"
+}

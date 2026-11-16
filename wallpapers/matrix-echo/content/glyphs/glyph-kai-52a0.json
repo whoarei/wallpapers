@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-52a0",
+  "script": "kai",
+  "character": "加",
+  "reading": "jiā",
+  "description": "jiā：(1)增多增～。追～。～倍。～封。\n(2)把本来没有的添上去～注解。～冕。\n(3)把几个数合起来的算法～法。\n(4)施以某种动作～以。不～考虑。\n(5)使程度增高～工。～强。～剧。\n(6)超过～人一等（形容学问才能超过常人）。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-加"
+}

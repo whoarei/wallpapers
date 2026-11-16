@@ -1,0 +1,16 @@
+{
+  "id": "poem-e89da5ab7eff2b5a81408562",
+  "title": "横吹曲辞 折杨柳",
+  "author": "韦承庆",
+  "dynasty": "唐",
+  "verses": [
+    "万里边城地，三春杨柳节。",
+    "叶似镜中眉，花如关外雪。",
+    "征人远乡思，倡妇高楼别。",
+    "不忍掷年华，含情寄攀折。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-0e651edd-1bc8-49c9-bd85-b49df84c9743"
+}

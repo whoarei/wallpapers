@@ -1,0 +1,20 @@
+{
+  "id": "poem-5d5fafad49fb362385704cb7",
+  "title": "献题金鳌山",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "金鳌腾腾高百丈，昔者曾游东海浪。",
+    "女娲断足奠坤舆，怒身化作安吴嶂。",
+    "骨肉虽变魂魄鲜，千秋万古生云烟。",
+    "闲花老树满馥郁，飞走异类争蹁跹。",
+    "草堂熟对忽诧异，念在神僊广游戏。",
+    "琴高跨鲤如跨驴，初成乘龙较容易。",
+    "我今自号钓鱼郎，丝纶倍比任公长。",
+    "愿言活汝骑脚底，御风直造星辰傍。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-d42000d1-fe4b-43dd-b6e0-90287c7b8978"
+}

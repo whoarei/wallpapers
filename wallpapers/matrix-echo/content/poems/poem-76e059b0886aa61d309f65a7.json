@@ -1,0 +1,16 @@
+{
+  "id": "poem-76e059b0886aa61d309f65a7",
+  "title": "新楼诗二十首 北楼樱桃花",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "开花占得春光早，雪缀云装万萼轻。",
+    "凝艳拆时初照日，落英频处乍闻莺。",
+    "舞空柔弱看无力，带月葱茏似有情。",
+    "多事东风入闺闼，尽飘芳思委江城。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-73a9ca7a-8cd7-4b4f-a185-23fbc95861cc"
+}

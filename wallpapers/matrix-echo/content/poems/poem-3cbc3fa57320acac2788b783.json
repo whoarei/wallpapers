@@ -1,0 +1,15 @@
+{
+  "id": "poem-3cbc3fa57320acac2788b783",
+  "title": "新水令",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "奴家年少多聪慧，伴娘行宴乐游戏。",
+    "昼永拈针指。",
+    "(旦叫介)迎春！(贴)听帘前呼唤，不知有何言语？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1702",
+  "tags": []
+}

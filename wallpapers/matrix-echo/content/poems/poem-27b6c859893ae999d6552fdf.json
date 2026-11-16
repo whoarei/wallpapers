@@ -1,0 +1,16 @@
+{
+  "id": "poem-27b6c859893ae999d6552fdf",
+  "title": "和韦兄春日南亭宴兄弟",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "台阁升高位，园林隔旧乡。",
+    "忽闻歌棣萼，还比报琼芳。",
+    "门向宜春近，郊连御宿长。",
+    "德星常有会，相望在文昌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-d8cd2910-f2b2-45b6-8ff3-727e7e416b21"
+}

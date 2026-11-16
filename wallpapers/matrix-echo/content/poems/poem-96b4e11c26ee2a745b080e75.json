@@ -1,0 +1,21 @@
+{
+  "id": "poem-96b4e11c26ee2a745b080e75",
+  "title": "满江红·击碎空明",
+  "author": "高观国",
+  "dynasty": "宋",
+  "verses": [
+    "击碎空明，沧浪晚、棹歌飞入。",
+    "西山外、紫霞吹断，赤尘无迹。",
+    "飞上冰轮凉世界，唤回天籁清肌骨。",
+    "看骊珠、影堕冷光斜，蛟龙窟。",
+    "长啸外，纶巾侧。",
+    "轻露下，纤𫄨湿。",
+    "听洞箫声在，卧虹阴北。",
+    "十万江妃留醉梦，二三沙鸟惊吟魄。",
+    "任天河、落尽玉杯空，东方白。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-407",
+  "tags": []
+}

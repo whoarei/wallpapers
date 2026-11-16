@@ -1,0 +1,19 @@
+{
+  "id": "poem-e9403513df96d19116d171c4",
+  "title": "点绛唇·手抚归鸿",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "手抚归鸿，坐临烟雨帘旌润。",
+    "气清天近。",
+    "云日温阑楯。",
+    "压玉浮金，一醉留青鬓。",
+    "风光胜。",
+    "淡妆人靓。",
+    "眉黛生秋晕。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-851",
+  "tags": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-24e5970af86c2c21d2935d51",
+  "title": "自蒲圻临湘趋岳阳道中作十首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "屈伸任道复何求，去国翻成汗漫游。",
+    "处世久师齐物论，摅怀聊赋畔牢愁。",
+    "霜清日薄寒光急，云惨天髙阴气浮。",
+    "袅袅西风洞庭阔，可堪更上岳阳楼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "洞庭湖",
+    "岳阳楼"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-c20b78f7-cca0-47c2-9d64-b00d427afd62"
+}

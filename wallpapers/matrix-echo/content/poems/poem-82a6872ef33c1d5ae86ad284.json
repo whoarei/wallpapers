@@ -1,0 +1,16 @@
+{
+  "id": "poem-82a6872ef33c1d5ae86ad284",
+  "title": "送封太守",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "忽解羊头削，聊驰熊首轓。",
+    "扬舲发夏口，按节向吴门。",
+    "帆暎丹阳郭，枫攒赤岸村。",
+    "百村多候吏，露冕一何尊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-684f6b6f-c85c-4f04-968e-2b7beefae631"
+}

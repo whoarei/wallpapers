@@ -1,0 +1,14 @@
+{
+  "id": "poem-a355457c76c2eb7065f83a7c",
+  "title": "汾上惊秋",
+  "author": "苏颋",
+  "dynasty": "唐",
+  "verses": [
+    "北风吹白云，万里渡河汾。",
+    "心绪逢摇落，秋声不可闻。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-汾上驚秋"
+}

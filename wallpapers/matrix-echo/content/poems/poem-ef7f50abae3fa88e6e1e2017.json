@@ -1,0 +1,17 @@
+{
+  "id": "poem-ef7f50abae3fa88e6e1e2017",
+  "title": "敦煌廿咏（并序） 十一、贞女台咏[二三]",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "贞女谁家女？",
+    "孤标坐[二四]此台。",
+    "青蛾随月转[二五]，红粉向花开。",
+    "二八无人识，千秋已作灰。",
+    "洁身终不嫁，非为乏良媒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-6c16caf8-8249-466e-bebc-da5c0bb937b1"
+}

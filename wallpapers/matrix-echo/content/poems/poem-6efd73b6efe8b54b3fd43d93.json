@@ -1,0 +1,16 @@
+{
+  "id": "poem-6efd73b6efe8b54b3fd43d93",
+  "title": "和张文裕初寒十首  其八",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "何处初寒好，初寒肃政台。",
+    "官闲免簿领，门静少尘埃。",
+    "天借风霜气，人无鹰隼猜。",
+    "庭荒余老柏，尚有夕乌来。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-5d654381-68c4-462a-94d6-a644bd98d557"
+}

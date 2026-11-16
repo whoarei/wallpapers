@@ -1,0 +1,14 @@
+{
+  "id": "poem-9e0f4b980d9a42232e826a43",
+  "title": "马诗二十三首 十四",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "香襆赭罗新，盘龙蹙镫鳞。",
+    "回看南陌上，谁道不逢春。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-cd42be7e-4ad9-4998-87a3-48dbbd9e6be8"
+}

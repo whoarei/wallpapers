@@ -1,0 +1,16 @@
+{
+  "id": "poem-bbe6b089718bb118a5759aef",
+  "title": "赠元秘书",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "旧书稍稍出风尘，孤客逢秋感此身。",
+    "秦地谬为门下客，淮阴徒笑市中人。",
+    "也闻阮籍寻常醉，见说陈平不久贫。",
+    "幸有故人茅屋在，更将心事问情亲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-dabb5b5f-fe33-4632-93ce-e32f638296b1"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-0d336ecd15d09c8146f8b1de",
+  "title": "春山三朅来 一",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "钓鱼朅来春日暖，沿溪不厌舟行缓。",
+    "野竹初栽碧玉长，澄潭欲下青丝短。",
+    "昔人避世兼避讐，暮栖云外朝悠悠。",
+    "我今无事亦如此，赤鲤忽到长竿头。",
+    "泛泛随波凡几里，碧莎如烟沙似砥。",
+    "瘦壁横空怪石危，山花鬬日禽争水。",
+    "有时带月归扣舷，身闲自是渔家仙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-2492153c-d2ed-4dae-a398-248f53e1c711"
+}

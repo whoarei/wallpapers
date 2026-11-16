@@ -1,0 +1,14 @@
+{
+  "id": "poem-e0c1ff04ccb5eefda6589e36",
+  "title": "南乡子·路入南中",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "路入南中，桃榔叶暗蓼花红。",
+    "两岸人家微雨后，收红豆，树底纤纤抬素手。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-5"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3fb5e9b7724aeb9e86a5e645",
+  "title": "菩萨蛮·如今却忆江南乐",
+  "author": "韦庄",
+  "dynasty": "五代",
+  "verses": [
+    "如今却忆江南乐，当时年少春衫薄。",
+    "骑马倚斜桥，满楼红袖招。",
+    "翠屏金屈曲，醉入花丛宿。",
+    "此度见花枝，白头誓不归。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-35"
+}

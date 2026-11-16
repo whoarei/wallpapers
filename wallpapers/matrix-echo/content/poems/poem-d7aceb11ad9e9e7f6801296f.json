@@ -1,0 +1,16 @@
+{
+  "id": "poem-d7aceb11ad9e9e7f6801296f",
+  "title": "和钱秘监旅居秋怀二首  其一",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "秘监疏朝谒，门前长绿苔。",
+    "未愁玄鬓改，且喜素秋来。",
+    "独坐翻棋势，闲行绕药栽。",
+    "凉风入书幌，时动水沉灰。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-370368f1-8e86-46a9-9d4f-dbc7fcb33a97"
+}

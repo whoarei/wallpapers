@@ -1,0 +1,14 @@
+{
+  "id": "poem-0a19e6f1ea06ded57375ec43",
+  "title": "过高台获信老诗集",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "萧然僧榻碧云端，细读君诗夜未阑。",
+    "门外苍松霜雪里，比君佳处让高寒。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-0e4174ef-0b53-4066-a0b8-dd17e3098ca5"
+}

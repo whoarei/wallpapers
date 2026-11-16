@@ -1,0 +1,17 @@
+{
+  "id": "poem-2eae56dc989d319e11ab0dac",
+  "title": "登纠峰顶",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "盘盘纠峰岭，不与群峰同。",
+    "我来值清秋，落叶飞苍穹。",
+    "洪涛湃松柏，烟雨交空蒙。",
+    "爱兹竟忘返，非关足力穷。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-3b846c76-6ea2-4653-8c27-4f5772a7f594"
+}

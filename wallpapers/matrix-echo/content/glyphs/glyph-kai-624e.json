@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-624e",
+  "script": "kai",
+  "character": "扎",
+  "reading": "zhā；zā；zhá",
+  "description": "zā：(1)捆，缠束～辫子。～腿。\n(2)把儿，捆儿一～线。\nzhā：(1)刺～针。～花。\n(2)驻、扎～营。\n(3)钻扎猛子。\nzhá：〔～挣〕方言，勉强支持（挣”读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-扎"
+}

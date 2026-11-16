@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5c3e",
+  "script": "kai",
+  "character": "尾",
+  "reading": "wěi；yǐ",
+  "description": "wěi：(1)鸟兽虫鱼等身体末端突出的部分～巴。～鳍。鸟～。\n(2)末端排～。船～。～声。～骨。～灯。～数。～音。结～。扫～。虎头蛇～。\n(3)在后面跟～随。～追。\n(4)量词，指鱼三～鱼。\n(5)星名，二十八宿之一。\n头；首；\nyǐ：(1)特指马尾（wěi）巴上的毛马～罗。马～儿提豆腐╠提溜不起来。\n(2)特指蟋蟀等尾部的针状物三～儿（雌蟋蟀）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-尾"
+}

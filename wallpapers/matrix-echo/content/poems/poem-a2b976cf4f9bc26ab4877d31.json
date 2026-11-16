@@ -1,0 +1,17 @@
+{
+  "id": "poem-a2b976cf4f9bc26ab4877d31",
+  "title": "遣兴五首 五",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "昔在洛阳时，亲友相追攀。",
+    "送客东郊道，遨游宿南山。",
+    "烟尘阻长河，树羽成臯间。",
+    "回首载酒地，岂无一日还。",
+    "丈夫贵壮健，惨戚非朱颜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-13f2246e-b05e-44aa-b907-b642cc77defc"
+}

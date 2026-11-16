@@ -1,0 +1,14 @@
+{
+  "id": "poem-9e7f3f0b3937a055d3c6cc97",
+  "title": "郊庙歌辞 武后享清庙乐章十首 第六送文舞",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "帝图草创，皇业初开。",
+    "功高佐命，业赞云雷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-ea6a860c-43d0-4c40-8d6f-e1d3c863dcea"
+}

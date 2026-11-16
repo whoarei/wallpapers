@@ -1,0 +1,14 @@
+{
+  "id": "poem-e5c2eabcf69ffb1712fe9ea9",
+  "title": "行田诗",
+  "author": "张又新",
+  "dynasty": "唐",
+  "verses": [
+    "白石岩前湖水春，湖边旧境有清尘。",
+    "欲追谢守行田意，今古同忧是长人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-8583618a-0931-4733-8945-75b761e34ff1"
+}

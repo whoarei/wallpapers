@@ -1,0 +1,16 @@
+{
+  "id": "poem-60da0e157e7ada223add12fe",
+  "title": "甘露寺东轩",
+  "author": "周繇",
+  "dynasty": "唐",
+  "verses": [
+    "每日怜晴眺，闲吟只自娱。",
+    "山从平地有，水到远天无。",
+    "老树多封楚，轻烟暗染吴。",
+    "虽居此廊下，入户亦踌蹰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-18de435e-9774-4859-827c-0bcf1d6532ea"
+}

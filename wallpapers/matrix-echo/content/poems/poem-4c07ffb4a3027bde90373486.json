@@ -1,0 +1,16 @@
+{
+  "id": "poem-4c07ffb4a3027bde90373486",
+  "title": "送程秀才下第归蜀",
+  "author": "姚鹄",
+  "dynasty": "唐",
+  "verses": [
+    "莺迁与鶂退，十载泣岐分。",
+    "蜀道重来老，巴猨此去闻。",
+    "晓程侵岭雪，远栈入谿云。",
+    "莫滞趋庭恋，荣亲祗待君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-e6503dc8-2d00-4ee0-a3cd-dc55313bd97d"
+}

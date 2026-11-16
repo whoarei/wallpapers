@@ -1,0 +1,16 @@
+{
+  "id": "poem-2e52fad71dbf5ae11b9d498a",
+  "title": "郊庙歌辞 周宗庙乐舞辞 福顺",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "新庙奕奕，金奏洋洋。",
+    "享于祖考，循彼典章。",
+    "清酤特满，嘉玉腾光。",
+    "神醉既告，帝祉无疆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-2144751c-5633-4d58-b0bd-5dc2f044b83d"
+}

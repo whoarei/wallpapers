@@ -1,0 +1,16 @@
+{
+  "id": "poem-57643095201f3bedf17fc103",
+  "title": "岘山送崔子向之宣州谒裴使君",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "楚思入诗清，晨登岘山情。",
+    "秋天水西寺，古木宛陵城。",
+    "琴匣应将往，书车亦共行。",
+    "吾知江太守，一顾重君名。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-019a61c7-f187-40a0-b282-fe86c6c98531"
+}

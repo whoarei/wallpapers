@@ -1,0 +1,20 @@
+{
+  "id": "poem-7056082d2a14ff2486c6b07a",
+  "title": "过香积寺",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "不知香积寺，数里入云峰。",
+    "古木无人迳，深山何处钟。",
+    "泉声咽危石，日色冷青松。",
+    "薄暮空潭曲，安禅制毒龙。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "写景",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-e4354c00-c83e-43da-9341-7007889dd625"
+}

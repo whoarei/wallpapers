@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8f7f",
+  "script": "kai",
+  "character": "轿",
+  "reading": "jiào",
+  "description": "竹舆。古代过山用的交通工具\n轿子",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-轿"
+}

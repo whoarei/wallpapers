@@ -1,0 +1,24 @@
+{
+  "id": "poem-62bcff8eca00733c4f91e365",
+  "title": "观潮十韵",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "泯泯顺为回，泙泙逆是来。",
+    "草微淹泽莽，沙涨积云堆。",
+    "不止灵威怒，当慿恠力推。",
+    "夏天江叠雪，晴日海奔雷。",
+    "近落痕犹浅，初平势渐开。",
+    "舟惊浮浩渺，石看打崔嵬。",
+    "鸟下愁滩没，人行畏岸颓。",
+    "鼓风连涵澹，值洑更旋回。",
+    "进退随蟾魄，虚盈合蚌胎。",
+    "何妨俾巨浸，为尔济川才。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "钱塘江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-1b7490fe-c3d2-4907-837a-0c8b5e83befd"
+}

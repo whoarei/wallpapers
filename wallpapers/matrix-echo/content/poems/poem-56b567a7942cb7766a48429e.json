@@ -1,0 +1,14 @@
+{
+  "id": "poem-56b567a7942cb7766a48429e",
+  "title": "臣工",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "嗟嗟臣工，敬尔在公。王厘尔成，来咨来茹。嗟嗟保介，维莫之春，亦又何求？如何新畲？",
+    "于皇来牟，将受厥明。明昭上帝，迄用康年。命我众人：庤乃钱镈，奄观铚艾。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-275"
+}

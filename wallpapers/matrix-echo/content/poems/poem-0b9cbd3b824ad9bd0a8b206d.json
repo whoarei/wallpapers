@@ -1,0 +1,16 @@
+{
+  "id": "poem-0b9cbd3b824ad9bd0a8b206d",
+  "title": "浣溪沙·红日已高三丈透",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "红日已高三丈透，金炉次第添香兽。",
+    "红锦地依随步皱。",
+    "佳人舞点金钗溜，酒恶时拈花蕊嗅。",
+    "别殿遥闻箫鼓奏。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-19"
+}

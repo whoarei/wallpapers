@@ -1,0 +1,14 @@
+{
+  "id": "poem-70211ccc8568c2104f812510",
+  "title": "葛仙迁居图",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "欲问丹砂不定居，绝怜岣嵝令君疎。",
+    "弗教鸡犬蜚腾去，犹看随行挂角书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-4639973b-33b0-45b6-9951-ed4e20f236c6"
+}

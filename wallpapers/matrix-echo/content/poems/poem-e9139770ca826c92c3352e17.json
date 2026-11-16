@@ -1,0 +1,14 @@
+{
+  "id": "poem-e9139770ca826c92c3352e17",
+  "title": "偈",
+  "author": "道恒",
+  "dynasty": "唐",
+  "verses": [
+    "不要三乘要祖宗，三乘不要与君同。",
+    "君今欲会通宗旨，后夜猿啼在乱峰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-5ee4e22b-5968-485c-ae15-eeaaf6a696e3"
+}

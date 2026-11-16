@@ -1,0 +1,16 @@
+{
+  "id": "poem-ccb6b6c75b018097f7562be1",
+  "title": "八声甘州",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(外)春深离故家，叹衰年倦体，奔走天涯。",
+    "一鞭行色，遥指剩水残霞。",
+    "墙头嫩柳篱畔花，见古树枯藤栖暮鸦。",
+    "嗟呀！遍长途触目桑麻。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8307",
+  "tags": []
+}

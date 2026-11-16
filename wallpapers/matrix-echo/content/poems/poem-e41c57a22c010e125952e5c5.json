@@ -1,0 +1,14 @@
+{
+  "id": "poem-e41c57a22c010e125952e5c5",
+  "title": "和三乡诗",
+  "author": "王祝",
+  "dynasty": "唐",
+  "verses": [
+    "女几山前岚气低，佳人留恨此中题。",
+    "不知云雨归何处，空使王孙见即迷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-b7ae520d-6134-4fb8-9385-702c5c2a2797"
+}

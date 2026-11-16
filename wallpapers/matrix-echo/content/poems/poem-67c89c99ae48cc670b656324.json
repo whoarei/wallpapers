@@ -1,0 +1,16 @@
+{
+  "id": "poem-67c89c99ae48cc670b656324",
+  "title": "喜迁莺·晓月坠",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "晓月坠，宿烟微，无语枕频倾攲。",
+    "梦回芳草思依依，天远雁声稀。",
+    "啼莺散，馀花乱，寂寞画堂深院。",
+    "片红休扫尽从伊，留待舞人归。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-13"
+}

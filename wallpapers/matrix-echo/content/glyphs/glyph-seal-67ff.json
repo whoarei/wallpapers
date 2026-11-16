@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-67ff",
+  "script": "seal",
+  "character": "柿",
+  "reading": "shì",
+  "description": "shì：落叶乔木，果实为扁圆形或圆椎形浆果，黄或橙红色，可食～子。～饼。～霜。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-柿"
+}

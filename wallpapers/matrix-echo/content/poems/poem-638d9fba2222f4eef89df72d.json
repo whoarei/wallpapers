@@ -1,0 +1,14 @@
+{
+  "id": "poem-638d9fba2222f4eef89df72d",
+  "title": "春秋战国门 哀公",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "贤为邻用国忧危，庙算无非委艳奇。",
+    "两叶翠娥春乍展，一毛须去不难吹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-bd13166f-d052-420a-bd66-12e907754e10"
+}

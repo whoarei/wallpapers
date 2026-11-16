@@ -1,0 +1,14 @@
+{
+  "id": "poem-3bb74f9e6327490fe382924e",
+  "title": "曹山延寿院",
+  "author": "陈岩",
+  "dynasty": "宋",
+  "verses": [
+    "三角坳泓一角亏，其间浊水照摩尼。",
+    "风幡不动炉烟直，正是僧禅定起时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-3c77feb9-7b20-4cc3-970e-ccb7a286c4ea"
+}

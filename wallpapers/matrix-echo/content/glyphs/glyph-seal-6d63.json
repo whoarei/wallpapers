@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6d63",
+  "script": "seal",
+  "character": "浣",
+  "reading": "huàn",
+  "description": "huàn：(1)洗～衣。～纱。～雪。～濯。\n(2)中国唐代定制，官吏十天一次休息沐浴，每月分为上、中、下浣，后借作上旬、中旬、下旬的别称。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-浣"
+}

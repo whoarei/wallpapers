@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-604b",
+  "script": "kai",
+  "character": "恋",
+  "reading": "liàn",
+  "description": "思念,怀念\n男女相爱\n⒈思念不忘，不忍分离留～。依～。思～难忘。～ ～不能舍。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-恋"
+}

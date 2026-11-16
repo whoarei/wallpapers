@@ -1,0 +1,18 @@
+{
+  "id": "poem-6ab2f67d38ce36bffdc22d58",
+  "title": "采桑子·林间摘遍双双叶",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "林间摘遍双双叶，寄与相思。",
+    "朱槿开时。",
+    "尚有山榴一两枝。",
+    "荷花欲绽金莲子，半落红衣。",
+    "晚雨微微。",
+    "待得空梁宿燕归。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-468",
+  "tags": []
+}

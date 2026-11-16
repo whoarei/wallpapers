@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7bd9",
+  "script": "seal",
+  "character": "篙",
+  "reading": "gāo",
+  "description": "gāo：用竹竿或杉木等制成的撑船工具竹～。～工。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-篙"
+}

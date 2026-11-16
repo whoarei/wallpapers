@@ -1,0 +1,14 @@
+{
+  "id": "poem-43bb94df1f97c6b1d75dbbfa",
+  "title": "牧马泉",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "平沙漫漫马悠悠，弓箭闲抛郊水头。",
+    "鼠毛衣里取羌笛，吹向秋天眉眼愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-41e7ebc7-76c3-4292-8f3d-4c2bb6fa4c6b"
+}

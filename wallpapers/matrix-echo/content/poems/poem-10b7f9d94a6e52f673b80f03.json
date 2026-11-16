@@ -1,0 +1,16 @@
+{
+  "id": "poem-10b7f9d94a6e52f673b80f03",
+  "title": "重阳",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "节物惊心两鬓华，东篱空绕未开花。",
+    "百年将半仕三已，五亩就荒天一涯。",
+    "岂有白衣来剥啄，一从乌帽自攲斜。",
+    "真成独坐空搔首，门柳萧萧噪暮鸦。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c1fa02b3-3fdd-4de6-86d8-264f36cfee99"
+}

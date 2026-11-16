@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-62c9",
+  "script": "seal",
+  "character": "拉",
+  "reading": "lā；lá",
+  "description": "lā：(1)牵，扯，拽～车。～网。～下马（喻使某人下台）。\n(2)用车载运～货。\n(3)使延长～延。～伸。\n(4)排泄粪便～屎。\n(5)联络～拢。～帮结伙。\n(6)摧折摧枯～朽。\n(7)带领转移把部队～出去。\n(8)牵引乐器的某一部分使乐器发出声音～小提琴。\n(9)抚养子女～扯。\n(10)帮助他有困难，～他一把。\n推；\nlá：(1)割，用刀把东西切开一道缝或切断手上～了一个口子。\n(2)闲谈～话。～家常。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-拉"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-82a8a577acf8f81965e35204",
+  "title": "江村行",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "南塘水深芦笋齐，下田种稻不作畦。",
+    "耕场磷磷在水底，短衣半染芦中泥。",
+    "田头刈莎结为屋，归来系牛还独宿。",
+    "水淹手足尽有疮，山蝱遶身飞飏飏。",
+    "桑林椹黑蚕再眠，妇姑采桑不向田。",
+    "江南热旱天气毒，雨中移秧颜色鲜。",
+    "一年耕种长苦辛，田熟家家将赛神。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-667d82a0-09a4-4191-966a-ab32956894f5"
+}

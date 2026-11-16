@@ -1,0 +1,16 @@
+{
+  "id": "poem-f7c06de72495ad2af42b07c5",
+  "title": "晚秋归自京",
+  "author": "艾可叔",
+  "dynasty": "宋",
+  "verses": [
+    "红尘两脚几时休，此度真成浪漫游。",
+    "倦买夜船过钓濑，渴呼腊盏试龙游。",
+    "菊前疏雨重阳信，天际孤云万里愁。",
+    "昨夜江头乡国梦，已随明月度西楼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-8c37f701-22c5-482d-972e-1edce5ff0263"
+}

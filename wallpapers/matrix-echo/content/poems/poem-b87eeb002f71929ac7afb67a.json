@@ -1,0 +1,16 @@
+{
+  "id": "poem-b87eeb002f71929ac7afb67a",
+  "title": "赠送郑钱二郎中",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "梅含柳已动，昨日起东风。",
+    "惆怅心徒壮，无如鬓作翁。",
+    "百年飘若水，万绪尽归空。",
+    "何可宗禅客，迟回岐路中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-19eabf31-3e26-479c-a0d1-1345d86cca1d"
+}

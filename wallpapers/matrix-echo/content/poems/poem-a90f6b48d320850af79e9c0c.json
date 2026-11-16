@@ -1,0 +1,15 @@
+{
+  "id": "poem-a90f6b48d320850af79e9c0c",
+  "title": "句",
+  "author": "郄殷象",
+  "dynasty": "唐",
+  "verses": [
+    "鸳鸯分品秩，龙衮耀簪裾。",
+    "（见《吟窗杂录》卷十三王梦简《进士王氏诗要格律》。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-da87bda5-b585-4530-8705-756e153a3ad2"
+}

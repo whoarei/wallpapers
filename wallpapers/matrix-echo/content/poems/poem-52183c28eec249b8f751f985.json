@@ -1,0 +1,15 @@
+{
+  "id": "poem-52183c28eec249b8f751f985",
+  "title": "歇拍",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "不告父母，怎谐匹偶？臣又听得，家乡里，遭水旱，遇荒饥。",
+    "多想臣亲，必做沟渠之鬼，末可知。",
+    "怎不教臣，悲伤汨垂？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5026",
+  "tags": []
+}

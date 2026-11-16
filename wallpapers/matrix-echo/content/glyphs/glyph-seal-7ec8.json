@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7ec8",
+  "script": "seal",
+  "character": "终",
+  "reading": "zhōng",
+  "description": "终了;结束。与始”相对\n⒈末了，完了，结束，跟\"始\"相对～了。～点。～止。剧～。〈引〉死，生命完结寿～。\n⒉毕竟，到底～归。～于。～究。～见成效。\n①久远，永远。\n②经常。\n③往昔，自古以来。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-终"
+}

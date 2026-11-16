@@ -1,0 +1,20 @@
+{
+  "id": "poem-a939d87d8f0ab451569a4904",
+  "title": "菩萨蛮·当时携手今千里",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "当时携手今千里。",
+    "可堪重到相逢地。",
+    "触目尽关心。",
+    "流莺尚好音。",
+    "无人知我意。",
+    "只有涓涓泪。",
+    "寂寞到斜阳。",
+    "罗衣裛旧香。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-980",
+  "tags": []
+}

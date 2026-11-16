@@ -1,0 +1,14 @@
+{
+  "id": "poem-bf3728dac748f844f90c92df",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［外］这财礼虽是轻微，你为何讲是说非？婆子，你不晓得，那王秀才是个读书人，一朝显达，名登高第，那其间夫荣妻贵。",
+    "这财礼呵，纵轻微，既来之，且宜安之。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8070",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c13",
+  "script": "seal",
+  "character": "氓",
+  "reading": "máng；méng",
+  "description": "méng：古代称民（特指外来的）～隶（充当隶役的平民）。群～。\nmáng：〔流～〕见流”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-氓"
+}

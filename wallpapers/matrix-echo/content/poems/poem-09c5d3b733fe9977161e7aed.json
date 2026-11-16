@@ -1,0 +1,19 @@
+{
+  "id": "poem-09c5d3b733fe9977161e7aed",
+  "title": "人生叹",
+  "author": "赵崇嶓",
+  "dynasty": "宋",
+  "verses": [
+    "壮老互沦谢，百年如奔霆。",
+    "竞将无穷忧，劳此有尽形。",
+    "生时一幻化，死即归杳冥。",
+    "亦有贤达人，视死如未生。",
+    "亦有醉梦人，既死心未平。",
+    "逆旅朝暮闲，八风无时停。",
+    "扰扰安足计，熙然慰吾情。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-2ae54016-1540-427f-81f1-310b8abd9c29"
+}

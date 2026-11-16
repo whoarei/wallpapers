@@ -1,0 +1,21 @@
+{
+  "id": "poem-d286d512564e6631393324be",
+  "title": "宿王昌龄隐居",
+  "author": "常建",
+  "dynasty": "唐",
+  "verses": [
+    "清溪深不测，隐处唯孤云。",
+    "松际露微月，清光犹为君。",
+    "茅亭宿花影，药院滋苔纹。",
+    "余亦谢时去，西山鸾鹤群。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隐逸",
+    "五言古诗",
+    "山水"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-c854a853-b015-4848-823b-a786659d33b3"
+}

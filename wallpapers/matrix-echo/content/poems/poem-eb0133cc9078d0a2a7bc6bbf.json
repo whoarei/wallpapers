@@ -1,0 +1,14 @@
+{
+  "id": "poem-eb0133cc9078d0a2a7bc6bbf",
+  "title": "河广",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "谁谓河广？一苇杭之。谁谓宋远？跂予望之。",
+    "谁谓河广？曾不容刀。谁谓宋远？曾不崇朝。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-60"
+}

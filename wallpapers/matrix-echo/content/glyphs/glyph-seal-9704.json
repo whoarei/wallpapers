@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9704",
+  "script": "seal",
+  "character": "霄",
+  "reading": "xiāo",
+  "description": "xiāo：(1)云云～。～汉（ａ．云霄和天河，指天空ｂ．古代喻朝廷）。\n(2)天空九～。重（chóng）～。～壤（天和地，喻相去很远）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-霄"
+}

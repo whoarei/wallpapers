@@ -1,0 +1,14 @@
+{
+  "id": "poem-c2717d8897b01e323dfc5440",
+  "title": "赠李司议",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "汉庭谁问投荒客，十载天南着白衣。",
+    "秋草茫茫恶谿路，岭头遥送北人稀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-c0b1d427-649a-4860-aa54-589b206d13aa"
+}

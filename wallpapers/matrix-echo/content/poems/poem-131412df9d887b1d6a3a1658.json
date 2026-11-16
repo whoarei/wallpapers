@@ -1,0 +1,19 @@
+{
+  "id": "poem-131412df9d887b1d6a3a1658",
+  "title": "哥舒歌",
+  "author": "西鄙人",
+  "dynasty": "唐",
+  "verses": [
+    "北斗七星高，哥舒夜带刀。",
+    "至今窥牧马，不敢过临洮。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "赞颂",
+    "五言绝句",
+    "民歌"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-ac2ec0ba-10b1-4ae3-8859-1e7752625331"
+}

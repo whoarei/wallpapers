@@ -1,0 +1,16 @@
+{
+  "id": "poem-23202f7d676b59a2ff86c5dd",
+  "title": "酬白二十二舍人早春曲江见招",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "曲江冰欲尽，风日已恬和。",
+    "柳色看犹浅，泉声觉渐多。",
+    "紫蒲生湿岸，青鸭戏新波。",
+    "仙掖高情客，相招共一过。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-fe3e33eb-4b54-4644-80ee-ebfc7b8f5813"
+}

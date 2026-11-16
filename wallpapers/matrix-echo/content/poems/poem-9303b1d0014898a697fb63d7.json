@@ -1,0 +1,14 @@
+{
+  "id": "poem-9303b1d0014898a697fb63d7",
+  "title": "春秋战国门 再吟",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "定获英奇不在多，然须设网遍山河。",
+    "禽虽一目罗中得，岂可空张一目罗。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-7bc113e9-7c38-4429-a9ad-eff7e88483da"
+}

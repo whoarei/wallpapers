@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4fd1",
+  "script": "seal",
+  "character": "俑",
+  "reading": "yǒng",
+  "description": "yǒng：古代殡葬用的木制或陶制的偶人木～。陶～。女～。兵马～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-俑"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-a714b56755056f580bda4319",
+  "title": "八阵图",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "功盖三分国，名高八阵图。",
+    "江流石不转，遗恨失吞吴。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "怀古",
+    "哲理",
+    "写人",
+    "五言绝句"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-927908c0-999f-4d3f-8192-d67d28f93576"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "poem-8af9a50898e3f2b95c655023",
+  "title": "秋日登吴公台上寺远眺寺即陈将吴明彻战场",
+  "author": "刘长卿",
+  "dynasty": "唐",
+  "verses": [
+    "古台摇落后，秋日望乡心。",
+    "野寺人来少，云峰水隔深。",
+    "夕阳依旧垒，寒磬满空林。",
+    "惆怅南朝事，长江独至今。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "长江",
+    "怀古",
+    "秋天",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-fdc07d9f-95b8-45f7-b1b3-9d272b3416a4"
+}

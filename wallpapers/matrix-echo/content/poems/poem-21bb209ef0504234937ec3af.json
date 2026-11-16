@@ -1,0 +1,16 @@
+{
+  "id": "poem-21bb209ef0504234937ec3af",
+  "title": "清平乐·等闲无语",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "等闲无语，春恨如何去？",
+    "终是疏狂留不住，花暗柳浓何处。",
+    "尽日目断魂飞，晚窗斜界残晖。",
+    "长恨朱门薄暮，绣鞍骢马空归。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-20"
+}

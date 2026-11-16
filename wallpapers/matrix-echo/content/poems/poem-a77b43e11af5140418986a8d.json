@@ -1,0 +1,21 @@
+{
+  "id": "poem-a77b43e11af5140418986a8d",
+  "title": "秋日登岳阳楼晴望",
+  "author": "张碧",
+  "dynasty": "唐",
+  "verses": [
+    "三秋倚练飞金盏，洞庭波定平如刬。",
+    "天高云卷绿罗低，一点君山碍人眼。",
+    "漫漫万顷铺琉璃，烟波阔远无鸟飞。",
+    "西南东北竞无际，直疑侵断青天涯。",
+    "屈原回日牵愁吟，龙宫感激致应沈。",
+    "贾生憔悴说不得，茫茫烟霭堆湖心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖",
+    "岳阳楼"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-efad3f8b-87d3-406e-a916-fc8fb2bdf381"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-4f16f5ebef49504285c8228f",
+  "title": "咏史诗 东海",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "东巡玉辇委泉台，徐福楼船尚未回。",
+    "自是祖龙先下世，不关无路到蓬莱。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-ae5d792a-bc45-4a29-9948-757e6c5da88b"
+}

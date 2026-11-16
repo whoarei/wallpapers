@@ -1,0 +1,17 @@
+{
+  "id": "poem-aad79e060c36f206c820c363",
+  "title": "清平乐·将愁不去",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "将愁不去，秋色行难住。",
+    "六曲屏山深院宇。",
+    "日日风风雨雨。",
+    "雨晴篱菊初香，人言此日重阳。",
+    "回首凉云暮叶，黄昏无限思量。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-65"
+}

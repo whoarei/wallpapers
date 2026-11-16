@@ -1,0 +1,16 @@
+{
+  "id": "poem-f4fd398604cd99c4d8c8605b",
+  "title": "四换头",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "贼泼贱闭嘴，数黑论黄讲甚的？我是你什么人？［旦］是娘。",
+    "［净］恰又来，娘言语怎违逆？颐父母颜情却是礼。",
+    "［旦］顺父母颜情，人之大礼。",
+    "话不投机，教人怎随？富豪贪恋，贫穷见弃，惹得傍人讲是非。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8086",
+  "tags": []
+}

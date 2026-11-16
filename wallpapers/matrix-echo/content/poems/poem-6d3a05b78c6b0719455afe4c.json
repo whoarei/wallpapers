@@ -1,0 +1,14 @@
+{
+  "id": "poem-6d3a05b78c6b0719455afe4c",
+  "title": "题壁",
+  "author": "杨凝式",
+  "dynasty": "唐",
+  "verses": [
+    "院似禅心静，花如觉性圆。",
+    "自然知了义，争肯学神仙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-c1847ed8-c71b-4e23-adb5-2cb4bdfeb836"
+}

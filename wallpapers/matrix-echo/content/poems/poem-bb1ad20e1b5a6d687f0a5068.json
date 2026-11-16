@@ -1,0 +1,16 @@
+{
+  "id": "poem-bb1ad20e1b5a6d687f0a5068",
+  "title": "书殿赐宴应制",
+  "author": "徐安贞",
+  "dynasty": "唐",
+  "verses": [
+    "校文常近日，赐宴忽升天。",
+    "酒正传桮至，饔人捧案前。",
+    "玉阶鸣溜水，清阁引归烟。",
+    "共惜芸香暮，春风几万年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-06a2961a-ef57-431e-ba01-70fb91a5feac"
+}

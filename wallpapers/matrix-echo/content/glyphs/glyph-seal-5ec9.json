@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5ec9",
+  "script": "seal",
+  "character": "廉",
+  "reading": "lián",
+  "description": "lián：(1)堂屋的侧边～隅（棱角，喻品行端方，有气节）。\n(2)不贪污～洁。～正。～明。\n(3)便（pián）宜，价钱低物美价～。\n(4)察考，访查且～问，有不如吾诏者，以重论之”。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-廉"
+}

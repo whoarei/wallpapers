@@ -1,0 +1,14 @@
+{
+  "id": "poem-a89c434c94965f4f78bf0db2",
+  "title": "传婆井",
+  "author": "吕从庆",
+  "dynasty": "唐",
+  "verses": [
+    "古井无渊源，千秋自涵养。",
+    "日暮汲人来，洞然发清响。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-9b0b585a-5ea2-4ec8-989d-ed1e52c57735"
+}

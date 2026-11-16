@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-502a",
+  "script": "seal",
+  "character": "倪",
+  "reading": "ní",
+  "description": "ní：(1)端，边际端～（头绪）。\n(2)弱小，小孩旄～（旄”，年老，八九十岁的年纪。旄倪”，即老幼）。\n(3)分际天～（自然之分际）。\n(4)傲慢力罢，则不能毋堕～”。\n(5)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-倪"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c89",
+  "script": "kai",
+  "character": "沉",
+  "reading": "chén",
+  "description": "chén：(1)没（mò）入水中，与浮”相对～没。～渣。～浮（喻盛衰消长）。石～大海。～鱼落雁。静影～璧。\n(2)落下，陷入～陷。\n(3)重量大～重。\n(4)慎重，不轻浮～着（zhuó）。～毅。\n(5)深切长久，程度深～思。～滞。～吟。～默。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沉"
+}

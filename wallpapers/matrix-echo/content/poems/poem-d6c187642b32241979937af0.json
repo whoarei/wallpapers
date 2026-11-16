@@ -1,0 +1,16 @@
+{
+  "id": "poem-d6c187642b32241979937af0",
+  "title": "偶得双鲤付厨作鲙以荐一觞",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "双鲤从来丙穴东，霜刀缕切脍花红。",
+    "银丝藿叶自争巧，玉筋金盘未觉空。",
+    "德饱姜侯情已重，诗成杜老志应同。",
+    "秋风笠泽鲈尤美，何日扁舟入手中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-3a47f94c-ba99-4327-8897-ad287c258518"
+}

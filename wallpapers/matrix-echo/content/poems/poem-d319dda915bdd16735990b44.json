@@ -1,0 +1,14 @@
+{
+  "id": "poem-d319dda915bdd16735990b44",
+  "title": "上行杯·草草离亭鞍马",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "草草离亭鞍马，从远道，此地分襟，燕宋秦吴千万里。",
+    "无辞一醉。野棠开，江草湿。伫立，沾泣，征骑骎骎。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-36"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-0529b0b0cdeea3c4812883e9",
+  "title": "春秋战国门 赵宣子",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "门人曾不有提弥，连嗾呀呀孰敢支。",
+    "临难若教无苟免，乱朝争那以獒为。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-b523f030-bfc3-4034-9dd2-578816935a36"
+}

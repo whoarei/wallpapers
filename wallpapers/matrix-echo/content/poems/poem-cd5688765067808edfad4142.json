@@ -1,0 +1,20 @@
+{
+  "id": "poem-cd5688765067808edfad4142",
+  "title": "虞美人·春风曾见桃花面",
+  "author": "张景修",
+  "dynasty": "宋",
+  "verses": [
+    "春风曾见桃花面。",
+    "重见胜初见。",
+    "两枝独占小春开。",
+    "应怪刘郎迷路、又重来。",
+    "旁人应笑髯公老。",
+    "独爱花枝好。",
+    "世间好景不长圆。",
+    "莫放笙歌归院、且尊前。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-643",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e2b",
+  "script": "kai",
+  "character": "丫",
+  "reading": "yā",
+  "description": "yā：(1)分杈的树～。～杈。\n(2)像树枝的分杈～头（ａ．古代女孩子头上梳双髻，如树丫杈，因以称女孩子；ｂ．指受役使的女孩子，亦称丫鬟”。头”、鬟”均读轻声）。脚～子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-丫"
+}

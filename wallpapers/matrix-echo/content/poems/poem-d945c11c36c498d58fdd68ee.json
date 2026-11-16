@@ -1,0 +1,18 @@
+{
+  "id": "poem-d945c11c36c498d58fdd68ee",
+  "title": "送友人归山歌二首 二",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "山中人兮欲归，云冥冥兮雨霏霏，水惊波兮翠菅靡。",
+    "白鹭忽兮翻飞，君不可兮褰衣。",
+    "山万重兮一云，混天地兮不分。",
+    "树晻暧兮氛氲，猿不见兮空闻。",
+    "忽山西兮夕阳，见东臯兮远村。",
+    "平芜绿兮千里，眇惆怅兮思君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-837924d5-03d4-4133-8031-d1f042686d65"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-50f5",
+  "script": "seal",
+  "character": "僵",
+  "reading": "jiāng",
+  "description": "jiāng：(1)仆倒～尸。\n(2)直挺挺，不灵活冻～。～硬。～直。～化。～卧。～死。～冷。～滞。\n(3)双方相持不下，两种意见不能调和弄～。～持。～局。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-僵"
+}

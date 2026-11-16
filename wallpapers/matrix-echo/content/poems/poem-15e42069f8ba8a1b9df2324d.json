@@ -1,0 +1,20 @@
+{
+  "id": "poem-15e42069f8ba8a1b9df2324d",
+  "title": "江州重别薛六柳八二员外",
+  "author": "刘长卿",
+  "dynasty": "唐",
+  "verses": [
+    "生涯岂料承优诏，世事空知学醉歌。",
+    "江上月明胡鴈过，淮南木落楚山多。",
+    "寄身且喜沧洲近，顾影无如白发何。",
+    "今日龙钟人共弃，媿君犹遣慎风波。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "送别",
+    "七言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-d9dd3520-9aab-4b1b-bd57-810f29391667"
+}

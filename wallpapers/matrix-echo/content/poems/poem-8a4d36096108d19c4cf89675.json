@@ -1,0 +1,16 @@
+{
+  "id": "poem-8a4d36096108d19c4cf89675",
+  "title": "乾元中寓居同谷县作歌七首 七",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "男儿生不成名身已老，三年饥走荒山道。",
+    "长安卿相多少年，富贵应须致身早。",
+    "山中儒生旧相识，但话宿昔伤怀抱。",
+    "鸣呼七歌兮悄终曲，仰视皇天白日速。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-1c556427-1203-45cd-b593-eab55e582569"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-3b66567b61e39f7d75ccb93f",
+  "title": "过比干墓",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "殷辛帝天下，厌为天下尊。",
+    "乾纲既一断，贤愚无二门。",
+    "佞是福身本，忠作丧己源。",
+    "饿虎不食子，人无骨肉恩。",
+    "日影不入地，下埋冤死魂。",
+    "腐骨不为土，应作石木根。",
+    "余来过此乡，下马吊此坟。",
+    "静念君臣间，有道谁敢论。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-366e820c-e3bb-4276-bc10-c8daa92aad19"
+}

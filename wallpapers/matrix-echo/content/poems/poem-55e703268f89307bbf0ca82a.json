@@ -1,0 +1,16 @@
+{
+  "id": "poem-55e703268f89307bbf0ca82a",
+  "title": "子夜歌·寻春须是先春早",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "寻春须是先春早，看花莫待花枝老。",
+    "缥色玉柔擎，醅浮盏面清。",
+    "何妨频笑粲，禁苑春归晚。",
+    "同醉与闲评，诗随羯鼓成。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-29"
+}

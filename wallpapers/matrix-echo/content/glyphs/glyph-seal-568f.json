@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-568f",
+  "script": "seal",
+  "character": "嚏",
+  "reading": "tì",
+  "description": "tì：〔～喷〕鼻黏膜受到刺激而引起的一种猛烈带声的喷气现象（喷”读轻声）。亦称喷嚏”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嚏"
+}

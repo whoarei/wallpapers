@@ -1,0 +1,16 @@
+{
+  "id": "poem-bde2561c124f9b48baaae5ee",
+  "title": "旱鱼词上苗相公",
+  "author": "姚鹄",
+  "dynasty": "唐",
+  "verses": [
+    "似龙鳞已足，唯是欠登门。",
+    "日里腮犹湿，泥中目未昏。",
+    "乞锄防蚁穴，望水泻金盆。",
+    "他日能为雨，公田报此恩。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-83520070-449b-4362-bddf-708f5038024f"
+}

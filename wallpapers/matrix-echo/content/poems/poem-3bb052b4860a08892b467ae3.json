@@ -1,0 +1,16 @@
+{
+  "id": "poem-3bb052b4860a08892b467ae3",
+  "title": "巫峡",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "巫山苍翠峡通津，下有仙宫楚女真。",
+    "不逐彩云归碧落，却为暮雨扑行人。",
+    "年年旧事音容在，日日谁家梦想频。",
+    "应是荆山留不住，至今犹得覩芳尘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-70d15de4-e38a-4449-bd14-86c7b60df075"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-f3a349923cb93e2d67006ebc",
+  "title": "桓",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "绥万邦，屡丰年。天命匪解，桓桓武王。保有厥士，于以四方，克定厥家。于昭于天，皇以间之。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-293"
+}

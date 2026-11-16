@@ -1,0 +1,16 @@
+{
+  "id": "poem-01b9e11ef202210f003e9262",
+  "title": "送赵丞",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "归装又逐西凉去，轻省还如赴上时。",
+    "廉者固宜疎住计，富哉只有送行诗。",
+    "贴天自与鹓鸿举，钳纸谁容雁鹜欺。",
+    "它日宣城厅壁记，岿然一样斗山思。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-82ca005e-548d-41da-877a-5ebd0adfa549"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-d623a26bad88022c3d715ae7",
+  "title": "赠陈望尧",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "若说精通事艺长，词人争及孝廉郎。",
+    "秋萤短焰难盈案，邻烛余光不满行。",
+    "鹄箭亲疎虽异的，桂花高下一般香。",
+    "明时公道还堪信，莫遣锥锋久在囊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c10a1168-f269-43a4-98a9-4a809cd207fc"
+}

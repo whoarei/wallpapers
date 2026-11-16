@@ -1,0 +1,16 @@
+{
+  "id": "poem-1c6d0e1a754d417b1cf382b9",
+  "title": "送李补阙归朝",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "驷马归咸秦，双凫出海门。",
+    "还从清切禁，再沐圣明恩。",
+    "礼乐中朝贵，文章大雅存。",
+    "江湖多放逸，献替欲谁论。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-991d5c5b-acb7-43c9-8389-24e4e32c1c05"
+}

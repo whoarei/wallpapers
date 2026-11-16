@@ -1,0 +1,14 @@
+{
+  "id": "poem-40f1da33dd9cf58462daafc2",
+  "title": "新水令",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(外怒科，外)九重天听望垂慈，主君贤谏臣须直。",
+    "事当言敢自欺？既为官要尽臣职。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2861",
+  "tags": []
+}

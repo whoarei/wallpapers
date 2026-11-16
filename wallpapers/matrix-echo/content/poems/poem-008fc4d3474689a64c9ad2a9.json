@@ -1,0 +1,15 @@
+{
+  "id": "poem-008fc4d3474689a64c9ad2a9",
+  "title": "惜别",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "细雨妆行色，霏霏入户来。",
+    "须知相识喜，却是别愁媒。",
+    "白刃方盈国，黄金不上台。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-489d38f5-329b-4627-a6e1-8c521ae187a6"
+}

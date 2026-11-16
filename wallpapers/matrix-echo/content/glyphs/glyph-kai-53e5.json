@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53e5",
+  "script": "kai",
+  "character": "句",
+  "reading": "jù；gōu",
+  "description": "jù：(1)由词组成的能表示出一个完整意思的话～子。～法。\n(2)量词，用于语言三～话不离本行（háng）。\n〔～读（dòu）〕古代称文词停顿的地方为句”或读”。\ngōu：〔高～骊〕古国名，即高丽”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-句"
+}

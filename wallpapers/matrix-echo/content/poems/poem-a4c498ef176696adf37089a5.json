@@ -1,0 +1,14 @@
+{
+  "id": "poem-a4c498ef176696adf37089a5",
+  "title": "谢韩监芍药",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "一年春事雨声里，十里扬州梦想边。",
+    "眼底名花烦折赠，君家风物自嫣然。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-ed23aa97-6122-49a5-bf75-c410bc805141"
+}

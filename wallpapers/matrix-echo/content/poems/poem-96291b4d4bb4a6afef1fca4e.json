@@ -1,0 +1,16 @@
+{
+  "id": "poem-96291b4d4bb4a6afef1fca4e",
+  "title": "和常州崔使君咏后庭梅二首 一",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "闻唱梅花落，江南春意深。",
+    "更传千里外，来入越人吟。",
+    "弱干红妆倚，繁香翠羽寻。",
+    "庭中自公日，歌舞向芳阴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-8665cd4a-9bc7-40d8-8ea5-8ac3b866d15c"
+}

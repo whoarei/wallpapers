@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6350",
+  "script": "seal",
+  "character": "捐",
+  "reading": "juān",
+  "description": "juān：(1)舍弃，抛弃～弃。～生。～躯。\n(2)献助～资。～献。～助。募～。\n(3)旧时献钱得官职～官。～纳。\n(4)赋税的一种车～。房～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-捐"
+}

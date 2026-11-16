@@ -1,0 +1,14 @@
+{
+  "id": "poem-b8b9b5d3bcf433872095633f",
+  "title": "奉和圣制幸韦嗣立山庄应制",
+  "author": "赵彦昭",
+  "dynasty": "唐",
+  "verses": [
+    "廊庙心存岩壑中，銮舆瞩在灞城东。",
+    "逍遥自在蒙庄子，汉主徒言河上公。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-e7ba1af6-b990-4faa-aacd-7bfdce317f98"
+}

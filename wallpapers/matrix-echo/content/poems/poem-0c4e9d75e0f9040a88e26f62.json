@@ -1,0 +1,22 @@
+{
+  "id": "poem-0c4e9d75e0f9040a88e26f62",
+  "title": "菩萨蛮·郁孤台下清江水",
+  "author": "辛弃疾",
+  "dynasty": "宋",
+  "verses": [
+    "郁孤台下清江水。",
+    "中间多少行人泪。",
+    "西北是长安。",
+    "可怜无数山。",
+    "青山遮不住。",
+    "毕竟江流去。",
+    "江晚正愁予。",
+    "山深闻鹧鸪。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-211"
+}

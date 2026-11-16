@@ -1,0 +1,16 @@
+{
+  "id": "poem-bea75236cc9e432fa1fce703",
+  "title": "六么令",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "连枝异木，见这坟台，兔走如驯。",
+    "禽虫草木尚怀仁，这一封诏，必因君。",
+    "(合)料天也会相怜悯，料天也会相怜悯。",
+    "(生唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-5272",
+  "tags": []
+}

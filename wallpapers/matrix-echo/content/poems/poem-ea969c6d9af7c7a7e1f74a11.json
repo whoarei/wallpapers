@@ -1,0 +1,14 @@
+{
+  "id": "poem-ea969c6d9af7c7a7e1f74a11",
+  "title": "白雀洞",
+  "author": "吕愿中",
+  "dynasty": "宋",
+  "verses": [
+    "洞中石燕可长生，白雀何因浪得名。",
+    "无限好山难买得，世间奚用孔方兄。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-1bfe8e9b-265a-464a-ac77-1270d6e6e391"
+}

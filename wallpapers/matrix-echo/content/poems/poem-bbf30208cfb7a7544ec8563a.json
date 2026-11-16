@@ -1,0 +1,14 @@
+{
+  "id": "poem-bbf30208cfb7a7544ec8563a",
+  "title": "尾",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "昏昏默默归何处？哽哽咽咽思念你。",
+    "直上嫦娥宫殿里。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8277",
+  "tags": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-bf74d7ee2bd94b0b77e9878a",
+  "title": "玉交枝",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［旦］音容不见，望冥中听奴诉言，甫离怀抱娘恩断，目应怎瞑黄泉。",
+    "谁知继母心太偏，逼奴改嫁相凌贱。",
+    "我那亲娘，孩儿今日出嫁，本待做一碗羹饭与你，料他决不相容。",
+    "苦！莫说羹饭，我要痛哭一场，［合］怕他们闻之见嫌，只得且吞声泪痕如线。",
+    "我的亲娘在日，岂是今日？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8091",
+  "tags": []
+}

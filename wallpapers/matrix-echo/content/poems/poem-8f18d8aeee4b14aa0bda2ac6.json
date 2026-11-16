@@ -1,0 +1,16 @@
+{
+  "id": "poem-8f18d8aeee4b14aa0bda2ac6",
+  "title": "应天长·玉楼春望晴烟灭",
+  "author": "牛峤",
+  "dynasty": "五代",
+  "verses": [
+    "玉楼春望晴烟灭，舞衫斜卷金条脱。",
+    "黄鹂娇啭声初歇，杏花飘尽龙山雪。",
+    "凤钗低赴节，筵上王孙愁绝。",
+    "鸳鸯对含罗结，两情深夜月。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-8"
+}

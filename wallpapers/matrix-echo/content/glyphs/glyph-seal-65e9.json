@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-65e9",
+  "script": "seal",
+  "character": "早",
+  "reading": "zǎo",
+  "description": "zǎo：(1)太阳出来的时候～晨。～晚。\n(2)时间靠前，有一定的时间以前～退。～恋。～慧（幼时聪明）。～衰。～逝（早死）。\n(3)时间在先的，从前～期。～春。～已。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-早"
+}

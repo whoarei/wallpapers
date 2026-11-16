@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7eed",
+  "script": "kai",
+  "character": "续",
+  "reading": "xù",
+  "description": "继续\n⒈连接，接上一段～假。～编。断长～短。\n⒉连接不断连～。继～。延～。\n⒊继承～祖。\n⒋添加将茶～上。肉汤里再～些水。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-续"
+}

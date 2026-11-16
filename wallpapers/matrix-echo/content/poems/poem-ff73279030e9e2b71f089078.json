@@ -1,0 +1,16 @@
+{
+  "id": "poem-ff73279030e9e2b71f089078",
+  "title": "出郊迓客至石塔院憩刘公亭观石笋桥东望郡城南瞻紫帽即事有作",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "春日西郊外，江亭眼界嘉。",
+    "青桐映楼阁，紫帽没烟霞。",
+    "雨过牛耕野，潮回鹭立沙。",
+    "河梁阻携手，空起逝川嗟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-11471af7-7834-412c-87aa-f975274a1125"
+}

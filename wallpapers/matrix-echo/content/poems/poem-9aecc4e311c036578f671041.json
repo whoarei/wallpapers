@@ -1,0 +1,16 @@
+{
+  "id": "poem-9aecc4e311c036578f671041",
+  "title": "望远行·碧砌花光照眼",
+  "author": "李璟",
+  "dynasty": "五代",
+  "verses": [
+    "碧砌花光照眼明，朱扉长日镇长扃。",
+    "馀寒欲去梦难成，炉香烟冷自亭亭。",
+    "辽阳月、秣陵砧，不传消息但传情。",
+    "黄金台下忽然惊，征人归日二毛生！"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-1"
+}

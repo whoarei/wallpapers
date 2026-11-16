@@ -1,0 +1,14 @@
+{
+  "id": "poem-b5edf3d3a3bbfd19a7a6fe86",
+  "title": "颂古三十一首  其七",
+  "author": "释安永",
+  "dynasty": "宋",
+  "verses": [
+    "石火光中验正邪，等闲拈却眼中沙。",
+    "自从不曾少盐酱，敢保渠侬未到家。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-c2584cef-452c-4c4f-9225-5be1acad73c8"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poem-4bc378a975b5d76de1facda6",
+  "title": "句",
+  "author": "殷穆",
+  "dynasty": "唐",
+  "verses": [
+    "藤拂石溪流水净，风来云寺过钟微。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-4d46e4f1-5c3a-436a-b376-7bacb9f4cdf9"
+}

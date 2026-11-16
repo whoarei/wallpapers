@@ -1,0 +1,16 @@
+{
+  "id": "poem-2a01db31abdf3910e1e84dd6",
+  "title": "到长沙月余即上章复丐宫祠以诗陈情寄吕丞相元直",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "衰病投闲不记年，误恩暂到楚江边。",
+    "布宣威德销群盗，循抚疲癃理废田。",
+    "报国固将求尺寸，乞身又欲老林泉。",
+    "归欤晚节知无悔，赖有元台为保全。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-71b8e58f-ba89-4d28-9405-c33388240be8"
+}

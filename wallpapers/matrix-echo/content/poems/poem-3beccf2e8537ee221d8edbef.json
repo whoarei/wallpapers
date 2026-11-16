@@ -1,0 +1,17 @@
+{
+  "id": "poem-3beccf2e8537ee221d8edbef",
+  "title": "丑奴儿・采桑子·珠灯璧月年时节",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "珠灯璧月年时节，织手同携。",
+    "今夕谁知，自拈梅花劝一卮。",
+    "逢人问道归来也，日日佳期。",
+    "管有来时。",
+    "趁得手灯也未迟。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-276",
+  "tags": []
+}

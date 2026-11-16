@@ -1,0 +1,16 @@
+{
+  "id": "poem-6f29219d494cffd61e9d8f2d",
+  "title": "菩萨蛮·惜春春去惊新燠",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "惜春春去惊新燠，粉融轻汗红绵扑。",
+    "妆罢只思眠，江南四月天。",
+    "绿阴帘半揭，此景清幽绝。",
+    "行度竹林风，单衫杏子红。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-185"
+}

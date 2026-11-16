@@ -1,0 +1,14 @@
+{
+  "id": "poem-a1b3df79f63cfa50b6f06f41",
+  "title": "颂古三十一首  其六",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "杀人犹可恕，再犯岂能容。",
+    "贬向无生国，千圣不知踪。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-026b9261-856a-4ce2-ab2d-f181a18e16ea"
+}

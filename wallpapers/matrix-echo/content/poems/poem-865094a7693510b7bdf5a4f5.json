@@ -1,0 +1,18 @@
+{
+  "id": "poem-865094a7693510b7bdf5a4f5",
+  "title": "诗品二十四则 典雅",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "玉壶买春，赏雨茆屋。",
+    "坐中佳士，左右修竹。",
+    "白云初晴，幽鸟相逐。",
+    "眠琴绿阴，上有飞瀑。",
+    "落花无言，人淡如菊。",
+    "书之岁华，其曰可读。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-0d555cb2-83cb-4962-9048-867be0255a3d"
+}

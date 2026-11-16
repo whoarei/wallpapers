@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6874",
+  "script": "seal",
+  "character": "桴",
+  "reading": "fú",
+  "description": "fú：(1)房屋的次栋，即二栋。\n(2)击鼓的槌～鼓相应。\n(3)小竹筏或小木筏。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-桴"
+}

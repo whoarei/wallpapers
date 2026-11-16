@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5339",
+  "script": "kai",
+  "character": "匹",
+  "reading": "pǐ",
+  "description": "pǐ：(1)量词（ａ．指整卷的绸或布；ｂ．指马、骡等）。\n(2)单独～夫（ａ．一个人，泛指平常人，如国家兴亡，～～有责”；ｂ．指无学识、无智谋的人，如～～之勇”）。\n(3)相当，相敌，比得上～敌。～配。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-匹"
+}

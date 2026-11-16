@@ -1,0 +1,16 @@
+{
+  "id": "poem-e4fa208516de4e0772eef9d1",
+  "title": "酬杜使君见寄",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "轧轧复轧轧，更深门未关。",
+    "心疼无所得，诗债若为还。",
+    "露洒一鹤睡，钟余万象闲。",
+    "慙将此时意，明日寄东山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-13a138cd-8e8c-4334-9cc8-03c4149e2ad8"
+}

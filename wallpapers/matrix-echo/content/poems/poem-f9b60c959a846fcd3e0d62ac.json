@@ -1,0 +1,16 @@
+{
+  "id": "poem-f9b60c959a846fcd3e0d62ac",
+  "title": "霁后寄白阁僧",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "苍翠霾高雪，西峰鸟外看。",
+    "久披山衲坏，孤坐石床寒。",
+    "盥手水泉滴，燃灯夜烧残。",
+    "终期老云峤，煮药伴中餐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-806a5f89-fd88-43ea-a54d-3b277fec0e11"
+}

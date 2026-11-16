@@ -1,0 +1,16 @@
+{
+  "id": "poem-19099c1c9d5c5a003343171c",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(小旦)功名事本在天，何必心过虑？且从他得失，任取荣枯。",
+    "为人只恐身无艺。",
+    "暂时间未从心所欲，金埋土，也须会离土。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2915",
+  "tags": []
+}

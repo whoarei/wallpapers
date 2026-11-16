@@ -1,0 +1,16 @@
+{
+  "id": "poem-ade25ad8be47347fa1cdeeb7",
+  "title": "五十",
+  "author": "王梵志",
+  "dynasty": "唐",
+  "verses": [
+    "有德之（一本作「人」。",
+    "）心下，无才意即高。",
+    "但看行滥物，若个是坚（郑本作「坚」。",
+    "）牢。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-f0d92d10-3ccb-4ef8-ac41-f930597c521e"
+}

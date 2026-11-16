@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9ebb",
+  "script": "kai",
+  "character": "麻",
+  "reading": "má",
+  "description": "má：(1)草本植物，种类很多，有大麻”、苎麻”、苘麻”、亚麻”等。茎皮纤维通常亦称麻”，可制绳索、织布～布。～衣。～袋。～绳。～纺。\n(2)指芝麻”～酱。～油。\n(3)像腿、臂被压后的那种不舒服的感觉脚～了。\n(4)感觉不灵，或丧失感觉，引申为思想不敏锐～痹。～醉。～木不仁。\n(5)面部痘瘢，引申指物体表面粗糙～子。\n(6)带细碎斑点的～雀。～蝇。\n(7)喻纷乱～乱。～沸。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-麻"
+}

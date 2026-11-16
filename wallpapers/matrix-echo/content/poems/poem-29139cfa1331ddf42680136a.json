@@ -1,0 +1,14 @@
+{
+  "id": "poem-29139cfa1331ddf42680136a",
+  "title": "春秋战国门 乐羊",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "桮羹忍啜得非忠，巧佞胡为惑主聪。",
+    "盈箧谤书能寝默，中山不是乐羊功。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-65bc738e-d53f-4baa-9024-714ce6a25c02"
+}

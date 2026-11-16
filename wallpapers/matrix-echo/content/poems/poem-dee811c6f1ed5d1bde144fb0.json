@@ -1,0 +1,16 @@
+{
+  "id": "poem-dee811c6f1ed5d1bde144fb0",
+  "title": "送罗判官还寿州幕",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "君章才五色，知尔得家风。",
+    "故里旋归驾，寿春思奉戎。",
+    "天寒长蛇伏，飙烈文虎雄。",
+    "定颂张征虏，桓桓戡难功。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-ccc82c46-f8e8-4870-8ec4-07c89144fa67"
+}

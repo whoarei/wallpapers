@@ -1,0 +1,16 @@
+{
+  "id": "poem-ef7fe7627ef00bb745fed0a8",
+  "title": "郊庙歌辞 享节愍太子庙乐章 迎俎酌献",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "嘉荐有典，至诚莫骞。",
+    "画梁云亘，雕俎星连。",
+    "乐器周列，礼容备宣。",
+    "依稀如在，若未宾天。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-0ff5fdc0-c751-4486-badb-b915f2846d71"
+}

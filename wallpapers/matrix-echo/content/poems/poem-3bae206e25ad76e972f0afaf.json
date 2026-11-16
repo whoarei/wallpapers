@@ -1,0 +1,16 @@
+{
+  "id": "poem-3bae206e25ad76e972f0afaf",
+  "title": "临江仙·金锁重门荒苑静",
+  "author": "鹿虔扆",
+  "dynasty": "五代",
+  "verses": [
+    "金锁重门荒苑静，绮窗愁对秋空。",
+    "翠华一去寂无踪，玉楼歌吹，声断已随风。",
+    "烟月不知人事改，夜阑还照深宫。",
+    "藕花相向野塘中，暗伤亡国，清露泣香红。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-13"
+}

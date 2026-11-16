@@ -1,0 +1,14 @@
+{
+  "id": "poem-b9868822bac7b633dcc9529f",
+  "title": "博头钱",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生)你好忒胡逞！你好不本分！教我争，你有何安稳？(净、丑)不听道，忒煞村！不依教，该受贫。",
+    "(外)算来贫富是前因，皆由命岂由人！。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1827",
+  "tags": []
+}

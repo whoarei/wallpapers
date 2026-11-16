@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-620a",
+  "script": "kai",
+  "character": "戊",
+  "reading": "wù",
+  "description": "wù：天干的第五位，用作顺序第五的代称。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-戊"
+}

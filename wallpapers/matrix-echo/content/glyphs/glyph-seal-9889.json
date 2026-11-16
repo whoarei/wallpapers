@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9889",
+  "script": "seal",
+  "character": "颉",
+  "reading": "jié",
+  "description": "仓颉”上古人名,相传他创造中国文字\n颈项僵直的\n鸟飞而下\n有花纹的缯\n⒉见xié。\n①鸟往上往下飞。\n②不相上下或对抗相互～颃。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-颉"
+}

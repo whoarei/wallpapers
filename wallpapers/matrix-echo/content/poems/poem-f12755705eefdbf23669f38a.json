@@ -1,0 +1,17 @@
+{
+  "id": "poem-f12755705eefdbf23669f38a",
+  "title": "偈",
+  "author": "永安",
+  "dynasty": "唐",
+  "verses": [
+    "汝问西来意，且过遮（《五灯会元》作「这」）边立。",
+    "昨夜三更时，雨打虚空湿。",
+    "电影豁（《五灯会元》作「忽」）然明，不似蚰蜒急。",
+    "（见《景德传灯录》卷二十六、《五灯会元》卷十。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-d0dccdd7-3c91-4041-b3ea-dce0a7fa36bd"
+}

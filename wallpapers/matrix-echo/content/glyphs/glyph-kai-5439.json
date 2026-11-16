@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5439",
+  "script": "kai",
+  "character": "吹",
+  "reading": "chuī",
+  "description": "chuī：(1)合拢嘴唇用力出气～打。～灯（ａ．把灯火吹灭；ｂ．喻人死亡；ｃ．喻失败、垮台）。～毛求疵。～鼓手（ａ．办婚、丧事时吹奏鼓乐的人；ｂ．胡乱吹捧和宣扬别人的人）。～灰之力。\n(2)说大话～牛。～嘘。\n(3)类似吹的动作～拂。风～草动。\n(4)（事情）失败～台。\n(5)消息流传，鼓动宣传鼓～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-吹"
+}

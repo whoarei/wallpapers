@@ -1,0 +1,14 @@
+{
+  "id": "poem-bebc609748a7714bdcee3b34",
+  "title": "漫书五首 一",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "长拟求闲未得闲，又劳行役出秦关。",
+    "逢人渐觉乡音异，却恨莺声似故山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-266f1bd0-a44c-4bbf-b64d-d626e5ebe52e"
+}

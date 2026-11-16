@@ -1,0 +1,18 @@
+{
+  "id": "poem-2493ae16cce4895177dc8dc3",
+  "title": "望江南・忆江南·归去客",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "归去客，迂骑过江乡。",
+    "茅店鸡声寒逗月，板桥人迹晓凝霜。",
+    "一望楚天长。",
+    "春信早，山路野梅香。",
+    "映水酒帘斜扬日，隔林渔艇静鸣榔。",
+    "杳杳下残阳。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-552",
+  "tags": []
+}

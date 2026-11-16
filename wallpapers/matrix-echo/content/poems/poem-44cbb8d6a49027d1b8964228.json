@@ -1,0 +1,16 @@
+{
+  "id": "poem-44cbb8d6a49027d1b8964228",
+  "title": "寓怀",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "万古交驰一片尘，思量名利孰如身。",
+    "长疑好事皆虚事，却恐闲人是贵人。",
+    "老逐少来终不放，辱随荣后直须匀。",
+    "劝君不用夸头角，梦里输赢总未真。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-481de596-c60e-45d1-99d8-b715f46d5bb7"
+}

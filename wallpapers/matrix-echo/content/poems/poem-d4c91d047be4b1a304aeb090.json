@@ -1,0 +1,14 @@
+{
+  "id": "poem-d4c91d047be4b1a304aeb090",
+  "title": "东兴铺二首  其一",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "老人无泪与君啼，梦里相逢路竟迷。",
+    "二十三年崇胜寺，对床今夜是江西。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-1396905e-2e32-46e6-9057-ef4518f213b1"
+}

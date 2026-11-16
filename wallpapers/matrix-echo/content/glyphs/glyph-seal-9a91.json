@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9a91",
+  "script": "seal",
+  "character": "骑",
+  "reading": "qí",
+  "description": "跨于物上或两边叫骑,跨坐\n⒈两腿跨坐在牲畜或其它东西上～马。～驴。～摩托车。\n⒉骑的马或其它牲畜坐～。\n⒊指骑兵轻～。铁～。也泛指骑马的人单～。\n⒋兼跨两边～缝盖章。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-骑"
+}

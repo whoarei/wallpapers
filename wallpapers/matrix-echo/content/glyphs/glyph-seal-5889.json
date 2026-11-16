@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5889",
+  "script": "seal",
+  "character": "墉",
+  "reading": "yōng",
+  "description": "yōng：(1)城墙～垣。\n(2)高墙谁谓鼠无牙？何以穿我～！”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-墉"
+}

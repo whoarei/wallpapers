@@ -1,0 +1,14 @@
+{
+  "id": "poem-3e2c7c45fb6803bea05a2d2f",
+  "title": "浣溪沙·兰沐初休曲槛前",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "兰沐初休曲槛前，缓风迟日洗头天，湿云新敛未梳蝉。",
+    "翠袂半将遮粉臆，宝钗长欲坠香肩，此时模样不禁怜。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-7-juan.json#record-42"
+}

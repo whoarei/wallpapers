@@ -1,0 +1,20 @@
+{
+  "id": "poem-910a5f7b7d4b2e8bd382ce6b",
+  "title": "苦雨",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "有足不下楼，有耳祇听雨。",
+    "一日不可耐，忽忽弥旬所。",
+    "轩盖断还往，尸居成独语。",
+    "日色似见慰，云气复如许。",
+    "西湖梅柳月，裘马趁箫鼓。",
+    "细追他日梦，一笑念缚虎。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "西湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-dac2c551-5c38-4307-9647-aade0bc2f34c"
+}

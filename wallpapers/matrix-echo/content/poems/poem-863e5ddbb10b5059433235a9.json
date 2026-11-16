@@ -1,0 +1,21 @@
+{
+  "id": "poem-863e5ddbb10b5059433235a9",
+  "title": "品令·露晞烟静",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "露晞烟静。",
+    "寂寥转、梧桐寒影。",
+    "天际历历征鸿近。",
+    "被风吹散，声断无行阵。",
+    "秋思客怀多少恨。",
+    "谩厌厌谁问。",
+    "晕残兰炧香消印。",
+    "梦魂长定。",
+    "愁伴更筹尽。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-568",
+  "tags": []
+}

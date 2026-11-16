@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7709",
+  "script": "kai",
+  "character": "眉",
+  "reading": "méi",
+  "description": "méi：(1)眼上额下的毛～毛。～宇（两眉上面的地方）。～心。～目。～寿（长寿）。～睫。扬～吐气。\n(2)书页上端的空白书～。～批。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-眉"
+}

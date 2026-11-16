@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-82ad",
+  "script": "kai",
+  "character": "芭",
+  "reading": "bā",
+  "description": "bā：古书上说的一种香草。\n〔～蕉〕ａ．多年生草本植物，叶宽大，叶柄一层一层紧裹着茎。叶和茎的纤维可编绳索；ｂ．这种植物的果实，跟香蕉相似。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芭"
+}

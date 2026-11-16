@@ -1,0 +1,18 @@
+{
+  "id": "poem-c017724bd3ab571b99611ed2",
+  "title": "临江仙·新月低垂帘额",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "新月低垂帘额，小梅半出檐牙。",
+    "高堂开燕静无哗。",
+    "麟孙凤女，学语正咿呀。",
+    "宝鼎剩熏沈水，琼彝烂醉流霞。",
+    "芗林同老此生涯。",
+    "一川风露，总道是仙家。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-137",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4efd",
+  "script": "seal",
+  "character": "份",
+  "reading": "fèn；bīn",
+  "description": "fèn：(1)整体里的一部～额。～饭。股～。\n(2)量词指成组、成件的一～儿报纸。\n(3)用在省、县、年、月”后面，表示划分的单位省～。月～。\nbīn：古同彬”，文质兼备。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-份"
+}

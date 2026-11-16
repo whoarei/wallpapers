@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-779f",
+  "script": "seal",
+  "character": "瞟",
+  "reading": "piǎo",
+  "description": "piǎo：斜着眼睛看用眼～他。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瞟"
+}

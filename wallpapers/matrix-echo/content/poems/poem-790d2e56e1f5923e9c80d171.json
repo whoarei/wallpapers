@@ -1,0 +1,14 @@
+{
+  "id": "poem-790d2e56e1f5923e9c80d171",
+  "title": "宿棣华馆闻雁",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "不堪旅宿棣花馆，况有离群鸿雁声。",
+    "一点秋灯残影下，不知寒梦几回惊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-24a814fd-1ab9-4929-8ef5-e04ca850144e"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-5a3f9a130a1dcb5568078c5c",
+  "title": "秋月",
+  "author": "程颢",
+  "dynasty": "宋",
+  "verses": [
+    "清溪流过碧山头，空水澄鲜一色秋。",
+    "隔断红尘三十里，白云红叶两悠悠。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-秋月"
+}

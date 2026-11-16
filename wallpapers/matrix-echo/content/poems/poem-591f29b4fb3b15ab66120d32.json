@@ -1,0 +1,15 @@
+{
+  "id": "poem-591f29b4fb3b15ab66120d32",
+  "title": "画猿",
+  "author": "孙嵩",
+  "dynasty": "宋",
+  "verses": [
+    "客子平生三峡游，青猿树树悬高秋。",
+    "归来落笔成天趣，中传蜀月巴云意。",
+    "如何猿叫驿边时，只欠行人唱竹枝。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-5e4292bd-1ddf-4a80-80f4-331f4286c824"
+}

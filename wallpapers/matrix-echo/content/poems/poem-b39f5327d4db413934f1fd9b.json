@@ -1,0 +1,16 @@
+{
+  "id": "poem-b39f5327d4db413934f1fd9b",
+  "title": "北海题渚宫",
+  "author": "窦俨",
+  "dynasty": "唐",
+  "verses": [
+    "纪南南望水城宽，水色天光混一般。",
+    "大抵江乡足诗景，咏吟如把画图看。",
+    "（见《舆地纪胜》卷六五《江陵府》。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-453c1257-d259-4482-9eb8-2674e5f17b79"
+}

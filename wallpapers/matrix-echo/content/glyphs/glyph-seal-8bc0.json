@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bc0",
+  "script": "seal",
+  "character": "诀",
+  "reading": "jué",
+  "description": "早知诀汝。\n通决”。自杀\n⒈辞别，多指长别，永别与母～。～别。永～。\n⒉窍门，高明的办法～窍。这是秘～。她有妙～。\n⒊使用事物的主要内容编成顺口的便于记忆的词句编口～。写歌～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-诀"
+}

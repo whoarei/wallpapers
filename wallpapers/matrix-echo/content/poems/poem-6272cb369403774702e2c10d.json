@@ -1,0 +1,17 @@
+{
+  "id": "poem-6272cb369403774702e2c10d",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［外］幽闲，食可加餐。",
+    "官无事扰，情怀并没愁烦。",
+    "人老花残，于心尚有相关。",
+    "待招赘百岁姻亲，承继我一脉根蔓。",
+    "［合前］。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8032",
+  "tags": []
+}

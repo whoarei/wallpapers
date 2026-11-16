@@ -1,0 +1,20 @@
+{
+  "id": "poem-4096af900d9eb4d41a2e4cbe",
+  "title": "题泗州刘中丞郡中新楼。",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "一槛构庭上，临川望益崇。",
+    "朗怀披夏日，高啸得清风。",
+    "紫府须黄霸，青山属谢公。",
+    "夜声闻动草，春意觉抽丛。",
+    "野迥云初白，天寒树间红。",
+    "月华深委素，淮色逈流空。",
+    "暮雨佳人到，良辰乐事同。",
+    "更怜初渡水，先咏子来工。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c98078a0-ace6-4b84-aaf9-d25914d4accd"
+}

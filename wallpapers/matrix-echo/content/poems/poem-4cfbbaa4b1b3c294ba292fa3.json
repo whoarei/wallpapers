@@ -1,0 +1,17 @@
+{
+  "id": "poem-4cfbbaa4b1b3c294ba292fa3",
+  "title": "前腔",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(生、旦)苦不苦。",
+    "从头至足，衣衫皆褴褛。",
+    "难同他往来客旅。",
+    "(众)你不与，我施威仗勇，轮动刀和斧。",
+    "激得人忿心发怒。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2958",
+  "tags": []
+}

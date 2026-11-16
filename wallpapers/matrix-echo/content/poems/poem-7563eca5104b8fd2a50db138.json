@@ -1,0 +1,20 @@
+{
+  "id": "poem-7563eca5104b8fd2a50db138",
+  "title": "正日临朝",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "条风开献节，灰律动初阳。",
+    "百蛮奉遐賮，万国朝未央。",
+    "虽无舜禹迹，幸欣天地康。",
+    "车轨同八表，书文混四方。",
+    "赫奕俨冠盖，纷纶盛服章。",
+    "羽旄飞驰道，钟鼓震岩廊。",
+    "组练辉霞色，霜戟耀朝光。",
+    "晨宵怀至理，终媿抚遐荒。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-bb81eac8-221c-4d0a-89d7-aa4c0f01d8a1"
+}

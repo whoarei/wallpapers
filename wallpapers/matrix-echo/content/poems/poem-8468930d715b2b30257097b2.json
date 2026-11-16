@@ -1,0 +1,14 @@
+{
+  "id": "poem-8468930d715b2b30257097b2",
+  "title": "闲游",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "老身不计人间事，野寺秋晴每独过。",
+    "病眼校来犹断酒，却嫌行处菊花多。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-e7818efd-615f-4df7-bd23-3cfefcba3cdc"
+}

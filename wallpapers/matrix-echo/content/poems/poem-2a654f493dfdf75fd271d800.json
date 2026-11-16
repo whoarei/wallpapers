@@ -1,0 +1,20 @@
+{
+  "id": "poem-2a654f493dfdf75fd271d800",
+  "title": "淮上喜会梁川故人",
+  "author": "韦应物",
+  "dynasty": "唐",
+  "verses": [
+    "江汉曾为客，相逢每醉还。",
+    "浮云一别后，流水十年间。",
+    "欢笑情如旧，萧疎鬓已斑。",
+    "何因北归去，淮上对秋山。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "友情",
+    "五言律诗"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a68013c8-4630-41c6-a5ee-a658b57f58fe"
+}

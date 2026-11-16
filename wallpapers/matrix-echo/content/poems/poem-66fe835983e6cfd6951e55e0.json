@@ -1,0 +1,16 @@
+{
+  "id": "poem-66fe835983e6cfd6951e55e0",
+  "title": "林主簿明仲挽词  其二",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "一箭双雕手，青衫已白头。",
+    "砚几磨铁尽，官止及瓜休。",
+    "漏断鄞江梦，风含曲水愁。",
+    "钧天记白玉，麈世冷西楼。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-237c187d-b53a-4e26-b60e-6c552626a549"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6591",
+  "script": "kai",
+  "character": "斑",
+  "reading": "bān",
+  "description": "bān：一种颜色中夹杂的别种颜色的点子或条纹～点。～纹。～斓。雀～。～秃。～白。～竹。～驳（色彩错落）。管中窥豹，可见一～（喻从看到的一部分，推测全貌）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-斑"
+}

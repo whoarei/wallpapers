@@ -1,0 +1,16 @@
+{
+  "id": "poem-a3c7544b7f2e7c807180857b",
+  "title": "浆水令",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "你当初不听我们，到如今被他负恩。",
+    "［外］世间谁是预知人，何须斗口与我相争？［丑］都忍耐，听解纷，家必自毁令人晒。",
+    "［合］寻思起教人气忿。",
+    "谁知道，谁知道恁般不仁。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8194",
+  "tags": []
+}

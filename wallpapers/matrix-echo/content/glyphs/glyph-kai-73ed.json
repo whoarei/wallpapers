@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-73ed",
+  "script": "kai",
+  "character": "班",
+  "reading": "bān",
+  "description": "bān：(1)一群人按次序排成的行列排～。按部就～。\n(2)工作或学习的组织～组。～级。～长。～主任。领～。\n(3)军队编制中的基层单位，在排”以下。\n(4)工作按时间分成的段落，亦指工作场所早～。下～。值～。～房。\n(5)定时开行（xíng）的～车。～机。～期。\n(6)量词（a.用于人群，如这～人真能干”；b.用于定时开行的交通运输工具，如他搭下一～飞机走”）。\n(7)调回或调动（军队）～师。～兵。\n(8)古同斑”，杂色。\n(9)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-班"
+}

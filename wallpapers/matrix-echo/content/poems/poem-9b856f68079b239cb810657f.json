@@ -1,0 +1,16 @@
+{
+  "id": "poem-9b856f68079b239cb810657f",
+  "title": "湖外送何崇入阁",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "因诗相识久，忽此告临途。",
+    "便是有船发，也须容市沽。",
+    "精吟五个字，稳泛两重湖。",
+    "长短逢公道，清名振帝都。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-0b710d4a-a537-4ac6-96fd-c327adbfbfb1"
+}

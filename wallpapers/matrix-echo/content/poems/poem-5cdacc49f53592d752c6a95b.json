@@ -1,0 +1,14 @@
+{
+  "id": "poem-5cdacc49f53592d752c6a95b",
+  "title": "白发",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "白发千梳昼景暄，乌瓶一啜夜窗寒。",
+    "庙堂勤苦茅斋静，不见人心是两般。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-e0c79198-8c7e-4132-b971-86f4a923c690"
+}

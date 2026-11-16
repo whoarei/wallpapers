@@ -1,0 +1,16 @@
+{
+  "id": "poem-862e4431338b16a28b97a61b",
+  "title": "十诗谢廖计使  其五",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "我生守荒学，意造无根蔕。",
+    "时时写所蕴，致远终恐泥。",
+    "小劳斲鼻巧，霜风扫氛翳。",
+    "一言可终身，万金宁良惠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-cf0771a3-ef47-44e4-b791-415cdda97f5b"
+}

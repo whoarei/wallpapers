@@ -1,0 +1,18 @@
+{
+  "id": "poem-081c8dccf6bb2bd2217629d3",
+  "title": "龟虽寿",
+  "author": "曹操",
+  "dynasty": "汉",
+  "verses": [
+    "神龟虽寿，犹有竟时。",
+    "腾蛇乘雾，终为土灰。(腾一作：螣)。",
+    "老骥伏枥，志在千里。",
+    "烈士暮年，壮心不已。",
+    "盈缩之期，不但在天；养怡之福，可得永年。",
+    "幸甚至哉，歌以咏志。"
+  ],
+  "enabled": true,
+  "collection": "曹操诗集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/曹操诗集/caocao.json#record-5"
+}

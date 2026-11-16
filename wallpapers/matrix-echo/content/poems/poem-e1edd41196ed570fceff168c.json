@@ -1,0 +1,14 @@
+{
+  "id": "poem-e1edd41196ed570fceff168c",
+  "title": "了语",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "扫却烟尘寇初勦，深水高林放鱼鸟。",
+    "鸡人唱绝残漏晓，仙乐拍终天悄悄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-71c886d4-010e-48eb-ade3-d6bef06a89a3"
+}

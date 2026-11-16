@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6768",
+  "script": "seal",
+  "character": "杨",
+  "reading": "yáng",
+  "description": "杨柳科杨属植物的泛称\n⒈比海更大的水域太平～。大西～。\n⒊充满，盛大～溢。\n①水大河水～ ～。〈引〉盛大，众多～ ～万言。\n②美好，高兴得意喜～ ～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-杨"
+}

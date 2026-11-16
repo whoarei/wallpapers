@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7618",
+  "script": "seal",
+  "character": "瘘",
+  "reading": "lòu",
+  "description": "颈肿大的病。即颈部淋巴结核\n瘘管\n瘘lǘ 1.佝偻，驼背。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-瘘"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-6697f3d15496d385503605b9",
+  "title": "采莲子·菡萏香莲十顷陂",
+  "author": "皇甫松",
+  "dynasty": "唐",
+  "verses": [
+    "菡萏香莲十顷陂（举棹），小姑贪戏采莲迟（年少）。",
+    "晚来弄水船头湿（举棹），更脱红裙裹鸭儿（年少）。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-26",
+  "tags": []
+}

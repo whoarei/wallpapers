@@ -1,0 +1,16 @@
+{
+  "id": "poem-01b347a0b6894a8526b8ac31",
+  "title": "颂三首 三",
+  "author": "省澄",
+  "dynasty": "唐",
+  "verses": [
+    "吴坂当年塔未开，宋云葱岭见师回。",
+    "手携只履分明个，后代如何密荐来。",
+    "（见《祖堂集》卷十三。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-eab4fc15-2306-4cc8-b680-4912ca7f6b2d"
+}

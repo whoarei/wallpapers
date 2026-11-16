@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5347",
+  "script": "kai",
+  "character": "升",
+  "reading": "shēng",
+  "description": "shēng：(1)容量单位。\n(2)量粮食的器具。\n(3)向上，高起，提高～力（亦称举力”）。～格。～华（ａ．固态物质直接变为气；ｂ．喻事物的提高和精炼）。～迁。～值。～堂入室（喻人的学问造诣由浅入深，循序渐进，达到精深）。晋～。提～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-升"
+}

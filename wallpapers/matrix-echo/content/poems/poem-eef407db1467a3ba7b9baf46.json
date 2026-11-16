@@ -1,0 +1,14 @@
+{
+  "id": "poem-eef407db1467a3ba7b9baf46",
+  "title": "开岁连日有阴雨  其一",
+  "author": "孙嵩",
+  "dynasty": "宋",
+  "verses": [
+    "老杜诗章五百年，为吾替写早春篇。",
+    "恰从元日逾人日，重有阴阴冷落天。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-fe101163-bf4b-4e6f-bb52-561fbc3d179e"
+}

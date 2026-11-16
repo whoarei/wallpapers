@@ -1,0 +1,14 @@
+{
+  "id": "poem-3fa8d935cd2d29bd46ec98f0",
+  "title": "留题兴唐寺",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "满水楼台满寺山，七年今日共跻攀。",
+    "月高对菊问行客，去折芳枝早晚还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-0376ad8f-cf2c-4088-93e3-482c8395e20e"
+}

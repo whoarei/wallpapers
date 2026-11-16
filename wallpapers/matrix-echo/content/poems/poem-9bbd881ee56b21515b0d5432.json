@@ -1,0 +1,17 @@
+{
+  "id": "poem-9bbd881ee56b21515b0d5432",
+  "title": "越调/斗鹌鹑",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "看了些日月盈亏，山河变迁。",
+    "灌口把威施，天涯将姓显。",
+    "郭压直把皂鹰擎，金头奴将细狗牵。",
+    "背着弓弩，挟着弹丸。",
+    "濯锦江头，连云栈边。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4525",
+  "tags": []
+}

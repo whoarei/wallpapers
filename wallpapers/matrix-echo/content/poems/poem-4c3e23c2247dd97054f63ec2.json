@@ -1,0 +1,19 @@
+{
+  "id": "poem-4c3e23c2247dd97054f63ec2",
+  "title": "投韩员外六韵",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "见说韩员外，声华溢九垓。",
+    "大川舟欲济，荒草路初开。",
+    "耸地千浔壁，（「千浔」，疑应作「千寻」。",
+    "）森云百丈材。",
+    "狂波心上涌，骤雨笔前来。",
+    "后学无人誉，先贤亦自媒。",
+    "还闻孔融表，曾荐祢衡才。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-6e1b8a95-ee7c-465b-b0c0-d2e16a9242eb"
+}

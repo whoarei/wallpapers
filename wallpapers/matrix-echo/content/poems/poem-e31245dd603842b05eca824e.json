@@ -1,0 +1,16 @@
+{
+  "id": "poem-e31245dd603842b05eca824e",
+  "title": "女冠子·蕙风芝露",
+  "author": "孙光宪",
+  "dynasty": "五代",
+  "verses": [
+    "蕙风芝露，坛际残香轻度。",
+    "蕊珠宫，苔点分圆碧，桃花践破红。",
+    "品流巫峡外，名籍紫微中。",
+    "真侣墉城会，梦魂通。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-8-juan.json#record-23"
+}

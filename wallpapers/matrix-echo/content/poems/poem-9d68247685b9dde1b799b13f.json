@@ -1,0 +1,17 @@
+{
+  "id": "poem-9d68247685b9dde1b799b13f",
+  "title": "锦衣香",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［末］夫性聪，才堪重；妇有容，德堪重，天生美质奇才，彩驾丹凤。",
+    "［生］自惭非是汉梁鸿，何当富室，配着孤穷。",
+    "［旦］念妾非孟光，奉亲命遣侍明公。",
+    "今日同欢共，蓝田玉曾修种。",
+    "夫和妇睦，琴调瑟弄。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8107",
+  "tags": []
+}

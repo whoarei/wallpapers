@@ -1,0 +1,16 @@
+{
+  "id": "poem-773d18939facb7f22af6b88a",
+  "title": "虞美人·金笼莺报天将曙",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "金笼莺报天将曙，惊起分飞处。",
+    "夜来潜与玉郎期，多情不觉酒醒迟，失归期。",
+    "映花避月遥相送，腻髻偏凤。",
+    "欲回娇步入香闺，倚屏无语捻云篦，翠眉低。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-47"
+}

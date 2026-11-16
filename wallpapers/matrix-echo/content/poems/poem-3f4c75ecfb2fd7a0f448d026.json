@@ -1,0 +1,13 @@
+{
+  "id": "poem-3f4c75ecfb2fd7a0f448d026",
+  "title": "潜",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "猗与漆沮，潜有多鱼。有鳣有鲔，鲦鲿鰋鲤。以享以祀，以介景福。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-280"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6ccc",
+  "script": "kai",
+  "character": "泌",
+  "reading": "mì；bì",
+  "description": "mì：从生物体内产生出某种物质，流质由细孔渗透出来分～。～尿。～乳。\nbì：泉流轻快的样子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-泌"
+}

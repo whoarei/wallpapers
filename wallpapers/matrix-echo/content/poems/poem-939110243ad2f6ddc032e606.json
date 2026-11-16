@@ -1,0 +1,14 @@
+{
+  "id": "poem-939110243ad2f6ddc032e606",
+  "title": "元正  其一",
+  "author": "王柏",
+  "dynasty": "宋",
+  "verses": [
+    "开正又展一年期，霞脸醺醺酒半巵。",
+    "独坐晴窗无一事，呼童和墨写梅诗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-79e72e87-88c9-4966-b3db-d6a3c7e93619"
+}

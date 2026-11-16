@@ -1,0 +1,16 @@
+{
+  "id": "poem-ef2eccb321753ad62235c932",
+  "title": "次毕将叔韵寄寿阳三首  其二",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "苦竹湓江宅，黄山秋浦亭。",
+    "猿声作头白，客泪对衫青。",
+    "笑尔悲凫胫，知吾寄水萍。",
+    "时时頼严尹，小队出郊坰。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-67888377-07d1-420d-99ef-2855e47ebec7"
+}

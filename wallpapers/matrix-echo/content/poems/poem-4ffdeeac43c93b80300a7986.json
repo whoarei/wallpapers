@@ -1,0 +1,14 @@
+{
+  "id": "poem-4ffdeeac43c93b80300a7986",
+  "title": "题观音石壁",
+  "author": "绍兴卜者",
+  "dynasty": "宋",
+  "verses": [
+    "金紫玉青世所稀，牡丹花下探天机。",
+    "仙游秀水真消息，身傍御炉香满衣。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-06b89609-31fa-4624-95b6-c6030e5dc9ed"
+}

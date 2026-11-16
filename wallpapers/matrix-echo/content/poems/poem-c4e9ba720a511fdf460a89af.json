@@ -1,0 +1,16 @@
+{
+  "id": "poem-c4e9ba720a511fdf460a89af",
+  "title": "西溪次韵九首  其二",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "携手西溪陌，懽颜共举觞。",
+    "云山满目静，风月一襟凉。",
+    "但得杯中玉，那知鬓后霜。",
+    "何妨击尊破，故作听歌长。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-3066979f-c78d-42ff-a82f-f0b361d5201c"
+}

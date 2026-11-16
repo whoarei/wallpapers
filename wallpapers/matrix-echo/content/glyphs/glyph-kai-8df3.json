@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8df3",
+  "script": "kai",
+  "character": "跳",
+  "reading": "tiào；táo",
+  "description": "tiào：(1)两脚离地全身向上或向前的动作～跃。～水。～荡。～踧。～高。～远。～舞。弹（tán）～。暴～如雷。～梁小丑（指上蹿下跳，兴风作浪的微不足道的坏人）。\n(2)越过～班。～棋。～槽。\n(3)一起一伏地动心～。眼～。心惊肉～。\ntáo：古同逃”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-跳"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5bb3",
+  "script": "kai",
+  "character": "害",
+  "reading": "hài",
+  "description": "hài：(1)有损的，与益”相对～虫。～鸟。\n(2)引起灾难的人或事物，坏处～处。祸～。灾～。为民除～。\n(3)使受损伤～人。损～。伤～。危～。\n(4)发生疾病～眼。\n(5)心理上发生不安定情绪～羞。～怕。\n(6)杀死杀～。遇～。\n(7)妒忌上官大夫与之同列，争宠而心～其能”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-害"
+}

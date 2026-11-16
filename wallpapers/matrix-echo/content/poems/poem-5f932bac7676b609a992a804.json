@@ -1,0 +1,14 @@
+{
+  "id": "poem-5f932bac7676b609a992a804",
+  "title": "郊庙歌辞 享太庙乐章 同和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "惟圣配天敷盛礼，惟天为大阐洪名。",
+    "恭禋展敬光先德，苹藻申虔表志诚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-2e25e2a4-0a40-4306-86dd-43430565e2b5"
+}

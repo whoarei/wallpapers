@@ -1,0 +1,20 @@
+{
+  "id": "poem-4ce59bb13d52aa84cf0c5d11",
+  "title": "阮郎归·小舟载酒向平湖",
+  "author": "米友仁",
+  "dynasty": "宋",
+  "verses": [
+    "小舟载酒向平湖。",
+    "新凉生晓初。",
+    "乱山烟外有还无。",
+    "王维真画图。",
+    "风遽起，动襟裾。",
+    "雨来荷溅珠。",
+    "一尊相对喜君俱。",
+    "醉归红袖扶。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-52",
+  "tags": []
+}

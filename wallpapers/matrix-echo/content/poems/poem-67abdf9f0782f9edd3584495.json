@@ -1,0 +1,14 @@
+{
+  "id": "poem-67abdf9f0782f9edd3584495",
+  "title": "捣练子·云鬓乱",
+  "author": "李煜",
+  "dynasty": "五代",
+  "verses": [
+    "云鬓乱，晚妆残，带恨眉儿远岫攒。",
+    "斜托香腮春笋嫩，为谁和泪倚栏杆。"
+  ],
+  "enabled": true,
+  "collection": "南唐二主词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/nantang/poetrys.json#record-42"
+}

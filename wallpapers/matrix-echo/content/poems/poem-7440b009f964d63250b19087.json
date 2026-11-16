@@ -1,0 +1,16 @@
+{
+  "id": "poem-7440b009f964d63250b19087",
+  "title": "郊庙歌辞 祀九宫贵神乐章 豫和 六",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "崇崇泰坛，灵具临兮。",
+    "铿锽大乐，振动心兮。",
+    "神之降矣，卿云郁兮。",
+    "神之至止，清风肃兮。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-73235558-2399-4730-b8d9-d7dafb45ac29"
+}

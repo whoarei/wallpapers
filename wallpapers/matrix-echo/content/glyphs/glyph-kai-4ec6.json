@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4ec6",
+  "script": "kai",
+  "character": "仆",
+  "reading": "pú；pū",
+  "description": "pū：向前跌倒～倒。前～后继。\n奴；\n主；\n（僿）\npú：(1)被人雇佣差遣服务的人，与主”相对～人。～从。\n(2)旧谦称我”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-仆"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b076c971ed01770ae2ff9506",
+  "title": "赋得有所思",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "所思何在杳难寻，路远山长水复深。",
+    "衰草满庭空伫立，清风吹袂更长吟。",
+    "忘情好醉青田酒，寄恨宜调绿绮琴。",
+    "落日鲜云偏聚散，可能知我独伤心。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-e0ad75a4-79e4-4b73-b7b8-15eb1c0b7568"
+}

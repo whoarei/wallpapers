@@ -1,0 +1,14 @@
+{
+  "id": "poem-3570ebcbca44399778c528d5",
+  "title": "招玉川子咏新文",
+  "author": "徐希仁",
+  "dynasty": "唐",
+  "verses": [
+    "清气宿我心，结为清泠音。",
+    "一夜吟不足，君来相和吟。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-658a51ea-a071-4fdb-b6f2-1d356b199e44"
+}

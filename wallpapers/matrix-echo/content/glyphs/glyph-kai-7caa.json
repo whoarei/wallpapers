@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7caa",
+  "script": "kai",
+  "character": "粪",
+  "reading": "fèn",
+  "description": "施肥\n屎,粪便\n⒈屎，大便～便。\n⒉施肥～地。～田。\n⒊扫除～除。\n【粪土】粪便和泥土。〈喻〉不值钱的东西，含有蔑视～土当年万户侯。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-粪"
+}

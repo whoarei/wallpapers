@@ -1,0 +1,16 @@
+{
+  "id": "poem-4d649314141541853d952fed",
+  "title": "和杨卿中秋月",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "秋气平分夜，沈阴乍散天。",
+    "窥林初淡薄，照席忽孤圆。",
+    "泠入诗毫健，光浮醉弁偏。",
+    "嘉宾勿轻去，桂影正姢姢。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-157bad13-6ad7-4154-b35f-0afc69a6ffcc"
+}

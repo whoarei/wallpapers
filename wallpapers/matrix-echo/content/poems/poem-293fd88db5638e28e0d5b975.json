@@ -1,0 +1,17 @@
+{
+  "id": "poem-293fd88db5638e28e0d5b975",
+  "title": "宛转行",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "华屋重翠幄，绮席雕象床。",
+    "远漏微更疎，薄衾中夜凉。",
+    "炉气暗裴徊，寒灯背斜光。",
+    "妍姿结宵态，寝臂幽梦长。",
+    "宛转复宛转，忆君更未央。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-a002dfd5-85f1-451e-aff2-9971432d0a23"
+}

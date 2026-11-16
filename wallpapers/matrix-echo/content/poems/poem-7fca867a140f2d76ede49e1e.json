@@ -1,0 +1,16 @@
+{
+  "id": "poem-7fca867a140f2d76ede49e1e",
+  "title": "郊庙歌辞 梁郊祀乐章 庆休",
+  "author": "赵光逢、张衮",
+  "dynasty": "唐",
+  "verses": [
+    "大业来四夷，仁风和万国。",
+    "白日体无私，皇天辅有德。",
+    "七旬罪已服，六月师方克。",
+    "伟哉帝道隆，终始常作则。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-a4ed9fc0-2f60-4076-bdc6-10647b93bb3a"
+}

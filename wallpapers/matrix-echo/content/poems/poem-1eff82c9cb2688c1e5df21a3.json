@@ -1,0 +1,15 @@
+{
+  "id": "poem-1eff82c9cb2688c1e5df21a3",
+  "title": "同前",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "谁知命运遭乖蹇，今朝受刑宪。",
+    "免教受扌朋扒，感恩即非浅。",
+    "(和同前)(净)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8645",
+  "tags": []
+}

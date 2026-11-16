@@ -1,0 +1,14 @@
+{
+  "id": "poem-58f245e4eedebe2e1ba747fe",
+  "title": "送神",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "神之去，回风袅袅云容与。",
+    "桂尊瑶席不复陈，苍山绿水暮愁人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-96d11aa0-418d-4fb9-a31c-248cb6edb341"
+}

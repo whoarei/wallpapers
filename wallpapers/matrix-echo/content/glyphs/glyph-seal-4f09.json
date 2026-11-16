@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f09",
+  "script": "seal",
+  "character": "伉",
+  "reading": "kàng",
+  "description": "kàng：(1)对等、相称～俪（指配偶、夫妇）。～礼。\n(2)正直、刚直～直。～行（xíng）（高尚的行为）。\n(3)古同抗”，对等。\n(4)古同闶”，高大。\n(5)骄纵，傲慢太子轻而庶子～”。～厉（高傲，凌厉）。\n(6)强健～健。\n(7)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-伉"
+}

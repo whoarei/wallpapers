@@ -1,0 +1,20 @@
+{
+  "id": "poem-e4754388d007dd9f39e9f9d8",
+  "title": "叙事寄荐福栖白",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "险倚石屏风，秋涛梦越中。",
+    "前朝吟会散，故国讲流终。",
+    "北地闻巴狖，南山见碛鸿。",
+    "楼高惊雨阔，木落觉城空。",
+    "兔满期姚监，蝉稀别楚公。",
+    "净缾光照客，拄杖朽生虫。",
+    "平地塔千尺，半空灯一笼。",
+    "祝尧谈几句，旋泻海涛东。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8f84a4f0-2c45-4e99-85a9-dcb7eb6ffcad"
+}

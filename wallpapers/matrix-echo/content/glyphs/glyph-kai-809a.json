@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-809a",
+  "script": "kai",
+  "character": "肚",
+  "reading": "dù；dǔ",
+  "description": "dù：(1)腹部，胸下腿上的部分，亦指人的肠胃部分～子。～胁。～皮。牵肠挂～（挂念，不放心）。\n(2)器物下面的中心部分炉～儿。\n(3)圆而凸起像肚子的腿～子。手指头～儿。\ndǔ：供食用的动物的胃猪～子。羊～儿。烩～丝。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-肚"
+}

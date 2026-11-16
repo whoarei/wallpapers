@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6e0d",
+  "script": "seal",
+  "character": "渍",
+  "reading": "zì",
+  "description": "冲洗\n沾染\n飞毛遍绿野,洒血渍芳丛。\n⒈浸，泡～豆。～麻。淹～。\n⒉染渐～。\n⒊积水～水。排～。\n⒋积在物体上难于除去的油、泥、污垢等油～。墨～。\n渍sè 1.雨或泪洒落。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-渍"
+}

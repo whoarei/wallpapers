@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5a46",
+  "script": "kai",
+  "character": "婆",
+  "reading": "pó",
+  "description": "pó：(1)年老的妇女老太～。苦口～心。\n(2)丈夫的母亲公～。～媳。～家。～～。\n(3)称长两辈的亲属妇女姑～。姨～。外～。\n(4)方言，泛指已婚的青年妇女，亦称妻子～娘。～姨。\n(5)旧时指从事某些职业的妇女媒～。收生～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-婆"
+}

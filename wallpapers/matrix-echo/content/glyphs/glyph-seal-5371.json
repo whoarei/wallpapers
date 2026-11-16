@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5371",
+  "script": "seal",
+  "character": "危",
+  "reading": "wēi",
+  "description": "wēi：(1)不安全～险。～殆。～言（ａ．故意说吓人的话；ｂ．直言）。～难（nàn）。～如累（lěi）卵。\n(2)损害～害。～及。\n(3)高的，陡的～石。～樯。\n(4)使人惊奇的～言耸听。\n(5)端正的，正直的正襟～坐。邦有道，～言～行”。\n(6)指人临死病～。垂～。\n(7)星名，二十八宿之一。\n(8)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-危"
+}

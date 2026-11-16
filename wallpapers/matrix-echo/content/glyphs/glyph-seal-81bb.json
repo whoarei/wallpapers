@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-81bb",
+  "script": "seal",
+  "character": "膻",
+  "reading": "shān；dàn",
+  "description": "shān：像羊肉的气味～气。～味。腥～。\ndàn：(1)袒露。\n(2)胸中～中（ａ．中医指胸腔中央，心包所在处；ｂ．针炙穴位名，位于前胸部正中）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-膻"
+}

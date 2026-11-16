@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9f88",
+  "script": "seal",
+  "character": "龈",
+  "reading": "yín",
+  "description": "牙根肉,牙龈\n⒈齿龈，又叫\"牙龈\"。包在齿根上的粘膜组织。\"龈\"另见kěn。\n龈kěn同\"啃\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-龈"
+}

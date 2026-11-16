@@ -1,0 +1,20 @@
+{
+  "id": "poem-1432dc0af876d1c0497a5c35",
+  "title": "菩萨蛮·短船谁泊蒹葭渚",
+  "author": "苏庠",
+  "dynasty": "宋",
+  "verses": [
+    "短船谁泊蒹葭渚。",
+    "夜深远火明渔浦。",
+    "却忆槿花篱。",
+    "春声穿竹溪。",
+    "云山如昨好。",
+    "人自垂垂老。",
+    "心事有谁知。",
+    "月明霜满枝。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-690",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-52a9451b6e9e5a69b0ec2140",
+  "title": "怀香炉峰道人",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "常思峰顶叟，石窟土为床。",
+    "日日先见日，烟霞多异香。",
+    "冥心同槁木，扫雪带微阳。",
+    "终必相寻去，斯人不可忘。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6f578b08-7dd6-414e-bcc7-23acbed69df6"
+}

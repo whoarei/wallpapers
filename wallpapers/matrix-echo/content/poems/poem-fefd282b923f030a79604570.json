@@ -1,0 +1,16 @@
+{
+  "id": "poem-fefd282b923f030a79604570",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "荣辱算来是前生定，只得守己。",
+    "儒冠未必将人误，我直恁底，误我百年亏。",
+    "(合)愿得一跃过龙门，荣归故里。",
+    "(旦)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2548",
+  "tags": []
+}

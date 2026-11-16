@@ -1,0 +1,14 @@
+{
+  "id": "poem-e6392741db5a043836eaccb9",
+  "title": "惠山归晚辞县斋小集",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "癯冰瘠雪凝霜澌，冻涩苔痕老更奇。",
+    "旅雁退飞寒力劲，水边云冷出山迟。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-916c7a07-b845-4445-9fc1-303bfff0b7a6"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8616",
+  "script": "seal",
+  "character": "蘖",
+  "reading": "niè",
+  "description": "niè：树木砍去后从残存茎根上长出的新芽，泛指植物近根处长出的分枝～枝。分～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蘖"
+}

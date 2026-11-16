@@ -1,0 +1,16 @@
+{
+  "id": "poem-9f8d127d68c9efb7d0001397",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［丑］你爹娘俱已应承，问侄女缘何不肯？恁推三阻四，莫不是行浊言清。",
+    "［旦］枉了将人凌并，便刎下头来，断然不依允。",
+    "［丑］论我作伐，宅第尽闻名。",
+    "十处说亲九处成，谁学你假惺惺。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8079",
+  "tags": []
+}

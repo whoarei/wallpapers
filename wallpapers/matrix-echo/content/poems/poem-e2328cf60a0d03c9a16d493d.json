@@ -1,0 +1,22 @@
+{
+  "id": "poem-e2328cf60a0d03c9a16d493d",
+  "title": "无题二首 二",
+  "author": "李商隐",
+  "dynasty": "唐",
+  "verses": [
+    "重帷深下莫愁堂，卧后清宵细细长。",
+    "神女生涯原是梦，小姑居处本无郎。",
+    "风波不信菱枝弱，月露谁教桂叶香。",
+    "直道相思了无益，未妨惆怅是清狂。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "思念",
+    "七言律诗",
+    "抒情",
+    "爱情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-b6475dea-1d69-4f0d-b98a-39393f47741e"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-5ce2ebbd33de80678ccd7b72",
+  "title": "宿灵泉寺二首  其一",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "石磴排林端，路转阴岭滑。",
+    "侧身长风外，凛落天为阔。",
+    "冉冉光风浮，金轮起天末。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-b7262bea-ca50-4e53-9166-4dd958b2699b"
+}

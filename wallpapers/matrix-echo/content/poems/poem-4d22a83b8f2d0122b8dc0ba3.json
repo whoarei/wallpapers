@@ -1,0 +1,18 @@
+{
+  "id": "poem-4d22a83b8f2d0122b8dc0ba3",
+  "title": "莺出谷",
+  "author": "钱可复",
+  "dynasty": "唐",
+  "verses": [
+    "玉律阳和变，时禽羽翮新。",
+    "载飞初出谷，一啭已惊人。",
+    "拂柳宜烟暖，冲花觉露春。",
+    "抟风翻翰疾，向日弄吭频。",
+    "求友心何切，迁乔幸有因。",
+    "华林高玉树，栖托及芳晨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-cf7c54f7-8454-4621-bafd-e6096ae38434"
+}

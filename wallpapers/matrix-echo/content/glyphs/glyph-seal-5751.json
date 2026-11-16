@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5751",
+  "script": "seal",
+  "character": "坑",
+  "reading": "kēng",
+  "description": "kēng：(1)洼下去的地方～洼。火～（喻悲惨的生活环境）。\n(2)把人活埋～杀。焚书～儒。\n(3)陷害，设计使人受到损失～害。～骗。\n(4)地洞。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-坑"
+}

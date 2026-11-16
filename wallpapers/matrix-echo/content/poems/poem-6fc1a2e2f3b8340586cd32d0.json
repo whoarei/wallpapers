@@ -1,0 +1,18 @@
+{
+  "id": "poem-6fc1a2e2f3b8340586cd32d0",
+  "title": "醉花阴·东皇已有来归耗",
+  "author": "葛胜仲",
+  "dynasty": "宋",
+  "verses": [
+    "东皇已有来归耗。",
+    "十里青山道。",
+    "冻蘖万株梅，一夜妆成，似趁鸣鸡早。",
+    "年时清赏曾同到。",
+    "先仗游蜂报。",
+    "抖擞旧心情，一笑酬春，不羡和羹诏。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-30",
+  "tags": []
+}

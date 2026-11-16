@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9b13",
+  "script": "kai",
+  "character": "鬓",
+  "reading": "bìn",
+  "description": "鬓发\n鬓角\n鬓脚\n鬓 bìn鬓角。耳朵前边长头发的部位。也指长在那里的头发双～斑白。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鬓"
+}

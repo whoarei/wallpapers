@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-722c",
+  "script": "kai",
+  "character": "爬",
+  "reading": "pá",
+  "description": "pá：(1)手和脚一齐着地走路，虫类行走～行。～虫（爬行动物）。～泳。\n(2)攀登～高。～升。～山。往上～（讽刺追求功名的人）。\n(3)搔～痒。～搔（搔”读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-爬"
+}

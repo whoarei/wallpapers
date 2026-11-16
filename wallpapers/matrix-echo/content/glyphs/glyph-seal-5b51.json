@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5b51",
+  "script": "seal",
+  "character": "孑",
+  "reading": "jié",
+  "description": "jié：(1)单独，孤单～然一身。茕茕～立。～遗生物（活化石）。\n(2)古同戟”，古代兵器名。\n〔～孓〕蚊的幼虫。通称跟头虫”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-孑"
+}

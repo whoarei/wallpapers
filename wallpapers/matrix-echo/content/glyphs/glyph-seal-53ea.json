@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-53ea",
+  "script": "seal",
+  "character": "只",
+  "reading": "zhī",
+  "description": "用于计量鸡、禽、牛、羊、球、手、足等的数目。如两只手;三只鸡\n引申为凡物之单者曰只。单一\n⒈仅仅～见树木，不见森林。\n①尽管。\n②〈表〉专一不变。\n①但是。\n②就是～是不说。\n③仅仅是～是有点不同的意见。\n⒈量词两～手。三～鸭。四～杯子。\n只qí 1.见\"只衼\"。 2.通\"痮\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-只"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "poem-9d5605e51c3133bbb8d96916",
+  "title": "前腔",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "风光正暮春，便纵然劳役，何必愁闷？绿英红雨，征袍上染惹芳尘。",
+    "云梯月殿图贵显，水宿风餐莫厌贫。",
+    "(合)乘桃浪，跃锦鳞，一声雷动过龙门。",
+    "荣归去，绿绶新，休教妻嫂笑苏秦。",
+    "(净唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4972",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7266",
+  "script": "seal",
+  "character": "牦",
+  "reading": "máo",
+  "description": "máo：〔～牛〕一种牛，全身有长毛，腿短。中国青藏高原地区出产，当地人民用来拉犁和驮运货物。肉和乳都可食用。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-牦"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3c41ab5f86c58f9abf136bb7",
+  "title": "郊庙歌辞 明皇祀圜丘乐章 豫和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "大号成命，思文配天。",
+    "神光肸蚃，龙驾言旋。",
+    "眇眇阊阖，昭昭上玄。",
+    "俾昌而大，于斯万年。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-caf25139-a8d2-4ba1-83e2-2fcfe60ff6a9"
+}

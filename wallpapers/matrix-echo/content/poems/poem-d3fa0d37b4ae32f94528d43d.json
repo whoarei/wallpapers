@@ -1,0 +1,16 @@
+{
+  "id": "poem-d3fa0d37b4ae32f94528d43d",
+  "title": "遣兴五首 四",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "猛虎凭其威，往往遭急缚。",
+    "雷吼徒咆哮，枝撑已在脚。",
+    "忽看皮寝处，无复睛闪烁。",
+    "人有甚于斯，足以劝元恶。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-9f89a106-6ff8-4deb-a2e5-30d5fe0da0f1"
+}

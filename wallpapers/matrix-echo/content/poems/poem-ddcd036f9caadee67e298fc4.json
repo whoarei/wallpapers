@@ -1,0 +1,19 @@
+{
+  "id": "poem-ddcd036f9caadee67e298fc4",
+  "title": "满庭芳",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(末上)五代残唐，汉刘知远，生时紫雾红光。",
+    "李家庄上，招赘做东床。",
+    "二舅不容完聚，生巧计拆散鸳行。",
+    "三娘受苦，产下咬脐郎。",
+    "知远投军，卒发迹到边疆，得遇绣英岳氏，愿配与鸾凰。",
+    "一十六岁，咬脐生长，因出猎识认亲娘。",
+    "知远加官进职，九州安抚，衣锦还乡。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8791",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f69",
+  "script": "seal",
+  "character": "佩",
+  "reading": "pèi",
+  "description": "pèi：(1)挂，带～带。～戴。～剑。\n(2)古代系在衣带上的玉饰玉～。\n(3)心悦诚服～服。钦～。敬～。可～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-佩"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-bad74e7cc2ec8693883dd9ec",
+  "title": "虞美人·梅花自是于春懒",
+  "author": "吕本中",
+  "dynasty": "宋",
+  "verses": [
+    "梅花自是于春懒。",
+    "不是春来晚。",
+    "看伊开在众花前。",
+    "便道与春无分、结因缘。",
+    "风前月下频相就。",
+    "笑我如伊瘦。",
+    "几回冲雨过疏篱。",
+    "已见一番青子、缀残枝。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-733",
+  "tags": []
+}

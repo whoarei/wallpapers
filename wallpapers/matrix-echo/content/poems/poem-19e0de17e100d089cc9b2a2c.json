@@ -1,0 +1,23 @@
+{
+  "id": "poem-19e0de17e100d089cc9b2a2c",
+  "title": "游终南山因寄苏奉礼士尊师苗员外",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "半岭逢仙驾，清晨独采芝。",
+    "壶中开白日，雾里卷朱旗。",
+    "猨鸟知归路，松萝见会时。",
+    "鸡声传洞远，鹤语报家迟。",
+    "童子闲驱石，樵夫乐看棋。",
+    "依稀醉后拜，恍惚梦中辞。",
+    "海上终难接，人间益自疑。",
+    "风尘甘独老，山水但相思。",
+    "愿得烧丹诀，流沙永待师。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "终南山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-a13d5995-b530-465b-84bc-b3c847dd1c44"
+}

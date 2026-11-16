@@ -1,0 +1,18 @@
+{
+  "id": "poem-4368424dac7638ae883f9610",
+  "title": "玉楼春·压玉为浆麟作朒",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "压玉为浆麟作朒。",
+    "珠树琼葩长不谢。",
+    "翠帘绣暖燕归来，宝鸭花香蜂上下。",
+    "沙堤佩马催公驾。",
+    "月白风清天不夜。",
+    "重来赫赫照岩廊，不动堂堂凝太华。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-793",
+  "tags": []
+}

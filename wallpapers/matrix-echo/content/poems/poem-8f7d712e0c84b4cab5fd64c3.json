@@ -1,0 +1,18 @@
+{
+  "id": "poem-8f7d712e0c84b4cab5fd64c3",
+  "title": "暇日题草堂",
+  "author": "钱起",
+  "dynasty": "唐",
+  "verses": [
+    "为郎过壮岁，晚景对秋天。",
+    "门掩苍苔上，池清寒竹前。",
+    "通经未拾紫，炼药不成仙。",
+    "且酝东臯黍，愁来得醉眠。",
+    "（见宋赵师秀编选《唐众妙集》。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-5627f48a-ef9a-4e6e-9148-1aecc0be921d"
+}

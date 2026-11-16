@@ -1,0 +1,16 @@
+{
+  "id": "poem-52b013da11505d49afd39a9f",
+  "title": "送张环摄御史监南选",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "汉使得张纲，威名摄远方。",
+    "恩沾柱下史，荣比选曹郎。",
+    "江带黔中阔，山连峡水长。",
+    "莫愁炎暑地，秋至有严霜。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-e731f0bb-24f2-42fb-ac7a-a79bbe04858a"
+}

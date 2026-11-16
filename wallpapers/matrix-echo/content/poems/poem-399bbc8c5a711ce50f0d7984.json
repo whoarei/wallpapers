@@ -1,0 +1,18 @@
+{
+  "id": "poem-399bbc8c5a711ce50f0d7984",
+  "title": "醉中闻甘州",
+  "author": "薛逢",
+  "dynasty": "唐",
+  "verses": [
+    "老听笙歌亦解愁，醉中因遣合甘州。",
+    "行追赤岭千山外，坐想黄河一曲流。",
+    "日暮岂堪征妇怨，路傍能结旅人愁。",
+    "左绵刺史心先死，泪满朱弦催白头。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-3397705d-20b5-4616-b211-351595710999"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-c1270edcc0530ef3106363f4",
+  "title": "浣溪沙·访旧伤离欲断魂",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "访旧伤离欲断魂，无因重见玉楼人，六街微雨镂香尘。",
+    "早为不逢巫峡梦，那堪虚度锦江春，遇花倾酒莫辞频。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-15"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-64cd",
+  "script": "seal",
+  "character": "操",
+  "reading": "cāo",
+  "description": "cāo：(1)拿，抓在手里～刀。～觚（手持木简，指写诗作文）。～管（执笔，指写作）。～刀必割（喻不失时机，要当机立断）。\n(2)控制、掌握～舟。～纵。\n(3)从事～心。～办。～作。～持。～劳。～之过急。\n(4)体力的锻炼，军事的训练～练。～场。～演。上～。\n(5)用某种语言或方言讲话他～一口闽南音。\n(6)行为，品行～行。～守。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-操"
+}

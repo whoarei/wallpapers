@@ -1,0 +1,17 @@
+{
+  "id": "poem-d9081853466d9f2bb751956c",
+  "title": "摊破浣溪沙・山花子·曲磴斜阑出翠微",
+  "author": "贺铸",
+  "dynasty": "宋",
+  "verses": [
+    "曲磴斜阑出翠微。",
+    "西州回首思依依。",
+    "风物宛然长在眼，只人非。",
+    "绿树隔巢黄鸟并，沧洲带雨白鸥飞。",
+    "多谢子规啼劝我，不如归。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-98",
+  "tags": []
+}

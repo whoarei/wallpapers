@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-977c",
+  "script": "seal",
+  "character": "靼",
+  "reading": "dá",
+  "description": "dá：柔软的皮革。\n〔鞑～〕见鞑”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-靼"
+}

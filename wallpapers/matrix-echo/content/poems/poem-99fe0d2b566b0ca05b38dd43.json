@@ -1,0 +1,16 @@
+{
+  "id": "poem-99fe0d2b566b0ca05b38dd43",
+  "title": "赋帘",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "参差垂玉阙，舒卷映兰宫。",
+    "珠光摇素月，竹影乱清风。",
+    "彩散银钩上，文斜桂户中。",
+    "惟当杂罗绮，相与媚房栊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-48bb657b-455d-4dd1-a38a-4312d39968fd"
+}

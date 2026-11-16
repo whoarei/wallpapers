@@ -1,0 +1,18 @@
+{
+  "id": "poem-24be93341f18840773db1343",
+  "title": "贡院楼北新栽小松",
+  "author": "吴武陵",
+  "dynasty": "唐",
+  "verses": [
+    "拂槛爱贞容，移根自远峰。",
+    "已曾经草没，终不任苔封。",
+    "叶少初陵雪，鳞生欲化龙。",
+    "乘春濯雨露，得地近垣墉。",
+    "逐吹香微动，含烟色渐浓。",
+    "时回日月照，为谢小山松。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-6d2278b0-2912-48e0-9b8e-c9ed7a95024e"
+}

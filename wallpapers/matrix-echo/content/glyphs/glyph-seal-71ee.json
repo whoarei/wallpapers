@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-71ee",
+  "script": "seal",
+  "character": "燮",
+  "reading": "xiè",
+  "description": "xiè：谐和，调和～理。调（tiáo）～。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-燮"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-176d278bebf52acefe6c954c",
+  "title": "临江仙·八字山头来较晚",
+  "author": "王质",
+  "dynasty": "宋",
+  "verses": [
+    "八字山头来较晚，彩云未散南楼。",
+    "夕阳千丈映帘钩。",
+    "君侯如欲老，江水莫教流。",
+    "扇底清歌尘不动，胡床明月清秋。",
+    "天浆为浪玉为舟。",
+    "酒阑君便起。",
+    "归去立班头。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-336",
+  "tags": []
+}

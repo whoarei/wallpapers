@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6dcc",
+  "script": "kai",
+  "character": "淌",
+  "reading": "tǎng；chǎng",
+  "description": "tǎng：流下～水。～汗。～眼泪。\n流；\nchǎng：水起波纹～游（水流动泛起波纹的样子）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淌"
+}

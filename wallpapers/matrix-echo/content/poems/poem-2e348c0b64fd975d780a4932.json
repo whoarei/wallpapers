@@ -1,0 +1,14 @@
+{
+  "id": "poem-2e348c0b64fd975d780a4932",
+  "title": "浣溪沙·小市东门欲雪天",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "小市东门欲雪天，众中依约见神仙，蕊黄香画贴金蝉。",
+    "饮散黄昏人草草，醉容无语立门前，马嘶尘烘一街烟。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-36"
+}

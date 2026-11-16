@@ -1,0 +1,14 @@
+{
+  "id": "poem-4f2efbbc745a79e216e02e5b",
+  "title": "药轩",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "雨余条甲绕阶生，往往桐君昔未名。",
+    "采贮不须勤暴篲，秋阳日日满簷楹。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8eebe1ef-5d10-4b17-9e96-40a294aaf486"
+}

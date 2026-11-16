@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8c2c",
+  "script": "kai",
+  "character": "谬",
+  "reading": "miù",
+  "description": "⒈错误，与客观事实不符～论。～误。荒～。大～。\n⒉差误差以毫厘，～以千里。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谬"
+}

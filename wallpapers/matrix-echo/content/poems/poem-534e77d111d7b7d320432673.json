@@ -1,0 +1,18 @@
+{
+  "id": "poem-534e77d111d7b7d320432673",
+  "title": "采桑子·城南城北看桃李",
+  "author": "黄庭坚",
+  "dynasty": "宋",
+  "verses": [
+    "城南城北看桃李，依倚年华。",
+    "杨柳藏鸦。",
+    "又是无言飐落花。",
+    "春风一面长含笑，偷顾羞遮。",
+    "分付谁家。",
+    "把酒花前试问他。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-789",
+  "tags": []
+}

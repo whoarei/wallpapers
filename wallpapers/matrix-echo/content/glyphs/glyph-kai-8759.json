@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8759",
+  "script": "kai",
+  "character": "蝙",
+  "reading": "biān",
+  "description": "biān：〔～蝠〕哺乳动物，头和身体的样子像老鼠。前后肢都有薄膜和身体连着，夜间在空中飞，捕食蚊蛾等。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蝙"
+}

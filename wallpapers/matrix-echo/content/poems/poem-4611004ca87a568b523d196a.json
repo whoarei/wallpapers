@@ -1,0 +1,19 @@
+{
+  "id": "poem-4611004ca87a568b523d196a",
+  "title": "调笑・调笑令·相忆",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "相忆。",
+    "顿轻掷。",
+    "春草佳名渐赠璧。",
+    "长洲茂苑吴王国。",
+    "自有芊绵碧色。",
+    "根生土长铜驼陌。",
+    "纵欲随君争得。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-285",
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-2af94da716a4c0694f5dc09f",
+  "title": "锁南枝",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［旦］休发怒，免性焦，一言望乞听奴告。",
+    "这聘礼荆钗，休恁看得小。",
+    "［净］是金的？［旦］非是金。",
+    "［丑］敢是宝。",
+    "［旦］非是宝。",
+    "［净］非金非宝，要他何用？［旦］将来聘奴家，一似孟德耀。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8084",
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "poem-aa001f609385a81e177028be",
+  "title": "采苹",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "于以采苹？南涧之滨。于以采藻？于彼行潦。",
+    "于以盛之？维筐及筥。于以湘之？维锜及釜。",
+    "于以奠之？宗室牖下。谁其尸之？有齐季女。"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-14"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-01356399709a5b95ee3a27d7",
+  "title": "秋夜曲",
+  "author": "王涯",
+  "dynasty": "唐",
+  "verses": [
+    "桂魄初生秋露微，轻罗已薄未更衣。",
+    "银筝夜久殷勤弄，心怯空房不忍归。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-1f66d2ec-8418-485e-a434-e21a0d439dda",
+  "tags": [
+    "思念",
+    "秋天",
+    "女子",
+    "唐诗三百首",
+    "乐府"
+  ]
+}

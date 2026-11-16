@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8235",
+  "script": "kai",
+  "character": "舵",
+  "reading": "duò",
+  "description": "duò：船、飞机等控制方向的装置升降～。方向～。～轮（轮船、汽车等的方向盘）。～手。～位。～盘。掌～。见风使～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-舵"
+}

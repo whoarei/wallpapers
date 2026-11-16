@@ -1,0 +1,18 @@
+{
+  "id": "poem-2474c4eb32a05bf48a4fcc0b",
+  "title": "木兰花・玉楼春·杏梁归燕双回首",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "杏梁归燕双回首。",
+    "黄蜀葵花开应候。",
+    "画堂元是降生辰，玉盏更斟长命酒。",
+    "炉中百和添香兽。",
+    "帘外青蛾回舞袖。",
+    "此时红粉感恩人，拜向月宫千岁寿。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-487",
+  "tags": []
+}

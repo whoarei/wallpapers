@@ -1,0 +1,14 @@
+{
+  "id": "poem-b6e64770fcd6d404746be030",
+  "title": "傀儡吟",
+  "author": "明皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "刻木牵丝作老翁，鸡皮鹤发与真同。",
+    "须臾弄罢寂无事，还似人生一梦中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-c7cf9007-f2af-4954-a355-045c9589a7a8"
+}

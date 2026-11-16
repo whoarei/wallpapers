@@ -1,0 +1,18 @@
+{
+  "id": "poem-3123b20fbedce9506f2dbfaf",
+  "title": "玉楼春·湖边柳外楼高处",
+  "author": "欧阳修",
+  "dynasty": "宋",
+  "verses": [
+    "湖边柳外楼高处。",
+    "望断云山多少路。",
+    "阑干倚遍使人愁，又是天涯初日暮。",
+    "轻无管系狂无数。",
+    "水畔花飞风里絮。",
+    "算伊浑似薄情郎，去便不来来便去。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-689",
+  "tags": []
+}

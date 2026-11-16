@@ -1,0 +1,14 @@
+{
+  "id": "poem-896a479d7573c25b66cdcdd0",
+  "title": "晚春途中",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "一年春事又成空，拥鼻微吟半醉中。",
+    "夹路桃花风雨过，马啼无处避残红。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-43014744-328c-49e6-8c79-ec0184b0672b"
+}

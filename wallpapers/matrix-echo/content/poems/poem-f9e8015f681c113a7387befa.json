@@ -1,0 +1,14 @@
+{
+  "id": "poem-f9e8015f681c113a7387befa",
+  "title": "暮春即事",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "卖花声断雨蒙蒙，怯酒情怀易得中。",
+    "燕子自来还自去，胭脂吹老海棠风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-a76ac947-ce86-4650-a272-c9bc0beb4620"
+}

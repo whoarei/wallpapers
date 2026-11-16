@@ -1,0 +1,14 @@
+{
+  "id": "poem-ee86eda1baffdc1da488e317",
+  "title": "七娘子引",
+  "author": "刘唐卿《白兔记》",
+  "dynasty": "元",
+  "verses": [
+    "(生上)蒙君不弃我身寒，今日里喜结良缘。",
+    "(旦上)一朵奇花今有主，姻缘感谢苍天。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8837",
+  "tags": []
+}

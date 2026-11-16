@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-52c9",
+  "script": "seal",
+  "character": "勉",
+  "reading": "miǎn",
+  "description": "miǎn：(1)力量不够而尽力做～力。～强（qiǎng）。～为其难。\n(2)劝人努力，鼓励～励。～勖。～慰。自～。互～。\n(3)努力勤～。奋～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-勉"
+}

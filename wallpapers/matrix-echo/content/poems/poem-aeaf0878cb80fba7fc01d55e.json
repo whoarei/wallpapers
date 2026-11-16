@@ -1,0 +1,16 @@
+{
+  "id": "poem-aeaf0878cb80fba7fc01d55e",
+  "title": "杏殇 一",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "冻手莫弄珠，弄珠珠易飞。",
+    "惊霜莫翦春，翦春无光辉。",
+    "零落小花乳，斓斑昔婴衣。",
+    "拾之不盈把，日暮空悲归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-b7fe7bae-cf4a-484f-a5c3-726e217a15ce"
+}

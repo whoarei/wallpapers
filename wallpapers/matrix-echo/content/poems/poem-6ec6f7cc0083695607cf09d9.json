@@ -1,0 +1,17 @@
+{
+  "id": "poem-6ec6f7cc0083695607cf09d9",
+  "title": "孝顺歌",
+  "author": "萧德祥《小孙屠》",
+  "dynasty": "元",
+  "verses": [
+    "我哥不是，怨自谁？痴迷那得人似你。",
+    "兄弟好言语，佯佯总不理，如风过耳。",
+    "它是风尘，烟花泼妓。",
+    "你娶为妻，不思量有今日。",
+    "(生)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8660",
+  "tags": []
+}

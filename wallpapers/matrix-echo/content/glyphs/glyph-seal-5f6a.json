@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5f6a",
+  "script": "seal",
+  "character": "彪",
+  "reading": "biāo",
+  "description": "biāo：(1)虎身上的斑纹，引申为有文采～炳。\n(2)小老虎。\n(3)身躯魁悟～悍。～壮。～形大汉。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-彪"
+}

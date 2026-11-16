@@ -1,0 +1,16 @@
+{
+  "id": "poem-d24ce0ba585b30d250ca64e8",
+  "title": "奉送杜侍御还京",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "罢战回龙节，朝天上凤池。",
+    "寒生五湖道，春入万年枝。",
+    "召化多遗爱，胡清已畏知。",
+    "怀恩偏感别，堕泪向旌麾。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-432d77a0-08de-44b9-a3c4-06db88347496"
+}

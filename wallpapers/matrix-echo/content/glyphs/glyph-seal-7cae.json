@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7cae",
+  "script": "seal",
+  "character": "粮",
+  "reading": "liáng",
+  "description": "桂馥曰谷也者,非古训。紌乃行者之干食。”\n多载资粮。\n引申指谷类;粮食\n⒈可吃的谷类、豆类等～食。干～。杂～。军～。民有余～。\n⒉农业税踊跃交公～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-粮"
+}

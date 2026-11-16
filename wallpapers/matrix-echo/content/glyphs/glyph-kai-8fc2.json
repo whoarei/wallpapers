@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8fc2",
+  "script": "kai",
+  "character": "迂",
+  "reading": "yū",
+  "description": "yū：(1)曲折，绕远～回。～缓（行动迟缓）。\n(2)言行或见解陈旧不合时宜～论。～气。～儒。～阔（不切合实际）。～腐（说话、行事拘泥于陈旧的准则，不适应新时代）。～夫子（迂腐的读书人）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-迂"
+}

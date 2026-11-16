@@ -1,0 +1,14 @@
+{
+  "id": "poem-a36f8a3b954dfc814b95a826",
+  "title": "弼公院问病",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "一头细发两分丝，卧见芭蕉白露滋。",
+    "欲令居士身无病，直待众生苦尽时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-62398c45-64ca-45a1-af5c-f788c479f1f8"
+}

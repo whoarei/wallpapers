@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6345",
+  "script": "kai",
+  "character": "捅",
+  "reading": "tǒng",
+  "description": "tǒng：(1)用棍、棒、刀、枪等戳刺～娄子（引起纠纷，惹祸。亦称捅漏子”）。～马蜂窝（喻惹祸或招惹不好惹的人而引麻烦）。\n(2)碰，触动纸真薄，一～就破。\n(3)揭露把问题全～出来了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-捅"
+}

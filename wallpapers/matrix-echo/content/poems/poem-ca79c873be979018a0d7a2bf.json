@@ -1,0 +1,16 @@
+{
+  "id": "poem-ca79c873be979018a0d7a2bf",
+  "title": "送朱屯田赴辟成都",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "赞条初罢浙江回，辟命还从蜀道来。",
+    "朱绂聊光新幕府，乌星重照旧行台。",
+    "秋登危栈烟霄界，晓望通阛锦绣堆。",
+    "乐职定应能赋颂，知君堪继子渊才。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-590a828b-62c9-4d47-a34a-cafbdb81e20b"
+}

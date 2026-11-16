@@ -1,0 +1,14 @@
+{
+  "id": "poem-4ba8dc1ac13f4f7d4ef1049a",
+  "title": "驯鹤图",
+  "author": "王予可",
+  "dynasty": "宋",
+  "verses": [
+    "寝处粧铅未卷钗，孤云花带月边来。",
+    "六宫帘幕金鸾冷，露湿晨烟啄翠苔。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-0c09c1ff-d213-4779-a4cc-2ca7e4eaec13"
+}

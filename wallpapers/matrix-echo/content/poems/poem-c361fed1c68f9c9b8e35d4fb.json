@@ -1,0 +1,14 @@
+{
+  "id": "poem-c361fed1c68f9c9b8e35d4fb",
+  "title": "即事三首  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "宾江两岸木绵飞，负郭家家熟荔枝。",
+    "瘴雨蛮烟已萧瑟，可堪梅子欲黄时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-a6d0e139-e902-49d8-b532-bdddebc3e117"
+}

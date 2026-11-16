@@ -1,0 +1,14 @@
+{
+  "id": "poem-53c09c85bc810b66cc68416e",
+  "title": "柳枝·瑟瑟罗裙金缕腰",
+  "author": "和凝",
+  "dynasty": "五代",
+  "verses": [
+    "瑟瑟罗裙金缕腰，黛眉偎破未重描。",
+    "醉来咬损新花子，拽住仙郎尽放娇。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-30"
+}

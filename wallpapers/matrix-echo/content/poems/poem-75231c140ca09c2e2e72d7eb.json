@@ -1,0 +1,16 @@
+{
+  "id": "poem-75231c140ca09c2e2e72d7eb",
+  "title": "送王监丞之历阳",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "叹息曾游处，江边故郡城。",
+    "青襟空皓首，往事似前生。",
+    "绿绶君重绾，华簪我尚荣。",
+    "年衰俱近道，莫话别离情。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-e224b06d-52c6-4689-8f2c-f0cddb9551ea"
+}

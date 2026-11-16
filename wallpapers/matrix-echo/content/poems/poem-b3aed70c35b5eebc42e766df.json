@@ -1,0 +1,16 @@
+{
+  "id": "poem-b3aed70c35b5eebc42e766df",
+  "title": "宣甫以栟榈茶刷见惠继之以诗依韵奉和",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "装橐分余具，茶筒使拂尘。",
+    "制时工匪易，得处赏尤频。",
+    "常与轮槽并，宜为焙匣珍。",
+    "斋中延客语，供办未应贫。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-c0ff84fa-3831-4f24-b2e2-157a2bf740e2"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-d04785d6a10af12ef0831616",
+  "title": "次张文昌送川张道人韵",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "万水遶千山，翩然去不难。",
+    "双明元自碧，方寸为谁丹。",
+    "鹤化曾留句，凫轻欲振翰。",
+    "不知藏世界，一粟几何宽。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-0b51651a-a8d3-414a-8a3e-ce8ed9d79d02"
+}

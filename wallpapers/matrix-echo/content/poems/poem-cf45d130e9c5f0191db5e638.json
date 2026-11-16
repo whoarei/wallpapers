@@ -1,0 +1,14 @@
+{
+  "id": "poem-cf45d130e9c5f0191db5e638",
+  "title": "柳堤 梅堤",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "亭亭堤上梅，历历波间影。",
+    "岁晚忆夫君，寂寞烟渚静。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-0af9c54e-23f6-4f53-8474-8808e0e3ca14"
+}

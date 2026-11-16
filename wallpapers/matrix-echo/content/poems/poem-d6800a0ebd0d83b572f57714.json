@@ -1,0 +1,14 @@
+{
+  "id": "poem-d6800a0ebd0d83b572f57714",
+  "title": "十无诗寄桂府杨中丞 八",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "孔融襟抱称名儒，爱物怜才与世殊。",
+    "今日宾堦忘姓字，当时省记荐雄无。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-4ae3c442-0ede-47d5-b311-e230a0de0c5f"
+}

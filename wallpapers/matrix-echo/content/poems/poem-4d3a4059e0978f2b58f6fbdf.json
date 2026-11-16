@@ -1,0 +1,14 @@
+{
+  "id": "poem-4d3a4059e0978f2b58f6fbdf",
+  "title": "柳枝·雀桥初就咽银河",
+  "author": "和凝",
+  "dynasty": "五代",
+  "verses": [
+    "雀桥初就咽银河，今夜仙郎自姓和。",
+    "不是昔年攀桂树，岂能月里索嫦娥。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-31"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-8a57b772846578082c9f0be0",
+  "title": "瑞香",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "谱上先题五老名，宫袍云锦旧为隣。",
+    "华风似惜诗人老，一样裁成紫绮新。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-39bb1740-dd0d-495c-8b22-6f74a3224fe9"
+}

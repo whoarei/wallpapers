@@ -1,0 +1,25 @@
+{
+  "id": "poem-4661bf4c9747f45c98183c53",
+  "title": "感遇十二首 七",
+  "author": "张九龄",
+  "dynasty": "唐",
+  "verses": [
+    "江南有丹橘，经冬犹绿林。",
+    "岂伊地气暖，自有岁寒心。",
+    "可以荐嘉客，奈何阻重深。",
+    "运命唯所遇，循环不可寻。",
+    "徒言树桃李，此木岂无阴。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "寓人",
+    "五言古诗",
+    "咏物",
+    "人格",
+    "咏物诗",
+    "写树"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-11b013f9-aa6a-4e55-8e68-195dc62f161f"
+}

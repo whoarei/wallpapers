@@ -1,0 +1,16 @@
+{
+  "id": "poem-1a99b3c41e1940800cf6c956",
+  "title": "新竹",
+  "author": "陆游",
+  "dynasty": "宋",
+  "verses": [
+    "插棘编篱谨护持，养成寒碧映涟漪。",
+    "清风掠地秋先到，赤日行天午不知。",
+    "解箨时闻声簌簌，放梢初见影离离。",
+    "归闲我欲频来此，枕簟仍教到处随。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-新竹"
+}

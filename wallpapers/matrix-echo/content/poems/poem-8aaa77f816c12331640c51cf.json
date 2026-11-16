@@ -1,0 +1,16 @@
+{
+  "id": "poem-8aaa77f816c12331640c51cf",
+  "title": "遣兴二首  其二",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "海上归来心绪多，鬓边无那白标何。",
+    "诗情粗得江山助，酒量自因风月多。",
+    "黄卷中间笼圣哲，白云深处避干戈。",
+    "弟兄念我心应切，故向梅花岭上过。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-d46de207-0dab-4264-b611-1806078ca59a"
+}

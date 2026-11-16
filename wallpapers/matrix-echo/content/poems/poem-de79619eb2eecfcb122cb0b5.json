@@ -1,0 +1,16 @@
+{
+  "id": "poem-de79619eb2eecfcb122cb0b5",
+  "title": "同前",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "今君转下山，有一家。",
+    "朱门两扇屋虽破，是鸳鸯瓦。",
+    "(生)又怎知它着我？谢得尊神呵周全我，今宵免得心肠挂。",
+    "(合同前)(生)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2491",
+  "tags": []
+}

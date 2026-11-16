@@ -1,0 +1,14 @@
+{
+  "id": "poem-a325b2317a7fc4b1a0778b0c",
+  "title": "端州江亭得家书二首 二",
+  "author": "李绅",
+  "dynasty": "唐",
+  "verses": [
+    "长安别日春风早，岭外今来白露秋。",
+    "莫道淮南悲木叶，不闻摇落更堪愁。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-ad36b445-fdba-4b15-b591-d254c1242ff0"
+}

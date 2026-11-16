@@ -1,0 +1,16 @@
+{
+  "id": "poem-a1353bc650a91b4a27e70570",
+  "title": "庐山独夜",
+  "author": "徐凝",
+  "dynasty": "唐",
+  "verses": [
+    "寒空五老雪，斜月九江云。",
+    "钟声知何处，苍苍树里闻。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "庐山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-d346c4dc-4c39-45bc-ac89-33f0a917781e"
+}

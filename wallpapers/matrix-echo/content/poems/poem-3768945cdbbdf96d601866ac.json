@@ -1,0 +1,14 @@
+{
+  "id": "poem-3768945cdbbdf96d601866ac",
+  "title": "恸柳论",
+  "author": "刘言史",
+  "dynasty": "唐",
+  "verses": [
+    "孀妻栖户仍无嗣，欲访孤坟谁引至。",
+    "裴回无处展哀情，惟有衣襟知下泪。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-86fd8d10-6861-4018-ad11-7e711ea2ef44"
+}

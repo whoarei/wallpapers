@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-53bb",
+  "script": "kai",
+  "character": "去",
+  "reading": "qù",
+  "description": "qù：(1)离开所在的地方到别处；由自己一方到另一方，与来”相对～处。～路。～国。\n(2)距离，差别相～不远。\n(3)已过的，特指刚过去的一年～年。～冬今春。\n(4)除掉，减掉～掉。～皮。～势（ａ．阉割；ｂ．动作或事情终了时的气势）。\n(5)扮演戏曲中的角色他～男主角。\n(6)用在动词后，表示趋向上～。进～。\n(7)用在动词后，表示持续信步走～。\n(8)汉语四声之一～声（ａ．古汉语四声的第三声；ｂ．普通话字调中的第四声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-去"
+}

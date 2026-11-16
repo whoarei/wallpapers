@@ -1,0 +1,18 @@
+{
+  "id": "poem-41763c30298f46d5a2e4628a",
+  "title": "相和歌辞 江南曲",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "嫁得瞿塘贾，朝朝误妾期。",
+    "早知潮有信，嫁与弄潮儿。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "闺怨",
+    "乐府"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-bb111748-d8f1-4a5e-b618-b70272a7a642"
+}

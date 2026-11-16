@@ -1,0 +1,16 @@
+{
+  "id": "poem-304bffa9e2e842065f08cb80",
+  "title": "山居诗  其五四",
+  "author": "释延寿",
+  "dynasty": "宋",
+  "verses": [
+    "万般惟道最堪依，一瞬荣枯万古悲。",
+    "强笑低颜何忽忽，忘机绝虑自怡怡。",
+    "潜龙终要投深浦，巢鸟应须占健枝。",
+    "名利门中难立足，隠藏云水更何之。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-6cb35d7c-0ad9-4b24-8642-0afb38786d3f"
+}

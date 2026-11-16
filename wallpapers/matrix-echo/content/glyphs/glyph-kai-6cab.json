@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6cab",
+  "script": "kai",
+  "character": "沫",
+  "reading": "mò",
+  "description": "mò：(1)液体形成的许多细泡～子。泡～。\n(2)指唾沫”相濡以～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沫"
+}

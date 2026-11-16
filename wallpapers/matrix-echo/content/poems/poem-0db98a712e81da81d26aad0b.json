@@ -1,0 +1,16 @@
+{
+  "id": "poem-0db98a712e81da81d26aad0b",
+  "title": "好姐姐",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "指望终身奉养，谁知道中途肮脏。",
+    "存亡未审，使奴愁断肠，心凄怆。",
+    "奴家烧此夜香呵，愿得亲姑早会无灾障，骨肉团圆乐最长。",
+    "想我丈夫有了奴家呵，。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8281",
+  "tags": []
+}

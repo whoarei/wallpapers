@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4ea8",
+  "script": "seal",
+  "character": "亨",
+  "reading": "hēng；pēng",
+  "description": "hēng：(1)通达，顺利～通。～运（旧时指命运亨通太平盛世）。～衢（四通八达的大道）。大～（广有势力的官商或流氓）。\n(2)姓。\npēng：古同烹”，煮。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-亨"
+}

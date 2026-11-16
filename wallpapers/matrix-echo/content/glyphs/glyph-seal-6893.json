@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6893",
+  "script": "seal",
+  "character": "梓",
+  "reading": "zǐ",
+  "description": "zǐ：(1)落叶乔木。木材可供建筑及制造器物之用～器（棺材）。～宫（皇帝的棺材）。\n(2)治木器～人（古代制造器具的木工）。～匠。\n(3)木头雕刻成印刷用的木板付～（把稿件交付排印）。～行（xíng）。\n(4)指故里～里。桑～。\n(5)姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-梓"
+}

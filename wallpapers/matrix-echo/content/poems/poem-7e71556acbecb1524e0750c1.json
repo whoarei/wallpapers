@@ -1,0 +1,14 @@
+{
+  "id": "poem-7e71556acbecb1524e0750c1",
+  "title": "发成都  其一",
+  "author": "刘望之",
+  "dynasty": "宋",
+  "verses": [
+    "落拓平生载酒行，如今憔悴鬓丝生。",
+    "无金得买青楼笑，空负闲愁出锦城。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-9aa858b3-e439-4156-8b7e-79726de6b0ec"
+}

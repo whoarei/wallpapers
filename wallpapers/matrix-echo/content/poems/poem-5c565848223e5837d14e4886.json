@@ -1,0 +1,16 @@
+{
+  "id": "poem-5c565848223e5837d14e4886",
+  "title": "题李将军山亭",
+  "author": "郭良",
+  "dynasty": "唐",
+  "verses": [
+    "凤辖将军位，龙门司隶家。",
+    "衣冠为隐逸，山水作繁华。",
+    "径出重林草，池摇两岸花。",
+    "谁知贵公第，亭院有烟霞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-ee36aa5a-c3d0-4875-8ff8-e1807a7ce622"
+}

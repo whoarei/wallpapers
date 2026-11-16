@@ -1,0 +1,16 @@
+{
+  "id": "poem-e12d1d2d1dbb4a76bc8d8bd5",
+  "title": "送陈元龙赴封州教官",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "温陵尊酒偶相逢，记得同年旧日容。",
+    "书读短檠游太学，经传绛帐适临封。",
+    "清新得句肠生锦，瘦硬通神笔吐锋。",
+    "莫向炎州叹官冷，行看胡海起元龙。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-cd5e8627-788f-4f64-a064-e64169327167"
+}

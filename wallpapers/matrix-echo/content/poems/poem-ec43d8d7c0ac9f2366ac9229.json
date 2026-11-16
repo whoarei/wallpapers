@@ -1,0 +1,17 @@
+{
+  "id": "poem-ec43d8d7c0ac9f2366ac9229",
+  "title": "乌夜啼",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "听得你鸡鸣起。",
+    "(旦出接)扑簌簌泪两下。",
+    "(末)你郎今挂绿在京华。",
+    "(旦)音书断，没成虚假。",
+    "(合)不免辞庙去，京里试寻它。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2645",
+  "tags": []
+}

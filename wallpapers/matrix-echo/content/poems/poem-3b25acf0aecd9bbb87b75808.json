@@ -1,0 +1,17 @@
+{
+  "id": "poem-3b25acf0aecd9bbb87b75808",
+  "title": "送祖咏",
+  "author": "卢象",
+  "dynasty": "唐",
+  "verses": [
+    "田家宜伏腊，岁晏子言归。",
+    "石路雪初下，荒村鸡共飞。",
+    "东原多烟火，北涧隐寒晖。",
+    "满酌野人酒，倦闻邻女机。",
+    "胡为困樵采，几日罢朝衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-870e3c4a-aad8-4894-9aea-4b370f85f1c3"
+}

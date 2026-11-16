@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-566a",
+  "script": "seal",
+  "character": "噪",
+  "reading": "zào",
+  "description": "zào：(1)许多鸟或虫子乱叫鹊～。蝉～。归鸟晚～。\n(2)声音杂乱～声。～音。～聒。\n(3)许多人大喊大叫，喧哗，鼓动～嚷。～聚。声名大～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-噪"
+}

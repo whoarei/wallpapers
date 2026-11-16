@@ -1,0 +1,14 @@
+{
+  "id": "poem-af4c2e847c8e7b7889605e80",
+  "title": "水阁纳凉",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "云碧纱厨水阁中，鸳鸯花冷枕玲珑。",
+    "描金团扇无人用，一阵荷香一阵风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-e53e7318-0262-4f63-9a11-a646172a89fd"
+}

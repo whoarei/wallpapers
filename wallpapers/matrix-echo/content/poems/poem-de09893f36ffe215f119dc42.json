@@ -1,0 +1,15 @@
+{
+  "id": "poem-de09893f36ffe215f119dc42",
+  "title": "句",
+  "author": "李泌",
+  "dynasty": "唐",
+  "verses": [
+    "青青东门柳，岁晏复憔悴。",
+    "良弓摧折久，谁识是龙韬。",
+    "旋沫翻成碧玉池，添酥散出琉璃眼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-733cf267-5516-4f52-8110-518c913fe478"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-768b",
+  "script": "seal",
+  "character": "皋",
+  "reading": "gāo；yáo",
+  "description": "gāo：(1)水边的高地，岸江～『～。\n(2)沼泽，湖泊鹤鸣于九～”。\nyáo：〔～陶〕中国上古人名，相传是舜臣。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-皋"
+}

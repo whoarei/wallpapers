@@ -1,0 +1,16 @@
+{
+  "id": "poem-38032510690d90c77a053cd8",
+  "title": "春日留别",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "游人欲别离，半醉对花枝。",
+    "看著春又晚，莫轻少年时。",
+    "临行记分处，廻首是相思。",
+    "各向天涯去，重来未可期。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-7ca34906-4e7e-482e-9466-22d89a5f87ec"
+}

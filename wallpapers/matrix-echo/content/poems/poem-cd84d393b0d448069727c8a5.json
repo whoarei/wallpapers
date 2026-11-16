@@ -1,0 +1,14 @@
+{
+  "id": "poem-cd84d393b0d448069727c8a5",
+  "title": "春秋战国门 少孺",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "宝贵亲仁与善邻，邻兵何要互相臻。",
+    "螳蜋定是遭黄雀，黄雀须访挟弹人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-8c84d0d6-d517-4255-a963-9b92991ba1bc"
+}

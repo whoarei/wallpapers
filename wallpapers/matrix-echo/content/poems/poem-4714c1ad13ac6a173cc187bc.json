@@ -1,0 +1,17 @@
+{
+  "id": "poem-4714c1ad13ac6a173cc187bc",
+  "title": "朝中措·灯花挑尽夜将阑",
+  "author": "张抡",
+  "dynasty": "宋",
+  "verses": [
+    "灯花挑尽夜将阑。",
+    "斜掩小屏山。",
+    "一点凉蟾窥慢，钏敲玉臂生寒。",
+    "起来无绪，炉薰烬冷，桐叶声干。",
+    "都把沈思幽恨，明朝分付眉端。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-889",
+  "tags": []
+}

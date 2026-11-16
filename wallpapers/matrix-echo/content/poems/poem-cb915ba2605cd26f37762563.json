@@ -1,0 +1,22 @@
+{
+  "id": "poem-cb915ba2605cd26f37762563",
+  "title": "夜别韦司士得城字",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "高馆张灯酒复清，夜钟残月雁归声。",
+    "只言啼鸟堪求侣，无那春风欲送行。",
+    "黄河曲里沙为岸，白马津边柳向城。",
+    "莫怨他乡暂离别，知君到处有逢迎。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河",
+    "离别",
+    "饮酒",
+    "惜别",
+    "友情"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-dddc5861-5ad3-438a-999e-f068b10fc886"
+}

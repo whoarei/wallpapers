@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5028",
+  "script": "seal",
+  "character": "倨",
+  "reading": "jù；jv",
+  "description": "jù：(1)傲慢前～后恭（先傲慢而后恭敬）。～傲。～固。～慢。\n(2)微曲（qū）～句（钝角形的称倨”；锐角形的称句”）。\n(3)古同踞”，伸开脚坐着。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-倨"
+}

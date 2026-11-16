@@ -1,0 +1,14 @@
+{
+  "id": "poem-78b69fe934356bb4ec26616c",
+  "title": "西江晚泊",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "茫茫霭霭失西东，柳浦桑村处处同。",
+    "戍鼓一声帆影尽，水禽飞起夕阳中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-0b7225ba-73e3-49ee-be99-6725380a2edb"
+}

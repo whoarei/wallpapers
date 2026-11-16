@@ -1,0 +1,14 @@
+{
+  "id": "poem-755ae8d0b79ae3dfe3ee03b1",
+  "title": "湖上",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "一泓寒玉浸青山，粧点楼台夕照间。",
+    "歌管满船春未嬾，惜无人伴白鸥闲。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-8f678cb3-3e35-4a0a-a34a-ab945f003457"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-722ddcd920e4ba6f28195df8",
+  "title": "柳絮",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "无风才到地，有风还满空。",
+    "缘渠偏似雪，莫近鬓毛生。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-2a995dd6-3654-4985-8822-a54a58c0896f"
+}

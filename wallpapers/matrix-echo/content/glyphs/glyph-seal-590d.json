@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-590d",
+  "script": "seal",
+  "character": "复",
+  "reading": "fù",
+  "description": "死者不可復生。\n⒈返，回去往～。至今五十年而不～。\n⒉回答，回报～命。～信。报～。～仇。\n⒊还原，使回归恢～。～原。～员军人。\n⒌重叠，繁多的，不是单一的～杂。～层。～句。重～。山重水～疑无路。～式立交桥。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-复"
+}

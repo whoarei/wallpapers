@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8708",
+  "script": "kai",
+  "character": "蜈",
+  "reading": "wú",
+  "description": "wú：〔～蚣〕节肢动物，由许多环节构成，每节有脚一对，头部的脚像钩子，能分泌毒液，捕食小虫，中医入药。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蜈"
+}

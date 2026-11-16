@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-67af",
+  "script": "kai",
+  "character": "枯",
+  "reading": "kū",
+  "description": "kū：(1)失去水分，水全没有了干～。～萎。～槁。～荣。～鱼衔索（串在绳索上的干鱼，形容存日不多）。\n(2)没趣味，无生趣～燥。～肠（喻枯涩贫乏的思路）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-枯"
+}

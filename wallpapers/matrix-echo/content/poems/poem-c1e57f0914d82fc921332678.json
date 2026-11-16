@@ -1,0 +1,18 @@
+{
+  "id": "poem-c1e57f0914d82fc921332678",
+  "title": "鹧鸪天·忆昔彤庭望日华",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "忆昔彤庭望日华。",
+    "匆匆枯笔梦生花。",
+    "郁轮袍曲惭新奏，风送银湾犯斗槎。",
+    "追往事，甫新瓜。",
+    "飞蓬何事及兰麻。",
+    "一江湘水流馀润，十里河堤筑浅沙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-243",
+  "tags": []
+}

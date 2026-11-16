@@ -1,0 +1,16 @@
+{
+  "id": "poem-4965168497a000125657ee7d",
+  "title": "归家山行",
+  "author": "项斯",
+  "dynasty": "唐",
+  "verses": [
+    "献赋才何拙，经时不耻归。",
+    "能知此意是，甘取众人非。",
+    "遍陇耕无圃，缘溪钓有矶。",
+    "此怀难自遣，期在振儒衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-390721dd-7011-48fd-872b-0ba53414ea40"
+}

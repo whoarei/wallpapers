@@ -1,0 +1,18 @@
+{
+  "id": "poem-e4fed68f0d4a39317a79a8bd",
+  "title": "河传·春浅",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "春浅，红怨，掩双环。",
+    "微雨花间，昼闲。",
+    "无言暗将红泪弹。",
+    "阑珊，香销轻梦还。",
+    "斜倚画屏思往事，皆不是，空作相思字。",
+    "记当时垂柳丝，花枝，满庭蝴蝶儿。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-213"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-002dc1e8ddb33c32a13e3fb9",
+  "title": "送马廿七秀才归小枯村",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "轻轻飞絮扑花枝，喜傍兰亭说旧诗。",
+    "君去小枯应为我，细看山带晚晴时。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-08202a99-6d06-4ef5-b8a9-c4d77ee38048"
+}

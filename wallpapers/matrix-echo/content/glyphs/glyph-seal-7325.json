@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7325",
+  "script": "seal",
+  "character": "猥",
+  "reading": "wěi",
+  "description": "wěi：(1)众，多。\n(2)琐碎烦杂～滥。～杂。\n(3)苟且然窃恨足下不深惟其终始，而～随俗之毁誉也”。\n(4)鄙陋，下流卑～。～亵。～劣。\n(5)谦辞，犹言辱先帝不以臣卑鄙，～自枉屈，三顾臣于草庐之中”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-猥"
+}

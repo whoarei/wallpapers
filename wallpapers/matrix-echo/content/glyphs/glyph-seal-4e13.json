@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e13",
+  "script": "seal",
+  "character": "专",
+  "reading": "zhuān",
+  "description": "纺专,收丝器\n专长\n独占;独用\n⒈独，独有，独占～断。～利。～权。～制。独断～行。\n⒉单纯，单一，集中在某一方面～注。～一。～心。～业。～选重担挑。\n①特定的门类～门学问。\n专tuán 1.聚集。参见\"尃生\"。 2.圆。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-专"
+}

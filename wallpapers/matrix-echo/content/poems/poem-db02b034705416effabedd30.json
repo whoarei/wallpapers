@@ -1,0 +1,16 @@
+{
+  "id": "poem-db02b034705416effabedd30",
+  "title": "秋宿青龙禅阁",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "前山不可望，暮色渐沉规。",
+    "日转须弥北，蟾来渤海西。",
+    "风铃乱僧语，霜枿欠猿啼。",
+    "阁外千家月，分明见里迷。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-070c44d2-e6e2-4040-83c2-5f6c18123917"
+}

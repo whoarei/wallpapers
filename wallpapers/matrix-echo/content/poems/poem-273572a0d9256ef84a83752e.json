@@ -1,0 +1,16 @@
+{
+  "id": "poem-273572a0d9256ef84a83752e",
+  "title": "进船泛洛水应制",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "禁园纡睿览，仙櫂叶时游。",
+    "洛北风花树，江南彩画舟。",
+    "芳生兰蕙草，春入凤凰楼。",
+    "兴尽离宫暮，烟光起夕流。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-ff99e0d0-d60c-48e0-ac5c-38b24a0eeb30"
+}

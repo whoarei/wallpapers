@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6db2",
+  "script": "kai",
+  "character": "液",
+  "reading": "yè",
+  "description": "yè：(1)能流动、有一定体积而没有一定形状的物质～体。～汁。～晶。～态。血～。精～。溶～。津～。\n(2)澄清凡为弓，冬析干而春～角”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-液"
+}

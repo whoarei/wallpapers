@@ -1,0 +1,20 @@
+{
+  "id": "poem-b59876117e6c90a2d47baf73",
+  "title": "菩萨蛮·稽山鉴水无寒暑",
+  "author": "曹勋",
+  "dynasty": "宋",
+  "verses": [
+    "稽山鉴水无寒暑。",
+    "荷香莲露相倾注。",
+    "堂拟揖樵风。",
+    "山围晚照红。",
+    "桃根随秀叶。",
+    "玉麈频招客。",
+    "客况不言蓬。",
+    "回船逸兴同。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-192",
+  "tags": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7f1d",
+  "script": "seal",
+  "character": "缝",
+  "reading": "féng",
+  "description": "补合\n缝合处\n缝 féng用针线连缀～补。\n【缝纫】剪裁制做服装。\n⒈裂开的或自然显露的窄长口子一条裂～。有道～隙。墙上有～。\n⒉接合的地方无～钢管。这是～合口留下的痕迹。\n⒊空子～隙。见～插针。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-缝"
+}

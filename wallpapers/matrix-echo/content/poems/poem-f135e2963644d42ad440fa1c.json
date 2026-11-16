@@ -1,0 +1,14 @@
+{
+  "id": "poem-f135e2963644d42ad440fa1c",
+  "title": "天池圣灯  其二",
+  "author": "萧之敏",
+  "dynasty": "宋",
+  "verses": [
+    "细如珠颗大如杯，照夜浮空去复来。",
+    "神物戏人安可料，密移星斗下岩隈。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-9822a40a-2f3b-4ac3-955d-0e7f5833da2b"
+}

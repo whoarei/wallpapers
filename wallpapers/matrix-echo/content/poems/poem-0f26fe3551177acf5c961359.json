@@ -1,0 +1,19 @@
+{
+  "id": "poem-0f26fe3551177acf5c961359",
+  "title": "虢国夫人",
+  "author": "杜甫",
+  "dynasty": "唐",
+  "verses": [
+    "虢国夫人承主恩，平明上马入宫门。",
+    "却嫌脂粉涴颜色，澹埽蛾眉朝至尊。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "写人",
+    "七言绝句",
+    "唐诗三百首",
+    "讽刺"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-15180235-db35-499b-8fd5-b8d9fa92f5f2"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-96cd",
+  "script": "seal",
+  "character": "雍",
+  "reading": "yōng",
+  "description": "yōng：(1)和谐。\n(2)古同壅”，遮蔽，壅塞。\n(3)古同拥”，拥有。\n(4)姓。\n〔～～〕ａ．鸟和鸣声，如～～鸣雁”；ｂ．乐声和谐，如听庙中之～～”。\n〔～容〕文雅大方，从容不迫的样子，如～～大雅”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-雍"
+}

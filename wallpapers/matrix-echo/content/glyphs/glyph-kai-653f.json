@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-653f",
+  "script": "kai",
+  "character": "政",
+  "reading": "zhèng",
+  "description": "zhèng：(1)治理国家事务～治。～府。～党。～权。～纲。～策。～令。～绩。～见。～客（为个人或某一集团利益从事政治活动的人）。～局。～变。参～。议～。\n(2)国家某一部门主管的业务财～。邮～。民～。\n(3)家庭或集体生活中的事务家～。\n(4)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-政"
+}

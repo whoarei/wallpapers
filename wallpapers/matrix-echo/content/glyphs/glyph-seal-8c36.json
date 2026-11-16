@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c36",
+  "script": "seal",
+  "character": "谶",
+  "reading": "chèn",
+  "description": "谶纬\n谶纬之学\n谶语\n当时无意中说出,不意日后竟成谶语\n谶 chèn迷信的人所称将来能应验的预言、预兆。\n【谶纬】流行于汉代的一种迷信。主要以古代河图、洛书的神话及西汉董仲舒的天人感应说为理论依据，将自然界的偶然现象神秘化，并视为社会安定的决定因素。盛行于西汉\n后期，东汉末期渐衰。\n【谶语】迷信的人指事前预言、事后应验的话。\n谶chèn迷信者宣扬的所谓\"日后会应验的预言、预兆\"莫信～语。\n谶chàn 1.忏悔。参见\"谶悔\"。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谶"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-ea01052a34352b80701472c3",
+  "title": "咏史诗 陈宫",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "陈国机权未可涯，如何后主恣娇奢。",
+    "不知即入宫中井，犹自听吹玉树花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3b7679ae-244f-4bf8-b15e-eca75faf6412"
+}

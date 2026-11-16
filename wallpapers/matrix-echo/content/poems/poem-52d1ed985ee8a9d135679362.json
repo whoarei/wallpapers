@@ -1,0 +1,16 @@
+{
+  "id": "poem-52d1ed985ee8a9d135679362",
+  "title": "谢程帅袁制使  其五",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "江左风流人，安石颇巨擘。",
+    "丝竹不去耳，用逃忧患域。",
+    "陶琴不须弦，我辈所矜式。",
+    "设逢东山翁，兕觥与浮白。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-340273df-4658-441f-8cea-ff7c3f231f1a"
+}

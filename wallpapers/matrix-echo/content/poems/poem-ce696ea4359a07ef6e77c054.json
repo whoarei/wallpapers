@@ -1,0 +1,18 @@
+{
+  "id": "poem-ce696ea4359a07ef6e77c054",
+  "title": "好事近·凝碧旧池头",
+  "author": "韩元吉",
+  "dynasty": "宋",
+  "verses": [
+    "凝碧旧池头，一听管弦凄切。",
+    "多少梨园声在，总不堪华发。",
+    "杏花无处避春愁，也傍野烟发。",
+    "惟有御沟声断，似知人呜咽。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-57"
+}

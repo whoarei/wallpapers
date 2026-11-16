@@ -1,0 +1,19 @@
+{
+  "id": "poem-a692ac7b5c9ea16095c2ecc9",
+  "title": "行路难 三",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "君不见道傍废井生古木，本是骄奢贵人屋。",
+    "几度美人照影来，素绠银缾濯纤玉。",
+    "云飞雨散今如此，绣闼雕甍作荒谷。",
+    "沸渭笙歌君莫夸，不应常是西家哭。",
+    "休谁遗编行者几，至竟终须合天理。",
+    "败他成此亦何功，苏张终作多言鬼。",
+    "行路难，行路难，不在羊肠里。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-d7df0412-a577-49e5-aa8b-adb1a3d8d635"
+}

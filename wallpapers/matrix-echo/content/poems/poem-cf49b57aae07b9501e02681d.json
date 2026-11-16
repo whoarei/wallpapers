@@ -1,0 +1,16 @@
+{
+  "id": "poem-cf49b57aae07b9501e02681d",
+  "title": "和谢舍人雪夜寓直",
+  "author": "皇甫曾",
+  "dynasty": "唐",
+  "verses": [
+    "禁省夜沈沈，春风雪满林。",
+    "沧洲归客梦，青琐近臣心。",
+    "挥翰宣鸣玉，承恩在赐金。",
+    "建章寒漏起，更助掖垣深。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-9149aa7c-b352-4a0f-aaeb-85ab10403744"
+}

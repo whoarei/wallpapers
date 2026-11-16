@@ -1,0 +1,16 @@
+{
+  "id": "poem-acfc459ad1b9cf792a48d94b",
+  "title": "送人之天台",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "行李一枝藤，云边晓扣冰。",
+    "丹经如不谬，白发亦何能。",
+    "浅井仙人镜，明珠海客灯。",
+    "乃知真隐者，笑就汉廷徴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-d1c3e41d-abbf-493d-857b-1310850859b3"
+}

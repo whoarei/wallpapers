@@ -1,0 +1,18 @@
+{
+  "id": "poem-07a0eb29cc2a5f34ec9c6283",
+  "title": "越裳贡白雉",
+  "author": "丁仙芝",
+  "dynasty": "唐",
+  "verses": [
+    "圣哲承休运，伊夔列上台。",
+    "覃恩丹徼远，入贡素翚来。",
+    "北阙欣初见，南枝顾未回。",
+    "歛容残雪净，矫翼片云开。",
+    "驯扰将无惧，翻飞幸不猜。",
+    "甘从上林里，饮啄自徘徊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-a04e286d-365c-465f-be1e-6bd6497c38f9"
+}

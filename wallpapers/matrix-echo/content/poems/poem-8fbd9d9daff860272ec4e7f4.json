@@ -1,0 +1,17 @@
+{
+  "id": "poem-8fbd9d9daff860272ec4e7f4",
+  "title": "寄远",
+  "author": "马戴",
+  "dynasty": "唐",
+  "verses": [
+    "坐想亲爱远，行嗟天地阔。",
+    "积疹甘毁颜，沈忧更销骨。",
+    "迢迢游子心，望望归云没。",
+    "乔木非故里，高楼共明月。",
+    "夜深秋风多，闻鴈来天末。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-a8e9af2a-ed90-4b8a-8fcf-b5fc625e3c37"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8042",
+  "script": "seal",
+  "character": "聂",
+  "reading": "niè",
+  "description": "假借为摄”。握持\n古代地名\n聂zhé 1.切成薄片的肉。\n聂shè 1.\"摄\"的古字。握持。 2.惧怕。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-聂"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6c27",
+  "script": "kai",
+  "character": "氧",
+  "reading": "yǎng",
+  "description": "yǎng：一种气体元素，无色、无味、无臭。氧在冶金工业、化学工业中用途很广，也是人和动、植物呼吸所必需的气体～化。臭～。输～。～割。～化焰。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-氧"
+}

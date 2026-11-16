@@ -1,0 +1,16 @@
+{
+  "id": "poem-a3b149635fb161fdbb78eb65",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(老旦)衰老年，只愁烟瘴为吾患。",
+    "幸家门吉庆，子母平安。",
+    "今日里子擢高官，饮别酒应难留恋。",
+    "(合前)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8285",
+  "tags": []
+}

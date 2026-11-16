@@ -1,0 +1,16 @@
+{
+  "id": "poem-6baa958ee577e42b33e801dc",
+  "title": "月渚",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "秀色老千岩，窗虚小鬰蓝。",
+    "水明收晚照，沙暝展晴岚。",
+    "野饷隠沦共，清游名胜谈。",
+    "中秋无好友，举酒便成三。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-b08234f4-e80d-47de-89d0-8c2ab0453339"
+}

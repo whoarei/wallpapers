@@ -1,0 +1,16 @@
+{
+  "id": "poem-8496c24916db33128fb979d4",
+  "title": "闻新蝉寄桂雍",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "新蝉终夜呌，嘒嘒隔溪𣸣。",
+    "杜宇仍相杂，故人闻不闻。",
+    "卷帘花动月，冥目砌生云。",
+    "终共谢时去，西山鸾鹤群。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-ebe9157b-aa85-4210-b319-51c686e3c00f"
+}

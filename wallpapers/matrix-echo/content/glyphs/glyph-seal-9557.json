@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9557",
+  "script": "seal",
+  "character": "镗",
+  "reading": "táng",
+  "description": "钟鼓的声音或敲锣的声音\n镗 〈名〉\n加工零件内孔的一种方法\n镗 〈动〉\n用镗孔刀内旋切\n⒈像声词。打钟鼓或敲锣的声音。\n⒉乐器名。一种小锣，称\"～儿\"或\"小～儿\"。\n镗táng同\"搪\"。用泥土、涂料等抹涂。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-镗"
+}

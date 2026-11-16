@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5835",
+  "script": "seal",
+  "character": "堵",
+  "reading": "dǔ",
+  "description": "dǔ：(1)阻塞（sè），挡～塞。～挡。～截。～击。～嘴。\n(2)心中不畅快～心。\n(3)墙围者如～。\n(4)量词，用于墙。\n(5)古代钟或磐十六枚编成一组，挂在一个架子上称一堵”。\n(6)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-堵"
+}

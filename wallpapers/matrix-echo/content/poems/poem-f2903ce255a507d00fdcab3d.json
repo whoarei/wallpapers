@@ -1,0 +1,20 @@
+{
+  "id": "poem-f2903ce255a507d00fdcab3d",
+  "title": "送修武郑主簿纠郡梓潼兼寄王舍人八韵",
+  "author": "徐铉",
+  "dynasty": "宋",
+  "verses": [
+    "杖策辞清浴，驱车向梓潼。",
+    "栖鸾才乍展，叱驭气方雄。",
+    "暂割趋庭恋，将伸纠郡功。",
+    "诗清冲密雪，别酒愬寒风。",
+    "山水秦关外，烟花锦里东。",
+    "府公名素重，语掾道仍同。",
+    "坐啸新知洽，随行旧分通。",
+    "当令从此去，不复数文翁。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-0fc5a2c7-2f47-4fe7-a559-d048df8f7530"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-cd004b3ee40561e9ccdfd81a",
+  "title": "江行望匡庐",
+  "author": "钱起",
+  "dynasty": "唐",
+  "verses": [
+    "咫尺愁风雨，匡庐不可登。",
+    "只疑云雾窟，犹有六朝僧。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-江行望匡廬"
+}

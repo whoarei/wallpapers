@@ -1,0 +1,16 @@
+{
+  "id": "poem-c1ec4444fd5c4c76662ed28d",
+  "title": "奉和初春幸太平公主南庄应制",
+  "author": "李邕",
+  "dynasty": "唐",
+  "verses": [
+    "传闻银汉支机石，复见金舆出紫微。",
+    "织女桥边乌鹊起，仙人楼上凤皇飞。",
+    "流风入座飘歌扇，瀑水侵阶溅舞衣。",
+    "今日还同犯牛斗，乘槎共逐海潮归。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-fe2277d7-42fb-4069-b4d2-c69887a0b629"
+}

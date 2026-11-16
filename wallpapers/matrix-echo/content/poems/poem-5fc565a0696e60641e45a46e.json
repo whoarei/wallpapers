@@ -1,0 +1,16 @@
+{
+  "id": "poem-5fc565a0696e60641e45a46e",
+  "title": "罗道士",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "城里无人得实年，衣襟常带臭黄烟。",
+    "楼中赊酒唯留药，洞里争棋不赌钱。",
+    "闻客语声知贵贱，持花歌咏似狂颠。",
+    "寻常行处皆逢见，世上多疑是谪仙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-bb9157d6-9cc6-42ff-8fb0-b59181af7aba"
+}

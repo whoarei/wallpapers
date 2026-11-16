@@ -1,0 +1,14 @@
+{
+  "id": "poem-cb40942462ae38f64a8ef5bd",
+  "title": "题宇文秀才樱桃",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "风光莫占少年家，白发殷勤最恋花。",
+    "今日颠狂任君笑，趂愁得醉眼麻茶。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-bc669dfe-f2a1-4943-8995-09a55eb09188"
+}

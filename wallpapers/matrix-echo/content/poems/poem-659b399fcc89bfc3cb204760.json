@@ -1,0 +1,16 @@
+{
+  "id": "poem-659b399fcc89bfc3cb204760",
+  "title": "次韵湖南张运判会春园新亭之什",
+  "author": "华镇",
+  "dynasty": "宋",
+  "verses": [
+    "落落长松满古园，沈沈碧水侵新轩。",
+    "于今人物情虽别，平昔池台迹未昏。",
+    "身外无尘红入座，眼前有酒绿盈樽。",
+    "更将好乐无荒意，深入无生不二门。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-e82400b8-1322-4589-95d8-bc0fccff0a76"
+}

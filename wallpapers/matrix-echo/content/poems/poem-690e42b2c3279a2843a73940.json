@@ -1,0 +1,16 @@
+{
+  "id": "poem-690e42b2c3279a2843a73940",
+  "title": "河渎神·古树噪寒鸦",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "古树噪寒鸦，满庭枫叶芦花。",
+    "昼灯当午隔轻纱，画阁珠帘影斜。",
+    "门外往来祈赛客，翩翩帆落天涯。",
+    "回首隔江烟火，渡头三两人家。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-2"
+}

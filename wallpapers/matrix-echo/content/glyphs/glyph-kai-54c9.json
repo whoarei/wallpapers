@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-54c9",
+  "script": "kai",
+  "character": "哉",
+  "reading": "zāi",
+  "description": "zāi：(1)文言语气助词（a.表疑问或反诘，相当于吗”，呢”，如何～？”有何难～？”b.表感叹，相当于啊”，如快～！”）。\n(2)古同才”，开始。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-哉"
+}

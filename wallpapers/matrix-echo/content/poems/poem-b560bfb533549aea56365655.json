@@ -1,0 +1,16 @@
+{
+  "id": "poem-b560bfb533549aea56365655",
+  "title": "送圆仁三藏归本国",
+  "author": "栖白",
+  "dynasty": "唐",
+  "verses": [
+    "家山临晚日，海路信归桡。",
+    "树灭浑无岸，风生只有潮。",
+    "岁穷程未尽，天末国仍遥。",
+    "已入闽王梦，香花境外邀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6fd9c5e0-d17c-4f1b-96a3-f1d858f26bcd"
+}

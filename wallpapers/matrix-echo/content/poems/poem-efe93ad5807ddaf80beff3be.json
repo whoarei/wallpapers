@@ -1,0 +1,18 @@
+{
+  "id": "poem-efe93ad5807ddaf80beff3be",
+  "title": "望江南・忆江南·歌席上",
+  "author": "周邦彦",
+  "dynasty": "宋",
+  "verses": [
+    "歌席上，无赖是横波。",
+    "宝髻玲珑敧玉燕，绣巾柔腻掩香罗。",
+    "人好自宜多。",
+    "无个事，因甚敛双蛾。",
+    "浅淡梳妆疑见画，惺忪言语胜闻歌。",
+    "何况会婆娑。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-465",
+  "tags": []
+}

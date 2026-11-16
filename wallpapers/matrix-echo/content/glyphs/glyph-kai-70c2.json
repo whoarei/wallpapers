@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-70c2",
+  "script": "kai",
+  "character": "烂",
+  "reading": "làn",
+  "description": "此儿头不烂。\n是必烂也。\n三首俱烂。\n火烧伤\n头绪乱\n零碎,断片\n⒈稀软～泥。\n⒉过熟，熟透蚕豆煮～了。〈引〉极，甚这本书读得～熟。\n⒊腐朽，败坏敌人一天天～下去。\n⒋腐坏，破碎腐～。～桃子。～衣服。破铜～铁。\n⒌头绪乱～摊子。\n⒍［烂漫］［烂熳］［烂缦］\n①色彩鲜艳，光彩四射云霞～漫。\n②坦率自然，毫无做作天真～漫。\n③散乱忽～漫而无成。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-烂"
+}

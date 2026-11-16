@@ -1,0 +1,14 @@
+{
+  "id": "poem-96207f8b5ac5c6f5ba050d9c",
+  "title": "维扬万花园",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "细柳营基锁绿苔，万花新种小亭台。",
+    "芙蓉喜见江南客，故向西风一夜开。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-d80dba85-b17f-44b0-8781-8e44b1a7eb73"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-557c",
+  "script": "seal",
+  "character": "啼",
+  "reading": "tí",
+  "description": "tí：(1)哭，出声地哭～哭。～泣。悲～。～笑皆非。\n(2)鸟兽叫～鸣。～叫。虎啸猿～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-啼"
+}

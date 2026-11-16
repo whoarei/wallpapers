@@ -1,0 +1,22 @@
+{
+  "id": "poem-f9a06cbc87b2f8082ecb2127",
+  "title": "青玉案·三年枕上吴中路",
+  "author": "蒋璨",
+  "dynasty": "宋",
+  "verses": [
+    "三年枕上吴中路。",
+    "遣黄耳、随君去。",
+    "欲过松江呼小渡。",
+    "莫惊鸥鹭，四桥都是，老子经行处。",
+    "辋川图上看春暮。",
+    "长忆高人右丞句。",
+    "作个归期天未许。",
+    "春衫犹是，小蛮针线，曾湿西湖雨。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-983",
+  "tags": [
+    "西湖"
+  ]
+}

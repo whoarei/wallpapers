@@ -1,0 +1,18 @@
+{
+  "id": "poem-daa9be74820e0bcc9bdee327",
+  "title": "春日晋祠同声会集得疎字韵",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "风壤瞻唐本，山祠阅晋余。",
+    "水亭开帟幕，岩榭引簪裾。",
+    "地绿苔犹少，林黄柳尚疎。",
+    "菱苕生皎镜，金碧照澄虚。",
+    "翰苑声何旧，宾筵醉止初。",
+    "中州有辽雁，好为系边书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-344bb72a-dec5-427d-b523-bc60d71bc8ee"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-75577289f51a1f0d759e6d3f",
+  "title": "褰裳",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "子惠思我，褰裳涉溱。子不我思，岂无他人？狂童之狂也且！",
+    "子惠思我，褰裳涉洧。子不我思，岂无他士？狂童之狂也且！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-86"
+}

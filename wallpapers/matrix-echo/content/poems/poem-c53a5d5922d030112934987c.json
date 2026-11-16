@@ -1,0 +1,17 @@
+{
+  "id": "poem-c53a5d5922d030112934987c",
+  "title": "贺明朝·忆昔花间相见后",
+  "author": "欧阳炯",
+  "dynasty": "五代",
+  "verses": [
+    "忆昔花间相见后，只凭纤手，暗抛红豆。",
+    "人前不解，巧传心事。",
+    "别来依旧，辜负春昼。",
+    "碧罗衣上蹙金绣，睹对对鸳鸯，空裛泪痕透。",
+    "想韶颜非久，终是为伊，只恁偷瘦。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-6-juan.json#record-10"
+}

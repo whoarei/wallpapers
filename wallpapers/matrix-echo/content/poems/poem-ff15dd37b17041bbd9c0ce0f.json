@@ -1,0 +1,18 @@
+{
+  "id": "poem-ff15dd37b17041bbd9c0ce0f",
+  "title": "怀远人",
+  "author": "鲍溶",
+  "dynasty": "唐",
+  "verses": [
+    "远道在天际，客行如浮云。",
+    "浮云不知归，似我长望君。",
+    "秋至汉水高，南音何时闻？",
+    "瑶草难远寄，西风气氤氲。",
+    "常恐山岳游，不反鸾凤群。",
+    "无厌坐迟人，风雨惊斯文。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-1b6346c1-d8ad-4c81-86b3-5b148d34e4dc"
+}

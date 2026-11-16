@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-56de",
+  "script": "seal",
+  "character": "回",
+  "reading": "huí",
+  "description": "⒈返，还，归～家乡。～祖国。～来吧。\n⒉答复，报答～音。～电。～报。\n⒊掉转，看过去，忆往昔～首。～顾。～忆。～心转意。\n⒋曲折，环绕，旋转～形针。峰～路转。巡～医疗。\n⒌量词两～事。他去了一～北京。\n⒍长篇小说的章节章～小说。第八～。\n①头朝后转～头看。\n②等一会儿～头再说。\n③回归，返回切莫一去不～头。\n④醒悟，改邪归正～头是岸。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-回"
+}

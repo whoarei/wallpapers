@@ -1,0 +1,16 @@
+{
+  "id": "poem-a6f7302c7fba8a37df5c6e6e",
+  "title": "送薛良史往越州谒从叔",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "辞家年已久，与子分偏深。",
+    "易得相思泪，难为欲别心。",
+    "孤云随浦口，几日到山阴。",
+    "遥想兰亭下，清风满竹林。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-377fd9dd-3ab4-4bb4-8eaa-6a5334b38d14"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-925a29d7ee2f24b68a4c8aec",
+  "title": "偶作二首 二",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "门前数枝路，路路车马鸣。",
+    "名埃与利尘，千里万里行。",
+    "只见青山高，岂见青山平。",
+    "朱门势峨峨，冠盖何光明。",
+    "黄鸟在花里，青蝉夺其声。",
+    "尔生非金玉，岂常贵复贞。",
+    "寄言之子心，可以归无形。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-46bc2d31-92f6-4e9b-a69e-df3ce6139ac0"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "poem-33eb7ea76a9754faec3ef1e6",
+  "title": "小苑春望宫池柳色",
+  "author": "沈回",
+  "dynasty": "唐",
+  "verses": [
+    "今来游上苑，春染柳条轻。",
+    "濯濯方含色，依依若有情。",
+    "分行临曲沼，先发媚重城。",
+    "拂水枝偏弱，摇风丝已生。",
+    "变黄随淑景，吐翠逐新晴。",
+    "伫立徒延首，裴回欲寄诚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-8b5e6994-a85a-4235-b84a-1d4f24ee0aa1"
+}

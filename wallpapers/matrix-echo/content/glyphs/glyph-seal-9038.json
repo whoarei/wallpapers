@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9038",
+  "script": "seal",
+  "character": "逸",
+  "reading": "yì",
+  "description": "yì：(1)跑，逃跑，逃～。奔～。\n(2)散失～散。～史。～事。～闻。\n(3)安闲，安乐安～。～乐（安乐）。以～待劳。闲情～致。\n(4)超过一般超～。～兴（xìng）（超逸豪放的兴致）。～趣。～致。～品（超脱绝俗的艺术品）。～珠（特异的珍珠，喻人的品德）。\n(5)隐遁～士（隐居之士）。～民（ａ．旧时称遁世隐居不做官的人；ｂ．亡国后不在新朝代做官的人，亦作佚民”）。\n(6)放任，不受拘束～荡。飘～。骄奢淫～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-逸"
+}

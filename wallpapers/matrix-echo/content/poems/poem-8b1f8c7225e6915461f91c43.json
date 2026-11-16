@@ -1,0 +1,14 @@
+{
+  "id": "poem-8b1f8c7225e6915461f91c43",
+  "title": "偈颂十四首  其一三",
+  "author": "释印肃",
+  "dynasty": "宋",
+  "verses": [
+    "一轮秋月映悲风，数和松音标此意。",
+    "因缘究竟莫劳神，时节到来无不备。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-64190703-f162-4539-b8a8-2d1b5efbe656"
+}

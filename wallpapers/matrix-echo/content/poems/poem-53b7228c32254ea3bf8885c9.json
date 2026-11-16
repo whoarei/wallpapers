@@ -1,0 +1,16 @@
+{
+  "id": "poem-53b7228c32254ea3bf8885c9",
+  "title": "题横水驿双峰院松",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "故园溪上雪中别，野馆门前云外逢。",
+    "白发渐多何事苦，清阴长在好相容。",
+    "迎风几拂朝天骑，带月犹含度岭钟。",
+    "更忆葛洪丹井畔，数株临水欲成龙。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-afade0d6-6e8e-4b1e-854e-a3fb8705aa20"
+}

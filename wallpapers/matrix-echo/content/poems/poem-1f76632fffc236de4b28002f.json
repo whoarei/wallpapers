@@ -1,0 +1,14 @@
+{
+  "id": "poem-1f76632fffc236de4b28002f",
+  "title": "江行无题一百首 十一",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "夜江清未晓，徒惜月光沉。",
+    "不是因行乐，堪伤老大心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-e68cb702-b6a6-401a-a1ae-98228a2d566f"
+}

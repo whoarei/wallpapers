@@ -1,0 +1,17 @@
+{
+  "id": "poem-ed202f8d7cf1d135cd710d09",
+  "title": "李夫人歌",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "紫皇宫殿重重开，夫人飞入琼瑶台。",
+    "绿香绣帐何时歇，青云无光宫水咽。",
+    "翩联桂花坠秋月，孤鸾惊啼商丝发。",
+    "红壁阑珊悬珮珰，歌台小妓遥相望。",
+    "玉蟾滴水鸡人唱，露华兰叶参差光。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-7bd22cdb-d78e-4bd5-af73-b08be1974bbe"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-564e",
+  "script": "seal",
+  "character": "噎",
+  "reading": "yē",
+  "description": "yē：(1)食物塞住了嗓子因～废食。～着了。\n(2)因为迎风而呼吸因难这风真～人。\n(3)说话顶撞人，使人无话可答他说话能把人～死。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-噎"
+}

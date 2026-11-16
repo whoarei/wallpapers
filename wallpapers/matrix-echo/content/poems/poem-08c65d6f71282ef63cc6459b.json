@@ -1,0 +1,16 @@
+{
+  "id": "poem-08c65d6f71282ef63cc6459b",
+  "title": "建元寺集皇甫侍御书阁",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "不因居佛里，无事得相逢。",
+    "名重朝端望，身高俗外踪。",
+    "机闲看净水，境寂听疎钟。",
+    "宣室恩长在，知君志未从。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6cf38d83-ee7f-4f5d-b670-c2115430cb34"
+}

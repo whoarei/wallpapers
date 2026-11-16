@@ -1,0 +1,16 @@
+{
+  "id": "poem-265098912494aa552e29b4e5",
+  "title": "金陵凤凰台",
+  "author": "汪宗臣",
+  "dynasty": "宋",
+  "verses": [
+    "龙虎势称雄，凤凰台望浓。",
+    "潮翻江汉转，地扼楚淮冲。",
+    "平野频烽火，孤城半稑穜。",
+    "丹楹傍萧寺，尘扆识高宗。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-c7c978f4-20d0-49ee-8ce3-3265d64f587a"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-671f",
+  "script": "kai",
+  "character": "期",
+  "reading": "qī；jī",
+  "description": "qī：(1)规定的时间，或一段时间定～。限～。～限。学～。\n(2)量词，用于刊物或其他分期的事物第五～。\n(3)盼望，希望～望。～冀。～盼。～待。\n(4)限度征敛无～求索无度”。\n(5)必，决定～死，非勇也”。\n(6)地质学上指在一个国境内或一个大区域内，小于世”的地质年代单位。\n〔～颐〕指人活到一百岁。\njī：一周年，一整月～年。～月。～服（古代丧服名，要穿一年）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-期"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-b6b002bc961d28f5413aa108",
+  "title": "水调歌头·醉击玉壶缺",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "醉击玉壶缺，恨写绿琴哀。",
+    "悠悠往事谁问，离思渺难裁。",
+    "绿野堂前桃李，燕子楼中歌吹，那忍首重回。",
+    "唯有旧时月，远远逐人来。",
+    "小庭空，清夜永，独徘徊。",
+    "伴人幽怨，一枝潇洒陇头梅。",
+    "肠断云帆西去，目送烟波东注，千里接长淮。",
+    "为我将双泪，好过楚王台。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-917",
+  "tags": []
+}

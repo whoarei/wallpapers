@@ -1,0 +1,16 @@
+{
+  "id": "poem-c1e0af4802360debbc96dd80",
+  "title": "敦煌廿咏（并序） 三、莫高窟咏[二]",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "雪岭干青汉，云楼架碧空，重开千佛刹[一二]，旁出四天宫。",
+    "瑞鸟含珠影，灵花吐蕙藂（丛）。",
+    "洗心游胜境，从此去尘蒙。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-24f02f29-53d6-4eb3-bfe4-5baa60950a94"
+}

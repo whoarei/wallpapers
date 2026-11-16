@@ -1,0 +1,14 @@
+{
+  "id": "poem-18cf4477f550e98a132f5331",
+  "title": "夜月独坐二绝句  其一",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "冰轮杳杳碾层空，独坐凄然秋色中。",
+    "深院无人共清景，静闻金井落梧桐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-25ae1ac6-ad61-4bb2-a5d5-67da1260036d"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-aa28d6d2b2a60b42c5c4030c",
+  "title": "夜游宫·城上昏烟四敛",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "城上昏烟四敛。",
+    "画楼外、陡听更点。",
+    "千里相思梦中见。",
+    "恨年华，逐东流，随急箭。",
+    "帘影参差转。",
+    "夜初过、水沈烟乱。",
+    "剩枕馀衾故人远。",
+    "忆闲窗，亸云鬓，低粉面。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-543",
+  "tags": []
+}

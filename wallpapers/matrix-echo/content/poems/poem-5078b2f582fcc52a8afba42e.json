@@ -1,0 +1,21 @@
+{
+  "id": "poem-5078b2f582fcc52a8afba42e",
+  "title": "度南涧",
+  "author": "蔡襄",
+  "dynasty": "唐",
+  "verses": [
+    "隠隠飞桥隔野烟，石矶西畔问渔船。",
+    "桃花尽日随流水，洞在清溪何处边。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "描写水",
+    "写景",
+    "抒情",
+    "唐诗三百首",
+    "七言绝句",
+    "写水"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-e72db286-3b6a-425b-ad02-75248ea5a790"
+}

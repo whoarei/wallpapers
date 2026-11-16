@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5360",
+  "script": "seal",
+  "character": "占",
+  "reading": "zhàn；zhān",
+  "description": "zhān：(1)迷信的人用铜钱或牙牌等判断吉凶～卜。～卦。\n(2)姓。\nzhàn：(1)据有，用强力取得～据。霸～。强～。\n(2)处于某种地位或情势～理。～优势。\n(3)口说，口授。\n(4)估计上报令民得以律～租。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-占"
+}

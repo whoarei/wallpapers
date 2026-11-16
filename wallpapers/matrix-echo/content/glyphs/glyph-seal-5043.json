@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5043",
+  "script": "seal",
+  "character": "偃",
+  "reading": "yǎn",
+  "description": "yǎn：(1)仰面倒下，放倒～卧。～仆。～仰（俯仰，喻随俗应付）。～旗息鼓。\n(2)停止～息。～武修文。\n(3)古同堰”，堤坝。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-偃"
+}

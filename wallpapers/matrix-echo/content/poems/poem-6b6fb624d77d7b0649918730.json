@@ -1,0 +1,16 @@
+{
+  "id": "poem-6b6fb624d77d7b0649918730",
+  "title": "生查子·烟雨晚晴天",
+  "author": "魏承班",
+  "dynasty": "五代",
+  "verses": [
+    "烟雨晚晴天，零落花无语。",
+    "难话此时心，梁燕双来去。",
+    "琴韵对薰风，有恨和情抚。",
+    "肠断断弦频，泪滴黄金缕。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-9-juan.json#record-9"
+}

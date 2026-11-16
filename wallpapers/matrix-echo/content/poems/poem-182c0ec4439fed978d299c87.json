@@ -1,0 +1,16 @@
+{
+  "id": "poem-182c0ec4439fed978d299c87",
+  "title": "与诸同僚偶会赋八题 坐久月初上",
+  "author": "苏颂",
+  "dynasty": "宋",
+  "verses": [
+    "高轩微雨过，初夕凉风生。",
+    "兀坐正幽寂，云间月华明。",
+    "移榻向寒阶，遥望孤蟾清。",
+    "所思故人远，对此伤予情。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-f325962c-49e1-4b6d-aebf-c1eede2326e2"
+}

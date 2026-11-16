@@ -1,0 +1,21 @@
+{
+  "id": "poem-0bb3faa93f3946aa615b0485",
+  "title": "婆罗门引·风涟乱翠",
+  "author": "吴文英",
+  "dynasty": "宋",
+  "verses": [
+    "风涟乱翠，酒霏飘汗洗新妆。",
+    "幽情暗寄莲房。",
+    "弄雪调冰重会，临水暮追凉。",
+    "正碧云不破，素月微行。",
+    "双成夜笙，断旧曲、解明珰。",
+    "别有红娇粉润，初试霓裳。",
+    "分莲调郎。",
+    "又拈惹、花茸碧唾香。",
+    "波晕切、一盼秋光。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-483",
+  "tags": []
+}

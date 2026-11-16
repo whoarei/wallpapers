@@ -1,0 +1,16 @@
+{
+  "id": "poem-f50e1e1644899bb90af56f10",
+  "title": "过庆宝寺",
+  "author": "司空曙",
+  "dynasty": "唐",
+  "verses": [
+    "黄叶前朝寺，无僧寒殿开。",
+    "池晴龟出曝，松暮鹤飞回。",
+    "古井碑横草，阴廊画杂苔。",
+    "禅宫亦销歇，尘世转堪哀。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-3ba99fff-5db9-4e38-9f05-6e4466a2c150"
+}

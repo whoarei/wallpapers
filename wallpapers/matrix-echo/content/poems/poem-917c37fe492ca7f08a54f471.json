@@ -1,0 +1,16 @@
+{
+  "id": "poem-917c37fe492ca7f08a54f471",
+  "title": "临安长官号两山",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "小筑难谋似燕营，卷帘容燕贺新成。",
+    "绿抽万玉医人俗，青出双螺闯户明。",
+    "家与宦贫宁免仕，猨教鹤伴不须惊。",
+    "紫荆花下庭萱老，浊酒狂歌燕弟兄。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-58e71b09-95a8-4d96-9645-6a36f7ca25b5"
+}

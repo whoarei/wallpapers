@@ -1,0 +1,14 @@
+{
+  "id": "poem-7c24d8c3803156e3764490b2",
+  "title": "读庄子六绝句  其六",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "诋欺儒墨每云云，刍狗诗书迹已陈。",
+    "泯绝是非归道妙，扫除糠粃见天真。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-3ff56629-830d-4802-9ef8-14d306799827"
+}

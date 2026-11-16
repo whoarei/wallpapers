@@ -1,0 +1,13 @@
+{
+  "id": "poem-6afc54df5883c61a0fa8e79b",
+  "title": "句",
+  "author": "宋太祖",
+  "dynasty": "宋",
+  "verses": [
+    "未离海底千山黑，才到天中万国明。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.0.json#record-adaa27a4-389b-48ca-8021-80f0471433c4"
+}

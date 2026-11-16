@@ -1,0 +1,14 @@
+{
+  "id": "poem-c7d615b11b7786d5edfeae40",
+  "title": "重阳四首 四",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "白发怕寒梳更懒，黄花晴日照初开。",
+    "篱头应是蝶相报，已被邻家携酒来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-c0783ac9-a773-46ac-ba0b-f718010cd17e"
+}

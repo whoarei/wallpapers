@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-58a9",
+  "script": "kai",
+  "character": "墩",
+  "reading": "dūn",
+  "description": "dūn：(1)土堆土～。\n(2)厚而粗的木头、石头等；座儿桥～。菜～（切菜用的砧类器具）。树～。\n(3)量词，用于丛生的或几棵合在一起的植物一～谷子。柳～。\n(4)古同蹲”。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-墩"
+}

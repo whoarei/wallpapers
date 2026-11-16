@@ -1,0 +1,14 @@
+{
+  "id": "poem-bd11beb141d567dabaaa6233",
+  "title": "羽调排歌",
+  "author": "徐田臣《杀狗记》",
+  "dynasty": "元",
+  "verses": [
+    "(生)愚蠢孙华，情偏意迷，全亏家有贤妻。",
+    "(旦)今朝兄弟共怡怡，堪笑乔人枉用机。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-1961",
+  "tags": []
+}

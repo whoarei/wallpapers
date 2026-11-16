@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-859c",
+  "script": "seal",
+  "character": "薜",
+  "reading": "bì",
+  "description": "bì：(1)古书上指当归。\n(2)古书上指野麻。\n〔～荔〕常绿灌木，茎蔓生，果实球形，可做淀粉，捣汁可做饮料。简称薜”，如～萝”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-薜"
+}

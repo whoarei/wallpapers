@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-614c",
+  "script": "kai",
+  "character": "慌",
+  "reading": "huāng",
+  "description": "huāng：(1)急忙，不沉着～张。～忙。～乱。～急。\n(2)恐惧，不安惊～。～恐。心～意乱。\n(3)表示难以忍受累得～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-慌"
+}

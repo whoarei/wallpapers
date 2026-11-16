@@ -1,0 +1,15 @@
+{
+  "id": "poem-fa69a802d3c3d29824592bb1",
+  "title": "木瓜",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "投我以木瓜，报之以琼琚。匪报也，永以为好也！",
+    "投我以木桃，报之以琼瑶。匪报也，永以为好也！",
+    "投我以木李，报之以琼九。匪报也，永以为好也！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-63"
+}

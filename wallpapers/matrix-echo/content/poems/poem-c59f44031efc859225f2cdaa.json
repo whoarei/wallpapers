@@ -1,0 +1,20 @@
+{
+  "id": "poem-c59f44031efc859225f2cdaa",
+  "title": "昭台行  其二",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "将军发机阴中的，功如熟稼生螟𫋌。",
+    "母仪天下极尊荣，非道得之非所得。",
+    "一朝乐去悲相随，霜露既降风凄其。",
+    "惸惸吊景将安之，不自为计终奚为。",
+    "关中旧约三章法，法当夷宗雠逆节。",
+    "况复曾孙诛大臣，项背相望眉不颦。",
+    "昭台不隔昭阳路，花落鸟啼春几度。",
+    "麟角凤觜皆可煎，惆怅君恩非断弦。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-42219800-ae66-46ab-880a-3429fad12700"
+}

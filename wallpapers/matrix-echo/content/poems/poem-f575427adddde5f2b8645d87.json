@@ -1,0 +1,16 @@
+{
+  "id": "poem-f575427adddde5f2b8645d87",
+  "title": "玉真观寻赵尊师不遇",
+  "author": "姚鹄",
+  "dynasty": "唐",
+  "verses": [
+    "羽客朝元昼掩扉，林中一径雪中微。",
+    "松阴遶院鹤相对，山色满楼人未归。",
+    "尽日独思风驭返，寥天几望野云飞。",
+    "凭高目断无消息，自醉自吟愁落晖。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-29cc3989-63f7-48c0-af2d-f1494809de6f"
+}

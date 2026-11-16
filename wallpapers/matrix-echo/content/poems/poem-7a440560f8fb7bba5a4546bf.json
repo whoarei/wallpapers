@@ -1,0 +1,16 @@
+{
+  "id": "poem-7a440560f8fb7bba5a4546bf",
+  "title": "偈颂（幷序○序为南岳齐己撰） 四十二",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "昔生未了今须了，此生度取累此身。",
+    "古佛未悟同今者，悟了今人即古人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-36cbce1b-3552-4147-ba5a-0edbdece9e91"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-9ec366ee21039e009a738dc0",
+  "title": "西塞山怀古",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "verses": [
+    "西晋楼船下益州，金陵王气黯然收。",
+    "千寻铁锁沈江底，一片降旛出石头。",
+    "人世几回伤往事，山形依旧枕江流。",
+    "今逢四海为家日，故垒萧萧芦荻秋。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "隋・唐・五代",
+    "七言律诗",
+    "咏史怀古"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-80beb8cc-8338-44d4-8b96-7f9d32133c97"
+}

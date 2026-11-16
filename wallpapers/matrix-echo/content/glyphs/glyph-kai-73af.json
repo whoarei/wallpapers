@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-73af",
+  "script": "kai",
+  "character": "环",
+  "reading": "huán",
+  "description": "泛指圆圈形的物品\n⒈玉圈她手上带有碧～。\n⒉圈形的东西门～。滚铁～。\n⒊围绕～绕。群山～抱。～顾周围。\n⒋射击、射箭时击中环靶的环数中十～。\n环huàn 1.击退，使退却。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-环"
+}

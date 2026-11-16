@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-9605",
+  "script": "kai",
+  "character": "阅",
+  "reading": "yuè",
+  "description": "引申为计算\n察看;视察,考查\n检阅\n⒈看～读。～览。传～。已～。\n⒉察看～兵。检～。\n⒊经历～历。～世。～年余。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-阅"
+}

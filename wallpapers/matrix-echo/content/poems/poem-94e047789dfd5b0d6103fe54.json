@@ -1,0 +1,16 @@
+{
+  "id": "poem-94e047789dfd5b0d6103fe54",
+  "title": "菊",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "篱下霜前偶得存，忍教迟晚避兰荪。",
+    "也销造化无多力，未受阳和一点恩。",
+    "栽处不容依玉砌，要时还许上金尊。",
+    "陶潜殁后谁知己，露滴幽丛见泪痕。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-fd364eb0-a4f3-42ef-87b3-bc568f503e1a"
+}

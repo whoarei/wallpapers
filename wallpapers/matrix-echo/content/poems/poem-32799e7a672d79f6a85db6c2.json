@@ -1,0 +1,14 @@
+{
+  "id": "poem-32799e7a672d79f6a85db6c2",
+  "title": "秋日独游曲江",
+  "author": "杨凭",
+  "dynasty": "唐",
+  "verses": [
+    "信马闲过忆所亲，秋山行尽路无尘。",
+    "主人莫惜松阴醉，还有千钱沽酒人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-f00e57ab-0566-404a-aef0-1762ef4933f7"
+}

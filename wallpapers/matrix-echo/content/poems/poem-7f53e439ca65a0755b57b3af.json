@@ -1,0 +1,16 @@
+{
+  "id": "poem-7f53e439ca65a0755b57b3af",
+  "title": "将归江淮书",
+  "author": "张乔",
+  "dynasty": "唐",
+  "verses": [
+    "东风摇众木，即有看花期。",
+    "紫陌频来日，沧洲独去时。",
+    "郡因兵役苦，家为海翻移。",
+    "未老多如此，那堪鬓不衰。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-dc37c875-1e11-4ad6-b196-85581c174787"
+}

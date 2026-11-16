@@ -1,0 +1,14 @@
+{
+  "id": "poem-37a14154c8309b78302281ad",
+  "title": "和韦开州盛山十二首 宿云亭",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "清净当深处，虚明向远开。",
+    "卷帘无俗客，应只见云来。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-3e7e656b-5ca2-4dbc-972f-0369be5046b8"
+}

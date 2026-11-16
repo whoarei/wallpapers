@@ -1,0 +1,15 @@
+{
+  "id": "poem-059a2f41dfde27e48dd49c83",
+  "title": "思园春",
+  "author": "无名氏《张协状元》",
+  "dynasty": "元",
+  "verses": [
+    "你要休时我未休。",
+    "(净)早来吾殿下吃猪头。",
+    "(旦出)灵杯不许后，教我怎生留！(生)漾人葫芦水上游，葫芦儿沉后我共伊休。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2543",
+  "tags": []
+}

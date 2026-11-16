@@ -1,0 +1,17 @@
+{
+  "id": "poem-0bf29fd8fc6b112f43ce8f22",
+  "title": "敦煌廿咏（并序） 十九、凿壁井咏",
+  "author": "敦煌人作品[一]",
+  "dynasty": "唐",
+  "verses": [
+    "尝闻凿壁井，兹水最为灵。",
+    "色带三春渌，芳传一味清。",
+    "玄言称上善，图录著高名。",
+    "德重胜铢两，诸流量[三六]且轻。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-694dc15d-1d26-45cb-96d4-7ec6c4c2d9d7"
+}

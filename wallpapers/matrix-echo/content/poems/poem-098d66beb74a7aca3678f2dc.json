@@ -1,0 +1,14 @@
+{
+  "id": "poem-098d66beb74a7aca3678f2dc",
+  "title": "游小园不值",
+  "author": "叶绍翁",
+  "dynasty": "宋",
+  "verses": [
+    "应嫌屐齿印苍苔，十扣柴扉九不开。",
+    "春色满园关不住，一枝红杏出墙来。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-遊小園不值"
+}

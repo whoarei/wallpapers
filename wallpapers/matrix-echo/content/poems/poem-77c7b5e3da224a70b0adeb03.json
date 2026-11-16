@@ -1,0 +1,14 @@
+{
+  "id": "poem-77c7b5e3da224a70b0adeb03",
+  "title": "山鹊",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "多惊本为好毛衣，只赖人怜始却归。",
+    "众鸟自知颜色减，妬他偏向眼前飞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-7b8b9f5e-95de-44e7-8659-e4f60090292a"
+}

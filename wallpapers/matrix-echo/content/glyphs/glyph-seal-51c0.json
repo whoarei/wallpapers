@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-51c0",
+  "script": "seal",
+  "character": "净",
+  "reading": "jìng；chēng",
+  "description": "jìng：(1)清洁～化。～水。～土。～心（a.清净的心；b.心里没有牵挂）。～院（佛寺。亦称净宇”）。干～。洁～。窗明几～。\n(2)使干净～面。～手（大小便）。\n(3)空，什么也没有～尽。\n(4)单纯，纯粹的～利。～值。～价。～重（zhòng）。纯～。\n(5)单，只，全满地～是树叶。\n(6)中国传统戏剧扮演男人的角色名～角（亦称花脸”、黑头”）。\n洁；\n脏；\nchēng：冷的样子。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-净"
+}

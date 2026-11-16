@@ -1,0 +1,21 @@
+{
+  "id": "poem-681073458b594f19079ec250",
+  "title": "鼓吹曲辞 巫山高二首 一",
+  "author": "孟郊",
+  "dynasty": "唐",
+  "verses": [
+    "巴山上峡重复重，阳台碧峭十二峰。",
+    "荆王猎时逢暮雨，夜卧高丘梦神女。",
+    "轻红流烟湿艳姿，行云飞去明星稀。",
+    "目极魂断望不见，猨啼三声泪沾衣。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "写山",
+    "传说",
+    "写景",
+    "描写山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-df99dd63-0832-4715-8e63-ce89452560a1"
+}

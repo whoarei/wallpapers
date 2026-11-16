@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5db7",
+  "script": "seal",
+  "character": "嶷",
+  "reading": "yí；ni",
+  "description": "yí：〔九～〕山名，在湖南省。相传是舜安葬的地方；又指九嶷山之神，如～～缤兮并迎。”。亦作九疑”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-嶷"
+}

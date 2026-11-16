@@ -1,0 +1,14 @@
+{
+  "id": "poem-6df52fabfc4a8935d1b217bd",
+  "title": "诗一首",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "学易穷源未到时，便将虚寂眇心思。",
+    "宛如童子攻词赋，用即无差问不知。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-c45127a7-24a9-403d-9485-cec04d06ba5a"
+}

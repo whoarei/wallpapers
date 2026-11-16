@@ -1,0 +1,16 @@
+{
+  "id": "poem-03940255a5e11de0483d6978",
+  "title": "送权先辈归觐信安",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "衣彩独归去，一枝兰更香。",
+    "马嘶芳草渡，门掩百花塘。",
+    "野色亭台晚，滩声枕簟凉。",
+    "小斋松岛上，重叶覆书堂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-28a80f28-64e4-4523-87a2-73557f3d2650"
+}

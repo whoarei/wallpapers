@@ -1,0 +1,14 @@
+{
+  "id": "poem-883da131084066966f46dcb1",
+  "title": "和韦开州盛山十二首 绣衣石榻",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "山城无别味，药草兼鱼果。",
+    "时到绣衣人，同来石上坐。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-ae8591be-54b1-484d-8bde-2ccec2ae987f"
+}

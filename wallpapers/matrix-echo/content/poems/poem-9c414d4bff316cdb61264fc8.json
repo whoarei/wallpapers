@@ -1,0 +1,16 @@
+{
+  "id": "poem-9c414d4bff316cdb61264fc8",
+  "title": "乌夜啼·鸾镜愁添眉黛",
+  "author": "李石",
+  "dynasty": "宋",
+  "verses": [
+    "鸾镜愁添眉黛，罗裙瘦减腰肢。",
+    "一回见了一回病，弹指误佳期。",
+    "醉里懵腾泪洗，梦中著摸魂飞。",
+    "一春多少闲风雨，亭院落花时。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-257",
+  "tags": []
+}

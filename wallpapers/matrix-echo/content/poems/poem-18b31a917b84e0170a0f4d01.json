@@ -1,0 +1,14 @@
+{
+  "id": "poem-18b31a917b84e0170a0f4d01",
+  "title": "浣溪沙·钿毂香车过柳堤",
+  "author": "张泌",
+  "dynasty": "五代",
+  "verses": [
+    "钿毂香车过柳堤，桦烟分处马频嘶，为他沉醉不成泥。",
+    "花满驿亭香露细，杜鹃声断玉蟾低，含情无语倚楼西。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-4-juan.json#record-27"
+}

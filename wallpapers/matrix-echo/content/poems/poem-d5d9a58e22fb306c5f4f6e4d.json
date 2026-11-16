@@ -1,0 +1,14 @@
+{
+  "id": "poem-d5d9a58e22fb306c5f4f6e4d",
+  "title": "天仙子·天咫尺",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "好在软绡红泪积，漏痕斜罥菱丝碧。",
+    "古钗封寄玉关秋，天咫尺，人南北，不信鸳鸯头不白。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-167"
+}

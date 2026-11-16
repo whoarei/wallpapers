@@ -1,0 +1,15 @@
+{
+  "id": "poem-92debc240c5b2f2e9311f704",
+  "title": "赵康州徐夫子庙",
+  "author": "苗仲渊",
+  "dynasty": "宋",
+  "verses": [
+    "世惟忠与孝，训俗知所止。",
+    "杀身赵康州，锡类徐夫子。",
+    "虽非萃一门，死葬同闾里。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-adf69b4b-0693-4dbd-91be-1f37c61fa692"
+}

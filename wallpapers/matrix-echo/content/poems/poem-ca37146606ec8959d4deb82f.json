@@ -1,0 +1,18 @@
+{
+  "id": "poem-ca37146606ec8959d4deb82f",
+  "title": "远别离",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "莲叶团团杏花拆，长江鲤鱼鬐鬣赤。",
+    "念君少年弃亲戚，千里万里独为客。",
+    "谁言远别心不易，天星坠地能为石。",
+    "几时断得城南陌，勿使居人有行役。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-f8df321b-96ae-4faa-8e6e-c1cce6bd3e07"
+}

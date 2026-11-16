@@ -1,0 +1,18 @@
+{
+  "id": "poem-ee3e0c583c1683fa7817cbeb",
+  "title": "小苑春望宫池柳色",
+  "author": "崔绩",
+  "dynasty": "唐",
+  "verses": [
+    "帝京春气早，御柳已先荣。",
+    "嫩叶随风散，浮光向月明。",
+    "悠扬生别意，断续引芳声。",
+    "积翠连驰道，飘花出禁城。",
+    "柔条依水弱，远色带烟轻。",
+    "南望龙池畔，斜光照晚晴。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-5878fe4c-3613-461b-ab7e-1444dd2492f8"
+}

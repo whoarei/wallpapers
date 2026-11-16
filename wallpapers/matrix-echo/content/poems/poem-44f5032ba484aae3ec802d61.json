@@ -1,0 +1,16 @@
+{
+  "id": "poem-44f5032ba484aae3ec802d61",
+  "title": "奉和幸上官昭容院献诗四首 一",
+  "author": "郑愔",
+  "dynasty": "唐",
+  "verses": [
+    "地轴楼居远，天台阙路赊。",
+    "何如游帝宅，即此对仙家。",
+    "座拂金壶电，池摇玉酒霞。",
+    "无云秦汉隔，别访武陵花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-877fdbe6-1d4f-42ef-9106-8237f10420ae"
+}

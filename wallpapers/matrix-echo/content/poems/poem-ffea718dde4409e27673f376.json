@@ -1,0 +1,14 @@
+{
+  "id": "poem-ffea718dde4409e27673f376",
+  "title": "春暮",
+  "author": "曹豳",
+  "dynasty": "宋",
+  "verses": [
+    "门外无人问落花，绿阴冉冉遍天涯。",
+    "林莺啼到无声处，青草池塘独听蛙。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-春暮"
+}

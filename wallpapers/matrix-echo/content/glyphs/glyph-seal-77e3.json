@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-77e3",
+  "script": "seal",
+  "character": "矣",
+  "reading": "yǐ",
+  "description": "yǐ：文言助词（ａ．用于句末，与了”相同，如由来久～”，悔之晚～”；ｂ．表示感叹，如大～哉”）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-矣"
+}

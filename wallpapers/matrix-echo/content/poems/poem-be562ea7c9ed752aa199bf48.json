@@ -1,0 +1,18 @@
+{
+  "id": "poem-be562ea7c9ed752aa199bf48",
+  "title": "清明日赐百僚新火",
+  "author": "史延",
+  "dynasty": "唐",
+  "verses": [
+    "上苑连侯第，清明及暮春。",
+    "九天初改火，万井属良辰。",
+    "颁赐恩逾洽，承时庆自均。",
+    "翠烟和柳嫩，红焰出花新。",
+    "宠命尊三老，祥光烛万人。",
+    "太平当此日，空复荷陶甄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-732defb7-3b46-41cb-b01f-6b77a1bb875b"
+}

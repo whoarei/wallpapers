@@ -1,0 +1,14 @@
+{
+  "id": "poem-b2351ac74b5e1c574c64937c",
+  "title": "咏史诗 谷口",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "一旦天真逐水流，虎争龙战为诸侯。",
+    "子真独有烟霞趣，谷口耕锄到白头。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-4da65b32-330f-4063-8691-2d91beda9ed9"
+}

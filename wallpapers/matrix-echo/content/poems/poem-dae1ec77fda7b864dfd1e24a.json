@@ -1,0 +1,16 @@
+{
+  "id": "poem-dae1ec77fda7b864dfd1e24a",
+  "title": "别耿都尉",
+  "author": "高适",
+  "dynasty": "唐",
+  "verses": [
+    "四十能学劒，时人无此心。",
+    "如何耿夫子，感激投知音。",
+    "翩翩白马来，二月青草深。",
+    "别易小千里，兴酣倾百金。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-c6491c82-16cc-417f-bc8d-4cf938aa4ed4"
+}

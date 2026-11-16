@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-60bc",
+  "script": "seal",
+  "character": "悼",
+  "reading": "dào",
+  "description": "dào：悲伤，哀念哀～。追～。～念。～亡。～唁。～词。～惜。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-悼"
+}

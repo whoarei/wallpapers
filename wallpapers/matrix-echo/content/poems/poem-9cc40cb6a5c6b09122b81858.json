@@ -1,0 +1,23 @@
+{
+  "id": "poem-9cc40cb6a5c6b09122b81858",
+  "title": "感遇十二首 一",
+  "author": "张九龄",
+  "dynasty": "唐",
+  "verses": [
+    "兰叶春葳蕤，桂华秋皎洁。",
+    "欣欣此生意，自尔为佳节。",
+    "谁知林栖者，闻风坐相悦。",
+    "草木有本心，何求美人折。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "哲理",
+    "抒志",
+    "生活",
+    "五言古诗",
+    "植物"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-9b4f2d56-6df4-4999-a82c-11283529dd51"
+}

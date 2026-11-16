@@ -1,0 +1,14 @@
+{
+  "id": "poem-cfa3e47cf78da67492286958",
+  "title": "小游仙诗九十八首 三十八",
+  "author": "曹唐",
+  "dynasty": "唐",
+  "verses": [
+    "忘却教人锁后宫，还丹失尽玉壶空。",
+    "嫦娥若不偷灵药，争得长生在月中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-d2d5f2f0-c40e-4c0b-8e3c-f02ab9840812"
+}

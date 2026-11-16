@@ -1,0 +1,14 @@
+{
+  "id": "poem-c0757e79be93c403f7ed655f",
+  "title": "重阳日至峡道",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "无限青山行已尽，回看忽觉远离家。",
+    "逢高欲饮重阳酒，山菊今朝未有花。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-1da2720d-861f-482d-9931-e61480f4498c"
+}

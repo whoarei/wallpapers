@@ -1,0 +1,20 @@
+{
+  "id": "poem-84d44c6a59482b149072eac9",
+  "title": "减字木兰花·杨花飘尽",
+  "author": "康与之",
+  "dynasty": "宋",
+  "verses": [
+    "杨花飘尽。",
+    "云压绿阴风乍定。",
+    "帘幕闲垂。",
+    "弄语千般燕子飞。",
+    "小楼深静。",
+    "睡起残妆犹未整。",
+    "梦不成归。",
+    "泪滴斑斑金缕衣。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-323",
+  "tags": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-7ef5c636b4bb84ee8631ca8f",
+  "title": "偷声木兰花·雪笼琼苑梅花瘦",
+  "author": "张先",
+  "dynasty": "宋",
+  "verses": [
+    "雪笼琼苑梅花瘦。",
+    "外院重扉联宝兽。",
+    "海月新生。",
+    "上得高楼无奈情。",
+    "帘波不动凝釭小。",
+    "今夜夜长争得晓。",
+    "欲梦高唐。",
+    "只恐觉来添断肠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.0.json#record-349",
+  "tags": []
+}

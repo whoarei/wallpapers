@@ -1,0 +1,13 @@
+{
+  "id": "poem-5ed9592733c114a1718430f3",
+  "title": "句",
+  "author": "崔建",
+  "dynasty": "唐",
+  "verses": [
+    "回风向晓平湖上，引得荷花隔浦香。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-620b6c6f-f5d3-40c0-8cba-55700cfb53cd"
+}

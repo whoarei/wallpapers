@@ -1,0 +1,20 @@
+{
+  "id": "poem-8ead3523301a438c4787cfc0",
+  "title": "阮郎归·深亭邃馆锁清风",
+  "author": "张抡",
+  "dynasty": "宋",
+  "verses": [
+    "深亭邃馆锁清风。",
+    "榴花芳艳浓。",
+    "阳光染就欲烧空。",
+    "谁能窥化工。",
+    "观物外，喻身中。",
+    "灵砂别有功。",
+    "若将一粒比花容。",
+    "金丹色又红。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-905",
+  "tags": []
+}

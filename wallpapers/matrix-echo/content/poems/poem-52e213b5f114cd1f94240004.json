@@ -1,0 +1,17 @@
+{
+  "id": "poem-52e213b5f114cd1f94240004",
+  "title": "三段子",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "(小生)翁今几儿？(外)念箕裘无人可倚。",
+    "(小生)族分几枝？(外)念宗支无人可悲。",
+    "(小生)你既然只身一己，如何不上倚贤婿？况是他殷勤想伊。",
+    "(小生)叫左右，与我打点马船人夫，送钱相公到吉安府去。",
+    "(外)如此多感多感！。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8305",
+  "tags": []
+}

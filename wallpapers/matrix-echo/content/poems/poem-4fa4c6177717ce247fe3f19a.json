@@ -1,0 +1,14 @@
+{
+  "id": "poem-4fa4c6177717ce247fe3f19a",
+  "title": "忆秦娥",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "长吁气，自怜薄命相遭际。",
+    "相遭际，晚年舅姑，薄情夫婿。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4990",
+  "tags": []
+}

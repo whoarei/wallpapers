@@ -1,0 +1,20 @@
+{
+  "id": "poem-80d2fa2ad62ce755393ae7f8",
+  "title": "菩萨蛮·娟娟明月如霜白",
+  "author": "向子𬤇",
+  "dynasty": "宋",
+  "verses": [
+    "娟娟明月如霜白。",
+    "鳌山可是蓬山隔。",
+    "恨不及春风。",
+    "行云处处同。",
+    "暖香红雾里。",
+    "一笑谁新喜。",
+    "知得远愁无。",
+    "春衫有泪珠。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-770",
+  "tags": []
+}

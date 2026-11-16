@@ -1,0 +1,16 @@
+{
+  "id": "poem-1602dbfebb1611febb1c1cd1",
+  "title": "清平乐·上阳春晚",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "上阳春晚，宫女愁蛾浅。",
+    "新岁清平思同辇，争那长安路远。",
+    "凤帐鸳被徒熏，寂寞花锁千门。",
+    "竞把黄金买赋，为妾将上明君。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-2-juan.json#record-0",
+  "tags": []
+}

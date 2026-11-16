@@ -1,0 +1,16 @@
+{
+  "id": "poem-1aab31852d2c99f734978a5f",
+  "title": "郊庙歌辞 享太庙乐章 昭感",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "铿锵韶濩，肃穆神容。",
+    "洪规赫赫，祠典雍雍。",
+    "已周三献，将乘六龙。",
+    "虔诚有托，恳志无从。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-bac63ce9-8353-4527-bde9-a8ed8152df49"
+}

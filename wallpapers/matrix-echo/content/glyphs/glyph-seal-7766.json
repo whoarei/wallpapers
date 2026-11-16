@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7766",
+  "script": "seal",
+  "character": "睦",
+  "reading": "mù",
+  "description": "mù：(1)和好，亲近和～。～邻。兄弟不～。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-睦"
+}

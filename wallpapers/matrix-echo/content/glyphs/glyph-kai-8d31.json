@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8d31",
+  "script": "kai",
+  "character": "贱",
+  "reading": "jiàn",
+  "description": "地位低下,人格卑鄙\n鄙贱之人。\n其辱\n⒉地位低下，跟\"高贵\"相对卑～。贫～。\n⒊谦词～姓。～恙。\n⒋鄙视，轻视贵五谷而～金玉。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-贱"
+}

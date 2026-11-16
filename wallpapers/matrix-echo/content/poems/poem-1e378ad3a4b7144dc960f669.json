@@ -1,0 +1,17 @@
+{
+  "id": "poem-1e378ad3a4b7144dc960f669",
+  "title": "浣溪沙·漠漠新田绿未齐",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "漠漠新田绿未齐。",
+    "柳阴阴下水平堤。",
+    "竹间时有乳鸦啼。",
+    "云敛屏山横枕畔，夜阑璧月转林西。",
+    "玉芝香里彩鸳栖。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-951",
+  "tags": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poem-60af844b37c1561bc1e66207",
+  "title": "满江红·手摘桐花",
+  "author": "吴泳",
+  "dynasty": "宋",
+  "verses": [
+    "手摘桐花，怅还是、春风婪尾。",
+    "按锦瑟、一弦一柱，又添一岁。",
+    "紫马西来疑是梦，朱衣双引浑如醉。",
+    "较香山、七十欠三年，吾衰矣。",
+    "红袖却，青尊止。",
+    "檀板住，琼杯废。",
+    "淡香凝一室，自观生意。",
+    "事业不堪霜满镜，文章底用花如绮。",
+    "笑江滨、游女尚高歌，滕王记。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-574",
+  "tags": []
+}

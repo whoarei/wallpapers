@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8d81",
+  "script": "seal",
+  "character": "趁",
+  "reading": "chèn",
+  "description": "chèn：(1)利用时间、机会～早。～机。～势。～火打劫（趁人家发生火灾时去抢劫，喻在别人危难时乘机去捞好处）。～热打铁。\n(2)搭乘～车。～船。\n(3)逐，追赶花底山蜂远～人”。\n(4)往，赴～墟（赶集）。～熟（逃荒到丰收之处）。\n(5)富有～钱。～几身衣服。\n(6)古同称”，适合。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-趁"
+}

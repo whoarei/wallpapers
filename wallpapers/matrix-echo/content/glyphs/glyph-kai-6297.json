@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6297",
+  "script": "kai",
+  "character": "抗",
+  "reading": "kàng",
+  "description": "kàng：(1)抵御～击。～争。～拒。抵～。顽～。\n(2)拒绝～议。～上。～命。～税。\n(3)对等～衡（力量不相上下的对抗）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-抗"
+}

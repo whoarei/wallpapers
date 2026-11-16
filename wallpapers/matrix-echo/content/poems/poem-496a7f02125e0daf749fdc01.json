@@ -1,0 +1,16 @@
+{
+  "id": "poem-496a7f02125e0daf749fdc01",
+  "title": "曲江二首 二",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "江色沈天万草齐，暖烟晴霭自相迷。",
+    "蜂怜杏蕋细香落，莺坠柳条浓翠低。",
+    "千队国娥轻似雪，一群公子醉如泥。",
+    "斜阳怪得长安动，陌上分飞万马蹄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-08e40e7f-b8cd-4b1a-81e5-468896d7c830"
+}

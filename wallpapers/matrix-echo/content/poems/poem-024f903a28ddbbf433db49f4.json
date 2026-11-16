@@ -1,0 +1,18 @@
+{
+  "id": "poem-024f903a28ddbbf433db49f4",
+  "title": "天衣怀禅师碑赞",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "稽首归依无上尊，清浄圆满千亿化。",
+    "三身俱现立法祖，一法不立即如来。",
+    "示现有渐缘慈悲，慈悲本不为佛祖。",
+    "佛祖不立无归依，所以三身开后觉。",
+    "寥寥千古古佛远，堂堂此身即古佛。",
+    "众生不昧本来心，此是古佛行住处。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-4aa07514-e27a-433e-add3-793a93793c58"
+}

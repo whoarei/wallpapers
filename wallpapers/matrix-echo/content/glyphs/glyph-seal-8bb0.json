@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8bb0",
+  "script": "seal",
+  "character": "记",
+  "reading": "jì",
+  "description": "记载,记录\n记,书也。\n⒈思念，把所见、所闻等事物保持在脑子里，跟\"忘\"相对惦～。牢～。～性强。～得住。\n⒋印章图～。戳～。\n⒌标志～号。暗～。\n⒍量词他挨了两～耳光。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-记"
+}

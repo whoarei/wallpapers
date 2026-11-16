@@ -1,0 +1,16 @@
+{
+  "id": "poem-4e2ea19f3f01e17bd4a9d077",
+  "title": "次韵王省干  其一",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "南橘合嘉颂，为枳缘逾淮。",
+    "黄浊转眼涸，一昨弥两涯。",
+    "志士抱根柢，千古容兴怀。",
+    "后生事虫篆，蚁穴鏖檀槐。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-f113ec66-1572-47e5-bda2-1d666f6c2ec2"
+}

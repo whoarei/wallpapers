@@ -1,0 +1,15 @@
+{
+  "id": "poem-016198fcc3b7a0c48f03bba6",
+  "title": "醉乡春",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "打渔鼓高歌兴添，采灵芝快乐无厌。",
+    "大叫高呼，前遮后掩。",
+    "远量度，近观瞻，谨廉礼谦，休猜我做避世陶潜。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2341",
+  "tags": []
+}

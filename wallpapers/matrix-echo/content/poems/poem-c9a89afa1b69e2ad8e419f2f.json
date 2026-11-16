@@ -1,0 +1,14 @@
+{
+  "id": "poem-c9a89afa1b69e2ad8e419f2f",
+  "title": "伤故人歌妓",
+  "author": "长孙佐辅",
+  "dynasty": "唐",
+  "verses": [
+    "愁脸无红衣满尘，万家门户不容身。",
+    "曾将一笑君前去，悮杀几多回顾人。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-e0cfc3de-c236-4904-aca1-f3c8536c5e17"
+}

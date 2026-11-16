@@ -1,0 +1,24 @@
+{
+  "id": "poem-b9bde1c26699ace215482ca3",
+  "title": "次北固山下",
+  "author": "王湾",
+  "dynasty": "唐",
+  "verses": [
+    "客路青山外，行舟绿水前。",
+    "潮平两岸阔，风正一帆悬。",
+    "海日生残夜，江春入旧年。",
+    "乡书何处达，归雁洛阳边。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七年级上册(课内)",
+    "地点",
+    "五言律诗",
+    "初中古诗",
+    "哲理",
+    "思乡"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-5bb5c590-5de8-4bfb-aee6-30bc4bcdf99a"
+}

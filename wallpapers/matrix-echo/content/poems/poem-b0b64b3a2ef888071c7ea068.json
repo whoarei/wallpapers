@@ -1,0 +1,16 @@
+{
+  "id": "poem-b0b64b3a2ef888071c7ea068",
+  "title": "早春夜集耿拾遗宅",
+  "author": "李端",
+  "dynasty": "唐",
+  "verses": [
+    "如何逋客会，忽在侍臣家。",
+    "新草犹停雪，寒梅未放花。",
+    "衔杯鸡欲唱，逗月雁应斜。",
+    "年齿俱憔悴，谁堪故国赊。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-48463e26-4422-448c-b3fa-d1245915026d"
+}

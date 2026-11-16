@@ -1,0 +1,16 @@
+{
+  "id": "poem-d23c79e2fbeec4623c7ea659",
+  "title": "与胡汾坐月期贯休上人不至",
+  "author": "曹松",
+  "dynasty": "唐",
+  "verses": [
+    "扫庭秋漏滴，接话贵忘眠。",
+    "静夜人相语，低枝鸟暗迁。",
+    "星围南极定，月照断河连。",
+    "后会花宫子，应开石上禅。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-725fe5df-06bf-467d-9db2-1b37c9ec7130"
+}

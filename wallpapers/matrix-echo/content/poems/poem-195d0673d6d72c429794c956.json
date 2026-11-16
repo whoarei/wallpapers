@@ -1,0 +1,16 @@
+{
+  "id": "poem-195d0673d6d72c429794c956",
+  "title": "宿云门寺阁",
+  "author": "孙逖",
+  "dynasty": "唐",
+  "verses": [
+    "香阁东山下，烟花象外幽。",
+    "悬灯千嶂夕，卷幔五湖秋。",
+    "画壁余鸿雁，纱窗宿斗牛。",
+    "更疑天路近，梦与白云游。"
+  ],
+  "enabled": true,
+  "collection": "千家诗",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/蒙学/qianjiashi.json#record-宿雲門寺閣"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-82ab",
+  "script": "seal",
+  "character": "芫",
+  "reading": "yuán；yán",
+  "description": "yuán：〔～花〕落叶灌木，开紫色小花，有毒；供观赏，花蕾可入药。\nyán：〔～荽〕一年生或二年生草本植物，叶和茎有特殊香气，可用来调味；果实球形，亦有香气，用做香料，亦可入药。俗称香菜”，亦称胡荽”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芫"
+}

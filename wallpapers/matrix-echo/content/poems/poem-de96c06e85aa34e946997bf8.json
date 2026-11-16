@@ -1,0 +1,16 @@
+{
+  "id": "poem-de96c06e85aa34e946997bf8",
+  "title": "别墅",
+  "author": "李山甫",
+  "dynasty": "唐",
+  "verses": [
+    "此地可求息，开门足野情。",
+    "窗明雨初歇，日落风更清。",
+    "苍藓槎根匝，碧烟水面生。",
+    "玩奇心自乐，暑月听蝉声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3650d400-b87b-405e-8235-45f67cbc43f1"
+}

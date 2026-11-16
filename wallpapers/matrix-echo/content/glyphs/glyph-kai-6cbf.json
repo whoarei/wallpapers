@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6cbf",
+  "script": "kai",
+  "character": "沿",
+  "reading": "yán",
+  "description": "yán：(1)顺着，照着～岸（靠近江、河、湖、海一带的地区）。～海（靠海的一带）。～街。～途。～线。\n(2)因袭相传～革（事物发展和变化的历程）。～习（因袭历来的习惯）。相～成习。～袭（依照旧例行事）。～用。\n(3)边边～。坑～∮～。\n(4)在衣服等物的边上再加一条边～个边。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-沿"
+}

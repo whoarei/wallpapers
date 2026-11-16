@@ -1,0 +1,21 @@
+{
+  "id": "poem-2a904597b29a7cec78905274",
+  "title": "和贾舍人早朝大明宫之作",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "绛帻鸡人送晓筹，尚衣方进翠云裘。",
+    "九天阊阖开宫殿，万国衣冠拜冕旒。",
+    "日色才临仙掌动，香烟欲傍衮龙浮。",
+    "朝罢须裁五色诏，佩声归向凤池头。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "宫廷",
+    "七言律诗",
+    "早朝"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-a364504e-3cfc-44c6-9203-173856452cdd"
+}

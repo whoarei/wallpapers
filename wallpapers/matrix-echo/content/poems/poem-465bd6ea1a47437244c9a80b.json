@@ -1,0 +1,14 @@
+{
+  "id": "poem-465bd6ea1a47437244c9a80b",
+  "title": "送别",
+  "author": "杨凭",
+  "dynasty": "唐",
+  "verses": [
+    "江岸梅花雪不如，看君驿驭向南徐。",
+    "相闻不必因来雁，云里飞輧落素书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-d3848220-b67b-4df1-87ee-30b90a87f507"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-f4e8f8e4e1e7c57b8fd3997a",
+  "title": "游寺",
+  "author": "李咸用",
+  "dynasty": "唐",
+  "verses": [
+    "无家身自在，时得到莲宫。",
+    "秋觉暑衣薄，老知尘世空。",
+    "幽情怜水石，野性任萍蓬。",
+    "是处堪闲坐，与僧行止同。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-16df96bc-83b9-4212-baac-a828c15caf97"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-92b12bd6e4a29a9a1a1ce452",
+  "title": "柳梢青·数声𫛸鴂",
+  "author": "蔡伸",
+  "dynasty": "宋",
+  "verses": [
+    "数声𫛸鴂。",
+    "可怜又是，春归时节。",
+    "满院东风，海棠铺绣，梨花飘雪。",
+    "丁香露泣残枝，算未比、愁肠寸结。",
+    "自是休文，多情多感，不干风月。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-206"
+}

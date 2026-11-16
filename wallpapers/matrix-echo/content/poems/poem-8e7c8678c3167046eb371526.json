@@ -1,0 +1,18 @@
+{
+  "id": "poem-8e7c8678c3167046eb371526",
+  "title": "洞仙歌·相如当日",
+  "author": "曾纡",
+  "dynasty": "宋",
+  "verses": [
+    "相如当日，曾奏凌云赋。",
+    "落笔纵横妙风雨。",
+    "记扬鞭辇路，同醉金明，穷胜赏，不管重城已暮。",
+    "旧游如梦觉，零落朋侪，遗墨淋漓尚如故。",
+    "况神洲北望，今已丘墟，伤白璧、久埋黄土。",
+    "但空似、灵光岿然存，怅朗月清风，更无玄度。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-70",
+  "tags": []
+}

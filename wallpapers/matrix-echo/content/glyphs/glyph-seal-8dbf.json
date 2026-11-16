@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8dbf",
+  "script": "seal",
+  "character": "趿",
+  "reading": "tā",
+  "description": "tā：〔～拉〕穿鞋只套上脚尖（拉”读轻声）。\n〔～拉儿（lɑr）〕拖鞋，只能套着脚尖没有后帮的鞋。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-趿"
+}

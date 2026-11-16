@@ -1,0 +1,14 @@
+{
+  "id": "poem-c33160bd7e65fce3e2073ef9",
+  "title": "江行无题一百首 三十",
+  "author": "钱珝",
+  "dynasty": "唐",
+  "verses": [
+    "渐觉江天远，难逢故国书。",
+    "可能无往事，空食鼎中鱼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-84fe859f-a505-42d7-8052-a4ff8e067c7d"
+}

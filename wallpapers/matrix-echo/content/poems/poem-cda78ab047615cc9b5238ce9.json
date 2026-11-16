@@ -1,0 +1,14 @@
+{
+  "id": "poem-cda78ab047615cc9b5238ce9",
+  "title": "颂古十九首  其一四",
+  "author": "释法全",
+  "dynasty": "宋",
+  "verses": [
+    "耳里种田，满口含烟。",
+    "锺馗解舞十八拍，张老乘槎上九天。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-892eb06d-996c-4ceb-bd40-f33a718d308c"
+}

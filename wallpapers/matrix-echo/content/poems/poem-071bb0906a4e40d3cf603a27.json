@@ -1,0 +1,16 @@
+{
+  "id": "poem-071bb0906a4e40d3cf603a27",
+  "title": "除书学博士呈时宰",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "半生湖海看青山，惯佩笭箵揽辔艰。",
+    "晓起初驰朱雀路，霜华惭缀紫宸班。",
+    "百寮卑处瞻丹陛，五色光中望玉颜。",
+    "浪说书名落人世，非公那解彻天关。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-9227b30d-d1c3-4820-9625-63caa8066ca7"
+}

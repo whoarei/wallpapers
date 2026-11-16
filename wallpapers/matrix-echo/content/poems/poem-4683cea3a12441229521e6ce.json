@@ -1,0 +1,14 @@
+{
+  "id": "poem-4683cea3a12441229521e6ce",
+  "title": "南亭",
+  "author": "赵嘏",
+  "dynasty": "唐",
+  "verses": [
+    "孤亭影在乱花中，怅望无人此醉同。",
+    "听尽暮钟犹独坐，水边襟袖起春风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-a65f7dff-61ac-4c5e-aa5e-30bf1946c60d"
+}

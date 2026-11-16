@@ -1,0 +1,22 @@
+{
+  "id": "poem-83c71bc72f2eacc874ec344c",
+  "title": "利州南渡",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "澹然空水对斜晖，曲岛苍茫接翠微。",
+    "波上马嘶看櫂去，柳边人歇待船归。",
+    "数丛沙草群鸥散，万顷江田一鹭飞。",
+    "谁解乘舟寻范蠡，五湖烟水独忘机。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "七言律诗",
+    "抒怀",
+    "渡江",
+    "山水"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-ac97d42b-8fef-42c9-829f-baafe89b4cdc"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-94b3",
+  "script": "seal",
+  "character": "钳",
+  "reading": "qián",
+  "description": "古刑具。束颈的铁圈\n夹持东西的用具\n古代刑罚。用铁圈束颈、手、足\n⒈夹东西的工具止血～。老虎～子。\n⒉用工具夹住。〈引〉用强力限制，约束～制。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-钳"
+}

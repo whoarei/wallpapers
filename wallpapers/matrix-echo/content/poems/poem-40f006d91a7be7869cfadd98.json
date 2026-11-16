@@ -1,0 +1,14 @@
+{
+  "id": "poem-40f006d91a7be7869cfadd98",
+  "title": "新月",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "仙宫云箔卷，露出玉帘钩。",
+    "清光无所赠，相忆凤皇楼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-848eba6c-b222-4d42-92c5-c40f4d9fc35d"
+}

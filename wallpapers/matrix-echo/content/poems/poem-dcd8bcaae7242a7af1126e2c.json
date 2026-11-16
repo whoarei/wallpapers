@@ -1,0 +1,14 @@
+{
+  "id": "poem-dcd8bcaae7242a7af1126e2c",
+  "title": "御书阁",
+  "author": "王十朋",
+  "dynasty": "宋",
+  "verses": [
+    "黄龙溪上祥云覆，紫帽山头瑞气蒙。",
+    "俗眼惊传佛光现，不知宸翰在山中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.120000.json#record-2e0ebdea-3fe0-457b-914c-d8217cd99f63"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-7bbb8ff885e1495d5ba0addd",
+  "title": "月下喜邢校书至自洛",
+  "author": "李益",
+  "dynasty": "唐",
+  "verses": [
+    "天河夜未央，漫漫复苍苍。",
+    "重君远行至，及此明目光。",
+    "华星暎衰柳，暗水入寒塘。",
+    "客心定何似，余欢方自长。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-a47b1955-1d2d-4229-abd2-13f63dc48b33"
+}

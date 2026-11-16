@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7981",
+  "script": "kai",
+  "character": "禁",
+  "reading": "jìn；jīn",
+  "description": "jīn：(1)受得住，耐久～受。～得住。～不起。弱不～风。\n(2)忍耐，制止不～笑起来。\njìn：(1)不许，制止～止。～绝。～书。～令。～赌。～欲。～锢。情不自～。\n(2)法律或习惯上制止的事犯～。违～品。\n(3)拘押囚～。监～。～闭。\n(4)古代称帝王的地方宫～。～苑。～卫。～军（古代指保卫京城或宫廷的军队）。\n(5)不能随便通行的地方～地。～区。\n(6)避忌～忌。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-禁"
+}

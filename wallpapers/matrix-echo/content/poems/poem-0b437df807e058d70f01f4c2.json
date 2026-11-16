@@ -1,0 +1,16 @@
+{
+  "id": "poem-0b437df807e058d70f01f4c2",
+  "title": "秋夜陪张丞相赵侍御游㴩湖二首 一",
+  "author": "尹懋",
+  "dynasty": "唐",
+  "verses": [
+    "熊轼巴陵地，鹢舟湘水浔。",
+    "江山与势远，泉石自幽深。",
+    "杳霭入天壑，冥茫见道心。",
+    "超然无俗事，清宴有空林。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-c86e65c7-7639-401b-a6e6-d02220a9c88b"
+}

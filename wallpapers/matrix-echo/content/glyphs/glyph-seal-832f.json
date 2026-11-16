@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-832f",
+  "script": "seal",
+  "character": "茯",
+  "reading": "fú",
+  "description": "fú：〔～苓〕寄生在松树根上的一种块状菌类植物，皮黑色，有皱纹，内部白色或粉红色；包含松根的称茯神”，均可入药，亦可食。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-茯"
+}

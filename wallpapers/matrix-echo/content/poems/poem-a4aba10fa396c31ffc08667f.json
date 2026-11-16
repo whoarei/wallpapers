@@ -1,0 +1,14 @@
+{
+  "id": "poem-a4aba10fa396c31ffc08667f",
+  "title": "咏史诗 兰台宫",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "迟迟春日满长空，亡国离宫蔓草中。",
+    "宋玉不忧人事变，从游那赋大王风。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-3b71f76d-6472-4c17-9ff1-b93d028224d8"
+}

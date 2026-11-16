@@ -1,0 +1,16 @@
+{
+  "id": "poem-ec4642f35c1c82d33c772747",
+  "title": "劝农",
+  "author": "江万里",
+  "dynasty": "宋",
+  "verses": [
+    "农岂犹需我劝农，且从人意卜年丰。",
+    "喜闻布谷声声急，莫为催科处处穷。",
+    "父老来前吾语汝，官民相近古遗风。",
+    "欲知太守乐其乐，乐在田家欢笑中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-63edbf70-0a37-48a5-9332-5b70d081fb5d"
+}

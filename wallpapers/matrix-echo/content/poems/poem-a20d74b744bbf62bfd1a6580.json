@@ -1,0 +1,14 @@
+{
+  "id": "poem-a20d74b744bbf62bfd1a6580",
+  "title": "唐虞门 唐尧",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "祆氛不起瑞烟轻，端拱垂衣日月明。",
+    "传事四方无外役，茅茨深处土堦平。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-5acb2c09-00ec-442b-a39f-8e83ade6609a"
+}

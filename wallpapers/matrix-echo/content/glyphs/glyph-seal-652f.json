@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-652f",
+  "script": "seal",
+  "character": "支",
+  "reading": "zhī",
+  "description": "zhī：(1)撑持，伸出，竖起～撑。～援。体力不～。\n(2)受得住乐不可～。\n(3)领款或付款～付。\n(4)调度，指使～使。～应。～着儿。\n(5)附属于总体的一个部分总～。～流。～离。\n(6)量词一～笔。\n〔地～〕历法中用的十二个字子丑寅卯辰巳午未申酉戌亥。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-支"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-3528d97f43b62f866b0129e1",
+  "title": "小星",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "verses": [
+    "嘒彼小星，三五在东。肃肃宵征，夙夜在公。寔命不同！",
+    "嘒彼小星，维参与昴。肃肃宵征，抱衾与裯。寔命不犹！"
+  ],
+  "enabled": true,
+  "collection": "诗经",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/诗经/shijing.json#record-20"
+}

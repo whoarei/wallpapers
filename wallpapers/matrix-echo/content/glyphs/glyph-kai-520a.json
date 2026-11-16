@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-520a",
+  "script": "kai",
+  "character": "刊",
+  "reading": "kān",
+  "description": "kān：(1)斫，消除，修改～误（亦作勘误”）。校（jiào）～。不～之论（喻至理名言）。\n(2)刻～石。～印。～本。\n(3)排版印刷～行（xíng）。创～。～登。～载。\n(4)出版物～物。报～。书～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-刊"
+}

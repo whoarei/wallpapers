@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-73c8",
+  "script": "seal",
+  "character": "珈",
+  "reading": "jiā",
+  "description": "jiā：古代妇女的一种头饰，用头发编成假髻，称副”；再用簪子把副别在头上，上加玉饰，称珈”；珈数多少有表明身份的作用，如六珈”为侯伯夫人所用。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-珈"
+}

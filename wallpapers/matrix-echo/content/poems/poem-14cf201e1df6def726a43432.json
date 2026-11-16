@@ -1,0 +1,16 @@
+{
+  "id": "poem-14cf201e1df6def726a43432",
+  "title": "酒泉子·秋雨联绵",
+  "author": "李珣",
+  "dynasty": "五代",
+  "verses": [
+    "秋雨联绵，声散败荷丛里。",
+    "那堪深夜枕前听，酒初醒。",
+    "牵愁惹思更无停，烛暗香凝天欲曙。",
+    "细和烟，冷和雨，透帘旌。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-x-juan.json#record-39"
+}

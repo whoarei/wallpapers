@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7ebd",
+  "script": "kai",
+  "character": "纽",
+  "reading": "niǔ",
+  "description": "比喻事物的根本,关键\n纽绊。器物上用以提携或系绳带的部件\n钮扣\n⒈器物上可以提起来或系挂的部分秤～。印～。\n⒉扣合衣物的东西～扣子。塑料～扣。\n⒊系结用的带子。〈喻〉连结、根本或关键～带。枢～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-纽"
+}

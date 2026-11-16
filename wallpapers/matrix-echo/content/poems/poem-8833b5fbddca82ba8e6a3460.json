@@ -1,0 +1,16 @@
+{
+  "id": "poem-8833b5fbddca82ba8e6a3460",
+  "title": "叹昨日三首 二",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "天下薄夫苦耽酒，玉川先生也耽酒。",
+    "薄夫有钱恣张乐，先生无钱养恬漠。",
+    "有钱无钱俱可怜，百年骤过如流川。",
+    "平生心事消散尽，天上白日悠悠悬。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-d5179515-796e-467d-b744-3ab3494f1238"
+}

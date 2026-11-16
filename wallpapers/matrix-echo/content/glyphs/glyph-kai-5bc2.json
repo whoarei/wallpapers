@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5bc2",
+  "script": "kai",
+  "character": "寂",
+  "reading": "jì",
+  "description": "jì：静，没有声音～静。～寞。孤～。～～。～灭。～默。～寥（寂静空旷）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-寂"
+}

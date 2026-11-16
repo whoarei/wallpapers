@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6996",
+  "script": "seal",
+  "character": "榖",
+  "reading": "gǔ",
+  "description": "榖gǔ 1.落叶乔木。新生枝密披灰色粗毛，具乳汁。叶阔卵形至长圆状卵形，先端渐尖，全缘或缺裂。初夏开淡绿色小花，雌雄异株。果实圆球形，成熟时鲜红色。皮可制桑皮\n纸。又称构或楮。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-榖"
+}

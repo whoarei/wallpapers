@@ -1,0 +1,14 @@
+{
+  "id": "poem-9242150dc446342a4aa74e3f",
+  "title": "游春引三首 二",
+  "author": "张碧",
+  "dynasty": "唐",
+  "verses": [
+    "五陵年少轻薄客，蛮锦花多春袖窄。",
+    "酌桂鸣金玩物华，星蹄绣毂填香陌。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-8b006226-237f-4f13-b01f-5f8cee04c2bb"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-644b11a6d738bf82136fd57a",
+  "title": "春秋战国门 屈原",
+  "author": "周昙",
+  "dynasty": "唐",
+  "verses": [
+    "满朝皆醉不容醒，众浊如何拟独清。",
+    "江上流人真浪死，谁知浸润悮深诚。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-6f30fd00-ca31-4b3e-a4c9-eccb1f0f61e2"
+}

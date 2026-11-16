@@ -1,0 +1,20 @@
+{
+  "id": "poem-8c197c679c9af60a2e779199",
+  "title": "九日陪皇甫使君泛江宴赤岸亭",
+  "author": "畅当",
+  "dynasty": "唐",
+  "verses": [
+    "羁旅逢佳节，逍遥忽见招。",
+    "同倾菊花酒，缓櫂木兰桡。",
+    "平楚堪愁思，长江去寂寥。",
+    "猿啼不离峡，滩沸镇如潮。",
+    "举目关山异，伤心乡国遥。",
+    "徒言欢满座，谁觉客魂消。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-bbe5917e-3b2f-45ac-b458-bcbf662e1aad"
+}

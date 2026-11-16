@@ -1,0 +1,14 @@
+{
+  "id": "poem-ed12d4052ff8f0b3cb3b461e",
+  "title": "杨柳枝·馆娃宫外邺城西",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "馆娃宫外邺城西，远映征帆近拂提。",
+    "系得王孙归意切，不关芳草绿萋萋。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-33",
+  "tags": []
+}

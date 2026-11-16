@@ -1,0 +1,20 @@
+{
+  "id": "poem-473fc3603ed2778d59516de2",
+  "title": "法曲献仙音·庭叶飘寒",
+  "author": "方千里",
+  "dynasty": "宋",
+  "verses": [
+    "庭叶飘寒，砌蛩催织，夜色迢迢难度。",
+    "细剔灯花，再添香兽，凄凉洞房朱户。",
+    "见凤枕羞孤另，相思洒红雨。",
+    "有谁语。",
+    "道年来，为郎憔悴，音问隔，回首后期尚阻。",
+    "寂寞两愁山，锁闲情、无限颦妩。",
+    "嫩雪消肌，试罗衣、宽尽腰素。",
+    "问何时梦里，趁得好风飞去。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-514",
+  "tags": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5cb9f040387cadc911cff0f2",
+  "title": "盘隠瘗猿",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "寸土如寸金，恩殊帷盖深。",
+    "病思罹穽日，死恨出林心。",
+    "残橡停朝赋，空樊绝夜吟。",
+    "六窗呼不应，云冷月沉沉。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-89140748-b976-4c8f-8528-7ba25a4ab818"
+}

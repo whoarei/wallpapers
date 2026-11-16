@@ -1,0 +1,16 @@
+{
+  "id": "poem-59ac61d4ed7f067ee22b6db0",
+  "title": "三学士",
+  "author": "高明《蔡伯喈琵琶记》",
+  "dynasty": "元",
+  "verses": [
+    "谢得公公意甚美，凡事仗托维持。",
+    "假饶一举登科日，难道是双亲未老时。",
+    "只恐锦衣归故里，双亲的怕不见儿。",
+    "(外唱)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4938",
+  "tags": []
+}

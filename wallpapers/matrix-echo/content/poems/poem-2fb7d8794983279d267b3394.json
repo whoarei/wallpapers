@@ -1,0 +1,16 @@
+{
+  "id": "poem-2fb7d8794983279d267b3394",
+  "title": "宿凤翔天柱寺穷易玄上人房",
+  "author": "李洞",
+  "dynasty": "唐",
+  "verses": [
+    "天柱暮相逢，吟思天柱峰。",
+    "墨研青露月，茶吸白云钟。",
+    "卧语身黏藓，行禅顶拂松。",
+    "探玄为一决，明日去临邛。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-de2bfa12-cd5f-41e3-859d-af38ed2d3b34"
+}

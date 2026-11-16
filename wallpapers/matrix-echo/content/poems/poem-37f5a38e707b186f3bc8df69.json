@@ -1,0 +1,16 @@
+{
+  "id": "poem-37f5a38e707b186f3bc8df69",
+  "title": "送裴相公赴镇太原",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "盛德雄名远近知，功高先乞守藩维。",
+    "衔恩暂遣分龙节，署勅还同在凤池。",
+    "天子亲临楼上送，朝官齐出道傍辞。",
+    "明年塞北清蕃落，应建生祠请立碑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-781555b7-0c60-4783-9639-1609adb59969"
+}

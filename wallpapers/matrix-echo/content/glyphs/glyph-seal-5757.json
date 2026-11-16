@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5757",
+  "script": "seal",
+  "character": "块",
+  "reading": "kuài",
+  "description": "⒈成片、团或疙瘩状的东西土～儿。石～儿。煤～儿。～根。～茎。\n⒉〈古〉孤独～独。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-块"
+}

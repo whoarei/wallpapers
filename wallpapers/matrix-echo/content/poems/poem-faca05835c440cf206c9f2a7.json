@@ -1,0 +1,15 @@
+{
+  "id": "poem-faca05835c440cf206c9f2a7",
+  "title": "偈颂（幷序○序为南岳齐己撰） 十九",
+  "author": "居遁",
+  "dynasty": "唐",
+  "verses": [
+    "扫地煎茶及针把，更无余事可留心。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "衡山"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-53094029-075b-4f61-8ab9-45e15a8f7db4"
+}

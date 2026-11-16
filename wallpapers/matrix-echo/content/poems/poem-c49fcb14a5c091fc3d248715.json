@@ -1,0 +1,19 @@
+{
+  "id": "poem-c49fcb14a5c091fc3d248715",
+  "title": "杨柳枝·惯得娇云赶不开",
+  "author": "王质",
+  "dynasty": "宋",
+  "verses": [
+    "惯得娇云赶不开。",
+    "去还来。",
+    "淡光无可照楼台。",
+    "且停杯。",
+    "薄雨疏疏时几点，洒浮埃。",
+    "卖花未上担儿抬。",
+    "听他催。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.2000.json#record-309",
+  "tags": []
+}

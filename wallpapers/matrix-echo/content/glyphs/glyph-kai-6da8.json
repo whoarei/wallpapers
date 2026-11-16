@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6da8",
+  "script": "kai",
+  "character": "涨",
+  "reading": "zhǎng",
+  "description": "增长;高出\n大水貌\n⒈水量增大，水面高起来河水暴～。水～船高。\n⒉增高，特指物价提高～沙埋草。惩治乱～价。\n⒈体积增大～大。黄豆泡～了。\n⒉弥漫，充满烟尘～天。脸～得绯红。\n⒊多出来～出五元钱。\n涨zhāng 1.涨海。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-涨"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-b2139a95441304aa02b6818f",
+  "title": "咏史诗 田横墓",
+  "author": "胡曾",
+  "dynasty": "唐",
+  "verses": [
+    "古墓崔巍约路岐，歌传薤露到今时。",
+    "也知不去朝黄屋，祗为曾烹郦食其。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-db6b15f0-c322-4fe9-84a8-97f26a84c702"
+}

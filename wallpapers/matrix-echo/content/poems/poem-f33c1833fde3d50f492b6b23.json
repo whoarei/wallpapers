@@ -1,0 +1,16 @@
+{
+  "id": "poem-f33c1833fde3d50f492b6b23",
+  "title": "赋得花庭雾",
+  "author": "太宗皇帝",
+  "dynasty": "唐",
+  "verses": [
+    "兰气已熏宫，新橤半粧丛。",
+    "色含轻重雾，香引去来风。",
+    "拂树浓舒碧，萦花薄蔽红。",
+    "还当杂行雨，髣髴隐遥空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-53cabac3-3558-4bcb-8845-9ebe1c3eb562"
+}

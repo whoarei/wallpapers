@@ -1,0 +1,15 @@
+{
+  "id": "poem-57675d9145fa0157747bd11c",
+  "title": "五祖再来赞",
+  "author": "释了惠",
+  "dynasty": "宋",
+  "verses": [
+    "前身后身，坐底立底。",
+    "半假半真，全非全是。",
+    "只因擡手肆乖张，万古黄梅如鼎沸。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-ff0cf062-7154-483d-b1ca-2b93a2fa8c18"
+}

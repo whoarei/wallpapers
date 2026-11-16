@@ -1,0 +1,14 @@
+{
+  "id": "poem-a6dcb3002bddecb26664dc85",
+  "title": "偶诗五首 三",
+  "author": "司空图",
+  "dynasty": "唐",
+  "verses": [
+    "贤豪出处尽沉吟，白日高悬只照心。",
+    "一掬信陵坟上土，便如碣石累千金。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a7fe5386-9eb3-4e4a-8b6c-ee05be62ace0"
+}

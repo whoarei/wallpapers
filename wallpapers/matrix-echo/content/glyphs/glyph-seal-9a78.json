@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9a78",
+  "script": "seal",
+  "character": "驸",
+  "reading": "fù",
+  "description": "又指驾副车的马\n通辅”。车厢外的立木。引申为辅助\n⒈几匹马共同拉车，位于旁边的马叫\"驸\"。\n【驸马】汉代有\"驸马都尉\"的官，原来是近侍官的一种，后来皇帝的女婿常做这个官，因而驸马又专指公主的丈夫。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-驸"
+}

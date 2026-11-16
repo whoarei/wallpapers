@@ -1,0 +1,14 @@
+{
+  "id": "poem-372361324715471e730dede2",
+  "title": "药山三咏 伏牛庵",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "侍者何须召二空，一元调伏自知风。",
+    "轩然栋宇翚飞处，何似当年茅竹中。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-52a64c4a-c964-4c9f-a287-e2436cc965f0"
+}

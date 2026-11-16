@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-83a0",
+  "script": "seal",
+  "character": "莠",
+  "reading": "yǒu",
+  "description": "yǒu：(1)一年生草本植物，穗有毛，很像谷子，亦称狗尾草”。\n(2)喻品质坏的，不好的人良～不齐。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-莠"
+}

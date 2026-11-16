@@ -1,0 +1,14 @@
+{
+  "id": "poem-63b5235a996dee2099448e8c",
+  "title": "惜别",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "袂分鸳锦梦双残，一线啼痕枕未干。",
+    "门掩青灯人自去，杏花风起落花看。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-0ed90cdc-7991-4d31-a07f-23971c7e15eb"
+}

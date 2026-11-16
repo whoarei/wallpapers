@@ -1,0 +1,22 @@
+{
+  "id": "poem-17351cfae7cd68b28f03e77b",
+  "title": "江神子・江城子·长安门外小林丘",
+  "author": "吴文英",
+  "dynasty": "宋",
+  "verses": [
+    "长安门外小林丘。",
+    "碧壶秋。",
+    "浴轻鸥。",
+    "不放啼红，流水通宫沟。",
+    "时有晴空云过影，华镜里，翳鱼游。",
+    "绮罗尘满九衢头。",
+    "晚香楼。",
+    "夕阳收。",
+    "波面琴高，仙子驾黄虬。",
+    "清磬数声人定了，池上月，照虚舟。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-508",
+  "tags": []
+}

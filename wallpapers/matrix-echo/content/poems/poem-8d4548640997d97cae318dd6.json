@@ -1,0 +1,16 @@
+{
+  "id": "poem-8d4548640997d97cae318dd6",
+  "title": "郊庙歌辞 武后大享拜洛乐章 咸和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "坎泽祠容备举，坤坛祭典爰申。",
+    "灵睠遥行秘躅，嘉贶荐委殊珍。",
+    "肃礼恭禋载展，翘襟邈志逾殷。",
+    "方期交际悬应。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-5c7a41e6-d997-46f3-a6b2-bac41d354e35"
+}

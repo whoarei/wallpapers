@@ -1,0 +1,18 @@
+{
+  "id": "poem-7db55d39018b61e015df2b52",
+  "title": "于中好·谁道阴山行路难",
+  "author": "纳兰性德",
+  "dynasty": "清",
+  "verses": [
+    "谁道阴山行路难。",
+    "风毛雨血万人欢。",
+    "松梢露点沾鹰绁，芦叶溪深没马鞍。",
+    "依树歇，映林看。",
+    "黄羊高宴簇金盘。",
+    "萧萧一夕霜风紧，却拥貂裘怨早寒。"
+  ],
+  "enabled": true,
+  "collection": "纳兰词",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/纳兰性德/纳兰性德诗集.json#record-130"
+}

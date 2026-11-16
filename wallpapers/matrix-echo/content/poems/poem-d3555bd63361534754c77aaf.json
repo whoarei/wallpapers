@@ -1,0 +1,18 @@
+{
+  "id": "poem-d3555bd63361534754c77aaf",
+  "title": "临江仙·本是白苹洲畔客",
+  "author": "苏庠",
+  "dynasty": "宋",
+  "verses": [
+    "本是白苹洲畔客，虎符卧镇江城。",
+    "归来犹得趁鸥盟。",
+    "柳丝摇晓市，杜若遍芳汀。",
+    "莫惜飞觞仍堕帻，柳边依约莺声。",
+    "水秋鲈熟正关情。",
+    "只愁宣室召，未许钓船轻。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-674",
+  "tags": []
+}

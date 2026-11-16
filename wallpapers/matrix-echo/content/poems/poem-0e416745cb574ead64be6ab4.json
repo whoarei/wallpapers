@@ -1,0 +1,16 @@
+{
+  "id": "poem-0e416745cb574ead64be6ab4",
+  "title": "送顾道士游洞庭山",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "见说洞庭无上路，春游乱踏五灵芝。",
+    "含桃风起花狼籍，正是仙翁碁散时。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-7aff5d0b-5559-4355-a080-5054655f2f3c"
+}

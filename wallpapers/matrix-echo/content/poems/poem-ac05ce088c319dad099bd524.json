@@ -1,0 +1,14 @@
+{
+  "id": "poem-ac05ce088c319dad099bd524",
+  "title": "和定国湖上  其三",
+  "author": "刘跂",
+  "dynasty": "宋",
+  "verses": [
+    "菰蒲深处水藏波，邂逅相忘自啸歌。",
+    "曳组悬龟知底用，水边消得一渔蓑。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-367d5020-44b6-4149-af2c-a17a4fd75daf"
+}

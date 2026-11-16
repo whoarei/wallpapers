@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5c3b",
+  "script": "seal",
+  "character": "尻",
+  "reading": "kāo",
+  "description": "kāo：(1)屁股，脊骨的末端～骨（坐骨）。\n(2)家畜外形部位名称（以髋骨、荐骨和部分尾椎骨为基础，前连腰，下接股。是推动后股运步的重要部位）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-尻"
+}

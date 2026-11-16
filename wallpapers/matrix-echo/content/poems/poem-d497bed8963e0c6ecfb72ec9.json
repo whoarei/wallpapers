@@ -1,0 +1,16 @@
+{
+  "id": "poem-d497bed8963e0c6ecfb72ec9",
+  "title": "苏东坡挽诗五首  其二",
+  "author": "米芾",
+  "dynasty": "宋",
+  "verses": [
+    "淋漓十幅草兼真，玉立如山老健身。",
+    "梦里赤猿真月纪，兴前白凤似年辰。",
+    "将寻贺监船虚返，欲近要离烈可亲。",
+    "忍死来还天有意，免称圣代杀文人。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-856b95fe-52fd-41fd-95fe-cb4927d5db61"
+}

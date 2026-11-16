@@ -1,0 +1,17 @@
+{
+  "id": "poem-cc6397c97a6509341773161a",
+  "title": "感事十诗上李侍郎  其四",
+  "author": "陈造",
+  "dynasty": "宋",
+  "verses": [
+    "国工铸良剑，发白心志悴。",
+    "晶荧淬歛余，干莫并犀利。",
+    "入匣蛰虬龙，落手慑魑魅。",
+    "卫身未足道，适用在一试。",
+    "楼兰犹颉颃，顾汝岂虚器。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-b3a95a7f-cfd5-4fba-8c51-d44016b3e216"
+}

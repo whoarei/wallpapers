@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-936a",
+  "script": "seal",
+  "character": "鍪",
+  "reading": "móu",
+  "description": "móu：古代的一种锅。\n〔兜～〕古代打仗时戴的盔。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鍪"
+}

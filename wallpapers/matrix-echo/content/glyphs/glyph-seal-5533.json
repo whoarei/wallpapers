@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5533",
+  "script": "seal",
+  "character": "唳",
+  "reading": "lì",
+  "description": "lì：鹤、雁等鸟高亢的鸣叫华亭鹤～，岂可复闻乎？”风声鹤～（形容惊慌疑惧）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-唳"
+}

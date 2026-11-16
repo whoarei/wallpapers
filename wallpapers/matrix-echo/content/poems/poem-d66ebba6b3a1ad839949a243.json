@@ -1,0 +1,17 @@
+{
+  "id": "poem-d66ebba6b3a1ad839949a243",
+  "title": "又一首（用前韵）",
+  "author": "詹敦仁",
+  "dynasty": "唐",
+  "verses": [
+    "可恨名存实已除，兰台芸阁复谁居？",
+    "豕鱼未识应多愧，尤恐在人成蠹书。",
+    "（以上二诗见《永乐大典》卷一九七八二「一屋」。",
+    "「局」字〖十八函一百七十八册〗。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c62134b6-0324-4713-8978-c5fe4d834ae2"
+}

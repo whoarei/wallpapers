@@ -1,0 +1,14 @@
+{
+  "id": "poem-fa69acd1ac9b335da7fea52c",
+  "title": "残莺",
+  "author": "雍裕之",
+  "dynasty": "唐",
+  "verses": [
+    "花阑莺亦嬾，不语似含情。",
+    "何言百啭舌，唯余一两声。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-88820d3f-9dd5-44d6-9856-1f6c71aaa5c9"
+}

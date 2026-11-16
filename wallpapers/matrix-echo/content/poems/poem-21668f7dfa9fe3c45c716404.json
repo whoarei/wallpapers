@@ -1,0 +1,14 @@
+{
+  "id": "poem-21668f7dfa9fe3c45c716404",
+  "title": "风中琴",
+  "author": "卢仝",
+  "dynasty": "唐",
+  "verses": [
+    "五音六律十三徽，龙吟鹤响思庖羲。",
+    "一弹流水一弹月，水月风生松树枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-03f8a03b-c23c-49bc-8ee1-50de17d40c23"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-92ae",
+  "script": "seal",
+  "character": "銮",
+  "reading": "luán",
+  "description": "古代皇帝车的仪铃,安装在轭首或车衡上方。上部一般为扁圆形的铃,铃内有弹丸,铃上有辐射状的镂孔。下部为长方形的座;座的两面常有钉孔。西周时开始流行\n皇帝的车驾,因用作帝王的代称",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-銮"
+}

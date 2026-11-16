@@ -1,0 +1,16 @@
+{
+  "id": "poem-ef4db9343f046e9d23e5bf09",
+  "title": "奉敕陪内宴",
+  "author": "王孝廉",
+  "dynasty": "唐",
+  "verses": [
+    "海国来朝自远方，百年一醉谒天裳。",
+    "日宫座外何攸见，五色云飞万岁光。",
+    "（见金毓黻撰集《渤海国志长编》卷十八引《文华秀丽集》上。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-538a7b02-b5b7-4c3a-a150-7bfcf2ee3e78"
+}

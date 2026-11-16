@@ -1,0 +1,16 @@
+{
+  "id": "poem-358b03d9c3ac2f07087fb7b4",
+  "title": "菩萨蛮 其八",
+  "author": "温庭筠",
+  "dynasty": "唐",
+  "verses": [
+    "牡丹花谢莺声歇，绿杨满院中庭月。",
+    "相忆梦难成，背窗灯半明。",
+    "翠钿金压脸，寂寞香闺掩。",
+    "人远泪阑干，燕飞春又残。"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-1-juan.json#record-7",
+  "tags": []
+}

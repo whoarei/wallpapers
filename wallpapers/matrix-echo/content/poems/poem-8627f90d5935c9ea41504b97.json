@@ -1,0 +1,16 @@
+{
+  "id": "poem-8627f90d5935c9ea41504b97",
+  "title": "寄法堂颂",
+  "author": "智闲",
+  "dynasty": "唐",
+  "verses": [
+    "东间里入寂，西间里语话。",
+    "中间里睡眠，通间里行道。",
+    "向前即捡校，向后即隐形。",
+    "。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-4634ad48-2906-4448-90c8-13d963d8d125"
+}

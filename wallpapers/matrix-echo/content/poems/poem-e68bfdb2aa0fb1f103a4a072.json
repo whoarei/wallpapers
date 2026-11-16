@@ -1,0 +1,18 @@
+{
+  "id": "poem-e68bfdb2aa0fb1f103a4a072",
+  "title": "李员外秦援宅观妓",
+  "author": "沈佺期",
+  "dynasty": "唐",
+  "verses": [
+    "盈盈粉署郎，五日宴春光。",
+    "选客虚前馆，徵声徧后堂。",
+    "玉钗翠羽饰，罗袖郁金香。",
+    "拂黛随时广，挑鬟出意长。",
+    "啭歌遥合态，度舞暗成行。",
+    "巧落梅庭里，斜光暎晓妆。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-dbce5180-34f2-4d50-9a36-9db07635d349"
+}

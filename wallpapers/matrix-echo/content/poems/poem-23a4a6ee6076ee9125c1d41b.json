@@ -1,0 +1,16 @@
+{
+  "id": "poem-23a4a6ee6076ee9125c1d41b",
+  "title": "初入集贤院赠李献仁",
+  "author": "崔峒",
+  "dynasty": "唐",
+  "verses": [
+    "燕代官初罢，江湖路便分。",
+    "九迁从命薄，四十幸人闻。",
+    "迹愧趋丹禁，身曾系白云。",
+    "何由返沧海，昨日谒明君。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-cfa6b0e2-6fe0-4840-bb51-b27d4d8c1afb"
+}

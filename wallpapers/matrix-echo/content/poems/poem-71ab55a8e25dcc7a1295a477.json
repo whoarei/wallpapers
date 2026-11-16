@@ -1,0 +1,20 @@
+{
+  "id": "poem-71ab55a8e25dcc7a1295a477",
+  "title": "青玉案·玉婴初有排云分",
+  "author": "毛滂",
+  "dynasty": "宋",
+  "verses": [
+    "玉婴初有排云分。",
+    "向晚色、娟娟静。",
+    "秋入风枝清不尽。",
+    "月和粉露，徘徊孤映，独夜扶疏影。",
+    "子猷风调全相称。",
+    "是彼此、无凡韵。",
+    "玉勒前头花柳近。",
+    "水边石上，冷依烟雨，时有幽人问。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-828",
+  "tags": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "poem-d05144492ce6a5f62e545acd",
+  "title": "玉楼春·绿杨芳草长亭路",
+  "author": "晏殊",
+  "dynasty": "宋",
+  "verses": [
+    "绿杨芳草长亭路。",
+    "年少抛人容易去。",
+    "楼头残梦五更钟，花底离情三月雨。",
+    "无情不似多情苦。",
+    "一寸还成千万缕。",
+    "天涯地角有穷时，只有相思无尽处。"
+  ],
+  "enabled": true,
+  "collection": "宋词三百首",
+  "tags": [
+    "宋词三百首"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/宋词三百首.json#record-167"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-1ce0388e8feb4b413b799525",
+  "title": "废瑟词",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "古瑟在匣谁复识，玉柱颠倒朱丝黑。",
+    "千年曲谱不分明，乐府无人传正声。",
+    "秋虫暗穿尘作色，腹中不辨工人名。",
+    "几时天下复古乐，此瑟还奏云门曲。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-1fa1686d-4d76-4113-9758-3dd042a3c36a"
+}

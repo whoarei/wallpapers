@@ -1,0 +1,16 @@
+{
+  "id": "poem-fb785f1aa57757143f2739a8",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［末］恩东免嗟吁，且听覆。",
+    "言清行浊心贪污，违法度，恩和义，都不顾。",
+    "半载夫妻曾厮聚，一时间却把婵娟误。",
+    "［合前］。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8191",
+  "tags": []
+}

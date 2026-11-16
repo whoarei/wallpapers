@@ -1,0 +1,16 @@
+{
+  "id": "poem-e80f76ef8729a1ead8c1b3c9",
+  "title": "前腔",
+  "author": "柯丹邱《荆钗记》",
+  "dynasty": "元",
+  "verses": [
+    "［生］对：古明君在重贤，古良臣贡举先。",
+    "巫咸傅说初皆贱，伊尹曾耕莘上田。",
+    "皋陶既举不仁远，四皓出而汉祚安。",
+    "恭承执一询遇见，敢不谆谆露胆肝？。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-8045",
+  "tags": []
+}

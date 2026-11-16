@@ -1,0 +1,16 @@
+{
+  "id": "poem-3fa22a39f8892cefd56f893a",
+  "title": "棋",
+  "author": "裴说",
+  "dynasty": "唐",
+  "verses": [
+    "十九条平路，言平又崄巇。",
+    "人心无算处，国手有输时。",
+    "势逈流星远，声干下雹迟。",
+    "临轩才一局，寒日又西垂。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.40000.json#record-ae3e162f-6d07-4f90-ab29-9751c747d535"
+}

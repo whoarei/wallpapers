@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4f5d",
+  "script": "seal",
+  "character": "佝",
+  "reading": "gōu；kòu",
+  "description": "gōu：〔～偻〕由于缺乏维生素Ｄ引起钙、磷代谢障碍导致的骨骼发育不良。俗称小儿软骨病”。\nkòu：〔～瞀〕昏味无知。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-佝"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-3e59051f1920dbf9ad7de239",
+  "title": "梁公子",
+  "author": "李贺",
+  "dynasty": "唐",
+  "verses": [
+    "风彩出萧家，本是菖蒲花。",
+    "南塘连子熟，洗马走江沙。",
+    "御牋银沫冷，长簟凤窠斜。",
+    "种柳营中暗，题书赐馆娃。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-b0a06901-b758-4f7c-858a-31cd2039db1f"
+}

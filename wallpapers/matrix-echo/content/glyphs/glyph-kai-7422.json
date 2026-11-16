@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-7422",
+  "script": "kai",
+  "character": "琢",
+  "reading": "zhuó；zuó",
+  "description": "zhuó：雕刻玉石，使成器物，常喻用心推敲考虑、刻意求工～磨。雕～（a.雕刻玉石等；b.过分地修饰文字，使人觉得不自然，如～～之风不可长”）。～刻。～句。玉不～，不成器。\nzuó：〔～磨〕思索、考虑，如他的话我～～了很久，不明白什么意思”（磨”读轻声）。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-琢"
+}

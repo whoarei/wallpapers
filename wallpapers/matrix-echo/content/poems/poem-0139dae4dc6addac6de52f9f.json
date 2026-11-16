@@ -1,0 +1,16 @@
+{
+  "id": "poem-0139dae4dc6addac6de52f9f",
+  "title": "和张文裕初寒十首  其五",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "何处初寒好，初寒禹凿门。",
+    "遥天露崖口，轻浪漱山根。",
+    "万佛龛苔老，一灯林霭昏。",
+    "渔梁杳相望，石濑夜声喧。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-697d1195-4c83-46a8-aa2c-ee7e40536d55"
+}

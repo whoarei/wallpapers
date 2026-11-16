@@ -1,0 +1,19 @@
+{
+  "id": "poem-0fe66317022eecfd6fa644ae",
+  "title": "晓别",
+  "author": "张祜",
+  "dynasty": "唐",
+  "verses": [
+    "翠羽朱冠碧树鸡，未鸣先下短墙啼。",
+    "窗间谢女青蛾敛，门外萧郎白马嘶。",
+    "斜汉繁星当烛尽，淡烟残月映花迷。",
+    "景阳宫里晨钟动，不语垂鞭上柳堤。",
+    "（《全唐诗》卷五七八作温庭筠诗，题作《赠知音》。",
+    "别《才调集》卷二、《文苑英华》卷二八八亦作温诗。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-86b72a41-0eff-4077-a4f6-8d308c5e339d"
+}

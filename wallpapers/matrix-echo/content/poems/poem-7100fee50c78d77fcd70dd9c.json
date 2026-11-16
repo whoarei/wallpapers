@@ -1,0 +1,22 @@
+{
+  "id": "poem-7100fee50c78d77fcd70dd9c",
+  "title": "题贾氏林泉",
+  "author": "聂夷中",
+  "dynasty": "唐",
+  "verses": [
+    "市朝束名利，林泉系清通。",
+    "岂知黄尘内，迥有白云踪。",
+    "轻流逗密𦰏，直干入宽空。",
+    "高吟五君咏，疑对九华峰。",
+    "我知种竹心，欲扇清凉风。",
+    "我知决泉意，将明济物功。",
+    "有琴不张弦，众星列梧桐。",
+    "须知澹泊听，声在无声中。",
+    "地非樵者路，武陵又何逢。",
+    "祗虑迷所归，池上日西东。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-a4ba9d47-b06b-4146-a0f7-ffbb67a35705"
+}

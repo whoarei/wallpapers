@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6ede",
+  "script": "seal",
+  "character": "滞",
+  "reading": "zhì",
+  "description": "积压。长期积存,未作处理\n停止;阻塞;静止\n滞chì 1.见\"滞沛\"。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-滞"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-085a244338a0633419833007",
+  "title": "郊庙歌辞 祀九宫贵神乐章 凯安",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "盛德陈万舞，威棱畅九垓。",
+    "风云交律候，日月丽昭回。",
+    "行庆休祥发，乘和春气来。",
+    "百神肃临享，荡荡天门开。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-e02abcc5-bc03-4306-b0ab-f5f049104c9c"
+}

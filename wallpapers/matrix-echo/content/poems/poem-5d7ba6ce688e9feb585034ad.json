@@ -1,0 +1,18 @@
+{
+  "id": "poem-5d7ba6ce688e9feb585034ad",
+  "title": "麦穗两岐",
+  "author": "郑畋",
+  "dynasty": "唐",
+  "verses": [
+    "圣虑忧千亩，嘉苗荐两岐。",
+    "如云方表盛，成穗忽标奇。",
+    "瑞露纵横滴，祥风左右吹。",
+    "讴歌连上苑，化日遍平陂。",
+    "史册书堪重，丹青画更宜。",
+    "愿依连理树，俱作万年枝。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-1567757f-34ad-40e6-8bf2-d2eb76454a2c"
+}

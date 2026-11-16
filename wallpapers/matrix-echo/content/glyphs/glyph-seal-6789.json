@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6789",
+  "script": "seal",
+  "character": "枉",
+  "reading": "wǎng",
+  "description": "wǎng：(1)弯曲，弯屈，引申为行为不合正道或违法曲断～道。矫～过正。贪脏～法。～己正人（自己身子不正，倒去矫正别人）。\n(2)冤屈～死。冤～。\n(3)屈就，用于别人，含敬意～驾（ａ．称对方来访自己；ｂ．请对方往访他人）。～顾（称对方来访自己）。～临（称对方来访自己）。\n(4)徒然，空，白～然。～自。～费心机。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-枉"
+}

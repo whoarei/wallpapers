@@ -1,0 +1,13 @@
+{
+  "id": "poem-f23bc13180b130b9c571da48",
+  "title": "句",
+  "author": "大闲",
+  "dynasty": "唐",
+  "verses": [
+    "霜沾草迳寒风急，鴈度秋林落叶频。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-b3faeb87-ce88-4455-b9ab-c308d4634084"
+}

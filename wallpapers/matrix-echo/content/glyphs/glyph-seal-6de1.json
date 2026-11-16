@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6de1",
+  "script": "seal",
+  "character": "淡",
+  "reading": "dàn",
+  "description": "dàn：(1)含盐分少，与咸”相对味～。～水。～化。\n(2)浅，薄，含某种成分少，与浓”相对～酒。～绿。～薄。浅～。～雅。天高云～。\n(3)不热心冷～。～泊（对名利不热心）。～漠。～忘。恬～。\n(4)营业不旺盛～季。\n(5)无关紧要，无聊扯～。～话。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-淡"
+}

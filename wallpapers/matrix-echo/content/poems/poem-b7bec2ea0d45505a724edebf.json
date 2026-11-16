@@ -1,0 +1,14 @@
+{
+  "id": "poem-b7bec2ea0d45505a724edebf",
+  "title": "寄故人",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "静曲闲房病客居，蝉声满树槿花疎。",
+    "故人祗在蓝田县，强半年来未得书。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-0ec7646c-d08e-40af-8557-f9530dfacd43"
+}

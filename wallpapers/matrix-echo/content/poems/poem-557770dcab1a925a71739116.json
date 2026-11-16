@@ -1,0 +1,18 @@
+{
+  "id": "poem-557770dcab1a925a71739116",
+  "title": "岭下卧疾寄刘长卿员外",
+  "author": "包佶",
+  "dynasty": "唐",
+  "verses": [
+    "唯有贫兼病，能令亲爱疎。",
+    "岁时供放逐，身世付空虚。",
+    "胫弱秋添絮，头风晓废梳。",
+    "波澜喧众口，藜藿静吾庐。",
+    "丧马思开卦，占鸮嬾发书。",
+    "十年江海隔，离恨子知予。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-fa21adbe-1de4-40d0-888d-38ebbe473d3a"
+}

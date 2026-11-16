@@ -1,0 +1,14 @@
+{
+  "id": "poem-0675e322edf132a43e47461f",
+  "title": "岩桂",
+  "author": "史绳祖",
+  "dynasty": "宋",
+  "verses": [
+    "四出花中异，三开格外芳。",
+    "名高评月品，韵胜霸秋香。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-14c7abc7-0539-4a1e-bb28-4d38679d284d"
+}

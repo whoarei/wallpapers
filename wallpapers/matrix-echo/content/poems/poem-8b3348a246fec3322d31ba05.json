@@ -1,0 +1,16 @@
+{
+  "id": "poem-8b3348a246fec3322d31ba05",
+  "title": "郊庙歌辞 武后大享拜洛乐章 德和",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "夕惕司龙契，晨兢当凤扆。",
+    "崇儒习旧规，偃伯循先旨。",
+    "绝壤飞冠盖，遐区丽山水。",
+    "幸承三圣余，忻属千年始。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-a69e1314-b376-449b-9db5-58233b8c54d0"
+}

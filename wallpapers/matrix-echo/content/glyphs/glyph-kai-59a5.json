@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-59a5",
+  "script": "kai",
+  "character": "妥",
+  "reading": "tuǒ",
+  "description": "tuǒ：(1)适当，合适稳～。不～。～当（dàng）。～贴（恰当，十分合适。亦作妥帖”）。～善。～协（让步，放弃争执）。\n(2)安稳，停当（多用在动词后）已经商量～了。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-妥"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-668dd762dffb2139188e06ce",
+  "title": "颂古三十一首  其一七",
+  "author": "释原妙",
+  "dynasty": "宋",
+  "verses": [
+    "吞而复吐冷烟浮，月落寒山犹未休。",
+    "重把丝纶轻一掣，岂知元只在钩头。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-ff9a08d7-6254-4b42-b9c8-34b34e8c906e"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-828e",
+  "script": "seal",
+  "character": "芎",
+  "reading": "xiōng",
+  "description": "xiōng：〔～??（qióng）〕多年生草本植物，羽状复叶，白色，果实椭圆形。产于中国四川和云南省。全草有香气，地下茎可入药。亦称川芎”。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-芎"
+}

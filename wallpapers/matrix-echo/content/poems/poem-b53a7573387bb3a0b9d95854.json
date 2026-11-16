@@ -1,0 +1,20 @@
+{
+  "id": "poem-b53a7573387bb3a0b9d95854",
+  "title": "小重山·春到长门春草青",
+  "author": "李清照",
+  "dynasty": "宋",
+  "verses": [
+    "春到长门春草青。",
+    "江梅些子破，未开匀。",
+    "碧云笼碾玉成尘。",
+    "留晓梦，惊破一瓯春。",
+    "花影压重门。",
+    "疏帘铺淡月，好黄昏。",
+    "二年三度负东君。",
+    "归来也，著意过今春。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-697",
+  "tags": []
+}

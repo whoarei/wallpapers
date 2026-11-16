@@ -1,0 +1,14 @@
+{
+  "id": "poem-716ad565ee772a2d87da46bc",
+  "title": "圣心",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "圣心难用浅心求，圣学须专礼法修。",
+    "千五百年无孔子，尽因通变老优游。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-ad48f4f1-72b6-4b51-974c-802a9491f1af"
+}

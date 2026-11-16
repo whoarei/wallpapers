@@ -1,0 +1,16 @@
+{
+  "id": "poem-1e65cab9109bfc93f979bb58",
+  "title": "送维谅上人归洞庭",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "从来湖上胜人间，远爱浮云独自还。",
+    "孤月空天见心地，寥寥一水镜中山。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "洞庭湖"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-6aa24cb9-01be-4fbb-bee5-3d54ba38ffeb"
+}

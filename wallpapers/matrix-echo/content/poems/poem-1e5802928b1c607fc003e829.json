@@ -1,0 +1,14 @@
+{
+  "id": "poem-1e5802928b1c607fc003e829",
+  "title": "宫词  其九八",
+  "author": "张公庠",
+  "dynasty": "宋",
+  "verses": [
+    "自匀轻黛怯春寒，巧画双眉称绿鬟。",
+    "楼上远山随指见，槛中新月对人弯。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-020cd2b9-1179-403e-b733-7e2876c31432"
+}

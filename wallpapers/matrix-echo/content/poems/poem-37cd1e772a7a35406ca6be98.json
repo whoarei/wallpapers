@@ -1,0 +1,14 @@
+{
+  "id": "poem-37cd1e772a7a35406ca6be98",
+  "title": "山花",
+  "author": "李涉",
+  "dynasty": "唐",
+  "verses": [
+    "六出花开赤玉盘，当中红湿耐春寒。",
+    "长安若在五侯宅，谁肯将钱买牡丹。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-06c5b925-7d25-4399-8830-586a37ccc559"
+}

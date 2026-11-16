@@ -1,0 +1,16 @@
+{
+  "id": "poem-4b1af59974526a5d13b6d8da",
+  "title": "临江仙·谢家仙观寄云岑",
+  "author": "牛希济",
+  "dynasty": "五代",
+  "verses": [
+    "谢家仙观寄云岑，岩萝拂地成阴。",
+    "洞房不闭白云深，当时丹灶，一粒化黄金。",
+    "石壁霞衣犹半挂，松风长似鸣琴。",
+    "时间唳鹤起前林，十洲高会，何处许相寻？"
+  ],
+  "enabled": true,
+  "collection": "花间集",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/五代诗词/huajianji/huajianji-5-juan.json#record-34"
+}

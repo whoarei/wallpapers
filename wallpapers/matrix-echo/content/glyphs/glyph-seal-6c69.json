@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6c69",
+  "script": "seal",
+  "character": "汩",
+  "reading": "gǔ；yù",
+  "description": "gǔ：(1)水流的样子～流（急流）。～～（水流动的声音或样子）。\n(2)治理，疏通决～九川。\n(3)扰乱天公岂物欺，若此～时序”。\n(4)涌出的泉水。\n(5)沉没（mò）～没（mò）。\nyù：迅疾的样子悲风～起。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-汩"
+}

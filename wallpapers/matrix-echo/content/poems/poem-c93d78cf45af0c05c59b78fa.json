@@ -1,0 +1,18 @@
+{
+  "id": "poem-c93d78cf45af0c05c59b78fa",
+  "title": "喜到竹斋书事呈无位居士",
+  "author": "林敏修",
+  "dynasty": "宋",
+  "verses": [
+    "岭上小梅初破萼，同云作寒雪花落。",
+    "千里南还喜见君，一杯相属宁辞数。",
+    "楚狂小子笑孔丘，杖屦谩学名山游。",
+    "二年胜景览欲尽，赢得颜发先惊秋。",
+    "却归竹下寻诗句，追讲前欢秃千兔。",
+    "竹间已有嗣宗狂，吟醉何妨陪杖屦。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.60000.json#record-3f8dc26d-e44c-498e-ae45-c86818619bc6"
+}

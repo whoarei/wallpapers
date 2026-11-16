@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4f9b",
+  "script": "kai",
+  "character": "供",
+  "reading": "gòng；gōng",
+  "description": "gōng：准备着东西给需要的人应用～给（jǐ）。～求。～应。～需。～销。提～。～不应求。\n求；\ngòng：(1)奉献～养。～献。～奉。～佛。～职。\n(2)祭祀用的东西～桌。～品。～果。上～。\n(3)被审问时在法庭上述说事实招～。口～。～状。～认。～词。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-供"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-5c596cfcf62604231e69f95f",
+  "title": "伏读三月六日内禅诏书及传将士牓檄慨王室之艰危悯生灵之涂炭悼前策之不从恨奸回之误国感愤有作聊以述怀四首  其三",
+  "author": "李纲",
+  "dynasty": "宋",
+  "verses": [
+    "叹息奸臣术已疏，谋身误国竟何如。",
+    "马嵬不进杨钊死，关陜初临元振除。",
+    "王室威灵嗟索寞，苍生环堵未安居。",
+    "荒陬不见中原事，望断东吴一纸书。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.90000.json#record-d184cc59-4ada-4cd8-b6d8-94793f21a26c"
+}

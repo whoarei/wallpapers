@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-6b65",
+  "script": "kai",
+  "character": "步",
+  "reading": "bù",
+  "description": "bù：(1)行走～兵。～行（xíng）。徒～。信～。闲～。固～自封。望而却～。\n(2)踏着别人的足迹走，追随～韵。～其后尘。～武前贤。\n(3)行走时两脚的距离～伐。～测。寸～难行。\n(4)事情进行的程序、阶段、程度～骤。初～。\n(5)中国旧制长度单位，一步等于五尺。\n(6)古同埠”，多用于地名。\n(7)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-步"
+}

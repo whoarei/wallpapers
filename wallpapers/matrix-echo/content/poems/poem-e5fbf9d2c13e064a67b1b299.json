@@ -1,0 +1,14 @@
+{
+  "id": "poem-e5fbf9d2c13e064a67b1b299",
+  "title": "青㠗山",
+  "author": "张又新",
+  "dynasty": "唐",
+  "verses": [
+    "灵海泓澄匝翠峰，昔贤心赏已成空。",
+    "今朝亭馆无遗制，积水沧浪一望中。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.25000.json#record-852372d6-64ff-4341-816b-63e86e8d2e25"
+}

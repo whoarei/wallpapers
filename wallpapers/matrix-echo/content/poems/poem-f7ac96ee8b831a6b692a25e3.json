@@ -1,0 +1,14 @@
+{
+  "id": "poem-f7ac96ee8b831a6b692a25e3",
+  "title": "游泾川琴溪",
+  "author": "武平一",
+  "dynasty": "唐",
+  "verses": [
+    "环潭澄晓色，叠嶂照秋影。",
+    "幽致欣所逢，纷虑自兹屏。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-793b94f3-f7f9-477f-b588-ab464328959c"
+}

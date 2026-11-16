@@ -1,0 +1,15 @@
+{
+  "id": "poem-2d02fa683e8934e48f2aa3e6",
+  "title": "节节高",
+  "author": "施惠《幽闺记》",
+  "dynasty": "元",
+  "verses": [
+    "(众)强梁勇猛人会一家，杀人放火张威霸。",
+    "行劫掠，聚草粮，屯人马。",
+    "惯战武艺多潇洒，从来贼胆天来大，蛟龙猛虎离山窝，闻风那个不惊怕？(下)。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-2897",
+  "tags": []
+}

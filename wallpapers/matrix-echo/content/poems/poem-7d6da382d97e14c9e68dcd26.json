@@ -1,0 +1,16 @@
+{
+  "id": "poem-7d6da382d97e14c9e68dcd26",
+  "title": "酬终南阎谏议见寄",
+  "author": "司马光",
+  "dynasty": "宋",
+  "verses": [
+    "齿衰心力耗，揣分乞西台。",
+    "微禄供多病，闲官养不才。",
+    "弊庐容啸傲，清洛伴归来。",
+    "故友犹相念，寒光生死灰。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-99ca811b-e54c-48f5-87b0-599c429e9729"
+}

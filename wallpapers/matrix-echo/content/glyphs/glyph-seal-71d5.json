@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-71d5",
+  "script": "seal",
+  "character": "燕",
+  "reading": "yàn；yān",
+  "description": "yàn：(1)鸟类的一科，候鸟，常在人家屋内或屋檐下用泥做巢居住，捕食昆虫，对农作物有益～尔（形容新婚夫妇亲睦和美的样子）。～好（常用以指男女相爱）。～侣。～雀处（chǔ）堂（喻居安而不知远虑，临祸却不能自知）。\n(2)轻慢～朋逆其师”。\n(3)古同宴”，安闲，安乐。\n(4)古同宴”，宴饮。\nyān：(1)中国周代诸侯国名，在今河北省北部和辽宁省南部～赵。～山。～京。\n(2)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-燕"
+}

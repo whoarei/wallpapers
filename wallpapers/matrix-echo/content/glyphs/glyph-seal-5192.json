@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5192",
+  "script": "seal",
+  "character": "冒",
+  "reading": "mào；mò",
+  "description": "mào：(1)向外透或往上升～烟（a.烟往上升；b.发怒）。～汗。～尖。\n(2)不顾（恶劣的环境或危险等），顶着～雨。～险。～死。\n(3)不加小心，鲁莽，冲撞～失。～昧。～进（不顾具体条件，急躁进行）。\n(4)用假的充当真的，假托～牌。～充。～名顶替。\n(5)复盖先设一铁板，其上以松脂、蜡和纸灰之类～之”。\n(6)贪污贪于饮食，～于货贿”。\n(7)古同帽”。\n(8)古同瑁”，玳瑁。\n(9)姓。\nmò：〔～顿（dú）〕中国汉初匈奴族的一个君主名。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-冒"
+}

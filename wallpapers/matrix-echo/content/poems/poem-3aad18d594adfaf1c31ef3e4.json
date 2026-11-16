@@ -1,0 +1,14 @@
+{
+  "id": "poem-3aad18d594adfaf1c31ef3e4",
+  "title": "晓鸡",
+  "author": "来鹄",
+  "dynasty": "唐",
+  "verses": [
+    "黯黯严城罢鼓鼙，数声相续出寒栖。",
+    "不嫌惊破纱窗梦，却怕为妖半夜啼。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.35000.json#record-b9e2f62e-e42c-4223-9e16-e976a8ac36ae"
+}

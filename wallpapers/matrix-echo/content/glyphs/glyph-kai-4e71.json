@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-4e71",
+  "script": "kai",
+  "character": "乱",
+  "reading": "luàn",
+  "description": "治理\n扰乱;打乱;使乱\n淫乱,\n⒈无秩序，无条理纷～。杂～。～七八糟。\n⒉骚扰，战争动～。叛～。扰～。兵～。\n⒊混淆以假～真。\n⒋任意，随便～说～动。\n⒌男女关系不正常淫～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-乱"
+}

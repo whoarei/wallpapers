@@ -1,0 +1,19 @@
+{
+  "id": "poem-b8deed4bfdc3ef8c2f9bc626",
+  "title": "早春书怀寄李少府仲宣",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "早年初问法，因悟目中花。",
+    "忽值胡雏起，芟夷如乱麻。",
+    "脱身投彼岸，吊影念生涯。",
+    "迹与空门合，心将世路赊。",
+    "东田已芜没，南涧益伤嗟。",
+    "崇替惊人事，凋残感物华。",
+    "知君过我里，惆怅旧烟霞。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-4b4fd7a6-139e-49f3-b28a-e5eb3ffe497f"
+}

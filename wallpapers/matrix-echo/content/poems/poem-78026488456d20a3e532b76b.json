@@ -1,0 +1,18 @@
+{
+  "id": "poem-78026488456d20a3e532b76b",
+  "title": "宿青草渡",
+  "author": "王镃",
+  "dynasty": "宋",
+  "verses": [
+    "夜深犹有去来船，长江倒影涵青天。",
+    "鹤寒梦觉松梢月，流水残梅浸香雪。",
+    "山翁呼儿沽酒归，独客有感未睡时。",
+    "提剑起舞摇斗宿，醉里天风生两袖。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [
+    "长江"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-379e7065-23f1-40c0-91b2-bee92630c5f1"
+}

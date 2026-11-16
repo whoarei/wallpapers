@@ -1,0 +1,14 @@
+{
+  "id": "poem-aa73416433987fdcba97ac4f",
+  "title": "从郑少嘉求贡纲余茶  其一",
+  "author": "张栻",
+  "dynasty": "宋",
+  "verses": [
+    "贡包余璧小盘龙，独占人间第一功。",
+    "乞与清风行万里，为君一洗瘴云空。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.150000.json#record-f18a7aa1-6624-4a4e-a65f-adb78c0bce97"
+}

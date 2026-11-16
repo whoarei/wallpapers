@@ -1,0 +1,16 @@
+{
+  "id": "poem-521fa888fa374f4fda789842",
+  "title": "送李中丞杨判官",
+  "author": "李嘉祐",
+  "dynasty": "唐",
+  "verses": [
+    "射策名先著，论兵气自雄。",
+    "能全季布诺，不道鲁连功。",
+    "流水蒹葭外，诸山睥睨中。",
+    "别君秋日晚，回首夕阳空。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.10000.json#record-50b98014-0f20-4554-b959-8c8929b28582"
+}

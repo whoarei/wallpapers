@@ -1,0 +1,16 @@
+{
+  "id": "poem-a8450e5fdecc48d62f2264be",
+  "title": "寄冯使君",
+  "author": "贯休",
+  "dynasty": "唐",
+  "verses": [
+    "山风与霜气，浩浩满松枝。",
+    "永日烧杉子，无人共此时。",
+    "为文攀讽谏，得道在毫厘。",
+    "唯有桐江守，常怜志不卑。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-510ab4a1-3617-4cc0-a1f5-0e7e561f5448"
+}

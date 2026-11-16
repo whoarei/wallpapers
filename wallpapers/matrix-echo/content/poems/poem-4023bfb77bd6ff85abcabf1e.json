@@ -1,0 +1,16 @@
+{
+  "id": "poem-4023bfb77bd6ff85abcabf1e",
+  "title": "郊庙歌辞 享太庙乐章 迎神",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "七庙观德，百灵攸仰。",
+    "俗荷财成，物资含养。",
+    "道光执契，化笼提象。",
+    "肃肃雍雍，神其来飨。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-70baddd6-6128-41d4-bc8c-a409dd9a9939"
+}

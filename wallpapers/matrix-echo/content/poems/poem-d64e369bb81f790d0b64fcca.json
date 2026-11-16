@@ -1,0 +1,14 @@
+{
+  "id": "poem-d64e369bb81f790d0b64fcca",
+  "title": "江南曲五首 五",
+  "author": "丁仙芝",
+  "dynasty": "唐",
+  "verses": [
+    "始下芙蓉楼，言发瑯琊岸。",
+    "急为打船开，恶许傍人见。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.5000.json#record-6a3f1a5a-ec6d-4d68-bc7c-1076f0e0b6c2"
+}

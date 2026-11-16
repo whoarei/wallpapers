@@ -1,0 +1,14 @@
+{
+  "id": "poem-e78c103460ba16db63ec3553",
+  "title": "正月十四日大雪上信国公冢  其一",
+  "author": "赵文",
+  "dynasty": "宋",
+  "verses": [
+    "哭得愁云转不晴，山风吹泪欲成冰。",
+    "两年不过西州路，今日来登下马陵。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.240000.json#record-51b4e119-e0c9-4d56-8aee-5aab5016b284"
+}

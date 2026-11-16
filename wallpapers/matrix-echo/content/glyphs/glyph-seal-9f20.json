@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-9f20",
+  "script": "seal",
+  "character": "鼠",
+  "reading": "shǔ",
+  "description": "shǔ：(1)哺乳动物的一科，门齿终生持续生长，常借啮物以磨短，繁殖迅速，种类甚多，有的能传播鼠疫等病原，并为害农林草原，盗食粮食，破坏贮藏物、建筑物等（俗称耗子”）老～。～胆。～目寸光。投～忌器。～辈。\n(2)隐忧～思。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-鼠"
+}

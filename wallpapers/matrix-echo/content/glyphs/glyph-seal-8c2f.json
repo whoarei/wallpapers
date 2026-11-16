@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-8c2f",
+  "script": "seal",
+  "character": "谯",
+  "reading": "qiáo",
+  "description": "城门上的望楼\n古县名\n通瞧”。瞭望\n通诮”。责备\n谯楼\n谯qiào 1.责备;谴责。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-谯"
+}

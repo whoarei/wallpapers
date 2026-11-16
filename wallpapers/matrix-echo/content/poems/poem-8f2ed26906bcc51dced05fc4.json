@@ -1,0 +1,23 @@
+{
+  "id": "poem-8f2ed26906bcc51dced05fc4",
+  "title": "终南别业",
+  "author": "王维",
+  "dynasty": "唐",
+  "verses": [
+    "中岁颇好道，晚家南山陲。",
+    "兴来每独往，胜事空自知。",
+    "行到水穷处，坐看云起时。",
+    "偶然值林叟，谈笑无还期。"
+  ],
+  "enabled": true,
+  "collection": "唐诗三百首",
+  "tags": [
+    "唐诗三百首",
+    "田园",
+    "抒情",
+    "五言律诗",
+    "山",
+    "写人"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json#record-6d098c75-038d-45f4-8f86-73976c355e44"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-399f8aad76942ae0a1a39ea0",
+  "title": "八翁吟十首  其四",
+  "author": "张载",
+  "dynasty": "宋",
+  "verses": [
+    "老原原上卜年翁，感天功业地天聪。",
+    "流言未信成王悟，悟成全得起禾风。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.30000.json#record-8819e8bb-1493-42ee-b3e5-8319d03602b7"
+}

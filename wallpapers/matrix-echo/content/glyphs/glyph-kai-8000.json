@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-8000",
+  "script": "kai",
+  "character": "耀",
+  "reading": "yào",
+  "description": "yào：(1)光线照射～眼。闪～。照～。光～。～斑。\n(2)显扬，显示出来夸～。炫～。～武扬威。\n(3)光荣荣～。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-耀"
+}

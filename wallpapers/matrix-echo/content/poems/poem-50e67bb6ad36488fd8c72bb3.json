@@ -1,0 +1,16 @@
+{
+  "id": "poem-50e67bb6ad36488fd8c72bb3",
+  "title": "横吹曲辞 洛阳道",
+  "author": "郑渥",
+  "dynasty": "唐",
+  "verses": [
+    "客亭门外路东西，多少喧腾事不齐。",
+    "杨柳惹鞭公子醉，纻麻掩泪鲁人迷。",
+    "通宵尘土飞山月，是处经营夹御堤。",
+    "顷刻知音几存殁，半回依约认轮蹄。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-9997e88a-f75c-47ec-a336-359bb426fcf4"
+}

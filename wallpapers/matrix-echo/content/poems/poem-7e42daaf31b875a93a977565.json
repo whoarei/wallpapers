@@ -1,0 +1,16 @@
+{
+  "id": "poem-7e42daaf31b875a93a977565",
+  "title": "寄徽州谢使君密斋",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "新安产最良，引类赴文房。",
+    "太守五四友，管城三二王。",
+    "水分千里月，春满六州棠。",
+    "丹穴皆鲜羽，丛霄看颉颃。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-66f21eed-0f8a-4129-9131-a458dc448512"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7afa",
+  "script": "seal",
+  "character": "竺",
+  "reading": "zhú；dǔ",
+  "description": "zhú：姓。\n〔天～〕印度的古称。\ndǔ：古同笃”，厚。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-竺"
+}

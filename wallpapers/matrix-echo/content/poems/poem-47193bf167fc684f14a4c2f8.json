@@ -1,0 +1,18 @@
+{
+  "id": "poem-47193bf167fc684f14a4c2f8",
+  "title": "西江月·风送丹枫卷地",
+  "author": "葛立方",
+  "dynasty": "宋",
+  "verses": [
+    "风送丹枫卷地，霜干枯苇鸣溪。",
+    "兽炉重展向深闺。",
+    "红入麒麟方炽。",
+    "翠箔底垂银蒜，罗帏小钉金泥。",
+    "笙歌送我玉东西。",
+    "谁管摇花舞砌。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.8000.json#record-522",
+  "tags": []
+}

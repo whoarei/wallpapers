@@ -1,0 +1,19 @@
+{
+  "id": "poem-91dda3e42271ebda543928a0",
+  "title": "调笑・调笑令·心记",
+  "author": "晁补之",
+  "dynasty": "宋",
+  "verses": [
+    "心记。",
+    "好心事。",
+    "玉刻容颜眉刷翠。",
+    "杜郎生得真男子。",
+    "况是东家妖丽。",
+    "眉尖春恨难凭寄。",
+    "笑作空中唐字。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.4000.json#record-284",
+  "tags": []
+}

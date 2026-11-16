@@ -1,0 +1,16 @@
+{
+  "id": "poem-b4c29e9de4eeae3175a1053f",
+  "title": "民夫",
+  "author": "宋伯仁",
+  "dynasty": "宋",
+  "verses": [
+    "阃帅差夫欲太平，浚河才了又修城。",
+    "挑泥鍫镢无休日，失业妻儿有叹声。",
+    "两个布衫寒透骨，半盂蒸饭冷无羹。",
+    "何时一统山河了，只向春田带雨耕。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.210000.json#record-cd42db57-46a8-4d33-8adc-020b37b51ffe"
+}

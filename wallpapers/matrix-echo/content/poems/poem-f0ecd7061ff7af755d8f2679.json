@@ -1,0 +1,16 @@
+{
+  "id": "poem-f0ecd7061ff7af755d8f2679",
+  "title": "野游",
+  "author": "延寿",
+  "dynasty": "唐",
+  "verses": [
+    "独步出衡茅，寒云著地交。",
+    "烧平多败穴，叶落见危巢。",
+    "（见南宋钱唐陈起《增广圣宋高僧诗选后集》卷中，《南宋群贤小集》第二十五册，嘉庆六年石门顾氏读画斋刊本。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.55000.json#record-8a2d25c1-74fe-43af-bff9-d62bac5c5c9e"
+}

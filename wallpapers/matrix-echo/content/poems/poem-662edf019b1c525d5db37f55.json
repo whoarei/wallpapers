@@ -1,0 +1,16 @@
+{
+  "id": "poem-662edf019b1c525d5db37f55",
+  "title": "赠贾岛",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "篱落荒凉僮仆饥，乐游原上住多时。",
+    "蹇驴放饱骑将出，秋卷装成寄与谁。",
+    "拄杖傍田寻野菜，封书乞米趂时炊。",
+    "姓名未上登科记，身屈惟应内史知。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-33be17f8-f0b2-4c54-9d97-d4900b2c1f31"
+}

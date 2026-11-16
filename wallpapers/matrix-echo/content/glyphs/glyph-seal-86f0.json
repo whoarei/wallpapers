@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-86f0",
+  "script": "seal",
+  "character": "蛰",
+  "reading": "zhé",
+  "description": "虫类伏藏洞穴不出\n喻潜藏而未披露",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蛰"
+}

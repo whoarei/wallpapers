@@ -1,0 +1,18 @@
+{
+  "id": "poem-b04299bee8298a4f12f69b88",
+  "title": "丑奴儿・采桑子·年年有个人生日",
+  "author": "张孝祥",
+  "dynasty": "宋",
+  "verses": [
+    "年年有个人生日，谁似君家。",
+    "谁似君家。",
+    "八十慈亲发未华。",
+    "棠阴阁上棠阴满，满劝流霞。",
+    "满劝流霞。",
+    "来岁应添宰路沙。"
+  ],
+  "enabled": true,
+  "collection": "宋词选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/宋词/ci.song.6000.json#record-272",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poem-3e628beb4d140f525e6c269b",
+  "title": "郊庙歌辞  善胜舞",
+  "author": "不详",
+  "dynasty": "唐",
+  "verses": [
+    "圣祖累功，福钟来裔。",
+    "持羽执干，舞文不废。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.0.json#record-42500782-6469-41ae-aeae-ecaba64511e1"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "poem-bbc3b502f67b81d0379b1ea8",
+  "title": "月",
+  "author": "张南史",
+  "dynasty": "唐",
+  "verses": [
+    "月，月。",
+    "暂盈，还缺。",
+    "上虚空，生溟渤。",
+    "散彩无际，移轮不歇。",
+    "桂殿入西秦，菱歌映南越。",
+    "正看云雾秋卷，莫待关山晓没。",
+    "天涯地角不可寻，清光永夜何超忽。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.15000.json#record-45e3e037-699c-41df-a14f-9c2835334fcc"
+}

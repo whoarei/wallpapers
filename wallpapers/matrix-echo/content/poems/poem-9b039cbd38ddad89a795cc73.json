@@ -1,0 +1,14 @@
+{
+  "id": "poem-9b039cbd38ddad89a795cc73",
+  "title": "白鼍鸣",
+  "author": "张籍",
+  "dynasty": "唐",
+  "verses": [
+    "天欲雨，有东风，南谿白鼍鸣窟中。",
+    "六月人家井无水，夜闻鼍声人尽起。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.20000.json#record-eaf535f0-d599-4356-b69d-2ad5622e018f"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-4e49",
+  "script": "seal",
+  "character": "义",
+  "reading": "yì",
+  "description": "义不杀少。\n情谊\n⒈公正合宜的道德、道理或行为正～。～愤填膺。～正辞严。见～勇为。多行不～，必自毙。\n⒉意思，含意意～。字～。释～。望文生～。\n⒊情谊有情有～。\n①应尽的责任尽～务。\n②不拿报酬的～务劳动。\n义yí 1.仪容;状貌。 2.仪制;法度。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-义"
+}

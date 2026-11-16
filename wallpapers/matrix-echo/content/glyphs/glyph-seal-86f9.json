@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-86f9",
+  "script": "seal",
+  "character": "蛹",
+  "reading": "yǒng",
+  "description": "yǒng：昆虫从幼虫过渡到成虫时的一种形态蚕～。～化。～卧（蚕蛹蜷伏茧中，喻隐居）。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-蛹"
+}

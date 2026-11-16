@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-6bcf",
+  "script": "seal",
+  "character": "每",
+  "reading": "měi",
+  "description": "měi：(1)指特定范围内的任何一个或一组～人。～回。～组。\n(2)指特定范围内逐一出现的任何一次～战必胜。～况愈下。\n(3)虽～有良朋，况也永叹”（虽有良朋好友，危难之时也只能为之长叹）。\n(4)古同们”，中国宋元代口语。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-每"
+}

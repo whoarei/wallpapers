@@ -1,0 +1,18 @@
+{
+  "id": "poem-9b0038edc70c11214e814100",
+  "title": "和坂领客对月思乡之作",
+  "author": "王孝廉",
+  "dynasty": "唐",
+  "verses": [
+    "寂寂朱明夜，团团白月轮。",
+    "几山明影彻，万象水天新。",
+    "弃妾看生怅，羁情对动神。",
+    "谁云千里隔，能照两乡人。",
+    "（同前。",
+    "）。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.50000.json#record-c7faa2e2-6f32-47e4-bb18-717f07b7ccc8"
+}

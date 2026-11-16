@@ -1,0 +1,10 @@
+{
+  "id": "glyph-kai-5e73",
+  "script": "kai",
+  "character": "平",
+  "reading": "píng",
+  "description": "píng：(1)不倾斜，无凹凸，像静止的水面一样～地。～面。～原。\n(2)均等～分。～行（xíng）。抱打不～。公～合理。\n(3)与别的东西高度相同，不相上下～列。～局。～辈。\n(4)安定、安静～安。～服。\n(5)治理，镇压～定。\n(6)抑止（怒气）他把气～了下去。\n(7)和好宋人及楚人～”。\n(8)一般的，普通的～民。～庸。～价。～凡。\n(9)往常，一向～生（ａ．从来；ｂ．终身）。～素。\n(10)汉语四声之一～声。～仄。\n(11)姓。\n(12)古同评”，评议。\n〔～假（jiǎ）名〕日本文所用的草书字母。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-平"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-7085",
+  "script": "seal",
+  "character": "炅",
+  "reading": "guì；jiǒng",
+  "description": "jiǒng：火光。\nguì：姓。",
+  "enabled": true,
+  "collection": "篆字扩展",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-炅"
+}

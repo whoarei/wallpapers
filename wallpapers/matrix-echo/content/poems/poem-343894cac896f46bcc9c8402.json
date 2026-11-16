@@ -1,0 +1,15 @@
+{
+  "id": "poem-343894cac896f46bcc9c8402",
+  "title": "煞",
+  "author": "杨景贤",
+  "dynasty": "元",
+  "verses": [
+    "不知俺家告着他，他家告着俺？哥哥回去除了铁窨。",
+    "(行者云)你父母好善么？(裴女唱)俺爷平生好善常存性，俺娘从小看经不出音。",
+    "抬举得我如花锦，今日猪生狗活，兔扰狐侵。"
+  ],
+  "enabled": true,
+  "collection": "元曲选",
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/元曲/yuanqu.json#record-4512",
+  "tags": []
+}

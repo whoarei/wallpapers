@@ -1,0 +1,16 @@
+{
+  "id": "poem-e3f92673a4d3e0312560bde4",
+  "title": "刘母墓",
+  "author": "释居简",
+  "dynasty": "宋",
+  "verses": [
+    "怒虎跑云此处传，到今知是几何年。",
+    "一弯碧似回珠浦，数曲青藏瘗玉田。",
+    "彤管旋添今日史，白华何补乡来篇。",
+    "诔辞尽出骚人社，行橐犹能得细诠。"
+  ],
+  "enabled": true,
+  "collection": "宋诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.song.180000.json#record-bd1f1a07-05e1-40e1-9962-88e83199dfe8"
+}

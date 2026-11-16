@@ -1,0 +1,18 @@
+{
+  "id": "poem-efbe07c6358259bf4496df12",
+  "title": "关中送别",
+  "author": "薛能",
+  "dynasty": "唐",
+  "verses": [
+    "一行千里外，几事寸心间。",
+    "才子贫堪叹，男儿别是闲。",
+    "黄河淹华岳，白日照潼关。",
+    "若值乡人问，终军贱不还。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [
+    "黄河"
+  ],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.30000.json#record-02096dd9-1734-4358-81f0-98ce21febd85"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poem-b781d1185a5e1ab385b52267",
+  "title": "送契上人游扬州",
+  "author": "皎然",
+  "dynasty": "唐",
+  "verses": [
+    "西陵古江口，远见东扬州。",
+    "渌水不同泛，春山应独游。",
+    "寻僧白岩寺，望月谢家楼。",
+    "宿昔心期在，人寰非久留。"
+  ],
+  "enabled": true,
+  "collection": "全唐诗选",
+  "tags": [],
+  "source": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/poet.tang.45000.json#record-dbad6d4f-0e8c-4418-acd9-c215f801476a"
+}

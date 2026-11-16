@@ -1,0 +1,10 @@
+{
+  "id": "glyph-seal-5bc6",
+  "script": "seal",
+  "character": "密",
+  "reading": "mì",
+  "description": "mì：(1)稠，空隙小，与稀”、疏”相对紧～。稠～。茂～。严～。～封。～布。～集。～匝匝。～锣紧鼓（喻正式活动前的积极而紧张的准备，亦作紧锣密鼓”）。\n(2)关系近，感情好～友。～亲。\n(3)不公开，不公开的事物秘～。保～。～谋。～电。～报。～使。～信。～诏。～旨。～探。\n(4)精致，细致精～。细～。致～。～实（细密结实）。\n(5)姓。",
+  "enabled": true,
+  "collection": "常用汉字",
+  "source": "https://github.com/pwxcoo/chinese-xinhua/blob/fe6d6c2e8baa82187f4c96bbe042e43f96c05666/data/word.json#字-密"
+}
