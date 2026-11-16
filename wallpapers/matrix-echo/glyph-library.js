@@ -43,7 +43,6 @@
       const prospective = list([...overrides.values()], removed);
       if (prospective.length) G.collection(prospective);
       settings.glyphOverrides = [...overrides.values()].filter(e => !original.has(e.id) || JSON.stringify(original.get(e.id)) !== JSON.stringify(e)); settings.glyphRemoved = removed;
-      if (entries.length === 1) viewer.reveal(entries[0].id);
     }
     function editor(entry = null) {
       if (!runtime.capabilities.keyboard || !editable) return;
@@ -102,7 +101,7 @@
           character: $('glyph-character').value.trim(), reading: $('glyph-reading').value, description: $('glyph-description').value,
           enabled: old?.enabled ?? true });
         if (!editId && list().some(e => e.id === entry.id || e.script === entry.script && e.character === entry.character)) throw new Error('该类型中已有此字符，请直接编辑或通过 JSON 导入更新。');
-        upsert([entry]); editId = null; $('glyph-editor').hidden = true; refresh(`已保存悬浮文字「${entry.character}」。`);
+        upsert([entry]); viewer.reveal(entry); editId = null; $('glyph-editor').hidden = true; refresh(`已保存悬浮文字「${entry.character}」。`);
       } catch (error) { notify(error.message); }
     });
     $('import-glyphs').addEventListener('click', () => { if (runtime.capabilities.keyboard && editable) $('glyph-file').click(); });
@@ -116,7 +115,7 @@
           try { entries.push(...G.collection(JSON.parse((await file.text()).replace(/^\uFEFF/, '')))); }
           catch (error) { throw new Error(`${file.name}：${error.message}`); }
         }
-        G.collection(entries); upsert(entries); refresh(`已导入 ${entries.length} 条悬浮文字，重复 id 已更新。`);
+        G.collection(entries); upsert(entries); if (entries.length === 1) viewer.reveal(entries[0]); refresh(`已导入 ${entries.length} 条悬浮文字，重复 id 已更新。`);
       } catch (error) { notify('导入失败，悬浮文字库未更改。' + error.message); }
     });
     $('export-glyphs').addEventListener('click', () => {

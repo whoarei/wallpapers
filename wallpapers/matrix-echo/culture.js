@@ -203,7 +203,6 @@
       if (all.size > P.limits.poems) throw new Error('诗词库最多保存 100000 首，请先删除部分个人诗词。');
       settings.overrides = [...merged.values()].filter(p => !original.has(p.id) || JSON.stringify(original.get(p.id)) !== JSON.stringify(p));
       const incoming = new Set(poems.map(p => p.id));
-      if (poems.length === 1) poemViewer.reveal(poems[0].id);
       settings.removed = settings.removed.filter(id => !incoming.has(id));
     }
     function editor(poem = null) {
@@ -277,7 +276,7 @@
           author: $('poem-author').value, dynasty: $('poem-dynasty').value,
           verses: $('poem-verses').value.split(/\r?\n/).filter(v => v.trim()), enabled: old?.enabled ?? true });
         if (!editId && library().some(p => p.id === poem.id)) throw new Error('相同篇名和作者的诗词已存在，请直接编辑或使用 JSON 导入更新。');
-        upsert([poem]); $('poem-editor').hidden = true; editId = null; mutate(`已保存《${poem.title}》。`);
+        upsert([poem]); poemViewer.reveal(poem); $('poem-editor').hidden = true; editId = null; mutate(`已保存《${poem.title}》。`);
       } catch (error) { notify(error.message); }
     });
     $('restore-poems').addEventListener('click', () => { $('restore-confirm').hidden = false; });
@@ -320,7 +319,7 @@
             ids.add(poem.id); poems.push(poem);
           }
         }
-        upsert(poems); mutate(`已导入 ${poems.length} 首诗词，重复 id 已更新。`);
+        upsert(poems); if (poems.length === 1) poemViewer.reveal(poems[0]); mutate(`已导入 ${poems.length} 首诗词，重复 id 已更新。`);
       } catch (error) { notify('导入失败，诗词库未更改。' + error.message); }
     });
     $('export-wallpaper').addEventListener('click', async () => {

@@ -19,7 +19,7 @@
   }
   function create(kind, { render, excluded, toggle, editable = true }) {
     const $ = suffix => document.getElementById(kind + '-' + (suffix === 'dynasty' ? 'dynasty-filter' : suffix));
-    let page = 0, timer;
+    let page = 0, timer, focusId = '';
     function options(suffix, values) {
       const select = $(suffix); if (!select) return;
       const all = [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-CN'));
@@ -34,8 +34,8 @@
     $('next').addEventListener('click', () => { page++; render(); });
     $('collection-toggle').addEventListener('click', () => { if (editable && $('collection').value) toggle($('collection').value); });
     return Object.freeze({
-      reveal(id) {
-        $('search').value = id; page = 0;
+      reveal(entry) {
+        $('search').value = kind === 'poem' ? entry.title : entry.character; page = 0; focusId = entry.id;
         for (const suffix of ['collection', 'dynasty', 'tag', 'filter']) if ($(suffix)) $(suffix).value = '';
       },
       page(entries) {
@@ -47,6 +47,11 @@
           && (!tag || e.tags?.includes(tag)) && (!script || e.script === script)
           && (!query || [e.id, e.title, e.author, e.character, e.reading, e.description, e.collection, e.dynasty,
             ...(e.tags || []), ...(e.verses || [])].filter(Boolean).join(' ').toLocaleLowerCase().includes(query)));
+        if (focusId) {
+          const index = matches.findIndex(e => e.id === focusId);
+          if (index >= 0) page = Math.floor(index / PAGE_SIZE);
+          focusId = '';
+        }
         const pages = Math.max(1, Math.ceil(matches.length / PAGE_SIZE)); page = Math.min(page, pages - 1);
         $('page-status').textContent = `${matches.length} 条结果 · 第 ${page + 1} / ${pages} 页`;
         $('previous').disabled = page === 0; $('next').disabled = page + 1 >= pages;
