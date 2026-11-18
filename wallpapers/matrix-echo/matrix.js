@@ -10,10 +10,10 @@
     const background = document.createElement('canvas');
     const atlas = document.createElement('canvas');
     const glyphs = '012345789アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホミムメモヤユヨラリルレロワヲン<>:={}';
-    const cell = 24, atlasCell = 32;
+    const atlasCell = 32;
     let width = 0, height = 0, time = 0, frames = 0, last = null, lastPaint = 0, raf = 0;
     let paused = false, speedIndex = 0, lightIndex = 1, lastInput = 0, interactions = 0;
-    let streams = [], ripples = [], poemRain = null;
+    let streams = [], ripples = [];
     const pointer = { x: 0, y: 0, targetX: 0, targetY: 0 };
     const speeds = [.52, 1, 1.6], speedNames = ['缓慢', '标准', '疾速'];
     const lights = [.62, 1, 1.32], lightNames = ['柔和', '标准', '明亮'];
@@ -72,7 +72,6 @@
       c.fillStyle = gradient; c.fillRect(-1, -1, 2, 2); c.restore();
     }
     function resize() {
-      poemRain = null;
       width = innerWidth; height = innerHeight;
       const ratio = Math.min(devicePixelRatio || 1, 1.5);
       canvas.width = Math.round(width * ratio); canvas.height = Math.round(height * ratio);
@@ -101,73 +100,12 @@
       const period = height + stream.length * stream.size * 1.18 + 240;
       return ((stream.offset + time * stream.speed) % period) - 100;
     }
-    function preparePoemRain() {
-      const verse = culture.getVerse();
-      if (!verse) { poemRain = null; return; }
-      if (poemRain?.serial === verse.serial) {
-        const drained = [...poemRain.members].every(([s, member]) =>
-          member.head + (time - poemRain.born) * s.speed - (member.length - 1) * poemRain.step > height + 30);
-        if (drained) {
-          // All old code and poem cells have left. Start the next ordinary
-          // stream above the screen instead of jumping back into its middle.
-          for (const s of poemRain.members.keys()) s.offset = -time * s.speed;
-          culture.finishVerse(verse.serial); poemRain = null;
-        }
-        return;
-      }
-      const chars = Array.from(verse.verse);
-      const dh = Math.min(height * .40, width * (width < 650 ? .66 : .28));
-      const doorX = width * (width < 650 ? .57 : .655);
-      // Reuse actual rain lanes and their font sizes. Long verses can use the
-      // finer back layer to fit on portrait screens without dropping characters.
-      let lanes, rows, columns, step;
-      for (const layer of [1, 0]) {
-        lanes = streams.filter(s => s.layer === layer && s.x > width * .17 && s.x < width * .95 && Math.abs(s.x - doorX) > dh * .215 + 16);
-        step = [12, 18][layer] * 1.18;
-        rows = Math.min(chars.length, Math.max(4, Math.floor(height * .56 / step)));
-        columns = Math.ceil(chars.length / rows);
-        if (lanes.length >= columns) break;
-      }
-      if (!lanes.length) return;
-      rows = Math.max(rows, Math.ceil(chars.length / lanes.length));
-      columns = Math.ceil(chars.length / rows);
-      const possible = lanes.length - columns + 1;
-      const start = Math.floor((verse.serial * .381966 % 1) * possible);
-      // The first character leads the falling stream; later characters trail
-      // above it. Long verses continue in the next column to the left.
-      const chosen = lanes.slice(start, start + columns).reverse();
-      const carrier = chosen[0];
-      let entryDelay = 0;
-      const members = new Map(chosen.map((s, i) => {
-        const text = chars.slice(i * rows, (i + 1) * rows), head = streamHead(s);
-        // Keep the lane's current phase and velocity. Only cells still above
-        // the viewport become poetry, so existing visible code never changes.
-        const firstRow = Math.max(1, Math.ceil((head + s.size + s.speed * entryDelay) / step));
-        entryDelay = Math.max(entryDelay, (firstRow * step - head) / s.speed) + .65;
-        return [s, { chars: text, head, firstRow, length: Math.max(s.length, firstRow + text.length) }];
-      }));
-      poemRain = { serial: verse.serial, verse: verse.verse, born: time, speed: carrier.speed, rows, step, members };
-    }
-    function rainPoemState() {
-      if (!poemRain) return null;
-      return { verse: poemRain.verse, serial: poemRain.serial, speed: poemRain.speed, step: poemRain.step,
-        columns: [...poemRain.members].map(([s, member]) => {
-          const bottom = member.head + (time - poemRain.born) * s.speed - member.firstRow * poemRain.step;
-          return { text: member.chars.join(''), x: s.x + pointer.x * (s.layer + 1) * 2,
-            top: bottom - (member.chars.length - 1) * poemRain.step, bottom, speed: s.speed, fontSize: s.size, layer: s.layer };
-        }) };
-    }
     function drawRain() {
-      preparePoemRain();
       const shift = Math.floor(time * 8);
-      ctx.save(); ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
       for (const s of streams) {
-        const poem = poemRain?.members.get(s);
         const step = s.size * 1.18;
-        const head = poem ? poem.head + (time - poemRain.born) * s.speed : streamHead(s);
-        const length = poem ? poem.length : s.length;
-        if (poem) ctx.font = `${s.size}px MatrixKai`;
-        for (let j = 0; j < length; j++) {
+        const head = streamHead(s);
+        for (let j = 0; j < s.length; j++) {
           const y = head - j * step;
           if (y < -30 || y > height + 30) continue;
           let x = s.x + pointer.x * (s.layer + 1) * 2;
@@ -181,14 +119,6 @@
           }
           // A quiet region at the left keeps desktop shortcuts legible.
           const quiet = .38 + .62 * Math.min(1, Math.max(0, (x / width - .12) / .38));
-          const poemIndex = poem ? j - poem.firstRow : -1;
-          if (poemIndex >= 0 && poemIndex < poem.chars.length) {
-            ctx.globalAlpha = Math.min(1, (.72 + boost * .4) * lights[lightIndex]);
-            ctx.fillStyle = poemIndex < 2 ? '#a4f6bb' : '#58d47d';
-            ctx.fillText(poem.chars[poemIndex], x, y);
-            continue;
-          }
-          if (j >= s.length) continue;
           const tail = Math.pow(1 - j / s.length, 1.15);
           const mutation = j % 7 === 0 ? shift : Math.floor(shift / 7);
           const code = (s.seed + j * 31 + mutation * 13) % glyphs.length;
@@ -196,7 +126,6 @@
             (s.alpha * tail * quiet + boost) * lights[lightIndex]);
         }
       }
-      ctx.restore();
       ctx.globalAlpha = 1;
     }
     function drawFloor(cx, floorY, doorHeight) {
@@ -355,7 +284,7 @@
     if (!runtime.paused) raf = requestAnimationFrame(tick);
     window.matrixEcho = { getState: options => ({ width, height, time, frames, paused, speedIndex, lightIndex,
       interactions, rippleCount: ripples.length, streams: streams.length, targetFps: 30, configurationSource,
-      rainPoem: rainPoemState(), culture: culture.getState(options) }) };
+      culture: culture.getState(options) }) };
   }
   if (document.readyState !== 'complete') document.addEventListener('DOMContentLoaded', startScene, { once: true });
   else startScene();

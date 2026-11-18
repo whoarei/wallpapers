@@ -32,6 +32,8 @@
         mutate('已更新诗词选集。');
       } });
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const verseOverlay = options.editorOnly ? null : $('poetry-echo');
+    const verseText = $('echo-verse'), verseCredit = $('echo-credit');
     $('culture-panel').dataset.hostManaged = String(options.readOnly === true);
     $('host-settings-notice').hidden = options.readOnly !== true;
     const glyphLibrary = window.MatrixGlyphLibrary.create({ runtime, settings, notify, download, editable: !options.readOnly,
@@ -49,26 +51,41 @@
       try { localStorage.setItem(key, JSON.stringify(settings)); storageAvailable = true; }
       catch { storageAvailable = false; notify('本次修改已应用，但当前环境无法保存。请导出文件备份。'); }
     }
-    function resetVerse() { current = null; due = clock + 2; $('echo-verse').textContent = ''; $('echo-credit').textContent = ''; }
+    function resetVerse() {
+      current = null; due = clock + 2;
+      if (verseOverlay) {
+        verseOverlay.hidden = true;
+        verseText.textContent = ''; verseCredit.textContent = '';
+      }
+    }
     function mutate(message, reset = true) {
       if (message) notify(message + (options.editorOnly ? '（保存更改后生效）' : ''));
       save(); if (reset) resetVerse(); renderManager(); wake(); paint(); redraw();
     }
-    function next() {
+    function next(immediate = false) {
+      if (!verseOverlay) return;
       const active = library().filter(p => p.enabled && !settings.excludedPoemCollections.includes(MatrixLibrary.collection(p)));
       if (!settings.poems || !active.length) { resetVerse(); return; }
       const poem = poemDeck.next(active);
       const verseIndex = (verseCursors.get(poem.id) || 0) % poem.verses.length;
       verseCursors.set(poem.id, verseIndex + 1);
       const verse = poem.verses[verseIndex];
-      current = { id: poem.id, verse, born: clock, serial: ++serial };
-      // Accessible transcript only; visible verses are painted in the code rain.
-      $('echo-verse').textContent = verse;
-      $('echo-credit').textContent = `—— ${poem.dynasty ? '[' + poem.dynasty + '] ' : ''}${poem.author}《${poem.title}》`;
+      const duration = 9 + Array.from(verse).length * .12;
+      current = { id: poem.id, verse, born: clock, serial: ++serial, duration, fadeIn: immediate ? 0 : 1 };
+      verseText.textContent = verse;
+      verseCredit.textContent = `—— ${poem.dynasty ? '[' + poem.dynasty + '] ' : ''}${poem.author}《${poem.title}》`;
+      paintVerse();
+      verseOverlay.hidden = false;
     }
-    function finishVerse(finishedSerial) {
-      if (current?.serial !== finishedSerial) return;
-      resetVerse(); due = clock + 6;
+    function paintVerse() {
+      if (!current || reducedMotion) return;
+      const age = clock - current.born;
+      const fadeIn = current.fadeIn ? age / current.fadeIn : 1;
+      const fadeOut = (current.duration - age) / 1.2;
+      verseOverlay.style.opacity = Math.min(1, fadeIn, fadeOut);
+      const dx = Math.sin(age * .44) * 9;
+      const dy = Math.sin(age * .31) * 4;
+      verseOverlay.style.transform = `translate(${dx}px, ${dy}px)`;
     }
     function rebuildFloats() {
       if (options.editorOnly) return;
@@ -193,7 +210,12 @@
       const resized = (viewport.width < 650) !== (width < 650);
       viewport = { width, height, x, y, door }; clock += dt;
       if (resized) rebuildFloats();
-      if (!current && clock >= due) { next(); if (!current) due = clock + 5; }
+      if (current) {
+        if (clock - current.born >= current.duration) resetVerse();
+        else paintVerse();
+      } else if (clock >= due) {
+        next(); if (!current) due = clock + 5;
+      }
       paint();
     }
     function upsert(poems) {
@@ -264,7 +286,7 @@
     }));
     $('next-verse').addEventListener('click', () => {
       if (!library().some(p => p.enabled)) { notify('请先启用或添加一首诗词。'); return; }
-      settings.poems = true; next(); mutate('', false);
+      settings.poems = true; next(true); mutate('', false);
     });
     $('add-poem').addEventListener('click', () => editor());
     $('cancel-edit').addEventListener('click', () => { $('poem-editor').hidden = true; editId = null; });
@@ -374,7 +396,7 @@
       editId = null; $('poem-editor').hidden = true; $('restore-confirm').hidden = true;
       glyphLibrary.reload(); rebuildFloats(); renderManager(); paint(); redraw(); return true;
     }
-    return Object.freeze({ update, togglePanel, finishVerse, applySettings, getVerse: () => fontReady.has('kai') && settings.poems ? current : null,
+    return Object.freeze({ update, togglePanel, applySettings,
       getState: ({ includeLibrary = true } = {}) => ({ clock, current: current ? { ...current } : null,
       settings: includeLibrary ? JSON.parse(JSON.stringify(settings)) : { poems: settings.poems, floating: settings.floating, scale: settings.scale, scripts: [...settings.scripts] },
       ...(includeLibrary ? { poems: library(), glyphs: glyphLibrary.list() } : {}), fontReady: [...fontReady],
