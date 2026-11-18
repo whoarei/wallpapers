@@ -34,6 +34,11 @@
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
     const verseOverlay = options.editorOnly ? null : $('poetry-echo');
     const verseText = $('echo-verse'), verseCredit = $('echo-credit');
+    const verseTrack = $('poetry-track');
+    const verseRows = verseTrack ? [...verseTrack.children] : [];
+    const measuringText = verseTrack ? document.createElement('canvas').getContext('2d') : null;
+    const graphemes = Intl.Segmenter ? new Intl.Segmenter('zh', { granularity: 'grapheme' }) : null;
+    const scrollTime = reducedMotion ? 0 : .55;
     $('culture-panel').dataset.hostManaged = String(options.readOnly === true);
     $('host-settings-notice').hidden = options.readOnly !== true;
     const glyphLibrary = window.MatrixGlyphLibrary.create({ runtime, settings, notify, download, editable: !options.readOnly,
@@ -62,30 +67,75 @@
       if (message) notify(message + (options.editorOnly ? '（保存更改后生效）' : ''));
       save(); if (reset) resetVerse(); renderManager(); wake(); paint(); redraw();
     }
-    function next(immediate = false) {
+    function wrapVerse(verse) {
+      const { fontSize, fontFamily } = getComputedStyle(verseTrack);
+      measuringText.font = `${fontSize} ${fontFamily}`;
+      const width = verseTrack.clientWidth;
+      const clauses = verse.split(/\n|(?<=[，。！？；：、!?;])(?=[^，。！？；：、!?;”’」』）】])/u);
+      const lines = [];
+      for (const clause of clauses) {
+        if (measuringText.measureText(clause).width <= width) {
+          lines.push(clause);
+          continue;
+        }
+        const characters = graphemes ? Array.from(graphemes.segment(clause), entry => entry.segment) : Array.from(clause);
+        let line = '';
+        for (const character of characters) {
+          if (line && measuringText.measureText(line + character).width > width) {
+            lines.push(line);
+            line = '';
+          }
+          line += character;
+        }
+        if (line) lines.push(line);
+      }
+      return lines;
+    }
+    function showVerseLine(index) {
+      current.lineIndex = index;
+      current.lineStarted = clock;
+      current.lineHold = Math.min(5.5, 3 + Array.from(current.lines[index]).length * .08);
+      verseRows.forEach((row, slot) => {
+        row.textContent = current.lines[index + slot - 1] ?? '';
+        row.classList.toggle('is-current', slot === 1);
+      });
+      verseTrack.style.transform = '';
+    }
+    function rewrapVerse() {
+      const previous = current.lines.slice(0, current.lineIndex);
+      let offset = previous.reduce((length, line) => length + line.length, 0);
+      const lines = wrapVerse(current.verse);
+      let index = 0;
+      while (index < lines.length - 1 && offset >= lines[index].length) offset -= lines[index++].length;
+      current.lines = lines;
+      showVerseLine(index);
+    }
+    function next() {
       if (!verseOverlay) return;
       const active = library().filter(p => p.enabled && !settings.excludedPoemCollections.includes(MatrixLibrary.collection(p)));
       if (!settings.poems || !active.length) { resetVerse(); return; }
       const poem = poemDeck.next(active);
       const verseIndex = (verseCursors.get(poem.id) || 0) % poem.verses.length;
-      verseCursors.set(poem.id, verseIndex + 1);
-      const verse = poem.verses[verseIndex];
-      const duration = 9 + Array.from(verse).length * .12;
-      current = { id: poem.id, verse, born: clock, serial: ++serial, duration, fadeIn: immediate ? 0 : 1 };
+      const first = poem.verses[verseIndex], following = poem.verses[verseIndex + 1];
+      const paired = following && first.length + following.length <= 60;
+      const verse = paired ? `${first}\n${following}` : first;
+      verseCursors.set(poem.id, verseIndex + (paired ? 2 : 1));
       verseText.textContent = verse;
       verseCredit.textContent = `—— ${poem.dynasty ? '[' + poem.dynasty + '] ' : ''}${poem.author}《${poem.title}》`;
-      paintVerse();
       verseOverlay.hidden = false;
+      current = { id: poem.id, verse, serial: ++serial, lines: wrapVerse(verse) };
+      showVerseLine(0);
     }
     function paintVerse() {
-      if (!current || reducedMotion) return;
-      const age = clock - current.born;
-      const fadeIn = current.fadeIn ? age / current.fadeIn : 1;
-      const fadeOut = (current.duration - age) / 1.2;
-      verseOverlay.style.opacity = Math.min(1, fadeIn, fadeOut);
-      const dx = Math.sin(age * .44) * 9;
-      const dy = Math.sin(age * .31) * 4;
-      verseOverlay.style.transform = `translate(${dx}px, ${dy}px)`;
+      const elapsed = clock - current.lineStarted - current.lineHold;
+      if (elapsed < 0) return;
+      const following = current.lineIndex + 1;
+      if (following === current.lines.length) next();
+      else if (elapsed >= scrollTime) showVerseLine(following);
+      else {
+        const progress = elapsed / scrollTime;
+        verseTrack.style.transform = `translateY(${-20 * (1 - (1 - progress) ** 3)}%)`;
+      }
     }
     function rebuildFloats() {
       if (options.editorOnly) return;
@@ -208,11 +258,12 @@
     }
     function update(dt, width, height, x, y, door) {
       const resized = (viewport.width < 650) !== (width < 650);
+      const verseResized = width !== viewport.width || height !== viewport.height;
       viewport = { width, height, x, y, door }; clock += dt;
       if (resized) rebuildFloats();
       if (current) {
-        if (clock - current.born >= current.duration) resetVerse();
-        else paintVerse();
+        if (verseResized) rewrapVerse();
+        paintVerse();
       } else if (clock >= due) {
         next(); if (!current) due = clock + 5;
       }
@@ -285,8 +336,13 @@
       rebuildFloats(); mutate('', false);
     }));
     $('next-verse').addEventListener('click', () => {
+      if (current && current.lineIndex + 1 < current.lines.length) {
+        showVerseLine(current.lineIndex + 1);
+        wake();
+        return;
+      }
       if (!library().some(p => p.enabled)) { notify('请先启用或添加一首诗词。'); return; }
-      settings.poems = true; next(true); mutate('', false);
+      settings.poems = true; next(); mutate('', false);
     });
     $('add-poem').addEventListener('click', () => editor());
     $('cancel-edit').addEventListener('click', () => { $('poem-editor').hidden = true; editId = null; });
@@ -376,7 +432,9 @@
     if (!options.editorOnly) for (const script of scripts) {
       document.fonts.load(`32px ${script.family}`, script.sample).then(faces => {
         if (!faces.length) throw new Error('font missing');
-        fontReady.add(script.id); rebuildFloats(); paint(); if (!runtime.paused) redraw();
+        fontReady.add(script.id);
+        if (script.id === 'kai' && current) rewrapVerse();
+        rebuildFloats(); paint(); if (!runtime.paused) redraw();
       }).catch(() => notify(`${script.name}字体未能加载，请检查壁纸文件是否完整。`));
     }
     // Import a configured package once, then keep its personal additions under
@@ -397,7 +455,7 @@
       glyphLibrary.reload(); rebuildFloats(); renderManager(); paint(); redraw(); return true;
     }
     return Object.freeze({ update, togglePanel, applySettings,
-      getState: ({ includeLibrary = true } = {}) => ({ clock, current: current ? { ...current } : null,
+      getState: ({ includeLibrary = true } = {}) => ({ clock, current: current ? { ...current, lines: [...current.lines] } : null,
       settings: includeLibrary ? JSON.parse(JSON.stringify(settings)) : { poems: settings.poems, floating: settings.floating, scale: settings.scale, scripts: [...settings.scripts] },
       ...(includeLibrary ? { poems: library(), glyphs: glyphLibrary.list() } : {}), fontReady: [...fontReady],
       floatingCount: floats.length, annotation: selectedFloat ? { script: selectedFloat.script.id, character: selectedFloat.el.textContent } : null,

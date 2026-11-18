@@ -23,10 +23,6 @@
 <body>
   <canvas id="matrix" aria-label="绿色代码雨与光门；点击画面泛起数据涟漪"></canvas>
   <div id="floating-script" role="group" aria-label="悬浮文字，点击查看注释"></div>
-  <figure id="poetry-echo" class="poetry-echo" hidden>
-    <blockquote id="echo-verse"></blockquote>
-    <figcaption id="echo-credit"></figcaption>
-  </figure>
   <aside id="glyph-note" class="glyph-note" data-scene-panel role="dialog" aria-modal="false" aria-labelledby="glyph-note-title" aria-describedby="glyph-note-reading glyph-note-description" hidden>
     <div class="note-heading"><h2 id="glyph-note-title"></h2><button id="close-glyph-note" type="button" aria-label="关闭文字注释">×</button></div>
     <p id="glyph-note-reading" class="note-reading"></p>
@@ -34,14 +30,28 @@
   </aside>
   <header class="identity"><span class="mark" aria-hidden="true">Ⅲ</span><div><h1>矩阵回声</h1><p>M A T R I X &nbsp; E C H O</p></div></header>
   <div class="signature" aria-hidden="true"><span class="signal"></span> THE CONSTRUCT <span class="separator">/</span> FOLLOW THE WHITE RABBIT</div>
-  <footer class="hud" data-scene-controls>
-    <span class="hint">点击文字 · 查看注释 / 空白 · 涟漪<span data-keyboard> / 空格 · 暂停</span></span>
-    <div class="controls">
-      <button id="culture" type="button" aria-expanded="false" aria-controls="culture-panel">诗词与文字</button>
-      <button id="speed" type="button">流速 · 缓慢</button>
-      <button id="light" type="button">辉光 · 标准</button>
-      <button id="pause" type="button" aria-pressed="false">暂停</button>
-      <button id="fullscreen" type="button" data-fullscreen>全屏</button>
+  <footer class="scene-bottom">
+    <figure id="poetry-echo" class="poetry-echo" hidden>
+      <blockquote>
+        <span id="echo-verse" class="poetry-transcript"></span>
+        <div class="poetry-window" aria-hidden="true">
+          <div id="poetry-track">
+            <div class="poetry-line"></div><div class="poetry-line"></div><div class="poetry-line"></div>
+            <div class="poetry-line"></div><div class="poetry-line"></div>
+          </div>
+        </div>
+      </blockquote>
+      <figcaption id="echo-credit"></figcaption>
+    </figure>
+    <div class="hud" data-scene-controls>
+      <span class="hint">点击文字 · 查看注释 / 空白 · 涟漪<span data-keyboard> / 空格 · 暂停</span></span>
+      <div class="controls">
+        <button id="culture" type="button" aria-expanded="false" aria-controls="culture-panel">诗词与文字</button>
+        <button id="speed" type="button">流速 · 缓慢</button>
+        <button id="light" type="button">辉光 · 标准</button>
+        <button id="pause" type="button" aria-pressed="false">暂停</button>
+        <button id="fullscreen" type="button" data-fullscreen>全屏</button>
+      </div>
     </div>
   </footer>
   <!-- culture-editor:start -->

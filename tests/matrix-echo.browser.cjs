@@ -70,27 +70,27 @@ async function setViewport(page, viewport) {
     return s.width === width && s.height === height;
   }, viewport, { polling: 50 });
 }
-async function checkFloatingVerse(page, expected, wrap) {
-  const overlay = page.locator('#poetry-echo'), verse = page.locator('#echo-verse');
+async function checkPoetryWindow(page, current) {
+  const overlay = page.locator('#poetry-echo');
   assert.equal(await overlay.isVisible(), true);
-  assert.equal(await verse.textContent(), expected, 'the full verse and its punctuation appear together');
+  assert.equal(await page.locator('#echo-verse').textContent(), current.verse);
+  assert.equal(current.lines.join(''), current.verse.replaceAll('\n', ''), 'wrapping preserves every character');
+  assert.equal(await page.locator('.poetry-line.is-current').textContent(), current.lines[current.lineIndex]);
   const { x, y, width, height } = await overlay.boundingBox();
   const viewport = page.viewportSize();
   assert.ok(x >= 0 && y >= 0 && x + width <= viewport.width && y + height <= viewport.height);
-  const layout = await verse.evaluate(el => {
-    const range = document.createRange();
-    range.selectNodeContents(el);
-    const lines = [...range.getClientRects()];
-    const style = getComputedStyle(el);
-    return { writingMode: style.writingMode, font: style.fontFamily, pointerEvents: style.pointerEvents,
-      lines: new Set(lines.map(line => line.top)).size,
-      clipped: lines.some(line => line.left < 0 || line.right > innerWidth || line.bottom > innerHeight) };
+  const hud = await page.locator('.hud').boundingBox();
+  assert.ok(Math.abs(x + width - hud.x - hud.width) < 1 && y + height <= hud.y, 'lyrics sit above the bottom-right controls');
+  const layout = await page.locator('.poetry-window').evaluate(el => {
+    const rows = [...el.querySelectorAll('.poetry-line')];
+    return { height: el.getBoundingClientRect().height, rowHeight: rows[0].getBoundingClientRect().height,
+      font: getComputedStyle(rows[0]).fontFamily, pointerEvents: getComputedStyle(el).pointerEvents,
+      clipped: rows.some(row => row.scrollWidth > row.clientWidth) };
   });
-  assert.equal(layout.writingMode, 'horizontal-tb');
+  assert.ok(Math.abs(layout.height - 4 * layout.rowHeight) < .1, 'only four rows fit in the visible window');
   assert.ok(layout.font.includes('MatrixKai'));
   assert.equal(layout.pointerEvents, 'none', 'poetry does not intercept wallpaper clicks');
   assert.equal(layout.clipped, false);
-  if (wrap !== undefined) assert.equal(layout.lines > 1, wrap);
 }
 async function clickableGlyph(page, script) {
   for (let attempt = 0; attempt < 25; attempt++) {
@@ -245,17 +245,10 @@ async function download(page, selector, name) {
     const s = await state(page), verseOverlay = page.locator('#poetry-echo');
     assert.ok(s.culture.current);
     const sourcePoem = await contentEntry(page, 'poems', s.culture.current.id);
-    assert.ok(sourcePoem.verses.includes(s.culture.current.verse));
+    assert.ok(s.culture.current.verse.split('\n').every(verse => sourcePoem.verses.includes(verse)));
     assert.ok((await page.locator('#echo-credit').textContent()).includes(`${sourcePoem.author}《${sourcePoem.title}》`));
-    const entering = await verseOverlay.boundingBox();
-    const opacity = () => verseOverlay.evaluate(el => Number(getComputedStyle(el).opacity));
-    assert.ok(await opacity() < 1);
-    await advance(page, 1200);
-    await checkFloatingVerse(page, s.culture.current.verse);
-    assert.equal(await opacity(), 1);
-    const floated = await verseOverlay.boundingBox();
-    assert.ok(floated.x > entering.x && floated.x - entering.x < 10, 'verse drifts gently');
-    await page.screenshot({ path: path.join(output, 'floating-verse-desktop.png') });
+    await checkPoetryWindow(page, s.culture.current);
+    await page.screenshot({ path: path.join(output, 'scrolling-verse-desktop.png') });
     await page.locator('#speed').click();
     const fasterStart = await state(page); await advance(page, 1000); const fasterEnd = await state(page);
     assert.ok(Math.abs(fasterEnd.time - fasterStart.time - 1) < .001, 'flow control changes the speed of the code rain');
@@ -264,20 +257,11 @@ async function download(page, selector, name) {
     assert.deepEqual(new Set(await page.locator('.floating-glyph').evaluateAll(els => els.map(e => getComputedStyle(e).fontFamily))), new Set(['MatrixSeal', 'MatrixKai', 'MatrixYi', 'MatrixTibetan']));
     await page.locator('#pause').click(); const paused = await state(page);
     const transform = await page.locator('.floating-glyph').first().getAttribute('style');
-    const pausedVerseStyle = await verseOverlay.getAttribute('style');
     await advance(page, 5000);
     assert.equal((await state(page)).culture.clock, paused.culture.clock);
     assert.deepEqual((await state(page)).culture.current, paused.culture.current, 'pause preserves the current verse');
-    assert.equal(await verseOverlay.getAttribute('style'), pausedVerseStyle, 'pause freezes the floating verse');
     assert.equal(await page.locator('.floating-glyph').first().getAttribute('style'), transform);
     await page.locator('#pause').click();
-    const remaining = paused.culture.current.born + paused.culture.current.duration - paused.culture.clock;
-    await advance(page, remaining * 1000 - 400);
-    assert.ok(await opacity() < 1, 'the current verse fades out before rotating');
-    await advance(page, 600);
-    assert.equal(await verseOverlay.isVisible(), false);
-    await advance(page, 2200);
-    assert.ok((await state(page)).culture.current.serial > paused.culture.current.serial, 'the next verse appears automatically');
     await checkAnnotations(page);
     await page.locator('#culture').click();
     const oldSize = await page.locator('.floating-glyph').first().evaluate(e => parseFloat(getComputedStyle(e).fontSize));
@@ -359,9 +343,31 @@ async function download(page, selector, name) {
     await page.locator('#next-verse').click(); await page.locator('#close-culture').click();
     for (const viewport of [{ width: 320, height: 180 }, { width: 320, height: 480 }, { width: 800, height: 450 }, { width: 390, height: 844 }]) {
       await setViewport(page, viewport); await advance(page, 50);
-      await checkFloatingVerse(page, long, true);
-      assert.equal(await opacity(), 1, 'manual switching shows the next verse immediately');
+      const { current } = (await state(page)).culture;
+      assert.equal(current.verse, long);
+      assert.ok(current.lines.length > 4);
+      await checkPoetryWindow(page, current);
     }
+    const beforeScroll = (await state(page)).culture;
+    const timeToScroll = beforeScroll.current.lineStarted + beforeScroll.current.lineHold - beforeScroll.clock;
+    const track = page.locator('#poetry-track');
+    const startPosition = await track.boundingBox();
+    await advance(page, timeToScroll * 1000 + 220);
+    const scrollingPosition = await track.boundingBox();
+    assert.ok(scrollingPosition.y < startPosition.y, 'the track scrolls upward');
+    await page.locator('#pause').click();
+    await advance(page, 1000);
+    assert.deepEqual(await track.boundingBox(), scrollingPosition, 'pause freezes the track mid-scroll');
+    await page.locator('#pause').click();
+    await advance(page, 650);
+    const afterScroll = (await state(page)).culture.current;
+    assert.equal(afterScroll.lineIndex, beforeScroll.current.lineIndex + 1);
+    assert.deepEqual(await track.boundingBox(), startPosition, 'one new row settles into the four-row window');
+    await checkPoetryWindow(page, afterScroll);
+    await page.locator('#culture').click();
+    await page.locator('#next-verse').click();
+    await page.locator('#close-culture').click();
+    assert.equal((await state(page)).culture.current.lineIndex, afterScroll.lineIndex + 1, 'the next button advances one line');
     await page.screenshot({ path: path.join(output, 'long-verse-portrait.png') });
     for (const viewport of [{ width: 1440, height: 900 }, { width: 320, height: 480 }, { width: 390, height: 844 }, { width: 800, height: 450 }]) {
       await setViewport(page, viewport);
@@ -389,7 +395,7 @@ async function download(page, selector, name) {
     const reducedBounds = await reducedVerse.boundingBox();
     await advance(reducedPage, 2000);
     assert.deepEqual(await reducedVerse.boundingBox(), reducedBounds, 'reduced motion keeps the verse stationary');
-    assert.equal(await reducedVerse.evaluate(el => getComputedStyle(el).opacity), '1', 'reduced motion skips fading');
+    assert.equal(await reducedPage.locator('#poetry-track').evaluate(el => getComputedStyle(el).transform), 'none', 'reduced motion switches rows without scrolling');
     await checkFloatingDoor(reducedPage);
     const before = await reducedPage.locator('.floating-glyph').first().getAttribute('style');
     await advance(reducedPage, 26000);
@@ -408,6 +414,6 @@ async function download(page, selector, name) {
     await relayTap(desktopPage, desktopPage.locator('#restore-glyphs')); await relayTap(desktopPage, desktopPage.locator('#confirm-glyph-restore'));
     assert.equal((await contentEntry(desktopPage, 'glyphs', firstId)).enabled, true);
     assert.deepEqual(desktop.errors, []); assert.deepEqual(desktop.external, []); await desktop.c.close();
-    console.log('Matrix Echo offline QA passed: floating verses, extensible glyph library, font coverage, notes, atomic imports, persistence, exports, desktop relay, portrait and reduced motion.');
+    console.log('Matrix Echo offline QA passed: four-row scrolling verses, extensible glyph library, font coverage, notes, atomic imports, persistence, exports, desktop relay, portrait and reduced motion.');
   } finally { await browser.close(); }
 })().catch(error => { console.error(error); process.exitCode = 1; });

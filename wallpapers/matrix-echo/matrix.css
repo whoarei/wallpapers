@@ -8,14 +8,15 @@ h1{font-size:13px;font-weight:400;letter-spacing:.35em;margin:0 0 7px;color:#acc
 .signature{position:fixed;top:44px;right:40px;font:8px/1.5 Consolas,monospace;letter-spacing:.13em;color:#557d60;pointer-events:none;transition:opacity .7s}
 .signal{display:inline-block;width:4px;height:4px;border-radius:50%;background:#8aca9a;margin:0 8px 1px 0;box-shadow:0 0 8px #60eb8a66}
 .separator{padding:0 12px;color:#365540}
-.hud{position:fixed;bottom:28px;left:40px;right:40px;display:flex;justify-content:space-between;align-items:center;gap:16px;transition:opacity .7s}
+.scene-bottom{position:fixed;z-index:3;bottom:28px;left:40px;right:40px;display:grid;gap:12px;pointer-events:none}
+.hud{display:flex;justify-content:space-between;align-items:center;gap:16px;pointer-events:auto;transition:opacity .7s}
 .hint{font-size:10px;letter-spacing:.12em;color:#71967c}
 .controls{display:flex;flex-wrap:wrap;gap:6px}
 button{min-height:34px;padding:7px 13px;border:1px solid #6b9e7726;background:#041109b8;color:#93b59d;border-radius:4px;font:11px/1.4 "Segoe UI","Microsoft YaHei",sans-serif;cursor:pointer;backdrop-filter:blur(10px)}
 button:hover{background:#173d23b8;border-color:#72b58466;color:#d0edda}
 button:focus-visible{outline:2px solid #98efb4;outline-offset:3px}
 body.idle .hud,body.idle .identity,body.idle .signature{opacity:0}
-@media(max-width:650px){.identity{top:24px;left:22px}.signature{display:none}.hud{left:20px;right:20px;bottom:20px;flex-direction:column;align-items:flex-start;gap:12px}.controls{gap:5px}button{padding:7px 10px}.hint{font-size:9px}}
+@media(max-width:650px){.identity{top:24px;left:22px}.signature{display:none}.scene-bottom{left:20px;right:20px;bottom:20px}.hud{flex-direction:column;align-items:flex-start;gap:12px}.controls{gap:5px}button{padding:7px 10px}.hint{font-size:9px}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 @font-face{font-family:MatrixSeal;src:url('fonts/Seal.woff') format('woff');font-display:swap}
 @font-face{font-family:MatrixKai;src:url('fonts/WenKai.woff') format('woff');font-display:swap}
@@ -28,34 +29,36 @@ body.idle .hud,body.idle .identity,body.idle .signature{opacity:0}
 .note-heading{display:flex;align-items:center;justify-content:space-between;gap:12px}.note-heading h2{font-size:14px;font-weight:500;margin:0;color:#d3f1dd}.note-heading button{min-width:28px;min-height:28px;padding:0;font-size:18px;background:transparent;border:0}
 .glyph-note p{margin:8px 0 0}.glyph-note .note-reading{font-size:11px;color:#86b595}
 .poetry-echo {
-  position: fixed;
-  z-index: 2;
-  top: clamp(64px, 13vh, 140px);
-  left: 50%;
-  width: max-content;
-  max-width: min(calc(100% - 36px), 48rem);
+  --poetry-row: clamp(25px, 2.35vw, 34px);
+  justify-self: end;
+  width: min(100%, clamp(224px, 29vw, 390px));
   margin: 0;
-  padding: .5em 1.2em .65em;
-  translate: -50% 0;
-  pointer-events: none;
-  background: radial-gradient(ellipse at center, #020a05ef 36%, #020a05cc 56%, #020a0500 78%);
-  text-align: center;
-  writing-mode: horizontal-tb;
-  overflow-wrap: anywhere;
-  font: clamp(18px, 2.4vw, 34px)/1.6 MatrixKai, "Microsoft YaHei", serif;
-  color: #d6f6df;
-  text-shadow: 0 1px 4px #020a05, 0 0 12px #63d88b6b;
+  padding: .2em .7em .4em;
+  border-right: 1px solid #70bd8b5c;
+  background: linear-gradient(270deg, #031009e8, #031009bc 60%, #03100922);
+  text-align: right;
+  font: clamp(16px, 1.4vw, 22px)/1.4 MatrixKai, "Microsoft YaHei", serif;
 }
-.poetry-echo blockquote { margin: 0; letter-spacing: .07em; text-wrap: pretty; }
-.poetry-echo figcaption { margin-top: .35em; font-size: clamp(11px, 1.1vw, 15px); line-height: 1.45; color: #a4cbb0; }
-@media (max-width: 650px) {
-  .poetry-echo { top: clamp(64px, 10vh, 100px); }
+.poetry-echo blockquote { margin: 0; }
+.poetry-window {
+  height: calc(4 * var(--poetry-row));
+  overflow: hidden;
+  mask-image: linear-gradient(transparent, #000 16%, #000 83%, #0009);
 }
+.poetry-line { height: var(--poetry-row); line-height: var(--poetry-row); color: #a0c4ad; white-space: pre; }
+.poetry-line:first-child { color: #779685; }
+.poetry-line.is-current { color: #e0fae8; text-shadow: 0 0 12px #6cdda572; }
+.poetry-echo figcaption { margin-top: .35em; color: #98b8a3; font: 11px/1.35 "Microsoft YaHei", sans-serif; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.poetry-transcript { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 @media (max-height: 350px) {
-  .poetry-echo { top: 52px; padding: .2em .75em .4em; font-size: clamp(12px, 6vh, 20px); line-height: 1.35; }
-  .poetry-echo figcaption { font-size: 10px; line-height: 1.3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .scene-bottom { bottom: 8px; gap: 6px; }
+  .hud { gap: 6px; }
+  .hud button { min-height: 28px; padding: 4px 8px; }
+  .poetry-echo { --poetry-row: clamp(14px, 7.1vh, 24px); font-size: clamp(11px, 5.5vh, 16px); }
+  .poetry-echo figcaption { font-size: 10px; }
 }
-.identity,.signature,.hud{z-index:3}
+@media (max-height: 220px) { .hud .hint { display: none; } }
+.identity,.signature{z-index:3}
 .culture-panel{position:fixed;right:28px;top:24px;bottom:94px;width:min(540px,calc(100% - 40px));z-index:5;overflow:auto;background:#05140ef5;border:1px solid #42684d;border-radius:12px;padding:24px;box-shadow:0 20px 80px #0009;scrollbar-color:#41654a #07170e;font-size:12px;line-height:1.7}
 .panel-heading,.library-heading{display:flex;justify-content:space-between;align-items:center;gap:12px}
 .culture-panel>.panel-heading{position:sticky;top:0;z-index:1;background:#05140e}
